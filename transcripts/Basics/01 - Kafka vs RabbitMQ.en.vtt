@@ -1,0 +1,2680 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.390 align:start position:0%
+ 
+Kafka<00:00:00.440><c> and</c><00:00:00.560><c> RabbitMQ</c><00:00:01.160><c> aren't</c>
+
+00:00:01.390 --> 00:00:01.400 align:start position:0%
+Kafka and RabbitMQ aren't
+ 
+
+00:00:01.400 --> 00:00:02.950 align:start position:0%
+Kafka and RabbitMQ aren't
+interchangeable.<00:00:02.400><c> They</c><00:00:02.480><c> solve</c><00:00:02.720><c> different</c>
+
+00:00:02.950 --> 00:00:02.960 align:start position:0%
+interchangeable. They solve different
+ 
+
+00:00:02.960 --> 00:00:04.950 align:start position:0%
+interchangeable. They solve different
+problems,<00:00:03.640><c> and</c><00:00:03.800><c> picking</c><00:00:04.080><c> the</c><00:00:04.200><c> wrong</c><00:00:04.520><c> one</c><00:00:04.760><c> can</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+problems, and picking the wrong one can
+ 
+
+00:00:04.960 --> 00:00:07.350 align:start position:0%
+problems, and picking the wrong one can
+mean<00:00:05.160><c> significant</c><00:00:05.760><c> rework</c><00:00:06.240><c> later.</c><00:00:07.000><c> But</c><00:00:07.120><c> both</c>
+
+00:00:07.350 --> 00:00:07.360 align:start position:0%
+mean significant rework later. But both
+ 
+
+00:00:07.360 --> 00:00:08.910 align:start position:0%
+mean significant rework later. But both
+exist<00:00:07.720><c> to</c><00:00:07.800><c> solve</c><00:00:08.120><c> the</c><00:00:08.240><c> same</c><00:00:08.440><c> fundamental</c>
+
+00:00:08.910 --> 00:00:08.920 align:start position:0%
+exist to solve the same fundamental
+ 
+
+00:00:08.920 --> 00:00:10.670 align:start position:0%
+exist to solve the same fundamental
+challenge,<00:00:09.360><c> though.</c><00:00:10.040><c> When</c><00:00:10.200><c> one</c><00:00:10.360><c> service</c>
+
+00:00:10.670 --> 00:00:10.680 align:start position:0%
+challenge, though. When one service
+ 
+
+00:00:10.680 --> 00:00:12.150 align:start position:0%
+challenge, though. When one service
+needs<00:00:10.800><c> to</c><00:00:10.880><c> talk</c><00:00:11.080><c> to</c><00:00:11.200><c> another,</c><00:00:11.680><c> the</c><00:00:11.800><c> simplest</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+needs to talk to another, the simplest
+ 
+
+00:00:12.160 --> 00:00:14.270 align:start position:0%
+needs to talk to another, the simplest
+option<00:00:12.560><c> is</c><00:00:12.680><c> a</c><00:00:12.720><c> direct</c><00:00:13.200><c> call.</c><00:00:13.960><c> Your</c><00:00:14.080><c> order</c>
+
+00:00:14.270 --> 00:00:14.280 align:start position:0%
+option is a direct call. Your order
+ 
+
+00:00:14.280 --> 00:00:16.030 align:start position:0%
+option is a direct call. Your order
+service<00:00:14.600><c> makes</c><00:00:14.800><c> an</c><00:00:14.920><c> HTTP</c><00:00:15.360><c> request</c><00:00:15.800><c> to</c><00:00:15.880><c> your</c>
+
+00:00:16.030 --> 00:00:16.040 align:start position:0%
+service makes an HTTP request to your
+ 
+
+00:00:16.040 --> 00:00:18.670 align:start position:0%
+service makes an HTTP request to your
+inventory<00:00:16.560><c> service,</c><00:00:17.400><c> waits</c><00:00:17.640><c> for</c><00:00:17.760><c> a</c><00:00:17.800><c> response,</c>
+
+00:00:18.670 --> 00:00:18.680 align:start position:0%
+inventory service, waits for a response,
+ 
+
+00:00:18.680 --> 00:00:20.030 align:start position:0%
+inventory service, waits for a response,
+and<00:00:18.800><c> moves</c><00:00:19.040><c> on.</c>
+
+00:00:20.030 --> 00:00:20.040 align:start position:0%
+and moves on.
+ 
+
+00:00:20.040 --> 00:00:21.630 align:start position:0%
+and moves on.
+This<00:00:20.200><c> works</c><00:00:20.440><c> great</c><00:00:20.760><c> until</c><00:00:21.000><c> that</c><00:00:21.160><c> inventory</c>
+
+00:00:21.630 --> 00:00:21.640 align:start position:0%
+This works great until that inventory
+ 
+
+00:00:21.640 --> 00:00:23.990 align:start position:0%
+This works great until that inventory
+service<00:00:22.080><c> is</c><00:00:22.280><c> slow,</c><00:00:22.840><c> or</c><00:00:23.000><c> down,</c><00:00:23.640><c> or</c><00:00:23.760><c> getting</c>
+
+00:00:23.990 --> 00:00:24.000 align:start position:0%
+service is slow, or down, or getting
+ 
+
+00:00:24.000 --> 00:00:25.870 align:start position:0%
+service is slow, or down, or getting
+hammered<00:00:24.320><c> with</c><00:00:24.440><c> traffic.</c><00:00:25.480><c> Suddenly,</c><00:00:25.760><c> your</c>
+
+00:00:25.870 --> 00:00:25.880 align:start position:0%
+hammered with traffic. Suddenly, your
+ 
+
+00:00:25.880 --> 00:00:27.710 align:start position:0%
+hammered with traffic. Suddenly, your
+order<00:00:26.120><c> service</c><00:00:26.440><c> is</c><00:00:26.600><c> just</c><00:00:26.760><c> stuck</c><00:00:27.040><c> waiting,</c>
+
+00:00:27.710 --> 00:00:27.720 align:start position:0%
+order service is just stuck waiting,
+ 
+
+00:00:27.720 --> 00:00:29.030 align:start position:0%
+order service is just stuck waiting,
+timing<00:00:28.080><c> out,</c><00:00:28.200><c> or</c><00:00:28.280><c> dropping</c><00:00:28.600><c> requests</c><00:00:28.880><c> on</c><00:00:28.960><c> the</c>
+
+00:00:29.030 --> 00:00:29.040 align:start position:0%
+timing out, or dropping requests on the
+ 
+
+00:00:29.040 --> 00:00:30.550 align:start position:0%
+timing out, or dropping requests on the
+floor<00:00:29.600><c> because</c><00:00:29.840><c> it</c><00:00:29.920><c> has</c><00:00:30.080><c> nowhere</c><00:00:30.320><c> to</c><00:00:30.400><c> put</c>
+
+00:00:30.550 --> 00:00:30.560 align:start position:0%
+floor because it has nowhere to put
+ 
+
+00:00:30.560 --> 00:00:32.190 align:start position:0%
+floor because it has nowhere to put
+them.<00:00:31.120><c> Message</c><00:00:31.360><c> queues</c><00:00:31.520><c> like</c><00:00:31.680><c> Kafka</c><00:00:32.080><c> and</c>
+
+00:00:32.190 --> 00:00:32.200 align:start position:0%
+them. Message queues like Kafka and
+ 
+
+00:00:32.200 --> 00:00:33.910 align:start position:0%
+them. Message queues like Kafka and
+RabbitMQ<00:00:32.759><c> solve</c><00:00:33.120><c> this</c><00:00:33.320><c> because</c><00:00:33.600><c> they</c><00:00:33.720><c> add</c><00:00:33.840><c> a</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+RabbitMQ solve this because they add a
+ 
+
+00:00:33.920 --> 00:00:35.870 align:start position:0%
+RabbitMQ solve this because they add a
+buffer<00:00:34.280><c> between</c><00:00:34.560><c> your</c><00:00:34.680><c> services.</c>
+
+00:00:35.870 --> 00:00:35.880 align:start position:0%
+buffer between your services.
+ 
+
+00:00:35.880 --> 00:00:37.390 align:start position:0%
+buffer between your services.
+Instead<00:00:36.120><c> of</c><00:00:36.200><c> calling</c><00:00:36.480><c> the</c><00:00:36.600><c> inventory</c><00:00:37.080><c> service</c>
+
+00:00:37.390 --> 00:00:37.400 align:start position:0%
+Instead of calling the inventory service
+ 
+
+00:00:37.400 --> 00:00:39.590 align:start position:0%
+Instead of calling the inventory service
+directly,<00:00:38.240><c> your</c><00:00:38.400><c> order</c><00:00:38.600><c> service</c><00:00:39.120><c> drops</c><00:00:39.560><c> a</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+directly, your order service drops a
+ 
+
+00:00:39.600 --> 00:00:41.190 align:start position:0%
+directly, your order service drops a
+message<00:00:39.960><c> into</c><00:00:40.200><c> a</c><00:00:40.240><c> queue,</c><00:00:40.800><c> and</c><00:00:40.920><c> then</c><00:00:41.040><c> just</c>
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+message into a queue, and then just
+ 
+
+00:00:41.200 --> 00:00:43.150 align:start position:0%
+message into a queue, and then just
+returns<00:00:41.520><c> immediately.</c><00:00:42.600><c> The</c><00:00:42.680><c> inventory</c>
+
+00:00:43.150 --> 00:00:43.160 align:start position:0%
+returns immediately. The inventory
+ 
+
+00:00:43.160 --> 00:00:44.510 align:start position:0%
+returns immediately. The inventory
+service<00:00:43.480><c> can</c><00:00:43.640><c> then</c><00:00:43.760><c> pick</c><00:00:43.960><c> up</c><00:00:44.080><c> that</c><00:00:44.240><c> message</c>
+
+00:00:44.510 --> 00:00:44.520 align:start position:0%
+service can then pick up that message
+ 
+
+00:00:44.520 --> 00:00:47.150 align:start position:0%
+service can then pick up that message
+whenever<00:00:44.760><c> it's</c><00:00:44.920><c> ready</c><00:00:45.560><c> and</c><00:00:45.680><c> process</c><00:00:46.080><c> it.</c>
+
+00:00:47.150 --> 00:00:47.160 align:start position:0%
+whenever it's ready and process it.
+ 
+
+00:00:47.160 --> 00:00:49.230 align:start position:0%
+whenever it's ready and process it.
+If<00:00:47.280><c> the</c><00:00:47.400><c> inventory</c><00:00:47.880><c> service</c><00:00:48.280><c> is</c><00:00:48.440><c> slow,</c>
+
+00:00:49.230 --> 00:00:49.240 align:start position:0%
+If the inventory service is slow,
+ 
+
+00:00:49.240 --> 00:00:51.630 align:start position:0%
+If the inventory service is slow,
+messages<00:00:49.760><c> accumulate</c><00:00:50.520><c> in</c><00:00:50.640><c> the</c><00:00:50.720><c> queue.</c>
+
+00:00:51.630 --> 00:00:51.640 align:start position:0%
+messages accumulate in the queue.
+ 
+
+00:00:51.640 --> 00:00:53.430 align:start position:0%
+messages accumulate in the queue.
+If<00:00:51.760><c> you</c><00:00:51.840><c> get</c><00:00:51.960><c> a</c><00:00:52.000><c> massive</c><00:00:52.440><c> spike</c><00:00:52.880><c> in</c><00:00:53.120><c> orders</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+If you get a massive spike in orders
+ 
+
+00:00:53.440 --> 00:00:55.350 align:start position:0%
+If you get a massive spike in orders
+during<00:00:53.600><c> a</c><00:00:53.680><c> flash</c><00:00:53.960><c> sale,</c><00:00:54.240><c> for</c><00:00:54.360><c> example,</c><00:00:55.240><c> the</c>
+
+00:00:55.350 --> 00:00:55.360 align:start position:0%
+during a flash sale, for example, the
+ 
+
+00:00:55.360 --> 00:00:56.990 align:start position:0%
+during a flash sale, for example, the
+queue<00:00:55.600><c> absorbs</c><00:00:56.000><c> all</c><00:00:56.120><c> of</c><00:00:56.200><c> that</c><00:00:56.320><c> traffic,</c><00:00:56.880><c> and</c>
+
+00:00:56.990 --> 00:00:57.000 align:start position:0%
+queue absorbs all of that traffic, and
+ 
+
+00:00:57.000 --> 00:00:58.550 align:start position:0%
+queue absorbs all of that traffic, and
+then<00:00:57.120><c> lets</c><00:00:57.320><c> your</c><00:00:57.440><c> downstream</c><00:00:58.040><c> services</c>
+
+00:00:58.550 --> 00:00:58.560 align:start position:0%
+then lets your downstream services
+ 
+
+00:00:58.560 --> 00:01:00.430 align:start position:0%
+then lets your downstream services
+process<00:00:59.080><c> it</c><00:00:59.560><c> at</c><00:00:59.720><c> whatever</c><00:01:00.000><c> pace</c><00:01:00.240><c> they</c><00:01:00.320><c> can</c>
+
+00:01:00.430 --> 00:01:00.440 align:start position:0%
+process it at whatever pace they can
+ 
+
+00:01:00.440 --> 00:01:02.750 align:start position:0%
+process it at whatever pace they can
+handle.<00:01:01.120><c> So,</c><00:01:01.240><c> Kafka</c><00:01:01.600><c> and</c><00:01:01.720><c> RabbitMQ</c><00:01:02.320><c> both</c><00:01:02.600><c> give</c>
+
+00:01:02.750 --> 00:01:02.760 align:start position:0%
+handle. So, Kafka and RabbitMQ both give
+ 
+
+00:01:02.760 --> 00:01:04.630 align:start position:0%
+handle. So, Kafka and RabbitMQ both give
+you<00:01:02.880><c> this</c><00:01:03.040><c> decoupling.</c><00:01:03.880><c> Producers,</c>
+
+00:01:04.630 --> 00:01:04.640 align:start position:0%
+you this decoupling. Producers,
+ 
+
+00:01:04.640 --> 00:01:06.510 align:start position:0%
+you this decoupling. Producers,
+consumers,<00:01:05.440><c> with</c><00:01:05.560><c> a</c><00:01:05.640><c> broker</c><00:01:06.040><c> or</c><00:01:06.120><c> a</c><00:01:06.160><c> message</c>
+
+00:01:06.510 --> 00:01:06.520 align:start position:0%
+consumers, with a broker or a message
+ 
+
+00:01:06.520 --> 00:01:08.270 align:start position:0%
+consumers, with a broker or a message
+queue<00:01:07.080><c> in</c><00:01:07.200><c> the</c><00:01:07.280><c> middle.</c><00:01:07.920><c> But</c><00:01:08.040><c> how</c><00:01:08.160><c> they</c>
+
+00:01:08.270 --> 00:01:08.280 align:start position:0%
+queue in the middle. But how they
+ 
+
+00:01:08.280 --> 00:01:09.670 align:start position:0%
+queue in the middle. But how they
+actually<00:01:08.560><c> work</c><00:01:08.800><c> under</c><00:01:08.960><c> the</c><00:01:09.080><c> hood</c><00:01:09.480><c> is</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+actually work under the hood is
+ 
+
+00:01:09.680 --> 00:01:11.430 align:start position:0%
+actually work under the hood is
+fundamentally<00:01:10.240><c> different,</c><00:01:11.000><c> and</c><00:01:11.120><c> that's</c><00:01:11.320><c> what</c>
+
+00:01:11.430 --> 00:01:11.440 align:start position:0%
+fundamentally different, and that's what
+ 
+
+00:01:11.440 --> 00:01:12.710 align:start position:0%
+fundamentally different, and that's what
+needs<00:01:11.600><c> to</c><00:01:11.720><c> end</c><00:01:11.920><c> up</c><00:01:12.120><c> driving</c><00:01:12.640><c> your</c>
+
+00:01:12.710 --> 00:01:12.720 align:start position:0%
+needs to end up driving your
+ 
+
+00:01:12.720 --> 00:01:14.430 align:start position:0%
+needs to end up driving your
+decision-making<00:01:13.480><c> when</c><00:01:13.600><c> you're</c><00:01:13.680><c> deciding</c>
+
+00:01:14.430 --> 00:01:14.440 align:start position:0%
+decision-making when you're deciding
+ 
+
+00:01:14.440 --> 00:01:16.150 align:start position:0%
+decision-making when you're deciding
+which<00:01:14.640><c> of</c><00:01:14.760><c> the</c><00:01:14.880><c> two</c><00:01:15.040><c> to</c><00:01:15.160><c> use</c><00:01:15.360><c> in</c><00:01:15.480><c> your</c><00:01:15.600><c> project.</c>
+
+00:01:16.150 --> 00:01:16.160 align:start position:0%
+which of the two to use in your project.
+ 
+
+00:01:16.160 --> 00:01:17.990 align:start position:0%
+which of the two to use in your project.
+Starting<00:01:16.440><c> with</c><00:01:16.600><c> RabbitMQ,</c>
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+Starting with RabbitMQ,
+ 
+
+00:01:18.000 --> 00:01:19.550 align:start position:0%
+Starting with RabbitMQ,
+RabbitMQ<00:01:18.520><c> is</c><00:01:18.640><c> a</c><00:01:18.680><c> traditional</c><00:01:19.240><c> message</c>
+
+00:01:19.550 --> 00:01:19.560 align:start position:0%
+RabbitMQ is a traditional message
+ 
+
+00:01:19.560 --> 00:01:21.390 align:start position:0%
+RabbitMQ is a traditional message
+broker,<00:01:20.280><c> and</c><00:01:20.400><c> it</c><00:01:20.480><c> follows</c><00:01:20.760><c> a</c><00:01:20.800><c> mental</c><00:01:21.120><c> model</c>
+
+00:01:21.390 --> 00:01:21.400 align:start position:0%
+broker, and it follows a mental model
+ 
+
+00:01:21.400 --> 00:01:22.830 align:start position:0%
+broker, and it follows a mental model
+that<00:01:21.560><c> most</c><00:01:21.800><c> developers</c><00:01:22.320><c> find</c><00:01:22.600><c> pretty</c>
+
+00:01:22.830 --> 00:01:22.840 align:start position:0%
+that most developers find pretty
+ 
+
+00:01:22.840 --> 00:01:24.270 align:start position:0%
+that most developers find pretty
+intuitive<00:01:23.320><c> if</c><00:01:23.440><c> you've</c><00:01:23.600><c> ever</c><00:01:23.840><c> used</c><00:01:24.200><c> a</c>
+
+00:01:24.270 --> 00:01:24.280 align:start position:0%
+intuitive if you've ever used a
+ 
+
+00:01:24.280 --> 00:01:26.110 align:start position:0%
+intuitive if you've ever used a
+queue-like<00:01:24.840><c> data</c><00:01:25.040><c> structure.</c>
+
+00:01:26.110 --> 00:01:26.120 align:start position:0%
+queue-like data structure.
+ 
+
+00:01:26.120 --> 00:01:28.110 align:start position:0%
+queue-like data structure.
+A<00:01:26.200><c> producer</c><00:01:26.560><c> sends</c><00:01:26.800><c> a</c><00:01:26.840><c> message</c><00:01:27.160><c> to</c><00:01:27.240><c> a</c><00:01:27.280><c> broker.</c>
+
+00:01:28.110 --> 00:01:28.120 align:start position:0%
+A producer sends a message to a broker.
+ 
+
+00:01:28.120 --> 00:01:30.070 align:start position:0%
+A producer sends a message to a broker.
+The<00:01:28.240><c> broker</c><00:01:28.600><c> looks</c><00:01:28.880><c> at</c><00:01:29.000><c> some</c><00:01:29.280><c> routing</c><00:01:29.680><c> rules</c>
+
+00:01:30.070 --> 00:01:30.080 align:start position:0%
+The broker looks at some routing rules
+ 
+
+00:01:30.080 --> 00:01:31.630 align:start position:0%
+The broker looks at some routing rules
+you've<00:01:30.240><c> configured</c><00:01:30.760><c> to</c><00:01:30.880><c> figure</c><00:01:31.200><c> out</c><00:01:31.400><c> which</c>
+
+00:01:31.630 --> 00:01:31.640 align:start position:0%
+you've configured to figure out which
+ 
+
+00:01:31.640 --> 00:01:34.110 align:start position:0%
+you've configured to figure out which
+queue<00:01:32.320><c> that</c><00:01:32.520><c> message</c><00:01:32.800><c> belongs</c><00:01:33.200><c> to,</c><00:01:33.920><c> and</c><00:01:34.000><c> then</c>
+
+00:01:34.110 --> 00:01:34.120 align:start position:0%
+queue that message belongs to, and then
+ 
+
+00:01:34.120 --> 00:01:36.030 align:start position:0%
+queue that message belongs to, and then
+a<00:01:34.160><c> consumer</c><00:01:34.680><c> pulls</c><00:01:35.200><c> the</c><00:01:35.280><c> messages</c><00:01:35.760><c> off</c><00:01:35.960><c> of</c>
+
+00:01:36.030 --> 00:01:36.040 align:start position:0%
+a consumer pulls the messages off of
+ 
+
+00:01:36.040 --> 00:01:37.150 align:start position:0%
+a consumer pulls the messages off of
+that<00:01:36.240><c> queue.</c>
+
+00:01:37.150 --> 00:01:37.160 align:start position:0%
+that queue.
+ 
+
+00:01:37.160 --> 00:01:38.710 align:start position:0%
+that queue.
+Once<00:01:37.360><c> the</c><00:01:37.440><c> consumer</c><00:01:37.920><c> acknowledges</c>
+
+00:01:38.710 --> 00:01:38.720 align:start position:0%
+Once the consumer acknowledges
+ 
+
+00:01:38.720 --> 00:01:41.230 align:start position:0%
+Once the consumer acknowledges
+successful<00:01:39.200><c> processing,</c><00:01:40.120><c> RabbitMQ</c><00:01:40.920><c> deletes</c>
+
+00:01:41.230 --> 00:01:41.240 align:start position:0%
+successful processing, RabbitMQ deletes
+ 
+
+00:01:41.240 --> 00:01:42.510 align:start position:0%
+successful processing, RabbitMQ deletes
+the<00:01:41.320><c> message.</c>
+
+00:01:42.510 --> 00:01:42.520 align:start position:0%
+the message.
+ 
+
+00:01:42.520 --> 00:01:44.870 align:start position:0%
+the message.
+The<00:01:42.600><c> broker</c><00:01:42.960><c> handles</c><00:01:43.440><c> a</c><00:01:43.480><c> lot</c><00:01:43.760><c> for</c><00:01:43.960><c> you.</c><00:01:44.680><c> It</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+The broker handles a lot for you. It
+ 
+
+00:01:44.880 --> 00:01:46.630 align:start position:0%
+The broker handles a lot for you. It
+routes<00:01:45.160><c> messages</c><00:01:45.560><c> to</c><00:01:45.640><c> the</c><00:01:45.760><c> right</c><00:01:45.960><c> queues,</c>
+
+00:01:46.630 --> 00:01:46.640 align:start position:0%
+routes messages to the right queues,
+ 
+
+00:01:46.640 --> 00:01:48.110 align:start position:0%
+routes messages to the right queues,
+tracks<00:01:47.160><c> which</c><00:01:47.440><c> messages</c><00:01:47.880><c> have</c><00:01:48.000><c> been</c>
+
+00:01:48.110 --> 00:01:48.120 align:start position:0%
+tracks which messages have been
+ 
+
+00:01:48.120 --> 00:01:50.070 align:start position:0%
+tracks which messages have been
+delivered,<00:01:48.920><c> and</c><00:01:49.040><c> then</c><00:01:49.120><c> it</c><00:01:49.280><c> retries</c><00:01:49.880><c> any</c>
+
+00:01:50.070 --> 00:01:50.080 align:start position:0%
+delivered, and then it retries any
+ 
+
+00:01:50.080 --> 00:01:51.550 align:start position:0%
+delivered, and then it retries any
+failed<00:01:50.320><c> deliveries.</c>
+
+00:01:51.550 --> 00:01:51.560 align:start position:0%
+failed deliveries.
+ 
+
+00:01:51.560 --> 00:01:53.550 align:start position:0%
+failed deliveries.
+When<00:01:51.720><c> a</c><00:01:51.760><c> message</c><00:01:52.120><c> fails</c><00:01:52.440><c> repeatedly,</c>
+
+00:01:53.550 --> 00:01:53.560 align:start position:0%
+When a message fails repeatedly,
+ 
+
+00:01:53.560 --> 00:01:55.750 align:start position:0%
+When a message fails repeatedly,
+RabbitMQ<00:01:54.360><c> moves</c><00:01:54.640><c> it</c><00:01:54.800><c> to</c><00:01:54.920><c> a</c><00:01:54.960><c> dead</c><00:01:55.200><c> letter</c><00:01:55.400><c> queue</c>
+
+00:01:55.750 --> 00:01:55.760 align:start position:0%
+RabbitMQ moves it to a dead letter queue
+ 
+
+00:01:55.760 --> 00:01:57.550 align:start position:0%
+RabbitMQ moves it to a dead letter queue
+automatically<00:01:56.640><c> so</c><00:01:56.760><c> that</c><00:01:56.880><c> you</c><00:01:57.000><c> can</c><00:01:57.120><c> debug</c><00:01:57.440><c> it</c>
+
+00:01:57.550 --> 00:01:57.560 align:start position:0%
+automatically so that you can debug it
+ 
+
+00:01:57.560 --> 00:01:59.150 align:start position:0%
+automatically so that you can debug it
+later.<00:01:58.040><c> As</c><00:01:58.160><c> the</c><00:01:58.240><c> engineer,</c><00:01:58.640><c> you</c><00:01:58.800><c> configure</c>
+
+00:01:59.150 --> 00:01:59.160 align:start position:0%
+later. As the engineer, you configure
+ 
+
+00:01:59.160 --> 00:02:00.510 align:start position:0%
+later. As the engineer, you configure
+these<00:01:59.400><c> rules,</c><00:01:59.920><c> and</c><00:02:00.000><c> then</c><00:02:00.120><c> the</c><00:02:00.200><c> broker</c>
+
+00:02:00.510 --> 00:02:00.520 align:start position:0%
+these rules, and then the broker
+ 
+
+00:02:00.520 --> 00:02:01.830 align:start position:0%
+these rules, and then the broker
+enforces<00:02:00.960><c> them.</c>
+
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+enforces them.
+ 
+
+00:02:01.840 --> 00:02:03.910 align:start position:0%
+enforces them.
+Kafka<00:02:02.160><c> doesn't</c><00:02:02.480><c> have</c><00:02:02.640><c> all</c><00:02:02.760><c> of</c><00:02:02.840><c> this</c><00:02:03.000><c> built</c><00:02:03.320><c> in.</c>
+
+00:02:03.910 --> 00:02:03.920 align:start position:0%
+Kafka doesn't have all of this built in.
+ 
+
+00:02:03.920 --> 00:02:05.510 align:start position:0%
+Kafka doesn't have all of this built in.
+If<00:02:04.080><c> you</c><00:02:04.200><c> need</c><00:02:04.400><c> dead</c><00:02:04.560><c> letter</c><00:02:04.920><c> handling</c><00:02:05.400><c> in</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+If you need dead letter handling in
+ 
+
+00:02:05.520 --> 00:02:07.950 align:start position:0%
+If you need dead letter handling in
+Kafka,<00:02:06.120><c> you</c><00:02:06.240><c> end</c><00:02:06.440><c> up</c><00:02:06.560><c> building</c><00:02:06.880><c> it</c><00:02:06.960><c> yourself.</c>
+
+00:02:07.950 --> 00:02:07.960 align:start position:0%
+Kafka, you end up building it yourself.
+ 
+
+00:02:07.960 --> 00:02:08.910 align:start position:0%
+Kafka, you end up building it yourself.
+Now,<00:02:08.000><c> from</c><00:02:08.119><c> the</c><00:02:08.200><c> perspective</c><00:02:08.759><c> of</c><00:02:08.800><c> the</c>
+
+00:02:08.910 --> 00:02:08.920 align:start position:0%
+Now, from the perspective of the
+ 
+
+00:02:08.920 --> 00:02:11.270 align:start position:0%
+Now, from the perspective of the
+consumer,<00:02:09.600><c> this</c><00:02:09.759><c> is</c><00:02:09.880><c> simple.</c><00:02:10.759><c> You</c><00:02:10.840><c> connect</c><00:02:11.200><c> or</c>
+
+00:02:11.270 --> 00:02:11.280 align:start position:0%
+consumer, this is simple. You connect or
+ 
+
+00:02:11.280 --> 00:02:13.910 align:start position:0%
+consumer, this is simple. You connect or
+subscribe<00:02:11.760><c> to</c><00:02:11.880><c> a</c><00:02:11.920><c> queue,</c><00:02:12.640><c> messages</c><00:02:13.120><c> show</c><00:02:13.400><c> up,</c>
+
+00:02:13.910 --> 00:02:13.920 align:start position:0%
+subscribe to a queue, messages show up,
+ 
+
+00:02:13.920 --> 00:02:15.510 align:start position:0%
+subscribe to a queue, messages show up,
+you<00:02:14.080><c> process</c><00:02:14.520><c> them,</c><00:02:14.880><c> and</c><00:02:15.000><c> you</c><00:02:15.080><c> send</c><00:02:15.240><c> back</c><00:02:15.440><c> an</c>
+
+00:02:15.510 --> 00:02:15.520 align:start position:0%
+you process them, and you send back an
+ 
+
+00:02:15.520 --> 00:02:17.670 align:start position:0%
+you process them, and you send back an
+acknowledgement.<00:02:16.640><c> All</c><00:02:16.800><c> of</c><00:02:16.880><c> the</c><00:02:16.959><c> complexity</c>
+
+00:02:17.670 --> 00:02:17.680 align:start position:0%
+acknowledgement. All of the complexity
+ 
+
+00:02:17.680 --> 00:02:19.270 align:start position:0%
+acknowledgement. All of the complexity
+of<00:02:17.800><c> figuring</c><00:02:18.200><c> out</c><00:02:18.400><c> where</c><00:02:18.560><c> messages</c><00:02:19.000><c> came</c>
+
+00:02:19.270 --> 00:02:19.280 align:start position:0%
+of figuring out where messages came
+ 
+
+00:02:19.280 --> 00:02:21.430 align:start position:0%
+of figuring out where messages came
+from,<00:02:20.000><c> where</c><00:02:20.200><c> they</c><00:02:20.320><c> need</c><00:02:20.520><c> to</c><00:02:20.600><c> go,</c><00:02:21.200><c> that's</c><00:02:21.360><c> the</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+from, where they need to go, that's the
+ 
+
+00:02:21.440 --> 00:02:23.630 align:start position:0%
+from, where they need to go, that's the
+broker's<00:02:21.840><c> problem,</c><00:02:22.400><c> not</c><00:02:22.600><c> the</c><00:02:22.680><c> consumers.</c>
+
+00:02:23.630 --> 00:02:23.640 align:start position:0%
+broker's problem, not the consumers.
+ 
+
+00:02:23.640 --> 00:02:25.030 align:start position:0%
+broker's problem, not the consumers.
+This<00:02:23.720><c> model</c><00:02:24.000><c> maps</c><00:02:24.280><c> really</c><00:02:24.520><c> well</c><00:02:24.760><c> to</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+This model maps really well to
+ 
+
+00:02:25.040 --> 00:02:27.590 align:start position:0%
+This model maps really well to
+task-oriented<00:02:25.920><c> workloads.</c><00:02:26.680><c> Sending</c><00:02:26.959><c> emails,</c>
+
+00:02:27.590 --> 00:02:27.600 align:start position:0%
+task-oriented workloads. Sending emails,
+ 
+
+00:02:27.600 --> 00:02:29.949 align:start position:0%
+task-oriented workloads. Sending emails,
+processing<00:02:28.000><c> payments,</c><00:02:28.600><c> resizing</c><00:02:29.040><c> messages.</c>
+
+00:02:29.949 --> 00:02:29.959 align:start position:0%
+processing payments, resizing messages.
+ 
+
+00:02:29.959 --> 00:02:31.550 align:start position:0%
+processing payments, resizing messages.
+You've<00:02:30.080><c> got</c><00:02:30.240><c> a</c><00:02:30.280><c> unit</c><00:02:30.720><c> of</c><00:02:30.880><c> work</c><00:02:31.160><c> that</c><00:02:31.280><c> needs</c><00:02:31.480><c> to</c>
+
+00:02:31.550 --> 00:02:31.560 align:start position:0%
+You've got a unit of work that needs to
+ 
+
+00:02:31.560 --> 00:02:33.350 align:start position:0%
+You've got a unit of work that needs to
+happen.<00:02:32.240><c> You</c><00:02:32.320><c> drop</c><00:02:32.560><c> it</c><00:02:32.600><c> into</c><00:02:32.760><c> a</c><00:02:32.800><c> queue,</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+happen. You drop it into a queue,
+ 
+
+00:02:33.360 --> 00:02:35.150 align:start position:0%
+happen. You drop it into a queue,
+something<00:02:33.640><c> picks</c><00:02:33.840><c> it</c><00:02:33.959><c> up</c><00:02:34.400><c> and</c><00:02:34.560><c> does</c><00:02:34.720><c> it.</c><00:02:34.959><c> As</c><00:02:35.080><c> we</c>
+
+00:02:35.150 --> 00:02:35.160 align:start position:0%
+something picks it up and does it. As we
+ 
+
+00:02:35.160 --> 00:02:36.590 align:start position:0%
+something picks it up and does it. As we
+alluded<00:02:35.480><c> to,</c><00:02:35.640><c> Kafka</c><00:02:36.000><c> works</c><00:02:36.360><c> a</c><00:02:36.400><c> little</c>
+
+00:02:36.590 --> 00:02:36.600 align:start position:0%
+alluded to, Kafka works a little
+ 
+
+00:02:36.600 --> 00:02:38.590 align:start position:0%
+alluded to, Kafka works a little
+differently.<00:02:37.600><c> Instead</c><00:02:37.880><c> of</c><00:02:37.959><c> being</c><00:02:38.120><c> a</c><00:02:38.160><c> message</c>
+
+00:02:38.590 --> 00:02:38.600 align:start position:0%
+differently. Instead of being a message
+ 
+
+00:02:38.600 --> 00:02:40.790 align:start position:0%
+differently. Instead of being a message
+broker<00:02:38.959><c> that</c><00:02:39.200><c> routes</c><00:02:39.480><c> messages</c><00:02:39.959><c> to</c><00:02:40.120><c> queues</c>
+
+00:02:40.790 --> 00:02:40.800 align:start position:0%
+broker that routes messages to queues
+ 
+
+00:02:40.800 --> 00:02:42.750 align:start position:0%
+broker that routes messages to queues
+and<00:02:40.920><c> deletes</c><00:02:41.280><c> them</c><00:02:41.440><c> when</c><00:02:41.520><c> they're</c><00:02:41.640><c> consumed,</c>
+
+00:02:42.750 --> 00:02:42.760 align:start position:0%
+and deletes them when they're consumed,
+ 
+
+00:02:42.760 --> 00:02:44.630 align:start position:0%
+and deletes them when they're consumed,
+Kafka<00:02:43.080><c> is</c><00:02:43.200><c> essentially</c><00:02:43.760><c> a</c><00:02:43.800><c> distributed</c>
+
+00:02:44.630 --> 00:02:44.640 align:start position:0%
+Kafka is essentially a distributed
+ 
+
+00:02:44.640 --> 00:02:46.470 align:start position:0%
+Kafka is essentially a distributed
+append-only<00:02:45.440><c> log.</c>
+
+00:02:46.470 --> 00:02:46.480 align:start position:0%
+append-only log.
+ 
+
+00:02:46.480 --> 00:02:48.430 align:start position:0%
+append-only log.
+When<00:02:46.560><c> a</c><00:02:46.600><c> producer</c><00:02:47.000><c> sends</c><00:02:47.240><c> a</c><00:02:47.280><c> message,</c><00:02:48.080><c> Kafka</c>
+
+00:02:48.430 --> 00:02:48.440 align:start position:0%
+When a producer sends a message, Kafka
+ 
+
+00:02:48.440 --> 00:02:50.270 align:start position:0%
+When a producer sends a message, Kafka
+appends<00:02:48.840><c> it</c><00:02:48.959><c> to</c><00:02:49.080><c> a</c><00:02:49.120><c> topic.</c>
+
+00:02:50.270 --> 00:02:50.280 align:start position:0%
+appends it to a topic.
+ 
+
+00:02:50.280 --> 00:02:51.949 align:start position:0%
+appends it to a topic.
+That<00:02:50.400><c> message</c><00:02:50.760><c> doesn't</c><00:02:51.120><c> disappear</c><00:02:51.800><c> when</c>
+
+00:02:51.949 --> 00:02:51.959 align:start position:0%
+That message doesn't disappear when
+ 
+
+00:02:51.959 --> 00:02:54.030 align:start position:0%
+That message doesn't disappear when
+someone<00:02:52.240><c> reads</c><00:02:52.480><c> it.</c><00:02:53.080><c> It</c><00:02:53.240><c> just</c><00:02:53.480><c> sits</c><00:02:53.720><c> there</c><00:02:53.920><c> in</c>
+
+00:02:54.030 --> 00:02:54.040 align:start position:0%
+someone reads it. It just sits there in
+ 
+
+00:02:54.040 --> 00:02:55.790 align:start position:0%
+someone reads it. It just sits there in
+the<00:02:54.160><c> log.</c><00:02:54.880><c> And</c><00:02:55.000><c> depending</c><00:02:55.440><c> on</c><00:02:55.520><c> how</c><00:02:55.640><c> you've</c>
+
+00:02:55.790 --> 00:02:55.800 align:start position:0%
+the log. And depending on how you've
+ 
+
+00:02:55.800 --> 00:02:57.350 align:start position:0%
+the log. And depending on how you've
+configured<00:02:56.240><c> your</c><00:02:56.360><c> attention,</c><00:02:56.840><c> it</c><00:02:56.959><c> may</c><00:02:57.120><c> stay</c>
+
+00:02:57.350 --> 00:02:57.360 align:start position:0%
+configured your attention, it may stay
+ 
+
+00:02:57.360 --> 00:02:59.550 align:start position:0%
+configured your attention, it may stay
+there<00:02:57.560><c> for</c><00:02:57.760><c> hours,</c><00:02:58.280><c> days,</c><00:02:58.720><c> weeks,</c><00:02:59.120><c> or</c><00:02:59.320><c> even</c>
+
+00:02:59.550 --> 00:02:59.560 align:start position:0%
+there for hours, days, weeks, or even
+ 
+
+00:02:59.560 --> 00:03:01.229 align:start position:0%
+there for hours, days, weeks, or even
+indefinitely.
+
+00:03:01.229 --> 00:03:01.239 align:start position:0%
+indefinitely.
+ 
+
+00:03:01.239 --> 00:03:03.390 align:start position:0%
+indefinitely.
+Consumers<00:03:01.720><c> then</c><00:03:01.880><c> read</c><00:03:02.080><c> from</c><00:03:02.239><c> this</c><00:03:02.400><c> log,</c><00:03:03.280><c> but</c>
+
+00:03:03.390 --> 00:03:03.400 align:start position:0%
+Consumers then read from this log, but
+ 
+
+00:03:03.400 --> 00:03:05.110 align:start position:0%
+Consumers then read from this log, but
+they're<00:03:03.640><c> responsible</c><00:03:04.320><c> for</c><00:03:04.440><c> tracking</c><00:03:04.880><c> their</c>
+
+00:03:05.110 --> 00:03:05.120 align:start position:0%
+they're responsible for tracking their
+ 
+
+00:03:05.120 --> 00:03:06.509 align:start position:0%
+they're responsible for tracking their
+own<00:03:05.320><c> position.</c>
+
+00:03:06.509 --> 00:03:06.519 align:start position:0%
+own position.
+ 
+
+00:03:06.519 --> 00:03:09.390 align:start position:0%
+own position.
+Kafka<00:03:06.840><c> calls</c><00:03:07.120><c> this</c><00:03:07.280><c> position</c><00:03:08.040><c> an</c><00:03:08.200><c> offset.</c>
+
+00:03:09.390 --> 00:03:09.400 align:start position:0%
+Kafka calls this position an offset.
+ 
+
+00:03:09.400 --> 00:03:11.150 align:start position:0%
+Kafka calls this position an offset.
+So,<00:03:09.440><c> when</c><00:03:09.560><c> your</c><00:03:09.680><c> consumer</c><00:03:10.200><c> reads</c><00:03:10.480><c> a</c><00:03:10.560><c> message</c>
+
+00:03:11.150 --> 00:03:11.160 align:start position:0%
+So, when your consumer reads a message
+ 
+
+00:03:11.160 --> 00:03:14.070 align:start position:0%
+So, when your consumer reads a message
+number<00:03:11.440><c> 500,</c><00:03:12.400><c> your</c><00:03:12.480><c> consumer</c><00:03:12.880><c> then</c><00:03:13.080><c> remembers</c>
+
+00:03:14.070 --> 00:03:14.080 align:start position:0%
+number 500, your consumer then remembers
+ 
+
+00:03:14.080 --> 00:03:16.350 align:start position:0%
+number 500, your consumer then remembers
+that<00:03:14.200><c> it's</c><00:03:14.320><c> at</c><00:03:14.480><c> position</c><00:03:14.959><c> 500.</c><00:03:16.160><c> If</c><00:03:16.239><c> your</c>
+
+00:03:16.350 --> 00:03:16.360 align:start position:0%
+that it's at position 500. If your
+ 
+
+00:03:16.360 --> 00:03:18.390 align:start position:0%
+that it's at position 500. If your
+consumer<00:03:16.720><c> crashes</c><00:03:17.120><c> or</c><00:03:17.239><c> restarts,</c><00:03:17.840><c> it</c><00:03:18.040><c> looks</c>
+
+00:03:18.390 --> 00:03:18.400 align:start position:0%
+consumer crashes or restarts, it looks
+ 
+
+00:03:18.400 --> 00:03:20.310 align:start position:0%
+consumer crashes or restarts, it looks
+up<00:03:18.640><c> where</c><00:03:18.800><c> it</c><00:03:18.920><c> left</c><00:03:19.200><c> off,</c><00:03:19.800><c> and</c><00:03:19.920><c> it</c><00:03:20.000><c> picks</c><00:03:20.200><c> up</c>
+
+00:03:20.310 --> 00:03:20.320 align:start position:0%
+up where it left off, and it picks up
+ 
+
+00:03:20.320 --> 00:03:21.470 align:start position:0%
+up where it left off, and it picks up
+from<00:03:20.480><c> there.</c>
+
+00:03:21.470 --> 00:03:21.480 align:start position:0%
+from there.
+ 
+
+00:03:21.480 --> 00:03:23.030 align:start position:0%
+from there.
+And<00:03:21.519><c> if</c><00:03:21.640><c> you</c><00:03:21.720><c> need</c><00:03:21.959><c> to</c><00:03:22.120><c> reread</c><00:03:22.480><c> a</c><00:03:22.519><c> message</c><00:03:22.880><c> from</c>
+
+00:03:23.030 --> 00:03:23.040 align:start position:0%
+And if you need to reread a message from
+ 
+
+00:03:23.040 --> 00:03:25.229 align:start position:0%
+And if you need to reread a message from
+an<00:03:23.160><c> hour</c><00:03:23.360><c> ago,</c><00:03:23.920><c> you</c><00:03:24.040><c> just</c><00:03:24.400><c> rewind</c><00:03:25.000><c> at</c><00:03:25.080><c> that</c>
+
+00:03:25.229 --> 00:03:25.239 align:start position:0%
+an hour ago, you just rewind at that
+ 
+
+00:03:25.239 --> 00:03:27.630 align:start position:0%
+an hour ago, you just rewind at that
+offset.<00:03:25.959><c> Totally</c><00:03:26.239><c> possible.</c>
+
+00:03:27.630 --> 00:03:27.640 align:start position:0%
+offset. Totally possible.
+ 
+
+00:03:27.640 --> 00:03:29.030 align:start position:0%
+offset. Totally possible.
+That<00:03:27.760><c> changes</c><00:03:28.040><c> the</c><00:03:28.120><c> model.</c>
+
+00:03:29.030 --> 00:03:29.040 align:start position:0%
+That changes the model.
+ 
+
+00:03:29.040 --> 00:03:31.030 align:start position:0%
+That changes the model.
+RabbitMQ<00:03:29.640><c> is</c><00:03:29.800><c> a</c><00:03:29.880><c> smart</c><00:03:30.200><c> broker</c><00:03:30.560><c> with</c><00:03:30.760><c> simple</c>
+
+00:03:31.030 --> 00:03:31.040 align:start position:0%
+RabbitMQ is a smart broker with simple
+ 
+
+00:03:31.040 --> 00:03:33.150 align:start position:0%
+RabbitMQ is a smart broker with simple
+consumers.<00:03:32.000><c> It</c><00:03:32.160><c> handles</c><00:03:32.480><c> routing,</c><00:03:32.880><c> tracks</c>
+
+00:03:33.150 --> 00:03:33.160 align:start position:0%
+consumers. It handles routing, tracks
+ 
+
+00:03:33.160 --> 00:03:35.310 align:start position:0%
+consumers. It handles routing, tracks
+deliveries,<00:03:33.800><c> manages</c><00:03:34.200><c> retries.</c>
+
+00:03:35.310 --> 00:03:35.320 align:start position:0%
+deliveries, manages retries.
+ 
+
+00:03:35.320 --> 00:03:37.310 align:start position:0%
+deliveries, manages retries.
+Kafka<00:03:35.680><c> is</c><00:03:35.840><c> a</c><00:03:35.920><c> simple</c><00:03:36.320><c> broker</c><00:03:36.920><c> with</c><00:03:37.080><c> smart</c>
+
+00:03:37.310 --> 00:03:37.320 align:start position:0%
+Kafka is a simple broker with smart
+ 
+
+00:03:37.320 --> 00:03:39.910 align:start position:0%
+Kafka is a simple broker with smart
+consumers.<00:03:38.280><c> It</c><00:03:38.400><c> stores</c><00:03:38.680><c> messages</c><00:03:39.120><c> in</c><00:03:39.239><c> order.</c>
+
+00:03:39.910 --> 00:03:39.920 align:start position:0%
+consumers. It stores messages in order.
+ 
+
+00:03:39.920 --> 00:03:42.949 align:start position:0%
+consumers. It stores messages in order.
+Consumers<00:03:40.400><c> decide</c><00:03:41.040><c> what</c><00:03:41.239><c> to</c><00:03:41.400><c> read</c><00:03:41.760><c> and</c><00:03:41.920><c> when.</c>
+
+00:03:42.949 --> 00:03:42.959 align:start position:0%
+Consumers decide what to read and when.
+ 
+
+00:03:42.959 --> 00:03:45.590 align:start position:0%
+Consumers decide what to read and when.
+Kafka<00:03:43.239><c> does</c><00:03:43.560><c> track</c><00:03:43.959><c> consumer</c><00:03:44.440><c> group</c><00:03:44.720><c> offsets,</c>
+
+00:03:45.590 --> 00:03:45.600 align:start position:0%
+Kafka does track consumer group offsets,
+ 
+
+00:03:45.600 --> 00:03:48.430 align:start position:0%
+Kafka does track consumer group offsets,
+but<00:03:45.720><c> the</c><00:03:45.800><c> consumer</c><00:03:46.320><c> drives</c><00:03:46.720><c> the</c><00:03:46.840><c> logic</c><00:03:47.200><c> still.</c>
+
+00:03:48.430 --> 00:03:48.440 align:start position:0%
+but the consumer drives the logic still.
+ 
+
+00:03:48.440 --> 00:03:50.390 align:start position:0%
+but the consumer drives the logic still.
+The<00:03:48.519><c> benefit</c><00:03:48.959><c> is</c><00:03:49.080><c> that</c><00:03:49.239><c> messages</c><00:03:50.080><c> become</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+The benefit is that messages become
+ 
+
+00:03:50.400 --> 00:03:52.870 align:start position:0%
+The benefit is that messages become
+durable<00:03:50.920><c> and</c><00:03:51.080><c> replayable</c><00:03:51.680><c> in</c><00:03:51.800><c> Kafka.</c>
+
+00:03:52.870 --> 00:03:52.880 align:start position:0%
+durable and replayable in Kafka.
+ 
+
+00:03:52.880 --> 00:03:54.430 align:start position:0%
+durable and replayable in Kafka.
+So,<00:03:53.000><c> multiple</c><00:03:53.400><c> consumer</c><00:03:53.800><c> groups</c><00:03:54.040><c> can</c><00:03:54.200><c> read</c>
+
+00:03:54.430 --> 00:03:54.440 align:start position:0%
+So, multiple consumer groups can read
+ 
+
+00:03:54.440 --> 00:03:56.710 align:start position:0%
+So, multiple consumer groups can read
+the<00:03:54.560><c> same</c><00:03:54.960><c> stream</c><00:03:55.320><c> independently.</c><00:03:56.560><c> Your</c>
+
+00:03:56.710 --> 00:03:56.720 align:start position:0%
+the same stream independently. Your
+ 
+
+00:03:56.720 --> 00:03:58.510 align:start position:0%
+the same stream independently. Your
+analytics<00:03:57.280><c> team</c><00:03:57.520><c> can</c><00:03:57.720><c> process</c><00:03:58.120><c> the</c><00:03:58.240><c> same</c>
+
+00:03:58.510 --> 00:03:58.520 align:start position:0%
+analytics team can process the same
+ 
+
+00:03:58.520 --> 00:04:00.350 align:start position:0%
+analytics team can process the same
+events<00:03:59.080><c> as</c><00:03:59.240><c> your</c><00:03:59.400><c> real-time</c><00:03:59.760><c> notification</c>
+
+00:04:00.350 --> 00:04:00.360 align:start position:0%
+events as your real-time notification
+ 
+
+00:04:00.360 --> 00:04:02.630 align:start position:0%
+events as your real-time notification
+system.<00:04:01.360><c> A</c><00:04:01.400><c> new</c><00:04:01.600><c> service</c><00:04:01.960><c> that</c><00:04:02.080><c> comes</c><00:04:02.280><c> online</c>
+
+00:04:02.630 --> 00:04:02.640 align:start position:0%
+system. A new service that comes online
+ 
+
+00:04:02.640 --> 00:04:04.590 align:start position:0%
+system. A new service that comes online
+6<00:04:02.880><c> months</c><00:04:03.080><c> from</c><00:04:03.200><c> now</c><00:04:03.680><c> can</c><00:04:03.840><c> read</c><00:04:04.000><c> the</c><00:04:04.080><c> entire</c>
+
+00:04:04.590 --> 00:04:04.600 align:start position:0%
+6 months from now can read the entire
+ 
+
+00:04:04.600 --> 00:04:06.550 align:start position:0%
+6 months from now can read the entire
+history<00:04:05.000><c> from</c><00:04:05.200><c> day</c><00:04:05.400><c> one</c><00:04:05.960><c> and</c><00:04:06.160><c> do</c><00:04:06.280><c> whatever</c>
+
+00:04:06.550 --> 00:04:06.560 align:start position:0%
+history from day one and do whatever
+ 
+
+00:04:06.560 --> 00:04:08.070 align:start position:0%
+history from day one and do whatever
+backfilling<00:04:07.040><c> it</c><00:04:07.080><c> needs</c><00:04:07.320><c> to</c><00:04:07.400><c> do.</c><00:04:07.800><c> So,</c><00:04:07.920><c> let's</c>
+
+00:04:08.070 --> 00:04:08.080 align:start position:0%
+backfilling it needs to do. So, let's
+ 
+
+00:04:08.080 --> 00:04:09.949 align:start position:0%
+backfilling it needs to do. So, let's
+emphasize<00:04:08.480><c> that</c><00:04:08.600><c> distinction</c><00:04:09.000><c> again.</c>
+
+00:04:09.949 --> 00:04:09.959 align:start position:0%
+emphasize that distinction again.
+ 
+
+00:04:09.959 --> 00:04:12.430 align:start position:0%
+emphasize that distinction again.
+RabbitMQ<00:04:10.600><c> is</c><00:04:10.720><c> a</c><00:04:10.760><c> message</c><00:04:11.120><c> broker.</c><00:04:11.840><c> Messages</c>
+
+00:04:12.430 --> 00:04:12.440 align:start position:0%
+RabbitMQ is a message broker. Messages
+ 
+
+00:04:12.440 --> 00:04:13.949 align:start position:0%
+RabbitMQ is a message broker. Messages
+just<00:04:12.680><c> flow</c><00:04:12.920><c> through</c><00:04:13.160><c> it.</c>
+
+00:04:13.949 --> 00:04:13.959 align:start position:0%
+just flow through it.
+ 
+
+00:04:13.959 --> 00:04:17.670 align:start position:0%
+just flow through it.
+Kafka<00:04:14.520><c> is</c><00:04:14.680><c> a</c><00:04:14.760><c> log.</c><00:04:15.520><c> Messages</c><00:04:16.320><c> live</c><00:04:16.680><c> in</c><00:04:16.840><c> it.</c>
+
+00:04:17.670 --> 00:04:17.680 align:start position:0%
+Kafka is a log. Messages live in it.
+ 
+
+00:04:17.680 --> 00:04:19.550 align:start position:0%
+Kafka is a log. Messages live in it.
+In<00:04:17.799><c> RabbitMQ,</c><00:04:18.400><c> once</c><00:04:18.600><c> a</c><00:04:18.640><c> message</c><00:04:18.959><c> is</c><00:04:19.079><c> consumed,</c>
+
+00:04:19.550 --> 00:04:19.560 align:start position:0%
+In RabbitMQ, once a message is consumed,
+ 
+
+00:04:19.560 --> 00:04:22.350 align:start position:0%
+In RabbitMQ, once a message is consumed,
+it's<00:04:19.720><c> gone.</c><00:04:20.600><c> In</c><00:04:20.680><c> Kafka,</c><00:04:21.079><c> messages</c><00:04:21.519><c> persist</c>
+
+00:04:22.350 --> 00:04:22.360 align:start position:0%
+it's gone. In Kafka, messages persist
+ 
+
+00:04:22.360 --> 00:04:23.909 align:start position:0%
+it's gone. In Kafka, messages persist
+and<00:04:22.520><c> any</c><00:04:22.680><c> number</c><00:04:22.960><c> of</c><00:04:23.080><c> consumers</c><00:04:23.560><c> can</c><00:04:23.720><c> read</c>
+
+00:04:23.909 --> 00:04:23.919 align:start position:0%
+and any number of consumers can read
+ 
+
+00:04:23.919 --> 00:04:25.990 align:start position:0%
+and any number of consumers can read
+them<00:04:24.480><c> at</c><00:04:24.680><c> any</c><00:04:24.840><c> time</c><00:04:25.400><c> from</c><00:04:25.560><c> any</c><00:04:25.760><c> point</c><00:04:25.960><c> in</c>
+
+00:04:25.990 --> 00:04:26.000 align:start position:0%
+them at any time from any point in
+ 
+
+00:04:26.000 --> 00:04:26.990 align:start position:0%
+them at any time from any point in
+history.
+
+00:04:26.990 --> 00:04:27.000 align:start position:0%
+history.
+ 
+
+00:04:27.000 --> 00:04:29.270 align:start position:0%
+history.
+This<00:04:27.200><c> one</c><00:04:27.480><c> difference</c><00:04:27.880><c> drives</c><00:04:28.400><c> almost</c><00:04:28.960><c> every</c>
+
+00:04:29.270 --> 00:04:29.280 align:start position:0%
+This one difference drives almost every
+ 
+
+00:04:29.280 --> 00:04:30.630 align:start position:0%
+This one difference drives almost every
+other<00:04:29.520><c> trade-off.</c>
+
+00:04:30.630 --> 00:04:30.640 align:start position:0%
+other trade-off.
+ 
+
+00:04:30.640 --> 00:04:32.150 align:start position:0%
+other trade-off.
+Because<00:04:30.840><c> they</c><00:04:30.960><c> solve</c><00:04:31.200><c> different</c><00:04:31.440><c> problems,</c>
+
+00:04:32.150 --> 00:04:32.160 align:start position:0%
+Because they solve different problems,
+ 
+
+00:04:32.160 --> 00:04:34.230 align:start position:0%
+Because they solve different problems,
+many<00:04:32.440><c> teams</c><00:04:32.800><c> end</c><00:04:32.919><c> up</c><00:04:33.040><c> actually</c><00:04:33.360><c> using</c><00:04:33.560><c> both.</c>
+
+00:04:34.230 --> 00:04:34.240 align:start position:0%
+many teams end up actually using both.
+ 
+
+00:04:34.240 --> 00:04:36.670 align:start position:0%
+many teams end up actually using both.
+Kafka<00:04:34.720><c> as</c><00:04:34.919><c> their</c><00:04:35.080><c> durable</c><00:04:35.520><c> event</c><00:04:35.919><c> stream</c><00:04:36.520><c> that</c>
+
+00:04:36.670 --> 00:04:36.680 align:start position:0%
+Kafka as their durable event stream that
+ 
+
+00:04:36.680 --> 00:04:39.190 align:start position:0%
+Kafka as their durable event stream that
+multiple<00:04:37.120><c> systems</c><00:04:37.560><c> read</c><00:04:37.760><c> from,</c><00:04:38.320><c> RabbitMQ</c><00:04:39.040><c> as</c>
+
+00:04:39.190 --> 00:04:39.200 align:start position:0%
+multiple systems read from, RabbitMQ as
+ 
+
+00:04:39.200 --> 00:04:41.830 align:start position:0%
+multiple systems read from, RabbitMQ as
+the<00:04:39.320><c> task</c><00:04:39.720><c> queue</c><00:04:40.120><c> that</c><00:04:40.280><c> processes</c><00:04:41.120><c> the</c><00:04:41.240><c> work</c>
+
+00:04:41.830 --> 00:04:41.840 align:start position:0%
+the task queue that processes the work
+ 
+
+00:04:41.840 --> 00:04:43.150 align:start position:0%
+the task queue that processes the work
+that<00:04:41.960><c> those</c><00:04:42.160><c> events</c><00:04:42.480><c> trigger.</c><00:04:42.880><c> Now</c><00:04:43.000><c> that</c><00:04:43.120><c> you</c>
+
+00:04:43.150 --> 00:04:43.160 align:start position:0%
+that those events trigger. Now that you
+ 
+
+00:04:43.160 --> 00:04:44.590 align:start position:0%
+that those events trigger. Now that you
+understand<00:04:43.480><c> the</c><00:04:43.520><c> basic</c><00:04:43.840><c> models,</c><00:04:44.440><c> here</c><00:04:44.560><c> are</c>
+
+00:04:44.590 --> 00:04:44.600 align:start position:0%
+understand the basic models, here are
+ 
+
+00:04:44.600 --> 00:04:45.950 align:start position:0%
+understand the basic models, here are
+the<00:04:44.680><c> specific</c><00:04:45.040><c> technical</c><00:04:45.320><c> differences</c><00:04:45.800><c> that</c>
+
+00:04:45.950 --> 00:04:45.960 align:start position:0%
+the specific technical differences that
+ 
+
+00:04:45.960 --> 00:04:47.550 align:start position:0%
+the specific technical differences that
+should<00:04:46.160><c> drive</c><00:04:46.400><c> your</c><00:04:46.480><c> decision.</c>
+
+00:04:47.550 --> 00:04:47.560 align:start position:0%
+should drive your decision.
+ 
+
+00:04:47.560 --> 00:04:49.390 align:start position:0%
+should drive your decision.
+Starting<00:04:47.800><c> with</c><00:04:47.960><c> ordering</c><00:04:48.280><c> guarantees.</c>
+
+00:04:49.390 --> 00:04:49.400 align:start position:0%
+Starting with ordering guarantees.
+ 
+
+00:04:49.400 --> 00:04:51.350 align:start position:0%
+Starting with ordering guarantees.
+Both<00:04:49.560><c> systems</c><00:04:50.240><c> preserve</c><00:04:50.600><c> order,</c><00:04:51.200><c> but</c>
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+Both systems preserve order, but
+ 
+
+00:04:51.360 --> 00:04:53.310 align:start position:0%
+Both systems preserve order, but
+differently.<00:04:52.320><c> RabbitMQ</c><00:04:52.919><c> queues</c><00:04:53.200><c> are</c>
+
+00:04:53.310 --> 00:04:53.320 align:start position:0%
+differently. RabbitMQ queues are
+ 
+
+00:04:53.320 --> 00:04:55.350 align:start position:0%
+differently. RabbitMQ queues are
+strictly<00:04:53.680><c> ordered,</c><00:04:54.400><c> meaning</c><00:04:54.640><c> messages</c><00:04:55.040><c> come</c>
+
+00:04:55.350 --> 00:04:55.360 align:start position:0%
+strictly ordered, meaning messages come
+ 
+
+00:04:55.360 --> 00:04:57.350 align:start position:0%
+strictly ordered, meaning messages come
+out<00:04:55.680><c> in</c><00:04:55.760><c> the</c><00:04:55.880><c> order</c><00:04:56.120><c> that</c><00:04:56.240><c> they</c><00:04:56.360><c> went</c><00:04:56.640><c> in.</c><00:04:57.320><c> So,</c>
+
+00:04:57.350 --> 00:04:57.360 align:start position:0%
+out in the order that they went in. So,
+ 
+
+00:04:57.360 --> 00:04:58.990 align:start position:0%
+out in the order that they went in. So,
+if<00:04:57.480><c> you</c><00:04:57.560><c> had</c><00:04:57.720><c> just</c><00:04:57.880><c> a</c><00:04:57.960><c> single</c><00:04:58.320><c> consumer,</c><00:04:58.840><c> then</c>
+
+00:04:58.990 --> 00:04:59.000 align:start position:0%
+if you had just a single consumer, then
+ 
+
+00:04:59.000 --> 00:05:01.110 align:start position:0%
+if you had just a single consumer, then
+you<00:04:59.160><c> are</c><00:04:59.280><c> guaranteed</c><00:04:59.760><c> perfect</c><00:05:00.120><c> ordering.</c><00:05:01.040><c> But</c>
+
+00:05:01.110 --> 00:05:01.120 align:start position:0%
+you are guaranteed perfect ordering. But
+ 
+
+00:05:01.120 --> 00:05:02.790 align:start position:0%
+you are guaranteed perfect ordering. But
+with<00:05:01.280><c> multiple</c><00:05:01.720><c> consumers</c><00:05:02.240><c> pulling</c><00:05:02.560><c> from</c><00:05:02.720><c> the</c>
+
+00:05:02.790 --> 00:05:02.800 align:start position:0%
+with multiple consumers pulling from the
+ 
+
+00:05:02.800 --> 00:05:04.470 align:start position:0%
+with multiple consumers pulling from the
+queue<00:05:02.960><c> at</c><00:05:03.080><c> the</c><00:05:03.160><c> same</c><00:05:03.400><c> time,</c><00:05:04.120><c> they</c><00:05:04.240><c> each</c>
+
+00:05:04.470 --> 00:05:04.480 align:start position:0%
+queue at the same time, they each
+ 
+
+00:05:04.480 --> 00:05:07.030 align:start position:0%
+queue at the same time, they each
+process<00:05:04.960><c> in</c><00:05:05.120><c> parallel.</c><00:05:06.000><c> So,</c><00:05:06.120><c> you</c><00:05:06.280><c> could</c><00:05:06.720><c> trade</c>
+
+00:05:07.030 --> 00:05:07.040 align:start position:0%
+process in parallel. So, you could trade
+ 
+
+00:05:07.040 --> 00:05:09.710 align:start position:0%
+process in parallel. So, you could trade
+off<00:05:07.200><c> that</c><00:05:07.400><c> ordering</c><00:05:08.040><c> for</c><00:05:08.160><c> throughput.</c>
+
+00:05:09.710 --> 00:05:09.720 align:start position:0%
+off that ordering for throughput.
+ 
+
+00:05:09.720 --> 00:05:11.430 align:start position:0%
+off that ordering for throughput.
+Kafka,<00:05:10.000><c> on</c><00:05:10.080><c> the</c><00:05:10.160><c> other</c><00:05:10.280><c> hand,</c><00:05:10.480><c> splits</c><00:05:11.000><c> each</c>
+
+00:05:11.430 --> 00:05:11.440 align:start position:0%
+Kafka, on the other hand, splits each
+ 
+
+00:05:11.440 --> 00:05:13.670 align:start position:0%
+Kafka, on the other hand, splits each
+topic<00:05:12.080><c> into</c><00:05:12.360><c> partitions.</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+topic into partitions.
+ 
+
+00:05:13.680 --> 00:05:15.830 align:start position:0%
+topic into partitions.
+So,<00:05:13.840><c> order</c><00:05:14.120><c> is</c><00:05:14.240><c> guaranteed</c><00:05:14.919><c> only</c><00:05:15.240><c> within</c><00:05:15.760><c> a</c>
+
+00:05:15.830 --> 00:05:15.840 align:start position:0%
+So, order is guaranteed only within a
+ 
+
+00:05:15.840 --> 00:05:18.710 align:start position:0%
+So, order is guaranteed only within a
+partition,<00:05:16.720><c> but</c><00:05:16.840><c> not</c><00:05:17.000><c> across</c><00:05:17.400><c> partitions.</c>
+
+00:05:18.710 --> 00:05:18.720 align:start position:0%
+partition, but not across partitions.
+ 
+
+00:05:18.720 --> 00:05:20.350 align:start position:0%
+partition, but not across partitions.
+You<00:05:18.840><c> control</c><00:05:19.240><c> which</c><00:05:19.400><c> partition</c><00:05:19.919><c> a</c><00:05:20.000><c> message</c>
+
+00:05:20.350 --> 00:05:20.360 align:start position:0%
+You control which partition a message
+ 
+
+00:05:20.360 --> 00:05:23.030 align:start position:0%
+You control which partition a message
+goes<00:05:20.680><c> to</c><00:05:21.200><c> by</c><00:05:21.400><c> its</c><00:05:21.600><c> partition</c><00:05:22.040><c> key.</c>
+
+00:05:23.030 --> 00:05:23.040 align:start position:0%
+goes to by its partition key.
+ 
+
+00:05:23.040 --> 00:05:26.150 align:start position:0%
+goes to by its partition key.
+All<00:05:23.320><c> orders</c><00:05:23.760><c> for</c><00:05:23.880><c> consumer</c><00:05:24.360><c> 12345</c><00:05:25.800><c> go</c><00:05:25.960><c> to</c><00:05:26.080><c> the</c>
+
+00:05:26.150 --> 00:05:26.160 align:start position:0%
+All orders for consumer 12345 go to the
+ 
+
+00:05:26.160 --> 00:05:28.190 align:start position:0%
+All orders for consumer 12345 go to the
+same<00:05:26.360><c> partition</c><00:05:27.320><c> and</c><00:05:27.440><c> get</c><00:05:27.600><c> processed</c><00:05:28.080><c> in</c>
+
+00:05:28.190 --> 00:05:28.200 align:start position:0%
+same partition and get processed in
+ 
+
+00:05:28.200 --> 00:05:31.670 align:start position:0%
+same partition and get processed in
+order.<00:05:29.000><c> Customer</c><00:05:29.360><c> 67890's</c><00:05:30.680><c> orders</c><00:05:31.280><c> may</c><00:05:31.440><c> go</c><00:05:31.560><c> to</c>
+
+00:05:31.670 --> 00:05:31.680 align:start position:0%
+order. Customer 67890's orders may go to
+ 
+
+00:05:31.680 --> 00:05:33.230 align:start position:0%
+order. Customer 67890's orders may go to
+a<00:05:31.720><c> different</c><00:05:32.040><c> partition.</c>
+
+00:05:33.230 --> 00:05:33.240 align:start position:0%
+a different partition.
+ 
+
+00:05:33.240 --> 00:05:34.870 align:start position:0%
+a different partition.
+So,<00:05:33.400><c> each</c><00:05:33.600><c> consumer's</c><00:05:34.040><c> orders</c><00:05:34.320><c> stay</c><00:05:34.680><c> in</c>
+
+00:05:34.870 --> 00:05:34.880 align:start position:0%
+So, each consumer's orders stay in
+ 
+
+00:05:34.880 --> 00:05:36.870 align:start position:0%
+So, each consumer's orders stay in
+sequence,<00:05:35.680><c> but</c><00:05:35.840><c> there</c><00:05:35.960><c> is</c><00:05:36.120><c> no</c><00:05:36.320><c> global</c>
+
+00:05:36.870 --> 00:05:36.880 align:start position:0%
+sequence, but there is no global
+ 
+
+00:05:36.880 --> 00:05:38.350 align:start position:0%
+sequence, but there is no global
+ordering.
+
+00:05:38.350 --> 00:05:38.360 align:start position:0%
+ordering.
+ 
+
+00:05:38.360 --> 00:05:39.870 align:start position:0%
+ordering.
+The<00:05:38.440><c> trade-off</c><00:05:38.760><c> is</c><00:05:38.840><c> that</c><00:05:38.960><c> RabbitMQ</c><00:05:39.520><c> gives</c><00:05:39.760><c> you</c>
+
+00:05:39.870 --> 00:05:39.880 align:start position:0%
+The trade-off is that RabbitMQ gives you
+ 
+
+00:05:39.880 --> 00:05:41.950 align:start position:0%
+The trade-off is that RabbitMQ gives you
+global<00:05:40.240><c> ordering</c><00:05:40.520><c> with</c><00:05:40.640><c> a</c><00:05:40.680><c> single</c><00:05:41.000><c> consumer.</c>
+
+00:05:41.950 --> 00:05:41.960 align:start position:0%
+global ordering with a single consumer.
+ 
+
+00:05:41.960 --> 00:05:44.510 align:start position:0%
+global ordering with a single consumer.
+Kafka<00:05:42.280><c> gives</c><00:05:42.520><c> you</c><00:05:42.680><c> per</c><00:05:43.080><c> entity</c><00:05:43.640><c> ordering</c><00:05:44.360><c> with</c>
+
+00:05:44.510 --> 00:05:44.520 align:start position:0%
+Kafka gives you per entity ordering with
+ 
+
+00:05:44.520 --> 00:05:46.870 align:start position:0%
+Kafka gives you per entity ordering with
+parallelism.<00:05:45.720><c> Pick</c><00:05:46.200><c> based</c><00:05:46.400><c> on</c><00:05:46.480><c> which</c><00:05:46.640><c> one</c><00:05:46.800><c> you</c>
+
+00:05:46.870 --> 00:05:46.880 align:start position:0%
+parallelism. Pick based on which one you
+ 
+
+00:05:46.880 --> 00:05:48.430 align:start position:0%
+parallelism. Pick based on which one you
+need.<00:05:47.240><c> This</c><00:05:47.560><c> decision</c><00:05:47.960><c> then</c><00:05:48.160><c> has</c><00:05:48.360><c> a</c>
+
+00:05:48.430 --> 00:05:48.440 align:start position:0%
+need. This decision then has a
+ 
+
+00:05:48.440 --> 00:05:50.710 align:start position:0%
+need. This decision then has a
+consequence<00:05:48.960><c> on</c><00:05:49.080><c> throughput</c><00:05:49.520><c> and</c><00:05:49.640><c> latency.</c>
+
+00:05:50.710 --> 00:05:50.720 align:start position:0%
+consequence on throughput and latency.
+ 
+
+00:05:50.720 --> 00:05:53.750 align:start position:0%
+consequence on throughput and latency.
+RabbitMQ<00:05:51.280><c> handles</c><00:05:51.640><c> about</c><00:05:52.040><c> 4,000</c><00:05:52.880><c> to</c><00:05:53.040><c> 10,000</c>
+
+00:05:53.750 --> 00:05:53.760 align:start position:0%
+RabbitMQ handles about 4,000 to 10,000
+ 
+
+00:05:53.760 --> 00:05:55.270 align:start position:0%
+RabbitMQ handles about 4,000 to 10,000
+messages<00:05:54.200><c> per</c><00:05:54.320><c> second.</c><00:05:54.680><c> Of</c><00:05:54.760><c> course,</c><00:05:55.000><c> this</c><00:05:55.160><c> is</c>
+
+00:05:55.270 --> 00:05:55.280 align:start position:0%
+messages per second. Of course, this is
+ 
+
+00:05:55.280 --> 00:05:57.710 align:start position:0%
+messages per second. Of course, this is
+dependent<00:05:55.840><c> on</c><00:05:56.000><c> message</c><00:05:56.280><c> size</c><00:05:56.560><c> and</c><00:05:56.680><c> hardware.</c>
+
+00:05:57.710 --> 00:05:57.720 align:start position:0%
+dependent on message size and hardware.
+ 
+
+00:05:57.720 --> 00:06:00.150 align:start position:0%
+dependent on message size and hardware.
+But<00:05:57.840><c> the</c><00:05:57.920><c> latency</c><00:05:58.320><c> sits</c><00:05:58.600><c> at</c><00:05:58.680><c> around</c><00:05:59.040><c> 1</c><00:05:59.400><c> to</c><00:05:59.560><c> 5</c>
+
+00:06:00.150 --> 00:06:00.160 align:start position:0%
+But the latency sits at around 1 to 5
+ 
+
+00:06:00.160 --> 00:06:02.750 align:start position:0%
+But the latency sits at around 1 to 5
+milliseconds<00:06:00.880><c> for</c><00:06:01.080><c> low-volume</c><00:06:01.640><c> workloads.</c>
+
+00:06:02.750 --> 00:06:02.760 align:start position:0%
+milliseconds for low-volume workloads.
+ 
+
+00:06:02.760 --> 00:06:03.910 align:start position:0%
+milliseconds for low-volume workloads.
+That's<00:06:02.880><c> because</c><00:06:03.120><c> the</c><00:06:03.200><c> broker</c><00:06:03.560><c> pushes</c>
+
+00:06:03.910 --> 00:06:03.920 align:start position:0%
+That's because the broker pushes
+ 
+
+00:06:03.920 --> 00:06:06.110 align:start position:0%
+That's because the broker pushes
+messages<00:06:04.360><c> to</c><00:06:04.480><c> consumers</c><00:06:04.960><c> automatically,</c><00:06:06.000><c> but</c>
+
+00:06:06.110 --> 00:06:06.120 align:start position:0%
+messages to consumers automatically, but
+ 
+
+00:06:06.120 --> 00:06:08.110 align:start position:0%
+messages to consumers automatically, but
+the<00:06:06.200><c> broker's</c><00:06:06.680><c> also</c><00:06:07.040><c> doing</c><00:06:07.280><c> a</c><00:06:07.320><c> lot</c><00:06:07.520><c> of</c><00:06:07.600><c> work.</c>
+
+00:06:08.110 --> 00:06:08.120 align:start position:0%
+the broker's also doing a lot of work.
+ 
+
+00:06:08.120 --> 00:06:09.390 align:start position:0%
+the broker's also doing a lot of work.
+Tracking<00:06:08.480><c> delivery</c><00:06:08.800><c> state,</c><00:06:09.040><c> managing</c>
+
+00:06:09.390 --> 00:06:09.400 align:start position:0%
+Tracking delivery state, managing
+ 
+
+00:06:09.400 --> 00:06:10.630 align:start position:0%
+Tracking delivery state, managing
+acknowledgements,<00:06:09.960><c> handling</c><00:06:10.360><c> routing</c>
+
+00:06:10.630 --> 00:06:10.640 align:start position:0%
+acknowledgements, handling routing
+ 
+
+00:06:10.640 --> 00:06:11.990 align:start position:0%
+acknowledgements, handling routing
+decisions,<00:06:11.080><c> all</c><00:06:11.200><c> of</c><00:06:11.280><c> that</c><00:06:11.480><c> per</c><00:06:11.640><c> message</c>
+
+00:06:11.990 --> 00:06:12.000 align:start position:0%
+decisions, all of that per message
+ 
+
+00:06:12.000 --> 00:06:14.390 align:start position:0%
+decisions, all of that per message
+overhead<00:06:12.600><c> ends</c><00:06:12.800><c> up</c><00:06:12.960><c> adding</c><00:06:13.280><c> up,</c><00:06:13.920><c> and</c><00:06:14.080><c> as</c><00:06:14.280><c> it</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+overhead ends up adding up, and as it
+ 
+
+00:06:14.400 --> 00:06:17.270 align:start position:0%
+overhead ends up adding up, and as it
+increases,<00:06:15.240><c> throughput</c><00:06:15.600><c> decreases.</c>
+
+00:06:17.270 --> 00:06:17.280 align:start position:0%
+increases, throughput decreases.
+ 
+
+00:06:17.280 --> 00:06:19.110 align:start position:0%
+increases, throughput decreases.
+Kafka<00:06:17.600><c> handles</c><00:06:18.000><c> over</c><00:06:18.200><c> a</c><00:06:18.280><c> million</c><00:06:18.720><c> messages</c>
+
+00:06:19.110 --> 00:06:19.120 align:start position:0%
+Kafka handles over a million messages
+ 
+
+00:06:19.120 --> 00:06:21.750 align:start position:0%
+Kafka handles over a million messages
+per<00:06:19.240><c> second,</c><00:06:19.880><c> roughly</c><00:06:20.160><c> 100</c><00:06:20.640><c> times</c><00:06:20.960><c> more.</c>
+
+00:06:21.750 --> 00:06:21.760 align:start position:0%
+per second, roughly 100 times more.
+ 
+
+00:06:21.760 --> 00:06:24.150 align:start position:0%
+per second, roughly 100 times more.
+Latency<00:06:22.120><c> is</c><00:06:22.280><c> higher</c><00:06:22.720><c> at</c><00:06:22.880><c> baseline,</c><00:06:23.520><c> typically</c>
+
+00:06:24.150 --> 00:06:24.160 align:start position:0%
+Latency is higher at baseline, typically
+ 
+
+00:06:24.160 --> 00:06:26.630 align:start position:0%
+Latency is higher at baseline, typically
+5<00:06:24.560><c> to</c><00:06:24.680><c> 50</c><00:06:24.960><c> milliseconds,</c><00:06:25.880><c> because</c><00:06:26.120><c> consumers</c>
+
+00:06:26.630 --> 00:06:26.640 align:start position:0%
+5 to 50 milliseconds, because consumers
+ 
+
+00:06:26.640 --> 00:06:28.630 align:start position:0%
+5 to 50 milliseconds, because consumers
+pull<00:06:26.840><c> messages</c><00:06:27.280><c> in</c><00:06:27.440><c> batches,</c><00:06:28.280><c> rather</c><00:06:28.520><c> than</c>
+
+00:06:28.630 --> 00:06:28.640 align:start position:0%
+pull messages in batches, rather than
+ 
+
+00:06:28.640 --> 00:06:30.630 align:start position:0%
+pull messages in batches, rather than
+receiving<00:06:29.000><c> them</c><00:06:29.120><c> immediately.</c>
+
+00:06:30.630 --> 00:06:30.640 align:start position:0%
+receiving them immediately.
+ 
+
+00:06:30.640 --> 00:06:32.030 align:start position:0%
+receiving them immediately.
+The<00:06:30.680><c> broker</c><00:06:31.000><c> does</c><00:06:31.160><c> far</c><00:06:31.360><c> less</c><00:06:31.560><c> work</c><00:06:31.880><c> per</c>
+
+00:06:32.030 --> 00:06:32.040 align:start position:0%
+The broker does far less work per
+ 
+
+00:06:32.040 --> 00:06:34.710 align:start position:0%
+The broker does far less work per
+message.<00:06:32.960><c> It</c><00:06:33.040><c> appends</c><00:06:33.480><c> to</c><00:06:33.560><c> a</c><00:06:33.640><c> sequential</c><00:06:34.120><c> log,</c>
+
+00:06:34.710 --> 00:06:34.720 align:start position:0%
+message. It appends to a sequential log,
+ 
+
+00:06:34.720 --> 00:06:36.150 align:start position:0%
+message. It appends to a sequential log,
+and<00:06:34.840><c> then</c><00:06:34.960><c> lets</c><00:06:35.160><c> consumers</c><00:06:35.680><c> track</c><00:06:35.919><c> their</c><00:06:36.040><c> own</c>
+
+00:06:36.150 --> 00:06:36.160 align:start position:0%
+and then lets consumers track their own
+ 
+
+00:06:36.160 --> 00:06:37.230 align:start position:0%
+and then lets consumers track their own
+position.
+
+00:06:37.230 --> 00:06:37.240 align:start position:0%
+position.
+ 
+
+00:06:37.240 --> 00:06:38.390 align:start position:0%
+position.
+And<00:06:37.280><c> so,</c><00:06:37.440><c> under</c><00:06:37.680><c> heavy</c><00:06:37.960><c> load,</c><00:06:38.280><c> that</c>
+
+00:06:38.390 --> 00:06:38.400 align:start position:0%
+And so, under heavy load, that
+ 
+
+00:06:38.400 --> 00:06:40.590 align:start position:0%
+And so, under heavy load, that
+simplicity<00:06:38.880><c> really</c><00:06:39.080><c> pays</c><00:06:39.400><c> off.</c><00:06:40.240><c> All</c><00:06:40.400><c> that</c><00:06:40.520><c> it</c>
+
+00:06:40.590 --> 00:06:40.600 align:start position:0%
+simplicity really pays off. All that it
+ 
+
+00:06:40.600 --> 00:06:43.070 align:start position:0%
+simplicity really pays off. All that it
+needs<00:06:40.760><c> to</c><00:06:40.880><c> do</c><00:06:41.400><c> is</c><00:06:41.520><c> append</c><00:06:41.800><c> to</c><00:06:41.919><c> a</c><00:06:41.960><c> log,</c><00:06:42.760><c> and</c><00:06:42.880><c> thus</c>
+
+00:06:43.070 --> 00:06:43.080 align:start position:0%
+needs to do is append to a log, and thus
+ 
+
+00:06:43.080 --> 00:06:45.550 align:start position:0%
+needs to do is append to a log, and thus
+latency<00:06:43.560><c> can</c><00:06:43.720><c> stay</c><00:06:43.919><c> consistent</c><00:06:45.040><c> even</c><00:06:45.360><c> as</c><00:06:45.480><c> the</c>
+
+00:06:45.550 --> 00:06:45.560 align:start position:0%
+latency can stay consistent even as the
+ 
+
+00:06:45.560 --> 00:06:46.990 align:start position:0%
+latency can stay consistent even as the
+volume<00:06:45.880><c> grows.</c><00:06:46.360><c> What</c><00:06:46.480><c> about</c><00:06:46.680><c> delivery</c>
+
+00:06:46.990 --> 00:06:47.000 align:start position:0%
+volume grows. What about delivery
+ 
+
+00:06:47.000 --> 00:06:48.390 align:start position:0%
+volume grows. What about delivery
+guarantees,<00:06:47.720><c> which</c><00:06:47.840><c> is</c><00:06:47.919><c> a</c><00:06:48.000><c> really,</c><00:06:48.240><c> really</c>
+
+00:06:48.390 --> 00:06:48.400 align:start position:0%
+guarantees, which is a really, really
+ 
+
+00:06:48.400 --> 00:06:49.909 align:start position:0%
+guarantees, which is a really, really
+important<00:06:48.760><c> topic</c><00:06:49.120><c> when</c><00:06:49.240><c> it</c><00:06:49.320><c> comes</c><00:06:49.520><c> to</c><00:06:49.600><c> message</c>
+
+00:06:49.909 --> 00:06:49.919 align:start position:0%
+important topic when it comes to message
+ 
+
+00:06:49.919 --> 00:06:51.030 align:start position:0%
+important topic when it comes to message
+queues?
+
+00:06:51.030 --> 00:06:51.040 align:start position:0%
+queues?
+ 
+
+00:06:51.040 --> 00:06:53.230 align:start position:0%
+queues?
+What<00:06:51.200><c> happens</c><00:06:51.680><c> when</c><00:06:51.840><c> a</c><00:06:51.919><c> consumer</c><00:06:52.520><c> fails</c><00:06:53.160><c> to</c>
+
+00:06:53.230 --> 00:06:53.240 align:start position:0%
+What happens when a consumer fails to
+ 
+
+00:06:53.240 --> 00:06:54.670 align:start position:0%
+What happens when a consumer fails to
+process<00:06:53.600><c> a</c><00:06:53.640><c> message?</c>
+
+00:06:54.670 --> 00:06:54.680 align:start position:0%
+process a message?
+ 
+
+00:06:54.680 --> 00:06:56.110 align:start position:0%
+process a message?
+You<00:06:54.720><c> have</c><00:06:54.840><c> two</c><00:06:54.960><c> options.</c><00:06:55.720><c> You</c><00:06:55.800><c> could</c><00:06:55.960><c> lose</c>
+
+00:06:56.110 --> 00:06:56.120 align:start position:0%
+You have two options. You could lose
+ 
+
+00:06:56.120 --> 00:06:57.830 align:start position:0%
+You have two options. You could lose
+that<00:06:56.280><c> message,</c><00:06:57.080><c> or</c><00:06:57.240><c> you</c><00:06:57.360><c> could</c><00:06:57.480><c> deliver</c><00:06:57.760><c> it</c>
+
+00:06:57.830 --> 00:06:57.840 align:start position:0%
+that message, or you could deliver it
+ 
+
+00:06:57.840 --> 00:06:59.510 align:start position:0%
+that message, or you could deliver it
+again<00:06:58.080><c> to</c><00:06:58.160><c> another</c><00:06:58.400><c> consumer</c><00:06:59.000><c> and</c><00:06:59.200><c> risk</c>
+
+00:06:59.510 --> 00:06:59.520 align:start position:0%
+again to another consumer and risk
+ 
+
+00:06:59.520 --> 00:07:01.310 align:start position:0%
+again to another consumer and risk
+duplicating<00:07:00.040><c> the</c><00:07:00.120><c> work.</c>
+
+00:07:01.310 --> 00:07:01.320 align:start position:0%
+duplicating the work.
+ 
+
+00:07:01.320 --> 00:07:03.590 align:start position:0%
+duplicating the work.
+At<00:07:01.520><c> most</c><00:07:01.840><c> once</c><00:07:02.080><c> delivery</c><00:07:02.840><c> means</c><00:07:03.360><c> that</c><00:07:03.480><c> you</c>
+
+00:07:03.590 --> 00:07:03.600 align:start position:0%
+At most once delivery means that you
+ 
+
+00:07:03.600 --> 00:07:05.750 align:start position:0%
+At most once delivery means that you
+might<00:07:03.800><c> lose</c><00:07:03.960><c> messages.</c><00:07:04.880><c> The</c><00:07:04.960><c> broker</c><00:07:05.360><c> sends</c>
+
+00:07:05.750 --> 00:07:05.760 align:start position:0%
+might lose messages. The broker sends
+ 
+
+00:07:05.760 --> 00:07:07.870 align:start position:0%
+might lose messages. The broker sends
+once<00:07:06.320><c> and</c><00:07:06.440><c> it</c><00:07:06.520><c> doesn't</c><00:07:06.800><c> retry.</c>
+
+00:07:07.870 --> 00:07:07.880 align:start position:0%
+once and it doesn't retry.
+ 
+
+00:07:07.880 --> 00:07:09.750 align:start position:0%
+once and it doesn't retry.
+This<00:07:07.960><c> is</c><00:07:08.040><c> really</c><00:07:08.200><c> fast,</c><00:07:09.160><c> but</c><00:07:09.320><c> if</c><00:07:09.480><c> something</c>
+
+00:07:09.750 --> 00:07:09.760 align:start position:0%
+This is really fast, but if something
+ 
+
+00:07:09.760 --> 00:07:12.550 align:start position:0%
+This is really fast, but if something
+goes<00:07:10.000><c> wrong,</c><00:07:10.560><c> the</c><00:07:10.640><c> message</c><00:07:10.919><c> is</c><00:07:11.040><c> gone</c><00:07:11.240><c> forever.</c>
+
+00:07:12.550 --> 00:07:12.560 align:start position:0%
+goes wrong, the message is gone forever.
+ 
+
+00:07:12.560 --> 00:07:14.430 align:start position:0%
+goes wrong, the message is gone forever.
+At<00:07:12.760><c> least</c><00:07:13.160><c> once</c><00:07:13.560><c> means</c><00:07:13.840><c> that</c><00:07:13.960><c> you</c><00:07:14.080><c> might</c><00:07:14.280><c> get</c>
+
+00:07:14.430 --> 00:07:14.440 align:start position:0%
+At least once means that you might get
+ 
+
+00:07:14.440 --> 00:07:16.950 align:start position:0%
+At least once means that you might get
+duplicates.<00:07:15.520><c> The</c><00:07:15.640><c> broker</c><00:07:16.000><c> will</c><00:07:16.160><c> just</c><00:07:16.400><c> retry</c>
+
+00:07:16.950 --> 00:07:16.960 align:start position:0%
+duplicates. The broker will just retry
+ 
+
+00:07:16.960 --> 00:07:18.390 align:start position:0%
+duplicates. The broker will just retry
+until<00:07:17.360><c> it</c><00:07:17.440><c> gets</c><00:07:17.600><c> an</c><00:07:17.680><c> acknowledgement</c><00:07:18.240><c> from</c><00:07:18.360><c> a</c>
+
+00:07:18.390 --> 00:07:18.400 align:start position:0%
+until it gets an acknowledgement from a
+ 
+
+00:07:18.400 --> 00:07:20.950 align:start position:0%
+until it gets an acknowledgement from a
+consumer.<00:07:19.440><c> This</c><00:07:19.600><c> way</c><00:07:19.720><c> you</c><00:07:19.800><c> get</c><00:07:19.919><c> no</c><00:07:20.040><c> data</c><00:07:20.280><c> loss,</c>
+
+00:07:20.950 --> 00:07:20.960 align:start position:0%
+consumer. This way you get no data loss,
+ 
+
+00:07:20.960 --> 00:07:22.990 align:start position:0%
+consumer. This way you get no data loss,
+but<00:07:21.080><c> your</c><00:07:21.200><c> consumers</c><00:07:21.720><c> could</c><00:07:22.200><c> end</c><00:07:22.400><c> up</c><00:07:22.520><c> seeing</c>
+
+00:07:22.990 --> 00:07:23.000 align:start position:0%
+but your consumers could end up seeing
+ 
+
+00:07:23.000 --> 00:07:24.710 align:start position:0%
+but your consumers could end up seeing
+that<00:07:23.160><c> message</c><00:07:23.480><c> twice</c><00:07:23.800><c> and</c><00:07:23.919><c> thus</c><00:07:24.160><c> processing</c>
+
+00:07:24.710 --> 00:07:24.720 align:start position:0%
+that message twice and thus processing
+ 
+
+00:07:24.720 --> 00:07:26.270 align:start position:0%
+that message twice and thus processing
+it<00:07:24.760><c> twice.</c>
+
+00:07:26.270 --> 00:07:26.280 align:start position:0%
+it twice.
+ 
+
+00:07:26.280 --> 00:07:28.909 align:start position:0%
+it twice.
+Both<00:07:26.440><c> RabbitMQ</c><00:07:27.040><c> and</c><00:07:27.160><c> Kafka</c><00:07:27.720><c> support</c><00:07:28.240><c> at</c><00:07:28.480><c> least</c>
+
+00:07:28.909 --> 00:07:28.919 align:start position:0%
+Both RabbitMQ and Kafka support at least
+ 
+
+00:07:28.919 --> 00:07:30.870 align:start position:0%
+Both RabbitMQ and Kafka support at least
+once,<00:07:29.640><c> which</c><00:07:29.760><c> is</c><00:07:29.880><c> what</c><00:07:30.000><c> most</c><00:07:30.280><c> applications</c>
+
+00:07:30.870 --> 00:07:30.880 align:start position:0%
+once, which is what most applications
+ 
+
+00:07:30.880 --> 00:07:33.030 align:start position:0%
+once, which is what most applications
+need<00:07:31.160><c> and</c><00:07:31.280><c> is</c><00:07:31.400><c> the</c><00:07:31.520><c> industry</c><00:07:31.919><c> standard.</c><00:07:32.680><c> Kafka</c>
+
+00:07:33.030 --> 00:07:33.040 align:start position:0%
+need and is the industry standard. Kafka
+ 
+
+00:07:33.040 --> 00:07:35.870 align:start position:0%
+need and is the industry standard. Kafka
+does<00:07:33.440><c> also</c><00:07:33.760><c> support</c><00:07:34.400><c> exactly</c><00:07:35.000><c> once,</c><00:07:35.600><c> which</c><00:07:35.760><c> is</c>
+
+00:07:35.870 --> 00:07:35.880 align:start position:0%
+does also support exactly once, which is
+ 
+
+00:07:35.880 --> 00:07:37.750 align:start position:0%
+does also support exactly once, which is
+the<00:07:36.000><c> holy</c><00:07:36.280><c> grail,</c><00:07:36.720><c> where</c><00:07:36.919><c> each</c><00:07:37.120><c> message</c><00:07:37.480><c> is</c>
+
+00:07:37.750 --> 00:07:37.760 align:start position:0%
+the holy grail, where each message is
+ 
+
+00:07:37.760 --> 00:07:40.630 align:start position:0%
+the holy grail, where each message is
+passed<00:07:38.240><c> and</c><00:07:38.400><c> processed</c><00:07:38.960><c> exactly</c><00:07:39.480><c> one</c><00:07:39.640><c> time.</c>
+
+00:07:40.630 --> 00:07:40.640 align:start position:0%
+passed and processed exactly one time.
+ 
+
+00:07:40.640 --> 00:07:41.630 align:start position:0%
+passed and processed exactly one time.
+But<00:07:40.680><c> it's</c><00:07:40.800><c> much</c><00:07:41.000><c> more</c><00:07:41.120><c> limited</c><00:07:41.440><c> than</c><00:07:41.560><c> it</c>
+
+00:07:41.630 --> 00:07:41.640 align:start position:0%
+But it's much more limited than it
+ 
+
+00:07:41.640 --> 00:07:43.110 align:start position:0%
+But it's much more limited than it
+sounds,<00:07:42.000><c> So,</c><00:07:42.120><c> be</c><00:07:42.240><c> cautious</c><00:07:42.720><c> if</c><00:07:42.840><c> anybody</c>
+
+00:07:43.110 --> 00:07:43.120 align:start position:0%
+sounds, So, be cautious if anybody
+ 
+
+00:07:43.120 --> 00:07:44.630 align:start position:0%
+sounds, So, be cautious if anybody
+recommends<00:07:43.560><c> this.</c>
+
+00:07:44.630 --> 00:07:44.640 align:start position:0%
+recommends this.
+ 
+
+00:07:44.640 --> 00:07:47.310 align:start position:0%
+recommends this.
+It<00:07:44.760><c> only</c><00:07:44.960><c> works</c><00:07:45.560><c> when</c><00:07:45.760><c> both</c><00:07:46.120><c> input</c><00:07:46.520><c> and</c><00:07:46.680><c> output</c>
+
+00:07:47.310 --> 00:07:47.320 align:start position:0%
+It only works when both input and output
+ 
+
+00:07:47.320 --> 00:07:49.430 align:start position:0%
+It only works when both input and output
+are<00:07:47.440><c> Kafka</c><00:07:47.760><c> topics</c><00:07:48.600><c> within</c><00:07:48.800><c> the</c><00:07:48.920><c> exact</c><00:07:49.280><c> same</c>
+
+00:07:49.430 --> 00:07:49.440 align:start position:0%
+are Kafka topics within the exact same
+ 
+
+00:07:49.440 --> 00:07:52.470 align:start position:0%
+are Kafka topics within the exact same
+Kafka<00:07:49.760><c> cluster</c><00:07:50.680><c> under</c><00:07:50.960><c> Kafka</c><00:07:51.280><c> transactions.</c>
+
+00:07:52.470 --> 00:07:52.480 align:start position:0%
+Kafka cluster under Kafka transactions.
+ 
+
+00:07:52.480 --> 00:07:53.350 align:start position:0%
+Kafka cluster under Kafka transactions.
+So,<00:07:52.560><c> the</c><00:07:52.640><c> moment</c><00:07:52.880><c> you</c><00:07:52.920><c> need</c><00:07:53.040><c> to</c><00:07:53.080><c> write</c><00:07:53.240><c> to</c><00:07:53.320><c> a</c>
+
+00:07:53.350 --> 00:07:53.360 align:start position:0%
+So, the moment you need to write to a
+ 
+
+00:07:53.360 --> 00:07:55.230 align:start position:0%
+So, the moment you need to write to a
+database,<00:07:53.880><c> call</c><00:07:54.040><c> on</c><00:07:54.120><c> an</c><00:07:54.160><c> external</c><00:07:54.520><c> API,</c><00:07:55.080><c> or</c>
+
+00:07:55.230 --> 00:07:55.240 align:start position:0%
+database, call on an external API, or
+ 
+
+00:07:55.240 --> 00:07:57.470 align:start position:0%
+database, call on an external API, or
+cross<00:07:55.760><c> cluster</c><00:07:56.160><c> boundaries,</c><00:07:57.000><c> you're</c><00:07:57.120><c> back</c><00:07:57.360><c> to</c>
+
+00:07:57.470 --> 00:07:57.480 align:start position:0%
+cross cluster boundaries, you're back to
+ 
+
+00:07:57.480 --> 00:08:00.150 align:start position:0%
+cross cluster boundaries, you're back to
+at<00:07:57.640><c> least</c><00:07:58.120><c> once.</c><00:07:58.920><c> In</c><00:07:59.040><c> practice,</c><00:07:59.880><c> most</c>
+
+00:08:00.150 --> 00:08:00.160 align:start position:0%
+at least once. In practice, most
+ 
+
+00:08:00.160 --> 00:08:02.070 align:start position:0%
+at least once. In practice, most
+applications<00:08:00.760><c> still</c><00:08:01.000><c> need</c><00:08:01.400><c> item</c><00:08:01.680><c> potent</c>
+
+00:08:02.070 --> 00:08:02.080 align:start position:0%
+applications still need item potent
+ 
+
+00:08:02.080 --> 00:08:04.030 align:start position:0%
+applications still need item potent
+consumers.<00:08:03.040><c> So,</c><00:08:03.200><c> don't</c><00:08:03.440><c> end</c><00:08:03.600><c> up</c><00:08:03.720><c> picking</c>
+
+00:08:04.030 --> 00:08:04.040 align:start position:0%
+consumers. So, don't end up picking
+ 
+
+00:08:04.040 --> 00:08:05.870 align:start position:0%
+consumers. So, don't end up picking
+Kafka<00:08:04.480><c> just</c><00:08:04.760><c> because</c><00:08:05.040><c> you</c><00:08:05.160><c> heard</c><00:08:05.360><c> it</c><00:08:05.440><c> supports</c>
+
+00:08:05.870 --> 00:08:05.880 align:start position:0%
+Kafka just because you heard it supports
+ 
+
+00:08:05.880 --> 00:08:08.870 align:start position:0%
+Kafka just because you heard it supports
+exactly<00:08:06.440><c> once.</c><00:08:07.200><c> The</c><00:08:07.320><c> reality</c><00:08:07.800><c> is</c><00:08:08.440><c> it's</c><00:08:08.600><c> a</c><00:08:08.640><c> lot</c>
+
+00:08:08.870 --> 00:08:08.880 align:start position:0%
+exactly once. The reality is it's a lot
+ 
+
+00:08:08.880 --> 00:08:10.670 align:start position:0%
+exactly once. The reality is it's a lot
+more<00:08:09.040><c> nuanced</c><00:08:09.400><c> than</c><00:08:09.560><c> that,</c><00:08:10.080><c> and</c><00:08:10.200><c> for</c><00:08:10.320><c> your</c><00:08:10.520><c> use</c>
+
+00:08:10.670 --> 00:08:10.680 align:start position:0%
+more nuanced than that, and for your use
+ 
+
+00:08:10.680 --> 00:08:13.070 align:start position:0%
+more nuanced than that, and for your use
+case,<00:08:11.120><c> it</c><00:08:11.240><c> probably</c><00:08:11.600><c> doesn't.</c><00:08:12.280><c> RabbitMQ</c><00:08:12.960><c> is</c>
+
+00:08:13.070 --> 00:08:13.080 align:start position:0%
+case, it probably doesn't. RabbitMQ is
+ 
+
+00:08:13.080 --> 00:08:14.710 align:start position:0%
+case, it probably doesn't. RabbitMQ is
+much<00:08:13.280><c> simpler</c><00:08:13.560><c> to</c><00:08:13.680><c> run.</c><00:08:14.280><c> It's</c><00:08:14.440><c> a</c><00:08:14.480><c> single</c>
+
+00:08:14.710 --> 00:08:14.720 align:start position:0%
+much simpler to run. It's a single
+ 
+
+00:08:14.720 --> 00:08:16.670 align:start position:0%
+much simpler to run. It's a single
+binary.<00:08:15.480><c> It's</c><00:08:15.640><c> straightforward</c><00:08:16.200><c> clustering.</c>
+
+00:08:16.670 --> 00:08:16.680 align:start position:0%
+binary. It's straightforward clustering.
+ 
+
+00:08:16.680 --> 00:08:18.750 align:start position:0%
+binary. It's straightforward clustering.
+It<00:08:16.760><c> has</c><00:08:16.919><c> built-in</c><00:08:17.320><c> management</c><00:08:17.760><c> UI.</c><00:08:18.560><c> So,</c><00:08:18.680><c> if</c>
+
+00:08:18.750 --> 00:08:18.760 align:start position:0%
+It has built-in management UI. So, if
+ 
+
+00:08:18.760 --> 00:08:20.270 align:start position:0%
+It has built-in management UI. So, if
+you're<00:08:18.880><c> a</c><00:08:18.919><c> small</c><00:08:19.240><c> team</c><00:08:19.640><c> running</c><00:08:19.840><c> just</c><00:08:20.040><c> a</c><00:08:20.080><c> few</c>
+
+00:08:20.270 --> 00:08:20.280 align:start position:0%
+you're a small team running just a few
+ 
+
+00:08:20.280 --> 00:08:22.550 align:start position:0%
+you're a small team running just a few
+queues,<00:08:20.960><c> it's</c><00:08:21.080><c> really</c><00:08:21.280><c> approachable.</c>
+
+00:08:22.550 --> 00:08:22.560 align:start position:0%
+queues, it's really approachable.
+ 
+
+00:08:22.560 --> 00:08:24.310 align:start position:0%
+queues, it's really approachable.
+Kafka<00:08:22.960><c> is,</c><00:08:23.240><c> of</c><00:08:23.360><c> course,</c><00:08:23.560><c> harder.</c>
+
+00:08:24.310 --> 00:08:24.320 align:start position:0%
+Kafka is, of course, harder.
+ 
+
+00:08:24.320 --> 00:08:26.230 align:start position:0%
+Kafka is, of course, harder.
+Historically,<00:08:24.880><c> you</c><00:08:25.000><c> needed</c><00:08:25.400><c> Zookeeper</c><00:08:26.040><c> as</c><00:08:26.200><c> a</c>
+
+00:08:26.230 --> 00:08:26.240 align:start position:0%
+Historically, you needed Zookeeper as a
+ 
+
+00:08:26.240 --> 00:08:27.750 align:start position:0%
+Historically, you needed Zookeeper as a
+separate<00:08:26.560><c> coordination</c><00:08:27.040><c> service.</c><00:08:27.440><c> Newer</c>
+
+00:08:27.750 --> 00:08:27.760 align:start position:0%
+separate coordination service. Newer
+ 
+
+00:08:27.760 --> 00:08:30.230 align:start position:0%
+separate coordination service. Newer
+versions<00:08:28.240><c> don't</c><00:08:28.520><c> use</c><00:08:28.680><c> that,</c><00:08:28.919><c> they</c><00:08:29.040><c> use</c><00:08:29.280><c> Raft,</c>
+
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+versions don't use that, they use Raft,
+ 
+
+00:08:30.240 --> 00:08:31.430 align:start position:0%
+versions don't use that, they use Raft,
+uh<00:08:30.360><c> which</c><00:08:30.520><c> eliminates</c><00:08:30.960><c> the</c><00:08:31.080><c> need</c><00:08:31.280><c> for</c>
+
+00:08:31.430 --> 00:08:31.440 align:start position:0%
+uh which eliminates the need for
+ 
+
+00:08:31.440 --> 00:08:33.310 align:start position:0%
+uh which eliminates the need for
+Zookeeper,<00:08:32.360><c> but</c><00:08:32.479><c> you</c><00:08:32.520><c> still</c><00:08:32.719><c> need</c><00:08:32.880><c> to</c><00:08:32.960><c> manage</c>
+
+00:08:33.310 --> 00:08:33.320 align:start position:0%
+Zookeeper, but you still need to manage
+ 
+
+00:08:33.320 --> 00:08:35.630 align:start position:0%
+Zookeeper, but you still need to manage
+partition<00:08:33.760><c> rebalancing,</c><00:08:34.479><c> broker</c><00:08:34.800><c> failures,</c>
+
+00:08:35.630 --> 00:08:35.640 align:start position:0%
+partition rebalancing, broker failures,
+ 
+
+00:08:35.640 --> 00:08:37.670 align:start position:0%
+partition rebalancing, broker failures,
+topic<00:08:35.960><c> configurations,</c><00:08:37.000><c> and</c><00:08:37.120><c> consumer</c><00:08:37.520><c> group</c>
+
+00:08:37.670 --> 00:08:37.680 align:start position:0%
+topic configurations, and consumer group
+ 
+
+00:08:37.680 --> 00:08:39.310 align:start position:0%
+topic configurations, and consumer group
+coordination.<00:08:38.560><c> So,</c><00:08:38.640><c> there's</c><00:08:38.760><c> a</c><00:08:38.800><c> lot</c><00:08:39.039><c> more</c><00:08:39.200><c> to</c>
+
+00:08:39.310 --> 00:08:39.320 align:start position:0%
+coordination. So, there's a lot more to
+ 
+
+00:08:39.320 --> 00:08:41.830 align:start position:0%
+coordination. So, there's a lot more to
+learn,<00:08:39.960><c> and</c><00:08:40.080><c> a</c><00:08:40.120><c> lot</c><00:08:40.280><c> more</c><00:08:40.440><c> that</c><00:08:40.560><c> can</c><00:08:40.680><c> go</c><00:08:40.800><c> wrong.</c>
+
+00:08:41.830 --> 00:08:41.840 align:start position:0%
+learn, and a lot more that can go wrong.
+ 
+
+00:08:41.840 --> 00:08:43.750 align:start position:0%
+learn, and a lot more that can go wrong.
+Managed<00:08:42.200><c> services</c><00:08:42.840><c> change</c><00:08:43.159><c> this</c><00:08:43.280><c> calculus,</c>
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+Managed services change this calculus,
+ 
+
+00:08:43.760 --> 00:08:46.430 align:start position:0%
+Managed services change this calculus,
+of<00:08:43.840><c> course.</c><00:08:44.680><c> You</c><00:08:44.800><c> have</c><00:08:45.200><c> Confluent</c><00:08:45.760><c> Cloud,</c>
+
+00:08:46.430 --> 00:08:46.440 align:start position:0%
+of course. You have Confluent Cloud,
+ 
+
+00:08:46.440 --> 00:08:49.430 align:start position:0%
+of course. You have Confluent Cloud,
+Amazon<00:08:46.880><c> MSK,</c><00:08:47.800><c> and</c><00:08:47.960><c> Azure</c><00:08:48.320><c> Event</c><00:08:48.640><c> Hubs,</c><00:08:49.280><c> which</c>
+
+00:08:49.430 --> 00:08:49.440 align:start position:0%
+Amazon MSK, and Azure Event Hubs, which
+ 
+
+00:08:49.440 --> 00:08:51.630 align:start position:0%
+Amazon MSK, and Azure Event Hubs, which
+handle<00:08:49.720><c> most</c><00:08:50.040><c> of</c><00:08:50.120><c> that</c><00:08:50.320><c> Kafka</c><00:08:50.680><c> complexity</c><00:08:51.320><c> for</c>
+
+00:08:51.630 --> 00:08:51.640 align:start position:0%
+handle most of that Kafka complexity for
+ 
+
+00:08:51.640 --> 00:08:53.510 align:start position:0%
+handle most of that Kafka complexity for
+you.<00:08:52.200><c> So,</c><00:08:52.280><c> if</c><00:08:52.320><c> you're</c><00:08:52.440><c> choosing</c><00:08:52.760><c> Kafka,</c>
+
+00:08:53.510 --> 00:08:53.520 align:start position:0%
+you. So, if you're choosing Kafka,
+ 
+
+00:08:53.520 --> 00:08:55.430 align:start position:0%
+you. So, if you're choosing Kafka,
+strongly<00:08:53.920><c> consider</c><00:08:54.280><c> a</c><00:08:54.320><c> managed</c><00:08:54.680><c> service</c>
+
+00:08:55.430 --> 00:08:55.440 align:start position:0%
+strongly consider a managed service
+ 
+
+00:08:55.440 --> 00:08:57.110 align:start position:0%
+strongly consider a managed service
+unless<00:08:55.720><c> you</c><00:08:55.800><c> have</c><00:08:55.920><c> dedicated</c><00:08:56.440><c> infrastructure</c>
+
+00:08:57.110 --> 00:08:57.120 align:start position:0%
+unless you have dedicated infrastructure
+ 
+
+00:08:57.120 --> 00:08:58.430 align:start position:0%
+unless you have dedicated infrastructure
+expertise<00:08:57.560><c> already</c><00:08:57.720><c> within</c><00:08:57.920><c> the</c><00:08:58.000><c> team.</c><00:08:58.360><c> So,</c>
+
+00:08:58.430 --> 00:08:58.440 align:start position:0%
+expertise already within the team. So,
+ 
+
+00:08:58.440 --> 00:09:00.550 align:start position:0%
+expertise already within the team. So,
+to<00:08:58.520><c> wrap</c><00:08:58.720><c> up</c><00:08:58.839><c> here,</c><00:08:59.600><c> when</c><00:08:59.800><c> should</c><00:09:00.000><c> you</c><00:09:00.160><c> use</c>
+
+00:09:00.550 --> 00:09:00.560 align:start position:0%
+to wrap up here, when should you use
+ 
+
+00:09:00.560 --> 00:09:03.310 align:start position:0%
+to wrap up here, when should you use
+each?<00:09:01.360><c> You'll</c><00:09:01.520><c> want</c><00:09:01.720><c> RabbitMQ</c><00:09:02.400><c> if</c><00:09:02.600><c> you</c><00:09:02.680><c> need</c>
+
+00:09:03.310 --> 00:09:03.320 align:start position:0%
+each? You'll want RabbitMQ if you need
+ 
+
+00:09:03.320 --> 00:09:05.110 align:start position:0%
+each? You'll want RabbitMQ if you need
+task<00:09:03.680><c> queues</c><00:09:03.960><c> and</c><00:09:04.080><c> background</c><00:09:04.480><c> jobs,</c><00:09:05.000><c> like</c>
+
+00:09:05.110 --> 00:09:05.120 align:start position:0%
+task queues and background jobs, like
+ 
+
+00:09:05.120 --> 00:09:06.950 align:start position:0%
+task queues and background jobs, like
+sending<00:09:05.400><c> emails,</c><00:09:05.839><c> processing</c><00:09:06.280><c> payments,</c>
+
+00:09:06.950 --> 00:09:06.960 align:start position:0%
+sending emails, processing payments,
+ 
+
+00:09:06.960 --> 00:09:08.870 align:start position:0%
+sending emails, processing payments,
+resizing<00:09:07.400><c> images.</c><00:09:08.160><c> The</c><00:09:08.240><c> work</c><00:09:08.400><c> goes</c><00:09:08.640><c> in,</c><00:09:08.800><c> it</c>
+
+00:09:08.870 --> 00:09:08.880 align:start position:0%
+resizing images. The work goes in, it
+ 
+
+00:09:08.880 --> 00:09:11.510 align:start position:0%
+resizing images. The work goes in, it
+gets<00:09:09.080><c> done,</c><00:09:09.720><c> and</c><00:09:09.800><c> the</c><00:09:09.880><c> message</c><00:09:10.240><c> disappears.</c>
+
+00:09:11.510 --> 00:09:11.520 align:start position:0%
+gets done, and the message disappears.
+ 
+
+00:09:11.520 --> 00:09:13.310 align:start position:0%
+gets done, and the message disappears.
+If<00:09:11.640><c> you</c><00:09:11.760><c> want</c><00:09:12.040><c> smart</c><00:09:12.400><c> routing,</c><00:09:13.160><c> like</c><00:09:13.240><c> the</c>
+
+00:09:13.310 --> 00:09:13.320 align:start position:0%
+If you want smart routing, like the
+ 
+
+00:09:13.320 --> 00:09:15.270 align:start position:0%
+If you want smart routing, like the
+broker<00:09:13.640><c> decides</c><00:09:14.160><c> which</c><00:09:14.400><c> worker</c><00:09:14.800><c> gets</c><00:09:15.080><c> which</c>
+
+00:09:15.270 --> 00:09:15.280 align:start position:0%
+broker decides which worker gets which
+ 
+
+00:09:15.280 --> 00:09:17.310 align:start position:0%
+broker decides which worker gets which
+message<00:09:15.720><c> based</c><00:09:15.920><c> on</c><00:09:16.040><c> content.</c>
+
+00:09:17.310 --> 00:09:17.320 align:start position:0%
+message based on content.
+ 
+
+00:09:17.320 --> 00:09:19.190 align:start position:0%
+message based on content.
+If<00:09:17.400><c> you</c><00:09:17.520><c> want</c><00:09:17.720><c> low</c><00:09:17.880><c> latency</c><00:09:18.520><c> at</c><00:09:18.760><c> moderate</c>
+
+00:09:19.190 --> 00:09:19.200 align:start position:0%
+If you want low latency at moderate
+ 
+
+00:09:19.200 --> 00:09:21.990 align:start position:0%
+If you want low latency at moderate
+scale,<00:09:19.920><c> so</c><00:09:20.040><c> sub</c><00:09:20.400><c> 5</c><00:09:20.680><c> ms</c><00:09:21.240><c> delivery</c><00:09:21.760><c> when</c><00:09:21.920><c> you're</c>
+
+00:09:21.990 --> 00:09:22.000 align:start position:0%
+scale, so sub 5 ms delivery when you're
+ 
+
+00:09:22.000 --> 00:09:24.110 align:start position:0%
+scale, so sub 5 ms delivery when you're
+not<00:09:22.200><c> pushing</c><00:09:22.520><c> millions</c><00:09:22.880><c> of</c><00:09:22.960><c> messages.</c><00:09:24.040><c> And</c>
+
+00:09:24.110 --> 00:09:24.120 align:start position:0%
+not pushing millions of messages. And
+ 
+
+00:09:24.120 --> 00:09:25.630 align:start position:0%
+not pushing millions of messages. And
+you<00:09:24.200><c> want</c><00:09:24.320><c> simple</c><00:09:24.640><c> operations.</c><00:09:25.320><c> It's</c><00:09:25.440><c> easier</c>
+
+00:09:25.630 --> 00:09:25.640 align:start position:0%
+you want simple operations. It's easier
+ 
+
+00:09:25.640 --> 00:09:26.950 align:start position:0%
+you want simple operations. It's easier
+to<00:09:25.760><c> set</c><00:09:25.960><c> up,</c><00:09:26.160><c> and</c><00:09:26.240><c> it's</c><00:09:26.360><c> easier</c><00:09:26.600><c> to</c><00:09:26.720><c> reason</c>
+
+00:09:26.950 --> 00:09:26.960 align:start position:0%
+to set up, and it's easier to reason
+ 
+
+00:09:26.960 --> 00:09:28.110 align:start position:0%
+to set up, and it's easier to reason
+about.
+
+00:09:28.110 --> 00:09:28.120 align:start position:0%
+about.
+ 
+
+00:09:28.120 --> 00:09:29.750 align:start position:0%
+about.
+Instagram<00:09:28.680><c> actually</c><00:09:28.960><c> uses</c><00:09:29.200><c> RabbitMQ</c><00:09:29.680><c> to</c>
+
+00:09:29.750 --> 00:09:29.760 align:start position:0%
+Instagram actually uses RabbitMQ to
+ 
+
+00:09:29.760 --> 00:09:31.910 align:start position:0%
+Instagram actually uses RabbitMQ to
+process<00:09:30.360><c> photo</c><00:09:30.640><c> uploads.</c><00:09:31.480><c> When</c><00:09:31.560><c> you</c><00:09:31.640><c> post</c><00:09:31.880><c> a</c>
+
+00:09:31.910 --> 00:09:31.920 align:start position:0%
+process photo uploads. When you post a
+ 
+
+00:09:31.920 --> 00:09:33.790 align:start position:0%
+process photo uploads. When you post a
+picture,<00:09:32.360><c> resizing</c><00:09:32.960><c> and</c><00:09:33.080><c> filtering</c><00:09:33.480><c> happens</c>
+
+00:09:33.790 --> 00:09:33.800 align:start position:0%
+picture, resizing and filtering happens
+ 
+
+00:09:33.800 --> 00:09:35.510 align:start position:0%
+picture, resizing and filtering happens
+via<00:09:34.000><c> background</c><00:09:34.440><c> workers,</c><00:09:35.000><c> which</c><00:09:35.120><c> are</c><00:09:35.200><c> pulled</c>
+
+00:09:35.510 --> 00:09:35.520 align:start position:0%
+via background workers, which are pulled
+ 
+
+00:09:35.520 --> 00:09:37.870 align:start position:0%
+via background workers, which are pulled
+off<00:09:35.720><c> of</c><00:09:36.040><c> RabbitMQ</c><00:09:36.640><c> queues.</c><00:09:37.400><c> Reddit,</c><00:09:37.720><c> as</c><00:09:37.840><c> I</c>
+
+00:09:37.870 --> 00:09:37.880 align:start position:0%
+off of RabbitMQ queues. Reddit, as I
+ 
+
+00:09:37.880 --> 00:09:39.430 align:start position:0%
+off of RabbitMQ queues. Reddit, as I
+understand<00:09:38.240><c> it,</c><00:09:38.360><c> also</c><00:09:38.640><c> uses</c><00:09:38.960><c> it</c><00:09:39.080><c> to</c><00:09:39.160><c> build</c>
+
+00:09:39.430 --> 00:09:39.440 align:start position:0%
+understand it, also uses it to build
+ 
+
+00:09:39.440 --> 00:09:40.870 align:start position:0%
+understand it, also uses it to build
+comment<00:09:39.720><c> threads</c><00:09:40.040><c> and</c><00:09:40.160><c> calculate</c><00:09:40.600><c> karma</c>
+
+00:09:40.870 --> 00:09:40.880 align:start position:0%
+comment threads and calculate karma
+ 
+
+00:09:40.880 --> 00:09:42.590 align:start position:0%
+comment threads and calculate karma
+scores.<00:09:41.440><c> So,</c><00:09:41.560><c> these</c><00:09:41.680><c> are</c><00:09:41.760><c> classic</c><00:09:42.200><c> task</c><00:09:42.480><c> queue</c>
+
+00:09:42.590 --> 00:09:42.600 align:start position:0%
+scores. So, these are classic task queue
+ 
+
+00:09:42.600 --> 00:09:44.270 align:start position:0%
+scores. So, these are classic task queue
+patterns.<00:09:43.520><c> On</c><00:09:43.640><c> the</c><00:09:43.720><c> other</c><00:09:43.840><c> hand,</c><00:09:44.000><c> you'll</c><00:09:44.120><c> want</c>
+
+00:09:44.270 --> 00:09:44.280 align:start position:0%
+patterns. On the other hand, you'll want
+ 
+
+00:09:44.280 --> 00:09:46.670 align:start position:0%
+patterns. On the other hand, you'll want
+Kafka<00:09:44.960><c> if</c><00:09:45.120><c> you</c><00:09:45.200><c> need</c><00:09:45.760><c> multiple</c><00:09:46.240><c> systems</c>
+
+00:09:46.670 --> 00:09:46.680 align:start position:0%
+Kafka if you need multiple systems
+ 
+
+00:09:46.680 --> 00:09:48.830 align:start position:0%
+Kafka if you need multiple systems
+reading<00:09:46.960><c> the</c><00:09:47.040><c> same</c><00:09:47.320><c> events,</c><00:09:48.200><c> analytics,</c>
+
+00:09:48.830 --> 00:09:48.840 align:start position:0%
+reading the same events, analytics,
+ 
+
+00:09:48.840 --> 00:09:50.390 align:start position:0%
+reading the same events, analytics,
+fraud<00:09:49.160><c> detection,</c><00:09:49.640><c> billing,</c><00:09:49.960><c> and</c><00:09:50.080><c> audit</c>
+
+00:09:50.390 --> 00:09:50.400 align:start position:0%
+fraud detection, billing, and audit
+ 
+
+00:09:50.400 --> 00:09:52.230 align:start position:0%
+fraud detection, billing, and audit
+logging,<00:09:51.120><c> all</c><00:09:51.360><c> consuming</c><00:09:51.840><c> one</c><00:09:52.000><c> stream</c>
+
+00:09:52.230 --> 00:09:52.240 align:start position:0%
+logging, all consuming one stream
+ 
+
+00:09:52.240 --> 00:09:53.510 align:start position:0%
+logging, all consuming one stream
+independently.
+
+00:09:53.510 --> 00:09:53.520 align:start position:0%
+independently.
+ 
+
+00:09:53.520 --> 00:09:55.270 align:start position:0%
+independently.
+If<00:09:53.680><c> you</c><00:09:53.760><c> need</c><00:09:53.960><c> replay</c><00:09:54.360><c> capabilities,</c>
+
+00:09:55.270 --> 00:09:55.280 align:start position:0%
+If you need replay capabilities,
+ 
+
+00:09:55.280 --> 00:09:57.590 align:start position:0%
+If you need replay capabilities,
+reprocessing<00:09:56.120><c> historical</c><00:09:56.640><c> data</c><00:09:57.040><c> to</c><00:09:57.240><c> debug</c>
+
+00:09:57.590 --> 00:09:57.600 align:start position:0%
+reprocessing historical data to debug
+ 
+
+00:09:57.600 --> 00:09:59.630 align:start position:0%
+reprocessing historical data to debug
+issues<00:09:57.880><c> or</c><00:09:58.000><c> rebuild</c><00:09:58.480><c> state.</c>
+
+00:09:59.630 --> 00:09:59.640 align:start position:0%
+issues or rebuild state.
+ 
+
+00:09:59.640 --> 00:10:01.590 align:start position:0%
+issues or rebuild state.
+If<00:09:59.720><c> you</c><00:09:59.800><c> have</c><00:09:59.960><c> massive</c><00:10:00.480><c> scale,</c><00:10:01.040><c> millions</c><00:10:01.520><c> of</c>
+
+00:10:01.590 --> 00:10:01.600 align:start position:0%
+If you have massive scale, millions of
+ 
+
+00:10:01.600 --> 00:10:03.190 align:start position:0%
+If you have massive scale, millions of
+events<00:10:01.840><c> per</c><00:10:02.000><c> second</c><00:10:02.400><c> with</c><00:10:02.560><c> consistent</c>
+
+00:10:03.190 --> 00:10:03.200 align:start position:0%
+events per second with consistent
+ 
+
+00:10:03.200 --> 00:10:04.790 align:start position:0%
+events per second with consistent
+latency<00:10:03.600><c> requirements.</c>
+
+00:10:04.790 --> 00:10:04.800 align:start position:0%
+latency requirements.
+ 
+
+00:10:04.800 --> 00:10:06.590 align:start position:0%
+latency requirements.
+And<00:10:04.960><c> if</c><00:10:05.040><c> you</c><00:10:05.120><c> need</c><00:10:05.280><c> a</c><00:10:05.320><c> durable</c><00:10:05.760><c> event</c><00:10:06.000><c> history,</c>
+
+00:10:06.590 --> 00:10:06.600 align:start position:0%
+And if you need a durable event history,
+ 
+
+00:10:06.600 --> 00:10:08.070 align:start position:0%
+And if you need a durable event history,
+so<00:10:06.680><c> a</c><00:10:06.760><c> permanent</c><00:10:07.120><c> record</c><00:10:07.480><c> of</c><00:10:07.600><c> everything</c><00:10:07.960><c> that</c>
+
+00:10:08.070 --> 00:10:08.080 align:start position:0%
+so a permanent record of everything that
+ 
+
+00:10:08.080 --> 00:10:09.430 align:start position:0%
+so a permanent record of everything that
+ever<00:10:08.240><c> happened.</c>
+
+00:10:09.430 --> 00:10:09.440 align:start position:0%
+ever happened.
+ 
+
+00:10:09.440 --> 00:10:11.710 align:start position:0%
+ever happened.
+Netflix<00:10:09.880><c> processes</c><00:10:10.840><c> petabytes</c><00:10:11.360><c> of</c><00:10:11.480><c> data</c>
+
+00:10:11.710 --> 00:10:11.720 align:start position:0%
+Netflix processes petabytes of data
+ 
+
+00:10:11.720 --> 00:10:13.750 align:start position:0%
+Netflix processes petabytes of data
+daily<00:10:12.240><c> through</c><00:10:12.400><c> Kafka</c><00:10:12.920><c> for</c><00:10:13.080><c> recommendations</c>
+
+00:10:13.750 --> 00:10:13.760 align:start position:0%
+daily through Kafka for recommendations
+ 
+
+00:10:13.760 --> 00:10:15.830 align:start position:0%
+daily through Kafka for recommendations
+and<00:10:13.880><c> billing.</c><00:10:14.680><c> Uber</c><00:10:14.920><c> uses</c><00:10:15.200><c> it</c><00:10:15.320><c> for</c><00:10:15.440><c> real-time</c>
+
+00:10:15.830 --> 00:10:15.840 align:start position:0%
+and billing. Uber uses it for real-time
+ 
+
+00:10:15.840 --> 00:10:17.310 align:start position:0%
+and billing. Uber uses it for real-time
+pricing<00:10:16.320><c> and</c><00:10:16.440><c> fraud</c><00:10:16.680><c> detection</c><00:10:17.040><c> across</c>
+
+00:10:17.310 --> 00:10:17.320 align:start position:0%
+pricing and fraud detection across
+ 
+
+00:10:17.320 --> 00:10:19.390 align:start position:0%
+pricing and fraud detection across
+millions<00:10:17.680><c> of</c><00:10:17.800><c> rides.</c><00:10:18.600><c> And</c><00:10:18.680><c> then</c><00:10:18.840><c> LinkedIn</c>
+
+00:10:19.390 --> 00:10:19.400 align:start position:0%
+millions of rides. And then LinkedIn
+ 
+
+00:10:19.400 --> 00:10:21.310 align:start position:0%
+millions of rides. And then LinkedIn
+invented<00:10:19.920><c> Kafka</c><00:10:20.360><c> and</c><00:10:20.520><c> still</c><00:10:20.800><c> uses</c><00:10:21.120><c> it</c><00:10:21.240><c> to</c>
+
+00:10:21.310 --> 00:10:21.320 align:start position:0%
+invented Kafka and still uses it to
+ 
+
+00:10:21.320 --> 00:10:23.510 align:start position:0%
+invented Kafka and still uses it to
+power<00:10:21.640><c> their</c><00:10:21.800><c> feed</c><00:10:22.440><c> and</c><00:10:22.560><c> messaging.</c><00:10:23.400><c> So,</c>
+
+00:10:23.510 --> 00:10:23.520 align:start position:0%
+power their feed and messaging. So,
+ 
+
+00:10:23.520 --> 00:10:26.110 align:start position:0%
+power their feed and messaging. So,
+these<00:10:23.640><c> systems</c><00:10:24.120><c> need</c><00:10:24.920><c> every</c><00:10:25.160><c> event</c><00:10:25.440><c> stored,</c>
+
+00:10:26.110 --> 00:10:26.120 align:start position:0%
+these systems need every event stored,
+ 
+
+00:10:26.120 --> 00:10:27.510 align:start position:0%
+these systems need every event stored,
+and<00:10:26.200><c> need</c><00:10:26.280><c> to</c><00:10:26.360><c> be</c><00:10:26.440><c> replayable,</c><00:10:27.360><c> and</c><00:10:27.440><c> are</c>
+
+00:10:27.510 --> 00:10:27.520 align:start position:0%
+and need to be replayable, and are
+ 
+
+00:10:27.520 --> 00:10:28.670 align:start position:0%
+and need to be replayable, and are
+consumed<00:10:27.880><c> by</c><00:10:28.000><c> dozens</c><00:10:28.320><c> of</c><00:10:28.400><c> different</c>
+
+00:10:28.670 --> 00:10:28.680 align:start position:0%
+consumed by dozens of different
+ 
+
+00:10:28.680 --> 00:10:30.430 align:start position:0%
+consumed by dozens of different
+services.<00:10:29.280><c> So,</c><00:10:29.400><c> if</c><00:10:29.520><c> you</c><00:10:29.600><c> have</c><00:10:29.720><c> a</c><00:10:29.800><c> well-defined</c>
+
+00:10:30.430 --> 00:10:30.440 align:start position:0%
+services. So, if you have a well-defined
+ 
+
+00:10:30.440 --> 00:10:31.990 align:start position:0%
+services. So, if you have a well-defined
+constrained<00:10:30.960><c> use</c><00:10:31.120><c> case</c><00:10:31.400><c> that</c><00:10:31.640><c> fits</c><00:10:31.920><c> the</c>
+
+00:10:31.990 --> 00:10:32.000 align:start position:0%
+constrained use case that fits the
+ 
+
+00:10:32.000 --> 00:10:33.750 align:start position:0%
+constrained use case that fits the
+RabbitMQ<00:10:32.560><c> model,</c><00:10:33.120><c> like</c><00:10:33.240><c> a</c><00:10:33.280><c> task</c><00:10:33.600><c> queue</c><00:10:33.680><c> or</c>
+
+00:10:33.750 --> 00:10:33.760 align:start position:0%
+RabbitMQ model, like a task queue or
+ 
+
+00:10:33.760 --> 00:10:35.990 align:start position:0%
+RabbitMQ model, like a task queue or
+background<00:10:34.160><c> jobs,</c><00:10:34.920><c> go</c><00:10:35.040><c> with</c><00:10:35.200><c> RabbitMQ</c><00:10:35.840><c> for</c>
+
+00:10:35.990 --> 00:10:36.000 align:start position:0%
+background jobs, go with RabbitMQ for
+ 
+
+00:10:36.000 --> 00:10:38.230 align:start position:0%
+background jobs, go with RabbitMQ for
+its<00:10:36.120><c> simplicity.</c><00:10:37.240><c> For</c><00:10:37.320><c> everything</c><00:10:37.600><c> else,</c><00:10:38.080><c> you</c>
+
+00:10:38.230 --> 00:10:38.240 align:start position:0%
+its simplicity. For everything else, you
+ 
+
+00:10:38.240 --> 00:10:40.310 align:start position:0%
+its simplicity. For everything else, you
+may<00:10:38.440><c> need</c><00:10:38.680><c> to</c><00:10:38.840><c> lean</c><00:10:39.120><c> towards</c><00:10:39.400><c> Kafka</c><00:10:40.200><c> and</c>
+
+00:10:40.310 --> 00:10:40.320 align:start position:0%
+may need to lean towards Kafka and
+ 
+
+00:10:40.320 --> 00:10:41.910 align:start position:0%
+may need to lean towards Kafka and
+consider<00:10:40.760><c> whether</c><00:10:40.960><c> or</c><00:10:41.040><c> not</c><00:10:41.280><c> you</c><00:10:41.400><c> want</c><00:10:41.560><c> to</c><00:10:41.680><c> host</c>
+
+00:10:41.910 --> 00:10:41.920 align:start position:0%
+consider whether or not you want to host
+ 
+
+00:10:41.920 --> 00:10:44.430 align:start position:0%
+consider whether or not you want to host
+your<00:10:42.080><c> own</c><00:10:42.520><c> or</c><00:10:42.640><c> just</c><00:10:42.839><c> use</c><00:10:43.080><c> a</c><00:10:43.160><c> managed</c><00:10:43.680><c> service.</c>
+
+00:10:44.430 --> 00:10:44.440 align:start position:0%
+your own or just use a managed service.
+ 
+
+00:10:44.440 --> 00:10:46.550 align:start position:0%
+your own or just use a managed service.
+Or,<00:10:44.760><c> of</c><00:10:44.880><c> course,</c><00:10:45.160><c> you</c><00:10:45.240><c> can</c><00:10:45.360><c> use</c><00:10:45.480><c> both.</c><00:10:46.200><c> Kafka</c>
+
+00:10:46.550 --> 00:10:46.560 align:start position:0%
+Or, of course, you can use both. Kafka
+ 
+
+00:10:46.560 --> 00:10:48.790 align:start position:0%
+Or, of course, you can use both. Kafka
+is<00:10:46.640><c> the</c><00:10:46.720><c> event</c><00:10:46.960><c> backbone,</c><00:10:47.760><c> RabbitMQ</c><00:10:48.600><c> for</c><00:10:48.720><c> the</c>
+
+00:10:48.790 --> 00:10:48.800 align:start position:0%
+is the event backbone, RabbitMQ for the
+ 
+
+00:10:48.800 --> 00:10:50.270 align:start position:0%
+is the event backbone, RabbitMQ for the
+background<00:10:49.200><c> jobs</c><00:10:49.680><c> that</c><00:10:49.839><c> those</c><00:10:50.000><c> events</c>
+
+00:10:50.270 --> 00:10:50.280 align:start position:0%
+background jobs that those events
+ 
+
+00:10:50.280 --> 00:10:52.720 align:start position:0%
+background jobs that those events
+trigger.
+
