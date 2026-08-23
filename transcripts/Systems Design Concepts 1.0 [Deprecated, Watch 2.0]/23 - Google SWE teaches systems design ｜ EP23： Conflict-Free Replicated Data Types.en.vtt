@@ -1,0 +1,3216 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.719 --> 00:00:02.629 align:start position:0%
+ 
+alrighty<00:00:01.280><c> so</c><00:00:01.439><c> we</c><00:00:01.520><c> finally</c><00:00:01.839><c> got</c><00:00:02.080><c> through</c><00:00:02.480><c> all</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+alrighty so we finally got through all
+ 
+
+00:00:02.639 --> 00:00:05.430 align:start position:0%
+alrighty so we finally got through all
+the<00:00:02.879><c> content</c><00:00:03.360><c> we</c><00:00:03.520><c> needed</c><00:00:03.760><c> to</c><00:00:03.919><c> do</c><00:00:04.400><c> for</c><00:00:04.799><c> the</c><00:00:05.040><c> wide</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+the content we needed to do for the wide
+ 
+
+00:00:05.440 --> 00:00:07.909 align:start position:0%
+the content we needed to do for the wide
+column<00:00:05.839><c> no</c><00:00:06.080><c> sql</c><00:00:06.399><c> databases</c><00:00:07.440><c> which</c><00:00:07.680><c> means</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+column no sql databases which means
+ 
+
+00:00:07.919 --> 00:00:09.669 align:start position:0%
+column no sql databases which means
+we're<00:00:08.080><c> going</c><00:00:08.160><c> to</c><00:00:08.240><c> start</c><00:00:08.559><c> moving</c><00:00:09.120><c> into</c>
+
+00:00:09.669 --> 00:00:09.679 align:start position:0%
+we're going to start moving into
+ 
+
+00:00:09.679 --> 00:00:11.990 align:start position:0%
+we're going to start moving into
+basically<00:00:10.160><c> all</c><00:00:10.320><c> the</c><00:00:10.480><c> key</c><00:00:10.719><c> value</c><00:00:11.120><c> stores</c><00:00:11.759><c> and</c>
+
+00:00:11.990 --> 00:00:12.000 align:start position:0%
+basically all the key value stores and
+ 
+
+00:00:12.000 --> 00:00:14.629 align:start position:0%
+basically all the key value stores and
+the<00:00:12.400><c> associated</c><00:00:13.040><c> content</c><00:00:13.519><c> with</c><00:00:13.679><c> that</c><00:00:14.400><c> so</c><00:00:14.559><c> in</c>
+
+00:00:14.629 --> 00:00:14.639 align:start position:0%
+the associated content with that so in
+ 
+
+00:00:14.639 --> 00:00:16.230 align:start position:0%
+the associated content with that so in
+order<00:00:14.880><c> to</c><00:00:14.960><c> get</c><00:00:15.200><c> started</c><00:00:15.679><c> we're</c><00:00:15.839><c> going</c><00:00:15.920><c> to</c><00:00:16.000><c> talk</c>
+
+00:00:16.230 --> 00:00:16.240 align:start position:0%
+order to get started we're going to talk
+ 
+
+00:00:16.240 --> 00:00:19.109 align:start position:0%
+order to get started we're going to talk
+about<00:00:16.640><c> crdts</c><00:00:17.520><c> or</c><00:00:18.119><c> conflict-pre-replicated</c>
+
+00:00:19.109 --> 00:00:19.119 align:start position:0%
+about crdts or conflict-pre-replicated
+ 
+
+00:00:19.119 --> 00:00:20.470 align:start position:0%
+about crdts or conflict-pre-replicated
+data<00:00:19.439><c> types</c>
+
+00:00:20.470 --> 00:00:20.480 align:start position:0%
+data types
+ 
+
+00:00:20.480 --> 00:00:22.790 align:start position:0%
+data types
+and<00:00:20.880><c> i'll</c><00:00:21.119><c> just</c><00:00:21.359><c> go</c><00:00:21.520><c> ahead</c><00:00:21.920><c> and</c><00:00:22.240><c> jump</c><00:00:22.560><c> into</c>
+
+00:00:22.790 --> 00:00:22.800 align:start position:0%
+and i'll just go ahead and jump into
+ 
+
+00:00:22.800 --> 00:00:25.029 align:start position:0%
+and i'll just go ahead and jump into
+that<00:00:23.039><c> right</c><00:00:23.279><c> now</c>
+
+00:00:25.029 --> 00:00:25.039 align:start position:0%
+that right now
+ 
+
+00:00:25.039 --> 00:00:27.750 align:start position:0%
+that right now
+okay<00:00:25.760><c> crttts</c><00:00:26.560><c> what</c><00:00:26.800><c> are</c><00:00:26.960><c> they</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+okay crttts what are they
+ 
+
+00:00:27.760 --> 00:00:29.429 align:start position:0%
+okay crttts what are they
+well<00:00:28.080><c> basically</c><00:00:28.880><c> in</c><00:00:28.960><c> a</c><00:00:29.039><c> bunch</c><00:00:29.279><c> of</c><00:00:29.359><c> the</c>
+
+00:00:29.429 --> 00:00:29.439 align:start position:0%
+well basically in a bunch of the
+ 
+
+00:00:29.439 --> 00:00:31.269 align:start position:0%
+well basically in a bunch of the
+database<00:00:29.920><c> systems</c><00:00:30.400><c> that</c><00:00:30.480><c> i've</c><00:00:30.640><c> talked</c><00:00:30.960><c> about</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+database systems that i've talked about
+ 
+
+00:00:31.279 --> 00:00:34.229 align:start position:0%
+database systems that i've talked about
+so<00:00:31.519><c> far</c><00:00:31.920><c> aka</c><00:00:32.399><c> dynamo</c><00:00:32.960><c> style</c>
+
+00:00:34.229 --> 00:00:34.239 align:start position:0%
+so far aka dynamo style
+ 
+
+00:00:34.239 --> 00:00:36.069 align:start position:0%
+so far aka dynamo style
+or<00:00:34.640><c> you</c><00:00:34.800><c> know</c><00:00:34.960><c> things</c><00:00:35.120><c> like</c><00:00:35.280><c> cassandra</c><00:00:35.920><c> where</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+or you know things like cassandra where
+ 
+
+00:00:36.079 --> 00:00:37.670 align:start position:0%
+or you know things like cassandra where
+there's<00:00:36.239><c> a</c><00:00:36.320><c> bunch</c><00:00:36.559><c> of</c><00:00:36.719><c> possible</c><00:00:37.120><c> leaders</c><00:00:37.520><c> that</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+there's a bunch of possible leaders that
+ 
+
+00:00:37.680 --> 00:00:39.670 align:start position:0%
+there's a bunch of possible leaders that
+rights<00:00:37.920><c> can</c><00:00:38.079><c> be</c><00:00:38.320><c> sent</c><00:00:38.559><c> to</c><00:00:39.120><c> and</c><00:00:39.360><c> rights</c><00:00:39.600><c> are</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+rights can be sent to and rights are
+ 
+
+00:00:39.680 --> 00:00:41.510 align:start position:0%
+rights can be sent to and rights are
+going<00:00:39.920><c> to</c><00:00:40.000><c> be</c><00:00:40.160><c> replicated</c><00:00:40.879><c> in</c><00:00:41.040><c> some</c><00:00:41.200><c> sort</c><00:00:41.440><c> of</c>
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+going to be replicated in some sort of
+ 
+
+00:00:41.520 --> 00:00:43.430 align:start position:0%
+going to be replicated in some sort of
+topology<00:00:42.160><c> or</c><00:00:42.320><c> ordering</c><00:00:42.800><c> around</c><00:00:43.120><c> those</c>
+
+00:00:43.430 --> 00:00:43.440 align:start position:0%
+topology or ordering around those
+ 
+
+00:00:43.440 --> 00:00:45.750 align:start position:0%
+topology or ordering around those
+leaders<00:00:44.079><c> there's</c><00:00:44.399><c> inevitably</c><00:00:45.039><c> going</c><00:00:45.280><c> to</c><00:00:45.440><c> be</c>
+
+00:00:45.750 --> 00:00:45.760 align:start position:0%
+leaders there's inevitably going to be
+ 
+
+00:00:45.760 --> 00:00:48.069 align:start position:0%
+leaders there's inevitably going to be
+right<00:00:46.000><c> conflicts</c><00:00:46.960><c> obviously</c><00:00:47.440><c> this</c><00:00:47.680><c> comes</c><00:00:47.920><c> at</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+right conflicts obviously this comes at
+ 
+
+00:00:48.079 --> 00:00:49.750 align:start position:0%
+right conflicts obviously this comes at
+the<00:00:48.160><c> trade-off</c><00:00:48.640><c> of</c><00:00:48.719><c> higher</c><00:00:49.039><c> right</c><00:00:49.280><c> throughput</c>
+
+00:00:49.750 --> 00:00:49.760 align:start position:0%
+the trade-off of higher right throughput
+ 
+
+00:00:49.760 --> 00:00:51.830 align:start position:0%
+the trade-off of higher right throughput
+which<00:00:49.920><c> is</c><00:00:50.079><c> great</c><00:00:50.719><c> but</c><00:00:51.039><c> it's</c><00:00:51.280><c> still</c><00:00:51.520><c> extra</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+which is great but it's still extra
+ 
+
+00:00:51.840 --> 00:00:53.350 align:start position:0%
+which is great but it's still extra
+things<00:00:52.160><c> that</c><00:00:52.239><c> we</c><00:00:52.399><c> have</c><00:00:52.559><c> to</c><00:00:52.640><c> deal</c><00:00:52.879><c> with</c><00:00:53.199><c> and</c>
+
+00:00:53.350 --> 00:00:53.360 align:start position:0%
+things that we have to deal with and
+ 
+
+00:00:53.360 --> 00:00:54.950 align:start position:0%
+things that we have to deal with and
+think<00:00:53.520><c> about</c><00:00:53.840><c> in</c><00:00:54.000><c> order</c><00:00:54.160><c> to</c><00:00:54.320><c> kind</c><00:00:54.480><c> of</c><00:00:54.559><c> mitigate</c>
+
+00:00:54.950 --> 00:00:54.960 align:start position:0%
+think about in order to kind of mitigate
+ 
+
+00:00:54.960 --> 00:00:56.470 align:start position:0%
+think about in order to kind of mitigate
+those<00:00:55.199><c> right</c><00:00:55.440><c> conflicts</c>
+
+00:00:56.470 --> 00:00:56.480 align:start position:0%
+those right conflicts
+ 
+
+00:00:56.480 --> 00:00:58.389 align:start position:0%
+those right conflicts
+as<00:00:56.719><c> such</c><00:00:56.960><c> in</c><00:00:57.039><c> the</c><00:00:57.199><c> past</c><00:00:57.440><c> few</c><00:00:57.680><c> years</c><00:00:57.920><c> we've</c><00:00:58.160><c> seen</c>
+
+00:00:58.389 --> 00:00:58.399 align:start position:0%
+as such in the past few years we've seen
+ 
+
+00:00:58.399 --> 00:01:00.709 align:start position:0%
+as such in the past few years we've seen
+this<00:00:58.559><c> new</c><00:00:58.800><c> type</c><00:00:59.039><c> of</c><00:00:59.120><c> technology</c><00:00:59.760><c> come</c><00:01:00.000><c> around</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+this new type of technology come around
+ 
+
+00:01:00.719 --> 00:01:02.229 align:start position:0%
+this new type of technology come around
+which<00:01:00.960><c> is</c><00:01:01.039><c> called</c><00:01:01.359><c> a</c><00:01:01.520><c> conflict-free</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+which is called a conflict-free
+ 
+
+00:01:02.239 --> 00:01:05.429 align:start position:0%
+which is called a conflict-free
+replicated<00:01:02.800><c> data</c><00:01:03.120><c> type</c><00:01:03.680><c> crdt</c><00:01:04.320><c> for</c><00:01:04.479><c> short</c><00:01:05.280><c> and</c>
+
+00:01:05.429 --> 00:01:05.439 align:start position:0%
+replicated data type crdt for short and
+ 
+
+00:01:05.439 --> 00:01:07.190 align:start position:0%
+replicated data type crdt for short and
+basically<00:01:06.000><c> all</c><00:01:06.159><c> those</c><00:01:06.479><c> do</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+basically all those do
+ 
+
+00:01:07.200 --> 00:01:09.350 align:start position:0%
+basically all those do
+are<00:01:07.840><c> it's</c><00:01:08.080><c> basically</c><00:01:08.479><c> a</c><00:01:08.560><c> piece</c><00:01:08.799><c> of</c><00:01:08.880><c> data</c><00:01:09.200><c> that</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+are it's basically a piece of data that
+ 
+
+00:01:09.360 --> 00:01:12.070 align:start position:0%
+are it's basically a piece of data that
+each<00:01:09.760><c> database</c><00:01:10.240><c> leader</c><00:01:10.560><c> can</c><00:01:10.720><c> keep</c><00:01:11.040><c> internally</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+each database leader can keep internally
+ 
+
+00:01:12.080 --> 00:01:14.550 align:start position:0%
+each database leader can keep internally
+that<00:01:12.799><c> eventually</c><00:01:13.360><c> can</c><00:01:13.520><c> be</c><00:01:13.840><c> sent</c><00:01:14.159><c> from</c><00:01:14.320><c> one</c>
+
+00:01:14.550 --> 00:01:14.560 align:start position:0%
+that eventually can be sent from one
+ 
+
+00:01:14.560 --> 00:01:16.870 align:start position:0%
+that eventually can be sent from one
+database<00:01:15.040><c> to</c><00:01:15.200><c> the</c><00:01:15.280><c> other</c><00:01:15.759><c> and</c><00:01:16.159><c> you</c><00:01:16.240><c> know</c><00:01:16.479><c> upon</c>
+
+00:01:16.870 --> 00:01:16.880 align:start position:0%
+database to the other and you know upon
+ 
+
+00:01:16.880 --> 00:01:18.789 align:start position:0%
+database to the other and you know upon
+merging<00:01:17.280><c> they</c><00:01:17.439><c> can</c><00:01:17.680><c> kind</c><00:01:17.840><c> of</c><00:01:18.000><c> converge</c><00:01:18.560><c> to</c><00:01:18.720><c> a</c>
+
+00:01:18.789 --> 00:01:18.799 align:start position:0%
+merging they can kind of converge to a
+ 
+
+00:01:18.799 --> 00:01:20.950 align:start position:0%
+merging they can kind of converge to a
+consistent<00:01:19.280><c> state</c><00:01:19.600><c> between</c><00:01:19.920><c> them</c>
+
+00:01:20.950 --> 00:01:20.960 align:start position:0%
+consistent state between them
+ 
+
+00:01:20.960 --> 00:01:23.910 align:start position:0%
+consistent state between them
+obviously<00:01:21.439><c> crdts</c><00:01:22.159><c> are</c><00:01:22.240><c> super</c><00:01:22.560><c> useful</c><00:01:23.280><c> and</c><00:01:23.759><c> if</c>
+
+00:01:23.910 --> 00:01:23.920 align:start position:0%
+obviously crdts are super useful and if
+ 
+
+00:01:23.920 --> 00:01:26.310 align:start position:0%
+obviously crdts are super useful and if
+i<00:01:24.080><c> had</c><00:01:24.159><c> had</c><00:01:24.400><c> one</c><00:01:24.640><c> in</c><00:01:24.799><c> my</c><00:01:24.960><c> past</c><00:01:25.200><c> relationship</c>
+
+00:01:26.310 --> 00:01:26.320 align:start position:0%
+i had had one in my past relationship
+ 
+
+00:01:26.320 --> 00:01:27.990 align:start position:0%
+i had had one in my past relationship
+maybe<00:01:26.640><c> me</c><00:01:26.799><c> and</c><00:01:26.880><c> my</c><00:01:27.119><c> ex</c><00:01:27.360><c> would</c><00:01:27.600><c> still</c><00:01:27.759><c> be</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+maybe me and my ex would still be
+ 
+
+00:01:28.000 --> 00:01:29.510 align:start position:0%
+maybe me and my ex would still be
+together<00:01:28.479><c> because</c><00:01:28.720><c> we</c><00:01:28.880><c> could</c><00:01:29.040><c> have</c><00:01:29.119><c> used</c><00:01:29.360><c> some</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+together because we could have used some
+ 
+
+00:01:29.520 --> 00:01:32.469 align:start position:0%
+together because we could have used some
+sort<00:01:29.680><c> of</c><00:01:29.759><c> conflict</c><00:01:30.240><c> resolution</c><00:01:30.799><c> like</c><00:01:31.040><c> that</c>
+
+00:01:32.469 --> 00:01:32.479 align:start position:0%
+sort of conflict resolution like that
+ 
+
+00:01:32.479 --> 00:01:34.710 align:start position:0%
+sort of conflict resolution like that
+crdts<00:01:33.119><c> can</c><00:01:33.360><c> implement</c><00:01:33.759><c> things</c><00:01:34.000><c> like</c><00:01:34.159><c> counters</c>
+
+00:01:34.710 --> 00:01:34.720 align:start position:0%
+crdts can implement things like counters
+ 
+
+00:01:34.720 --> 00:01:36.870 align:start position:0%
+crdts can implement things like counters
+sets<00:01:35.119><c> maps</c><00:01:35.600><c> and</c><00:01:35.840><c> lists</c>
+
+00:01:36.870 --> 00:01:36.880 align:start position:0%
+sets maps and lists
+ 
+
+00:01:36.880 --> 00:01:37.749 align:start position:0%
+sets maps and lists
+and
+
+00:01:37.749 --> 00:01:37.759 align:start position:0%
+and
+ 
+
+00:01:37.759 --> 00:01:39.270 align:start position:0%
+and
+even<00:01:38.079><c> for</c><00:01:38.240><c> something</c><00:01:38.479><c> like</c><00:01:38.720><c> collaborative</c>
+
+00:01:39.270 --> 00:01:39.280 align:start position:0%
+even for something like collaborative
+ 
+
+00:01:39.280 --> 00:01:41.270 align:start position:0%
+even for something like collaborative
+text<00:01:39.520><c> editing</c><00:01:40.000><c> they</c><00:01:40.079><c> can</c><00:01:40.240><c> be</c><00:01:40.400><c> really</c><00:01:40.640><c> useful</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+text editing they can be really useful
+ 
+
+00:01:41.280 --> 00:01:43.749 align:start position:0%
+text editing they can be really useful
+especially<00:01:41.840><c> as</c><00:01:41.920><c> far</c><00:01:42.079><c> as</c><00:01:42.320><c> lists</c><00:01:42.640><c> go</c>
+
+00:01:43.749 --> 00:01:43.759 align:start position:0%
+especially as far as lists go
+ 
+
+00:01:43.759 --> 00:01:44.789 align:start position:0%
+especially as far as lists go
+so
+
+00:01:44.789 --> 00:01:44.799 align:start position:0%
+so
+ 
+
+00:01:44.799 --> 00:01:47.190 align:start position:0%
+so
+that<00:01:45.040><c> brings</c><00:01:45.280><c> us</c><00:01:45.439><c> to</c><00:01:45.600><c> use</c><00:01:45.840><c> cases</c><00:01:46.240><c> mainly</c><00:01:46.799><c> so</c><00:01:47.040><c> in</c>
+
+00:01:47.190 --> 00:01:47.200 align:start position:0%
+that brings us to use cases mainly so in
+ 
+
+00:01:47.200 --> 00:01:48.710 align:start position:0%
+that brings us to use cases mainly so in
+terms<00:01:47.439><c> of</c><00:01:47.600><c> collaborative</c><00:01:48.159><c> editing</c><00:01:48.560><c> like</c>
+
+00:01:48.710 --> 00:01:48.720 align:start position:0%
+terms of collaborative editing like
+ 
+
+00:01:48.720 --> 00:01:52.550 align:start position:0%
+terms of collaborative editing like
+google<00:01:49.040><c> drive</c><00:01:49.759><c> figma</c><00:01:50.399><c> office</c><00:01:50.799><c> 365</c><00:01:52.079><c> being</c><00:01:52.320><c> able</c>
+
+00:01:52.550 --> 00:01:52.560 align:start position:0%
+google drive figma office 365 being able
+ 
+
+00:01:52.560 --> 00:01:55.830 align:start position:0%
+google drive figma office 365 being able
+to<00:01:52.960><c> create</c><00:01:53.360><c> a</c><00:01:54.320><c> list</c><00:01:54.560><c> of</c><00:01:54.720><c> items</c><00:01:55.200><c> that</c><00:01:55.439><c> comes</c>
+
+00:01:55.830 --> 00:01:55.840 align:start position:0%
+to create a list of items that comes
+ 
+
+00:01:55.840 --> 00:01:58.950 align:start position:0%
+to create a list of items that comes
+from<00:01:56.240><c> a</c><00:01:56.560><c> multi-leader</c><00:01:57.200><c> replication</c><00:01:57.840><c> setup</c><00:01:58.719><c> is</c>
+
+00:01:58.950 --> 00:01:58.960 align:start position:0%
+from a multi-leader replication setup is
+ 
+
+00:01:58.960 --> 00:02:00.950 align:start position:0%
+from a multi-leader replication setup is
+really<00:01:59.280><c> useful</c><00:01:59.920><c> and</c><00:02:00.079><c> it's</c><00:02:00.320><c> not</c><00:02:00.560><c> something</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+really useful and it's not something
+ 
+
+00:02:00.960 --> 00:02:03.109 align:start position:0%
+really useful and it's not something
+that's<00:02:01.200><c> super</c><00:02:01.520><c> easy</c><00:02:02.079><c> um</c><00:02:02.479><c> there's</c><00:02:02.719><c> a</c><00:02:02.799><c> ton</c><00:02:02.960><c> of</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+that's super easy um there's a ton of
+ 
+
+00:02:03.119 --> 00:02:04.789 align:start position:0%
+that's super easy um there's a ton of
+challenges<00:02:03.600><c> involved</c><00:02:04.000><c> there</c><00:02:04.159><c> and</c><00:02:04.320><c> it's</c><00:02:04.479><c> still</c>
+
+00:02:04.789 --> 00:02:04.799 align:start position:0%
+challenges involved there and it's still
+ 
+
+00:02:04.799 --> 00:02:07.429 align:start position:0%
+challenges involved there and it's still
+a<00:02:04.960><c> research</c><00:02:05.439><c> topic</c><00:02:06.079><c> that</c><00:02:06.320><c> is</c><00:02:06.479><c> very</c><00:02:06.719><c> much</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+a research topic that is very much
+ 
+
+00:02:07.439 --> 00:02:08.710 align:start position:0%
+a research topic that is very much
+ongoing
+
+00:02:08.710 --> 00:02:08.720 align:start position:0%
+ongoing
+ 
+
+00:02:08.720 --> 00:02:10.229 align:start position:0%
+ongoing
+you<00:02:08.800><c> can</c><00:02:08.959><c> also</c><00:02:09.119><c> use</c><00:02:09.280><c> an</c><00:02:09.440><c> algorithm</c><00:02:09.840><c> called</c>
+
+00:02:10.229 --> 00:02:10.239 align:start position:0%
+you can also use an algorithm called
+ 
+
+00:02:10.239 --> 00:02:11.990 align:start position:0%
+you can also use an algorithm called
+operational<00:02:10.879><c> transform</c><00:02:11.360><c> for</c><00:02:11.520><c> this</c><00:02:11.680><c> type</c><00:02:11.840><c> of</c>
+
+00:02:11.990 --> 00:02:12.000 align:start position:0%
+operational transform for this type of
+ 
+
+00:02:12.000 --> 00:02:14.150 align:start position:0%
+operational transform for this type of
+thing<00:02:12.560><c> but</c><00:02:12.720><c> that</c><00:02:13.040><c> is</c><00:02:13.200><c> a</c><00:02:13.360><c> topic</c><00:02:13.599><c> for</c><00:02:13.840><c> another</c>
+
+00:02:14.150 --> 00:02:14.160 align:start position:0%
+thing but that is a topic for another
+ 
+
+00:02:14.160 --> 00:02:15.270 align:start position:0%
+thing but that is a topic for another
+video
+
+00:02:15.270 --> 00:02:15.280 align:start position:0%
+video
+ 
+
+00:02:15.280 --> 00:02:17.510 align:start position:0%
+video
+there's<00:02:15.520><c> also</c><00:02:15.920><c> online</c><00:02:16.319><c> chat</c><00:02:16.560><c> systems</c><00:02:17.440><c> in</c>
+
+00:02:17.510 --> 00:02:17.520 align:start position:0%
+there's also online chat systems in
+ 
+
+00:02:17.520 --> 00:02:19.670 align:start position:0%
+there's also online chat systems in
+terms<00:02:17.920><c> of</c><00:02:18.160><c> ensuring</c><00:02:18.720><c> that</c><00:02:18.959><c> the</c><00:02:19.120><c> ordering</c><00:02:19.599><c> of</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+terms of ensuring that the ordering of
+ 
+
+00:02:19.680 --> 00:02:21.510 align:start position:0%
+terms of ensuring that the ordering of
+the<00:02:19.840><c> chats</c><00:02:20.239><c> is</c><00:02:20.480><c> eventually</c><00:02:20.959><c> going</c><00:02:21.120><c> to</c><00:02:21.200><c> be</c><00:02:21.360><c> the</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+the chats is eventually going to be the
+ 
+
+00:02:21.520 --> 00:02:24.229 align:start position:0%
+the chats is eventually going to be the
+same<00:02:22.319><c> amongst</c><00:02:22.879><c> all</c><00:02:23.120><c> users</c>
+
+00:02:24.229 --> 00:02:24.239 align:start position:0%
+same amongst all users
+ 
+
+00:02:24.239 --> 00:02:25.990 align:start position:0%
+same amongst all users
+there's<00:02:24.480><c> also</c><00:02:24.959><c> anything</c><00:02:25.360><c> that</c><00:02:25.520><c> involves</c>
+
+00:02:25.990 --> 00:02:26.000 align:start position:0%
+there's also anything that involves
+ 
+
+00:02:26.000 --> 00:02:28.309 align:start position:0%
+there's also anything that involves
+offline<00:02:26.400><c> editing</c><00:02:26.879><c> like</c><00:02:27.120><c> say</c><00:02:27.360><c> a</c><00:02:27.599><c> calendar</c><00:02:28.080><c> app</c>
+
+00:02:28.309 --> 00:02:28.319 align:start position:0%
+offline editing like say a calendar app
+ 
+
+00:02:28.319 --> 00:02:29.510 align:start position:0%
+offline editing like say a calendar app
+eventually<00:02:28.720><c> you're</c><00:02:28.800><c> gonna</c><00:02:28.959><c> have</c><00:02:29.040><c> to</c><00:02:29.200><c> sync</c>
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+eventually you're gonna have to sync
+ 
+
+00:02:29.520 --> 00:02:31.910 align:start position:0%
+eventually you're gonna have to sync
+those<00:02:29.760><c> changes</c><00:02:30.239><c> back</c><00:02:30.480><c> into</c><00:02:30.720><c> the</c><00:02:30.879><c> database</c><00:02:31.760><c> and</c>
+
+00:02:31.910 --> 00:02:31.920 align:start position:0%
+those changes back into the database and
+ 
+
+00:02:31.920 --> 00:02:34.309 align:start position:0%
+those changes back into the database and
+so<00:02:32.239><c> in</c><00:02:32.400><c> that</c><00:02:32.640><c> sense</c><00:02:32.959><c> each</c><00:02:33.280><c> offline</c><00:02:33.840><c> client</c><00:02:34.160><c> is</c>
+
+00:02:34.309 --> 00:02:34.319 align:start position:0%
+so in that sense each offline client is
+ 
+
+00:02:34.319 --> 00:02:36.390 align:start position:0%
+so in that sense each offline client is
+kind<00:02:34.480><c> of</c><00:02:34.640><c> treated</c><00:02:34.959><c> like</c><00:02:35.120><c> its</c><00:02:35.360><c> own</c><00:02:35.519><c> database</c><00:02:36.160><c> in</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+kind of treated like its own database in
+ 
+
+00:02:36.400 --> 00:02:38.790 align:start position:0%
+kind of treated like its own database in
+a<00:02:36.640><c> multi-leader</c><00:02:37.200><c> replication</c><00:02:37.840><c> setup</c><00:02:38.640><c> and</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+a multi-leader replication setup and
+ 
+
+00:02:38.800 --> 00:02:41.589 align:start position:0%
+a multi-leader replication setup and
+then<00:02:38.959><c> finally</c><00:02:39.840><c> crdts</c><00:02:40.560><c> are</c><00:02:40.720><c> now</c><00:02:40.959><c> used</c><00:02:41.360><c> in</c><00:02:41.519><c> a</c>
+
+00:02:41.589 --> 00:02:41.599 align:start position:0%
+then finally crdts are now used in a
+ 
+
+00:02:41.599 --> 00:02:43.910 align:start position:0%
+then finally crdts are now used in a
+decent<00:02:41.920><c> amount</c><00:02:42.160><c> of</c><00:02:42.319><c> distributed</c><00:02:43.360><c> key</c><00:02:43.599><c> value</c>
+
+00:02:43.910 --> 00:02:43.920 align:start position:0%
+decent amount of distributed key value
+ 
+
+00:02:43.920 --> 00:02:46.309 align:start position:0%
+decent amount of distributed key value
+stores<00:02:44.319><c> such</c><00:02:44.560><c> as</c><00:02:44.720><c> ryak</c><00:02:45.200><c> and</c><00:02:45.280><c> redis</c><00:02:46.080><c> since</c>
+
+00:02:46.309 --> 00:02:46.319 align:start position:0%
+stores such as ryak and redis since
+ 
+
+00:02:46.319 --> 00:02:47.430 align:start position:0%
+stores such as ryak and redis since
+these<00:02:46.560><c> are</c><00:02:46.640><c> both</c><00:02:46.879><c> things</c><00:02:47.040><c> that</c><00:02:47.200><c> i'll</c><00:02:47.280><c> be</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+these are both things that i'll be
+ 
+
+00:02:47.440 --> 00:02:49.430 align:start position:0%
+these are both things that i'll be
+talking<00:02:47.760><c> about</c><00:02:48.000><c> in</c><00:02:48.160><c> subsequent</c><00:02:48.640><c> videos</c><00:02:49.280><c> i</c>
+
+00:02:49.430 --> 00:02:49.440 align:start position:0%
+talking about in subsequent videos i
+ 
+
+00:02:49.440 --> 00:02:51.589 align:start position:0%
+talking about in subsequent videos i
+wanted<00:02:49.680><c> to</c><00:02:49.840><c> first</c><00:02:50.080><c> talk</c><00:02:50.319><c> about</c><00:02:50.640><c> crdts</c><00:02:51.360><c> because</c>
+
+00:02:51.589 --> 00:02:51.599 align:start position:0%
+wanted to first talk about crdts because
+ 
+
+00:02:51.599 --> 00:02:53.350 align:start position:0%
+wanted to first talk about crdts because
+they're<00:02:51.840><c> very</c><00:02:52.080><c> important</c><00:02:52.480><c> differentiator</c>
+
+00:02:53.350 --> 00:02:53.360 align:start position:0%
+they're very important differentiator
+ 
+
+00:02:53.360 --> 00:02:54.790 align:start position:0%
+they're very important differentiator
+between<00:02:53.760><c> these</c><00:02:54.160><c> and</c><00:02:54.319><c> something</c><00:02:54.640><c> like</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+between these and something like
+ 
+
+00:02:54.800 --> 00:02:56.869 align:start position:0%
+between these and something like
+cassandra
+
+00:02:56.869 --> 00:02:56.879 align:start position:0%
+cassandra
+ 
+
+00:02:56.879 --> 00:02:58.710 align:start position:0%
+cassandra
+okay<00:02:57.200><c> so</c><00:02:57.440><c> there</c><00:02:57.599><c> are</c><00:02:57.680><c> two</c><00:02:57.920><c> main</c><00:02:58.239><c> types</c><00:02:58.560><c> of</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+okay so there are two main types of
+ 
+
+00:02:58.720 --> 00:03:01.750 align:start position:0%
+okay so there are two main types of
+crdts<00:03:00.000><c> there's</c><00:03:00.400><c> operation</c><00:03:01.040><c> based</c><00:03:01.519><c> and</c>
+
+00:03:01.750 --> 00:03:01.760 align:start position:0%
+crdts there's operation based and
+ 
+
+00:03:01.760 --> 00:03:03.589 align:start position:0%
+crdts there's operation based and
+state-based<00:03:02.319><c> crdts</c>
+
+00:03:03.589 --> 00:03:03.599 align:start position:0%
+state-based crdts
+ 
+
+00:03:03.599 --> 00:03:05.910 align:start position:0%
+state-based crdts
+operation<00:03:04.239><c> based</c><00:03:04.800><c> is</c><00:03:05.040><c> what</c><00:03:05.200><c> it</c><00:03:05.360><c> sounds</c><00:03:05.599><c> like</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+operation based is what it sounds like
+ 
+
+00:03:05.920 --> 00:03:08.070 align:start position:0%
+operation based is what it sounds like
+basically<00:03:06.400><c> you're</c><00:03:06.560><c> going</c><00:03:06.800><c> to</c><00:03:06.959><c> be</c><00:03:07.200><c> passing</c><00:03:07.760><c> the</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+basically you're going to be passing the
+ 
+
+00:03:08.080 --> 00:03:11.190 align:start position:0%
+basically you're going to be passing the
+operation<00:03:09.120><c> from</c><00:03:09.599><c> database</c><00:03:10.080><c> to</c><00:03:10.239><c> database</c><00:03:11.040><c> so</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+operation from database to database so
+ 
+
+00:03:11.200 --> 00:03:13.270 align:start position:0%
+operation from database to database so
+basically<00:03:11.920><c> for</c><00:03:12.239><c> something</c><00:03:12.480><c> like</c><00:03:12.720><c> a</c><00:03:12.800><c> counter</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+basically for something like a counter
+ 
+
+00:03:13.280 --> 00:03:15.430 align:start position:0%
+basically for something like a counter
+instead<00:03:13.599><c> of</c><00:03:13.760><c> passing</c><00:03:14.319><c> an</c><00:03:14.480><c> entire</c><00:03:14.800><c> database's</c>
+
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+instead of passing an entire database's
+ 
+
+00:03:15.440 --> 00:03:17.430 align:start position:0%
+instead of passing an entire database's
+local<00:03:15.760><c> counter</c><00:03:16.080><c> from</c><00:03:16.239><c> database</c><00:03:16.640><c> to</c><00:03:16.800><c> database</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+local counter from database to database
+ 
+
+00:03:17.440 --> 00:03:19.670 align:start position:0%
+local counter from database to database
+you'll<00:03:17.599><c> simply</c><00:03:18.080><c> pass</c><00:03:18.319><c> the</c><00:03:18.480><c> fact</c><00:03:18.879><c> that</c>
+
+00:03:19.670 --> 00:03:19.680 align:start position:0%
+you'll simply pass the fact that
+ 
+
+00:03:19.680 --> 00:03:21.830 align:start position:0%
+you'll simply pass the fact that
+there<00:03:19.840><c> was</c><00:03:20.000><c> an</c><00:03:20.159><c> increment</c><00:03:20.640><c> operation</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+there was an increment operation
+ 
+
+00:03:21.840 --> 00:03:23.589 align:start position:0%
+there was an increment operation
+what's<00:03:22.080><c> important</c><00:03:22.480><c> about</c><00:03:22.720><c> this</c><00:03:23.040><c> is</c><00:03:23.120><c> that</c><00:03:23.360><c> even</c>
+
+00:03:23.589 --> 00:03:23.599 align:start position:0%
+what's important about this is that even
+ 
+
+00:03:23.599 --> 00:03:25.110 align:start position:0%
+what's important about this is that even
+though<00:03:23.840><c> those</c><00:03:24.080><c> operations</c><00:03:24.799><c> may</c><00:03:24.959><c> be</c>
+
+00:03:25.110 --> 00:03:25.120 align:start position:0%
+though those operations may be
+ 
+
+00:03:25.120 --> 00:03:27.110 align:start position:0%
+though those operations may be
+commutative<00:03:25.840><c> as</c><00:03:26.080><c> in</c><00:03:26.239><c> it</c><00:03:26.319><c> doesn't</c><00:03:26.560><c> matter</c>
+
+00:03:27.110 --> 00:03:27.120 align:start position:0%
+commutative as in it doesn't matter
+ 
+
+00:03:27.120 --> 00:03:29.350 align:start position:0%
+commutative as in it doesn't matter
+which<00:03:27.440><c> one</c><00:03:27.760><c> is</c><00:03:28.080><c> executed</c><00:03:28.560><c> first</c><00:03:28.879><c> the</c><00:03:29.040><c> order</c><00:03:29.280><c> of</c>
+
+00:03:29.350 --> 00:03:29.360 align:start position:0%
+which one is executed first the order of
+ 
+
+00:03:29.360 --> 00:03:30.710 align:start position:0%
+which one is executed first the order of
+them<00:03:29.599><c> doesn't</c><00:03:29.840><c> matter</c>
+
+00:03:30.710 --> 00:03:30.720 align:start position:0%
+them doesn't matter
+ 
+
+00:03:30.720 --> 00:03:33.030 align:start position:0%
+them doesn't matter
+they<00:03:30.959><c> may</c><00:03:31.120><c> not</c><00:03:31.280><c> be</c><00:03:31.519><c> item</c><00:03:31.840><c> potent</c><00:03:32.480><c> which</c><00:03:32.720><c> means</c>
+
+00:03:33.030 --> 00:03:33.040 align:start position:0%
+they may not be item potent which means
+ 
+
+00:03:33.040 --> 00:03:35.509 align:start position:0%
+they may not be item potent which means
+that<00:03:33.280><c> if</c><00:03:33.519><c> for</c><00:03:33.680><c> some</c><00:03:33.920><c> reason</c><00:03:34.720><c> the</c><00:03:34.879><c> network</c><00:03:35.280><c> goes</c>
+
+00:03:35.509 --> 00:03:35.519 align:start position:0%
+that if for some reason the network goes
+ 
+
+00:03:35.519 --> 00:03:37.589 align:start position:0%
+that if for some reason the network goes
+ahead<00:03:35.840><c> and</c><00:03:36.000><c> duplicates</c><00:03:36.640><c> the</c><00:03:36.799><c> fact</c><00:03:37.200><c> that</c><00:03:37.440><c> a</c>
+
+00:03:37.589 --> 00:03:37.599 align:start position:0%
+ahead and duplicates the fact that a
+ 
+
+00:03:37.599 --> 00:03:39.910 align:start position:0%
+ahead and duplicates the fact that a
+client<00:03:37.920><c> tried</c><00:03:38.159><c> to</c><00:03:38.400><c> increment</c><00:03:38.799><c> a</c><00:03:38.879><c> counter</c><00:03:39.680><c> one</c>
+
+00:03:39.910 --> 00:03:39.920 align:start position:0%
+client tried to increment a counter one
+ 
+
+00:03:39.920 --> 00:03:42.869 align:start position:0%
+client tried to increment a counter one
+database<00:03:40.480><c> node</c><00:03:40.879><c> might</c><00:03:41.040><c> receive</c><00:03:41.440><c> the</c><00:03:41.599><c> fact</c>
+
+00:03:42.869 --> 00:03:42.879 align:start position:0%
+database node might receive the fact
+ 
+
+00:03:42.879 --> 00:03:44.390 align:start position:0%
+database node might receive the fact
+that<00:03:43.040><c> there</c><00:03:43.280><c> were</c><00:03:43.440><c> two</c><00:03:43.680><c> increments</c><00:03:44.080><c> when</c><00:03:44.239><c> the</c>
+
+00:03:44.390 --> 00:03:44.400 align:start position:0%
+that there were two increments when the
+ 
+
+00:03:44.400 --> 00:03:45.990 align:start position:0%
+that there were two increments when the
+other<00:03:44.560><c> database</c><00:03:45.040><c> node</c><00:03:45.280><c> thinks</c><00:03:45.519><c> there</c><00:03:45.680><c> is</c><00:03:45.760><c> only</c>
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+other database node thinks there is only
+ 
+
+00:03:46.000 --> 00:03:47.990 align:start position:0%
+other database node thinks there is only
+one<00:03:46.239><c> increment</c><00:03:46.959><c> so</c><00:03:47.120><c> it's</c><00:03:47.280><c> important</c><00:03:47.599><c> to</c><00:03:47.760><c> make</c>
+
+00:03:47.990 --> 00:03:48.000 align:start position:0%
+one increment so it's important to make
+ 
+
+00:03:48.000 --> 00:03:50.070 align:start position:0%
+one increment so it's important to make
+sure<00:03:48.239><c> that</c><00:03:48.480><c> these</c><00:03:48.799><c> are</c><00:03:48.959><c> deduplicated</c><00:03:49.840><c> which</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+sure that these are deduplicated which
+ 
+
+00:03:50.080 --> 00:03:52.550 align:start position:0%
+sure that these are deduplicated which
+you<00:03:50.159><c> can</c><00:03:50.319><c> do</c><00:03:50.560><c> via</c><00:03:50.879><c> something</c><00:03:51.200><c> like</c><00:03:51.360><c> tcp</c><00:03:52.319><c> or</c>
+
+00:03:52.550 --> 00:03:52.560 align:start position:0%
+you can do via something like tcp or
+ 
+
+00:03:52.560 --> 00:03:54.070 align:start position:0%
+you can do via something like tcp or
+maybe<00:03:52.799><c> you</c><00:03:52.959><c> could</c><00:03:53.120><c> even</c><00:03:53.280><c> just</c><00:03:53.519><c> include</c><00:03:53.920><c> an</c>
+
+00:03:54.070 --> 00:03:54.080 align:start position:0%
+maybe you could even just include an
+ 
+
+00:03:54.080 --> 00:03:55.190 align:start position:0%
+maybe you could even just include an
+extra<00:03:54.319><c> key</c>
+
+00:03:55.190 --> 00:03:55.200 align:start position:0%
+extra key
+ 
+
+00:03:55.200 --> 00:03:56.309 align:start position:0%
+extra key
+that<00:03:55.439><c> acts</c>
+
+00:03:56.309 --> 00:03:56.319 align:start position:0%
+that acts
+ 
+
+00:03:56.319 --> 00:03:59.350 align:start position:0%
+that acts
+as<00:03:56.480><c> a</c><00:03:56.560><c> way</c><00:03:56.720><c> to</c><00:03:56.879><c> ensure</c><00:03:57.200><c> item</c><00:03:57.519><c> potency</c>
+
+00:03:59.350 --> 00:03:59.360 align:start position:0%
+as a way to ensure item potency
+ 
+
+00:03:59.360 --> 00:04:00.869 align:start position:0%
+as a way to ensure item potency
+additionally<00:04:00.000><c> these</c><00:04:00.239><c> are</c><00:04:00.400><c> really</c><00:04:00.640><c> good</c>
+
+00:04:00.869 --> 00:04:00.879 align:start position:0%
+additionally these are really good
+ 
+
+00:04:00.879 --> 00:04:03.670 align:start position:0%
+additionally these are really good
+compared<00:04:01.280><c> to</c><00:04:01.360><c> state-based</c><00:04:01.920><c> crdts</c><00:04:03.040><c> when</c><00:04:03.439><c> the</c>
+
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+compared to state-based crdts when the
+ 
+
+00:04:03.680 --> 00:04:05.350 align:start position:0%
+compared to state-based crdts when the
+state<00:04:04.159><c> of</c><00:04:04.319><c> whatever</c><00:04:04.720><c> it</c><00:04:04.879><c> is</c><00:04:05.040><c> that</c><00:04:05.120><c> we're</c>
+
+00:04:05.350 --> 00:04:05.360 align:start position:0%
+state of whatever it is that we're
+ 
+
+00:04:05.360 --> 00:04:07.670 align:start position:0%
+state of whatever it is that we're
+transmitting<00:04:05.920><c> or</c><00:04:06.159><c> trying</c><00:04:06.480><c> to</c><00:04:06.879><c> keep</c><00:04:07.120><c> track</c><00:04:07.439><c> of</c>
+
+00:04:07.670 --> 00:04:07.680 align:start position:0%
+transmitting or trying to keep track of
+ 
+
+00:04:07.680 --> 00:04:10.710 align:start position:0%
+transmitting or trying to keep track of
+is<00:04:07.840><c> very</c><00:04:08.159><c> large</c><00:04:08.560><c> and</c><00:04:08.720><c> expensive</c><00:04:09.360><c> to</c><00:04:09.680><c> kind</c><00:04:09.920><c> of</c>
+
+00:04:10.710 --> 00:04:10.720 align:start position:0%
+is very large and expensive to kind of
+ 
+
+00:04:10.720 --> 00:04:12.869 align:start position:0%
+is very large and expensive to kind of
+transmit<00:04:11.280><c> over</c><00:04:11.439><c> the</c><00:04:11.599><c> network</c>
+
+00:04:12.869 --> 00:04:12.879 align:start position:0%
+transmit over the network
+ 
+
+00:04:12.879 --> 00:04:14.949 align:start position:0%
+transmit over the network
+even<00:04:13.280><c> especially</c><00:04:13.920><c> if</c><00:04:14.080><c> there</c><00:04:14.239><c> are</c><00:04:14.319><c> very</c><00:04:14.640><c> few</c>
+
+00:04:14.949 --> 00:04:14.959 align:start position:0%
+even especially if there are very few
+ 
+
+00:04:14.959 --> 00:04:17.270 align:start position:0%
+even especially if there are very few
+operations<00:04:15.599><c> relative</c><00:04:16.000><c> to</c><00:04:16.160><c> the</c><00:04:16.320><c> size</c><00:04:16.959><c> of</c><00:04:17.120><c> the</c>
+
+00:04:17.270 --> 00:04:17.280 align:start position:0%
+operations relative to the size of the
+ 
+
+00:04:17.280 --> 00:04:19.030 align:start position:0%
+operations relative to the size of the
+crdt<00:04:18.000><c> itself</c>
+
+00:04:19.030 --> 00:04:19.040 align:start position:0%
+crdt itself
+ 
+
+00:04:19.040 --> 00:04:21.590 align:start position:0%
+crdt itself
+again<00:04:19.440><c> operation</c><00:04:20.000><c> based</c><00:04:20.239><c> crdts</c><00:04:21.040><c> are</c><00:04:21.199><c> probably</c>
+
+00:04:21.590 --> 00:04:21.600 align:start position:0%
+again operation based crdts are probably
+ 
+
+00:04:21.600 --> 00:04:23.510 align:start position:0%
+again operation based crdts are probably
+the<00:04:21.759><c> move</c><00:04:22.000><c> here</c>
+
+00:04:23.510 --> 00:04:23.520 align:start position:0%
+the move here
+ 
+
+00:04:23.520 --> 00:04:25.110 align:start position:0%
+the move here
+that<00:04:23.759><c> being</c><00:04:24.000><c> said</c><00:04:24.240><c> these</c><00:04:24.479><c> two</c><00:04:24.720><c> things</c><00:04:24.960><c> are</c>
+
+00:04:25.110 --> 00:04:25.120 align:start position:0%
+that being said these two things are
+ 
+
+00:04:25.120 --> 00:04:27.189 align:start position:0%
+that being said these two things are
+both<00:04:25.520><c> equivalent</c><00:04:26.080><c> mathematically</c><00:04:26.880><c> so</c><00:04:27.120><c> it</c>
+
+00:04:27.189 --> 00:04:27.199 align:start position:0%
+both equivalent mathematically so it
+ 
+
+00:04:27.199 --> 00:04:28.550 align:start position:0%
+both equivalent mathematically so it
+really<00:04:27.440><c> kind</c><00:04:27.600><c> of</c><00:04:27.759><c> comes</c><00:04:28.000><c> down</c><00:04:28.240><c> to</c><00:04:28.320><c> these</c>
+
+00:04:28.550 --> 00:04:28.560 align:start position:0%
+really kind of comes down to these
+ 
+
+00:04:28.560 --> 00:04:29.830 align:start position:0%
+really kind of comes down to these
+trade-offs
+
+00:04:29.830 --> 00:04:29.840 align:start position:0%
+trade-offs
+ 
+
+00:04:29.840 --> 00:04:32.550 align:start position:0%
+trade-offs
+as<00:04:30.000><c> far</c><00:04:30.240><c> as</c><00:04:30.400><c> state-based</c><00:04:30.880><c> crdts</c><00:04:31.600><c> go</c>
+
+00:04:32.550 --> 00:04:32.560 align:start position:0%
+as far as state-based crdts go
+ 
+
+00:04:32.560 --> 00:04:34.070 align:start position:0%
+as far as state-based crdts go
+for<00:04:32.800><c> something</c><00:04:33.040><c> like</c><00:04:33.280><c> say</c><00:04:33.440><c> a</c><00:04:33.520><c> counter</c><00:04:33.919><c> for</c>
+
+00:04:34.070 --> 00:04:34.080 align:start position:0%
+for something like say a counter for
+ 
+
+00:04:34.080 --> 00:04:35.990 align:start position:0%
+for something like say a counter for
+example<00:04:34.479><c> like</c><00:04:34.720><c> i</c><00:04:34.800><c> mentioned</c><00:04:35.520><c> you</c><00:04:35.680><c> would</c><00:04:35.840><c> be</c>
+
+00:04:35.990 --> 00:04:36.000 align:start position:0%
+example like i mentioned you would be
+ 
+
+00:04:36.000 --> 00:04:38.310 align:start position:0%
+example like i mentioned you would be
+sending<00:04:36.320><c> the</c><00:04:36.479><c> entirety</c><00:04:36.960><c> of</c><00:04:37.120><c> the</c><00:04:37.199><c> counter</c><00:04:38.000><c> over</c>
+
+00:04:38.310 --> 00:04:38.320 align:start position:0%
+sending the entirety of the counter over
+ 
+
+00:04:38.320 --> 00:04:40.469 align:start position:0%
+sending the entirety of the counter over
+from<00:04:38.560><c> one</c><00:04:38.800><c> node</c><00:04:39.120><c> to</c><00:04:39.280><c> another</c><00:04:40.000><c> and</c><00:04:40.160><c> then</c><00:04:40.320><c> the</c>
+
+00:04:40.469 --> 00:04:40.479 align:start position:0%
+from one node to another and then the
+ 
+
+00:04:40.479 --> 00:04:42.550 align:start position:0%
+from one node to another and then the
+nodes<00:04:40.960><c> once</c><00:04:41.280><c> they</c><00:04:41.440><c> receive</c><00:04:41.919><c> kind</c><00:04:42.080><c> of</c><00:04:42.240><c> those</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+nodes once they receive kind of those
+ 
+
+00:04:42.560 --> 00:04:44.870 align:start position:0%
+nodes once they receive kind of those
+remote<00:04:42.960><c> counters</c><00:04:43.360><c> would</c><00:04:43.759><c> uh</c><00:04:44.080><c> be</c><00:04:44.240><c> going</c><00:04:44.560><c> ahead</c>
+
+00:04:44.870 --> 00:04:44.880 align:start position:0%
+remote counters would uh be going ahead
+ 
+
+00:04:44.880 --> 00:04:47.350 align:start position:0%
+remote counters would uh be going ahead
+and<00:04:45.120><c> merging</c><00:04:45.680><c> in</c><00:04:46.080><c> that</c><00:04:46.320><c> state</c>
+
+00:04:47.350 --> 00:04:47.360 align:start position:0%
+and merging in that state
+ 
+
+00:04:47.360 --> 00:04:49.189 align:start position:0%
+and merging in that state
+the<00:04:47.520><c> merge</c><00:04:47.840><c> function</c><00:04:48.320><c> it's</c><00:04:48.479><c> very</c><00:04:48.720><c> important</c>
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+the merge function it's very important
+ 
+
+00:04:49.199 --> 00:04:51.030 align:start position:0%
+the merge function it's very important
+that<00:04:49.360><c> it's</c><00:04:49.520><c> both</c><00:04:49.759><c> commutative</c><00:04:50.479><c> and</c><00:04:50.720><c> item</c>
+
+00:04:51.030 --> 00:04:51.040 align:start position:0%
+that it's both commutative and item
+ 
+
+00:04:51.040 --> 00:04:52.950 align:start position:0%
+that it's both commutative and item
+potent<00:04:51.520><c> so</c><00:04:51.759><c> even</c><00:04:52.080><c> if</c><00:04:52.240><c> you</c><00:04:52.479><c> accidentally</c>
+
+00:04:52.950 --> 00:04:52.960 align:start position:0%
+potent so even if you accidentally
+ 
+
+00:04:52.960 --> 00:04:55.749 align:start position:0%
+potent so even if you accidentally
+duplicate<00:04:53.600><c> a</c><00:04:53.680><c> merge</c><00:04:54.240><c> it</c><00:04:54.400><c> has</c><00:04:54.639><c> no</c><00:04:54.880><c> effect</c><00:04:55.600><c> and</c>
+
+00:04:55.749 --> 00:04:55.759 align:start position:0%
+duplicate a merge it has no effect and
+ 
+
+00:04:55.759 --> 00:04:57.670 align:start position:0%
+duplicate a merge it has no effect and
+emerge<00:04:56.160><c> will</c><00:04:56.240><c> go</c><00:04:56.400><c> ahead</c><00:04:56.720><c> and</c><00:04:56.880><c> propagate</c><00:04:57.440><c> all</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+emerge will go ahead and propagate all
+ 
+
+00:04:57.680 --> 00:04:59.990 align:start position:0%
+emerge will go ahead and propagate all
+the<00:04:57.840><c> previous</c><00:04:58.320><c> changes</c><00:04:58.720><c> that</c><00:04:58.880><c> a</c><00:04:59.040><c> node</c><00:04:59.280><c> has</c>
+
+00:04:59.990 --> 00:05:00.000 align:start position:0%
+the previous changes that a node has
+ 
+
+00:05:00.000 --> 00:05:02.550 align:start position:0%
+the previous changes that a node has
+basically<00:05:00.479><c> realized</c><00:05:01.039><c> or</c><00:05:01.199><c> seen</c><00:05:01.440><c> in</c><00:05:01.600><c> the</c><00:05:01.680><c> past</c>
+
+00:05:02.550 --> 00:05:02.560 align:start position:0%
+basically realized or seen in the past
+ 
+
+00:05:02.560 --> 00:05:03.830 align:start position:0%
+basically realized or seen in the past
+in<00:05:02.720><c> this</c><00:05:02.960><c> sense</c>
+
+00:05:03.830 --> 00:05:03.840 align:start position:0%
+in this sense
+ 
+
+00:05:03.840 --> 00:05:05.749 align:start position:0%
+in this sense
+state-based<00:05:04.400><c> crdts</c><00:05:05.039><c> are</c><00:05:05.120><c> pretty</c><00:05:05.360><c> simple</c><00:05:05.600><c> to</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+state-based crdts are pretty simple to
+ 
+
+00:05:05.759 --> 00:05:07.990 align:start position:0%
+state-based crdts are pretty simple to
+reason<00:05:06.000><c> about</c><00:05:06.320><c> but</c><00:05:06.479><c> like</c><00:05:06.720><c> i</c><00:05:06.880><c> said</c><00:05:07.440><c> they</c><00:05:07.600><c> can</c><00:05:07.759><c> be</c>
+
+00:05:07.990 --> 00:05:08.000 align:start position:0%
+reason about but like i said they can be
+ 
+
+00:05:08.000 --> 00:05:09.670 align:start position:0%
+reason about but like i said they can be
+kind<00:05:08.160><c> of</c><00:05:08.320><c> slow</c><00:05:08.720><c> if</c><00:05:08.880><c> you</c><00:05:09.039><c> have</c><00:05:09.199><c> a</c><00:05:09.280><c> lot</c><00:05:09.440><c> to</c>
+
+00:05:09.670 --> 00:05:09.680 align:start position:0%
+kind of slow if you have a lot to
+ 
+
+00:05:09.680 --> 00:05:11.510 align:start position:0%
+kind of slow if you have a lot to
+transmit<00:05:10.160><c> over</c><00:05:10.320><c> the</c><00:05:10.400><c> network</c>
+
+00:05:11.510 --> 00:05:11.520 align:start position:0%
+transmit over the network
+ 
+
+00:05:11.520 --> 00:05:14.070 align:start position:0%
+transmit over the network
+finally<00:05:12.080><c> since</c><00:05:12.639><c> gossip</c><00:05:13.039><c> protocols</c><00:05:13.680><c> deliver</c>
+
+00:05:14.070 --> 00:05:14.080 align:start position:0%
+finally since gossip protocols deliver
+ 
+
+00:05:14.080 --> 00:05:17.270 align:start position:0%
+finally since gossip protocols deliver
+messages<00:05:14.639><c> out</c><00:05:14.800><c> of</c><00:05:14.960><c> order</c><00:05:15.759><c> and</c><00:05:16.240><c> since</c><00:05:16.639><c> they</c><00:05:17.039><c> are</c>
+
+00:05:17.270 --> 00:05:17.280 align:start position:0%
+messages out of order and since they are
+ 
+
+00:05:17.280 --> 00:05:19.110 align:start position:0%
+messages out of order and since they are
+potentially<00:05:17.759><c> duplicated</c><00:05:18.560><c> i've</c><00:05:18.720><c> mentioned</c>
+
+00:05:19.110 --> 00:05:19.120 align:start position:0%
+potentially duplicated i've mentioned
+ 
+
+00:05:19.120 --> 00:05:20.790 align:start position:0%
+potentially duplicated i've mentioned
+gossip<00:05:19.440><c> protocols</c><00:05:19.919><c> in</c><00:05:20.000><c> a</c><00:05:20.080><c> prior</c><00:05:20.320><c> video</c><00:05:20.560><c> on</c><00:05:20.639><c> my</c>
+
+00:05:20.790 --> 00:05:20.800 align:start position:0%
+gossip protocols in a prior video on my
+ 
+
+00:05:20.800 --> 00:05:23.110 align:start position:0%
+gossip protocols in a prior video on my
+channel<00:05:21.039><c> so</c><00:05:21.280><c> feel</c><00:05:21.440><c> free</c><00:05:21.600><c> to</c><00:05:21.680><c> look</c><00:05:21.840><c> at</c><00:05:21.919><c> that</c>
+
+00:05:23.110 --> 00:05:23.120 align:start position:0%
+channel so feel free to look at that
+ 
+
+00:05:23.120 --> 00:05:24.710 align:start position:0%
+channel so feel free to look at that
+they<00:05:23.280><c> work</c><00:05:23.600><c> very</c><00:05:23.840><c> well</c><00:05:24.080><c> with</c><00:05:24.240><c> state-based</c>
+
+00:05:24.710 --> 00:05:24.720 align:start position:0%
+they work very well with state-based
+ 
+
+00:05:24.720 --> 00:05:27.430 align:start position:0%
+they work very well with state-based
+crdts<00:05:25.840><c> for</c><00:05:26.080><c> kind</c><00:05:26.320><c> of</c><00:05:26.479><c> exchanging</c><00:05:26.960><c> all</c><00:05:27.120><c> of</c><00:05:27.199><c> this</c>
+
+00:05:27.430 --> 00:05:27.440 align:start position:0%
+crdts for kind of exchanging all of this
+ 
+
+00:05:27.440 --> 00:05:28.870 align:start position:0%
+crdts for kind of exchanging all of this
+information
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+information
+ 
+
+00:05:28.880 --> 00:05:30.310 align:start position:0%
+information
+okay<00:05:29.120><c> so</c><00:05:29.280><c> now</c><00:05:29.440><c> i'm</c><00:05:29.520><c> going</c><00:05:29.600><c> to</c><00:05:29.680><c> go</c><00:05:29.919><c> through</c><00:05:30.160><c> a</c>
+
+00:05:30.310 --> 00:05:30.320 align:start position:0%
+okay so now i'm going to go through a
+ 
+
+00:05:30.320 --> 00:05:32.710 align:start position:0%
+okay so now i'm going to go through a
+few<00:05:30.560><c> examples</c><00:05:31.120><c> of</c><00:05:31.199><c> crdts</c><00:05:32.320><c> i'm</c><00:05:32.479><c> going</c><00:05:32.479><c> to</c><00:05:32.560><c> go</c>
+
+00:05:32.710 --> 00:05:32.720 align:start position:0%
+few examples of crdts i'm going to go
+ 
+
+00:05:32.720 --> 00:05:34.629 align:start position:0%
+few examples of crdts i'm going to go
+through<00:05:32.960><c> the</c><00:05:33.039><c> first</c><00:05:33.360><c> one</c><00:05:33.600><c> in</c><00:05:33.840><c> a</c><00:05:33.919><c> lot</c><00:05:34.080><c> of</c><00:05:34.160><c> depth</c>
+
+00:05:34.629 --> 00:05:34.639 align:start position:0%
+through the first one in a lot of depth
+ 
+
+00:05:34.639 --> 00:05:36.550 align:start position:0%
+through the first one in a lot of depth
+and<00:05:34.720><c> then</c><00:05:34.960><c> we'll</c><00:05:35.199><c> quickly</c><00:05:35.520><c> go</c><00:05:35.840><c> through</c><00:05:36.479><c> the</c>
+
+00:05:36.550 --> 00:05:36.560 align:start position:0%
+and then we'll quickly go through the
+ 
+
+00:05:36.560 --> 00:05:38.390 align:start position:0%
+and then we'll quickly go through the
+next<00:05:36.880><c> couple</c><00:05:37.199><c> to</c><00:05:37.360><c> kind</c><00:05:37.600><c> of</c><00:05:37.680><c> see</c><00:05:37.919><c> how</c><00:05:38.080><c> you</c><00:05:38.240><c> can</c>
+
+00:05:38.390 --> 00:05:38.400 align:start position:0%
+next couple to kind of see how you can
+ 
+
+00:05:38.400 --> 00:05:41.270 align:start position:0%
+next couple to kind of see how you can
+grow<00:05:38.639><c> those</c><00:05:38.880><c> from</c><00:05:39.039><c> the</c><00:05:39.199><c> first</c><00:05:39.440><c> example</c>
+
+00:05:41.270 --> 00:05:41.280 align:start position:0%
+grow those from the first example
+ 
+
+00:05:41.280 --> 00:05:42.390 align:start position:0%
+grow those from the first example
+okay
+
+00:05:42.390 --> 00:05:42.400 align:start position:0%
+okay
+ 
+
+00:05:42.400 --> 00:05:44.469 align:start position:0%
+okay
+so<00:05:42.560><c> this</c><00:05:42.800><c> is</c><00:05:42.880><c> a</c><00:05:42.960><c> grow</c><00:05:43.280><c> only</c><00:05:43.520><c> counter</c><00:05:44.160><c> which</c><00:05:44.400><c> is</c>
+
+00:05:44.469 --> 00:05:44.479 align:start position:0%
+so this is a grow only counter which is
+ 
+
+00:05:44.479 --> 00:05:47.110 align:start position:0%
+so this is a grow only counter which is
+basically<00:05:44.960><c> saying</c><00:05:45.680><c> we</c><00:05:45.919><c> are</c><00:05:46.000><c> going</c><00:05:46.320><c> to</c><00:05:46.560><c> have</c>
+
+00:05:47.110 --> 00:05:47.120 align:start position:0%
+basically saying we are going to have
+ 
+
+00:05:47.120 --> 00:05:48.950 align:start position:0%
+basically saying we are going to have
+counters<00:05:47.680><c> on</c><00:05:47.919><c> every</c><00:05:48.080><c> single</c><00:05:48.400><c> database</c>
+
+00:05:48.950 --> 00:05:48.960 align:start position:0%
+counters on every single database
+ 
+
+00:05:48.960 --> 00:05:51.830 align:start position:0%
+counters on every single database
+replica<00:05:49.840><c> which</c><00:05:50.160><c> keep</c><00:05:50.400><c> track</c><00:05:50.639><c> of</c><00:05:50.720><c> how</c><00:05:50.880><c> many</c>
+
+00:05:51.830 --> 00:05:51.840 align:start position:0%
+replica which keep track of how many
+ 
+
+00:05:51.840 --> 00:05:53.510 align:start position:0%
+replica which keep track of how many
+increments<00:05:52.320><c> they've</c><00:05:52.560><c> received</c>
+
+00:05:53.510 --> 00:05:53.520 align:start position:0%
+increments they've received
+ 
+
+00:05:53.520 --> 00:05:55.590 align:start position:0%
+increments they've received
+and<00:05:53.919><c> after</c><00:05:54.320><c> merging</c>
+
+00:05:55.590 --> 00:05:55.600 align:start position:0%
+and after merging
+ 
+
+00:05:55.600 --> 00:05:57.430 align:start position:0%
+and after merging
+other<00:05:55.919><c> information</c><00:05:56.479><c> with</c><00:05:56.639><c> other</c><00:05:56.800><c> replicas</c>
+
+00:05:57.430 --> 00:05:57.440 align:start position:0%
+other information with other replicas
+ 
+
+00:05:57.440 --> 00:05:58.390 align:start position:0%
+other information with other replicas
+imagine<00:05:57.759><c> there's</c><00:05:57.919><c> some</c><00:05:58.080><c> sort</c><00:05:58.240><c> of</c>
+
+00:05:58.390 --> 00:05:58.400 align:start position:0%
+imagine there's some sort of
+ 
+
+00:05:58.400 --> 00:06:00.550 align:start position:0%
+imagine there's some sort of
+anti-entropy<00:05:59.199><c> process</c><00:05:59.600><c> in</c><00:05:59.680><c> the</c><00:05:59.759><c> background</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+anti-entropy process in the background
+ 
+
+00:06:00.560 --> 00:06:02.390 align:start position:0%
+anti-entropy process in the background
+that<00:06:00.720><c> kind</c><00:06:00.960><c> of</c><00:06:01.039><c> exchanges</c><00:06:01.680><c> information</c><00:06:02.240><c> from</c>
+
+00:06:02.390 --> 00:06:02.400 align:start position:0%
+that kind of exchanges information from
+ 
+
+00:06:02.400 --> 00:06:04.070 align:start position:0%
+that kind of exchanges information from
+one<00:06:02.639><c> node</c><00:06:02.800><c> to</c><00:06:02.960><c> the</c><00:06:03.039><c> other</c><00:06:03.680><c> what's</c><00:06:03.919><c> going</c><00:06:04.000><c> to</c>
+
+00:06:04.070 --> 00:06:04.080 align:start position:0%
+one node to the other what's going to
+ 
+
+00:06:04.080 --> 00:06:06.150 align:start position:0%
+one node to the other what's going to
+now<00:06:04.319><c> happen</c><00:06:04.880><c> is</c><00:06:05.039><c> that</c><00:06:05.280><c> the</c><00:06:05.440><c> information</c><00:06:06.000><c> is</c>
+
+00:06:06.150 --> 00:06:06.160 align:start position:0%
+now happen is that the information is
+ 
+
+00:06:06.160 --> 00:06:08.390 align:start position:0%
+now happen is that the information is
+going<00:06:06.319><c> to</c><00:06:06.400><c> be</c><00:06:06.639><c> eventually</c><00:06:07.280><c> consistent</c><00:06:08.240><c> and</c>
+
+00:06:08.390 --> 00:06:08.400 align:start position:0%
+going to be eventually consistent and
+ 
+
+00:06:08.400 --> 00:06:10.390 align:start position:0%
+going to be eventually consistent and
+converging<00:06:09.120><c> so</c><00:06:09.280><c> that</c><00:06:09.440><c> every</c><00:06:09.680><c> node</c><00:06:10.000><c> is</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+converging so that every node is
+ 
+
+00:06:10.400 --> 00:06:11.990 align:start position:0%
+converging so that every node is
+somewhat<00:06:10.880><c> up</c><00:06:10.960><c> to</c><00:06:11.120><c> date</c>
+
+00:06:11.990 --> 00:06:12.000 align:start position:0%
+somewhat up to date
+ 
+
+00:06:12.000 --> 00:06:13.430 align:start position:0%
+somewhat up to date
+so<00:06:12.160><c> what's</c><00:06:12.400><c> going</c><00:06:12.479><c> to</c><00:06:12.560><c> happen</c><00:06:12.880><c> is</c><00:06:13.039><c> that</c><00:06:13.199><c> each</c>
+
+00:06:13.430 --> 00:06:13.440 align:start position:0%
+so what's going to happen is that each
+ 
+
+00:06:13.440 --> 00:06:15.110 align:start position:0%
+so what's going to happen is that each
+node<00:06:13.759><c> in</c><00:06:13.919><c> the</c><00:06:14.000><c> database</c><00:06:14.479><c> is</c><00:06:14.639><c> going</c><00:06:14.720><c> to</c><00:06:14.800><c> start</c>
+
+00:06:15.110 --> 00:06:15.120 align:start position:0%
+node in the database is going to start
+ 
+
+00:06:15.120 --> 00:06:16.469 align:start position:0%
+node in the database is going to start
+off<00:06:15.199><c> with</c><00:06:15.360><c> an</c><00:06:15.520><c> array</c><00:06:15.759><c> of</c><00:06:15.840><c> zeros</c><00:06:16.240><c> this</c>
+
+00:06:16.469 --> 00:06:16.479 align:start position:0%
+off with an array of zeros this
+ 
+
+00:06:16.479 --> 00:06:18.230 align:start position:0%
+off with an array of zeros this
+insinuates<00:06:17.039><c> that</c><00:06:17.360><c> all</c><00:06:17.440><c> the</c><00:06:17.600><c> counters</c><00:06:18.000><c> are</c><00:06:18.160><c> at</c>
+
+00:06:18.230 --> 00:06:18.240 align:start position:0%
+insinuates that all the counters are at
+ 
+
+00:06:18.240 --> 00:06:20.150 align:start position:0%
+insinuates that all the counters are at
+zero<00:06:19.039><c> and</c><00:06:19.199><c> that</c>
+
+00:06:20.150 --> 00:06:20.160 align:start position:0%
+zero and that
+ 
+
+00:06:20.160 --> 00:06:22.070 align:start position:0%
+zero and that
+the<00:06:20.319><c> reason</c><00:06:20.800><c> in</c><00:06:20.880><c> this</c><00:06:21.039><c> case</c><00:06:21.360><c> why</c><00:06:21.520><c> we</c><00:06:21.680><c> only</c><00:06:21.919><c> have</c>
+
+00:06:22.070 --> 00:06:22.080 align:start position:0%
+the reason in this case why we only have
+ 
+
+00:06:22.080 --> 00:06:23.590 align:start position:0%
+the reason in this case why we only have
+two<00:06:22.319><c> elements</c><00:06:22.720><c> in</c><00:06:22.800><c> the</c><00:06:22.880><c> list</c><00:06:23.199><c> is</c><00:06:23.360><c> there</c><00:06:23.520><c> are</c>
+
+00:06:23.590 --> 00:06:23.600 align:start position:0%
+two elements in the list is there are
+ 
+
+00:06:23.600 --> 00:06:25.270 align:start position:0%
+two elements in the list is there are
+two<00:06:23.840><c> replicas</c>
+
+00:06:25.270 --> 00:06:25.280 align:start position:0%
+two replicas
+ 
+
+00:06:25.280 --> 00:06:27.510 align:start position:0%
+two replicas
+so<00:06:25.520><c> now</c><00:06:25.840><c> every</c><00:06:26.080><c> single</c><00:06:26.400><c> time</c><00:06:26.880><c> that</c><00:06:27.120><c> one</c><00:06:27.280><c> of</c><00:06:27.360><c> the</c>
+
+00:06:27.510 --> 00:06:27.520 align:start position:0%
+so now every single time that one of the
+ 
+
+00:06:27.520 --> 00:06:29.909 align:start position:0%
+so now every single time that one of the
+replicas<00:06:28.000><c> handles</c><00:06:28.400><c> an</c><00:06:28.560><c> increment</c><00:06:29.039><c> operation</c>
+
+00:06:29.909 --> 00:06:29.919 align:start position:0%
+replicas handles an increment operation
+ 
+
+00:06:29.919 --> 00:06:31.830 align:start position:0%
+replicas handles an increment operation
+it's<00:06:30.160><c> going</c><00:06:30.400><c> to</c><00:06:30.560><c> increment</c><00:06:31.039><c> its</c><00:06:31.280><c> own</c><00:06:31.520><c> local</c>
+
+00:06:31.830 --> 00:06:31.840 align:start position:0%
+it's going to increment its own local
+ 
+
+00:06:31.840 --> 00:06:34.070 align:start position:0%
+it's going to increment its own local
+counter<00:06:32.240><c> so</c><00:06:32.400><c> that</c><00:06:32.720><c> is</c><00:06:33.039><c> its</c><00:06:33.280><c> corresponding</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+counter so that is its corresponding
+ 
+
+00:06:34.080 --> 00:06:36.150 align:start position:0%
+counter so that is its corresponding
+index<00:06:34.560><c> in</c><00:06:34.639><c> the</c><00:06:34.800><c> list</c><00:06:35.039><c> that</c><00:06:35.199><c> it's</c><00:06:35.360><c> holding</c><00:06:36.000><c> so</c>
+
+00:06:36.150 --> 00:06:36.160 align:start position:0%
+index in the list that it's holding so
+ 
+
+00:06:36.160 --> 00:06:38.070 align:start position:0%
+index in the list that it's holding so
+as<00:06:36.319><c> you</c><00:06:36.400><c> can</c><00:06:36.560><c> see</c><00:06:36.960><c> i'm</c><00:06:37.360><c> uh</c><00:06:37.680><c> you</c><00:06:37.840><c> know</c>
+
+00:06:38.070 --> 00:06:38.080 align:start position:0%
+as you can see i'm uh you know
+ 
+
+00:06:38.080 --> 00:06:41.029 align:start position:0%
+as you can see i'm uh you know
+incrementing<00:06:38.960><c> uh</c><00:06:39.440><c> replica</c><00:06:40.000><c> one</c><00:06:40.240><c> or</c><00:06:40.560><c> basically</c>
+
+00:06:41.029 --> 00:06:41.039 align:start position:0%
+incrementing uh replica one or basically
+ 
+
+00:06:41.039 --> 00:06:43.270 align:start position:0%
+incrementing uh replica one or basically
+replica<00:06:41.440><c> one</c><00:06:41.680><c> is</c><00:06:41.759><c> handling</c><00:06:42.160><c> my</c><00:06:42.400><c> increment</c><00:06:43.120><c> so</c>
+
+00:06:43.270 --> 00:06:43.280 align:start position:0%
+replica one is handling my increment so
+ 
+
+00:06:43.280 --> 00:06:45.350 align:start position:0%
+replica one is handling my increment so
+it's<00:06:43.440><c> going</c><00:06:43.600><c> to</c><00:06:43.759><c> increment</c><00:06:44.319><c> the</c><00:06:44.479><c> zeroth</c><00:06:45.039><c> index</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+it's going to increment the zeroth index
+ 
+
+00:06:45.360 --> 00:06:48.629 align:start position:0%
+it's going to increment the zeroth index
+of<00:06:45.440><c> its</c><00:06:45.680><c> list</c><00:06:45.919><c> which</c><00:06:46.080><c> corresponds</c><00:06:46.720><c> to</c><00:06:46.880><c> it</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+of its list which corresponds to it
+ 
+
+00:06:48.639 --> 00:06:50.710 align:start position:0%
+of its list which corresponds to it
+okay<00:06:49.039><c> client</c><00:06:49.440><c> b</c><00:06:49.840><c> is</c><00:06:50.000><c> going</c><00:06:50.080><c> to</c><00:06:50.160><c> do</c><00:06:50.400><c> the</c><00:06:50.479><c> same</c>
+
+00:06:50.710 --> 00:06:50.720 align:start position:0%
+okay client b is going to do the same
+ 
+
+00:06:50.720 --> 00:06:52.230 align:start position:0%
+okay client b is going to do the same
+thing<00:06:51.039><c> but</c><00:06:51.360><c> it's</c><00:06:51.520><c> going</c><00:06:51.599><c> to</c><00:06:51.680><c> be</c><00:06:51.759><c> handled</c><00:06:52.080><c> by</c>
+
+00:06:52.230 --> 00:06:52.240 align:start position:0%
+thing but it's going to be handled by
+ 
+
+00:06:52.240 --> 00:06:54.710 align:start position:0%
+thing but it's going to be handled by
+replica<00:06:52.720><c> 2</c><00:06:53.360><c> and</c><00:06:53.440><c> that</c><00:06:53.680><c> increment</c><00:06:54.160><c> is</c><00:06:54.400><c> going</c><00:06:54.560><c> to</c>
+
+00:06:54.710 --> 00:06:54.720 align:start position:0%
+replica 2 and that increment is going to
+ 
+
+00:06:54.720 --> 00:06:56.710 align:start position:0%
+replica 2 and that increment is going to
+happen<00:06:55.199><c> five</c><00:06:55.440><c> times</c><00:06:55.759><c> so</c><00:06:56.000><c> now</c><00:06:56.240><c> you</c><00:06:56.400><c> can</c><00:06:56.479><c> see</c>
+
+00:06:56.710 --> 00:06:56.720 align:start position:0%
+happen five times so now you can see
+ 
+
+00:06:56.720 --> 00:06:58.230 align:start position:0%
+happen five times so now you can see
+that<00:06:56.800><c> there's</c><00:06:57.039><c> going</c><00:06:57.199><c> to</c><00:06:57.280><c> be</c><00:06:57.520><c> five</c><00:06:57.919><c> in</c><00:06:58.000><c> that</c>
+
+00:06:58.230 --> 00:06:58.240 align:start position:0%
+that there's going to be five in that
+ 
+
+00:06:58.240 --> 00:07:00.950 align:start position:0%
+that there's going to be five in that
+counter<00:06:59.039><c> so</c><00:06:59.199><c> still</c><00:06:59.759><c> even</c><00:07:00.000><c> though</c>
+
+00:07:00.950 --> 00:07:00.960 align:start position:0%
+counter so still even though
+ 
+
+00:07:00.960 --> 00:07:02.390 align:start position:0%
+counter so still even though
+these<00:07:01.199><c> two</c><00:07:01.360><c> separate</c><00:07:01.680><c> requests</c><00:07:02.080><c> have</c><00:07:02.240><c> been</c>
+
+00:07:02.390 --> 00:07:02.400 align:start position:0%
+these two separate requests have been
+ 
+
+00:07:02.400 --> 00:07:03.350 align:start position:0%
+these two separate requests have been
+handled
+
+00:07:03.350 --> 00:07:03.360 align:start position:0%
+handled
+ 
+
+00:07:03.360 --> 00:07:05.189 align:start position:0%
+handled
+the<00:07:03.520><c> two</c><00:07:03.759><c> replicas</c><00:07:04.319><c> have</c><00:07:04.400><c> not</c><00:07:04.639><c> synced</c><00:07:04.960><c> up</c><00:07:05.039><c> with</c>
+
+00:07:05.189 --> 00:07:05.199 align:start position:0%
+the two replicas have not synced up with
+ 
+
+00:07:05.199 --> 00:07:06.870 align:start position:0%
+the two replicas have not synced up with
+one<00:07:05.360><c> another</c><00:07:05.680><c> yet</c><00:07:05.919><c> they're</c><00:07:06.080><c> still</c>
+
+00:07:06.870 --> 00:07:06.880 align:start position:0%
+one another yet they're still
+ 
+
+00:07:06.880 --> 00:07:08.309 align:start position:0%
+one another yet they're still
+eventually<00:07:07.360><c> going</c><00:07:07.440><c> to</c><00:07:07.520><c> converge</c><00:07:08.000><c> but</c><00:07:08.160><c> right</c>
+
+00:07:08.309 --> 00:07:08.319 align:start position:0%
+eventually going to converge but right
+ 
+
+00:07:08.319 --> 00:07:10.070 align:start position:0%
+eventually going to converge but right
+now<00:07:08.479><c> they</c><00:07:08.639><c> have</c><00:07:08.800><c> yet</c><00:07:08.960><c> to</c><00:07:09.039><c> converge</c><00:07:09.840><c> so</c><00:07:10.000><c> let's</c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+now they have yet to converge so let's
+ 
+
+00:07:10.080 --> 00:07:12.150 align:start position:0%
+now they have yet to converge so let's
+say<00:07:10.319><c> i</c><00:07:10.479><c> want</c><00:07:10.639><c> to</c><00:07:10.720><c> query</c><00:07:11.039><c> the</c><00:07:11.120><c> counter</c><00:07:11.440><c> value</c>
+
+00:07:12.150 --> 00:07:12.160 align:start position:0%
+say i want to query the counter value
+ 
+
+00:07:12.160 --> 00:07:13.990 align:start position:0%
+say i want to query the counter value
+and<00:07:12.479><c> the</c><00:07:12.560><c> request</c><00:07:12.960><c> is</c><00:07:13.039><c> handled</c><00:07:13.360><c> by</c><00:07:13.520><c> replica</c>
+
+00:07:13.990 --> 00:07:14.000 align:start position:0%
+and the request is handled by replica
+ 
+
+00:07:14.000 --> 00:07:15.029 align:start position:0%
+and the request is handled by replica
+one
+
+00:07:15.029 --> 00:07:15.039 align:start position:0%
+one
+ 
+
+00:07:15.039 --> 00:07:16.469 align:start position:0%
+one
+it's<00:07:15.199><c> going</c><00:07:15.280><c> to</c><00:07:15.440><c> return</c><00:07:15.840><c> one</c><00:07:16.080><c> because</c><00:07:16.319><c> it's</c>
+
+00:07:16.469 --> 00:07:16.479 align:start position:0%
+it's going to return one because it's
+ 
+
+00:07:16.479 --> 00:07:18.390 align:start position:0%
+it's going to return one because it's
+just<00:07:16.639><c> going</c><00:07:16.720><c> to</c><00:07:16.800><c> sum</c><00:07:17.039><c> up</c><00:07:17.199><c> that</c><00:07:17.360><c> local</c><00:07:17.759><c> array</c><00:07:18.240><c> if</c>
+
+00:07:18.390 --> 00:07:18.400 align:start position:0%
+just going to sum up that local array if
+ 
+
+00:07:18.400 --> 00:07:20.950 align:start position:0%
+just going to sum up that local array if
+i<00:07:18.639><c> had</c><00:07:19.120><c> that</c><00:07:19.440><c> query</c><00:07:19.759><c> handled</c><00:07:20.080><c> by</c><00:07:20.240><c> replica</c><00:07:20.720><c> 2</c>
+
+00:07:20.950 --> 00:07:20.960 align:start position:0%
+i had that query handled by replica 2
+ 
+
+00:07:20.960 --> 00:07:23.510 align:start position:0%
+i had that query handled by replica 2
+then<00:07:21.120><c> it</c><00:07:21.199><c> would</c><00:07:21.360><c> actually</c><00:07:21.599><c> return</c><00:07:22.000><c> 5.</c>
+
+00:07:23.510 --> 00:07:23.520 align:start position:0%
+then it would actually return 5.
+ 
+
+00:07:23.520 --> 00:07:25.350 align:start position:0%
+then it would actually return 5.
+but<00:07:23.840><c> eventually</c><00:07:24.319><c> what's</c><00:07:24.560><c> going</c><00:07:24.639><c> to</c><00:07:24.720><c> happen</c><00:07:25.120><c> is</c>
+
+00:07:25.350 --> 00:07:25.360 align:start position:0%
+but eventually what's going to happen is
+ 
+
+00:07:25.360 --> 00:07:27.270 align:start position:0%
+but eventually what's going to happen is
+that<00:07:25.599><c> anti-entropy</c><00:07:26.319><c> process</c><00:07:26.720><c> which</c><00:07:26.960><c> runs</c><00:07:27.199><c> in</c>
+
+00:07:27.270 --> 00:07:27.280 align:start position:0%
+that anti-entropy process which runs in
+ 
+
+00:07:27.280 --> 00:07:28.710 align:start position:0%
+that anti-entropy process which runs in
+the<00:07:27.360><c> background</c><00:07:27.840><c> or</c><00:07:27.919><c> maybe</c><00:07:28.080><c> it's</c><00:07:28.240><c> a</c><00:07:28.319><c> gossip</c>
+
+00:07:28.710 --> 00:07:28.720 align:start position:0%
+the background or maybe it's a gossip
+ 
+
+00:07:28.720 --> 00:07:30.390 align:start position:0%
+the background or maybe it's a gossip
+protocol<00:07:29.199><c> or</c><00:07:29.280><c> something</c><00:07:29.520><c> like</c><00:07:29.680><c> that</c><00:07:30.160><c> but</c>
+
+00:07:30.390 --> 00:07:30.400 align:start position:0%
+protocol or something like that but
+ 
+
+00:07:30.400 --> 00:07:32.390 align:start position:0%
+protocol or something like that but
+anything<00:07:30.720><c> that</c><00:07:30.880><c> transmits</c><00:07:31.360><c> the</c><00:07:31.440><c> information</c>
+
+00:07:32.390 --> 00:07:32.400 align:start position:0%
+anything that transmits the information
+ 
+
+00:07:32.400 --> 00:07:34.950 align:start position:0%
+anything that transmits the information
+is<00:07:32.639><c> going</c><00:07:32.880><c> to</c><00:07:32.960><c> go</c><00:07:33.120><c> ahead</c><00:07:33.520><c> and</c><00:07:33.840><c> send</c><00:07:34.240><c> that</c><00:07:34.479><c> array</c>
+
+00:07:34.950 --> 00:07:34.960 align:start position:0%
+is going to go ahead and send that array
+ 
+
+00:07:34.960 --> 00:07:37.189 align:start position:0%
+is going to go ahead and send that array
+from<00:07:35.199><c> the</c><00:07:35.280><c> second</c><00:07:35.599><c> replica</c><00:07:36.400><c> to</c><00:07:36.560><c> the</c><00:07:36.720><c> first</c><00:07:37.120><c> and</c>
+
+00:07:37.189 --> 00:07:37.199 align:start position:0%
+from the second replica to the first and
+ 
+
+00:07:37.199 --> 00:07:38.710 align:start position:0%
+from the second replica to the first and
+what's<00:07:37.440><c> going</c><00:07:37.520><c> to</c><00:07:37.599><c> happen</c><00:07:38.080><c> is</c><00:07:38.240><c> the</c><00:07:38.400><c> first</c>
+
+00:07:38.710 --> 00:07:38.720 align:start position:0%
+what's going to happen is the first
+ 
+
+00:07:38.720 --> 00:07:40.469 align:start position:0%
+what's going to happen is the first
+replica<00:07:39.199><c> is</c><00:07:39.280><c> going</c><00:07:39.440><c> to</c><00:07:39.520><c> say</c><00:07:39.759><c> okay</c><00:07:40.080><c> for</c><00:07:40.240><c> every</c>
+
+00:07:40.469 --> 00:07:40.479 align:start position:0%
+replica is going to say okay for every
+ 
+
+00:07:40.479 --> 00:07:41.990 align:start position:0%
+replica is going to say okay for every
+element<00:07:40.880><c> in</c><00:07:40.960><c> this</c><00:07:41.199><c> list</c>
+
+00:07:41.990 --> 00:07:42.000 align:start position:0%
+element in this list
+ 
+
+00:07:42.000 --> 00:07:43.589 align:start position:0%
+element in this list
+i'm<00:07:42.160><c> going</c><00:07:42.319><c> to</c><00:07:42.479><c> create</c><00:07:42.720><c> a</c><00:07:42.880><c> new</c><00:07:43.120><c> array</c><00:07:43.440><c> which</c>
+
+00:07:43.589 --> 00:07:43.599 align:start position:0%
+i'm going to create a new array which
+ 
+
+00:07:43.599 --> 00:07:45.430 align:start position:0%
+i'm going to create a new array which
+now<00:07:43.840><c> represents</c><00:07:44.319><c> my</c><00:07:44.560><c> counter</c><00:07:45.039><c> and</c><00:07:45.199><c> to</c><00:07:45.280><c> get</c>
+
+00:07:45.430 --> 00:07:45.440 align:start position:0%
+now represents my counter and to get
+ 
+
+00:07:45.440 --> 00:07:47.189 align:start position:0%
+now represents my counter and to get
+that<00:07:45.680><c> new</c><00:07:45.840><c> array</c><00:07:46.240><c> i'm</c><00:07:46.319><c> simply</c><00:07:46.639><c> going</c><00:07:46.879><c> to</c><00:07:47.039><c> take</c>
+
+00:07:47.189 --> 00:07:47.199 align:start position:0%
+that new array i'm simply going to take
+ 
+
+00:07:47.199 --> 00:07:49.589 align:start position:0%
+that new array i'm simply going to take
+the<00:07:47.360><c> maximum</c><00:07:48.000><c> so</c><00:07:48.240><c> the</c><00:07:48.319><c> element-wise</c><00:07:49.039><c> maximum</c>
+
+00:07:49.589 --> 00:07:49.599 align:start position:0%
+the maximum so the element-wise maximum
+ 
+
+00:07:49.599 --> 00:07:51.110 align:start position:0%
+the maximum so the element-wise maximum
+of<00:07:49.840><c> each</c><00:07:50.080><c> index</c>
+
+00:07:51.110 --> 00:07:51.120 align:start position:0%
+of each index
+ 
+
+00:07:51.120 --> 00:07:52.309 align:start position:0%
+of each index
+so<00:07:51.360><c> now</c>
+
+00:07:52.309 --> 00:07:52.319 align:start position:0%
+so now
+ 
+
+00:07:52.319 --> 00:07:54.150 align:start position:0%
+so now
+obviously<00:07:52.800><c> now</c><00:07:52.960><c> we're</c><00:07:53.120><c> going</c><00:07:53.199><c> to</c><00:07:53.280><c> have</c><00:07:53.440><c> one</c><00:07:53.680><c> 5</c>
+
+00:07:54.150 --> 00:07:54.160 align:start position:0%
+obviously now we're going to have one 5
+ 
+
+00:07:54.160 --> 00:07:57.350 align:start position:0%
+obviously now we're going to have one 5
+instead<00:07:54.479><c> of</c><00:07:54.960><c> the</c><00:07:55.120><c> 1-0</c><00:07:55.759><c> that</c><00:07:55.919><c> we</c><00:07:56.000><c> had</c><00:07:56.240><c> before</c>
+
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+instead of the 1-0 that we had before
+ 
+
+00:07:57.360 --> 00:07:58.869 align:start position:0%
+instead of the 1-0 that we had before
+when<00:07:57.520><c> the</c><00:07:57.680><c> changes</c><00:07:58.080><c> are</c><00:07:58.160><c> propagated</c>
+
+00:07:58.869 --> 00:07:58.879 align:start position:0%
+when the changes are propagated
+ 
+
+00:07:58.879 --> 00:08:01.430 align:start position:0%
+when the changes are propagated
+propagated<00:07:59.360><c> from</c><00:07:59.520><c> replica</c><00:08:00.080><c> 1</c><00:08:00.319><c> to</c><00:08:00.479><c> replica</c><00:08:00.960><c> 2</c>
+
+00:08:01.430 --> 00:08:01.440 align:start position:0%
+propagated from replica 1 to replica 2
+ 
+
+00:08:01.440 --> 00:08:02.950 align:start position:0%
+propagated from replica 1 to replica 2
+we're<00:08:01.680><c> going</c><00:08:01.759><c> to</c><00:08:01.840><c> call</c><00:08:02.000><c> that</c><00:08:02.160><c> merge</c><00:08:02.479><c> function</c>
+
+00:08:02.950 --> 00:08:02.960 align:start position:0%
+we're going to call that merge function
+ 
+
+00:08:02.960 --> 00:08:04.629 align:start position:0%
+we're going to call that merge function
+on<00:08:03.120><c> replica</c><00:08:03.599><c> 2</c><00:08:03.919><c> and</c><00:08:04.080><c> now</c><00:08:04.240><c> they're</c><00:08:04.400><c> both</c>
+
+00:08:04.629 --> 00:08:04.639 align:start position:0%
+on replica 2 and now they're both
+ 
+
+00:08:04.639 --> 00:08:06.950 align:start position:0%
+on replica 2 and now they're both
+consistent<00:08:05.280><c> and</c><00:08:05.360><c> have</c><00:08:05.599><c> one</c><00:08:05.919><c> comma</c><00:08:06.240><c> 5</c><00:08:06.560><c> as</c><00:08:06.720><c> their</c>
+
+00:08:06.950 --> 00:08:06.960 align:start position:0%
+consistent and have one comma 5 as their
+ 
+
+00:08:06.960 --> 00:08:07.990 align:start position:0%
+consistent and have one comma 5 as their
+counter
+
+00:08:07.990 --> 00:08:08.000 align:start position:0%
+counter
+ 
+
+00:08:08.000 --> 00:08:10.150 align:start position:0%
+counter
+so<00:08:08.319><c> what</c><00:08:08.479><c> this</c><00:08:08.639><c> basically</c><00:08:09.120><c> means</c><00:08:09.520><c> is</c><00:08:09.680><c> that</c><00:08:10.000><c> as</c>
+
+00:08:10.150 --> 00:08:10.160 align:start position:0%
+so what this basically means is that as
+ 
+
+00:08:10.160 --> 00:08:12.790 align:start position:0%
+so what this basically means is that as
+far<00:08:10.319><c> as</c><00:08:10.479><c> each</c><00:08:10.639><c> replica</c><00:08:11.120><c> is</c><00:08:11.280><c> aware</c><00:08:12.000><c> replica</c><00:08:12.560><c> 1</c>
+
+00:08:12.790 --> 00:08:12.800 align:start position:0%
+far as each replica is aware replica 1
+ 
+
+00:08:12.800 --> 00:08:14.629 align:start position:0%
+far as each replica is aware replica 1
+has<00:08:13.039><c> processed</c><00:08:13.520><c> one</c><00:08:13.680><c> increment</c><00:08:14.080><c> request</c><00:08:14.479><c> and</c>
+
+00:08:14.629 --> 00:08:14.639 align:start position:0%
+has processed one increment request and
+ 
+
+00:08:14.639 --> 00:08:16.629 align:start position:0%
+has processed one increment request and
+replica<00:08:15.120><c> 2</c><00:08:15.360><c> has</c><00:08:15.520><c> processed</c><00:08:15.919><c> five</c><00:08:16.240><c> increment</c>
+
+00:08:16.629 --> 00:08:16.639 align:start position:0%
+replica 2 has processed five increment
+ 
+
+00:08:16.639 --> 00:08:19.270 align:start position:0%
+replica 2 has processed five increment
+requests<00:08:17.520><c> so</c><00:08:17.759><c> now</c><00:08:18.080><c> if</c><00:08:18.319><c> i</c><00:08:18.400><c> were</c><00:08:18.639><c> to</c><00:08:18.800><c> go</c><00:08:18.960><c> ahead</c>
+
+00:08:19.270 --> 00:08:19.280 align:start position:0%
+requests so now if i were to go ahead
+ 
+
+00:08:19.280 --> 00:08:20.950 align:start position:0%
+requests so now if i were to go ahead
+and<00:08:19.440><c> query</c><00:08:19.840><c> either</c><00:08:20.080><c> of</c><00:08:20.240><c> them</c><00:08:20.400><c> for</c><00:08:20.560><c> the</c><00:08:20.639><c> total</c>
+
+00:08:20.950 --> 00:08:20.960 align:start position:0%
+and query either of them for the total
+ 
+
+00:08:20.960 --> 00:08:23.029 align:start position:0%
+and query either of them for the total
+counter<00:08:21.280><c> value</c><00:08:22.080><c> all</c><00:08:22.240><c> that's</c><00:08:22.479><c> going</c><00:08:22.560><c> to</c><00:08:22.639><c> happen</c>
+
+00:08:23.029 --> 00:08:23.039 align:start position:0%
+counter value all that's going to happen
+ 
+
+00:08:23.039 --> 00:08:25.589 align:start position:0%
+counter value all that's going to happen
+is<00:08:23.120><c> we're</c><00:08:23.360><c> going</c><00:08:23.599><c> to</c><00:08:23.919><c> sum</c><00:08:24.240><c> up</c><00:08:24.639><c> this</c><00:08:24.960><c> array</c><00:08:25.440><c> and</c>
+
+00:08:25.589 --> 00:08:25.599 align:start position:0%
+is we're going to sum up this array and
+ 
+
+00:08:25.599 --> 00:08:27.670 align:start position:0%
+is we're going to sum up this array and
+i'm<00:08:25.840><c> going</c><00:08:26.080><c> to</c><00:08:26.240><c> get</c><00:08:26.400><c> the</c><00:08:26.560><c> value</c><00:08:26.960><c> six</c><00:08:27.360><c> so</c><00:08:27.520><c> they</c>
+
+00:08:27.670 --> 00:08:27.680 align:start position:0%
+i'm going to get the value six so they
+ 
+
+00:08:27.680 --> 00:08:29.909 align:start position:0%
+i'm going to get the value six so they
+have<00:08:27.919><c> converged</c><00:08:28.879><c> if</c><00:08:29.039><c> i</c><00:08:29.120><c> were</c><00:08:29.280><c> to</c><00:08:29.440><c> continue</c><00:08:29.840><c> to</c>
+
+00:08:29.909 --> 00:08:29.919 align:start position:0%
+have converged if i were to continue to
+ 
+
+00:08:29.919 --> 00:08:31.670 align:start position:0%
+have converged if i were to continue to
+make<00:08:30.080><c> more</c><00:08:30.319><c> increments</c><00:08:30.800><c> on</c><00:08:30.960><c> either</c><00:08:31.120><c> replica</c>
+
+00:08:31.670 --> 00:08:31.680 align:start position:0%
+make more increments on either replica
+ 
+
+00:08:31.680 --> 00:08:33.509 align:start position:0%
+make more increments on either replica
+they<00:08:31.840><c> would</c><00:08:32.080><c> temporarily</c><00:08:32.719><c> again</c><00:08:33.039><c> be</c><00:08:33.200><c> out</c><00:08:33.360><c> of</c>
+
+00:08:33.509 --> 00:08:33.519 align:start position:0%
+they would temporarily again be out of
+ 
+
+00:08:33.519 --> 00:08:35.110 align:start position:0%
+they would temporarily again be out of
+sync<00:08:33.760><c> but</c><00:08:33.919><c> eventually</c><00:08:34.399><c> they</c><00:08:34.560><c> would</c><00:08:34.800><c> come</c><00:08:34.959><c> back</c>
+
+00:08:35.110 --> 00:08:35.120 align:start position:0%
+sync but eventually they would come back
+ 
+
+00:08:35.120 --> 00:08:36.949 align:start position:0%
+sync but eventually they would come back
+to<00:08:35.279><c> the</c><00:08:35.360><c> same</c><00:08:35.599><c> value</c><00:08:36.000><c> and</c><00:08:36.159><c> agree</c><00:08:36.560><c> that's</c><00:08:36.800><c> kind</c>
+
+00:08:36.949 --> 00:08:36.959 align:start position:0%
+to the same value and agree that's kind
+ 
+
+00:08:36.959 --> 00:08:39.190 align:start position:0%
+to the same value and agree that's kind
+of<00:08:37.039><c> the</c><00:08:37.200><c> point</c><00:08:37.440><c> of</c><00:08:37.599><c> a</c><00:08:37.680><c> crdt</c>
+
+00:08:39.190 --> 00:08:39.200 align:start position:0%
+of the point of a crdt
+ 
+
+00:08:39.200 --> 00:08:41.350 align:start position:0%
+of the point of a crdt
+so<00:08:39.360><c> we've</c><00:08:39.839><c> discussed</c><00:08:40.320><c> the</c><00:08:40.399><c> grow</c><00:08:40.800><c> only</c><00:08:41.039><c> counter</c>
+
+00:08:41.350 --> 00:08:41.360 align:start position:0%
+so we've discussed the grow only counter
+ 
+
+00:08:41.360 --> 00:08:42.630 align:start position:0%
+so we've discussed the grow only counter
+but<00:08:41.519><c> what</c><00:08:41.680><c> if</c><00:08:41.760><c> i</c><00:08:41.839><c> wanted</c><00:08:42.159><c> a</c><00:08:42.240><c> counter</c><00:08:42.560><c> that</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+but what if i wanted a counter that
+ 
+
+00:08:42.640 --> 00:08:43.990 align:start position:0%
+but what if i wanted a counter that
+could<00:08:42.800><c> both</c><00:08:43.039><c> be</c><00:08:43.200><c> incremented</c><00:08:43.839><c> and</c>
+
+00:08:43.990 --> 00:08:44.000 align:start position:0%
+could both be incremented and
+ 
+
+00:08:44.000 --> 00:08:46.230 align:start position:0%
+could both be incremented and
+decremented<00:08:45.120><c> well</c><00:08:45.440><c> if</c><00:08:45.600><c> you</c><00:08:45.680><c> remember</c><00:08:46.080><c> from</c>
+
+00:08:46.230 --> 00:08:46.240 align:start position:0%
+decremented well if you remember from
+ 
+
+00:08:46.240 --> 00:08:48.070 align:start position:0%
+decremented well if you remember from
+the<00:08:46.320><c> previous</c><00:08:46.800><c> diagram</c>
+
+00:08:48.070 --> 00:08:48.080 align:start position:0%
+the previous diagram
+ 
+
+00:08:48.080 --> 00:08:50.310 align:start position:0%
+the previous diagram
+what<00:08:48.240><c> happened</c><00:08:48.640><c> was</c><00:08:48.800><c> that</c><00:08:49.040><c> each</c><00:08:49.279><c> replica</c><00:08:50.080><c> kind</c>
+
+00:08:50.310 --> 00:08:50.320 align:start position:0%
+what happened was that each replica kind
+ 
+
+00:08:50.320 --> 00:08:52.630 align:start position:0%
+what happened was that each replica kind
+of<00:08:50.480><c> had</c><00:08:50.800><c> a</c><00:08:51.040><c> list</c><00:08:51.839><c> showing</c><00:08:52.240><c> how</c><00:08:52.399><c> many</c>
+
+00:08:52.630 --> 00:08:52.640 align:start position:0%
+of had a list showing how many
+ 
+
+00:08:52.640 --> 00:08:53.750 align:start position:0%
+of had a list showing how many
+increments
+
+00:08:53.750 --> 00:08:53.760 align:start position:0%
+increments
+ 
+
+00:08:53.760 --> 00:08:55.829 align:start position:0%
+increments
+every<00:08:54.000><c> single</c><00:08:54.320><c> replica</c><00:08:54.880><c> has</c><00:08:55.120><c> processed</c><00:08:55.680><c> as</c>
+
+00:08:55.829 --> 00:08:55.839 align:start position:0%
+every single replica has processed as
+ 
+
+00:08:55.839 --> 00:08:57.670 align:start position:0%
+every single replica has processed as
+far<00:08:56.000><c> as</c><00:08:56.160><c> it's</c><00:08:56.320><c> aware</c><00:08:57.040><c> so</c><00:08:57.200><c> we're</c><00:08:57.360><c> going</c><00:08:57.440><c> to</c><00:08:57.519><c> now</c>
+
+00:08:57.670 --> 00:08:57.680 align:start position:0%
+far as it's aware so we're going to now
+ 
+
+00:08:57.680 --> 00:08:59.829 align:start position:0%
+far as it's aware so we're going to now
+do<00:08:57.920><c> the</c><00:08:58.000><c> same</c><00:08:58.320><c> thing</c><00:08:58.560><c> but</c><00:08:58.800><c> one</c><00:08:59.120><c> for</c><00:08:59.519><c> all</c><00:08:59.600><c> the</c>
+
+00:08:59.829 --> 00:08:59.839 align:start position:0%
+do the same thing but one for all the
+ 
+
+00:08:59.839 --> 00:09:01.990 align:start position:0%
+do the same thing but one for all the
+increments<00:09:00.720><c> and</c><00:09:01.040><c> one</c><00:09:01.200><c> array</c><00:09:01.600><c> for</c><00:09:01.760><c> all</c><00:09:01.839><c> the</c>
+
+00:09:01.990 --> 00:09:02.000 align:start position:0%
+increments and one array for all the
+ 
+
+00:09:02.000 --> 00:09:03.829 align:start position:0%
+increments and one array for all the
+decrements<00:09:02.720><c> and</c><00:09:02.800><c> then</c><00:09:02.959><c> to</c><00:09:03.120><c> get</c><00:09:03.279><c> the</c><00:09:03.440><c> actual</c>
+
+00:09:03.829 --> 00:09:03.839 align:start position:0%
+decrements and then to get the actual
+ 
+
+00:09:03.839 --> 00:09:06.150 align:start position:0%
+decrements and then to get the actual
+counter<00:09:04.240><c> value</c><00:09:04.720><c> from</c><00:09:04.880><c> one</c><00:09:05.120><c> replica</c><00:09:05.920><c> you're</c>
+
+00:09:06.150 --> 00:09:06.160 align:start position:0%
+counter value from one replica you're
+ 
+
+00:09:06.160 --> 00:09:09.110 align:start position:0%
+counter value from one replica you're
+going<00:09:06.320><c> to</c><00:09:06.720><c> sum</c><00:09:07.040><c> up</c><00:09:07.519><c> the</c><00:09:08.240><c> increments</c><00:09:08.720><c> array</c><00:09:09.040><c> and</c>
+
+00:09:09.110 --> 00:09:09.120 align:start position:0%
+going to sum up the increments array and
+ 
+
+00:09:09.120 --> 00:09:10.870 align:start position:0%
+going to sum up the increments array and
+then<00:09:09.360><c> subtract</c><00:09:09.839><c> the</c><00:09:10.000><c> sum</c><00:09:10.160><c> of</c><00:09:10.320><c> the</c><00:09:10.399><c> decrements</c>
+
+00:09:10.870 --> 00:09:10.880 align:start position:0%
+then subtract the sum of the decrements
+ 
+
+00:09:10.880 --> 00:09:13.590 align:start position:0%
+then subtract the sum of the decrements
+array<00:09:11.519><c> and</c><00:09:11.680><c> as</c><00:09:11.839><c> far</c><00:09:12.000><c> as</c><00:09:12.160><c> the</c><00:09:12.240><c> merge</c><00:09:12.560><c> segment</c><00:09:12.959><c> uh</c>
+
+00:09:13.590 --> 00:09:13.600 align:start position:0%
+array and as far as the merge segment uh
+ 
+
+00:09:13.600 --> 00:09:15.910 align:start position:0%
+array and as far as the merge segment uh
+basically<00:09:14.000><c> the</c><00:09:14.160><c> merge</c><00:09:14.480><c> function</c><00:09:14.880><c> goes</c><00:09:15.360><c> when</c>
+
+00:09:15.910 --> 00:09:15.920 align:start position:0%
+basically the merge function goes when
+ 
+
+00:09:15.920 --> 00:09:17.670 align:start position:0%
+basically the merge function goes when
+uh<00:09:16.160><c> these</c><00:09:16.399><c> replicas</c><00:09:16.880><c> are</c><00:09:16.959><c> synchronizing</c><00:09:17.519><c> with</c>
+
+00:09:17.670 --> 00:09:17.680 align:start position:0%
+uh these replicas are synchronizing with
+ 
+
+00:09:17.680 --> 00:09:18.790 align:start position:0%
+uh these replicas are synchronizing with
+one<00:09:17.839><c> another</c>
+
+00:09:18.790 --> 00:09:18.800 align:start position:0%
+one another
+ 
+
+00:09:18.800 --> 00:09:20.550 align:start position:0%
+one another
+uh<00:09:19.120><c> you</c><00:09:19.279><c> basically</c><00:09:19.680><c> merge</c><00:09:19.920><c> them</c><00:09:20.160><c> in</c><00:09:20.240><c> the</c><00:09:20.320><c> same</c>
+
+00:09:20.550 --> 00:09:20.560 align:start position:0%
+uh you basically merge them in the same
+ 
+
+00:09:20.560 --> 00:09:22.230 align:start position:0%
+uh you basically merge them in the same
+way<00:09:20.800><c> as</c><00:09:20.880><c> we</c><00:09:21.040><c> did</c><00:09:21.200><c> the</c><00:09:21.360><c> increment</c><00:09:21.680><c> array</c><00:09:22.000><c> so</c><00:09:22.160><c> the</c>
+
+00:09:22.230 --> 00:09:22.240 align:start position:0%
+way as we did the increment array so the
+ 
+
+00:09:22.240 --> 00:09:24.710 align:start position:0%
+way as we did the increment array so the
+increment<00:09:22.720><c> arrays</c><00:09:23.279><c> we</c><00:09:23.519><c> do</c><00:09:23.920><c> the</c><00:09:24.080><c> element</c><00:09:24.480><c> wise</c>
+
+00:09:24.710 --> 00:09:24.720 align:start position:0%
+increment arrays we do the element wise
+ 
+
+00:09:24.720 --> 00:09:26.710 align:start position:0%
+increment arrays we do the element wise
+max<00:09:25.279><c> and</c><00:09:25.519><c> the</c><00:09:25.600><c> decrement</c><00:09:26.080><c> array</c><00:09:26.320><c> we</c><00:09:26.480><c> do</c><00:09:26.640><c> the</c>
+
+00:09:26.710 --> 00:09:26.720 align:start position:0%
+max and the decrement array we do the
+ 
+
+00:09:26.720 --> 00:09:29.269 align:start position:0%
+max and the decrement array we do the
+element-wise<00:09:27.440><c> max</c><00:09:27.760><c> as</c><00:09:27.920><c> well</c>
+
+00:09:29.269 --> 00:09:29.279 align:start position:0%
+element-wise max as well
+ 
+
+00:09:29.279 --> 00:09:30.870 align:start position:0%
+element-wise max as well
+i<00:09:29.440><c> see</c><00:09:29.600><c> that</c><00:09:29.680><c> i</c><00:09:29.760><c> wrote</c><00:09:30.000><c> min</c><00:09:30.240><c> here</c><00:09:30.399><c> on</c><00:09:30.480><c> the</c><00:09:30.640><c> slide</c>
+
+00:09:30.870 --> 00:09:30.880 align:start position:0%
+i see that i wrote min here on the slide
+ 
+
+00:09:30.880 --> 00:09:33.110 align:start position:0%
+i see that i wrote min here on the slide
+but<00:09:31.040><c> it's</c><00:09:31.279><c> actually</c><00:09:31.519><c> the</c><00:09:31.680><c> element-wise</c><00:09:32.240><c> max</c>
+
+00:09:33.110 --> 00:09:33.120 align:start position:0%
+but it's actually the element-wise max
+ 
+
+00:09:33.120 --> 00:09:35.590 align:start position:0%
+but it's actually the element-wise max
+so<00:09:33.519><c> moving</c><00:09:33.839><c> on</c><00:09:34.000><c> to</c><00:09:34.160><c> sets</c><00:09:34.880><c> it's</c><00:09:35.120><c> basically</c><00:09:35.519><c> the</c>
+
+00:09:35.590 --> 00:09:35.600 align:start position:0%
+so moving on to sets it's basically the
+ 
+
+00:09:35.600 --> 00:09:38.389 align:start position:0%
+so moving on to sets it's basically the
+same<00:09:36.000><c> as</c><00:09:36.240><c> the</c><00:09:36.399><c> grow</c><00:09:36.720><c> only</c><00:09:36.959><c> counter</c><00:09:37.760><c> with</c><00:09:38.080><c> the</c>
+
+00:09:38.389 --> 00:09:38.399 align:start position:0%
+same as the grow only counter with the
+ 
+
+00:09:38.399 --> 00:09:40.150 align:start position:0%
+same as the grow only counter with the
+following<00:09:38.880><c> adjustments</c>
+
+00:09:40.150 --> 00:09:40.160 align:start position:0%
+following adjustments
+ 
+
+00:09:40.160 --> 00:09:42.150 align:start position:0%
+following adjustments
+as<00:09:40.399><c> opposed</c><00:09:40.720><c> to</c><00:09:40.880><c> using</c><00:09:41.200><c> an</c><00:09:41.360><c> increments</c><00:09:41.920><c> and</c>
+
+00:09:42.150 --> 00:09:42.160 align:start position:0%
+as opposed to using an increments and
+ 
+
+00:09:42.160 --> 00:09:45.190 align:start position:0%
+as opposed to using an increments and
+degrees<00:09:42.800><c> list</c><00:09:43.360><c> held</c><00:09:43.680><c> on</c><00:09:43.839><c> each</c><00:09:44.080><c> replica</c><00:09:44.959><c> now</c>
+
+00:09:45.190 --> 00:09:45.200 align:start position:0%
+degrees list held on each replica now
+ 
+
+00:09:45.200 --> 00:09:46.790 align:start position:0%
+degrees list held on each replica now
+we're<00:09:45.360><c> keeping</c><00:09:45.680><c> track</c><00:09:45.920><c> of</c><00:09:46.000><c> two</c><00:09:46.240><c> arrays</c><00:09:46.640><c> one</c>
+
+00:09:46.790 --> 00:09:46.800 align:start position:0%
+we're keeping track of two arrays one
+ 
+
+00:09:46.800 --> 00:09:48.870 align:start position:0%
+we're keeping track of two arrays one
+for<00:09:46.959><c> elements</c><00:09:47.440><c> added</c><00:09:47.920><c> and</c><00:09:48.080><c> one</c><00:09:48.320><c> for</c><00:09:48.480><c> elements</c>
+
+00:09:48.870 --> 00:09:48.880 align:start position:0%
+for elements added and one for elements
+ 
+
+00:09:48.880 --> 00:09:51.590 align:start position:0%
+for elements added and one for elements
+removed<00:09:49.760><c> so</c><00:09:50.080><c> to</c><00:09:50.240><c> get</c><00:09:50.399><c> the</c><00:09:50.800><c> set</c><00:09:51.040><c> contents</c>
+
+00:09:51.590 --> 00:09:51.600 align:start position:0%
+removed so to get the set contents
+ 
+
+00:09:51.600 --> 00:09:53.509 align:start position:0%
+removed so to get the set contents
+basically<00:09:52.080><c> we</c><00:09:52.240><c> take</c><00:09:52.560><c> all</c><00:09:52.720><c> the</c><00:09:53.040><c> elements</c><00:09:53.440><c> in</c>
+
+00:09:53.509 --> 00:09:53.519 align:start position:0%
+basically we take all the elements in
+ 
+
+00:09:53.519 --> 00:09:56.070 align:start position:0%
+basically we take all the elements in
+the<00:09:53.600><c> added</c><00:09:54.000><c> list</c><00:09:54.720><c> and</c><00:09:54.800><c> then</c><00:09:55.279><c> we</c><00:09:55.519><c> just</c><00:09:55.760><c> don't</c>
+
+00:09:56.070 --> 00:09:56.080 align:start position:0%
+the added list and then we just don't
+ 
+
+00:09:56.080 --> 00:09:58.150 align:start position:0%
+the added list and then we just don't
+count<00:09:56.480><c> any</c><00:09:56.720><c> element</c><00:09:57.120><c> that</c><00:09:57.360><c> appears</c><00:09:57.839><c> in</c><00:09:58.000><c> that</c>
+
+00:09:58.150 --> 00:09:58.160 align:start position:0%
+count any element that appears in that
+ 
+
+00:09:58.160 --> 00:09:59.590 align:start position:0%
+count any element that appears in that
+removed<00:09:58.640><c> set</c>
+
+00:09:59.590 --> 00:09:59.600 align:start position:0%
+removed set
+ 
+
+00:09:59.600 --> 00:10:01.590 align:start position:0%
+removed set
+and<00:09:59.680><c> then</c><00:10:00.080><c> as</c><00:10:00.240><c> far</c><00:10:00.399><c> as</c><00:10:00.560><c> merging</c><00:10:00.880><c> them</c><00:10:01.120><c> goes</c><00:10:01.440><c> we</c>
+
+00:10:01.590 --> 00:10:01.600 align:start position:0%
+and then as far as merging them goes we
+ 
+
+00:10:01.600 --> 00:10:03.829 align:start position:0%
+and then as far as merging them goes we
+basically<00:10:02.079><c> just</c><00:10:02.320><c> take</c><00:10:02.560><c> the</c><00:10:02.720><c> union</c><00:10:03.279><c> of</c><00:10:03.600><c> two</c>
+
+00:10:03.829 --> 00:10:03.839 align:start position:0%
+basically just take the union of two
+ 
+
+00:10:03.839 --> 00:10:05.990 align:start position:0%
+basically just take the union of two
+added<00:10:04.160><c> sets</c><00:10:04.560><c> and</c><00:10:04.800><c> the</c><00:10:04.880><c> union</c><00:10:05.279><c> of</c><00:10:05.360><c> two</c><00:10:05.600><c> removed</c>
+
+00:10:05.990 --> 00:10:06.000 align:start position:0%
+added sets and the union of two removed
+ 
+
+00:10:06.000 --> 00:10:07.030 align:start position:0%
+added sets and the union of two removed
+sets
+
+00:10:07.030 --> 00:10:07.040 align:start position:0%
+sets
+ 
+
+00:10:07.040 --> 00:10:07.829 align:start position:0%
+sets
+so
+
+00:10:07.829 --> 00:10:07.839 align:start position:0%
+so
+ 
+
+00:10:07.839 --> 00:10:09.269 align:start position:0%
+so
+as<00:10:08.079><c> you</c><00:10:08.160><c> can</c><00:10:08.240><c> see</c><00:10:08.399><c> there's</c><00:10:08.640><c> kind</c><00:10:08.800><c> of</c><00:10:08.880><c> this</c><00:10:09.040><c> very</c>
+
+00:10:09.269 --> 00:10:09.279 align:start position:0%
+as you can see there's kind of this very
+ 
+
+00:10:09.279 --> 00:10:11.350 align:start position:0%
+as you can see there's kind of this very
+similar<00:10:09.680><c> process</c><00:10:10.399><c> of</c><00:10:10.560><c> just</c><00:10:10.800><c> being</c><00:10:11.040><c> able</c><00:10:11.200><c> to</c>
+
+00:10:11.350 --> 00:10:11.360 align:start position:0%
+similar process of just being able to
+ 
+
+00:10:11.360 --> 00:10:13.590 align:start position:0%
+similar process of just being able to
+have<00:10:11.680><c> that</c><00:10:12.320><c> commutative</c><00:10:12.959><c> merge</c><00:10:13.200><c> function</c>
+
+00:10:13.590 --> 00:10:13.600 align:start position:0%
+have that commutative merge function
+ 
+
+00:10:13.600 --> 00:10:15.509 align:start position:0%
+have that commutative merge function
+which<00:10:13.760><c> is</c><00:10:13.920><c> idempotent</c><00:10:14.560><c> because</c><00:10:14.800><c> the</c><00:10:14.959><c> union</c>
+
+00:10:15.509 --> 00:10:15.519 align:start position:0%
+which is idempotent because the union
+ 
+
+00:10:15.519 --> 00:10:17.910 align:start position:0%
+which is idempotent because the union
+with<00:10:15.760><c> a</c><00:10:15.839><c> set</c><00:10:16.079><c> is</c><00:10:16.240><c> obviously</c><00:10:16.560><c> item</c><00:10:16.880><c> potent</c><00:10:17.600><c> and</c>
+
+00:10:17.910 --> 00:10:17.920 align:start position:0%
+with a set is obviously item potent and
+ 
+
+00:10:17.920 --> 00:10:20.310 align:start position:0%
+with a set is obviously item potent and
+in<00:10:18.079><c> the</c><00:10:18.160><c> case</c><00:10:18.560><c> of</c><00:10:18.880><c> the</c><00:10:19.200><c> counters</c><00:10:19.839><c> taking</c><00:10:20.160><c> the</c>
+
+00:10:20.310 --> 00:10:20.320 align:start position:0%
+in the case of the counters taking the
+ 
+
+00:10:20.320 --> 00:10:22.230 align:start position:0%
+in the case of the counters taking the
+maximum<00:10:20.800><c> or</c><00:10:20.959><c> the</c><00:10:21.040><c> element-wise</c><00:10:21.680><c> maximum</c><00:10:22.160><c> of</c>
+
+00:10:22.230 --> 00:10:22.240 align:start position:0%
+maximum or the element-wise maximum of
+ 
+
+00:10:22.240 --> 00:10:24.230 align:start position:0%
+maximum or the element-wise maximum of
+two<00:10:22.480><c> lists</c><00:10:23.040><c> is</c><00:10:23.279><c> obviously</c><00:10:23.680><c> going</c><00:10:23.760><c> to</c><00:10:23.839><c> be</c><00:10:24.000><c> item</c>
+
+00:10:24.230 --> 00:10:24.240 align:start position:0%
+two lists is obviously going to be item
+ 
+
+00:10:24.240 --> 00:10:25.750 align:start position:0%
+two lists is obviously going to be item
+potent
+
+00:10:25.750 --> 00:10:25.760 align:start position:0%
+potent
+ 
+
+00:10:25.760 --> 00:10:27.750 align:start position:0%
+potent
+so<00:10:26.079><c> that's</c><00:10:26.320><c> how</c><00:10:26.480><c> sets</c><00:10:26.800><c> would</c><00:10:26.880><c> work</c><00:10:27.200><c> but</c><00:10:27.440><c> as</c><00:10:27.600><c> you</c>
+
+00:10:27.750 --> 00:10:27.760 align:start position:0%
+so that's how sets would work but as you
+ 
+
+00:10:27.760 --> 00:10:29.190 align:start position:0%
+so that's how sets would work but as you
+can<00:10:27.839><c> see</c><00:10:28.079><c> one</c><00:10:28.240><c> of</c><00:10:28.320><c> the</c><00:10:28.480><c> issues</c><00:10:28.800><c> with</c><00:10:28.959><c> what</c><00:10:29.120><c> i</c>
+
+00:10:29.190 --> 00:10:29.200 align:start position:0%
+can see one of the issues with what i
+ 
+
+00:10:29.200 --> 00:10:31.590 align:start position:0%
+can see one of the issues with what i
+just<00:10:29.440><c> expressed</c><00:10:29.839><c> with</c><00:10:30.079><c> sets</c><00:10:30.800><c> is</c><00:10:30.959><c> that</c><00:10:31.200><c> once</c><00:10:31.440><c> an</c>
+
+00:10:31.590 --> 00:10:31.600 align:start position:0%
+just expressed with sets is that once an
+ 
+
+00:10:31.600 --> 00:10:34.069 align:start position:0%
+just expressed with sets is that once an
+element<00:10:32.160><c> is</c><00:10:32.399><c> in</c><00:10:32.560><c> the</c><00:10:32.880><c> remove</c><00:10:33.279><c> array</c><00:10:33.680><c> it</c><00:10:33.760><c> can</c><00:10:33.920><c> no</c>
+
+00:10:34.069 --> 00:10:34.079 align:start position:0%
+element is in the remove array it can no
+ 
+
+00:10:34.079 --> 00:10:35.990 align:start position:0%
+element is in the remove array it can no
+longer<00:10:34.480><c> be</c><00:10:34.640><c> in</c><00:10:34.720><c> that</c><00:10:34.959><c> set</c><00:10:35.200><c> again</c><00:10:35.519><c> so</c><00:10:35.680><c> how</c><00:10:35.839><c> can</c>
+
+00:10:35.990 --> 00:10:36.000 align:start position:0%
+longer be in that set again so how can
+ 
+
+00:10:36.000 --> 00:10:37.910 align:start position:0%
+longer be in that set again so how can
+we<00:10:36.160><c> change</c><00:10:36.480><c> this</c>
+
+00:10:37.910 --> 00:10:37.920 align:start position:0%
+we change this
+ 
+
+00:10:37.920 --> 00:10:39.350 align:start position:0%
+we change this
+basically<00:10:38.399><c> to</c><00:10:38.560><c> mitigate</c><00:10:38.959><c> this</c><00:10:39.200><c> some</c>
+
+00:10:39.350 --> 00:10:39.360 align:start position:0%
+basically to mitigate this some
+ 
+
+00:10:39.360 --> 00:10:41.190 align:start position:0%
+basically to mitigate this some
+variations<00:10:40.000><c> have</c><00:10:40.079><c> been</c><00:10:40.240><c> created</c>
+
+00:10:41.190 --> 00:10:41.200 align:start position:0%
+variations have been created
+ 
+
+00:10:41.200 --> 00:10:43.190 align:start position:0%
+variations have been created
+one<00:10:41.680><c> is</c><00:10:42.079><c> every</c><00:10:42.399><c> set</c>
+
+00:10:43.190 --> 00:10:43.200 align:start position:0%
+one is every set
+ 
+
+00:10:43.200 --> 00:10:44.790 align:start position:0%
+one is every set
+every<00:10:43.440><c> element</c><00:10:43.760><c> in</c><00:10:43.839><c> the</c><00:10:43.920><c> add</c><00:10:44.160><c> and</c><00:10:44.240><c> remove</c><00:10:44.560><c> set</c>
+
+00:10:44.790 --> 00:10:44.800 align:start position:0%
+every element in the add and remove set
+ 
+
+00:10:44.800 --> 00:10:46.470 align:start position:0%
+every element in the add and remove set
+has<00:10:45.040><c> a</c><00:10:45.120><c> timestamp</c><00:10:45.839><c> and</c><00:10:45.920><c> then</c><00:10:46.079><c> you</c><00:10:46.240><c> would</c><00:10:46.320><c> kind</c>
+
+00:10:46.470 --> 00:10:46.480 align:start position:0%
+has a timestamp and then you would kind
+ 
+
+00:10:46.480 --> 00:10:48.790 align:start position:0%
+has a timestamp and then you would kind
+of<00:10:46.640><c> use</c><00:10:46.880><c> the</c><00:10:46.959><c> timestamp</c><00:10:47.519><c> to</c><00:10:47.680><c> basically</c><00:10:48.079><c> say</c><00:10:48.560><c> oh</c>
+
+00:10:48.790 --> 00:10:48.800 align:start position:0%
+of use the timestamp to basically say oh
+ 
+
+00:10:48.800 --> 00:10:50.710 align:start position:0%
+of use the timestamp to basically say oh
+if<00:10:48.880><c> there's</c><00:10:49.040><c> an</c><00:10:49.200><c> element</c><00:10:49.680><c> in</c><00:10:49.839><c> the</c><00:10:50.000><c> added</c><00:10:50.320><c> array</c>
+
+00:10:50.710 --> 00:10:50.720 align:start position:0%
+if there's an element in the added array
+ 
+
+00:10:50.720 --> 00:10:52.630 align:start position:0%
+if there's an element in the added array
+but<00:10:50.880><c> it</c><00:10:51.040><c> has</c><00:10:51.200><c> a</c><00:10:51.279><c> more</c><00:10:51.519><c> recent</c><00:10:51.839><c> timestamp</c><00:10:52.480><c> than</c>
+
+00:10:52.630 --> 00:10:52.640 align:start position:0%
+but it has a more recent timestamp than
+ 
+
+00:10:52.640 --> 00:10:54.790 align:start position:0%
+but it has a more recent timestamp than
+the<00:10:52.800><c> same</c><00:10:53.120><c> element</c><00:10:53.440><c> in</c><00:10:53.519><c> the</c><00:10:53.600><c> removed</c><00:10:54.000><c> array</c>
+
+00:10:54.790 --> 00:10:54.800 align:start position:0%
+the same element in the removed array
+ 
+
+00:10:54.800 --> 00:10:57.110 align:start position:0%
+the same element in the removed array
+then<00:10:55.360><c> actually</c><00:10:55.920><c> the</c><00:10:56.240><c> fact</c><00:10:56.480><c> that</c><00:10:56.640><c> that</c><00:10:56.800><c> element</c>
+
+00:10:57.110 --> 00:10:57.120 align:start position:0%
+then actually the fact that that element
+ 
+
+00:10:57.120 --> 00:10:58.949 align:start position:0%
+then actually the fact that that element
+was<00:10:57.279><c> removed</c><00:10:57.760><c> is</c><00:10:57.839><c> not</c><00:10:58.079><c> valid</c><00:10:58.399><c> we</c><00:10:58.560><c> can</c><00:10:58.640><c> say</c><00:10:58.880><c> that</c>
+
+00:10:58.949 --> 00:10:58.959 align:start position:0%
+was removed is not valid we can say that
+ 
+
+00:10:58.959 --> 00:11:01.670 align:start position:0%
+was removed is not valid we can say that
+that<00:10:59.200><c> element</c><00:10:59.519><c> was</c><00:10:59.760><c> once</c><00:11:00.000><c> again</c><00:11:00.320><c> added</c>
+
+00:11:01.670 --> 00:11:01.680 align:start position:0%
+that element was once again added
+ 
+
+00:11:01.680 --> 00:11:03.430 align:start position:0%
+that element was once again added
+additionally<00:11:02.399><c> another</c><00:11:02.720><c> way</c><00:11:03.040><c> of</c><00:11:03.200><c> getting</c>
+
+00:11:03.430 --> 00:11:03.440 align:start position:0%
+additionally another way of getting
+ 
+
+00:11:03.440 --> 00:11:05.110 align:start position:0%
+additionally another way of getting
+around<00:11:03.760><c> this</c><00:11:04.000><c> because</c><00:11:04.399><c> every</c><00:11:04.640><c> time</c><00:11:04.800><c> we</c><00:11:04.959><c> use</c>
+
+00:11:05.110 --> 00:11:05.120 align:start position:0%
+around this because every time we use
+ 
+
+00:11:05.120 --> 00:11:07.030 align:start position:0%
+around this because every time we use
+timestamps<00:11:05.680><c> and</c><00:11:05.760><c> distributed</c><00:11:06.240><c> systems</c><00:11:06.640><c> we</c>
+
+00:11:07.030 --> 00:11:07.040 align:start position:0%
+timestamps and distributed systems we
+ 
+
+00:11:07.040 --> 00:11:08.710 align:start position:0%
+timestamps and distributed systems we
+run<00:11:07.200><c> the</c><00:11:07.279><c> risk</c><00:11:07.600><c> of</c><00:11:07.680><c> dealing</c><00:11:07.920><c> with</c><00:11:08.160><c> unreliable</c>
+
+00:11:08.710 --> 00:11:08.720 align:start position:0%
+run the risk of dealing with unreliable
+ 
+
+00:11:08.720 --> 00:11:09.670 align:start position:0%
+run the risk of dealing with unreliable
+clocks
+
+00:11:09.670 --> 00:11:09.680 align:start position:0%
+clocks
+ 
+
+00:11:09.680 --> 00:11:12.069 align:start position:0%
+clocks
+is<00:11:09.839><c> to</c><00:11:09.920><c> just</c><00:11:10.160><c> attach</c><00:11:10.720><c> a</c><00:11:10.959><c> unique</c><00:11:11.440><c> tag</c><00:11:11.760><c> to</c><00:11:11.920><c> every</c>
+
+00:11:12.069 --> 00:11:12.079 align:start position:0%
+is to just attach a unique tag to every
+ 
+
+00:11:12.079 --> 00:11:14.550 align:start position:0%
+is to just attach a unique tag to every
+single<00:11:12.399><c> element</c><00:11:12.720><c> in</c><00:11:12.880><c> the</c><00:11:13.360><c> the</c><00:11:13.519><c> ad</c><00:11:13.760><c> set</c>
+
+00:11:14.550 --> 00:11:14.560 align:start position:0%
+single element in the the ad set
+ 
+
+00:11:14.560 --> 00:11:16.790 align:start position:0%
+single element in the the ad set
+and<00:11:14.720><c> then</c><00:11:15.040><c> you</c><00:11:15.200><c> can</c><00:11:15.360><c> go</c><00:11:15.519><c> ahead</c><00:11:16.000><c> and</c><00:11:16.240><c> add</c><00:11:16.480><c> that</c>
+
+00:11:16.790 --> 00:11:16.800 align:start position:0%
+and then you can go ahead and add that
+ 
+
+00:11:16.800 --> 00:11:19.269 align:start position:0%
+and then you can go ahead and add that
+element<00:11:17.279><c> tag</c><00:11:17.600><c> tuple</c><00:11:18.160><c> into</c><00:11:18.320><c> the</c><00:11:18.399><c> remove</c><00:11:18.800><c> set</c><00:11:19.120><c> as</c>
+
+00:11:19.269 --> 00:11:19.279 align:start position:0%
+element tag tuple into the remove set as
+ 
+
+00:11:19.279 --> 00:11:20.230 align:start position:0%
+element tag tuple into the remove set as
+well
+
+00:11:20.230 --> 00:11:20.240 align:start position:0%
+well
+ 
+
+00:11:20.240 --> 00:11:22.790 align:start position:0%
+well
+and<00:11:20.640><c> if</c><00:11:20.880><c> an</c><00:11:21.040><c> element</c><00:11:21.519><c> tag</c><00:11:21.760><c> combination</c><00:11:22.560><c> is</c>
+
+00:11:22.790 --> 00:11:22.800 align:start position:0%
+and if an element tag combination is
+ 
+
+00:11:22.800 --> 00:11:24.949 align:start position:0%
+and if an element tag combination is
+only<00:11:23.120><c> in</c><00:11:23.519><c> the</c><00:11:23.680><c> ad</c><00:11:24.000><c> set</c><00:11:24.160><c> but</c><00:11:24.320><c> not</c><00:11:24.480><c> the</c><00:11:24.640><c> remove</c>
+
+00:11:24.949 --> 00:11:24.959 align:start position:0%
+only in the ad set but not the remove
+ 
+
+00:11:24.959 --> 00:11:26.630 align:start position:0%
+only in the ad set but not the remove
+set<00:11:25.440><c> then</c><00:11:25.600><c> you</c><00:11:25.760><c> can</c><00:11:25.920><c> assume</c><00:11:26.240><c> that</c><00:11:26.399><c> that</c>
+
+00:11:26.630 --> 00:11:26.640 align:start position:0%
+set then you can assume that that
+ 
+
+00:11:26.640 --> 00:11:29.269 align:start position:0%
+set then you can assume that that
+element<00:11:27.120><c> is</c><00:11:27.440><c> actually</c><00:11:27.839><c> still</c><00:11:28.399><c> in</c><00:11:28.880><c> basically</c>
+
+00:11:29.269 --> 00:11:29.279 align:start position:0%
+element is actually still in basically
+ 
+
+00:11:29.279 --> 00:11:33.190 align:start position:0%
+element is actually still in basically
+the<00:11:29.440><c> merged</c><00:11:29.760><c> set</c><00:11:30.079><c> or</c><00:11:30.320><c> the</c><00:11:30.399><c> result</c><00:11:30.800><c> of</c><00:11:30.880><c> the</c><00:11:30.959><c> crdt</c>
+
+00:11:33.190 --> 00:11:33.200 align:start position:0%
+the merged set or the result of the crdt
+ 
+
+00:11:33.200 --> 00:11:35.990 align:start position:0%
+the merged set or the result of the crdt
+as<00:11:33.440><c> far</c><00:11:33.760><c> as</c><00:11:34.000><c> sequence</c><00:11:34.399><c> crdts</c><00:11:35.200><c> go</c><00:11:35.519><c> and</c><00:11:35.680><c> this</c><00:11:35.839><c> is</c>
+
+00:11:35.990 --> 00:11:36.000 align:start position:0%
+as far as sequence crdts go and this is
+ 
+
+00:11:36.000 --> 00:11:37.430 align:start position:0%
+as far as sequence crdts go and this is
+kind<00:11:36.160><c> of</c><00:11:36.240><c> what</c><00:11:36.480><c> we</c><00:11:36.640><c> might</c><00:11:36.800><c> use</c><00:11:37.040><c> for</c><00:11:37.200><c> something</c>
+
+00:11:37.430 --> 00:11:37.440 align:start position:0%
+kind of what we might use for something
+ 
+
+00:11:37.440 --> 00:11:39.350 align:start position:0%
+kind of what we might use for something
+like<00:11:37.680><c> collaborative</c><00:11:38.240><c> editing</c><00:11:38.959><c> i'm</c><00:11:39.120><c> not</c><00:11:39.279><c> going</c>
+
+00:11:39.350 --> 00:11:39.360 align:start position:0%
+like collaborative editing i'm not going
+ 
+
+00:11:39.360 --> 00:11:40.790 align:start position:0%
+like collaborative editing i'm not going
+to<00:11:39.440><c> touch</c><00:11:39.760><c> too</c><00:11:39.920><c> much</c><00:11:40.160><c> into</c><00:11:40.399><c> these</c><00:11:40.640><c> just</c>
+
+00:11:40.790 --> 00:11:40.800 align:start position:0%
+to touch too much into these just
+ 
+
+00:11:40.800 --> 00:11:42.230 align:start position:0%
+to touch too much into these just
+because<00:11:41.040><c> they're</c><00:11:41.279><c> pretty</c><00:11:41.440><c> complicated</c><00:11:42.160><c> and</c>
+
+00:11:42.230 --> 00:11:42.240 align:start position:0%
+because they're pretty complicated and
+ 
+
+00:11:42.240 --> 00:11:45.190 align:start position:0%
+because they're pretty complicated and
+they're<00:11:42.480><c> actually</c><00:11:43.279><c> a</c><00:11:43.440><c> lot</c><00:11:43.600><c> of</c><00:11:43.839><c> issues</c><00:11:44.720><c> as</c><00:11:44.959><c> far</c>
+
+00:11:45.190 --> 00:11:45.200 align:start position:0%
+they're actually a lot of issues as far
+ 
+
+00:11:45.200 --> 00:11:47.190 align:start position:0%
+they're actually a lot of issues as far
+as<00:11:45.519><c> trying</c><00:11:45.760><c> to</c><00:11:45.839><c> get</c><00:11:46.000><c> them</c><00:11:46.160><c> to</c><00:11:46.240><c> work</c><00:11:46.480><c> well</c><00:11:47.040><c> and</c>
+
+00:11:47.190 --> 00:11:47.200 align:start position:0%
+as trying to get them to work well and
+ 
+
+00:11:47.200 --> 00:11:49.110 align:start position:0%
+as trying to get them to work well and
+multiple<00:11:47.600><c> different</c><00:11:48.079><c> possible</c><00:11:48.560><c> algorithms</c>
+
+00:11:49.110 --> 00:11:49.120 align:start position:0%
+multiple different possible algorithms
+ 
+
+00:11:49.120 --> 00:11:50.870 align:start position:0%
+multiple different possible algorithms
+for<00:11:49.279><c> getting</c><00:11:49.519><c> them</c><00:11:49.680><c> to</c><00:11:49.839><c> do</c><00:11:50.000><c> so</c>
+
+00:11:50.870 --> 00:11:50.880 align:start position:0%
+for getting them to do so
+ 
+
+00:11:50.880 --> 00:11:52.629 align:start position:0%
+for getting them to do so
+it's<00:11:51.120><c> something</c><00:11:51.440><c> that</c><00:11:51.680><c> i</c><00:11:51.839><c> plan</c><00:11:52.000><c> on</c><00:11:52.160><c> discussing</c>
+
+00:11:52.629 --> 00:11:52.639 align:start position:0%
+it's something that i plan on discussing
+ 
+
+00:11:52.639 --> 00:11:54.790 align:start position:0%
+it's something that i plan on discussing
+in<00:11:52.720><c> a</c><00:11:52.800><c> future</c><00:11:53.120><c> video</c><00:11:53.839><c> but</c><00:11:54.000><c> for</c><00:11:54.160><c> now</c><00:11:54.399><c> just</c><00:11:54.639><c> know</c>
+
+00:11:54.790 --> 00:11:54.800 align:start position:0%
+in a future video but for now just know
+ 
+
+00:11:54.800 --> 00:11:56.710 align:start position:0%
+in a future video but for now just know
+that<00:11:54.959><c> the</c><00:11:55.120><c> general</c><00:11:55.760><c> kind</c><00:11:56.000><c> of</c><00:11:56.160><c> gist</c><00:11:56.399><c> behind</c>
+
+00:11:56.710 --> 00:11:56.720 align:start position:0%
+that the general kind of gist behind
+ 
+
+00:11:56.720 --> 00:11:59.030 align:start position:0%
+that the general kind of gist behind
+this<00:11:56.959><c> is</c><00:11:57.040><c> we're</c><00:11:57.279><c> trying</c><00:11:57.519><c> to</c><00:11:57.600><c> get</c><00:11:57.760><c> a</c><00:11:57.920><c> list</c><00:11:58.720><c> and</c>
+
+00:11:59.030 --> 00:11:59.040 align:start position:0%
+this is we're trying to get a list and
+ 
+
+00:11:59.040 --> 00:12:00.629 align:start position:0%
+this is we're trying to get a list and
+doing<00:11:59.360><c> so</c><00:11:59.600><c> is</c><00:11:59.760><c> really</c><00:12:00.000><c> tough</c><00:12:00.240><c> because</c><00:12:00.480><c> when</c>
+
+00:12:00.629 --> 00:12:00.639 align:start position:0%
+doing so is really tough because when
+ 
+
+00:12:00.639 --> 00:12:01.990 align:start position:0%
+doing so is really tough because when
+you're<00:12:00.720><c> preserving</c><00:12:01.200><c> order</c><00:12:01.519><c> there</c><00:12:01.680><c> are</c><00:12:01.839><c> all</c>
+
+00:12:01.990 --> 00:12:02.000 align:start position:0%
+you're preserving order there are all
+ 
+
+00:12:02.000 --> 00:12:03.590 align:start position:0%
+you're preserving order there are all
+these<00:12:02.240><c> inserts</c><00:12:02.800><c> into</c><00:12:03.040><c> the</c><00:12:03.120><c> middle</c><00:12:03.360><c> of</c><00:12:03.440><c> the</c>
+
+00:12:03.590 --> 00:12:03.600 align:start position:0%
+these inserts into the middle of the
+ 
+
+00:12:03.600 --> 00:12:05.430 align:start position:0%
+these inserts into the middle of the
+list<00:12:04.320><c> and</c><00:12:04.480><c> it's</c><00:12:04.639><c> really</c><00:12:04.880><c> hard</c><00:12:05.120><c> when</c><00:12:05.279><c> you're</c>
+
+00:12:05.430 --> 00:12:05.440 align:start position:0%
+list and it's really hard when you're
+ 
+
+00:12:05.440 --> 00:12:07.110 align:start position:0%
+list and it's really hard when you're
+trying<00:12:05.680><c> to</c><00:12:06.079><c> kind</c><00:12:06.240><c> of</c><00:12:06.399><c> make</c><00:12:06.639><c> sure</c><00:12:06.800><c> that</c><00:12:06.959><c> the</c>
+
+00:12:07.110 --> 00:12:07.120 align:start position:0%
+trying to kind of make sure that the
+ 
+
+00:12:07.120 --> 00:12:08.629 align:start position:0%
+trying to kind of make sure that the
+characters<00:12:07.600><c> that</c><00:12:07.760><c> you're</c><00:12:07.920><c> inserting</c><00:12:08.399><c> are</c><00:12:08.480><c> not</c>
+
+00:12:08.629 --> 00:12:08.639 align:start position:0%
+characters that you're inserting are not
+ 
+
+00:12:08.639 --> 00:12:10.230 align:start position:0%
+characters that you're inserting are not
+getting<00:12:08.959><c> interleaved</c><00:12:09.519><c> with</c><00:12:09.680><c> the</c><00:12:09.839><c> characters</c>
+
+00:12:10.230 --> 00:12:10.240 align:start position:0%
+getting interleaved with the characters
+ 
+
+00:12:10.240 --> 00:12:12.310 align:start position:0%
+getting interleaved with the characters
+that<00:12:10.399><c> someone</c><00:12:10.720><c> else</c><00:12:10.880><c> is</c><00:12:11.040><c> inserting</c><00:12:11.920><c> so</c><00:12:12.079><c> it's</c><00:12:12.240><c> a</c>
+
+00:12:12.310 --> 00:12:12.320 align:start position:0%
+that someone else is inserting so it's a
+ 
+
+00:12:12.320 --> 00:12:14.470 align:start position:0%
+that someone else is inserting so it's a
+pretty<00:12:12.480><c> complicated</c><00:12:13.120><c> thing</c><00:12:13.360><c> that</c><00:12:13.440><c> i</c><00:12:13.600><c> will</c><00:12:13.839><c> 100</c>
+
+00:12:14.470 --> 00:12:14.480 align:start position:0%
+pretty complicated thing that i will 100
+ 
+
+00:12:14.480 --> 00:12:16.710 align:start position:0%
+pretty complicated thing that i will 100
+discuss<00:12:14.880><c> it</c><00:12:14.959><c> in</c><00:12:15.040><c> a</c><00:12:15.120><c> future</c><00:12:15.440><c> video</c><00:12:16.160><c> along</c><00:12:16.480><c> with</c>
+
+00:12:16.710 --> 00:12:16.720 align:start position:0%
+discuss it in a future video along with
+ 
+
+00:12:16.720 --> 00:12:18.790 align:start position:0%
+discuss it in a future video along with
+operational<00:12:17.360><c> transform</c><00:12:18.000><c> which</c><00:12:18.240><c> i</c><00:12:18.320><c> believe</c><00:12:18.720><c> is</c>
+
+00:12:18.790 --> 00:12:18.800 align:start position:0%
+operational transform which i believe is
+ 
+
+00:12:18.800 --> 00:12:20.470 align:start position:0%
+operational transform which i believe is
+the<00:12:18.880><c> current</c><00:12:19.200><c> algorithm</c><00:12:19.680><c> that</c><00:12:19.839><c> google</c><00:12:20.160><c> docs</c>
+
+00:12:20.470 --> 00:12:20.480 align:start position:0%
+the current algorithm that google docs
+ 
+
+00:12:20.480 --> 00:12:23.590 align:start position:0%
+the current algorithm that google docs
+uses<00:12:21.040><c> for</c><00:12:21.200><c> collaborative</c><00:12:21.760><c> text</c><00:12:22.079><c> editing</c>
+
+00:12:23.590 --> 00:12:23.600 align:start position:0%
+uses for collaborative text editing
+ 
+
+00:12:23.600 --> 00:12:24.389 align:start position:0%
+uses for collaborative text editing
+okay
+
+00:12:24.389 --> 00:12:24.399 align:start position:0%
+okay
+ 
+
+00:12:24.399 --> 00:12:27.110 align:start position:0%
+okay
+so<00:12:24.720><c> in</c><00:12:24.880><c> conclusion</c><00:12:25.519><c> crdts</c><00:12:26.320><c> are</c><00:12:26.480><c> super</c><00:12:26.800><c> useful</c>
+
+00:12:27.110 --> 00:12:27.120 align:start position:0%
+so in conclusion crdts are super useful
+ 
+
+00:12:27.120 --> 00:12:30.230 align:start position:0%
+so in conclusion crdts are super useful
+data<00:12:27.440><c> structures</c><00:12:28.000><c> to</c><00:12:28.399><c> ensure</c><00:12:28.800><c> convergence</c><00:12:29.920><c> in</c>
+
+00:12:30.230 --> 00:12:30.240 align:start position:0%
+data structures to ensure convergence in
+ 
+
+00:12:30.240 --> 00:12:32.069 align:start position:0%
+data structures to ensure convergence in
+a<00:12:30.399><c> multi-leader</c><00:12:31.040><c> database</c><00:12:31.519><c> replication</c>
+
+00:12:32.069 --> 00:12:32.079 align:start position:0%
+a multi-leader database replication
+ 
+
+00:12:32.079 --> 00:12:33.350 align:start position:0%
+a multi-leader database replication
+schema
+
+00:12:33.350 --> 00:12:33.360 align:start position:0%
+schema
+ 
+
+00:12:33.360 --> 00:12:34.870 align:start position:0%
+schema
+they're<00:12:33.600><c> generally</c><00:12:34.000><c> used</c><00:12:34.240><c> in</c><00:12:34.320><c> conjunction</c>
+
+00:12:34.870 --> 00:12:34.880 align:start position:0%
+they're generally used in conjunction
+ 
+
+00:12:34.880 --> 00:12:36.790 align:start position:0%
+they're generally used in conjunction
+with<00:12:35.279><c> or</c><00:12:35.519><c> with</c><00:12:35.760><c> kind</c><00:12:36.000><c> of</c><00:12:36.079><c> like</c><00:12:36.320><c> a</c><00:12:36.399><c> similar</c>
+
+00:12:36.790 --> 00:12:36.800 align:start position:0%
+with or with kind of like a similar
+ 
+
+00:12:36.800 --> 00:12:38.710 align:start position:0%
+with or with kind of like a similar
+design<00:12:37.200><c> pattern</c><00:12:37.519><c> to</c><00:12:37.680><c> version</c><00:12:38.000><c> vectors</c><00:12:38.480><c> which</c>
+
+00:12:38.710 --> 00:12:38.720 align:start position:0%
+design pattern to version vectors which
+ 
+
+00:12:38.720 --> 00:12:40.389 align:start position:0%
+design pattern to version vectors which
+if<00:12:38.800><c> you</c><00:12:38.959><c> remember</c><00:12:39.519><c> from</c><00:12:39.680><c> my</c><00:12:39.839><c> multi-leader</c>
+
+00:12:40.389 --> 00:12:40.399 align:start position:0%
+if you remember from my multi-leader
+ 
+
+00:12:40.399 --> 00:12:42.710 align:start position:0%
+if you remember from my multi-leader
+replication<00:12:40.959><c> video</c><00:12:41.680><c> is</c><00:12:41.839><c> basically</c><00:12:42.320><c> keeping</c>
+
+00:12:42.710 --> 00:12:42.720 align:start position:0%
+replication video is basically keeping
+ 
+
+00:12:42.720 --> 00:12:44.389 align:start position:0%
+replication video is basically keeping
+track<00:12:43.040><c> of</c><00:12:43.120><c> the</c><00:12:43.279><c> dependencies</c><00:12:44.000><c> of</c><00:12:44.240><c> every</c>
+
+00:12:44.389 --> 00:12:44.399 align:start position:0%
+track of the dependencies of every
+ 
+
+00:12:44.399 --> 00:12:46.470 align:start position:0%
+track of the dependencies of every
+single<00:12:44.800><c> write</c><00:12:45.279><c> and</c><00:12:45.440><c> using</c><00:12:45.680><c> this</c><00:12:45.920><c> to</c><00:12:46.000><c> determine</c>
+
+00:12:46.470 --> 00:12:46.480 align:start position:0%
+single write and using this to determine
+ 
+
+00:12:46.480 --> 00:12:48.790 align:start position:0%
+single write and using this to determine
+when<00:12:46.639><c> two</c><00:12:46.880><c> writes</c><00:12:47.279><c> are</c><00:12:47.440><c> concurrent</c><00:12:48.320><c> or</c><00:12:48.639><c> if</c>
+
+00:12:48.790 --> 00:12:48.800 align:start position:0%
+when two writes are concurrent or if
+ 
+
+00:12:48.800 --> 00:12:50.790 align:start position:0%
+when two writes are concurrent or if
+they're<00:12:48.959><c> not</c><00:12:49.200><c> concurrent</c>
+
+00:12:50.790 --> 00:12:50.800 align:start position:0%
+they're not concurrent
+ 
+
+00:12:50.800 --> 00:12:53.190 align:start position:0%
+they're not concurrent
+since<00:12:51.120><c> this</c><00:12:51.360><c> is</c><00:12:51.680><c> a</c><00:12:51.920><c> really</c><00:12:52.399><c> differentiating</c>
+
+00:12:53.190 --> 00:12:53.200 align:start position:0%
+since this is a really differentiating
+ 
+
+00:12:53.200 --> 00:12:55.110 align:start position:0%
+since this is a really differentiating
+feature<00:12:53.680><c> of</c><00:12:53.920><c> ryak</c><00:12:54.399><c> versus</c><00:12:54.720><c> something</c><00:12:54.959><c> like</c>
+
+00:12:55.110 --> 00:12:55.120 align:start position:0%
+feature of ryak versus something like
+ 
+
+00:12:55.120 --> 00:12:56.870 align:start position:0%
+feature of ryak versus something like
+cassandra<00:12:56.000><c> i</c><00:12:56.079><c> figured</c><00:12:56.399><c> it</c><00:12:56.480><c> was</c><00:12:56.639><c> really</c>
+
+00:12:56.870 --> 00:12:56.880 align:start position:0%
+cassandra i figured it was really
+ 
+
+00:12:56.880 --> 00:12:58.389 align:start position:0%
+cassandra i figured it was really
+important<00:12:57.200><c> to</c><00:12:57.440><c> kind</c><00:12:57.600><c> of</c><00:12:57.839><c> understand</c><00:12:58.240><c> how</c>
+
+00:12:58.389 --> 00:12:58.399 align:start position:0%
+important to kind of understand how
+ 
+
+00:12:58.399 --> 00:13:00.629 align:start position:0%
+important to kind of understand how
+crdts<00:12:59.200><c> actually</c><00:12:59.440><c> work</c><00:12:59.920><c> and</c><00:13:00.079><c> give</c><00:13:00.320><c> a</c><00:13:00.399><c> few</c>
+
+00:13:00.629 --> 00:13:00.639 align:start position:0%
+crdts actually work and give a few
+ 
+
+00:13:00.639 --> 00:13:02.870 align:start position:0%
+crdts actually work and give a few
+examples<00:13:01.040><c> of</c><00:13:01.200><c> them</c><00:13:01.680><c> before</c><00:13:02.079><c> actually</c><00:13:02.480><c> looking</c>
+
+00:13:02.870 --> 00:13:02.880 align:start position:0%
+examples of them before actually looking
+ 
+
+00:13:02.880 --> 00:13:05.430 align:start position:0%
+examples of them before actually looking
+at<00:13:03.120><c> kind</c><00:13:03.360><c> of</c><00:13:03.440><c> the</c><00:13:03.600><c> ryac</c><00:13:04.000><c> breakdown</c><00:13:04.480><c> itself</c>
+
+00:13:05.430 --> 00:13:05.440 align:start position:0%
+at kind of the ryac breakdown itself
+ 
+
+00:13:05.440 --> 00:13:06.710 align:start position:0%
+at kind of the ryac breakdown itself
+because<00:13:06.000><c> i</c><00:13:06.079><c> didn't</c><00:13:06.320><c> want</c><00:13:06.480><c> to</c><00:13:06.560><c> just</c>
+
+00:13:06.710 --> 00:13:06.720 align:start position:0%
+because i didn't want to just
+ 
+
+00:13:06.720 --> 00:13:09.030 align:start position:0%
+because i didn't want to just
+off-handedly<00:13:07.360><c> mention</c><00:13:07.760><c> crdts</c><00:13:08.639><c> and</c><00:13:08.720><c> then</c><00:13:08.880><c> be</c>
+
+00:13:09.030 --> 00:13:09.040 align:start position:0%
+off-handedly mention crdts and then be
+ 
+
+00:13:09.040 --> 00:13:10.550 align:start position:0%
+off-handedly mention crdts and then be
+like<00:13:09.200><c> oh</c><00:13:09.360><c> yeah</c><00:13:09.600><c> ryak</c><00:13:10.000><c> has</c><00:13:10.240><c> those</c><00:13:10.399><c> that</c>
+
+00:13:10.550 --> 00:13:10.560 align:start position:0%
+like oh yeah ryak has those that
+ 
+
+00:13:10.560 --> 00:13:12.470 align:start position:0%
+like oh yeah ryak has those that
+wouldn't<00:13:10.800><c> really</c><00:13:10.959><c> be</c><00:13:11.120><c> fair</c><00:13:11.360><c> to</c><00:13:11.519><c> you</c><00:13:11.680><c> guys</c>
+
+00:13:12.470 --> 00:13:12.480 align:start position:0%
+wouldn't really be fair to you guys
+ 
+
+00:13:12.480 --> 00:13:14.150 align:start position:0%
+wouldn't really be fair to you guys
+so<00:13:12.720><c> all</c><00:13:12.880><c> in</c><00:13:13.040><c> all</c><00:13:13.200><c> i</c><00:13:13.279><c> hope</c><00:13:13.519><c> this</c><00:13:13.680><c> video</c><00:13:13.920><c> was</c>
+
+00:13:14.150 --> 00:13:14.160 align:start position:0%
+so all in all i hope this video was
+ 
+
+00:13:14.160 --> 00:13:15.110 align:start position:0%
+so all in all i hope this video was
+useful
+
+00:13:15.110 --> 00:13:15.120 align:start position:0%
+useful
+ 
+
+00:13:15.120 --> 00:13:16.870 align:start position:0%
+useful
+i<00:13:15.279><c> look</c><00:13:15.519><c> forward</c><00:13:15.839><c> to</c><00:13:16.160><c> getting</c><00:13:16.399><c> back</c><00:13:16.639><c> into</c><00:13:16.800><c> the</c>
+
+00:13:16.870 --> 00:13:16.880 align:start position:0%
+i look forward to getting back into the
+ 
+
+00:13:16.880 --> 00:13:18.069 align:start position:0%
+i look forward to getting back into the
+key<00:13:17.040><c> value</c><00:13:17.440><c> stores</c><00:13:17.680><c> because</c><00:13:17.839><c> then</c><00:13:18.000><c> we're</c>
+
+00:13:18.069 --> 00:13:18.079 align:start position:0%
+key value stores because then we're
+ 
+
+00:13:18.079 --> 00:13:19.590 align:start position:0%
+key value stores because then we're
+going<00:13:18.160><c> to</c><00:13:18.320><c> get</c><00:13:18.480><c> to</c><00:13:18.560><c> touch</c><00:13:18.800><c> upon</c><00:13:19.040><c> some</c><00:13:19.200><c> more</c><00:13:19.440><c> new</c>
+
+00:13:19.590 --> 00:13:19.600 align:start position:0%
+going to get to touch upon some more new
+ 
+
+00:13:19.600 --> 00:13:21.670 align:start position:0%
+going to get to touch upon some more new
+things<00:13:19.920><c> that</c><00:13:20.000><c> are</c><00:13:20.160><c> really</c><00:13:20.399><c> important</c>
+
+00:13:21.670 --> 00:13:21.680 align:start position:0%
+things that are really important
+ 
+
+00:13:21.680 --> 00:13:24.150 align:start position:0%
+things that are really important
+like<00:13:21.920><c> caching</c><00:13:22.399><c> and</c><00:13:22.480><c> cache</c><00:13:22.800><c> consistency</c><00:13:23.920><c> and</c>
+
+00:13:24.150 --> 00:13:24.160 align:start position:0%
+like caching and cache consistency and
+ 
+
+00:13:24.160 --> 00:13:25.670 align:start position:0%
+like caching and cache consistency and
+that's<00:13:24.399><c> all</c><00:13:24.560><c> going</c><00:13:24.639><c> to</c><00:13:24.720><c> come</c><00:13:24.880><c> into</c><00:13:25.120><c> play</c><00:13:25.279><c> soon</c>
+
+00:13:25.670 --> 00:13:25.680 align:start position:0%
+that's all going to come into play soon
+ 
+
+00:13:25.680 --> 00:13:26.949 align:start position:0%
+that's all going to come into play soon
+so<00:13:25.920><c> yeah</c><00:13:26.160><c> things</c><00:13:26.399><c> are</c><00:13:26.560><c> really</c><00:13:26.720><c> coming</c>
+
+00:13:26.949 --> 00:13:26.959 align:start position:0%
+so yeah things are really coming
+ 
+
+00:13:26.959 --> 00:13:30.800 align:start position:0%
+so yeah things are really coming
+together<00:13:27.279><c> guys</c><00:13:27.680><c> and</c><00:13:28.079><c> have</c><00:13:28.240><c> a</c><00:13:28.320><c> good</c><00:13:28.480><c> day</c>
+

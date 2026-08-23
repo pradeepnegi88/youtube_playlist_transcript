@@ -1,0 +1,1456 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.470 align:start position:0%
+ 
+So<00:00:00.320><c> what</c><00:00:00.480><c> is</c><00:00:00.640><c> an</c><00:00:00.719><c> API</c><00:00:01.120><c> gateway?</c><00:00:02.000><c> In</c><00:00:02.159><c> order</c><00:00:02.320><c> to</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+So what is an API gateway? In order to
+ 
+
+00:00:02.480 --> 00:00:04.150 align:start position:0%
+So what is an API gateway? In order to
+understand<00:00:02.800><c> an</c><00:00:03.040><c> API</c><00:00:03.439><c> gateway,</c><00:00:03.840><c> it</c><00:00:04.000><c> makes</c>
+
+00:00:04.150 --> 00:00:04.160 align:start position:0%
+understand an API gateway, it makes
+ 
+
+00:00:04.160 --> 00:00:06.150 align:start position:0%
+understand an API gateway, it makes
+sense<00:00:04.319><c> for</c><00:00:04.480><c> us</c><00:00:04.640><c> to</c><00:00:04.880><c> first</c><00:00:05.200><c> chronicle</c><00:00:05.839><c> its</c>
+
+00:00:06.150 --> 00:00:06.160 align:start position:0%
+sense for us to first chronicle its
+ 
+
+00:00:06.160 --> 00:00:09.190 align:start position:0%
+sense for us to first chronicle its
+recent<00:00:06.680><c> history.</c><00:00:07.680><c> And</c><00:00:07.839><c> so</c><00:00:08.000><c> we</c><00:00:08.240><c> can</c><00:00:08.400><c> start</c><00:00:08.639><c> with</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+recent history. And so we can start with
+ 
+
+00:00:09.200 --> 00:00:12.150 align:start position:0%
+recent history. And so we can start with
+the<00:00:09.719><c> 2000s.</c><00:00:10.719><c> In</c><00:00:10.960><c> the</c><00:00:11.120><c> 2000s,</c><00:00:11.599><c> most</c><00:00:11.840><c> production</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+the 2000s. In the 2000s, most production
+ 
+
+00:00:12.160 --> 00:00:13.669 align:start position:0%
+the 2000s. In the 2000s, most production
+services<00:00:12.559><c> just</c><00:00:12.800><c> lived</c><00:00:13.120><c> in</c><00:00:13.280><c> a</c><00:00:13.440><c> single</c>
+
+00:00:13.669 --> 00:00:13.679 align:start position:0%
+services just lived in a single
+ 
+
+00:00:13.679 --> 00:00:15.350 align:start position:0%
+services just lived in a single
+monolith.<00:00:14.400><c> This</c><00:00:14.639><c> meant</c><00:00:14.719><c> that</c><00:00:14.960><c> the</c><00:00:15.120><c> client</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+monolith. This meant that the client
+ 
+
+00:00:15.360 --> 00:00:17.510 align:start position:0%
+monolith. This meant that the client
+would<00:00:15.519><c> hit</c><00:00:15.679><c> a</c><00:00:15.839><c> single</c><00:00:16.080><c> URL</c><00:00:16.800><c> which</c><00:00:17.039><c> would</c><00:00:17.199><c> route</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+would hit a single URL which would route
+ 
+
+00:00:17.520 --> 00:00:19.429 align:start position:0%
+would hit a single URL which would route
+things<00:00:17.840><c> to</c><00:00:18.080><c> this</c><00:00:18.320><c> large</c><00:00:18.560><c> monolith</c><00:00:19.119><c> or</c><00:00:19.199><c> single</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+things to this large monolith or single
+ 
+
+00:00:19.439 --> 00:00:20.630 align:start position:0%
+things to this large monolith or single
+server<00:00:19.680><c> which</c><00:00:19.920><c> handled</c><00:00:20.240><c> every</c><00:00:20.400><c> single</c>
+
+00:00:20.630 --> 00:00:20.640 align:start position:0%
+server which handled every single
+ 
+
+00:00:20.640 --> 00:00:22.710 align:start position:0%
+server which handled every single
+feature<00:00:21.279><c> and</c><00:00:21.520><c> talk</c><00:00:21.680><c> to</c><00:00:21.840><c> the</c><00:00:22.000><c> database</c><00:00:22.480><c> when</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+feature and talk to the database when
+ 
+
+00:00:22.720 --> 00:00:24.230 align:start position:0%
+feature and talk to the database when
+needed.<00:00:23.359><c> It</c><00:00:23.519><c> was</c><00:00:23.600><c> a</c><00:00:23.760><c> dead</c><00:00:23.920><c> simple</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+needed. It was a dead simple
+ 
+
+00:00:24.240 --> 00:00:25.990 align:start position:0%
+needed. It was a dead simple
+architecture<00:00:24.720><c> and</c><00:00:24.960><c> it</c><00:00:25.119><c> was</c><00:00:25.279><c> really</c><00:00:25.519><c> easy</c><00:00:25.760><c> to</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+architecture and it was really easy to
+ 
+
+00:00:26.000 --> 00:00:29.269 align:start position:0%
+architecture and it was really easy to
+reason<00:00:26.320><c> about.</c><00:00:27.599><c> But</c><00:00:27.840><c> then</c><00:00:28.480><c> fast</c><00:00:28.800><c> forward</c><00:00:29.039><c> to</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+reason about. But then fast forward to
+ 
+
+00:00:29.279 --> 00:00:32.069 align:start position:0%
+reason about. But then fast forward to
+the<00:00:29.519><c> 2010</c><00:00:30.160><c> 2012</c><00:00:30.880><c> range.</c><00:00:31.359><c> These</c><00:00:31.599><c> are</c><00:00:31.760><c> loose</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+the 2010 2012 range. These are loose
+ 
+
+00:00:32.079 --> 00:00:34.310 align:start position:0%
+the 2010 2012 range. These are loose
+numbers.<00:00:33.040><c> Growth</c><00:00:33.360><c> forced</c><00:00:33.680><c> a</c><00:00:33.840><c> new</c><00:00:34.000><c> trend</c><00:00:34.160><c> of</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+numbers. Growth forced a new trend of
+ 
+
+00:00:34.320 --> 00:00:35.830 align:start position:0%
+numbers. Growth forced a new trend of
+the<00:00:34.480><c> industry</c><00:00:34.800><c> where</c><00:00:35.040><c> we</c><00:00:35.280><c> slice</c><00:00:35.600><c> that</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+the industry where we slice that
+ 
+
+00:00:35.840 --> 00:00:37.549 align:start position:0%
+the industry where we slice that
+monolith<00:00:36.399><c> into</c><00:00:36.640><c> a</c><00:00:36.880><c> bunch</c><00:00:37.040><c> of</c><00:00:37.200><c> different</c>
+
+00:00:37.549 --> 00:00:37.559 align:start position:0%
+monolith into a bunch of different
+ 
+
+00:00:37.559 --> 00:00:39.950 align:start position:0%
+monolith into a bunch of different
+microservices.<00:00:38.559><c> Hence</c><00:00:38.960><c> microser</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+microservices. Hence microser
+ 
+
+00:00:39.960 --> 00:00:42.470 align:start position:0%
+microservices. Hence microser
+architecture.<00:00:40.960><c> But</c><00:00:41.200><c> now</c><00:00:41.440><c> this</c><00:00:41.600><c> client</c><00:00:42.000><c> has</c><00:00:42.239><c> an</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+architecture. But now this client has an
+ 
+
+00:00:42.480 --> 00:00:45.190 align:start position:0%
+architecture. But now this client has an
+issue<00:00:42.719><c> that</c><00:00:42.879><c> it</c><00:00:43.040><c> ran</c><00:00:43.280><c> into.</c><00:00:44.239><c> It</c><00:00:44.480><c> has</c><00:00:44.640><c> to</c><00:00:44.800><c> either</c>
+
+00:00:45.190 --> 00:00:45.200 align:start position:0%
+issue that it ran into. It has to either
+ 
+
+00:00:45.200 --> 00:00:47.110 align:start position:0%
+issue that it ran into. It has to either
+know<00:00:45.440><c> the</c><00:00:45.680><c> URL</c><00:00:46.079><c> of</c><00:00:46.320><c> every</c><00:00:46.480><c> single</c><00:00:46.719><c> one</c><00:00:46.879><c> of</c><00:00:46.960><c> the</c>
+
+00:00:47.110 --> 00:00:47.120 align:start position:0%
+know the URL of every single one of the
+ 
+
+00:00:47.120 --> 00:00:49.190 align:start position:0%
+know the URL of every single one of the
+microservices<00:00:48.079><c> and</c><00:00:48.320><c> when</c><00:00:48.559><c> to</c><00:00:48.719><c> call</c><00:00:48.960><c> each</c><00:00:49.120><c> of</c>
+
+00:00:49.190 --> 00:00:49.200 align:start position:0%
+microservices and when to call each of
+ 
+
+00:00:49.200 --> 00:00:51.670 align:start position:0%
+microservices and when to call each of
+them<00:00:49.559><c> respectively</c><00:00:50.559><c> or</c><00:00:50.879><c> alternatively</c><00:00:51.520><c> it</c>
+
+00:00:51.670 --> 00:00:51.680 align:start position:0%
+them respectively or alternatively it
+ 
+
+00:00:51.680 --> 00:00:53.110 align:start position:0%
+them respectively or alternatively it
+would<00:00:51.840><c> route</c><00:00:52.079><c> all</c><00:00:52.239><c> of</c><00:00:52.320><c> its</c><00:00:52.480><c> requests</c><00:00:52.800><c> to</c><00:00:52.960><c> a</c>
+
+00:00:53.110 --> 00:00:53.120 align:start position:0%
+would route all of its requests to a
+ 
+
+00:00:53.120 --> 00:00:55.590 align:start position:0%
+would route all of its requests to a
+single<00:00:53.360><c> microser</c><00:00:54.079><c> like</c><00:00:54.239><c> microser</c><00:00:54.960><c> one</c><00:00:55.360><c> and</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+single microser like microser one and
+ 
+
+00:00:55.600 --> 00:00:57.029 align:start position:0%
+single microser like microser one and
+then<00:00:55.760><c> microser</c><00:00:56.320><c> one</c><00:00:56.559><c> would</c><00:00:56.719><c> need</c><00:00:56.879><c> to</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+then microser one would need to
+ 
+
+00:00:57.039 --> 00:00:58.869 align:start position:0%
+then microser one would need to
+determine<00:00:57.680><c> when</c><00:00:57.920><c> to</c><00:00:58.079><c> forward</c><00:00:58.399><c> that</c><00:00:58.640><c> request</c>
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+determine when to forward that request
+ 
+
+00:00:58.879 --> 00:01:00.110 align:start position:0%
+determine when to forward that request
+on<00:00:59.120><c> to</c><00:00:59.280><c> the</c><00:00:59.440><c> other</c>
+
+00:01:00.110 --> 00:01:00.120 align:start position:0%
+on to the other
+ 
+
+00:01:00.120 --> 00:01:01.750 align:start position:0%
+on to the other
+microservices.<00:01:01.120><c> Either</c><00:01:01.440><c> of</c><00:01:01.520><c> these</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+microservices. Either of these
+ 
+
+00:01:01.760 --> 00:01:04.390 align:start position:0%
+microservices. Either of these
+approaches<00:01:02.480><c> was</c><00:01:02.760><c> clumsy.</c><00:01:03.760><c> Now</c><00:01:03.920><c> the</c><00:01:04.080><c> big</c><00:01:04.239><c> issue</c>
+
+00:01:04.390 --> 00:01:04.400 align:start position:0%
+approaches was clumsy. Now the big issue
+ 
+
+00:01:04.400 --> 00:01:06.149 align:start position:0%
+approaches was clumsy. Now the big issue
+with<00:01:04.559><c> the</c><00:01:04.799><c> second</c><00:01:05.040><c> approach</c><00:01:05.360><c> was</c><00:01:05.600><c> that</c><00:01:05.840><c> if</c><00:01:06.000><c> we</c>
+
+00:01:06.149 --> 00:01:06.159 align:start position:0%
+with the second approach was that if we
+ 
+
+00:01:06.159 --> 00:01:07.670 align:start position:0%
+with the second approach was that if we
+ever<00:01:06.400><c> wanted</c><00:01:06.560><c> to</c><00:01:06.799><c> change</c><00:01:07.040><c> some</c><00:01:07.280><c> simple</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+ever wanted to change some simple
+ 
+
+00:01:07.680 --> 00:01:09.830 align:start position:0%
+ever wanted to change some simple
+routing<00:01:08.080><c> logic</c><00:01:08.720><c> we</c><00:01:08.960><c> would</c><00:01:09.119><c> need</c><00:01:09.200><c> to</c><00:01:09.360><c> redeploy</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+routing logic we would need to redeploy
+ 
+
+00:01:09.840 --> 00:01:13.190 align:start position:0%
+routing logic we would need to redeploy
+an<00:01:10.080><c> entire</c><00:01:10.360><c> microser.</c><00:01:11.360><c> This</c><00:01:11.520><c> wasn't</c><00:01:12.119><c> ideal.</c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+an entire microser. This wasn't ideal.
+ 
+
+00:01:13.200 --> 00:01:15.270 align:start position:0%
+an entire microser. This wasn't ideal.
+And<00:01:13.439><c> so</c><00:01:13.680><c> fast</c><00:01:13.920><c> forwarding</c><00:01:14.320><c> then</c><00:01:14.640><c> just</c><00:01:14.960><c> one</c>
+
+00:01:15.270 --> 00:01:15.280 align:start position:0%
+And so fast forwarding then just one
+ 
+
+00:01:15.280 --> 00:01:19.030 align:start position:0%
+And so fast forwarding then just one
+year<00:01:15.760><c> 2013</c><00:01:16.400><c> to</c><00:01:16.840><c> 2014ish</c><00:01:17.840><c> area.</c><00:01:18.640><c> This</c><00:01:18.799><c> is</c><00:01:18.880><c> when</c>
+
+00:01:19.030 --> 00:01:19.040 align:start position:0%
+year 2013 to 2014ish area. This is when
+ 
+
+00:01:19.040 --> 00:01:21.830 align:start position:0%
+year 2013 to 2014ish area. This is when
+we<00:01:19.200><c> introduced</c><00:01:19.600><c> the</c><00:01:19.840><c> first</c><00:01:20.400><c> generation</c><00:01:21.360><c> API</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+we introduced the first generation API
+ 
+
+00:01:21.840 --> 00:01:23.910 align:start position:0%
+we introduced the first generation API
+gateways<00:01:22.560><c> by</c><00:01:22.799><c> putting</c><00:01:23.040><c> a</c><00:01:23.200><c> thin</c><00:01:23.600><c> layer</c><00:01:23.759><c> in</c>
+
+00:01:23.910 --> 00:01:23.920 align:start position:0%
+gateways by putting a thin layer in
+ 
+
+00:01:23.920 --> 00:01:26.310 align:start position:0%
+gateways by putting a thin layer in
+front<00:01:24.080><c> of</c><00:01:24.159><c> those</c><00:01:24.680><c> microservices.</c><00:01:25.680><c> And</c><00:01:25.840><c> so</c><00:01:26.080><c> now</c>
+
+00:01:26.310 --> 00:01:26.320 align:start position:0%
+front of those microservices. And so now
+ 
+
+00:01:26.320 --> 00:01:27.670 align:start position:0%
+front of those microservices. And so now
+clients<00:01:26.720><c> could</c><00:01:26.960><c> stick</c><00:01:27.119><c> to</c><00:01:27.360><c> just</c><00:01:27.520><c> one</c>
+
+00:01:27.670 --> 00:01:27.680 align:start position:0%
+clients could stick to just one
+ 
+
+00:01:27.680 --> 00:01:29.109 align:start position:0%
+clients could stick to just one
+endpoint.<00:01:28.159><c> They</c><00:01:28.320><c> only</c><00:01:28.479><c> needed</c><00:01:28.720><c> to</c><00:01:28.799><c> know</c><00:01:28.960><c> one</c>
+
+00:01:29.109 --> 00:01:29.119 align:start position:0%
+endpoint. They only needed to know one
+ 
+
+00:01:29.119 --> 00:01:30.950 align:start position:0%
+endpoint. They only needed to know one
+endpoint<00:01:29.439><c> like</c><00:01:29.680><c> in</c><00:01:29.840><c> the</c><00:01:30.000><c> beginning</c><00:01:30.560><c> and</c><00:01:30.720><c> it</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+endpoint like in the beginning and it
+ 
+
+00:01:30.960 --> 00:01:32.789 align:start position:0%
+endpoint like in the beginning and it
+would<00:01:31.040><c> be</c><00:01:31.119><c> the</c><00:01:31.280><c> endpoint</c><00:01:31.600><c> of</c><00:01:31.680><c> the</c><00:01:31.840><c> API</c><00:01:32.240><c> gateway</c>
+
+00:01:32.789 --> 00:01:32.799 align:start position:0%
+would be the endpoint of the API gateway
+ 
+
+00:01:32.799 --> 00:01:34.789 align:start position:0%
+would be the endpoint of the API gateway
+whose<00:01:33.200><c> responsibility</c><00:01:34.000><c> is</c><00:01:34.240><c> to</c><00:01:34.400><c> determine</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+whose responsibility is to determine
+ 
+
+00:01:34.799 --> 00:01:37.109 align:start position:0%
+whose responsibility is to determine
+which<00:01:35.119><c> micros</c><00:01:35.600><c> service</c><00:01:36.000><c> that</c><00:01:36.320><c> request</c><00:01:36.880><c> should</c>
+
+00:01:37.109 --> 00:01:37.119 align:start position:0%
+which micros service that request should
+ 
+
+00:01:37.119 --> 00:01:39.030 align:start position:0%
+which micros service that request should
+be<00:01:37.280><c> routed</c><00:01:37.600><c> to</c><00:01:38.079><c> and</c><00:01:38.240><c> then</c><00:01:38.479><c> route</c><00:01:38.640><c> it</c><00:01:38.799><c> to</c><00:01:38.880><c> the</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+be routed to and then route it to the
+ 
+
+00:01:39.040 --> 00:01:41.749 align:start position:0%
+be routed to and then route it to the
+appropriate<00:01:39.799><c> microser.</c><00:01:40.880><c> And</c><00:01:41.119><c> so</c><00:01:41.360><c> at</c><00:01:41.600><c> this</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+appropriate microser. And so at this
+ 
+
+00:01:41.759 --> 00:01:44.469 align:start position:0%
+appropriate microser. And so at this
+point<00:01:42.000><c> now</c><00:01:42.240><c> our</c><00:01:42.479><c> routing</c><00:01:42.880><c> issues</c><00:01:43.200><c> are</c><00:01:43.479><c> solved.</c>
+
+00:01:44.469 --> 00:01:44.479 align:start position:0%
+point now our routing issues are solved.
+ 
+
+00:01:44.479 --> 00:01:46.550 align:start position:0%
+point now our routing issues are solved.
+But<00:01:44.799><c> there</c><00:01:45.040><c> was</c><00:01:45.200><c> one</c><00:01:45.360><c> more</c><00:01:45.600><c> problem</c><00:01:46.320><c> and</c>
+
+00:01:46.550 --> 00:01:46.560 align:start position:0%
+But there was one more problem and
+ 
+
+00:01:46.560 --> 00:01:48.950 align:start position:0%
+But there was one more problem and
+that's<00:01:46.720><c> that</c><00:01:46.960><c> each</c><00:01:47.200><c> of</c><00:01:47.360><c> these</c><00:01:47.960><c> microservices</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+that's that each of these microservices
+ 
+
+00:01:48.960 --> 00:01:51.469 align:start position:0%
+that's that each of these microservices
+here<00:01:49.520><c> had</c><00:01:49.759><c> all</c><00:01:49.920><c> of</c><00:01:50.079><c> this</c><00:01:50.640><c> repeated</c>
+
+00:01:51.469 --> 00:01:51.479 align:start position:0%
+here had all of this repeated
+ 
+
+00:01:51.479 --> 00:01:53.510 align:start position:0%
+here had all of this repeated
+boilerplate.<00:01:52.479><c> They</c><00:01:52.640><c> had</c><00:01:52.799><c> the</c><00:01:53.040><c> same</c><00:01:53.200><c> code</c>
+
+00:01:53.510 --> 00:01:53.520 align:start position:0%
+boilerplate. They had the same code
+ 
+
+00:01:53.520 --> 00:01:54.990 align:start position:0%
+boilerplate. They had the same code
+shared<00:01:53.759><c> amongst</c><00:01:54.079><c> all</c><00:01:54.159><c> of</c><00:01:54.320><c> them.</c><00:01:54.560><c> Things</c><00:01:54.720><c> like</c>
+
+00:01:54.990 --> 00:01:55.000 align:start position:0%
+shared amongst all of them. Things like
+ 
+
+00:01:55.000 --> 00:01:57.830 align:start position:0%
+shared amongst all of them. Things like
+authentication,<00:01:56.000><c> rate</c><00:01:56.320><c> limiting,</c><00:01:57.040><c> logging,</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+authentication, rate limiting, logging,
+ 
+
+00:01:57.840 --> 00:02:00.149 align:start position:0%
+authentication, rate limiting, logging,
+all<00:01:58.000><c> of</c><00:01:58.159><c> this</c><00:01:58.320><c> was</c><00:01:58.560><c> repeated.</c><00:01:59.520><c> And</c><00:01:59.759><c> so</c><00:01:59.920><c> the</c>
+
+00:02:00.149 --> 00:02:00.159 align:start position:0%
+all of this was repeated. And so the
+ 
+
+00:02:00.159 --> 00:02:01.830 align:start position:0%
+all of this was repeated. And so the
+realization,<00:02:00.880><c> and</c><00:02:01.040><c> this</c><00:02:01.280><c> has</c><00:02:01.439><c> kind</c><00:02:01.600><c> of</c>
+
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+realization, and this has kind of
+ 
+
+00:02:01.840 --> 00:02:04.709 align:start position:0%
+realization, and this has kind of
+continued<00:02:02.479><c> through</c><00:02:02.880><c> the</c><00:02:03.320><c> mid2010s</c><00:02:04.320><c> all</c><00:02:04.560><c> the</c>
+
+00:02:04.709 --> 00:02:04.719 align:start position:0%
+continued through the mid2010s all the
+ 
+
+00:02:04.719 --> 00:02:07.590 align:start position:0%
+continued through the mid2010s all the
+way<00:02:04.799><c> until</c><00:02:05.119><c> now,</c><00:02:06.000><c> was</c><00:02:06.240><c> that</c><00:02:06.640><c> we</c><00:02:06.880><c> can</c><00:02:07.040><c> kind</c><00:02:07.200><c> of</c>
+
+00:02:07.590 --> 00:02:07.600 align:start position:0%
+way until now, was that we can kind of
+ 
+
+00:02:07.600 --> 00:02:09.669 align:start position:0%
+way until now, was that we can kind of
+put<00:02:07.840><c> some</c><00:02:08.000><c> of</c><00:02:08.160><c> this</c><00:02:08.399><c> shared</c><00:02:08.720><c> middleware</c><00:02:09.280><c> into</c>
+
+00:02:09.669 --> 00:02:09.679 align:start position:0%
+put some of this shared middleware into
+ 
+
+00:02:09.679 --> 00:02:11.750 align:start position:0%
+put some of this shared middleware into
+the<00:02:09.840><c> API</c><00:02:10.319><c> gateway.</c><00:02:11.039><c> So</c><00:02:11.200><c> all</c><00:02:11.440><c> of</c><00:02:11.520><c> these</c>
+
+00:02:11.750 --> 00:02:11.760 align:start position:0%
+the API gateway. So all of these
+ 
+
+00:02:11.760 --> 00:02:13.430 align:start position:0%
+the API gateway. So all of these
+repeatable<00:02:12.319><c> chores</c><00:02:12.720><c> could</c><00:02:12.879><c> live</c><00:02:13.040><c> in</c><00:02:13.280><c> this</c>
+
+00:02:13.430 --> 00:02:13.440 align:start position:0%
+repeatable chores could live in this
+ 
+
+00:02:13.440 --> 00:02:15.430 align:start position:0%
+repeatable chores could live in this
+thin<00:02:13.840><c> layer.</c><00:02:14.160><c> And</c><00:02:14.319><c> we</c><00:02:14.480><c> taught</c><00:02:14.720><c> the</c><00:02:14.879><c> gateway</c><00:02:15.200><c> to</c>
+
+00:02:15.430 --> 00:02:15.440 align:start position:0%
+thin layer. And we taught the gateway to
+ 
+
+00:02:15.440 --> 00:02:17.670 align:start position:0%
+thin layer. And we taught the gateway to
+do<00:02:15.599><c> things</c><00:02:15.760><c> like</c><00:02:15.920><c> terminate</c><00:02:16.400><c> TLS,</c><00:02:16.959><c> verify</c><00:02:17.440><c> O</c>
+
+00:02:17.670 --> 00:02:17.680 align:start position:0%
+do things like terminate TLS, verify O
+ 
+
+00:02:17.680 --> 00:02:20.229 align:start position:0%
+do things like terminate TLS, verify O
+tokens,<00:02:18.160><c> throttle</c><00:02:18.560><c> abusers,</c><00:02:19.680><c> uh</c><00:02:19.920><c> log</c>
+
+00:02:20.229 --> 00:02:20.239 align:start position:0%
+tokens, throttle abusers, uh log
+ 
+
+00:02:20.239 --> 00:02:22.550 align:start position:0%
+tokens, throttle abusers, uh log
+metrics.<00:02:21.040><c> It</c><00:02:21.200><c> can</c><00:02:21.360><c> even</c><00:02:21.599><c> cache</c><00:02:22.000><c> some</c><00:02:22.239><c> common</c>
+
+00:02:22.550 --> 00:02:22.560 align:start position:0%
+metrics. It can even cache some common
+ 
+
+00:02:22.560 --> 00:02:25.110 align:start position:0%
+metrics. It can even cache some common
+responses<00:02:23.360><c> that</c><00:02:23.599><c> can</c><00:02:23.760><c> all</c><00:02:23.920><c> happen</c><00:02:24.160><c> here</c><00:02:24.480><c> along</c>
+
+00:02:25.110 --> 00:02:25.120 align:start position:0%
+responses that can all happen here along
+ 
+
+00:02:25.120 --> 00:02:27.750 align:start position:0%
+responses that can all happen here along
+with<00:02:25.360><c> that</c><00:02:25.599><c> routing.</c><00:02:26.560><c> And</c><00:02:26.800><c> so</c><00:02:27.040><c> now</c><00:02:27.440><c> every</c>
+
+00:02:27.750 --> 00:02:27.760 align:start position:0%
+with that routing. And so now every
+ 
+
+00:02:27.760 --> 00:02:30.390 align:start position:0%
+with that routing. And so now every
+single<00:02:28.080><c> team</c><00:02:28.400><c> just</c><00:02:28.720><c> focus</c><00:02:29.120><c> on</c><00:02:29.440><c> shipping</c><00:02:30.000><c> pure</c>
+
+00:02:30.390 --> 00:02:30.400 align:start position:0%
+single team just focus on shipping pure
+ 
+
+00:02:30.400 --> 00:02:32.710 align:start position:0%
+single team just focus on shipping pure
+business<00:02:30.720><c> logic</c><00:02:31.520><c> and</c><00:02:31.760><c> the</c><00:02:31.920><c> client</c><00:02:32.239><c> only</c><00:02:32.480><c> needs</c>
+
+00:02:32.710 --> 00:02:32.720 align:start position:0%
+business logic and the client only needs
+ 
+
+00:02:32.720 --> 00:02:35.110 align:start position:0%
+business logic and the client only needs
+a<00:02:32.959><c> single</c><00:02:33.280><c> URL</c><00:02:33.920><c> and</c><00:02:34.160><c> we</c><00:02:34.319><c> have</c><00:02:34.400><c> our</c><00:02:34.560><c> gateway</c><00:02:34.959><c> in</c>
+
+00:02:35.110 --> 00:02:35.120 align:start position:0%
+a single URL and we have our gateway in
+ 
+
+00:02:35.120 --> 00:02:36.470 align:start position:0%
+a single URL and we have our gateway in
+the<00:02:35.200><c> middle</c><00:02:35.360><c> which</c><00:02:35.599><c> is</c><00:02:35.680><c> kind</c><00:02:35.840><c> of</c><00:02:35.920><c> that</c><00:02:36.080><c> shared</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+the middle which is kind of that shared
+ 
+
+00:02:36.480 --> 00:02:39.430 align:start position:0%
+the middle which is kind of that shared
+guard<00:02:36.800><c> rail</c><00:02:37.360><c> for</c><00:02:37.599><c> our</c><00:02:37.840><c> entire</c><00:02:38.280><c> platform.</c><00:02:39.280><c> And</c>
+
+00:02:39.430 --> 00:02:39.440 align:start position:0%
+guard rail for our entire platform. And
+ 
+
+00:02:39.440 --> 00:02:40.949 align:start position:0%
+guard rail for our entire platform. And
+so<00:02:39.680><c> this</c><00:02:39.840><c> is</c><00:02:39.920><c> where</c><00:02:40.080><c> we</c><00:02:40.239><c> ended</c><00:02:40.480><c> up.</c><00:02:40.720><c> This</c><00:02:40.800><c> is</c>
+
+00:02:40.949 --> 00:02:40.959 align:start position:0%
+so this is where we ended up. This is
+ 
+
+00:02:40.959 --> 00:02:42.869 align:start position:0%
+so this is where we ended up. This is
+where<00:02:41.120><c> we</c><00:02:41.280><c> are</c><00:02:41.440><c> today</c><00:02:41.840><c> with</c><00:02:42.000><c> an</c><00:02:42.160><c> API</c><00:02:42.560><c> gateway</c>
+
+00:02:42.869 --> 00:02:42.879 align:start position:0%
+where we are today with an API gateway
+ 
+
+00:02:42.879 --> 00:02:44.710 align:start position:0%
+where we are today with an API gateway
+that<00:02:43.040><c> sits</c><00:02:43.200><c> in</c><00:02:43.360><c> front</c><00:02:43.440><c> of</c><00:02:43.519><c> our</c><00:02:43.720><c> microservices</c>
+
+00:02:44.710 --> 00:02:44.720 align:start position:0%
+that sits in front of our microservices
+ 
+
+00:02:44.720 --> 00:02:46.070 align:start position:0%
+that sits in front of our microservices
+where<00:02:44.959><c> importantly</c><00:02:45.519><c> its</c><00:02:45.840><c> main</c>
+
+00:02:46.070 --> 00:02:46.080 align:start position:0%
+where importantly its main
+ 
+
+00:02:46.080 --> 00:02:47.830 align:start position:0%
+where importantly its main
+responsibility<00:02:46.800><c> is</c><00:02:47.040><c> still</c><00:02:47.200><c> to</c><00:02:47.360><c> handle</c><00:02:47.599><c> that</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+responsibility is still to handle that
+ 
+
+00:02:47.840 --> 00:02:50.150 align:start position:0%
+responsibility is still to handle that
+routing<00:02:48.879><c> uh</c><00:02:48.959><c> but</c><00:02:49.120><c> it</c><00:02:49.360><c> also</c><00:02:49.599><c> handles</c><00:02:49.840><c> a</c><00:02:50.080><c> bunch</c>
+
+00:02:50.150 --> 00:02:50.160 align:start position:0%
+routing uh but it also handles a bunch
+ 
+
+00:02:50.160 --> 00:02:52.710 align:start position:0%
+routing uh but it also handles a bunch
+of<00:02:50.319><c> standard</c><00:02:51.040><c> middleware</c><00:02:51.599><c> operations</c><00:02:52.400><c> as</c>
+
+00:02:52.710 --> 00:02:52.720 align:start position:0%
+of standard middleware operations as
+ 
+
+00:02:52.720 --> 00:02:55.430 align:start position:0%
+of standard middleware operations as
+well.<00:02:53.840><c> Now</c><00:02:54.080><c> we</c><00:02:54.239><c> can</c><00:02:54.319><c> take</c><00:02:54.480><c> a</c><00:02:54.560><c> look</c><00:02:54.720><c> at</c><00:02:54.879><c> what</c><00:02:55.120><c> is</c>
+
+00:02:55.430 --> 00:02:55.440 align:start position:0%
+well. Now we can take a look at what is
+ 
+
+00:02:55.440 --> 00:02:57.509 align:start position:0%
+well. Now we can take a look at what is
+actually<00:02:55.840><c> happening</c><00:02:56.400><c> inside</c><00:02:56.800><c> that</c><00:02:57.040><c> API</c>
+
+00:02:57.509 --> 00:02:57.519 align:start position:0%
+actually happening inside that API
+ 
+
+00:02:57.519 --> 00:02:59.150 align:start position:0%
+actually happening inside that API
+gateway.<00:02:58.080><c> Let's</c><00:02:58.319><c> zoom</c><00:02:58.480><c> in</c><00:02:58.720><c> just</c><00:02:58.879><c> a</c><00:02:59.040><c> little</c>
+
+00:02:59.150 --> 00:02:59.160 align:start position:0%
+gateway. Let's zoom in just a little
+ 
+
+00:02:59.160 --> 00:03:03.110 align:start position:0%
+gateway. Let's zoom in just a little
+bit.<00:03:00.160><c> And</c><00:03:00.400><c> so</c><00:03:01.159><c> here</c><00:03:02.159><c> is</c><00:03:02.319><c> my</c><00:03:02.560><c> little</c><00:03:02.720><c> nifty</c>
+
+00:03:03.110 --> 00:03:03.120 align:start position:0%
+bit. And so here is my little nifty
+ 
+
+00:03:03.120 --> 00:03:05.190 align:start position:0%
+bit. And so here is my little nifty
+drawing<00:03:03.519><c> of</c><00:03:03.680><c> the</c><00:03:03.840><c> API</c><00:03:04.239><c> gateway.</c><00:03:04.800><c> We</c><00:03:04.959><c> have</c><00:03:05.040><c> all</c>
+
+00:03:05.190 --> 00:03:05.200 align:start position:0%
+drawing of the API gateway. We have all
+ 
+
+00:03:05.200 --> 00:03:07.270 align:start position:0%
+drawing of the API gateway. We have all
+of<00:03:05.280><c> our</c><00:03:05.440><c> clients</c><00:03:05.920><c> making</c><00:03:06.239><c> requests.</c><00:03:07.040><c> Those</c>
+
+00:03:07.270 --> 00:03:07.280 align:start position:0%
+of our clients making requests. Those
+ 
+
+00:03:07.280 --> 00:03:09.030 align:start position:0%
+of our clients making requests. Those
+requests<00:03:07.599><c> are</c><00:03:07.760><c> being</c><00:03:08.000><c> forwarded</c><00:03:08.480><c> on</c><00:03:08.720><c> to</c><00:03:08.879><c> each</c>
+
+00:03:09.030 --> 00:03:09.040 align:start position:0%
+requests are being forwarded on to each
+ 
+
+00:03:09.040 --> 00:03:11.190 align:start position:0%
+requests are being forwarded on to each
+of<00:03:09.120><c> our</c><00:03:09.360><c> services</c><00:03:09.840><c> respectively.</c><00:03:10.800><c> And</c><00:03:10.959><c> then</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+of our services respectively. And then
+ 
+
+00:03:11.200 --> 00:03:13.110 align:start position:0%
+of our services respectively. And then
+back<00:03:11.440><c> to</c><00:03:11.599><c> the</c><00:03:11.760><c> client.</c><00:03:12.480><c> And</c><00:03:12.640><c> so</c><00:03:12.800><c> as</c><00:03:12.959><c> you</c><00:03:13.040><c> can</c>
+
+00:03:13.110 --> 00:03:13.120 align:start position:0%
+back to the client. And so as you can
+ 
+
+00:03:13.120 --> 00:03:14.630 align:start position:0%
+back to the client. And so as you can
+see<00:03:13.200><c> within</c><00:03:13.440><c> the</c><00:03:13.599><c> API</c><00:03:14.000><c> gateway,</c><00:03:14.319><c> it's</c>
+
+00:03:14.630 --> 00:03:14.640 align:start position:0%
+see within the API gateway, it's
+ 
+
+00:03:14.640 --> 00:03:16.790 align:start position:0%
+see within the API gateway, it's
+responsible<00:03:15.120><c> for</c><00:03:15.360><c> four</c><00:03:15.599><c> main</c><00:03:15.840><c> things.</c>
+
+00:03:16.790 --> 00:03:16.800 align:start position:0%
+responsible for four main things.
+ 
+
+00:03:16.800 --> 00:03:18.309 align:start position:0%
+responsible for four main things.
+Validating<00:03:17.280><c> the</c><00:03:17.440><c> request,</c><00:03:17.840><c> running</c><00:03:18.080><c> that</c>
+
+00:03:18.309 --> 00:03:18.319 align:start position:0%
+Validating the request, running that
+ 
+
+00:03:18.319 --> 00:03:19.589 align:start position:0%
+Validating the request, running that
+middleware,<00:03:18.800><c> routing</c><00:03:19.120><c> to</c><00:03:19.280><c> the</c><00:03:19.360><c> correct</c>
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+middleware, routing to the correct
+ 
+
+00:03:19.599 --> 00:03:20.869 align:start position:0%
+middleware, routing to the correct
+services,<00:03:19.920><c> and</c><00:03:20.080><c> then</c><00:03:20.239><c> transforming</c><00:03:20.640><c> the</c>
+
+00:03:20.869 --> 00:03:20.879 align:start position:0%
+services, and then transforming the
+ 
+
+00:03:20.879 --> 00:03:23.270 align:start position:0%
+services, and then transforming the
+response.<00:03:21.440><c> And</c><00:03:21.680><c> so</c><00:03:21.840><c> let's</c><00:03:22.000><c> quickly</c><00:03:22.319><c> go</c><00:03:22.480><c> by</c><00:03:22.959><c> or</c>
+
+00:03:23.270 --> 00:03:23.280 align:start position:0%
+response. And so let's quickly go by or
+ 
+
+00:03:23.280 --> 00:03:25.589 align:start position:0%
+response. And so let's quickly go by or
+go<00:03:23.440><c> through</c><00:03:23.760><c> each</c><00:03:24.000><c> of</c><00:03:24.080><c> these</c><00:03:24.319><c> one</c><00:03:24.560><c> by</c><00:03:24.720><c> one.</c><00:03:25.440><c> And</c>
+
+00:03:25.589 --> 00:03:25.599 align:start position:0%
+go through each of these one by one. And
+ 
+
+00:03:25.599 --> 00:03:27.670 align:start position:0%
+go through each of these one by one. And
+so<00:03:25.760><c> the</c><00:03:25.920><c> first</c><00:03:26.000><c> is</c><00:03:26.159><c> that</c><00:03:26.480><c> request</c><00:03:26.800><c> validation.</c>
+
+00:03:27.670 --> 00:03:27.680 align:start position:0%
+so the first is that request validation.
+ 
+
+00:03:27.680 --> 00:03:29.190 align:start position:0%
+so the first is that request validation.
+And<00:03:27.840><c> so</c><00:03:28.000><c> this</c><00:03:28.159><c> just</c><00:03:28.319><c> takes</c><00:03:28.560><c> in</c><00:03:28.720><c> the</c><00:03:28.800><c> incoming</c>
+
+00:03:29.190 --> 00:03:29.200 align:start position:0%
+And so this just takes in the incoming
+ 
+
+00:03:29.200 --> 00:03:31.110 align:start position:0%
+And so this just takes in the incoming
+requests<00:03:29.840><c> and</c><00:03:30.080><c> it</c><00:03:30.239><c> validates</c><00:03:30.640><c> it.</c><00:03:30.799><c> It</c><00:03:31.040><c> makes</c>
+
+00:03:31.110 --> 00:03:31.120 align:start position:0%
+requests and it validates it. It makes
+ 
+
+00:03:31.120 --> 00:03:32.630 align:start position:0%
+requests and it validates it. It makes
+sure<00:03:31.200><c> that</c><00:03:31.360><c> it</c><00:03:31.440><c> has</c><00:03:31.599><c> the</c><00:03:31.760><c> proper</c><00:03:32.000><c> formatting.</c>
+
+00:03:32.630 --> 00:03:32.640 align:start position:0%
+sure that it has the proper formatting.
+ 
+
+00:03:32.640 --> 00:03:33.990 align:start position:0%
+sure that it has the proper formatting.
+Does<00:03:32.799><c> it</c><00:03:32.959><c> have</c><00:03:33.040><c> the</c><00:03:33.200><c> right</c><00:03:33.280><c> headers?</c><00:03:33.680><c> Does</c><00:03:33.840><c> it</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+Does it have the right headers? Does it
+ 
+
+00:03:34.000 --> 00:03:35.830 align:start position:0%
+Does it have the right headers? Does it
+have<00:03:34.080><c> the</c><00:03:34.239><c> right</c><00:03:34.319><c> body</c><00:03:34.640><c> if</c><00:03:34.879><c> needed?</c><00:03:35.360><c> If</c><00:03:35.599><c> not,</c>
+
+00:03:35.830 --> 00:03:35.840 align:start position:0%
+have the right body if needed? If not,
+ 
+
+00:03:35.840 --> 00:03:37.670 align:start position:0%
+have the right body if needed? If not,
+we<00:03:36.080><c> can</c><00:03:36.159><c> immediately</c><00:03:36.640><c> reject</c><00:03:36.959><c> it.</c><00:03:37.360><c> If</c><00:03:37.519><c> it</c>
+
+00:03:37.670 --> 00:03:37.680 align:start position:0%
+we can immediately reject it. If it
+ 
+
+00:03:37.680 --> 00:03:40.070 align:start position:0%
+we can immediately reject it. If it
+does,<00:03:37.920><c> we</c><00:03:38.080><c> move</c><00:03:38.239><c> on</c><00:03:38.400><c> to</c><00:03:38.640><c> step</c><00:03:38.879><c> two.</c><00:03:39.680><c> Step</c><00:03:39.920><c> two</c>
+
+00:03:40.070 --> 00:03:40.080 align:start position:0%
+does, we move on to step two. Step two
+ 
+
+00:03:40.080 --> 00:03:41.430 align:start position:0%
+does, we move on to step two. Step two
+is<00:03:40.239><c> where</c><00:03:40.400><c> we</c><00:03:40.480><c> run</c><00:03:40.640><c> any</c><00:03:40.799><c> of</c><00:03:40.879><c> that</c><00:03:41.040><c> middleware</c>
+
+00:03:41.430 --> 00:03:41.440 align:start position:0%
+is where we run any of that middleware
+ 
+
+00:03:41.440 --> 00:03:42.789 align:start position:0%
+is where we run any of that middleware
+that<00:03:41.599><c> we</c><00:03:41.760><c> talked</c><00:03:41.920><c> about.</c><00:03:42.159><c> And</c><00:03:42.319><c> so</c><00:03:42.480><c> oftent</c>
+
+00:03:42.789 --> 00:03:42.799 align:start position:0%
+that we talked about. And so oftent
+ 
+
+00:03:42.799 --> 00:03:44.949 align:start position:0%
+that we talked about. And so oftent
+times<00:03:43.120><c> this</c><00:03:43.360><c> involves</c><00:03:43.760><c> us</c><00:03:44.080><c> actually</c><00:03:44.480><c> making</c><00:03:44.720><c> a</c>
+
+00:03:44.949 --> 00:03:44.959 align:start position:0%
+times this involves us actually making a
+ 
+
+00:03:44.959 --> 00:03:46.949 align:start position:0%
+times this involves us actually making a
+request<00:03:45.200><c> to</c><00:03:45.440><c> an</c><00:03:45.599><c> external</c><00:03:46.000><c> service.</c><00:03:46.799><c> Like</c>
+
+00:03:46.949 --> 00:03:46.959 align:start position:0%
+request to an external service. Like
+ 
+
+00:03:46.959 --> 00:03:49.190 align:start position:0%
+request to an external service. Like
+maybe<00:03:47.200><c> if</c><00:03:47.440><c> we're</c><00:03:48.000><c> handling</c><00:03:48.400><c> rate</c><00:03:48.640><c> limiting,</c>
+
+00:03:49.190 --> 00:03:49.200 align:start position:0%
+maybe if we're handling rate limiting,
+ 
+
+00:03:49.200 --> 00:03:51.350 align:start position:0%
+maybe if we're handling rate limiting,
+we<00:03:49.440><c> have</c><00:03:49.599><c> Reddus</c><00:03:50.080><c> over</c><00:03:50.239><c> here.</c><00:03:50.799><c> and</c><00:03:50.959><c> the</c><00:03:51.040><c> API</c>
+
+00:03:51.350 --> 00:03:51.360 align:start position:0%
+we have Reddus over here. and the API
+ 
+
+00:03:51.360 --> 00:03:53.750 align:start position:0%
+we have Reddus over here. and the API
+gateway<00:03:51.760><c> makes</c><00:03:51.920><c> a</c><00:03:52.080><c> request</c><00:03:52.400><c> out</c><00:03:52.640><c> to</c><00:03:52.799><c> Reddus</c><00:03:53.519><c> or</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+gateway makes a request out to Reddus or
+ 
+
+00:03:53.760 --> 00:03:55.270 align:start position:0%
+gateway makes a request out to Reddus or
+in<00:03:53.920><c> the</c><00:03:54.000><c> case</c><00:03:54.080><c> of</c><00:03:54.239><c> O</c><00:03:54.720><c> maybe</c><00:03:54.879><c> there's</c><00:03:55.120><c> an</c>
+
+00:03:55.270 --> 00:03:55.280 align:start position:0%
+in the case of O maybe there's an
+ 
+
+00:03:55.280 --> 00:03:59.110 align:start position:0%
+in the case of O maybe there's an
+external<00:03:56.239><c> O</c><00:03:56.640><c> service</c><00:03:57.280><c> over</c><00:03:57.519><c> here,</c><00:03:58.080><c> right?</c><00:03:58.799><c> Uh</c>
+
+00:03:59.110 --> 00:03:59.120 align:start position:0%
+external O service over here, right? Uh
+ 
+
+00:03:59.120 --> 00:04:00.789 align:start position:0%
+external O service over here, right? Uh
+in<00:03:59.280><c> either</c><00:03:59.519><c> case,</c><00:03:59.840><c> we</c><00:04:00.080><c> can</c><00:04:00.159><c> make</c><00:04:00.319><c> as</c><00:04:00.480><c> many</c><00:04:00.640><c> of</c>
+
+00:04:00.789 --> 00:04:00.799 align:start position:0%
+in either case, we can make as many of
+ 
+
+00:04:00.799 --> 00:04:02.390 align:start position:0%
+in either case, we can make as many of
+those<00:04:00.959><c> connections</c><00:04:01.360><c> as</c><00:04:01.599><c> we</c><00:04:01.760><c> need</c><00:04:01.840><c> to,</c><00:04:02.000><c> but</c><00:04:02.239><c> be</c>
+
+00:04:02.390 --> 00:04:02.400 align:start position:0%
+those connections as we need to, but be
+ 
+
+00:04:02.400 --> 00:04:04.470 align:start position:0%
+those connections as we need to, but be
+mindful<00:04:03.200><c> every</c><00:04:03.439><c> single</c><00:04:03.760><c> request</c><00:04:04.080><c> is</c><00:04:04.319><c> doing</c>
+
+00:04:04.470 --> 00:04:04.480 align:start position:0%
+mindful every single request is doing
+ 
+
+00:04:04.480 --> 00:04:07.429 align:start position:0%
+mindful every single request is doing
+this.<00:04:04.799><c> So</c><00:04:04.959><c> we</c><00:04:05.120><c> want</c><00:04:05.200><c> it</c><00:04:05.360><c> to</c><00:04:05.439><c> be</c><00:04:06.040><c> fast</c><00:04:07.040><c> and</c><00:04:07.280><c> then</c>
+
+00:04:07.429 --> 00:04:07.439 align:start position:0%
+this. So we want it to be fast and then
+ 
+
+00:04:07.439 --> 00:04:09.350 align:start position:0%
+this. So we want it to be fast and then
+we<00:04:07.680><c> route</c><00:04:07.920><c> it</c><00:04:08.000><c> to</c><00:04:08.159><c> the</c><00:04:08.239><c> correct</c><00:04:08.480><c> service.</c><00:04:09.120><c> So</c>
+
+00:04:09.350 --> 00:04:09.360 align:start position:0%
+we route it to the correct service. So
+ 
+
+00:04:09.360 --> 00:04:11.350 align:start position:0%
+we route it to the correct service. So
+this<00:04:09.519><c> is</c><00:04:09.760><c> again</c><00:04:10.080><c> that</c><00:04:10.319><c> most</c><00:04:10.560><c> important</c><00:04:10.879><c> bit.</c>
+
+00:04:11.350 --> 00:04:11.360 align:start position:0%
+this is again that most important bit.
+ 
+
+00:04:11.360 --> 00:04:13.270 align:start position:0%
+this is again that most important bit.
+So<00:04:11.519><c> we</c><00:04:11.680><c> would</c><00:04:11.840><c> look</c><00:04:12.000><c> up</c><00:04:12.159><c> in</c><00:04:12.319><c> a</c><00:04:12.480><c> routing</c><00:04:12.879><c> map</c><00:04:13.120><c> and</c>
+
+00:04:13.270 --> 00:04:13.280 align:start position:0%
+So we would look up in a routing map and
+ 
+
+00:04:13.280 --> 00:04:14.789 align:start position:0%
+So we would look up in a routing map and
+let<00:04:13.439><c> me</c><00:04:13.599><c> actually</c><00:04:13.840><c> copy</c><00:04:14.239><c> one</c><00:04:14.400><c> of</c><00:04:14.480><c> those</c><00:04:14.640><c> in</c>
+
+00:04:14.789 --> 00:04:14.799 align:start position:0%
+let me actually copy one of those in
+ 
+
+00:04:14.799 --> 00:04:16.710 align:start position:0%
+let me actually copy one of those in
+here<00:04:14.959><c> so</c><00:04:15.120><c> you</c><00:04:15.280><c> can</c><00:04:15.360><c> see</c><00:04:15.519><c> it.</c><00:04:16.239><c> This</c><00:04:16.400><c> would</c><00:04:16.560><c> just</c>
+
+00:04:16.710 --> 00:04:16.720 align:start position:0%
+here so you can see it. This would just
+ 
+
+00:04:16.720 --> 00:04:19.110 align:start position:0%
+here so you can see it. This would just
+be<00:04:16.799><c> a</c><00:04:16.959><c> basic</c><00:04:17.280><c> config</c><00:04:17.680><c> like</c><00:04:17.840><c> this</c><00:04:18.400><c> which</c><00:04:18.720><c> maps</c>
+
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+be a basic config like this which maps
+ 
+
+00:04:19.120 --> 00:04:22.150 align:start position:0%
+be a basic config like this which maps
+paths<00:04:19.680><c> from</c><00:04:19.840><c> the</c><00:04:20.000><c> API</c><00:04:20.479><c> route</c><00:04:21.040><c> to</c><00:04:21.359><c> the</c><00:04:21.680><c> location</c>
+
+00:04:22.150 --> 00:04:22.160 align:start position:0%
+paths from the API route to the location
+ 
+
+00:04:22.160 --> 00:04:24.550 align:start position:0%
+paths from the API route to the location
+of<00:04:22.400><c> the</c><00:04:22.680><c> services.</c><00:04:23.680><c> And</c><00:04:23.840><c> so</c><00:04:23.919><c> we</c><00:04:24.160><c> would</c><00:04:24.240><c> look</c><00:04:24.400><c> up</c>
+
+00:04:24.550 --> 00:04:24.560 align:start position:0%
+of the services. And so we would look up
+ 
+
+00:04:24.560 --> 00:04:27.430 align:start position:0%
+of the services. And so we would look up
+in<00:04:24.720><c> this</c><00:04:24.880><c> map</c><00:04:25.360><c> say</c><00:04:25.600><c> I</c><00:04:25.759><c> just</c><00:04:25.919><c> got</c><00:04:26.160><c> a</c><00:04:26.720><c> uh</c><00:04:26.960><c> request</c>
+
+00:04:27.430 --> 00:04:27.440 align:start position:0%
+in this map say I just got a uh request
+ 
+
+00:04:27.440 --> 00:04:29.590 align:start position:0%
+in this map say I just got a uh request
+for<00:04:27.680><c> slash</c><00:04:28.080><c> messages</c><00:04:28.639><c> route</c><00:04:29.120><c> that</c><00:04:29.360><c> needs</c><00:04:29.520><c> to</c>
+
+00:04:29.590 --> 00:04:29.600 align:start position:0%
+for slash messages route that needs to
+ 
+
+00:04:29.600 --> 00:04:31.430 align:start position:0%
+for slash messages route that needs to
+go<00:04:29.680><c> to</c><00:04:29.759><c> the</c><00:04:29.919><c> messaging</c><00:04:30.400><c> service.</c><00:04:31.120><c> see</c><00:04:31.280><c> how</c>
+
+00:04:31.430 --> 00:04:31.440 align:start position:0%
+go to the messaging service. see how
+ 
+
+00:04:31.440 --> 00:04:34.870 align:start position:0%
+go to the messaging service. see how
+that<00:04:31.600><c> works</c><00:04:31.840><c> here</c><00:04:32.400><c> using</c><00:04:32.960><c> this</c><00:04:33.720><c> config.</c><00:04:34.720><c> And</c>
+
+00:04:34.870 --> 00:04:34.880 align:start position:0%
+that works here using this config. And
+ 
+
+00:04:34.880 --> 00:04:36.550 align:start position:0%
+that works here using this config. And
+then<00:04:35.040><c> the</c><00:04:35.280><c> messaging</c><00:04:35.759><c> service</c><00:04:36.000><c> or</c><00:04:36.160><c> whichever</c>
+
+00:04:36.550 --> 00:04:36.560 align:start position:0%
+then the messaging service or whichever
+ 
+
+00:04:36.560 --> 00:04:38.150 align:start position:0%
+then the messaging service or whichever
+service<00:04:36.800><c> is</c><00:04:37.040><c> going</c><00:04:37.199><c> to</c><00:04:37.360><c> do</c><00:04:37.520><c> its</c><00:04:37.759><c> thing,</c>
+
+00:04:38.150 --> 00:04:38.160 align:start position:0%
+service is going to do its thing,
+ 
+
+00:04:38.160 --> 00:04:40.150 align:start position:0%
+service is going to do its thing,
+processing<00:04:38.639><c> the</c><00:04:38.800><c> request</c><00:04:39.199><c> as</c><00:04:39.440><c> needed</c><00:04:39.919><c> and</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+processing the request as needed and
+ 
+
+00:04:40.160 --> 00:04:41.510 align:start position:0%
+processing the request as needed and
+then<00:04:40.320><c> returning</c><00:04:40.639><c> that</c><00:04:40.880><c> response</c><00:04:41.199><c> back</c><00:04:41.280><c> to</c><00:04:41.440><c> the</c>
+
+00:04:41.510 --> 00:04:41.520 align:start position:0%
+then returning that response back to the
+ 
+
+00:04:41.520 --> 00:04:43.670 align:start position:0%
+then returning that response back to the
+API<00:04:41.919><c> gateway</c><00:04:42.560><c> at</c><00:04:42.800><c> which</c><00:04:42.960><c> point</c><00:04:43.120><c> the</c><00:04:43.280><c> API</c>
+
+00:04:43.670 --> 00:04:43.680 align:start position:0%
+API gateway at which point the API
+ 
+
+00:04:43.680 --> 00:04:45.830 align:start position:0%
+API gateway at which point the API
+gateway<00:04:44.080><c> may</c><00:04:44.320><c> need</c><00:04:44.560><c> to</c><00:04:44.880><c> transform</c><00:04:45.440><c> that</c>
+
+00:04:45.830 --> 00:04:45.840 align:start position:0%
+gateway may need to transform that
+ 
+
+00:04:45.840 --> 00:04:47.830 align:start position:0%
+gateway may need to transform that
+response.<00:04:46.560><c> And</c><00:04:46.800><c> so</c><00:04:46.960><c> for</c><00:04:47.040><c> example,</c><00:04:47.360><c> if</c><00:04:47.600><c> any</c><00:04:47.759><c> of</c>
+
+00:04:47.830 --> 00:04:47.840 align:start position:0%
+response. And so for example, if any of
+ 
+
+00:04:47.840 --> 00:04:49.590 align:start position:0%
+response. And so for example, if any of
+these<00:04:48.080><c> were</c><00:04:48.240><c> using</c><00:04:48.479><c> a</c><00:04:48.639><c> different</c><00:04:48.880><c> protocol</c>
+
+00:04:49.590 --> 00:04:49.600 align:start position:0%
+these were using a different protocol
+ 
+
+00:04:49.600 --> 00:04:52.550 align:start position:0%
+these were using a different protocol
+like<00:04:49.919><c> RPC,</c><00:04:50.560><c> gRPC,</c><00:04:51.280><c> something</c><00:04:51.520><c> like</c><00:04:51.759><c> this,</c><00:04:52.320><c> and</c>
+
+00:04:52.550 --> 00:04:52.560 align:start position:0%
+like RPC, gRPC, something like this, and
+ 
+
+00:04:52.560 --> 00:04:55.270 align:start position:0%
+like RPC, gRPC, something like this, and
+our<00:04:52.800><c> clients</c><00:04:53.199><c> are</c><00:04:53.520><c> using</c><00:04:53.919><c> REST,</c><00:04:54.800><c> then</c><00:04:55.040><c> what</c>
+
+00:04:55.270 --> 00:04:55.280 align:start position:0%
+our clients are using REST, then what
+ 
+
+00:04:55.280 --> 00:04:56.710 align:start position:0%
+our clients are using REST, then what
+would<00:04:55.440><c> happen</c><00:04:55.600><c> is</c><00:04:55.759><c> that</c><00:04:55.919><c> we</c><00:04:56.080><c> would</c><00:04:56.240><c> take</c><00:04:56.400><c> in</c>
+
+00:04:56.710 --> 00:04:56.720 align:start position:0%
+would happen is that we would take in
+ 
+
+00:04:56.720 --> 00:04:59.350 align:start position:0%
+would happen is that we would take in
+that<00:04:56.960><c> RPC</c><00:04:57.600><c> response,</c><00:04:58.479><c> transform</c><00:04:58.960><c> it</c><00:04:59.199><c> back</c>
+
+00:04:59.350 --> 00:04:59.360 align:start position:0%
+that RPC response, transform it back
+ 
+
+00:04:59.360 --> 00:05:02.230 align:start position:0%
+that RPC response, transform it back
+into<00:04:59.680><c> valid</c><00:05:00.000><c> JSON</c><00:05:00.639><c> in</c><00:05:00.880><c> the</c><00:05:01.040><c> form</c><00:05:01.360><c> of</c><00:05:01.840><c> that's</c>
+
+00:05:02.230 --> 00:05:02.240 align:start position:0%
+into valid JSON in the form of that's
+ 
+
+00:05:02.240 --> 00:05:04.870 align:start position:0%
+into valid JSON in the form of that's
+expected<00:05:03.199><c> uh</c><00:05:03.280><c> in</c><00:05:03.440><c> the</c><00:05:03.600><c> REST</c><00:05:03.919><c> response</c><00:05:04.639><c> and</c>
+
+00:05:04.870 --> 00:05:04.880 align:start position:0%
+expected uh in the REST response and
+ 
+
+00:05:04.880 --> 00:05:07.909 align:start position:0%
+expected uh in the REST response and
+then<00:05:05.680><c> return</c><00:05:06.160><c> that</c><00:05:06.479><c> REST</c><00:05:06.800><c> response</c><00:05:07.520><c> back</c><00:05:07.759><c> to</c>
+
+00:05:07.909 --> 00:05:07.919 align:start position:0%
+then return that REST response back to
+ 
+
+00:05:07.919 --> 00:05:10.390 align:start position:0%
+then return that REST response back to
+our<00:05:08.199><c> clients.</c><00:05:09.199><c> Let's</c><00:05:09.440><c> take</c><00:05:09.600><c> a</c><00:05:09.759><c> quick</c><00:05:10.000><c> look</c><00:05:10.160><c> at</c>
+
+00:05:10.390 --> 00:05:10.400 align:start position:0%
+our clients. Let's take a quick look at
+ 
+
+00:05:10.400 --> 00:05:12.150 align:start position:0%
+our clients. Let's take a quick look at
+some<00:05:10.560><c> of</c><00:05:10.639><c> the</c><00:05:10.800><c> most</c><00:05:10.960><c> popular</c><00:05:11.280><c> API</c><00:05:11.759><c> gateways</c>
+
+00:05:12.150 --> 00:05:12.160 align:start position:0%
+some of the most popular API gateways
+ 
+
+00:05:12.160 --> 00:05:13.749 align:start position:0%
+some of the most popular API gateways
+that<00:05:12.320><c> are</c><00:05:12.479><c> used</c><00:05:12.639><c> in</c><00:05:12.880><c> production</c><00:05:13.360><c> systems</c>
+
+00:05:13.749 --> 00:05:13.759 align:start position:0%
+that are used in production systems
+ 
+
+00:05:13.759 --> 00:05:15.909 align:start position:0%
+that are used in production systems
+today.<00:05:14.400><c> And</c><00:05:14.560><c> so</c><00:05:14.720><c> you</c><00:05:14.880><c> have</c><00:05:14.960><c> two</c><00:05:15.199><c> classes</c><00:05:15.600><c> here.</c>
+
+00:05:15.909 --> 00:05:15.919 align:start position:0%
+today. And so you have two classes here.
+ 
+
+00:05:15.919 --> 00:05:17.590 align:start position:0%
+today. And so you have two classes here.
+You<00:05:16.160><c> have</c><00:05:16.240><c> the</c><00:05:16.400><c> managed</c><00:05:16.720><c> API</c><00:05:17.039><c> gateways.</c><00:05:17.440><c> These</c>
+
+00:05:17.590 --> 00:05:17.600 align:start position:0%
+You have the managed API gateways. These
+ 
+
+00:05:17.600 --> 00:05:19.590 align:start position:0%
+You have the managed API gateways. These
+are<00:05:17.680><c> part</c><00:05:17.840><c> of</c><00:05:17.919><c> your</c><00:05:18.320><c> managed</c><00:05:18.720><c> cloud</c><00:05:19.039><c> solutions</c>
+
+00:05:19.590 --> 00:05:19.600 align:start position:0%
+are part of your managed cloud solutions
+ 
+
+00:05:19.600 --> 00:05:22.710 align:start position:0%
+are part of your managed cloud solutions
+like<00:05:19.840><c> in</c><00:05:20.080><c> AWS,</c><00:05:20.800><c> Amazon's</c><00:05:21.360><c> API</c><00:05:21.759><c> gateway</c><00:05:22.479><c> in</c>
+
+00:05:22.710 --> 00:05:22.720 align:start position:0%
+like in AWS, Amazon's API gateway in
+ 
+
+00:05:22.720 --> 00:05:24.710 align:start position:0%
+like in AWS, Amazon's API gateway in
+Azure,<00:05:23.199><c> Microsoft</c><00:05:23.600><c> Azure.</c><00:05:24.080><c> You</c><00:05:24.160><c> have</c><00:05:24.240><c> Azure's</c>
+
+00:05:24.710 --> 00:05:24.720 align:start position:0%
+Azure, Microsoft Azure. You have Azure's
+ 
+
+00:05:24.720 --> 00:05:26.629 align:start position:0%
+Azure, Microsoft Azure. You have Azure's
+API<00:05:25.120><c> management.</c><00:05:25.840><c> I'm</c><00:05:26.000><c> sure</c><00:05:26.160><c> that</c><00:05:26.400><c> Google</c>
+
+00:05:26.629 --> 00:05:26.639 align:start position:0%
+API management. I'm sure that Google
+ 
+
+00:05:26.639 --> 00:05:28.150 align:start position:0%
+API management. I'm sure that Google
+Cloud<00:05:26.880><c> has</c><00:05:27.039><c> an</c><00:05:27.199><c> equivalent</c><00:05:27.600><c> too.</c><00:05:27.840><c> I</c><00:05:28.000><c> actually</c>
+
+00:05:28.150 --> 00:05:28.160 align:start position:0%
+Cloud has an equivalent too. I actually
+ 
+
+00:05:28.160 --> 00:05:29.990 align:start position:0%
+Cloud has an equivalent too. I actually
+don't<00:05:28.320><c> know</c><00:05:28.479><c> it</c><00:05:28.720><c> off</c><00:05:28.880><c> the</c><00:05:29.039><c> top</c><00:05:29.120><c> of</c><00:05:29.199><c> my</c><00:05:29.360><c> head.</c>
+
+00:05:29.990 --> 00:05:30.000 align:start position:0%
+don't know it off the top of my head.
+ 
+
+00:05:30.000 --> 00:05:31.350 align:start position:0%
+don't know it off the top of my head.
+And<00:05:30.160><c> then</c><00:05:30.320><c> you</c><00:05:30.479><c> have</c><00:05:30.560><c> the</c><00:05:30.880><c> open</c><00:05:31.120><c> source</c>
+
+00:05:31.350 --> 00:05:31.360 align:start position:0%
+And then you have the open source
+ 
+
+00:05:31.360 --> 00:05:33.510 align:start position:0%
+And then you have the open source
+alternatives.<00:05:32.080><c> So</c><00:05:32.240><c> things</c><00:05:32.400><c> like</c><00:05:32.560><c> Kong,</c><00:05:33.039><c> Tyke,</c>
+
+00:05:33.510 --> 00:05:33.520 align:start position:0%
+alternatives. So things like Kong, Tyke,
+ 
+
+00:05:33.520 --> 00:05:35.029 align:start position:0%
+alternatives. So things like Kong, Tyke,
+Express<00:05:33.919><c> Gateway.</c><00:05:34.560><c> These</c><00:05:34.720><c> are</c><00:05:34.800><c> some</c><00:05:34.960><c> of</c><00:05:34.960><c> the</c>
+
+00:05:35.029 --> 00:05:35.039 align:start position:0%
+Express Gateway. These are some of the
+ 
+
+00:05:35.039 --> 00:05:36.469 align:start position:0%
+Express Gateway. These are some of the
+most<00:05:35.199><c> popular.</c><00:05:35.680><c> So</c><00:05:35.759><c> if</c><00:05:35.919><c> you've</c><00:05:36.080><c> ever</c><00:05:36.240><c> used</c><00:05:36.400><c> any</c>
+
+00:05:36.469 --> 00:05:36.479 align:start position:0%
+most popular. So if you've ever used any
+ 
+
+00:05:36.479 --> 00:05:37.990 align:start position:0%
+most popular. So if you've ever used any
+of<00:05:36.560><c> these</c><00:05:36.800><c> technologies,</c><00:05:37.600><c> you've</c><00:05:37.840><c> already</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+of these technologies, you've already
+ 
+
+00:05:38.000 --> 00:05:40.950 align:start position:0%
+of these technologies, you've already
+used<00:05:38.080><c> an</c><00:05:38.240><c> API</c><00:05:38.600><c> gateway.</c><00:05:39.600><c> Um,</c><00:05:40.240><c> okay.</c><00:05:40.560><c> As</c><00:05:40.800><c> we</c>
+
+00:05:40.950 --> 00:05:40.960 align:start position:0%
+used an API gateway. Um, okay. As we
+ 
+
+00:05:40.960 --> 00:05:43.029 align:start position:0%
+used an API gateway. Um, okay. As we
+wrap<00:05:41.120><c> up</c><00:05:41.360><c> here,</c><00:05:41.919><c> the</c><00:05:42.160><c> main</c><00:05:42.320><c> thing</c><00:05:42.479><c> that</c><00:05:42.720><c> I</c><00:05:42.880><c> want</c>
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+wrap up here, the main thing that I want
+ 
+
+00:05:43.039 --> 00:05:45.350 align:start position:0%
+wrap up here, the main thing that I want
+you<00:05:43.199><c> to</c><00:05:43.440><c> have</c><00:05:43.600><c> as</c><00:05:43.840><c> a</c><00:05:44.000><c> takeaway</c><00:05:44.400><c> from</c><00:05:44.560><c> this</c><00:05:44.960><c> is</c>
+
+00:05:45.350 --> 00:05:45.360 align:start position:0%
+you to have as a takeaway from this is
+ 
+
+00:05:45.360 --> 00:05:47.830 align:start position:0%
+you to have as a takeaway from this is
+actually<00:05:45.919><c> the</c><00:05:46.280><c> following.</c><00:05:47.280><c> And</c><00:05:47.440><c> that's</c><00:05:47.600><c> that</c>
+
+00:05:47.830 --> 00:05:47.840 align:start position:0%
+actually the following. And that's that
+ 
+
+00:05:47.840 --> 00:05:48.950 align:start position:0%
+actually the following. And that's that
+when<00:05:48.000><c> you're</c><00:05:48.080><c> in</c><00:05:48.240><c> a</c><00:05:48.400><c> system</c><00:05:48.639><c> design</c>
+
+00:05:48.950 --> 00:05:48.960 align:start position:0%
+when you're in a system design
+ 
+
+00:05:48.960 --> 00:05:51.590 align:start position:0%
+when you're in a system design
+interview,<00:05:49.759><c> put</c><00:05:49.919><c> your</c><00:05:50.080><c> API</c><00:05:50.400><c> gateway</c><00:05:50.800><c> down</c><00:05:51.280><c> and</c>
+
+00:05:51.590 --> 00:05:51.600 align:start position:0%
+interview, put your API gateway down and
+ 
+
+00:05:51.600 --> 00:05:53.590 align:start position:0%
+interview, put your API gateway down and
+move<00:05:51.759><c> on.</c><00:05:52.479><c> Don't</c><00:05:52.720><c> spend</c><00:05:52.960><c> a</c><00:05:53.120><c> lot</c><00:05:53.199><c> of</c><00:05:53.280><c> time</c><00:05:53.360><c> on</c>
+
+00:05:53.590 --> 00:05:53.600 align:start position:0%
+move on. Don't spend a lot of time on
+ 
+
+00:05:53.600 --> 00:05:55.830 align:start position:0%
+move on. Don't spend a lot of time on
+it.<00:05:54.000><c> The</c><00:05:54.240><c> reality</c><00:05:54.560><c> is</c><00:05:54.720><c> that</c><00:05:54.880><c> with</c><00:05:55.039><c> a</c><00:05:55.199><c> microser</c>
+
+00:05:55.830 --> 00:05:55.840 align:start position:0%
+it. The reality is that with a microser
+ 
+
+00:05:55.840 --> 00:05:58.870 align:start position:0%
+it. The reality is that with a microser
+architecture,<00:05:56.320><c> an</c><00:05:56.560><c> API</c><00:05:56.960><c> gateway</c><00:05:57.639><c> is</c><00:05:58.639><c> an</c>
+
+00:05:58.870 --> 00:05:58.880 align:start position:0%
+architecture, an API gateway is an
+ 
+
+00:05:58.880 --> 00:06:00.469 align:start position:0%
+architecture, an API gateway is an
+expectation.<00:05:59.440><c> It's</c><00:05:59.680><c> largely</c><00:06:00.000><c> taken</c><00:06:00.320><c> for</c>
+
+00:06:00.469 --> 00:06:00.479 align:start position:0%
+expectation. It's largely taken for
+ 
+
+00:06:00.479 --> 00:06:02.870 align:start position:0%
+expectation. It's largely taken for
+granted.<00:06:01.199><c> And</c><00:06:01.440><c> so,</c><00:06:01.840><c> put</c><00:06:02.000><c> it</c><00:06:02.160><c> there.</c><00:06:02.560><c> Explain</c>
+
+00:06:02.870 --> 00:06:02.880 align:start position:0%
+granted. And so, put it there. Explain
+ 
+
+00:06:02.880 --> 00:06:04.390 align:start position:0%
+granted. And so, put it there. Explain
+that<00:06:03.039><c> it</c><00:06:03.199><c> handles</c><00:06:03.520><c> routing,</c><00:06:04.000><c> maybe</c><00:06:04.240><c> some</c>
+
+00:06:04.390 --> 00:06:04.400 align:start position:0%
+that it handles routing, maybe some
+ 
+
+00:06:04.400 --> 00:06:06.550 align:start position:0%
+that it handles routing, maybe some
+middleware,<00:06:04.960><c> but</c><00:06:05.280><c> keep</c><00:06:05.440><c> moving.</c><00:06:06.160><c> The</c><00:06:06.400><c> only</c>
+
+00:06:06.550 --> 00:06:06.560 align:start position:0%
+middleware, but keep moving. The only
+ 
+
+00:06:06.560 --> 00:06:08.309 align:start position:0%
+middleware, but keep moving. The only
+mistake<00:06:06.880><c> you</c><00:06:07.039><c> could</c><00:06:07.199><c> make</c><00:06:07.360><c> is</c><00:06:07.520><c> to</c><00:06:07.759><c> spend</c><00:06:08.080><c> too</c>
+
+00:06:08.309 --> 00:06:08.319 align:start position:0%
+mistake you could make is to spend too
+ 
+
+00:06:08.319 --> 00:06:10.070 align:start position:0%
+mistake you could make is to spend too
+much<00:06:08.479><c> time</c><00:06:08.720><c> here.</c><00:06:09.280><c> It's</c><00:06:09.440><c> just</c><00:06:09.680><c> not</c><00:06:09.840><c> the</c>
+
+00:06:10.070 --> 00:06:10.080 align:start position:0%
+much time here. It's just not the
+ 
+
+00:06:10.080 --> 00:06:11.590 align:start position:0%
+much time here. It's just not the
+important<00:06:10.400><c> part</c><00:06:10.479><c> of</c><00:06:10.639><c> your</c><00:06:10.880><c> design.</c><00:06:11.199><c> So,</c><00:06:11.360><c> it's</c>
+
+00:06:11.590 --> 00:06:11.600 align:start position:0%
+important part of your design. So, it's
+ 
+
+00:06:11.600 --> 00:06:13.189 align:start position:0%
+important part of your design. So, it's
+good<00:06:11.680><c> to</c><00:06:11.840><c> understand,</c><00:06:12.479><c> but</c><00:06:12.720><c> it</c><00:06:12.880><c> shouldn't</c><00:06:13.120><c> be</c>
+
+00:06:13.189 --> 00:06:13.199 align:start position:0%
+good to understand, but it shouldn't be
+ 
+
+00:06:13.199 --> 00:06:16.070 align:start position:0%
+good to understand, but it shouldn't be
+the<00:06:13.560><c> focus.</c><00:06:14.560><c> All</c><00:06:14.639><c> right,</c><00:06:15.280><c> with</c><00:06:15.520><c> that,</c><00:06:15.840><c> this</c>
+
+00:06:16.070 --> 00:06:16.080 align:start position:0%
+the focus. All right, with that, this
+ 
+
+00:06:16.080 --> 00:06:17.830 align:start position:0%
+the focus. All right, with that, this
+was<00:06:16.240><c> short,</c><00:06:16.639><c> sweet,</c><00:06:17.120><c> to</c><00:06:17.360><c> the</c><00:06:17.520><c> point.</c>
+
+00:06:17.830 --> 00:06:17.840 align:start position:0%
+was short, sweet, to the point.
+ 
+
+00:06:17.840 --> 00:06:19.510 align:start position:0%
+was short, sweet, to the point.
+Hopefully,<00:06:18.080><c> you</c><00:06:18.160><c> guys</c><00:06:18.319><c> found</c><00:06:18.479><c> it</c><00:06:18.720><c> valuable.</c>
+
+00:06:19.510 --> 00:06:19.520 align:start position:0%
+Hopefully, you guys found it valuable.
+ 
+
+00:06:19.520 --> 00:06:21.110 align:start position:0%
+Hopefully, you guys found it valuable.
+Um,<00:06:20.160><c> good</c><00:06:20.319><c> luck</c><00:06:20.479><c> with</c><00:06:20.639><c> your</c><00:06:20.800><c> upcoming</c>
+
+00:06:21.110 --> 00:06:21.120 align:start position:0%
+Um, good luck with your upcoming
+ 
+
+00:06:21.120 --> 00:06:25.400 align:start position:0%
+Um, good luck with your upcoming
+interviews,<00:06:21.600><c> and</c><00:06:21.840><c> I'll</c><00:06:22.000><c> see</c><00:06:22.080><c> you</c><00:06:22.240><c> again</c><00:06:22.400><c> soon.</c>
+

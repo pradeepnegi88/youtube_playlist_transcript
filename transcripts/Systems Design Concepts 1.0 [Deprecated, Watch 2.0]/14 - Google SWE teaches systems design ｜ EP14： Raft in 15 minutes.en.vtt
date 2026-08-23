@@ -1,0 +1,3792 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.560 --> 00:00:02.950 align:start position:0%
+ 
+all<00:00:00.799><c> right</c><00:00:01.120><c> another</c><00:00:01.439><c> day</c><00:00:01.680><c> another</c><00:00:02.000><c> dollar</c><00:00:02.720><c> and</c>
+
+00:00:02.950 --> 00:00:02.960 align:start position:0%
+all right another day another dollar and
+ 
+
+00:00:02.960 --> 00:00:05.590 align:start position:0%
+all right another day another dollar and
+uh<00:00:03.199><c> today</c><00:00:03.439><c> we'll</c><00:00:03.600><c> be</c><00:00:03.760><c> talking</c><00:00:04.080><c> about</c><00:00:04.480><c> raft</c><00:00:05.200><c> um</c>
+
+00:00:05.590 --> 00:00:05.600 align:start position:0%
+uh today we'll be talking about raft um
+ 
+
+00:00:05.600 --> 00:00:07.030 align:start position:0%
+uh today we'll be talking about raft um
+so<00:00:05.839><c> if</c><00:00:05.920><c> you</c><00:00:06.000><c> don't</c><00:00:06.160><c> know</c><00:00:06.319><c> raft</c><00:00:06.640><c> is</c><00:00:06.799><c> it's</c><00:00:06.960><c> a</c>
+
+00:00:07.030 --> 00:00:07.040 align:start position:0%
+so if you don't know raft is it's a
+ 
+
+00:00:07.040 --> 00:00:09.430 align:start position:0%
+so if you don't know raft is it's a
+consensus<00:00:07.600><c> algorithm</c><00:00:08.080><c> that</c><00:00:08.240><c> came</c><00:00:08.480><c> out</c><00:00:08.720><c> in</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+consensus algorithm that came out in
+ 
+
+00:00:09.440 --> 00:00:11.589 align:start position:0%
+consensus algorithm that came out in
+2014<00:00:10.240><c> more</c><00:00:10.480><c> or</c><00:00:10.559><c> less</c><00:00:10.800><c> and</c><00:00:10.880><c> it's</c><00:00:11.040><c> been</c><00:00:11.280><c> really</c>
+
+00:00:11.589 --> 00:00:11.599 align:start position:0%
+2014 more or less and it's been really
+ 
+
+00:00:11.599 --> 00:00:14.310 align:start position:0%
+2014 more or less and it's been really
+popular<00:00:12.160><c> actually</c><00:00:12.639><c> getting</c><00:00:13.120><c> a</c><00:00:13.280><c> ton</c><00:00:13.519><c> of</c><00:00:13.679><c> usage</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+popular actually getting a ton of usage
+ 
+
+00:00:14.320 --> 00:00:16.870 align:start position:0%
+popular actually getting a ton of usage
+even<00:00:14.639><c> compared</c><00:00:15.120><c> to</c><00:00:15.519><c> uh</c><00:00:16.000><c> you</c><00:00:16.160><c> know</c><00:00:16.400><c> like</c><00:00:16.640><c> older</c>
+
+00:00:16.870 --> 00:00:16.880 align:start position:0%
+even compared to uh you know like older
+ 
+
+00:00:16.880 --> 00:00:19.429 align:start position:0%
+even compared to uh you know like older
+ones<00:00:17.119><c> like</c><00:00:17.359><c> paxos</c><00:00:18.000><c> and</c><00:00:18.480><c> the</c><00:00:18.640><c> reason</c><00:00:18.960><c> for</c><00:00:19.119><c> that</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+ones like paxos and the reason for that
+ 
+
+00:00:19.439 --> 00:00:21.750 align:start position:0%
+ones like paxos and the reason for that
+is<00:00:19.600><c> that</c><00:00:19.920><c> it</c><00:00:20.160><c> is</c><00:00:20.480><c> pretty</c><00:00:20.720><c> easy</c><00:00:20.960><c> to</c><00:00:21.119><c> understand</c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+is that it is pretty easy to understand
+ 
+
+00:00:21.760 --> 00:00:23.830 align:start position:0%
+is that it is pretty easy to understand
+and<00:00:21.920><c> it</c><00:00:22.000><c> was</c><00:00:22.320><c> made</c><00:00:22.720><c> so</c><00:00:22.880><c> that</c><00:00:23.119><c> it</c><00:00:23.279><c> was</c><00:00:23.439><c> easy</c><00:00:23.760><c> to</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+and it was made so that it was easy to
+ 
+
+00:00:23.840 --> 00:00:26.470 align:start position:0%
+and it was made so that it was easy to
+understand<00:00:24.800><c> and</c><00:00:25.039><c> so</c><00:00:25.279><c> i</c><00:00:25.359><c> guess</c><00:00:25.599><c> if</c><00:00:25.760><c> my</c><00:00:26.000><c> dumb</c><00:00:26.240><c> ass</c>
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+understand and so i guess if my dumb ass
+ 
+
+00:00:26.480 --> 00:00:29.750 align:start position:0%
+understand and so i guess if my dumb ass
+at<00:00:26.560><c> 21</c><00:00:27.039><c> can</c><00:00:27.199><c> understand</c><00:00:27.680><c> it</c><00:00:28.320><c> then</c><00:00:28.800><c> i</c><00:00:29.199><c> will</c><00:00:29.439><c> be</c>
+
+00:00:29.750 --> 00:00:29.760 align:start position:0%
+at 21 can understand it then i will be
+ 
+
+00:00:29.760 --> 00:00:31.589 align:start position:0%
+at 21 can understand it then i will be
+proving<00:00:30.320><c> to</c><00:00:30.480><c> the</c><00:00:30.560><c> writers</c><00:00:30.960><c> of</c><00:00:31.039><c> the</c><00:00:31.119><c> paper</c><00:00:31.439><c> that</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+proving to the writers of the paper that
+ 
+
+00:00:31.599 --> 00:00:33.350 align:start position:0%
+proving to the writers of the paper that
+they're<00:00:31.760><c> doing</c><00:00:31.920><c> a</c><00:00:32.000><c> good</c><00:00:32.239><c> job</c><00:00:32.559><c> so</c><00:00:32.880><c> let's</c><00:00:33.120><c> get</c>
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+they're doing a good job so let's get
+ 
+
+00:00:33.360 --> 00:00:35.190 align:start position:0%
+they're doing a good job so let's get
+into<00:00:33.600><c> it</c><00:00:33.760><c> and</c><00:00:33.840><c> see</c><00:00:34.079><c> if</c><00:00:34.160><c> your</c><00:00:34.399><c> dumb</c><00:00:34.640><c> asses</c><00:00:35.040><c> can</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+into it and see if your dumb asses can
+ 
+
+00:00:35.200 --> 00:00:36.709 align:start position:0%
+into it and see if your dumb asses can
+also<00:00:35.520><c> understand</c><00:00:36.000><c> it</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+also understand it
+ 
+
+00:00:36.719 --> 00:00:39.590 align:start position:0%
+also understand it
+okay<00:00:37.200><c> raft</c><00:00:37.600><c> what</c><00:00:37.760><c> is</c><00:00:37.920><c> it</c><00:00:38.160><c> well</c><00:00:38.800><c> raft</c><00:00:39.200><c> is</c><00:00:39.280><c> really</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+okay raft what is it well raft is really
+ 
+
+00:00:39.600 --> 00:00:42.389 align:start position:0%
+okay raft what is it well raft is really
+just<00:00:39.920><c> a</c><00:00:40.079><c> consensus</c><00:00:40.719><c> algorithm</c><00:00:41.280><c> that</c><00:00:41.760><c> has</c><00:00:42.079><c> some</c>
+
+00:00:42.389 --> 00:00:42.399 align:start position:0%
+just a consensus algorithm that has some
+ 
+
+00:00:42.399 --> 00:00:44.150 align:start position:0%
+just a consensus algorithm that has some
+level<00:00:42.719><c> of</c><00:00:42.800><c> fault</c><00:00:43.040><c> tolerance</c><00:00:43.440><c> what</c><00:00:43.600><c> this</c><00:00:43.840><c> means</c>
+
+00:00:44.150 --> 00:00:44.160 align:start position:0%
+level of fault tolerance what this means
+ 
+
+00:00:44.160 --> 00:00:46.150 align:start position:0%
+level of fault tolerance what this means
+is<00:00:44.320><c> that</c><00:00:44.719><c> we</c><00:00:44.879><c> can</c><00:00:45.039><c> use</c><00:00:45.280><c> it</c><00:00:45.440><c> to</c><00:00:45.600><c> build</c><00:00:45.920><c> a</c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+is that we can use it to build a
+ 
+
+00:00:46.160 --> 00:00:49.430 align:start position:0%
+is that we can use it to build a
+replicated<00:00:46.800><c> log</c><00:00:47.200><c> so</c><00:00:47.440><c> basically</c><00:00:47.920><c> every</c><00:00:48.160><c> single</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+replicated log so basically every single
+ 
+
+00:00:49.440 --> 00:00:51.830 align:start position:0%
+replicated log so basically every single
+position<00:00:50.000><c> in</c><00:00:50.079><c> the</c><00:00:50.239><c> log</c><00:00:50.719><c> is</c><00:00:50.960><c> a</c><00:00:51.120><c> decision</c><00:00:51.600><c> that</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+position in the log is a decision that
+ 
+
+00:00:51.840 --> 00:00:54.549 align:start position:0%
+position in the log is a decision that
+is<00:00:52.000><c> made</c><00:00:52.239><c> by</c><00:00:52.480><c> the</c><00:00:52.640><c> raft</c><00:00:53.039><c> algorithm</c><00:00:54.000><c> and</c><00:00:54.320><c> as</c>
+
+00:00:54.549 --> 00:00:54.559 align:start position:0%
+is made by the raft algorithm and as
+ 
+
+00:00:54.559 --> 00:00:56.630 align:start position:0%
+is made by the raft algorithm and as
+such<00:00:54.879><c> we</c><00:00:55.039><c> can</c><00:00:55.199><c> use</c><00:00:55.440><c> this</c><00:00:55.680><c> to</c><00:00:56.000><c> create</c><00:00:56.320><c> total</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+such we can use this to create total
+ 
+
+00:00:56.640 --> 00:00:58.709 align:start position:0%
+such we can use this to create total
+order<00:00:56.960><c> broadcast</c><00:00:57.760><c> eventually</c><00:00:58.239><c> every</c><00:00:58.399><c> single</c>
+
+00:00:58.709 --> 00:00:58.719 align:start position:0%
+order broadcast eventually every single
+ 
+
+00:00:58.719 --> 00:01:00.790 align:start position:0%
+order broadcast eventually every single
+node<00:00:58.960><c> will</c><00:00:59.120><c> have</c><00:00:59.199><c> the</c><00:00:59.359><c> same</c><00:00:59.600><c> exact</c><00:01:00.000><c> log</c><00:01:00.559><c> which</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+node will have the same exact log which
+ 
+
+00:01:00.800 --> 00:01:03.189 align:start position:0%
+node will have the same exact log which
+means<00:01:01.039><c> that</c><00:01:01.199><c> we</c><00:01:01.359><c> have</c><00:01:01.680><c> this</c><00:01:02.239><c> idea</c><00:01:02.559><c> of</c><00:01:02.719><c> eventual</c>
+
+00:01:03.189 --> 00:01:03.199 align:start position:0%
+means that we have this idea of eventual
+ 
+
+00:01:03.199 --> 00:01:06.230 align:start position:0%
+means that we have this idea of eventual
+consistency<00:01:04.400><c> and</c><00:01:04.799><c> um</c><00:01:05.439><c> you</c><00:01:05.600><c> know</c><00:01:05.760><c> if</c><00:01:05.840><c> you're</c><00:01:06.159><c> if</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+consistency and um you know if you're if
+ 
+
+00:01:06.240 --> 00:01:07.270 align:start position:0%
+consistency and um you know if you're if
+you've<00:01:06.400><c> ever</c><00:01:06.560><c> heard</c><00:01:06.799><c> of</c><00:01:06.880><c> something</c><00:01:07.119><c> like</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+you've ever heard of something like
+ 
+
+00:01:07.280 --> 00:01:09.670 align:start position:0%
+you've ever heard of something like
+paxos<00:01:07.840><c> or</c><00:01:08.000><c> actually</c><00:01:08.320><c> multipaxos</c><00:01:09.200><c> to</c><00:01:09.280><c> create</c><00:01:09.520><c> a</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+paxos or actually multipaxos to create a
+ 
+
+00:01:09.680 --> 00:01:11.830 align:start position:0%
+paxos or actually multipaxos to create a
+fully<00:01:10.000><c> replicated</c><00:01:10.560><c> log</c><00:01:11.119><c> which</c><00:01:11.360><c> is</c><00:01:11.520><c> kind</c><00:01:11.680><c> of</c>
+
+00:01:11.830 --> 00:01:11.840 align:start position:0%
+fully replicated log which is kind of
+ 
+
+00:01:11.840 --> 00:01:13.510 align:start position:0%
+fully replicated log which is kind of
+just<00:01:12.159><c> meaning</c><00:01:12.400><c> that</c><00:01:12.560><c> you're</c><00:01:12.640><c> doing</c><00:01:12.880><c> paxos</c><00:01:13.360><c> but</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+just meaning that you're doing paxos but
+ 
+
+00:01:13.520 --> 00:01:15.190 align:start position:0%
+just meaning that you're doing paxos but
+for<00:01:13.680><c> multiple</c><00:01:14.080><c> stages</c><00:01:14.479><c> so</c><00:01:14.640><c> every</c><00:01:14.880><c> single</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+for multiple stages so every single
+ 
+
+00:01:15.200 --> 00:01:16.630 align:start position:0%
+for multiple stages so every single
+entry<00:01:15.439><c> of</c><00:01:15.520><c> the</c><00:01:15.680><c> log</c>
+
+00:01:16.630 --> 00:01:16.640 align:start position:0%
+entry of the log
+ 
+
+00:01:16.640 --> 00:01:18.149 align:start position:0%
+entry of the log
+there<00:01:16.720><c> are</c><00:01:16.880><c> a</c><00:01:16.880><c> lot</c><00:01:17.040><c> of</c><00:01:17.119><c> similarities</c><00:01:17.840><c> there</c>
+
+00:01:18.149 --> 00:01:18.159 align:start position:0%
+there are a lot of similarities there
+ 
+
+00:01:18.159 --> 00:01:20.469 align:start position:0%
+there are a lot of similarities there
+but<00:01:18.320><c> they're</c><00:01:18.560><c> not</c><00:01:18.799><c> identical</c><00:01:19.680><c> so</c><00:01:20.000><c> in</c><00:01:20.080><c> terms</c><00:01:20.400><c> of</c>
+
+00:01:20.469 --> 00:01:20.479 align:start position:0%
+but they're not identical so in terms of
+ 
+
+00:01:20.479 --> 00:01:21.990 align:start position:0%
+but they're not identical so in terms of
+how<00:01:20.560><c> it's</c><00:01:20.799><c> actually</c><00:01:21.040><c> used</c><00:01:21.360><c> as</c><00:01:21.520><c> you</c><00:01:21.600><c> can</c><00:01:21.680><c> see</c>
+
+00:01:21.990 --> 00:01:22.000 align:start position:0%
+how it's actually used as you can see
+ 
+
+00:01:22.000 --> 00:01:23.429 align:start position:0%
+how it's actually used as you can see
+imagine<00:01:22.320><c> we</c><00:01:22.400><c> have</c><00:01:22.560><c> these</c><00:01:22.720><c> three</c><00:01:22.960><c> database</c>
+
+00:01:23.429 --> 00:01:23.439 align:start position:0%
+imagine we have these three database
+ 
+
+00:01:23.439 --> 00:01:24.789 align:start position:0%
+imagine we have these three database
+replicas<00:01:23.920><c> at</c><00:01:24.000><c> the</c><00:01:24.080><c> bottom</c><00:01:24.320><c> of</c><00:01:24.400><c> the</c><00:01:24.479><c> screen</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+replicas at the bottom of the screen
+ 
+
+00:01:24.799 --> 00:01:25.590 align:start position:0%
+replicas at the bottom of the screen
+here
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+here
+ 
+
+00:01:25.600 --> 00:01:28.630 align:start position:0%
+here
+and<00:01:25.920><c> every</c><00:01:26.080><c> single</c><00:01:26.400><c> replica</c><00:01:27.200><c> has</c><00:01:27.680><c> a</c><00:01:28.159><c> log</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+and every single replica has a log
+ 
+
+00:01:28.640 --> 00:01:30.310 align:start position:0%
+and every single replica has a log
+associated<00:01:29.200><c> with</c><00:01:29.439><c> it</c><00:01:29.600><c> imagine</c><00:01:29.920><c> that's</c><00:01:30.159><c> like</c>
+
+00:01:30.310 --> 00:01:30.320 align:start position:0%
+associated with it imagine that's like
+ 
+
+00:01:30.320 --> 00:01:32.390 align:start position:0%
+associated with it imagine that's like
+the<00:01:30.400><c> right</c><00:01:30.640><c> ahead</c><00:01:30.880><c> log</c><00:01:31.600><c> and</c><00:01:31.680><c> this</c><00:01:31.920><c> log</c><00:01:32.320><c> is</c>
+
+00:01:32.390 --> 00:01:32.400 align:start position:0%
+the right ahead log and this log is
+ 
+
+00:01:32.400 --> 00:01:34.710 align:start position:0%
+the right ahead log and this log is
+going<00:01:32.560><c> to</c><00:01:32.720><c> be</c><00:01:32.880><c> running</c><00:01:33.280><c> in</c><00:01:33.520><c> a</c><00:01:33.759><c> raft</c><00:01:34.159><c> instance</c>
+
+00:01:34.710 --> 00:01:34.720 align:start position:0%
+going to be running in a raft instance
+ 
+
+00:01:34.720 --> 00:01:35.990 align:start position:0%
+going to be running in a raft instance
+on<00:01:34.799><c> the</c><00:01:34.960><c> database</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
+on the database
+ 
+
+00:01:36.000 --> 00:01:37.429 align:start position:0%
+on the database
+and<00:01:36.240><c> all</c><00:01:36.400><c> it's</c><00:01:36.560><c> going</c><00:01:36.720><c> to</c><00:01:36.799><c> have</c><00:01:37.119><c> is</c><00:01:37.280><c> the</c>
+
+00:01:37.429 --> 00:01:37.439 align:start position:0%
+and all it's going to have is the
+ 
+
+00:01:37.439 --> 00:01:39.109 align:start position:0%
+and all it's going to have is the
+operation<00:01:38.000><c> on</c><00:01:38.079><c> the</c><00:01:38.159><c> log</c><00:01:38.560><c> and</c><00:01:38.640><c> then</c><00:01:38.799><c> something</c>
+
+00:01:39.109 --> 00:01:39.119 align:start position:0%
+operation on the log and then something
+ 
+
+00:01:39.119 --> 00:01:40.870 align:start position:0%
+operation on the log and then something
+called<00:01:39.360><c> a</c><00:01:39.439><c> term</c><00:01:39.680><c> number</c><00:01:40.000><c> which</c><00:01:40.320><c> i'll</c><00:01:40.479><c> explain</c>
+
+00:01:40.870 --> 00:01:40.880 align:start position:0%
+called a term number which i'll explain
+ 
+
+00:01:40.880 --> 00:01:42.710 align:start position:0%
+called a term number which i'll explain
+later<00:01:41.439><c> as</c><00:01:41.680><c> you</c><00:01:41.759><c> can</c><00:01:41.840><c> see</c><00:01:42.079><c> they're</c><00:01:42.240><c> not</c><00:01:42.479><c> all</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+later as you can see they're not all
+ 
+
+00:01:42.720 --> 00:01:44.870 align:start position:0%
+later as you can see they're not all
+completely<00:01:43.200><c> identical</c><00:01:43.840><c> but</c><00:01:44.159><c> eventually</c><00:01:44.720><c> they</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+completely identical but eventually they
+ 
+
+00:01:44.880 --> 00:01:46.149 align:start position:0%
+completely identical but eventually they
+will<00:01:45.119><c> be</c>
+
+00:01:46.149 --> 00:01:46.159 align:start position:0%
+will be
+ 
+
+00:01:46.159 --> 00:01:48.069 align:start position:0%
+will be
+okay<00:01:46.720><c> so</c><00:01:46.960><c> before</c><00:01:47.200><c> we</c><00:01:47.280><c> get</c><00:01:47.439><c> into</c><00:01:47.680><c> this</c><00:01:47.840><c> i'm</c><00:01:47.920><c> just</c>
+
+00:01:48.069 --> 00:01:48.079 align:start position:0%
+okay so before we get into this i'm just
+ 
+
+00:01:48.079 --> 00:01:49.990 align:start position:0%
+okay so before we get into this i'm just
+going<00:01:48.159><c> to</c><00:01:48.240><c> do</c><00:01:48.399><c> a</c><00:01:48.479><c> quick</c><00:01:48.720><c> review</c><00:01:49.200><c> term</c><00:01:49.600><c> because</c>
+
+00:01:49.990 --> 00:01:50.000 align:start position:0%
+going to do a quick review term because
+ 
+
+00:01:50.000 --> 00:01:51.350 align:start position:0%
+going to do a quick review term because
+you<00:01:50.159><c> know</c><00:01:50.320><c> if</c><00:01:50.479><c> you</c><00:01:50.560><c> haven't</c><00:01:50.799><c> watched</c><00:01:51.119><c> all</c><00:01:51.280><c> of</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+you know if you haven't watched all of
+ 
+
+00:01:51.360 --> 00:01:53.429 align:start position:0%
+you know if you haven't watched all of
+these<00:01:51.600><c> videos</c><00:01:52.399><c> then</c><00:01:52.720><c> some</c><00:01:52.880><c> of</c><00:01:52.960><c> these</c><00:01:53.280><c> might</c>
+
+00:01:53.429 --> 00:01:53.439 align:start position:0%
+these videos then some of these might
+ 
+
+00:01:53.439 --> 00:01:54.950 align:start position:0%
+these videos then some of these might
+not<00:01:53.600><c> make</c><00:01:53.759><c> sense</c><00:01:54.079><c> to</c><00:01:54.159><c> you</c><00:01:54.240><c> and</c><00:01:54.399><c> i'll</c><00:01:54.479><c> be</c><00:01:54.640><c> using</c>
+
+00:01:54.950 --> 00:01:54.960 align:start position:0%
+not make sense to you and i'll be using
+ 
+
+00:01:54.960 --> 00:01:56.950 align:start position:0%
+not make sense to you and i'll be using
+them<00:01:55.119><c> throughout</c><00:01:55.600><c> so</c><00:01:56.159><c> first</c><00:01:56.399><c> of</c><00:01:56.479><c> all</c><00:01:56.560><c> what's</c><00:01:56.799><c> a</c>
+
+00:01:56.950 --> 00:01:56.960 align:start position:0%
+them throughout so first of all what's a
+ 
+
+00:01:56.960 --> 00:01:59.830 align:start position:0%
+them throughout so first of all what's a
+quorum<00:01:57.360><c> a</c><00:01:57.520><c> quorum</c><00:01:58.000><c> is</c><00:01:58.240><c> a</c><00:01:58.479><c> majority</c><00:01:59.200><c> of</c><00:01:59.439><c> nodes</c>
+
+00:01:59.830 --> 00:01:59.840 align:start position:0%
+quorum a quorum is a majority of nodes
+ 
+
+00:01:59.840 --> 00:02:01.350 align:start position:0%
+quorum a quorum is a majority of nodes
+in<00:02:00.000><c> any</c><00:02:00.159><c> cluster</c><00:02:00.560><c> of</c><00:02:00.719><c> nodes</c><00:02:00.960><c> in</c><00:02:01.040><c> this</c><00:02:01.200><c> case</c>
+
+00:02:01.350 --> 00:02:01.360 align:start position:0%
+in any cluster of nodes in this case
+ 
+
+00:02:01.360 --> 00:02:03.030 align:start position:0%
+in any cluster of nodes in this case
+it's<00:02:01.520><c> a</c><00:02:01.600><c> majority</c><00:02:02.000><c> of</c><00:02:02.079><c> nodes</c><00:02:02.399><c> in</c><00:02:02.479><c> a</c><00:02:02.560><c> database</c>
+
+00:02:03.030 --> 00:02:03.040 align:start position:0%
+it's a majority of nodes in a database
+ 
+
+00:02:03.040 --> 00:02:05.830 align:start position:0%
+it's a majority of nodes in a database
+cluster<00:02:03.680><c> of</c><00:02:03.840><c> replicas</c><00:02:04.960><c> and</c><00:02:05.119><c> so</c><00:02:05.360><c> basically</c><00:02:05.680><c> the</c>
+
+00:02:05.830 --> 00:02:05.840 align:start position:0%
+cluster of replicas and so basically the
+ 
+
+00:02:05.840 --> 00:02:07.990 align:start position:0%
+cluster of replicas and so basically the
+point<00:02:06.159><c> of</c><00:02:06.240><c> using</c><00:02:06.560><c> a</c><00:02:06.719><c> quorum</c><00:02:07.119><c> is</c><00:02:07.280><c> that</c><00:02:07.520><c> if</c><00:02:07.759><c> two</c>
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+point of using a quorum is that if two
+ 
+
+00:02:08.000 --> 00:02:10.229 align:start position:0%
+point of using a quorum is that if two
+different<00:02:08.319><c> quorums</c><00:02:08.720><c> of</c><00:02:08.879><c> nodes</c><00:02:09.599><c> have</c><00:02:10.000><c> made</c>
+
+00:02:10.229 --> 00:02:10.239 align:start position:0%
+different quorums of nodes have made
+ 
+
+00:02:10.239 --> 00:02:12.070 align:start position:0%
+different quorums of nodes have made
+some<00:02:10.399><c> decision</c><00:02:10.959><c> as</c><00:02:11.120><c> in</c><00:02:11.360><c> all</c><00:02:11.520><c> of</c><00:02:11.599><c> the</c><00:02:11.680><c> nodes</c><00:02:11.920><c> in</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+some decision as in all of the nodes in
+ 
+
+00:02:12.080 --> 00:02:14.070 align:start position:0%
+some decision as in all of the nodes in
+that<00:02:12.239><c> quorum</c><00:02:12.640><c> agree</c><00:02:12.879><c> on</c><00:02:13.040><c> something</c><00:02:13.840><c> they</c>
+
+00:02:14.070 --> 00:02:14.080 align:start position:0%
+that quorum agree on something they
+ 
+
+00:02:14.080 --> 00:02:16.229 align:start position:0%
+that quorum agree on something they
+cannot<00:02:14.480><c> make</c><00:02:14.720><c> conflicting</c><00:02:15.280><c> decisions</c>
+
+00:02:16.229 --> 00:02:16.239 align:start position:0%
+cannot make conflicting decisions
+ 
+
+00:02:16.239 --> 00:02:18.550 align:start position:0%
+cannot make conflicting decisions
+because<00:02:17.120><c> that</c><00:02:17.360><c> means</c><00:02:17.680><c> that</c><00:02:17.920><c> one</c><00:02:18.160><c> of</c><00:02:18.239><c> those</c>
+
+00:02:18.550 --> 00:02:18.560 align:start position:0%
+because that means that one of those
+ 
+
+00:02:18.560 --> 00:02:20.309 align:start position:0%
+because that means that one of those
+nodes<00:02:18.879><c> must</c><00:02:19.200><c> overlap</c><00:02:19.680><c> within</c><00:02:20.000><c> the</c><00:02:20.080><c> two</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+nodes must overlap within the two
+ 
+
+00:02:20.319 --> 00:02:22.790 align:start position:0%
+nodes must overlap within the two
+quorums<00:02:21.120><c> and</c><00:02:21.440><c> so</c><00:02:21.760><c> it's</c><00:02:22.000><c> impossible</c><00:02:22.480><c> to</c><00:02:22.560><c> have</c><00:02:22.720><c> a</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+quorums and so it's impossible to have a
+ 
+
+00:02:22.800 --> 00:02:25.030 align:start position:0%
+quorums and so it's impossible to have a
+conflicting<00:02:23.360><c> decision</c><00:02:24.000><c> because</c><00:02:24.480><c> one</c><00:02:24.720><c> node</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+conflicting decision because one node
+ 
+
+00:02:25.040 --> 00:02:26.869 align:start position:0%
+conflicting decision because one node
+can't<00:02:25.280><c> decide</c><00:02:25.760><c> two</c><00:02:25.920><c> different</c><00:02:26.239><c> things</c><00:02:26.560><c> about</c>
+
+00:02:26.869 --> 00:02:26.879 align:start position:0%
+can't decide two different things about
+ 
+
+00:02:26.879 --> 00:02:29.350 align:start position:0%
+can't decide two different things about
+say<00:02:27.120><c> the</c><00:02:27.200><c> same</c><00:02:27.440><c> entry</c><00:02:27.760><c> of</c><00:02:27.920><c> a</c><00:02:28.000><c> log</c>
+
+00:02:29.350 --> 00:02:29.360 align:start position:0%
+say the same entry of a log
+ 
+
+00:02:29.360 --> 00:02:31.030 align:start position:0%
+say the same entry of a log
+additionally<00:02:30.239><c> we</c><00:02:30.480><c> discussed</c><00:02:30.800><c> something</c>
+
+00:02:31.030 --> 00:02:31.040 align:start position:0%
+additionally we discussed something
+ 
+
+00:02:31.040 --> 00:02:32.710 align:start position:0%
+additionally we discussed something
+called<00:02:31.280><c> a</c><00:02:31.360><c> fencing</c><00:02:31.760><c> token</c><00:02:32.160><c> in</c><00:02:32.239><c> a</c><00:02:32.319><c> previous</c>
+
+00:02:32.710 --> 00:02:32.720 align:start position:0%
+called a fencing token in a previous
+ 
+
+00:02:32.720 --> 00:02:34.550 align:start position:0%
+called a fencing token in a previous
+video<00:02:33.280><c> which</c><00:02:33.519><c> is</c><00:02:33.680><c> basically</c><00:02:34.160><c> just</c><00:02:34.319><c> what</c><00:02:34.480><c> the</c>
+
+00:02:34.550 --> 00:02:34.560 align:start position:0%
+video which is basically just what the
+ 
+
+00:02:34.560 --> 00:02:36.150 align:start position:0%
+video which is basically just what the
+term<00:02:34.879><c> number</c><00:02:35.200><c> is</c><00:02:35.360><c> in</c><00:02:35.519><c> raft</c><00:02:35.920><c> it's</c><00:02:36.080><c> an</c>
+
+00:02:36.150 --> 00:02:36.160 align:start position:0%
+term number is in raft it's an
+ 
+
+00:02:36.160 --> 00:02:37.990 align:start position:0%
+term number is in raft it's an
+increasing<00:02:36.560><c> number</c><00:02:36.879><c> used</c><00:02:37.200><c> in</c><00:02:37.280><c> situations</c>
+
+00:02:37.990 --> 00:02:38.000 align:start position:0%
+increasing number used in situations
+ 
+
+00:02:38.000 --> 00:02:39.589 align:start position:0%
+increasing number used in situations
+like<00:02:38.480><c> split</c><00:02:38.800><c> brain</c><00:02:39.040><c> where</c><00:02:39.200><c> there</c><00:02:39.360><c> might</c><00:02:39.440><c> be</c>
+
+00:02:39.589 --> 00:02:39.599 align:start position:0%
+like split brain where there might be
+ 
+
+00:02:39.599 --> 00:02:41.670 align:start position:0%
+like split brain where there might be
+multiple<00:02:40.000><c> leaders</c><00:02:40.560><c> or</c><00:02:40.720><c> even</c><00:02:40.959><c> with</c><00:02:41.120><c> a</c><00:02:41.280><c> locking</c>
+
+00:02:41.670 --> 00:02:41.680 align:start position:0%
+multiple leaders or even with a locking
+ 
+
+00:02:41.680 --> 00:02:44.309 align:start position:0%
+multiple leaders or even with a locking
+system<00:02:42.400><c> to</c><00:02:42.560><c> basically</c><00:02:42.959><c> go</c><00:02:43.120><c> ahead</c><00:02:43.360><c> and</c><00:02:43.519><c> say</c><00:02:44.160><c> you</c>
+
+00:02:44.309 --> 00:02:44.319 align:start position:0%
+system to basically go ahead and say you
+ 
+
+00:02:44.319 --> 00:02:45.830 align:start position:0%
+system to basically go ahead and say you
+know<00:02:44.480><c> take</c><00:02:44.720><c> the</c><00:02:44.800><c> higher</c><00:02:45.120><c> number</c><00:02:45.440><c> that</c><00:02:45.599><c> one</c>
+
+00:02:45.830 --> 00:02:45.840 align:start position:0%
+know take the higher number that one
+ 
+
+00:02:45.840 --> 00:02:47.830 align:start position:0%
+know take the higher number that one
+wins<00:02:46.160><c> and</c><00:02:46.400><c> so</c><00:02:46.640><c> if</c><00:02:46.800><c> there's</c><00:02:47.040><c> ever</c><00:02:47.200><c> a</c><00:02:47.280><c> conflict</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+wins and so if there's ever a conflict
+ 
+
+00:02:47.840 --> 00:02:49.589 align:start position:0%
+wins and so if there's ever a conflict
+about<00:02:48.160><c> you</c><00:02:48.319><c> know</c><00:02:48.480><c> two</c><00:02:48.640><c> nodes</c><00:02:49.040><c> believing</c><00:02:49.440><c> that</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+about you know two nodes believing that
+ 
+
+00:02:49.599 --> 00:02:51.270 align:start position:0%
+about you know two nodes believing that
+they<00:02:49.840><c> have</c><00:02:50.080><c> this</c><00:02:50.319><c> one</c><00:02:50.560><c> resource</c><00:02:51.040><c> whether</c>
+
+00:02:51.270 --> 00:02:51.280 align:start position:0%
+they have this one resource whether
+ 
+
+00:02:51.280 --> 00:02:53.110 align:start position:0%
+they have this one resource whether
+that's<00:02:51.519><c> being</c><00:02:51.760><c> the</c><00:02:51.840><c> leader</c><00:02:52.160><c> holding</c><00:02:52.400><c> a</c><00:02:52.560><c> lock</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+that's being the leader holding a lock
+ 
+
+00:02:53.120 --> 00:02:55.270 align:start position:0%
+that's being the leader holding a lock
+the<00:02:53.280><c> higher</c><00:02:53.519><c> fencing</c><00:02:53.840><c> number</c><00:02:54.160><c> wins</c>
+
+00:02:55.270 --> 00:02:55.280 align:start position:0%
+the higher fencing number wins
+ 
+
+00:02:55.280 --> 00:02:56.869 align:start position:0%
+the higher fencing number wins
+and<00:02:55.360><c> then</c><00:02:55.519><c> finally</c><00:02:55.920><c> we</c><00:02:56.080><c> have</c><00:02:56.160><c> this</c><00:02:56.319><c> concept</c><00:02:56.720><c> of</c>
+
+00:02:56.869 --> 00:02:56.879 align:start position:0%
+and then finally we have this concept of
+ 
+
+00:02:56.879 --> 00:02:59.270 align:start position:0%
+and then finally we have this concept of
+a<00:02:56.959><c> leader</c><00:02:57.280><c> in</c><00:02:57.440><c> raft</c><00:02:58.080><c> the</c><00:02:58.239><c> leader</c><00:02:58.640><c> takes</c><00:02:58.959><c> all</c><00:02:59.120><c> of</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+a leader in raft the leader takes all of
+ 
+
+00:02:59.280 --> 00:03:00.949 align:start position:0%
+a leader in raft the leader takes all of
+the<00:02:59.360><c> rights</c><00:02:59.760><c> and</c><00:02:59.920><c> even</c><00:03:00.159><c> some</c><00:03:00.319><c> of</c><00:03:00.400><c> the</c><00:03:00.480><c> reads</c><00:03:00.800><c> if</c>
+
+00:03:00.949 --> 00:03:00.959 align:start position:0%
+the rights and even some of the reads if
+ 
+
+00:03:00.959 --> 00:03:02.790 align:start position:0%
+the rights and even some of the reads if
+you<00:03:01.040><c> want</c><00:03:01.680><c> strong</c><00:03:01.920><c> consistency</c><00:03:02.560><c> but</c><00:03:02.720><c> there</c>
+
+00:03:02.790 --> 00:03:02.800 align:start position:0%
+you want strong consistency but there
+ 
+
+00:03:02.800 --> 00:03:04.949 align:start position:0%
+you want strong consistency but there
+are<00:03:03.040><c> other</c><00:03:03.200><c> ways</c><00:03:03.519><c> to</c><00:03:03.920><c> get</c><00:03:04.159><c> strong</c><00:03:04.400><c> consistency</c>
+
+00:03:04.949 --> 00:03:04.959 align:start position:0%
+are other ways to get strong consistency
+ 
+
+00:03:04.959 --> 00:03:06.470 align:start position:0%
+are other ways to get strong consistency
+on<00:03:05.120><c> reads</c><00:03:05.360><c> by</c><00:03:05.519><c> doing</c><00:03:05.760><c> things</c><00:03:06.000><c> like</c><00:03:06.159><c> quorum</c>
+
+00:03:06.470 --> 00:03:06.480 align:start position:0%
+on reads by doing things like quorum
+ 
+
+00:03:06.480 --> 00:03:09.670 align:start position:0%
+on reads by doing things like quorum
+reads<00:03:07.200><c> and</c><00:03:07.440><c> a</c><00:03:07.680><c> leader</c><00:03:08.080><c> is</c><00:03:08.239><c> going</c><00:03:08.560><c> to</c><00:03:08.959><c> go</c><00:03:09.120><c> ahead</c>
+
+00:03:09.670 --> 00:03:09.680 align:start position:0%
+reads and a leader is going to go ahead
+ 
+
+00:03:09.680 --> 00:03:11.910 align:start position:0%
+reads and a leader is going to go ahead
+and<00:03:10.400><c> take</c><00:03:10.640><c> in</c><00:03:10.800><c> all</c><00:03:10.879><c> the</c><00:03:11.040><c> writes</c><00:03:11.360><c> and</c><00:03:11.440><c> propagate</c>
+
+00:03:11.910 --> 00:03:11.920 align:start position:0%
+and take in all the writes and propagate
+ 
+
+00:03:11.920 --> 00:03:13.670 align:start position:0%
+and take in all the writes and propagate
+those<00:03:12.239><c> to</c><00:03:12.480><c> the</c><00:03:12.640><c> other</c><00:03:12.800><c> nodes</c><00:03:13.040><c> which</c><00:03:13.280><c> are</c><00:03:13.360><c> known</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+those to the other nodes which are known
+ 
+
+00:03:13.680 --> 00:03:15.030 align:start position:0%
+those to the other nodes which are known
+as<00:03:13.840><c> followers</c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+as followers
+ 
+
+00:03:15.040 --> 00:03:16.710 align:start position:0%
+as followers
+so<00:03:15.200><c> let's</c><00:03:15.440><c> quickly</c><00:03:15.760><c> go</c><00:03:16.000><c> over</c><00:03:16.239><c> the</c><00:03:16.319><c> way</c><00:03:16.480><c> that</c>
+
+00:03:16.710 --> 00:03:16.720 align:start position:0%
+so let's quickly go over the way that
+ 
+
+00:03:16.720 --> 00:03:19.270 align:start position:0%
+so let's quickly go over the way that
+raft<00:03:17.040><c> works</c><00:03:17.519><c> on</c><00:03:17.680><c> like</c><00:03:17.920><c> a</c><00:03:18.000><c> very</c><00:03:18.319><c> high</c><00:03:18.560><c> level</c><00:03:19.200><c> and</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+raft works on like a very high level and
+ 
+
+00:03:19.280 --> 00:03:20.710 align:start position:0%
+raft works on like a very high level and
+then<00:03:19.440><c> i'll</c><00:03:19.599><c> dive</c><00:03:19.840><c> into</c><00:03:20.000><c> how</c><00:03:20.239><c> each</c><00:03:20.400><c> of</c><00:03:20.480><c> these</c>
+
+00:03:20.710 --> 00:03:20.720 align:start position:0%
+then i'll dive into how each of these
+ 
+
+00:03:20.720 --> 00:03:22.949 align:start position:0%
+then i'll dive into how each of these
+pieces<00:03:21.120><c> actually</c><00:03:21.440><c> works</c><00:03:22.080><c> so</c><00:03:22.319><c> basically</c><00:03:22.800><c> like</c>
+
+00:03:22.949 --> 00:03:22.959 align:start position:0%
+pieces actually works so basically like
+ 
+
+00:03:22.959 --> 00:03:24.869 align:start position:0%
+pieces actually works so basically like
+i<00:03:23.120><c> mentioned</c><00:03:23.440><c> there's</c><00:03:23.599><c> one</c><00:03:23.840><c> leader</c><00:03:24.319><c> at</c><00:03:24.720><c> at</c>
+
+00:03:24.869 --> 00:03:24.879 align:start position:0%
+i mentioned there's one leader at at
+ 
+
+00:03:24.879 --> 00:03:26.630 align:start position:0%
+i mentioned there's one leader at at
+least<00:03:25.200><c> at</c><00:03:25.360><c> a</c><00:03:25.440><c> time</c><00:03:25.760><c> there's</c><00:03:25.920><c> one</c><00:03:26.080><c> leader</c><00:03:26.400><c> per</c>
+
+00:03:26.630 --> 00:03:26.640 align:start position:0%
+least at a time there's one leader per
+ 
+
+00:03:26.640 --> 00:03:28.710 align:start position:0%
+least at a time there's one leader per
+term<00:03:27.040><c> where</c><00:03:27.280><c> each</c><00:03:27.519><c> term</c><00:03:27.840><c> is</c><00:03:27.920><c> identified</c><00:03:28.480><c> by</c><00:03:28.640><c> a</c>
+
+00:03:28.710 --> 00:03:28.720 align:start position:0%
+term where each term is identified by a
+ 
+
+00:03:28.720 --> 00:03:30.710 align:start position:0%
+term where each term is identified by a
+number<00:03:29.440><c> and</c><00:03:29.519><c> the</c><00:03:29.680><c> leader</c><00:03:30.000><c> is</c><00:03:30.080><c> going</c><00:03:30.319><c> to</c><00:03:30.400><c> send</c>
+
+00:03:30.710 --> 00:03:30.720 align:start position:0%
+number and the leader is going to send
+ 
+
+00:03:30.720 --> 00:03:32.390 align:start position:0%
+number and the leader is going to send
+all<00:03:30.879><c> of</c><00:03:30.959><c> the</c><00:03:31.120><c> writes</c><00:03:31.440><c> for</c><00:03:31.599><c> that</c><00:03:31.840><c> term</c><00:03:32.080><c> to</c><00:03:32.319><c> the</c>
+
+00:03:32.390 --> 00:03:32.400 align:start position:0%
+all of the writes for that term to the
+ 
+
+00:03:32.400 --> 00:03:34.470 align:start position:0%
+all of the writes for that term to the
+follower<00:03:32.799><c> nodes</c><00:03:33.440><c> once</c><00:03:33.680><c> a</c><00:03:33.840><c> leader</c><00:03:34.159><c> receives</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+follower nodes once a leader receives
+ 
+
+00:03:34.480 --> 00:03:36.550 align:start position:0%
+follower nodes once a leader receives
+responses<00:03:35.040><c> from</c><00:03:35.280><c> a</c><00:03:35.440><c> quorum</c><00:03:35.840><c> of</c><00:03:36.000><c> the</c><00:03:36.080><c> nodes</c><00:03:36.400><c> so</c>
+
+00:03:36.550 --> 00:03:36.560 align:start position:0%
+responses from a quorum of the nodes so
+ 
+
+00:03:36.560 --> 00:03:38.789 align:start position:0%
+responses from a quorum of the nodes so
+that<00:03:36.720><c> would</c><00:03:36.879><c> be</c><00:03:36.959><c> a</c><00:03:37.040><c> majority</c><00:03:37.920><c> it</c><00:03:38.080><c> can</c><00:03:38.239><c> go</c><00:03:38.400><c> ahead</c>
+
+00:03:38.789 --> 00:03:38.799 align:start position:0%
+that would be a majority it can go ahead
+ 
+
+00:03:38.799 --> 00:03:40.630 align:start position:0%
+that would be a majority it can go ahead
+and<00:03:38.959><c> tell</c><00:03:39.200><c> them</c><00:03:39.360><c> to</c><00:03:39.599><c> commit</c><00:03:40.000><c> those</c><00:03:40.239><c> rights</c><00:03:40.480><c> to</c>
+
+00:03:40.630 --> 00:03:40.640 align:start position:0%
+and tell them to commit those rights to
+ 
+
+00:03:40.640 --> 00:03:42.309 align:start position:0%
+and tell them to commit those rights to
+the<00:03:40.720><c> above</c><00:03:41.040><c> database</c><00:03:41.599><c> layer</c><00:03:41.920><c> once</c><00:03:42.159><c> they're</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+the above database layer once they're
+ 
+
+00:03:42.319 --> 00:03:44.229 align:start position:0%
+the above database layer once they're
+committed<00:03:42.799><c> the</c><00:03:43.040><c> above</c><00:03:43.360><c> database</c><00:03:43.840><c> layer</c><00:03:44.080><c> is</c>
+
+00:03:44.229 --> 00:03:44.239 align:start position:0%
+committed the above database layer is
+ 
+
+00:03:44.239 --> 00:03:45.670 align:start position:0%
+committed the above database layer is
+going<00:03:44.400><c> to</c><00:03:44.480><c> put</c><00:03:44.640><c> them</c><00:03:44.879><c> in</c><00:03:44.959><c> their</c><00:03:45.120><c> key</c><00:03:45.360><c> value</c>
+
+00:03:45.670 --> 00:03:45.680 align:start position:0%
+going to put them in their key value
+ 
+
+00:03:45.680 --> 00:03:47.509 align:start position:0%
+going to put them in their key value
+store<00:03:46.239><c> and</c><00:03:46.400><c> then</c><00:03:46.560><c> finally</c><00:03:46.959><c> reads</c><00:03:47.280><c> can</c>
+
+00:03:47.509 --> 00:03:47.519 align:start position:0%
+store and then finally reads can
+ 
+
+00:03:47.519 --> 00:03:49.270 align:start position:0%
+store and then finally reads can
+actually<00:03:47.760><c> go</c><00:03:47.920><c> ahead</c><00:03:48.239><c> and</c><00:03:48.480><c> read</c><00:03:48.720><c> that</c><00:03:48.959><c> key</c><00:03:49.120><c> in</c>
+
+00:03:49.270 --> 00:03:49.280 align:start position:0%
+actually go ahead and read that key in
+ 
+
+00:03:49.280 --> 00:03:50.630 align:start position:0%
+actually go ahead and read that key in
+value
+
+00:03:50.630 --> 00:03:50.640 align:start position:0%
+value
+ 
+
+00:03:50.640 --> 00:03:52.390 align:start position:0%
+value
+and<00:03:50.720><c> then</c><00:03:50.879><c> finally</c><00:03:51.440><c> the</c><00:03:51.599><c> biggest</c><00:03:51.920><c> thing</c><00:03:52.159><c> here</c>
+
+00:03:52.390 --> 00:03:52.400 align:start position:0%
+and then finally the biggest thing here
+ 
+
+00:03:52.400 --> 00:03:53.750 align:start position:0%
+and then finally the biggest thing here
+is<00:03:52.480><c> that</c><00:03:52.640><c> one</c><00:03:52.799><c> of</c><00:03:52.879><c> the</c><00:03:52.959><c> things</c><00:03:53.200><c> i've</c><00:03:53.360><c> mentioned</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+is that one of the things i've mentioned
+ 
+
+00:03:53.760 --> 00:03:56.229 align:start position:0%
+is that one of the things i've mentioned
+in<00:03:53.840><c> my</c><00:03:54.000><c> past</c><00:03:54.319><c> videos</c><00:03:54.640><c> for</c><00:03:54.959><c> mainly</c><00:03:55.280><c> single</c><00:03:55.599><c> read</c>
+
+00:03:56.229 --> 00:03:56.239 align:start position:0%
+in my past videos for mainly single read
+ 
+
+00:03:56.239 --> 00:03:58.789 align:start position:0%
+in my past videos for mainly single read
+single<00:03:56.480><c> leader</c><00:03:56.879><c> replication</c><00:03:58.000><c> is</c><00:03:58.159><c> that</c><00:03:58.400><c> if</c><00:03:58.640><c> a</c>
+
+00:03:58.789 --> 00:03:58.799 align:start position:0%
+single leader replication is that if a
+ 
+
+00:03:58.799 --> 00:04:00.390 align:start position:0%
+single leader replication is that if a
+leader leader's<00:03:59.120><c> presumed</c><00:03:59.599><c> dead</c>
+
+00:04:00.390 --> 00:04:00.400 align:start position:0%
+leader leader's presumed dead
+ 
+
+00:04:00.400 --> 00:04:02.470 align:start position:0%
+leader leader's presumed dead
+you<00:04:00.640><c> kind</c><00:04:00.799><c> of</c><00:04:00.879><c> just</c><00:04:01.040><c> have</c><00:04:01.200><c> to</c><00:04:01.360><c> do</c><00:04:01.519><c> a</c><00:04:01.599><c> failover</c>
+
+00:04:02.470 --> 00:04:02.480 align:start position:0%
+you kind of just have to do a failover
+ 
+
+00:04:02.480 --> 00:04:05.030 align:start position:0%
+you kind of just have to do a failover
+but<00:04:03.200><c> that's</c><00:04:03.519><c> not</c><00:04:03.760><c> always</c><00:04:04.080><c> an</c><00:04:04.239><c> easy</c><00:04:04.480><c> process</c><00:04:04.879><c> to</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+but that's not always an easy process to
+ 
+
+00:04:05.040 --> 00:04:07.589 align:start position:0%
+but that's not always an easy process to
+do<00:04:05.280><c> and</c><00:04:05.360><c> it's</c><00:04:05.599><c> not</c><00:04:05.760><c> always</c><00:04:06.159><c> automatic</c><00:04:07.200><c> but</c><00:04:07.439><c> in</c>
+
+00:04:07.589 --> 00:04:07.599 align:start position:0%
+do and it's not always automatic but in
+ 
+
+00:04:07.599 --> 00:04:10.309 align:start position:0%
+do and it's not always automatic but in
+this<00:04:07.760><c> case</c><00:04:08.080><c> if</c><00:04:08.239><c> a</c><00:04:08.400><c> leader</c><00:04:08.720><c> is</c><00:04:08.799><c> presumed</c><00:04:09.280><c> dead</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+this case if a leader is presumed dead
+ 
+
+00:04:10.319 --> 00:04:12.229 align:start position:0%
+this case if a leader is presumed dead
+a<00:04:10.480><c> follower</c><00:04:10.959><c> node</c><00:04:11.200><c> is</c><00:04:11.360><c> actually</c><00:04:11.680><c> going</c><00:04:12.000><c> to</c>
+
+00:04:12.229 --> 00:04:12.239 align:start position:0%
+a follower node is actually going to
+ 
+
+00:04:12.239 --> 00:04:14.390 align:start position:0%
+a follower node is actually going to
+potentially<00:04:12.959><c> go</c><00:04:13.120><c> ahead</c><00:04:13.599><c> and</c><00:04:13.840><c> try</c><00:04:14.080><c> and</c><00:04:14.159><c> become</c>
+
+00:04:14.390 --> 00:04:14.400 align:start position:0%
+potentially go ahead and try and become
+ 
+
+00:04:14.400 --> 00:04:16.710 align:start position:0%
+potentially go ahead and try and become
+the<00:04:14.560><c> new</c><00:04:14.720><c> leader</c><00:04:15.040><c> and</c><00:04:15.200><c> once</c><00:04:15.439><c> that</c><00:04:15.680><c> happens</c>
+
+00:04:16.710 --> 00:04:16.720 align:start position:0%
+the new leader and once that happens
+ 
+
+00:04:16.720 --> 00:04:18.390 align:start position:0%
+the new leader and once that happens
+there<00:04:16.880><c> is</c><00:04:17.040><c> consensus</c><00:04:17.680><c> reached</c><00:04:18.000><c> amongst</c><00:04:18.320><c> the</c>
+
+00:04:18.390 --> 00:04:18.400 align:start position:0%
+there is consensus reached amongst the
+ 
+
+00:04:18.400 --> 00:04:20.069 align:start position:0%
+there is consensus reached amongst the
+following<00:04:18.799><c> nodes</c><00:04:19.120><c> about</c><00:04:19.280><c> who</c><00:04:19.440><c> the</c><00:04:19.519><c> new</c><00:04:19.759><c> leader</c>
+
+00:04:20.069 --> 00:04:20.079 align:start position:0%
+following nodes about who the new leader
+ 
+
+00:04:20.079 --> 00:04:21.590 align:start position:0%
+following nodes about who the new leader
+is<00:04:20.479><c> and</c><00:04:20.560><c> we</c><00:04:20.720><c> don't</c><00:04:20.880><c> have</c><00:04:21.040><c> to</c><00:04:21.120><c> worry</c><00:04:21.359><c> about</c>
+
+00:04:21.590 --> 00:04:21.600 align:start position:0%
+is and we don't have to worry about
+ 
+
+00:04:21.600 --> 00:04:23.830 align:start position:0%
+is and we don't have to worry about
+split<00:04:21.919><c> brand</c><00:04:22.240><c> raft</c><00:04:22.720><c> actually</c><00:04:23.199><c> goes</c><00:04:23.440><c> ahead</c><00:04:23.680><c> and</c>
+
+00:04:23.830 --> 00:04:23.840 align:start position:0%
+split brand raft actually goes ahead and
+ 
+
+00:04:23.840 --> 00:04:25.510 align:start position:0%
+split brand raft actually goes ahead and
+solves<00:04:24.080><c> that</c><00:04:24.240><c> for</c><00:04:24.479><c> us</c>
+
+00:04:25.510 --> 00:04:25.520 align:start position:0%
+solves that for us
+ 
+
+00:04:25.520 --> 00:04:26.950 align:start position:0%
+solves that for us
+okay
+
+00:04:26.950 --> 00:04:26.960 align:start position:0%
+okay
+ 
+
+00:04:26.960 --> 00:04:28.710 align:start position:0%
+okay
+so<00:04:27.199><c> let's</c><00:04:27.440><c> talk</c><00:04:27.680><c> about</c><00:04:28.000><c> leader</c><00:04:28.320><c> election</c>
+
+00:04:28.710 --> 00:04:28.720 align:start position:0%
+so let's talk about leader election
+ 
+
+00:04:28.720 --> 00:04:30.390 align:start position:0%
+so let's talk about leader election
+first<00:04:29.040><c> because</c><00:04:29.280><c> this</c><00:04:29.520><c> is</c><00:04:29.600><c> kind</c><00:04:29.840><c> of</c><00:04:30.000><c> the</c><00:04:30.160><c> big</c>
+
+00:04:30.390 --> 00:04:30.400 align:start position:0%
+first because this is kind of the big
+ 
+
+00:04:30.400 --> 00:04:32.469 align:start position:0%
+first because this is kind of the big
+reason<00:04:30.720><c> why</c><00:04:30.880><c> raft</c><00:04:31.199><c> works</c><00:04:32.000><c> which</c><00:04:32.240><c> is</c><00:04:32.320><c> that</c>
+
+00:04:32.469 --> 00:04:32.479 align:start position:0%
+reason why raft works which is that
+ 
+
+00:04:32.479 --> 00:04:34.230 align:start position:0%
+reason why raft works which is that
+there<00:04:32.639><c> is</c><00:04:32.880><c> only</c><00:04:33.120><c> one</c><00:04:33.360><c> leader</c><00:04:33.759><c> and</c><00:04:33.840><c> there</c><00:04:34.000><c> can</c>
+
+00:04:34.230 --> 00:04:34.240 align:start position:0%
+there is only one leader and there can
+ 
+
+00:04:34.240 --> 00:04:37.270 align:start position:0%
+there is only one leader and there can
+only<00:04:34.479><c> be</c><00:04:34.720><c> one</c><00:04:35.040><c> leader</c><00:04:35.440><c> at</c><00:04:35.600><c> a</c><00:04:35.759><c> time</c><00:04:36.160><c> per</c><00:04:36.479><c> term</c>
+
+00:04:37.270 --> 00:04:37.280 align:start position:0%
+only be one leader at a time per term
+ 
+
+00:04:37.280 --> 00:04:39.270 align:start position:0%
+only be one leader at a time per term
+okay<00:04:38.000><c> so</c><00:04:38.160><c> basically</c>
+
+00:04:39.270 --> 00:04:39.280 align:start position:0%
+okay so basically
+ 
+
+00:04:39.280 --> 00:04:41.749 align:start position:0%
+okay so basically
+in<00:04:39.520><c> raft</c><00:04:40.160><c> every</c><00:04:40.400><c> node</c><00:04:40.639><c> is</c><00:04:40.800><c> either</c><00:04:41.040><c> a</c><00:04:41.199><c> leader</c><00:04:41.600><c> a</c>
+
+00:04:41.749 --> 00:04:41.759 align:start position:0%
+in raft every node is either a leader a
+ 
+
+00:04:41.759 --> 00:04:43.590 align:start position:0%
+in raft every node is either a leader a
+candidate<00:04:42.160><c> or</c><00:04:42.320><c> a</c><00:04:42.479><c> follower</c><00:04:43.040><c> so</c><00:04:43.199><c> let's</c><00:04:43.440><c> start</c>
+
+00:04:43.590 --> 00:04:43.600 align:start position:0%
+candidate or a follower so let's start
+ 
+
+00:04:43.600 --> 00:04:45.430 align:start position:0%
+candidate or a follower so let's start
+by<00:04:43.840><c> talking</c><00:04:44.080><c> about</c><00:04:44.240><c> the</c><00:04:44.320><c> followers</c><00:04:45.120><c> each</c>
+
+00:04:45.430 --> 00:04:45.440 align:start position:0%
+by talking about the followers each
+ 
+
+00:04:45.440 --> 00:04:46.870 align:start position:0%
+by talking about the followers each
+follower<00:04:45.840><c> node</c><00:04:46.160><c> these</c><00:04:46.400><c> are</c><00:04:46.479><c> nodes</c><00:04:46.720><c> that</c><00:04:46.800><c> are</c>
+
+00:04:46.870 --> 00:04:46.880 align:start position:0%
+follower node these are nodes that are
+ 
+
+00:04:46.880 --> 00:04:48.390 align:start position:0%
+follower node these are nodes that are
+going<00:04:47.120><c> to</c><00:04:47.199><c> be</c><00:04:47.360><c> accepting</c><00:04:47.840><c> rights</c>
+
+00:04:48.390 --> 00:04:48.400 align:start position:0%
+going to be accepting rights
+ 
+
+00:04:48.400 --> 00:04:50.230 align:start position:0%
+going to be accepting rights
+periodically<00:04:49.040><c> receives</c><00:04:49.520><c> heartbeats</c><00:04:50.080><c> from</c>
+
+00:04:50.230 --> 00:04:50.240 align:start position:0%
+periodically receives heartbeats from
+ 
+
+00:04:50.240 --> 00:04:53.110 align:start position:0%
+periodically receives heartbeats from
+the<00:04:50.320><c> leader</c><00:04:51.199><c> to</c><00:04:51.440><c> basically</c><00:04:52.000><c> say</c><00:04:52.400><c> hi</c><00:04:52.720><c> i'm</c><00:04:52.880><c> still</c>
+
+00:04:53.110 --> 00:04:53.120 align:start position:0%
+the leader to basically say hi i'm still
+ 
+
+00:04:53.120 --> 00:04:55.590 align:start position:0%
+the leader to basically say hi i'm still
+up<00:04:53.280><c> and</c><00:04:53.440><c> running</c><00:04:54.000><c> don't</c><00:04:54.240><c> try</c><00:04:54.400><c> and</c><00:04:54.479><c> replace</c><00:04:54.880><c> me</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+up and running don't try and replace me
+ 
+
+00:04:55.600 --> 00:04:57.430 align:start position:0%
+up and running don't try and replace me
+however<00:04:56.240><c> if</c><00:04:56.479><c> a</c><00:04:56.560><c> follower</c><00:04:56.960><c> node</c><00:04:57.199><c> doesn't</c>
+
+00:04:57.430 --> 00:04:57.440 align:start position:0%
+however if a follower node doesn't
+ 
+
+00:04:57.440 --> 00:04:59.350 align:start position:0%
+however if a follower node doesn't
+receive<00:04:57.759><c> a</c><00:04:57.840><c> heartbeat</c><00:04:58.240><c> within</c><00:04:58.800><c> within</c><00:04:59.199><c> some</c>
+
+00:04:59.350 --> 00:04:59.360 align:start position:0%
+receive a heartbeat within within some
+ 
+
+00:04:59.360 --> 00:05:01.909 align:start position:0%
+receive a heartbeat within within some
+amount<00:04:59.680><c> of</c><00:04:59.840><c> time</c><00:05:00.080><c> out</c><00:05:00.639><c> where</c><00:05:00.960><c> um</c><00:05:01.280><c> this</c><00:05:01.520><c> timeout</c>
+
+00:05:01.909 --> 00:05:01.919 align:start position:0%
+amount of time out where um this timeout
+ 
+
+00:05:01.919 --> 00:05:03.830 align:start position:0%
+amount of time out where um this timeout
+is<00:05:02.000><c> typically</c><00:05:02.639><c> the</c><00:05:02.800><c> length</c><00:05:03.199><c> of</c><00:05:03.440><c> a</c><00:05:03.600><c> few</c>
+
+00:05:03.830 --> 00:05:03.840 align:start position:0%
+is typically the length of a few
+ 
+
+00:05:03.840 --> 00:05:06.790 align:start position:0%
+is typically the length of a few
+heartbeats<00:05:04.880><c> um</c><00:05:05.280><c> up</c><00:05:05.520><c> to</c><00:05:06.080><c> you</c><00:05:06.160><c> know</c><00:05:06.400><c> the</c><00:05:06.560><c> amount</c>
+
+00:05:06.790 --> 00:05:06.800 align:start position:0%
+heartbeats um up to you know the amount
+ 
+
+00:05:06.800 --> 00:05:08.310 align:start position:0%
+heartbeats um up to you know the amount
+of<00:05:06.960><c> time</c><00:05:07.120><c> that</c><00:05:07.280><c> it</c><00:05:07.360><c> might</c><00:05:07.520><c> take</c><00:05:07.759><c> for</c><00:05:07.919><c> a</c><00:05:08.080><c> new</c>
+
+00:05:08.310 --> 00:05:08.320 align:start position:0%
+of time that it might take for a new
+ 
+
+00:05:08.320 --> 00:05:10.950 align:start position:0%
+of time that it might take for a new
+election<00:05:08.800><c> process</c><00:05:09.199><c> to</c><00:05:09.440><c> ensue</c><00:05:10.320><c> it</c><00:05:10.400><c> will</c><00:05:10.639><c> assume</c>
+
+00:05:10.950 --> 00:05:10.960 align:start position:0%
+election process to ensue it will assume
+ 
+
+00:05:10.960 --> 00:05:13.189 align:start position:0%
+election process to ensue it will assume
+the<00:05:11.120><c> leader</c><00:05:11.360><c> to</c><00:05:11.520><c> be</c><00:05:11.680><c> dead</c><00:05:12.240><c> and</c><00:05:12.400><c> declare</c><00:05:12.880><c> itself</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+the leader to be dead and declare itself
+ 
+
+00:05:13.199 --> 00:05:15.189 align:start position:0%
+the leader to be dead and declare itself
+to<00:05:13.360><c> be</c><00:05:13.520><c> the</c><00:05:13.600><c> state</c><00:05:13.919><c> of</c><00:05:14.160><c> candidate</c>
+
+00:05:15.189 --> 00:05:15.199 align:start position:0%
+to be the state of candidate
+ 
+
+00:05:15.199 --> 00:05:17.029 align:start position:0%
+to be the state of candidate
+once<00:05:15.440><c> a</c><00:05:15.520><c> node</c><00:05:15.759><c> calls</c><00:05:16.080><c> itself</c><00:05:16.400><c> a</c><00:05:16.479><c> candidate</c>
+
+00:05:17.029 --> 00:05:17.039 align:start position:0%
+once a node calls itself a candidate
+ 
+
+00:05:17.039 --> 00:05:18.629 align:start position:0%
+once a node calls itself a candidate
+it's<00:05:17.280><c> going</c><00:05:17.520><c> to</c><00:05:17.600><c> start</c><00:05:17.919><c> a</c><00:05:18.000><c> new</c><00:05:18.240><c> election</c>
+
+00:05:18.629 --> 00:05:18.639 align:start position:0%
+it's going to start a new election
+ 
+
+00:05:18.639 --> 00:05:21.510 align:start position:0%
+it's going to start a new election
+process<00:05:19.600><c> vote</c><00:05:19.840><c> for</c><00:05:20.080><c> itself</c><00:05:20.720><c> and</c><00:05:20.880><c> tell</c><00:05:21.199><c> all</c><00:05:21.360><c> the</c>
+
+00:05:21.510 --> 00:05:21.520 align:start position:0%
+process vote for itself and tell all the
+ 
+
+00:05:21.520 --> 00:05:22.950 align:start position:0%
+process vote for itself and tell all the
+other<00:05:21.759><c> nodes</c><00:05:22.080><c> that</c><00:05:22.240><c> it's</c><00:05:22.400><c> starting</c><00:05:22.720><c> set</c>
+
+00:05:22.950 --> 00:05:22.960 align:start position:0%
+other nodes that it's starting set
+ 
+
+00:05:22.960 --> 00:05:24.790 align:start position:0%
+other nodes that it's starting set
+election<00:05:23.360><c> process</c><00:05:24.000><c> it's</c><00:05:24.240><c> also</c><00:05:24.479><c> going</c><00:05:24.639><c> to</c>
+
+00:05:24.790 --> 00:05:24.800 align:start position:0%
+election process it's also going to
+ 
+
+00:05:24.800 --> 00:05:26.710 align:start position:0%
+election process it's also going to
+increase<00:05:25.280><c> its</c><00:05:25.440><c> internal</c><00:05:25.919><c> turn</c><00:05:26.160><c> number</c><00:05:26.560><c> which</c>
+
+00:05:26.710 --> 00:05:26.720 align:start position:0%
+increase its internal turn number which
+ 
+
+00:05:26.720 --> 00:05:28.310 align:start position:0%
+increase its internal turn number which
+i'll<00:05:26.960><c> maybe</c><00:05:27.199><c> call</c><00:05:27.440><c> a</c><00:05:27.520><c> local</c><00:05:27.840><c> term</c><00:05:28.080><c> number</c>
+
+00:05:28.310 --> 00:05:28.320 align:start position:0%
+i'll maybe call a local term number
+ 
+
+00:05:28.320 --> 00:05:30.310 align:start position:0%
+i'll maybe call a local term number
+later<00:05:28.960><c> by</c><00:05:29.199><c> one</c><00:05:29.520><c> so</c><00:05:29.680><c> it's</c><00:05:29.759><c> saying</c><00:05:30.000><c> this</c><00:05:30.160><c> is</c><00:05:30.240><c> a</c>
+
+00:05:30.310 --> 00:05:30.320 align:start position:0%
+later by one so it's saying this is a
+ 
+
+00:05:30.320 --> 00:05:31.590 align:start position:0%
+later by one so it's saying this is a
+new<00:05:30.479><c> term</c><00:05:30.800><c> we're</c><00:05:30.960><c> going</c><00:05:31.120><c> to</c><00:05:31.199><c> have</c><00:05:31.360><c> a</c><00:05:31.440><c> new</c>
+
+00:05:31.590 --> 00:05:31.600 align:start position:0%
+new term we're going to have a new
+ 
+
+00:05:31.600 --> 00:05:32.950 align:start position:0%
+new term we're going to have a new
+leader<00:05:31.919><c> or</c><00:05:32.000><c> maybe</c><00:05:32.240><c> the</c><00:05:32.400><c> same</c><00:05:32.560><c> leader</c><00:05:32.880><c> as</c>
+
+00:05:32.950 --> 00:05:32.960 align:start position:0%
+leader or maybe the same leader as
+ 
+
+00:05:32.960 --> 00:05:34.390 align:start position:0%
+leader or maybe the same leader as
+before<00:05:33.280><c> but</c><00:05:33.440><c> it's</c><00:05:33.520><c> going</c><00:05:33.680><c> to</c><00:05:33.759><c> be</c><00:05:33.919><c> under</c><00:05:34.080><c> a</c><00:05:34.160><c> new</c>
+
+00:05:34.390 --> 00:05:34.400 align:start position:0%
+before but it's going to be under a new
+ 
+
+00:05:34.400 --> 00:05:35.749 align:start position:0%
+before but it's going to be under a new
+term<00:05:34.639><c> number</c>
+
+00:05:35.749 --> 00:05:35.759 align:start position:0%
+term number
+ 
+
+00:05:35.759 --> 00:05:37.749 align:start position:0%
+term number
+next<00:05:36.240><c> in</c><00:05:36.400><c> addition</c>
+
+00:05:37.749 --> 00:05:37.759 align:start position:0%
+next in addition
+ 
+
+00:05:37.759 --> 00:05:40.230 align:start position:0%
+next in addition
+because<00:05:38.400><c> this</c><00:05:39.120><c> follower</c><00:05:39.520><c> node</c><00:05:39.840><c> who's</c><00:05:40.000><c> now</c><00:05:40.160><c> a</c>
+
+00:05:40.230 --> 00:05:40.240 align:start position:0%
+because this follower node who's now a
+ 
+
+00:05:40.240 --> 00:05:41.909 align:start position:0%
+because this follower node who's now a
+candidate<00:05:40.720><c> node</c><00:05:41.039><c> is</c><00:05:41.120><c> going</c><00:05:41.360><c> to</c><00:05:41.440><c> have</c><00:05:41.600><c> to</c><00:05:41.759><c> have</c>
+
+00:05:41.909 --> 00:05:41.919 align:start position:0%
+candidate node is going to have to have
+ 
+
+00:05:41.919 --> 00:05:44.070 align:start position:0%
+candidate node is going to have to have
+a<00:05:42.000><c> majority</c><00:05:42.479><c> of</c><00:05:42.639><c> votes</c><00:05:42.960><c> to</c><00:05:43.039><c> become</c><00:05:43.280><c> a</c><00:05:43.360><c> leader</c>
+
+00:05:44.070 --> 00:05:44.080 align:start position:0%
+a majority of votes to become a leader
+ 
+
+00:05:44.080 --> 00:05:45.830 align:start position:0%
+a majority of votes to become a leader
+we<00:05:44.240><c> don't</c><00:05:44.479><c> want</c><00:05:44.800><c> every</c><00:05:45.039><c> single</c><00:05:45.360><c> follower</c>
+
+00:05:45.830 --> 00:05:45.840 align:start position:0%
+we don't want every single follower
+ 
+
+00:05:45.840 --> 00:05:47.749 align:start position:0%
+we don't want every single follower
+starting<00:05:46.160><c> new</c><00:05:46.320><c> elections</c><00:05:46.720><c> at</c><00:05:46.880><c> the</c><00:05:46.960><c> same</c><00:05:47.199><c> time</c>
+
+00:05:47.749 --> 00:05:47.759 align:start position:0%
+starting new elections at the same time
+ 
+
+00:05:47.759 --> 00:05:48.870 align:start position:0%
+starting new elections at the same time
+because<00:05:48.000><c> if</c><00:05:48.080><c> they</c><00:05:48.240><c> do</c><00:05:48.400><c> they're</c><00:05:48.560><c> all</c><00:05:48.720><c> going</c><00:05:48.800><c> to</c>
+
+00:05:48.870 --> 00:05:48.880 align:start position:0%
+because if they do they're all going to
+ 
+
+00:05:48.880 --> 00:05:50.469 align:start position:0%
+because if they do they're all going to
+vote<00:05:49.039><c> for</c><00:05:49.199><c> themselves</c><00:05:49.600><c> and</c><00:05:49.680><c> then</c><00:05:49.840><c> no</c><00:05:50.080><c> node</c><00:05:50.320><c> is</c>
+
+00:05:50.469 --> 00:05:50.479 align:start position:0%
+vote for themselves and then no node is
+ 
+
+00:05:50.479 --> 00:05:52.230 align:start position:0%
+vote for themselves and then no node is
+actually<00:05:50.639><c> going</c><00:05:50.880><c> to</c><00:05:50.960><c> be</c><00:05:51.039><c> elected</c><00:05:51.440><c> a</c><00:05:51.520><c> leader</c><00:05:52.000><c> so</c>
+
+00:05:52.230 --> 00:05:52.240 align:start position:0%
+actually going to be elected a leader so
+ 
+
+00:05:52.240 --> 00:05:54.469 align:start position:0%
+actually going to be elected a leader so
+we<00:05:52.320><c> do</c><00:05:52.720><c> we</c><00:05:52.960><c> randomize</c><00:05:53.600><c> the</c><00:05:53.759><c> timeouts</c><00:05:54.240><c> that</c>
+
+00:05:54.469 --> 00:05:54.479 align:start position:0%
+we do we randomize the timeouts that
+ 
+
+00:05:54.479 --> 00:05:56.790 align:start position:0%
+we do we randomize the timeouts that
+each<00:05:54.720><c> follower</c><00:05:55.120><c> node</c><00:05:55.440><c> has</c><00:05:55.759><c> on</c><00:05:55.919><c> it</c><00:05:56.080><c> locally</c><00:05:56.639><c> to</c>
+
+00:05:56.790 --> 00:05:56.800 align:start position:0%
+each follower node has on it locally to
+ 
+
+00:05:56.800 --> 00:05:58.870 align:start position:0%
+each follower node has on it locally to
+determine<00:05:57.360><c> when</c><00:05:57.520><c> a</c><00:05:57.680><c> leader</c><00:05:58.000><c> is</c><00:05:58.080><c> dead</c><00:05:58.560><c> and</c><00:05:58.720><c> what</c>
+
+00:05:58.870 --> 00:05:58.880 align:start position:0%
+determine when a leader is dead and what
+ 
+
+00:05:58.880 --> 00:06:00.390 align:start position:0%
+determine when a leader is dead and what
+this<00:05:59.039><c> does</c><00:05:59.280><c> is</c><00:05:59.440><c> it</c><00:05:59.520><c> means</c><00:05:59.759><c> that</c><00:05:59.919><c> a</c><00:06:00.000><c> follower</c>
+
+00:06:00.390 --> 00:06:00.400 align:start position:0%
+this does is it means that a follower
+ 
+
+00:06:00.400 --> 00:06:02.150 align:start position:0%
+this does is it means that a follower
+node<00:06:00.639><c> will</c><00:06:00.880><c> typically</c><00:06:01.360><c> you</c><00:06:01.440><c> know</c><00:06:01.680><c> one</c><00:06:01.919><c> might</c>
+
+00:06:02.150 --> 00:06:02.160 align:start position:0%
+node will typically you know one might
+ 
+
+00:06:02.160 --> 00:06:03.749 align:start position:0%
+node will typically you know one might
+go<00:06:02.400><c> off</c><00:06:02.560><c> and</c><00:06:02.639><c> say</c><00:06:02.880><c> oh</c><00:06:03.039><c> i</c><00:06:03.120><c> think</c><00:06:03.280><c> the</c><00:06:03.360><c> leader</c><00:06:03.680><c> is</c>
+
+00:06:03.749 --> 00:06:03.759 align:start position:0%
+go off and say oh i think the leader is
+ 
+
+00:06:03.759 --> 00:06:05.430 align:start position:0%
+go off and say oh i think the leader is
+dead<00:06:04.240><c> and</c><00:06:04.319><c> the</c><00:06:04.560><c> others</c><00:06:04.800><c> will</c><00:06:04.960><c> still</c><00:06:05.199><c> think</c><00:06:05.360><c> the</c>
+
+00:06:05.430 --> 00:06:05.440 align:start position:0%
+dead and the others will still think the
+ 
+
+00:06:05.440 --> 00:06:07.510 align:start position:0%
+dead and the others will still think the
+leader<00:06:05.759><c> is</c><00:06:05.919><c> alive</c><00:06:06.479><c> but</c><00:06:06.720><c> know</c><00:06:06.880><c> that</c><00:06:07.039><c> a</c><00:06:07.120><c> vote</c><00:06:07.360><c> is</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+leader is alive but know that a vote is
+ 
+
+00:06:07.520 --> 00:06:09.590 align:start position:0%
+leader is alive but know that a vote is
+going<00:06:07.840><c> on</c><00:06:08.319><c> so</c><00:06:08.479><c> that</c><00:06:08.720><c> heartbeat</c><00:06:09.120><c> timer</c><00:06:09.440><c> is</c>
+
+00:06:09.590 --> 00:06:09.600 align:start position:0%
+going on so that heartbeat timer is
+ 
+
+00:06:09.600 --> 00:06:11.590 align:start position:0%
+going on so that heartbeat timer is
+going<00:06:09.759><c> to</c><00:06:09.840><c> be</c><00:06:10.000><c> randomized</c><00:06:10.720><c> uniformly</c><00:06:11.360><c> over</c>
+
+00:06:11.590 --> 00:06:11.600 align:start position:0%
+going to be randomized uniformly over
+ 
+
+00:06:11.600 --> 00:06:13.830 align:start position:0%
+going to be randomized uniformly over
+some<00:06:11.759><c> distribution</c><00:06:12.639><c> where</c><00:06:12.800><c> the</c><00:06:12.960><c> distribution</c>
+
+00:06:13.830 --> 00:06:13.840 align:start position:0%
+some distribution where the distribution
+ 
+
+00:06:13.840 --> 00:06:15.830 align:start position:0%
+some distribution where the distribution
+is<00:06:14.080><c> the</c><00:06:14.240><c> length</c><00:06:14.639><c> probably</c><00:06:14.960><c> at</c><00:06:15.120><c> minimum</c><00:06:15.600><c> of</c><00:06:15.759><c> a</c>
+
+00:06:15.830 --> 00:06:15.840 align:start position:0%
+is the length probably at minimum of a
+ 
+
+00:06:15.840 --> 00:06:18.790 align:start position:0%
+is the length probably at minimum of a
+few<00:06:16.080><c> heartbeats</c><00:06:17.039><c> but</c><00:06:17.360><c> also</c><00:06:17.919><c> still</c><00:06:18.319><c> enough</c><00:06:18.639><c> to</c>
+
+00:06:18.790 --> 00:06:18.800 align:start position:0%
+few heartbeats but also still enough to
+ 
+
+00:06:18.800 --> 00:06:20.230 align:start position:0%
+few heartbeats but also still enough to
+make<00:06:18.960><c> sure</c><00:06:19.120><c> that</c><00:06:19.280><c> an</c><00:06:19.440><c> entire</c><00:06:19.840><c> election</c>
+
+00:06:20.230 --> 00:06:20.240 align:start position:0%
+make sure that an entire election
+ 
+
+00:06:20.240 --> 00:06:22.150 align:start position:0%
+make sure that an entire election
+process<00:06:20.639><c> can</c><00:06:20.880><c> ensue</c><00:06:21.440><c> without</c><00:06:21.680><c> some</c><00:06:21.919><c> other</c>
+
+00:06:22.150 --> 00:06:22.160 align:start position:0%
+process can ensue without some other
+ 
+
+00:06:22.160 --> 00:06:23.590 align:start position:0%
+process can ensue without some other
+node<00:06:22.400><c> saying</c><00:06:22.639><c> wait</c><00:06:22.960><c> i</c><00:06:23.039><c> think</c><00:06:23.280><c> i'm</c><00:06:23.440><c> the</c>
+
+00:06:23.590 --> 00:06:23.600 align:start position:0%
+node saying wait i think i'm the
+ 
+
+00:06:23.600 --> 00:06:26.710 align:start position:0%
+node saying wait i think i'm the
+candidate<00:06:24.160><c> and</c><00:06:24.240><c> now</c><00:06:24.479><c> i</c><00:06:24.560><c> want</c><00:06:24.720><c> to</c><00:06:24.800><c> try</c><00:06:25.120><c> myself</c>
+
+00:06:26.710 --> 00:06:26.720 align:start position:0%
+candidate and now i want to try myself
+ 
+
+00:06:26.720 --> 00:06:27.510 align:start position:0%
+candidate and now i want to try myself
+okay
+
+00:06:27.510 --> 00:06:27.520 align:start position:0%
+okay
+ 
+
+00:06:27.520 --> 00:06:29.189 align:start position:0%
+okay
+so<00:06:27.919><c> let's</c><00:06:28.160><c> keep</c><00:06:28.400><c> talking</c><00:06:28.720><c> about</c><00:06:28.960><c> leader</c>
+
+00:06:29.189 --> 00:06:29.199 align:start position:0%
+so let's keep talking about leader
+ 
+
+00:06:29.199 --> 00:06:30.629 align:start position:0%
+so let's keep talking about leader
+election<00:06:29.680><c> because</c><00:06:29.919><c> now</c><00:06:30.080><c> we</c><00:06:30.240><c> have</c><00:06:30.319><c> to</c><00:06:30.400><c> talk</c>
+
+00:06:30.629 --> 00:06:30.639 align:start position:0%
+election because now we have to talk
+ 
+
+00:06:30.639 --> 00:06:32.390 align:start position:0%
+election because now we have to talk
+about<00:06:30.880><c> what</c><00:06:31.039><c> happens</c><00:06:31.360><c> when</c><00:06:31.600><c> a</c><00:06:31.680><c> follower</c><00:06:32.080><c> node</c>
+
+00:06:32.390 --> 00:06:32.400 align:start position:0%
+about what happens when a follower node
+ 
+
+00:06:32.400 --> 00:06:34.469 align:start position:0%
+about what happens when a follower node
+receives<00:06:32.800><c> word</c><00:06:33.199><c> that</c><00:06:33.440><c> a</c><00:06:33.520><c> new</c><00:06:33.759><c> node</c><00:06:34.160><c> is</c><00:06:34.319><c> the</c>
+
+00:06:34.469 --> 00:06:34.479 align:start position:0%
+receives word that a new node is the
+ 
+
+00:06:34.479 --> 00:06:35.510 align:start position:0%
+receives word that a new node is the
+candidate
+
+00:06:35.510 --> 00:06:35.520 align:start position:0%
+candidate
+ 
+
+00:06:35.520 --> 00:06:36.870 align:start position:0%
+candidate
+well<00:06:35.840><c> there</c><00:06:36.000><c> are</c><00:06:36.080><c> a</c><00:06:36.160><c> few</c><00:06:36.319><c> things</c><00:06:36.639><c> that</c><00:06:36.720><c> we</c><00:06:36.800><c> have</c>
+
+00:06:36.870 --> 00:06:36.880 align:start position:0%
+well there are a few things that we have
+ 
+
+00:06:36.880 --> 00:06:39.270 align:start position:0%
+well there are a few things that we have
+to<00:06:37.039><c> check</c><00:06:37.520><c> firstly</c><00:06:38.319><c> if</c><00:06:38.479><c> the</c><00:06:38.560><c> candidate</c><00:06:39.039><c> term</c>
+
+00:06:39.270 --> 00:06:39.280 align:start position:0%
+to check firstly if the candidate term
+ 
+
+00:06:39.280 --> 00:06:40.790 align:start position:0%
+to check firstly if the candidate term
+number<00:06:39.520><c> is</c><00:06:39.680><c> higher</c><00:06:40.000><c> than</c><00:06:40.160><c> the</c><00:06:40.240><c> local</c><00:06:40.560><c> term</c>
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+number is higher than the local term
+ 
+
+00:06:40.800 --> 00:06:42.469 align:start position:0%
+number is higher than the local term
+number
+
+00:06:42.469 --> 00:06:42.479 align:start position:0%
+number
+ 
+
+00:06:42.479 --> 00:06:44.710 align:start position:0%
+number
+the<00:06:42.639><c> local</c><00:06:43.199><c> basically</c><00:06:43.680><c> the</c><00:06:44.080><c> the</c><00:06:44.240><c> follower</c>
+
+00:06:44.710 --> 00:06:44.720 align:start position:0%
+the local basically the the follower
+ 
+
+00:06:44.720 --> 00:06:46.309 align:start position:0%
+the local basically the the follower
+node<00:06:44.960><c> that</c><00:06:45.199><c> is</c><00:06:45.280><c> going</c><00:06:45.520><c> to</c><00:06:45.600><c> receive</c><00:06:46.000><c> the</c><00:06:46.080><c> fact</c>
+
+00:06:46.309 --> 00:06:46.319 align:start position:0%
+node that is going to receive the fact
+ 
+
+00:06:46.319 --> 00:06:48.710 align:start position:0%
+node that is going to receive the fact
+that<00:06:46.400><c> there's</c><00:06:46.639><c> an</c><00:06:46.800><c> election</c><00:06:47.600><c> needs</c><00:06:48.000><c> to</c><00:06:48.400><c> become</c>
+
+00:06:48.710 --> 00:06:48.720 align:start position:0%
+that there's an election needs to become
+ 
+
+00:06:48.720 --> 00:06:51.270 align:start position:0%
+that there's an election needs to become
+a<00:06:48.880><c> follower</c><00:06:49.759><c> and</c><00:06:50.160><c> that's</c><00:06:50.400><c> the</c><00:06:50.479><c> case</c><00:06:50.800><c> even</c><00:06:51.120><c> if</c>
+
+00:06:51.270 --> 00:06:51.280 align:start position:0%
+a follower and that's the case even if
+ 
+
+00:06:51.280 --> 00:06:53.110 align:start position:0%
+a follower and that's the case even if
+that<00:06:51.520><c> node</c><00:06:51.759><c> was</c><00:06:52.000><c> a</c><00:06:52.080><c> leader</c><00:06:52.720><c> and</c><00:06:52.800><c> then</c>
+
+00:06:53.110 --> 00:06:53.120 align:start position:0%
+that node was a leader and then
+ 
+
+00:06:53.120 --> 00:06:54.629 align:start position:0%
+that node was a leader and then
+additionally<00:06:53.599><c> change</c><00:06:53.919><c> their</c><00:06:54.080><c> local</c><00:06:54.400><c> term</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+additionally change their local term
+ 
+
+00:06:54.639 --> 00:06:56.550 align:start position:0%
+additionally change their local term
+number<00:06:54.880><c> to</c><00:06:55.039><c> the</c><00:06:55.199><c> candidate</c><00:06:55.599><c> term</c><00:06:55.840><c> number</c><00:06:56.319><c> now</c>
+
+00:06:56.550 --> 00:06:56.560 align:start position:0%
+number to the candidate term number now
+ 
+
+00:06:56.560 --> 00:06:57.909 align:start position:0%
+number to the candidate term number now
+we're<00:06:56.720><c> saying</c><00:06:56.880><c> okay</c><00:06:57.120><c> we're</c><00:06:57.280><c> moving</c><00:06:57.599><c> on</c><00:06:57.680><c> to</c><00:06:57.840><c> a</c>
+
+00:06:57.909 --> 00:06:57.919 align:start position:0%
+we're saying okay we're moving on to a
+ 
+
+00:06:57.919 --> 00:06:59.510 align:start position:0%
+we're saying okay we're moving on to a
+new<00:06:58.080><c> term</c><00:06:58.400><c> everyone</c><00:06:58.720><c> has</c><00:06:58.880><c> to</c><00:06:59.039><c> update</c><00:06:59.280><c> this</c>
+
+00:06:59.510 --> 00:06:59.520 align:start position:0%
+new term everyone has to update this
+ 
+
+00:06:59.520 --> 00:07:00.469 align:start position:0%
+new term everyone has to update this
+fact
+
+00:07:00.469 --> 00:07:00.479 align:start position:0%
+fact
+ 
+
+00:07:00.479 --> 00:07:01.990 align:start position:0%
+fact
+additionally<00:07:01.199><c> we're</c><00:07:01.360><c> going</c><00:07:01.440><c> to</c><00:07:01.520><c> go</c><00:07:01.599><c> ahead</c><00:07:01.840><c> and</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+additionally we're going to go ahead and
+ 
+
+00:07:02.000 --> 00:07:04.390 align:start position:0%
+additionally we're going to go ahead and
+say<00:07:02.560><c> if</c><00:07:02.639><c> the</c><00:07:02.800><c> candidate</c><00:07:03.280><c> log</c><00:07:03.599><c> is</c><00:07:03.759><c> more</c><00:07:04.080><c> up</c><00:07:04.240><c> to</c>
+
+00:07:04.390 --> 00:07:04.400 align:start position:0%
+say if the candidate log is more up to
+ 
+
+00:07:04.400 --> 00:07:06.390 align:start position:0%
+say if the candidate log is more up to
+date<00:07:04.639><c> than</c><00:07:04.800><c> the</c><00:07:04.880><c> local</c><00:07:05.199><c> log</c><00:07:05.759><c> and</c><00:07:06.080><c> you</c><00:07:06.240><c> know</c>
+
+00:07:06.390 --> 00:07:06.400 align:start position:0%
+date than the local log and you know
+ 
+
+00:07:06.400 --> 00:07:07.909 align:start position:0%
+date than the local log and you know
+i'll<00:07:06.639><c> talk</c><00:07:06.880><c> about</c><00:07:07.120><c> how</c><00:07:07.280><c> you</c><00:07:07.440><c> can</c><00:07:07.680><c> kind</c><00:07:07.840><c> of</c>
+
+00:07:07.909 --> 00:07:07.919 align:start position:0%
+i'll talk about how you can kind of
+ 
+
+00:07:07.919 --> 00:07:09.670 align:start position:0%
+i'll talk about how you can kind of
+determine<00:07:08.319><c> if</c><00:07:08.479><c> a</c><00:07:08.560><c> log</c><00:07:08.880><c> is</c><00:07:08.960><c> more</c><00:07:09.199><c> up</c><00:07:09.360><c> to</c><00:07:09.520><c> date</c>
+
+00:07:09.670 --> 00:07:09.680 align:start position:0%
+determine if a log is more up to date
+ 
+
+00:07:09.680 --> 00:07:11.029 align:start position:0%
+determine if a log is more up to date
+than<00:07:09.840><c> another</c><00:07:10.240><c> because</c><00:07:10.400><c> there</c><00:07:10.560><c> might</c><00:07:10.720><c> even</c><00:07:10.880><c> be</c>
+
+00:07:11.029 --> 00:07:11.039 align:start position:0%
+than another because there might even be
+ 
+
+00:07:11.039 --> 00:07:13.270 align:start position:0%
+than another because there might even be
+conflicts<00:07:11.599><c> there</c><00:07:12.080><c> but</c><00:07:12.319><c> if</c><00:07:12.479><c> the</c><00:07:12.560><c> candidate</c><00:07:13.039><c> log</c>
+
+00:07:13.270 --> 00:07:13.280 align:start position:0%
+conflicts there but if the candidate log
+ 
+
+00:07:13.280 --> 00:07:15.270 align:start position:0%
+conflicts there but if the candidate log
+is<00:07:13.360><c> more</c><00:07:13.599><c> up</c><00:07:13.680><c> to</c><00:07:13.840><c> date</c><00:07:14.000><c> than</c><00:07:14.240><c> the</c><00:07:14.319><c> local</c><00:07:14.639><c> log</c>
+
+00:07:15.270 --> 00:07:15.280 align:start position:0%
+is more up to date than the local log
+ 
+
+00:07:15.280 --> 00:07:17.749 align:start position:0%
+is more up to date than the local log
+and<00:07:15.520><c> the</c><00:07:15.680><c> node</c><00:07:16.240><c> aka</c><00:07:16.720><c> the</c><00:07:16.960><c> the</c><00:07:17.120><c> local</c><00:07:17.440><c> node</c>
+
+00:07:17.749 --> 00:07:17.759 align:start position:0%
+and the node aka the the local node
+ 
+
+00:07:17.759 --> 00:07:19.510 align:start position:0%
+and the node aka the the local node
+hasn't<00:07:18.000><c> voted</c><00:07:18.400><c> for</c><00:07:18.639><c> any</c><00:07:18.800><c> other</c><00:07:19.039><c> candidate</c>
+
+00:07:19.510 --> 00:07:19.520 align:start position:0%
+hasn't voted for any other candidate
+ 
+
+00:07:19.520 --> 00:07:21.749 align:start position:0%
+hasn't voted for any other candidate
+this<00:07:19.759><c> term</c><00:07:20.479><c> and</c><00:07:20.639><c> it</c><00:07:20.800><c> knows</c><00:07:21.039><c> if</c><00:07:21.199><c> it</c><00:07:21.280><c> has</c><00:07:21.520><c> because</c>
+
+00:07:21.749 --> 00:07:21.759 align:start position:0%
+this term and it knows if it has because
+ 
+
+00:07:21.759 --> 00:07:23.270 align:start position:0%
+this term and it knows if it has because
+it's<00:07:21.919><c> kind</c><00:07:22.080><c> of</c><00:07:22.160><c> keeping</c><00:07:22.479><c> track</c><00:07:22.720><c> of</c><00:07:22.880><c> what</c><00:07:23.039><c> term</c>
+
+00:07:23.270 --> 00:07:23.280 align:start position:0%
+it's kind of keeping track of what term
+ 
+
+00:07:23.280 --> 00:07:25.110 align:start position:0%
+it's kind of keeping track of what term
+it<00:07:23.440><c> is</c><00:07:23.599><c> and</c><00:07:23.759><c> what</c><00:07:24.000><c> nodes</c><00:07:24.240><c> it's</c><00:07:24.479><c> voted</c><00:07:24.720><c> for</c><00:07:24.960><c> in</c><00:07:25.039><c> a</c>
+
+00:07:25.110 --> 00:07:25.120 align:start position:0%
+it is and what nodes it's voted for in a
+ 
+
+00:07:25.120 --> 00:07:27.189 align:start position:0%
+it is and what nodes it's voted for in a
+given<00:07:25.360><c> term</c><00:07:26.000><c> the</c><00:07:26.160><c> node</c><00:07:26.400><c> will</c><00:07:26.560><c> reply</c><00:07:26.960><c> saying</c>
+
+00:07:27.189 --> 00:07:27.199 align:start position:0%
+given term the node will reply saying
+ 
+
+00:07:27.199 --> 00:07:29.189 align:start position:0%
+given term the node will reply saying
+that<00:07:27.440><c> okay</c><00:07:27.759><c> you</c><00:07:27.919><c> have</c><00:07:28.160><c> my</c><00:07:28.319><c> vote</c>
+
+00:07:29.189 --> 00:07:29.199 align:start position:0%
+that okay you have my vote
+ 
+
+00:07:29.199 --> 00:07:31.189 align:start position:0%
+that okay you have my vote
+if<00:07:29.360><c> those</c><00:07:29.599><c> conditions</c><00:07:30.080><c> aren't</c><00:07:30.319><c> met</c><00:07:30.639><c> so</c><00:07:30.880><c> either</c>
+
+00:07:31.189 --> 00:07:31.199 align:start position:0%
+if those conditions aren't met so either
+ 
+
+00:07:31.199 --> 00:07:33.029 align:start position:0%
+if those conditions aren't met so either
+the<00:07:31.280><c> candidate</c><00:07:31.680><c> log</c><00:07:32.000><c> is</c><00:07:32.080><c> not</c><00:07:32.400><c> enough</c><00:07:32.800><c> up</c><00:07:32.880><c> to</c>
+
+00:07:33.029 --> 00:07:33.039 align:start position:0%
+the candidate log is not enough up to
+ 
+
+00:07:33.039 --> 00:07:34.469 align:start position:0%
+the candidate log is not enough up to
+date<00:07:33.520><c> or</c>
+
+00:07:34.469 --> 00:07:34.479 align:start position:0%
+date or
+ 
+
+00:07:34.479 --> 00:07:35.830 align:start position:0%
+date or
+the<00:07:34.639><c> node's</c><00:07:34.960><c> already</c><00:07:35.199><c> voted</c><00:07:35.440><c> for</c><00:07:35.599><c> someone</c>
+
+00:07:35.830 --> 00:07:35.840 align:start position:0%
+the node's already voted for someone
+ 
+
+00:07:35.840 --> 00:07:37.029 align:start position:0%
+the node's already voted for someone
+else<00:07:36.080><c> this</c><00:07:36.240><c> term</c>
+
+00:07:37.029 --> 00:07:37.039 align:start position:0%
+else this term
+ 
+
+00:07:37.039 --> 00:07:38.469 align:start position:0%
+else this term
+it<00:07:37.199><c> does</c><00:07:37.360><c> not</c><00:07:37.520><c> vote</c><00:07:37.759><c> for</c><00:07:37.840><c> the</c><00:07:37.919><c> candidate</c><00:07:38.400><c> and</c>
+
+00:07:38.469 --> 00:07:38.479 align:start position:0%
+it does not vote for the candidate and
+ 
+
+00:07:38.479 --> 00:07:40.070 align:start position:0%
+it does not vote for the candidate and
+it<00:07:38.639><c> responds</c><00:07:39.039><c> to</c><00:07:39.199><c> the</c><00:07:39.280><c> candidate</c><00:07:39.680><c> saying</c><00:07:39.919><c> i'm</c>
+
+00:07:40.070 --> 00:07:40.080 align:start position:0%
+it responds to the candidate saying i'm
+ 
+
+00:07:40.080 --> 00:07:41.350 align:start position:0%
+it responds to the candidate saying i'm
+not<00:07:40.240><c> voting</c><00:07:40.560><c> for</c><00:07:40.639><c> you</c>
+
+00:07:41.350 --> 00:07:41.360 align:start position:0%
+not voting for you
+ 
+
+00:07:41.360 --> 00:07:43.029 align:start position:0%
+not voting for you
+so<00:07:41.520><c> once</c><00:07:41.759><c> the</c><00:07:41.840><c> candidate</c><00:07:42.319><c> receives</c><00:07:42.720><c> all</c><00:07:42.880><c> these</c>
+
+00:07:43.029 --> 00:07:43.039 align:start position:0%
+so once the candidate receives all these
+ 
+
+00:07:43.039 --> 00:07:45.270 align:start position:0%
+so once the candidate receives all these
+responses<00:07:43.599><c> it</c><00:07:43.759><c> tallies</c><00:07:44.160><c> them</c><00:07:44.400><c> up</c><00:07:44.960><c> and</c>
+
+00:07:45.270 --> 00:07:45.280 align:start position:0%
+responses it tallies them up and
+ 
+
+00:07:45.280 --> 00:07:47.110 align:start position:0%
+responses it tallies them up and
+basically<00:07:45.680><c> it</c><00:07:45.840><c> says</c><00:07:46.080><c> okay</c><00:07:46.479><c> if</c><00:07:46.639><c> i</c><00:07:46.800><c> reach</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+basically it says okay if i reach
+ 
+
+00:07:47.120 --> 00:07:49.029 align:start position:0%
+basically it says okay if i reach
+two-thirds<00:07:47.680><c> or</c><00:07:48.000><c> not</c><00:07:48.160><c> two-thirds</c><00:07:48.560><c> but</c><00:07:48.720><c> rather</c>
+
+00:07:49.029 --> 00:07:49.039 align:start position:0%
+two-thirds or not two-thirds but rather
+ 
+
+00:07:49.039 --> 00:07:51.270 align:start position:0%
+two-thirds or not two-thirds but rather
+a<00:07:49.120><c> majority</c><00:07:49.919><c> of</c><00:07:50.160><c> nodes</c><00:07:50.479><c> in</c><00:07:50.560><c> the</c><00:07:50.639><c> cluster</c><00:07:51.039><c> if</c><00:07:51.120><c> i</c>
+
+00:07:51.270 --> 00:07:51.280 align:start position:0%
+a majority of nodes in the cluster if i
+ 
+
+00:07:51.280 --> 00:07:52.790 align:start position:0%
+a majority of nodes in the cluster if i
+get<00:07:51.440><c> a</c><00:07:51.520><c> response</c><00:07:52.000><c> saying</c><00:07:52.240><c> that</c><00:07:52.319><c> they</c><00:07:52.479><c> voted</c>
+
+00:07:52.790 --> 00:07:52.800 align:start position:0%
+get a response saying that they voted
+ 
+
+00:07:52.800 --> 00:07:54.950 align:start position:0%
+get a response saying that they voted
+for<00:07:52.960><c> me</c><00:07:53.360><c> i'll</c><00:07:53.520><c> declare</c><00:07:53.919><c> myself</c><00:07:54.240><c> the</c><00:07:54.400><c> leader</c>
+
+00:07:54.950 --> 00:07:54.960 align:start position:0%
+for me i'll declare myself the leader
+ 
+
+00:07:54.960 --> 00:07:56.550 align:start position:0%
+for me i'll declare myself the leader
+otherwise<00:07:55.440><c> we</c><00:07:55.599><c> have</c><00:07:55.680><c> this</c><00:07:55.919><c> concept</c><00:07:56.319><c> of</c><00:07:56.400><c> an</c>
+
+00:07:56.550 --> 00:07:56.560 align:start position:0%
+otherwise we have this concept of an
+ 
+
+00:07:56.560 --> 00:07:58.230 align:start position:0%
+otherwise we have this concept of an
+election<00:07:56.960><c> timeout</c><00:07:57.440><c> and</c><00:07:57.520><c> if</c><00:07:57.599><c> it</c><00:07:57.759><c> doesn't</c><00:07:58.000><c> hear</c>
+
+00:07:58.230 --> 00:07:58.240 align:start position:0%
+election timeout and if it doesn't hear
+ 
+
+00:07:58.240 --> 00:07:59.909 align:start position:0%
+election timeout and if it doesn't hear
+back<00:07:58.400><c> from</c><00:07:58.639><c> all</c><00:07:58.720><c> the</c><00:07:58.800><c> other</c><00:07:59.039><c> nodes</c><00:07:59.520><c> eventually</c>
+
+00:07:59.909 --> 00:07:59.919 align:start position:0%
+back from all the other nodes eventually
+ 
+
+00:07:59.919 --> 00:08:01.510 align:start position:0%
+back from all the other nodes eventually
+it's<00:08:00.080><c> going</c><00:08:00.160><c> to</c><00:08:00.240><c> say</c><00:08:00.560><c> okay</c><00:08:00.800><c> i</c><00:08:00.879><c> give</c><00:08:01.120><c> up</c><00:08:01.280><c> on</c><00:08:01.360><c> this</c>
+
+00:08:01.510 --> 00:08:01.520 align:start position:0%
+it's going to say okay i give up on this
+ 
+
+00:08:01.520 --> 00:08:02.629 align:start position:0%
+it's going to say okay i give up on this
+election
+
+00:08:02.629 --> 00:08:02.639 align:start position:0%
+election
+ 
+
+00:08:02.639 --> 00:08:05.430 align:start position:0%
+election
+okay<00:08:03.360><c> broadcasting</c><00:08:04.000><c> messages</c><00:08:04.720><c> so</c>
+
+00:08:05.430 --> 00:08:05.440 align:start position:0%
+okay broadcasting messages so
+ 
+
+00:08:05.440 --> 00:08:07.510 align:start position:0%
+okay broadcasting messages so
+we<00:08:05.840><c> now</c><00:08:06.080><c> discussed</c><00:08:06.479><c> how</c><00:08:06.639><c> we</c><00:08:06.800><c> have</c><00:08:06.960><c> our</c><00:08:07.120><c> leader</c>
+
+00:08:07.510 --> 00:08:07.520 align:start position:0%
+we now discussed how we have our leader
+ 
+
+00:08:07.520 --> 00:08:09.110 align:start position:0%
+we now discussed how we have our leader
+how's<00:08:07.759><c> the</c><00:08:07.840><c> leader</c><00:08:08.240><c> actually</c><00:08:08.479><c> going</c><00:08:08.720><c> to</c><00:08:08.879><c> pass</c>
+
+00:08:09.110 --> 00:08:09.120 align:start position:0%
+how's the leader actually going to pass
+ 
+
+00:08:09.120 --> 00:08:11.270 align:start position:0%
+how's the leader actually going to pass
+these<00:08:09.360><c> rights</c><00:08:09.680><c> to</c><00:08:09.759><c> the</c><00:08:09.840><c> follower</c><00:08:10.240><c> nodes</c><00:08:11.039><c> well</c>
+
+00:08:11.270 --> 00:08:11.280 align:start position:0%
+these rights to the follower nodes well
+ 
+
+00:08:11.280 --> 00:08:12.790 align:start position:0%
+these rights to the follower nodes well
+the<00:08:11.440><c> leader</c><00:08:11.680><c> is</c><00:08:11.759><c> going</c><00:08:12.000><c> to</c><00:08:12.080><c> receive</c><00:08:12.400><c> a</c><00:08:12.479><c> message</c>
+
+00:08:12.790 --> 00:08:12.800 align:start position:0%
+the leader is going to receive a message
+ 
+
+00:08:12.800 --> 00:08:14.469 align:start position:0%
+the leader is going to receive a message
+to<00:08:12.960><c> broadcast</c><00:08:13.440><c> so</c><00:08:13.520><c> it</c><00:08:13.680><c> might</c><00:08:13.840><c> either</c><00:08:14.160><c> receive</c>
+
+00:08:14.469 --> 00:08:14.479 align:start position:0%
+to broadcast so it might either receive
+ 
+
+00:08:14.479 --> 00:08:16.469 align:start position:0%
+to broadcast so it might either receive
+that<00:08:14.639><c> from</c><00:08:14.800><c> the</c><00:08:14.960><c> client</c><00:08:15.280><c> itself</c><00:08:16.080><c> or</c><00:08:16.319><c> the</c>
+
+00:08:16.469 --> 00:08:16.479 align:start position:0%
+that from the client itself or the
+ 
+
+00:08:16.479 --> 00:08:18.230 align:start position:0%
+that from the client itself or the
+client<00:08:17.280><c> gives</c><00:08:17.520><c> it</c><00:08:17.599><c> to</c><00:08:17.680><c> one</c><00:08:17.840><c> of</c><00:08:17.919><c> the</c><00:08:18.080><c> other</c>
+
+00:08:18.230 --> 00:08:18.240 align:start position:0%
+client gives it to one of the other
+ 
+
+00:08:18.240 --> 00:08:19.749 align:start position:0%
+client gives it to one of the other
+nodes<00:08:18.560><c> and</c><00:08:18.639><c> the</c><00:08:18.720><c> other</c><00:08:18.879><c> nodes</c><00:08:19.199><c> passes</c><00:08:19.520><c> it</c><00:08:19.599><c> to</c>
+
+00:08:19.749 --> 00:08:19.759 align:start position:0%
+nodes and the other nodes passes it to
+ 
+
+00:08:19.759 --> 00:08:21.749 align:start position:0%
+nodes and the other nodes passes it to
+the<00:08:19.840><c> leader</c><00:08:20.160><c> via</c><00:08:20.479><c> a</c><00:08:20.560><c> fifo</c><00:08:20.960><c> channel</c><00:08:21.360><c> so</c><00:08:21.520><c> we</c><00:08:21.599><c> make</c>
+
+00:08:21.749 --> 00:08:21.759 align:start position:0%
+the leader via a fifo channel so we make
+ 
+
+00:08:21.759 --> 00:08:23.510 align:start position:0%
+the leader via a fifo channel so we make
+sure<00:08:22.400><c> all</c><00:08:22.479><c> those</c><00:08:22.639><c> messages</c><00:08:23.120><c> are</c><00:08:23.199><c> coming</c><00:08:23.440><c> in</c>
+
+00:08:23.510 --> 00:08:23.520 align:start position:0%
+sure all those messages are coming in
+ 
+
+00:08:23.520 --> 00:08:25.029 align:start position:0%
+sure all those messages are coming in
+the<00:08:23.599><c> same</c><00:08:23.840><c> order</c>
+
+00:08:25.029 --> 00:08:25.039 align:start position:0%
+the same order
+ 
+
+00:08:25.039 --> 00:08:26.629 align:start position:0%
+the same order
+and<00:08:25.120><c> then</c><00:08:25.280><c> it's</c><00:08:25.440><c> going</c><00:08:25.520><c> to</c><00:08:25.759><c> go</c><00:08:26.000><c> ahead</c><00:08:26.319><c> and</c><00:08:26.479><c> add</c>
+
+00:08:26.629 --> 00:08:26.639 align:start position:0%
+and then it's going to go ahead and add
+ 
+
+00:08:26.639 --> 00:08:29.110 align:start position:0%
+and then it's going to go ahead and add
+it<00:08:26.800><c> to</c><00:08:27.039><c> its</c><00:08:27.280><c> local</c><00:08:27.599><c> log</c><00:08:28.160><c> but</c><00:08:28.400><c> also</c><00:08:28.720><c> make</c><00:08:28.879><c> sure</c>
+
+00:08:29.110 --> 00:08:29.120 align:start position:0%
+it to its local log but also make sure
+ 
+
+00:08:29.120 --> 00:08:30.790 align:start position:0%
+it to its local log but also make sure
+not<00:08:29.280><c> to</c><00:08:29.440><c> commit</c><00:08:29.759><c> it</c><00:08:29.919><c> what</c><00:08:30.080><c> that</c><00:08:30.319><c> means</c><00:08:30.560><c> is</c><00:08:30.639><c> that</c>
+
+00:08:30.790 --> 00:08:30.800 align:start position:0%
+not to commit it what that means is that
+ 
+
+00:08:30.800 --> 00:08:32.149 align:start position:0%
+not to commit it what that means is that
+even<00:08:30.960><c> though</c><00:08:31.120><c> the</c><00:08:31.199><c> message</c><00:08:31.599><c> is</c><00:08:31.680><c> in</c><00:08:31.759><c> the</c><00:08:31.919><c> log</c>
+
+00:08:32.149 --> 00:08:32.159 align:start position:0%
+even though the message is in the log
+ 
+
+00:08:32.159 --> 00:08:34.070 align:start position:0%
+even though the message is in the log
+the<00:08:32.320><c> database</c><00:08:32.880><c> part</c><00:08:33.200><c> can't</c><00:08:33.519><c> actually</c><00:08:33.839><c> see</c><00:08:34.000><c> the</c>
+
+00:08:34.070 --> 00:08:34.080 align:start position:0%
+the database part can't actually see the
+ 
+
+00:08:34.080 --> 00:08:35.909 align:start position:0%
+the database part can't actually see the
+message<00:08:34.399><c> and</c><00:08:34.479><c> won't</c><00:08:34.719><c> make</c><00:08:34.880><c> the</c><00:08:35.039><c> change</c><00:08:35.839><c> and</c>
+
+00:08:35.909 --> 00:08:35.919 align:start position:0%
+message and won't make the change and
+ 
+
+00:08:35.919 --> 00:08:37.750 align:start position:0%
+message and won't make the change and
+it's<00:08:36.159><c> going</c><00:08:36.320><c> to</c><00:08:36.399><c> go</c><00:08:36.560><c> ahead</c><00:08:36.959><c> and</c><00:08:37.200><c> send</c><00:08:37.440><c> it</c><00:08:37.599><c> to</c>
+
+00:08:37.750 --> 00:08:37.760 align:start position:0%
+it's going to go ahead and send it to
+ 
+
+00:08:37.760 --> 00:08:39.350 align:start position:0%
+it's going to go ahead and send it to
+all<00:08:37.919><c> the</c><00:08:38.080><c> other</c><00:08:38.320><c> nodes</c>
+
+00:08:39.350 --> 00:08:39.360 align:start position:0%
+all the other nodes
+ 
+
+00:08:39.360 --> 00:08:41.029 align:start position:0%
+all the other nodes
+via<00:08:39.680><c> a</c><00:08:39.839><c> function</c><00:08:40.159><c> which</c><00:08:40.399><c> for</c><00:08:40.560><c> now</c><00:08:40.800><c> i'm</c><00:08:40.959><c> just</c>
+
+00:08:41.029 --> 00:08:41.039 align:start position:0%
+via a function which for now i'm just
+ 
+
+00:08:41.039 --> 00:08:42.870 align:start position:0%
+via a function which for now i'm just
+going<00:08:41.120><c> to</c><00:08:41.200><c> call</c><00:08:41.440><c> replicate</c><00:08:42.000><c> log</c>
+
+00:08:42.870 --> 00:08:42.880 align:start position:0%
+going to call replicate log
+ 
+
+00:08:42.880 --> 00:08:45.030 align:start position:0%
+going to call replicate log
+and<00:08:43.039><c> then</c><00:08:43.440><c> additionally</c><00:08:44.080><c> replicate</c><00:08:44.640><c> log</c><00:08:44.959><c> is</c>
+
+00:08:45.030 --> 00:08:45.040 align:start position:0%
+and then additionally replicate log is
+ 
+
+00:08:45.040 --> 00:08:47.350 align:start position:0%
+and then additionally replicate log is
+going<00:08:45.200><c> to</c><00:08:45.279><c> be</c><00:08:45.440><c> called</c><00:08:45.760><c> periodically</c><00:08:46.880><c> so</c><00:08:47.120><c> that</c>
+
+00:08:47.350 --> 00:08:47.360 align:start position:0%
+going to be called periodically so that
+ 
+
+00:08:47.360 --> 00:08:49.750 align:start position:0%
+going to be called periodically so that
+kind<00:08:47.600><c> of</c><00:08:47.760><c> acts</c><00:08:48.160><c> as</c><00:08:48.399><c> the</c><00:08:48.560><c> heartbeat</c><00:08:49.360><c> that</c><00:08:49.600><c> a</c>
+
+00:08:49.750 --> 00:08:49.760 align:start position:0%
+kind of acts as the heartbeat that a
+ 
+
+00:08:49.760 --> 00:08:51.350 align:start position:0%
+kind of acts as the heartbeat that a
+leader<00:08:50.080><c> sends</c><00:08:50.320><c> to</c><00:08:50.480><c> follower</c><00:08:50.880><c> nodes</c><00:08:51.200><c> in</c><00:08:51.279><c> the</c>
+
+00:08:51.350 --> 00:08:51.360 align:start position:0%
+leader sends to follower nodes in the
+ 
+
+00:08:51.360 --> 00:08:53.110 align:start position:0%
+leader sends to follower nodes in the
+event<00:08:51.680><c> that</c><00:08:52.000><c> another</c><00:08:52.320><c> election</c><00:08:52.720><c> needs</c><00:08:52.959><c> to</c>
+
+00:08:53.110 --> 00:08:53.120 align:start position:0%
+event that another election needs to
+ 
+
+00:08:53.120 --> 00:08:55.750 align:start position:0%
+event that another election needs to
+happen<00:08:54.000><c> and</c><00:08:54.080><c> then</c><00:08:54.320><c> finally</c><00:08:55.040><c> it</c><00:08:55.200><c> also</c><00:08:55.440><c> helps</c>
+
+00:08:55.750 --> 00:08:55.760 align:start position:0%
+happen and then finally it also helps
+ 
+
+00:08:55.760 --> 00:08:57.350 align:start position:0%
+happen and then finally it also helps
+that<00:08:55.839><c> replicate</c><00:08:56.320><c> log</c><00:08:56.640><c> is</c><00:08:56.720><c> periodically</c>
+
+00:08:57.350 --> 00:08:57.360 align:start position:0%
+that replicate log is periodically
+ 
+
+00:08:57.360 --> 00:08:59.509 align:start position:0%
+that replicate log is periodically
+called<00:08:57.839><c> so</c><00:08:58.000><c> the</c><00:08:58.160><c> leader</c><00:08:58.480><c> can</c><00:08:58.800><c> alert</c><00:08:59.120><c> the</c><00:08:59.279><c> other</c>
+
+00:08:59.509 --> 00:08:59.519 align:start position:0%
+called so the leader can alert the other
+ 
+
+00:08:59.519 --> 00:09:01.350 align:start position:0%
+called so the leader can alert the other
+nodes<00:09:00.000><c> if</c><00:09:00.160><c> there</c><00:09:00.320><c> are</c><00:09:00.399><c> any</c><00:09:00.560><c> new</c><00:09:00.800><c> messages</c><00:09:01.200><c> to</c>
+
+00:09:01.350 --> 00:09:01.360 align:start position:0%
+nodes if there are any new messages to
+ 
+
+00:09:01.360 --> 00:09:02.710 align:start position:0%
+nodes if there are any new messages to
+actually<00:09:01.600><c> commit</c><00:09:02.000><c> which</c><00:09:02.160><c> means</c><00:09:02.480><c> you</c><00:09:02.560><c> know</c>
+
+00:09:02.710 --> 00:09:02.720 align:start position:0%
+actually commit which means you know
+ 
+
+00:09:02.720 --> 00:09:04.710 align:start position:0%
+actually commit which means you know
+tell<00:09:02.959><c> the</c><00:09:03.040><c> database</c><00:09:03.600><c> hey</c><00:09:03.920><c> this</c><00:09:04.160><c> is</c><00:09:04.240><c> a</c><00:09:04.320><c> valid</c>
+
+00:09:04.710 --> 00:09:04.720 align:start position:0%
+tell the database hey this is a valid
+ 
+
+00:09:04.720 --> 00:09:07.030 align:start position:0%
+tell the database hey this is a valid
+write<00:09:05.440><c> okay</c>
+
+00:09:07.030 --> 00:09:07.040 align:start position:0%
+write okay
+ 
+
+00:09:07.040 --> 00:09:09.030 align:start position:0%
+write okay
+so<00:09:07.279><c> let's</c><00:09:07.519><c> talk</c><00:09:07.760><c> about</c><00:09:08.000><c> this</c><00:09:08.240><c> replicate</c><00:09:08.720><c> log</c>
+
+00:09:09.030 --> 00:09:09.040 align:start position:0%
+so let's talk about this replicate log
+ 
+
+00:09:09.040 --> 00:09:10.230 align:start position:0%
+so let's talk about this replicate log
+function<00:09:09.440><c> because</c><00:09:09.680><c> this</c><00:09:09.839><c> is</c><00:09:10.000><c> pretty</c>
+
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+function because this is pretty
+ 
+
+00:09:10.240 --> 00:09:11.350 align:start position:0%
+function because this is pretty
+important
+
+00:09:11.350 --> 00:09:11.360 align:start position:0%
+important
+ 
+
+00:09:11.360 --> 00:09:13.110 align:start position:0%
+important
+because<00:09:11.600><c> this</c><00:09:11.839><c> is</c><00:09:11.920><c> kind</c><00:09:12.160><c> of</c><00:09:12.320><c> like</c><00:09:12.560><c> why</c><00:09:12.800><c> raft</c>
+
+00:09:13.110 --> 00:09:13.120 align:start position:0%
+because this is kind of like why raft
+ 
+
+00:09:13.120 --> 00:09:15.190 align:start position:0%
+because this is kind of like why raft
+works<00:09:13.839><c> so</c><00:09:14.080><c> for</c><00:09:14.240><c> each</c><00:09:14.480><c> node</c><00:09:14.800><c> what's</c><00:09:15.040><c> going</c><00:09:15.120><c> to</c>
+
+00:09:15.190 --> 00:09:15.200 align:start position:0%
+works so for each node what's going to
+ 
+
+00:09:15.200 --> 00:09:18.070 align:start position:0%
+works so for each node what's going to
+happen<00:09:15.600><c> is</c><00:09:15.680><c> this</c><00:09:16.000><c> the</c><00:09:16.160><c> leader</c><00:09:16.480><c> has</c><00:09:16.959><c> its</c><00:09:17.680><c> local</c>
+
+00:09:18.070 --> 00:09:18.080 align:start position:0%
+happen is this the leader has its local
+ 
+
+00:09:18.080 --> 00:09:20.790 align:start position:0%
+happen is this the leader has its local
+copy<00:09:18.399><c> of</c><00:09:18.480><c> the</c><00:09:18.640><c> log</c><00:09:19.360><c> and</c><00:09:19.519><c> for</c><00:09:19.760><c> that</c><00:09:19.920><c> local</c><00:09:20.320><c> copy</c>
+
+00:09:20.790 --> 00:09:20.800 align:start position:0%
+copy of the log and for that local copy
+ 
+
+00:09:20.800 --> 00:09:23.030 align:start position:0%
+copy of the log and for that local copy
+the<00:09:20.959><c> leader</c><00:09:21.360><c> is</c><00:09:21.440><c> now</c><00:09:21.839><c> keeping</c><00:09:22.240><c> track</c><00:09:22.640><c> of</c><00:09:22.880><c> every</c>
+
+00:09:23.030 --> 00:09:23.040 align:start position:0%
+the leader is now keeping track of every
+ 
+
+00:09:23.040 --> 00:09:25.190 align:start position:0%
+the leader is now keeping track of every
+single<00:09:23.360><c> follower</c><00:09:24.080><c> and</c><00:09:24.240><c> how</c><00:09:24.399><c> many</c><00:09:24.640><c> messages</c>
+
+00:09:25.190 --> 00:09:25.200 align:start position:0%
+single follower and how many messages
+ 
+
+00:09:25.200 --> 00:09:27.030 align:start position:0%
+single follower and how many messages
+that<00:09:25.360><c> it's</c><00:09:25.600><c> sent</c><00:09:25.839><c> to</c><00:09:26.000><c> the</c><00:09:26.080><c> follower</c><00:09:26.720><c> and</c><00:09:26.880><c> how</c>
+
+00:09:27.030 --> 00:09:27.040 align:start position:0%
+that it's sent to the follower and how
+ 
+
+00:09:27.040 --> 00:09:28.630 align:start position:0%
+that it's sent to the follower and how
+many<00:09:27.279><c> messages</c><00:09:27.760><c> that</c><00:09:27.839><c> the</c><00:09:28.000><c> follower</c><00:09:28.399><c> has</c>
+
+00:09:28.630 --> 00:09:28.640 align:start position:0%
+many messages that the follower has
+ 
+
+00:09:28.640 --> 00:09:30.150 align:start position:0%
+many messages that the follower has
+acknowledged<00:09:29.200><c> that</c><00:09:29.360><c> they've</c><00:09:29.600><c> received</c><00:09:30.000><c> from</c>
+
+00:09:30.150 --> 00:09:30.160 align:start position:0%
+acknowledged that they've received from
+ 
+
+00:09:30.160 --> 00:09:32.230 align:start position:0%
+acknowledged that they've received from
+the<00:09:30.320><c> leader</c><00:09:30.959><c> and</c><00:09:31.200><c> using</c><00:09:31.440><c> this</c><00:09:31.680><c> it</c><00:09:31.760><c> can</c><00:09:31.920><c> try</c><00:09:32.160><c> and</c>
+
+00:09:32.230 --> 00:09:32.240 align:start position:0%
+the leader and using this it can try and
+ 
+
+00:09:32.240 --> 00:09:34.470 align:start position:0%
+the leader and using this it can try and
+determine<00:09:33.120><c> which</c><00:09:33.360><c> messages</c><00:09:33.839><c> the</c><00:09:34.000><c> follower</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+determine which messages the follower
+ 
+
+00:09:34.480 --> 00:09:37.590 align:start position:0%
+determine which messages the follower
+has<00:09:34.880><c> on</c><00:09:35.120><c> hand</c><00:09:35.839><c> which</c><00:09:36.160><c> it'll</c><00:09:36.399><c> call</c><00:09:36.640><c> a</c><00:09:36.800><c> prefix</c>
+
+00:09:37.590 --> 00:09:37.600 align:start position:0%
+has on hand which it'll call a prefix
+ 
+
+00:09:37.600 --> 00:09:39.110 align:start position:0%
+has on hand which it'll call a prefix
+and<00:09:37.760><c> then</c><00:09:38.000><c> all</c><00:09:38.160><c> of</c><00:09:38.240><c> the</c><00:09:38.320><c> new</c><00:09:38.560><c> messages</c><00:09:38.959><c> that</c>
+
+00:09:39.110 --> 00:09:39.120 align:start position:0%
+and then all of the new messages that
+ 
+
+00:09:39.120 --> 00:09:40.949 align:start position:0%
+and then all of the new messages that
+the<00:09:39.279><c> leader</c><00:09:39.519><c> contains</c><00:09:40.080><c> but</c><00:09:40.399><c> they</c><00:09:40.560><c> assume</c><00:09:40.880><c> the</c>
+
+00:09:40.949 --> 00:09:40.959 align:start position:0%
+the leader contains but they assume the
+ 
+
+00:09:40.959 --> 00:09:42.949 align:start position:0%
+the leader contains but they assume the
+follower<00:09:41.440><c> doesn't</c><00:09:41.680><c> contain</c><00:09:42.399><c> is</c><00:09:42.560><c> called</c><00:09:42.800><c> the</c>
+
+00:09:42.949 --> 00:09:42.959 align:start position:0%
+follower doesn't contain is called the
+ 
+
+00:09:42.959 --> 00:09:45.509 align:start position:0%
+follower doesn't contain is called the
+suffix<00:09:43.760><c> so</c><00:09:43.920><c> what</c><00:09:44.080><c> it's</c><00:09:44.240><c> going</c><00:09:44.399><c> to</c><00:09:44.560><c> do</c><00:09:44.880><c> is</c><00:09:45.120><c> send</c>
+
+00:09:45.509 --> 00:09:45.519 align:start position:0%
+suffix so what it's going to do is send
+ 
+
+00:09:45.519 --> 00:09:47.350 align:start position:0%
+suffix so what it's going to do is send
+all<00:09:45.760><c> of</c><00:09:45.839><c> the</c><00:09:45.920><c> messages</c>
+
+00:09:47.350 --> 00:09:47.360 align:start position:0%
+all of the messages
+ 
+
+00:09:47.360 --> 00:09:49.269 align:start position:0%
+all of the messages
+from<00:09:47.600><c> the</c><00:09:47.760><c> suffix</c><00:09:48.240><c> so</c><00:09:48.399><c> new</c><00:09:48.640><c> messages</c><00:09:49.120><c> that</c>
+
+00:09:49.269 --> 00:09:49.279 align:start position:0%
+from the suffix so new messages that
+ 
+
+00:09:49.279 --> 00:09:50.630 align:start position:0%
+from the suffix so new messages that
+they<00:09:49.440><c> assume</c><00:09:49.680><c> the</c><00:09:49.839><c> follower</c><00:09:50.240><c> doesn't</c><00:09:50.480><c> yet</c>
+
+00:09:50.630 --> 00:09:50.640 align:start position:0%
+they assume the follower doesn't yet
+ 
+
+00:09:50.640 --> 00:09:52.070 align:start position:0%
+they assume the follower doesn't yet
+have
+
+00:09:52.070 --> 00:09:52.080 align:start position:0%
+have
+ 
+
+00:09:52.080 --> 00:09:54.389 align:start position:0%
+have
+to<00:09:52.320><c> that</c><00:09:52.480><c> follower</c><00:09:53.360><c> and</c><00:09:53.600><c> in</c><00:09:53.760><c> addition</c><00:09:54.160><c> it's</c>
+
+00:09:54.389 --> 00:09:54.399 align:start position:0%
+to that follower and in addition it's
+ 
+
+00:09:54.399 --> 00:09:56.630 align:start position:0%
+to that follower and in addition it's
+going<00:09:54.560><c> to</c><00:09:54.800><c> send</c><00:09:55.200><c> the</c><00:09:55.360><c> term</c><00:09:55.680><c> number</c>
+
+00:09:56.630 --> 00:09:56.640 align:start position:0%
+going to send the term number
+ 
+
+00:09:56.640 --> 00:09:58.710 align:start position:0%
+going to send the term number
+of<00:09:56.880><c> the</c><00:09:57.040><c> last</c><00:09:57.440><c> entry</c><00:09:57.760><c> of</c><00:09:57.920><c> the</c><00:09:58.000><c> prefix</c><00:09:58.480><c> so</c><00:09:58.560><c> i'm</c>
+
+00:09:58.710 --> 00:09:58.720 align:start position:0%
+of the last entry of the prefix so i'm
+ 
+
+00:09:58.720 --> 00:10:00.230 align:start position:0%
+of the last entry of the prefix so i'm
+going<00:09:58.800><c> to</c><00:09:58.880><c> explain</c><00:09:59.279><c> why</c><00:09:59.519><c> it</c><00:09:59.600><c> does</c><00:09:59.839><c> that</c><00:10:00.000><c> in</c><00:10:00.160><c> a</c>
+
+00:10:00.230 --> 00:10:00.240 align:start position:0%
+going to explain why it does that in a
+ 
+
+00:10:00.240 --> 00:10:01.350 align:start position:0%
+going to explain why it does that in a
+second
+
+00:10:01.350 --> 00:10:01.360 align:start position:0%
+second
+ 
+
+00:10:01.360 --> 00:10:03.430 align:start position:0%
+second
+another<00:10:01.680><c> thing</c><00:10:01.839><c> to</c><00:10:02.000><c> note</c><00:10:02.240><c> is</c><00:10:02.399><c> that</c><00:10:02.959><c> the</c><00:10:03.120><c> leader</c>
+
+00:10:03.430 --> 00:10:03.440 align:start position:0%
+another thing to note is that the leader
+ 
+
+00:10:03.440 --> 00:10:04.949 align:start position:0%
+another thing to note is that the leader
+is<00:10:03.519><c> not</c><00:10:03.760><c> always</c><00:10:04.160><c> right</c><00:10:04.399><c> about</c><00:10:04.640><c> what</c><00:10:04.800><c> the</c>
+
+00:10:04.949 --> 00:10:04.959 align:start position:0%
+is not always right about what the
+ 
+
+00:10:04.959 --> 00:10:07.110 align:start position:0%
+is not always right about what the
+prefix<00:10:05.360><c> and</c><00:10:05.440><c> the</c><00:10:05.519><c> suffix</c><00:10:05.920><c> are</c><00:10:06.079><c> for</c><00:10:06.240><c> each</c><00:10:06.480><c> note</c>
+
+00:10:07.110 --> 00:10:07.120 align:start position:0%
+prefix and the suffix are for each note
+ 
+
+00:10:07.120 --> 00:10:09.509 align:start position:0%
+prefix and the suffix are for each note
+it<00:10:07.279><c> might</c><00:10:07.440><c> be</c><00:10:07.600><c> the</c><00:10:07.760><c> case</c><00:10:08.079><c> that</c><00:10:08.800><c> a</c><00:10:09.120><c> certain</c>
+
+00:10:09.509 --> 00:10:09.519 align:start position:0%
+it might be the case that a certain
+ 
+
+00:10:09.519 --> 00:10:11.590 align:start position:0%
+it might be the case that a certain
+follower<00:10:09.920><c> node</c><00:10:10.240><c> has</c><00:10:10.640><c> less</c><00:10:10.959><c> of</c><00:10:11.040><c> the</c><00:10:11.200><c> correct</c>
+
+00:10:11.590 --> 00:10:11.600 align:start position:0%
+follower node has less of the correct
+ 
+
+00:10:11.600 --> 00:10:13.269 align:start position:0%
+follower node has less of the correct
+messages<00:10:12.079><c> in</c><00:10:12.240><c> its</c><00:10:12.399><c> log</c><00:10:12.640><c> than</c><00:10:12.800><c> the</c><00:10:12.959><c> leader</c>
+
+00:10:13.269 --> 00:10:13.279 align:start position:0%
+messages in its log than the leader
+ 
+
+00:10:13.279 --> 00:10:14.949 align:start position:0%
+messages in its log than the leader
+originally<00:10:13.760><c> thought</c><00:10:14.320><c> and</c><00:10:14.560><c> if</c><00:10:14.640><c> that's</c><00:10:14.880><c> the</c>
+
+00:10:14.949 --> 00:10:14.959 align:start position:0%
+originally thought and if that's the
+ 
+
+00:10:14.959 --> 00:10:17.269 align:start position:0%
+originally thought and if that's the
+case<00:10:15.279><c> it's</c><00:10:15.440><c> going</c><00:10:15.519><c> to</c><00:10:15.600><c> have</c><00:10:15.760><c> to</c><00:10:15.839><c> go</c><00:10:16.079><c> back</c><00:10:16.800><c> and</c>
+
+00:10:17.269 --> 00:10:17.279 align:start position:0%
+case it's going to have to go back and
+ 
+
+00:10:17.279 --> 00:10:18.790 align:start position:0%
+case it's going to have to go back and
+make<00:10:17.519><c> further</c><00:10:17.839><c> changes</c><00:10:18.240><c> so</c><00:10:18.320><c> i'll</c><00:10:18.480><c> explain</c>
+
+00:10:18.790 --> 00:10:18.800 align:start position:0%
+make further changes so i'll explain
+ 
+
+00:10:18.800 --> 00:10:21.030 align:start position:0%
+make further changes so i'll explain
+that<00:10:18.959><c> in</c><00:10:19.040><c> a</c><00:10:19.120><c> bit</c><00:10:19.680><c> but</c><00:10:19.920><c> right</c><00:10:20.160><c> now</c><00:10:20.640><c> all</c><00:10:20.800><c> that's</c>
+
+00:10:21.030 --> 00:10:21.040 align:start position:0%
+that in a bit but right now all that's
+ 
+
+00:10:21.040 --> 00:10:22.389 align:start position:0%
+that in a bit but right now all that's
+important<00:10:21.440><c> is</c><00:10:21.600><c> we're</c><00:10:21.839><c> going</c><00:10:22.000><c> ahead</c><00:10:22.240><c> and</c>
+
+00:10:22.389 --> 00:10:22.399 align:start position:0%
+important is we're going ahead and
+ 
+
+00:10:22.399 --> 00:10:23.990 align:start position:0%
+important is we're going ahead and
+sending<00:10:22.720><c> those</c><00:10:22.880><c> suffix</c><00:10:23.279><c> messages</c><00:10:23.760><c> to</c><00:10:23.839><c> be</c>
+
+00:10:23.990 --> 00:10:24.000 align:start position:0%
+sending those suffix messages to be
+ 
+
+00:10:24.000 --> 00:10:26.069 align:start position:0%
+sending those suffix messages to be
+appended<00:10:24.480><c> on</c><00:10:24.640><c> the</c><00:10:24.720><c> follower</c><00:10:25.440><c> and</c><00:10:25.519><c> we're</c><00:10:25.760><c> also</c>
+
+00:10:26.069 --> 00:10:26.079 align:start position:0%
+appended on the follower and we're also
+ 
+
+00:10:26.079 --> 00:10:28.069 align:start position:0%
+appended on the follower and we're also
+sending<00:10:26.560><c> the</c><00:10:26.720><c> term</c><00:10:26.959><c> number</c><00:10:27.360><c> of</c><00:10:27.440><c> the</c><00:10:27.600><c> last</c>
+
+00:10:28.069 --> 00:10:28.079 align:start position:0%
+sending the term number of the last
+ 
+
+00:10:28.079 --> 00:10:30.550 align:start position:0%
+sending the term number of the last
+entry<00:10:28.560><c> of</c><00:10:28.880><c> the</c><00:10:28.959><c> prefix</c><00:10:29.839><c> why</c><00:10:30.079><c> are</c><00:10:30.160><c> we</c><00:10:30.320><c> sending</c>
+
+00:10:30.550 --> 00:10:30.560 align:start position:0%
+entry of the prefix why are we sending
+ 
+
+00:10:30.560 --> 00:10:31.990 align:start position:0%
+entry of the prefix why are we sending
+that<00:10:30.720><c> term</c><00:10:30.959><c> number</c><00:10:31.200><c> of</c><00:10:31.360><c> the</c><00:10:31.440><c> last</c><00:10:31.680><c> entry</c><00:10:31.920><c> of</c>
+
+00:10:31.990 --> 00:10:32.000 align:start position:0%
+that term number of the last entry of
+ 
+
+00:10:32.000 --> 00:10:34.230 align:start position:0%
+that term number of the last entry of
+the<00:10:32.079><c> prefix</c><00:10:33.040><c> well</c><00:10:33.279><c> because</c><00:10:33.600><c> there</c><00:10:33.920><c> is</c><00:10:34.079><c> an</c>
+
+00:10:34.230 --> 00:10:34.240 align:start position:0%
+the prefix well because there is an
+ 
+
+00:10:34.240 --> 00:10:36.389 align:start position:0%
+the prefix well because there is an
+invariant<00:10:34.959><c> about</c><00:10:35.279><c> every</c><00:10:35.519><c> single</c><00:10:35.839><c> replicated</c>
+
+00:10:36.389 --> 00:10:36.399 align:start position:0%
+invariant about every single replicated
+ 
+
+00:10:36.399 --> 00:10:39.110 align:start position:0%
+invariant about every single replicated
+log<00:10:36.640><c> in</c><00:10:36.800><c> raft</c><00:10:37.440><c> which</c><00:10:37.680><c> basically</c><00:10:38.160><c> says</c><00:10:38.399><c> this</c><00:10:39.040><c> if</c>
+
+00:10:39.110 --> 00:10:39.120 align:start position:0%
+log in raft which basically says this if
+ 
+
+00:10:39.120 --> 00:10:41.190 align:start position:0%
+log in raft which basically says this if
+the<00:10:39.279><c> logs</c><00:10:39.600><c> on</c><00:10:39.760><c> two</c><00:10:39.920><c> replicas</c><00:10:40.560><c> have</c><00:10:40.800><c> the</c><00:10:40.880><c> same</c>
+
+00:10:41.190 --> 00:10:41.200 align:start position:0%
+the logs on two replicas have the same
+ 
+
+00:10:41.200 --> 00:10:43.590 align:start position:0%
+the logs on two replicas have the same
+term<00:10:41.440><c> number</c><00:10:41.839><c> at</c><00:10:41.920><c> the</c><00:10:42.000><c> same</c><00:10:42.399><c> index</c><00:10:42.720><c> in</c><00:10:42.880><c> the</c><00:10:42.959><c> log</c>
+
+00:10:43.590 --> 00:10:43.600 align:start position:0%
+term number at the same index in the log
+ 
+
+00:10:43.600 --> 00:10:45.030 align:start position:0%
+term number at the same index in the log
+they<00:10:43.760><c> must</c><00:10:44.000><c> be</c><00:10:44.160><c> the</c><00:10:44.240><c> same</c><00:10:44.640><c> up</c><00:10:44.720><c> to</c><00:10:44.880><c> and</c>
+
+00:10:45.030 --> 00:10:45.040 align:start position:0%
+they must be the same up to and
+ 
+
+00:10:45.040 --> 00:10:47.030 align:start position:0%
+they must be the same up to and
+including<00:10:45.360><c> that</c><00:10:45.600><c> index</c><00:10:46.320><c> so</c><00:10:46.480><c> looking</c><00:10:46.800><c> here</c><00:10:46.959><c> at</c>
+
+00:10:47.030 --> 00:10:47.040 align:start position:0%
+including that index so looking here at
+ 
+
+00:10:47.040 --> 00:10:49.350 align:start position:0%
+including that index so looking here at
+these<00:10:47.200><c> two</c><00:10:47.600><c> database</c><00:10:48.079><c> replicas</c><00:10:48.880><c> as</c><00:10:49.120><c> you</c><00:10:49.200><c> can</c>
+
+00:10:49.350 --> 00:10:49.360 align:start position:0%
+these two database replicas as you can
+ 
+
+00:10:49.360 --> 00:10:51.829 align:start position:0%
+these two database replicas as you can
+see<00:10:49.600><c> in</c><00:10:49.839><c> index</c><00:10:50.240><c> two</c><00:10:50.800><c> assuming</c><00:10:51.200><c> this</c><00:10:51.279><c> is</c><00:10:51.440><c> a</c><00:10:51.519><c> zero</c>
+
+00:10:51.829 --> 00:10:51.839 align:start position:0%
+see in index two assuming this is a zero
+ 
+
+00:10:51.839 --> 00:10:54.389 align:start position:0%
+see in index two assuming this is a zero
+index<00:10:52.240><c> log</c><00:10:52.800><c> we</c><00:10:52.959><c> have</c><00:10:53.120><c> the</c><00:10:53.279><c> entry</c><00:10:53.760><c> c</c><00:10:54.079><c> for</c><00:10:54.240><c> the</c>
+
+00:10:54.389 --> 00:10:54.399 align:start position:0%
+index log we have the entry c for the
+ 
+
+00:10:54.399 --> 00:10:56.470 align:start position:0%
+index log we have the entry c for the
+operation<00:10:55.120><c> so</c><00:10:55.279><c> like</c><00:10:55.519><c> write</c><00:10:55.760><c> c</c>
+
+00:10:56.470 --> 00:10:56.480 align:start position:0%
+operation so like write c
+ 
+
+00:10:56.480 --> 00:10:58.630 align:start position:0%
+operation so like write c
+and<00:10:56.560><c> then</c><00:10:56.880><c> the</c><00:10:57.040><c> term</c><00:10:57.279><c> number</c><00:10:57.600><c> is</c><00:10:57.760><c> four</c>
+
+00:10:58.630 --> 00:10:58.640 align:start position:0%
+and then the term number is four
+ 
+
+00:10:58.640 --> 00:11:00.310 align:start position:0%
+and then the term number is four
+we<00:10:58.800><c> know</c><00:10:58.959><c> that</c><00:10:59.200><c> if</c><00:10:59.279><c> these</c><00:10:59.519><c> guys</c><00:10:59.760><c> have</c><00:10:59.920><c> the</c><00:11:00.079><c> same</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+we know that if these guys have the same
+ 
+
+00:11:00.320 --> 00:11:02.949 align:start position:0%
+we know that if these guys have the same
+term<00:11:00.560><c> number</c><00:11:01.279><c> it</c><00:11:01.519><c> means</c><00:11:01.839><c> that</c><00:11:02.079><c> the</c><00:11:02.240><c> leader</c><00:11:02.720><c> has</c>
+
+00:11:02.949 --> 00:11:02.959 align:start position:0%
+term number it means that the leader has
+ 
+
+00:11:02.959 --> 00:11:05.190 align:start position:0%
+term number it means that the leader has
+written<00:11:03.200><c> to</c><00:11:03.360><c> both</c><00:11:03.600><c> of</c><00:11:03.680><c> them</c><00:11:04.240><c> and</c><00:11:04.560><c> as</c><00:11:04.720><c> a</c><00:11:04.880><c> result</c>
+
+00:11:05.190 --> 00:11:05.200 align:start position:0%
+written to both of them and as a result
+ 
+
+00:11:05.200 --> 00:11:07.590 align:start position:0%
+written to both of them and as a result
+of<00:11:05.279><c> that</c><00:11:05.920><c> anything</c><00:11:06.320><c> beforehand</c><00:11:07.200><c> must</c><00:11:07.440><c> have</c>
+
+00:11:07.590 --> 00:11:07.600 align:start position:0%
+of that anything beforehand must have
+ 
+
+00:11:07.600 --> 00:11:09.829 align:start position:0%
+of that anything beforehand must have
+been<00:11:08.240><c> correct</c><00:11:08.880><c> so</c><00:11:09.040><c> that</c><00:11:09.200><c> the</c><00:11:09.360><c> leader</c><00:11:09.680><c> could</c>
+
+00:11:09.829 --> 00:11:09.839 align:start position:0%
+been correct so that the leader could
+ 
+
+00:11:09.839 --> 00:11:12.949 align:start position:0%
+been correct so that the leader could
+have<00:11:09.920><c> written</c><00:11:10.160><c> to</c><00:11:10.320><c> them</c><00:11:10.480><c> in</c><00:11:10.560><c> the</c><00:11:10.640><c> first</c><00:11:10.880><c> place</c>
+
+00:11:12.949 --> 00:11:12.959 align:start position:0%
+have written to them in the first place
+ 
+
+00:11:12.959 --> 00:11:14.710 align:start position:0%
+have written to them in the first place
+something<00:11:13.360><c> like</c><00:11:13.519><c> this</c><00:11:13.760><c> situation</c><00:11:14.399><c> is</c><00:11:14.480><c> not</c>
+
+00:11:14.710 --> 00:11:14.720 align:start position:0%
+something like this situation is not
+ 
+
+00:11:14.720 --> 00:11:16.470 align:start position:0%
+something like this situation is not
+possible<00:11:15.200><c> right</c><00:11:15.440><c> here</c><00:11:15.680><c> where</c><00:11:16.000><c> you</c><00:11:16.079><c> know</c><00:11:16.320><c> they</c>
+
+00:11:16.470 --> 00:11:16.480 align:start position:0%
+possible right here where you know they
+ 
+
+00:11:16.480 --> 00:11:19.190 align:start position:0%
+possible right here where you know they
+both<00:11:16.640><c> have</c><00:11:16.880><c> c4</c><00:11:17.519><c> and</c><00:11:17.600><c> that</c><00:11:17.839><c> two</c><00:11:18.079><c> entry</c><00:11:18.720><c> but</c><00:11:18.880><c> then</c>
+
+00:11:19.190 --> 00:11:19.200 align:start position:0%
+both have c4 and that two entry but then
+ 
+
+00:11:19.200 --> 00:11:20.710 align:start position:0%
+both have c4 and that two entry but then
+you<00:11:19.279><c> know</c><00:11:19.440><c> they</c><00:11:19.680><c> differ</c><00:11:20.000><c> in</c><00:11:20.079><c> the</c><00:11:20.240><c> zero</c><00:11:20.480><c> with</c>
+
+00:11:20.710 --> 00:11:20.720 align:start position:0%
+you know they differ in the zero with
+ 
+
+00:11:20.720 --> 00:11:22.949 align:start position:0%
+you know they differ in the zero with
+entry<00:11:21.040><c> with</c><00:11:21.279><c> a3</c><00:11:21.839><c> and</c><00:11:21.920><c> d2</c>
+
+00:11:22.949 --> 00:11:22.959 align:start position:0%
+entry with a3 and d2
+ 
+
+00:11:22.959 --> 00:11:24.630 align:start position:0%
+entry with a3 and d2
+um<00:11:23.200><c> if</c><00:11:23.360><c> you</c><00:11:23.440><c> think</c><00:11:23.680><c> about</c><00:11:23.839><c> this</c><00:11:24.079><c> in</c><00:11:24.160><c> variant</c><00:11:24.560><c> a</c>
+
+00:11:24.630 --> 00:11:24.640 align:start position:0%
+um if you think about this in variant a
+ 
+
+00:11:24.640 --> 00:11:26.550 align:start position:0%
+um if you think about this in variant a
+little<00:11:24.800><c> bit</c><00:11:25.040><c> more</c><00:11:25.440><c> it's</c><00:11:25.920><c> you</c><00:11:26.000><c> know</c><00:11:26.240><c> kind</c><00:11:26.399><c> of</c><00:11:26.480><c> a</c>
+
+00:11:26.550 --> 00:11:26.560 align:start position:0%
+little bit more it's you know kind of a
+ 
+
+00:11:26.560 --> 00:11:27.910 align:start position:0%
+little bit more it's you know kind of a
+lot<00:11:26.720><c> to</c><00:11:26.880><c> think</c><00:11:27.040><c> about</c><00:11:27.200><c> but</c><00:11:27.360><c> it</c><00:11:27.519><c> eventually</c>
+
+00:11:27.910 --> 00:11:27.920 align:start position:0%
+lot to think about but it eventually
+ 
+
+00:11:27.920 --> 00:11:30.150 align:start position:0%
+lot to think about but it eventually
+becomes<00:11:28.320><c> clear</c><00:11:28.560><c> why</c><00:11:28.800><c> it</c><00:11:28.880><c> works</c><00:11:29.600><c> um</c><00:11:29.920><c> you</c><00:11:30.000><c> know</c>
+
+00:11:30.150 --> 00:11:30.160 align:start position:0%
+becomes clear why it works um you know
+ 
+
+00:11:30.160 --> 00:11:31.269 align:start position:0%
+becomes clear why it works um you know
+if<00:11:30.240><c> you</c><00:11:30.320><c> want</c><00:11:30.399><c> to</c><00:11:30.480><c> pause</c><00:11:30.720><c> this</c><00:11:30.880><c> video</c><00:11:31.200><c> and</c>
+
+00:11:31.269 --> 00:11:31.279 align:start position:0%
+if you want to pause this video and
+ 
+
+00:11:31.279 --> 00:11:33.110 align:start position:0%
+if you want to pause this video and
+reason<00:11:31.760><c> read</c><00:11:32.000><c> my</c><00:11:32.160><c> note</c><00:11:32.399><c> here</c><00:11:32.640><c> you</c><00:11:32.800><c> definitely</c>
+
+00:11:33.110 --> 00:11:33.120 align:start position:0%
+reason read my note here you definitely
+ 
+
+00:11:33.120 --> 00:11:33.910 align:start position:0%
+reason read my note here you definitely
+can
+
+00:11:33.910 --> 00:11:33.920 align:start position:0%
+can
+ 
+
+00:11:33.920 --> 00:11:37.030 align:start position:0%
+can
+but<00:11:34.079><c> the</c><00:11:34.240><c> general</c><00:11:34.640><c> point</c><00:11:34.959><c> is</c><00:11:35.200><c> we</c><00:11:35.360><c> know</c><00:11:35.839><c> that</c><00:11:36.240><c> um</c>
+
+00:11:37.030 --> 00:11:37.040 align:start position:0%
+but the general point is we know that um
+ 
+
+00:11:37.040 --> 00:11:39.430 align:start position:0%
+but the general point is we know that um
+the<00:11:37.200><c> leader</c><00:11:37.519><c> is</c><00:11:37.760><c> right</c><00:11:38.160><c> and</c><00:11:39.040><c> that's</c><00:11:39.279><c> the</c>
+
+00:11:39.430 --> 00:11:39.440 align:start position:0%
+the leader is right and that's the
+ 
+
+00:11:39.440 --> 00:11:41.509 align:start position:0%
+the leader is right and that's the
+reason<00:11:39.680><c> it</c><00:11:39.760><c> was</c><00:11:39.839><c> elected</c><00:11:40.240><c> in</c><00:11:40.399><c> the</c><00:11:40.480><c> first</c><00:11:40.720><c> place</c>
+
+00:11:41.509 --> 00:11:41.519 align:start position:0%
+reason it was elected in the first place
+ 
+
+00:11:41.519 --> 00:11:43.030 align:start position:0%
+reason it was elected in the first place
+so<00:11:41.839><c> if</c><00:11:42.000><c> the</c><00:11:42.079><c> follower</c><00:11:42.480><c> has</c><00:11:42.640><c> a</c><00:11:42.720><c> different</c>
+
+00:11:43.030 --> 00:11:43.040 align:start position:0%
+so if the follower has a different
+ 
+
+00:11:43.040 --> 00:11:45.670 align:start position:0%
+so if the follower has a different
+prefix<00:11:43.680><c> at</c><00:11:43.920><c> a</c><00:11:44.079><c> point</c><00:11:44.720><c> the</c><00:11:44.880><c> leader</c><00:11:45.200><c> needs</c><00:11:45.440><c> to</c><00:11:45.519><c> go</c>
+
+00:11:45.670 --> 00:11:45.680 align:start position:0%
+prefix at a point the leader needs to go
+ 
+
+00:11:45.680 --> 00:11:48.389 align:start position:0%
+prefix at a point the leader needs to go
+ahead<00:11:46.000><c> and</c><00:11:46.240><c> overwrite</c><00:11:46.720><c> that</c><00:11:46.959><c> prefix</c><00:11:47.600><c> and</c>
+
+00:11:48.389 --> 00:11:48.399 align:start position:0%
+ahead and overwrite that prefix and
+ 
+
+00:11:48.399 --> 00:11:50.389 align:start position:0%
+ahead and overwrite that prefix and
+not<00:11:48.640><c> just</c><00:11:48.880><c> make</c><00:11:49.120><c> new</c><00:11:49.360><c> appends</c><00:11:49.760><c> the</c><00:11:49.920><c> log</c><00:11:50.240><c> it's</c>
+
+00:11:50.389 --> 00:11:50.399 align:start position:0%
+not just make new appends the log it's
+ 
+
+00:11:50.399 --> 00:11:53.430 align:start position:0%
+not just make new appends the log it's
+got<00:11:50.560><c> to</c><00:11:50.639><c> go</c><00:11:50.800><c> ahead</c><00:11:51.040><c> and</c><00:11:51.120><c> change</c><00:11:51.360><c> its</c><00:11:51.600><c> logic</c>
+
+00:11:53.430 --> 00:11:53.440 align:start position:0%
+got to go ahead and change its logic
+ 
+
+00:11:53.440 --> 00:11:54.870 align:start position:0%
+got to go ahead and change its logic
+okay<00:11:53.760><c> sorry</c><00:11:54.000><c> my</c><00:11:54.160><c> roommate</c><00:11:54.560><c> came</c><00:11:54.800><c> in</c>
+
+00:11:54.870 --> 00:11:54.880 align:start position:0%
+okay sorry my roommate came in
+ 
+
+00:11:54.880 --> 00:11:57.190 align:start position:0%
+okay sorry my roommate came in
+mid-recording<00:11:55.760><c> so</c><00:11:56.079><c> basically</c><00:11:56.560><c> continuing</c><00:11:57.040><c> to</c>
+
+00:11:57.190 --> 00:11:57.200 align:start position:0%
+mid-recording so basically continuing to
+ 
+
+00:11:57.200 --> 00:11:59.509 align:start position:0%
+mid-recording so basically continuing to
+talk<00:11:57.360><c> about</c><00:11:57.600><c> the</c><00:11:57.680><c> replicate</c><00:11:58.240><c> log</c><00:11:58.480><c> function</c>
+
+00:11:59.509 --> 00:11:59.519 align:start position:0%
+talk about the replicate log function
+ 
+
+00:11:59.519 --> 00:12:01.190 align:start position:0%
+talk about the replicate log function
+because<00:11:59.839><c> the</c><00:12:00.000><c> invariant</c><00:12:00.480><c> just</c><00:12:00.720><c> previously</c>
+
+00:12:01.190 --> 00:12:01.200 align:start position:0%
+because the invariant just previously
+ 
+
+00:12:01.200 --> 00:12:03.030 align:start position:0%
+because the invariant just previously
+mentioned<00:12:01.600><c> we</c><00:12:01.760><c> basically</c><00:12:02.160><c> know</c><00:12:02.399><c> that</c><00:12:02.720><c> if</c><00:12:02.880><c> the</c>
+
+00:12:03.030 --> 00:12:03.040 align:start position:0%
+mentioned we basically know that if the
+ 
+
+00:12:03.040 --> 00:12:04.790 align:start position:0%
+mentioned we basically know that if the
+term<00:12:03.279><c> number</c><00:12:03.680><c> at</c><00:12:03.760><c> the</c><00:12:03.920><c> end</c><00:12:04.079><c> of</c><00:12:04.160><c> the</c><00:12:04.240><c> prefixes</c>
+
+00:12:04.790 --> 00:12:04.800 align:start position:0%
+term number at the end of the prefixes
+ 
+
+00:12:04.800 --> 00:12:06.470 align:start position:0%
+term number at the end of the prefixes
+are<00:12:04.959><c> the</c><00:12:05.040><c> same</c><00:12:05.440><c> we</c><00:12:05.600><c> can</c><00:12:05.760><c> just</c><00:12:05.920><c> go</c><00:12:06.079><c> ahead</c><00:12:06.320><c> and</c>
+
+00:12:06.470 --> 00:12:06.480 align:start position:0%
+are the same we can just go ahead and
+ 
+
+00:12:06.480 --> 00:12:09.350 align:start position:0%
+are the same we can just go ahead and
+copy<00:12:06.880><c> over</c><00:12:07.040><c> that</c><00:12:07.279><c> suffix</c><00:12:08.160><c> and</c><00:12:08.720><c> put</c><00:12:08.959><c> in</c><00:12:09.040><c> those</c>
+
+00:12:09.350 --> 00:12:09.360 align:start position:0%
+copy over that suffix and put in those
+ 
+
+00:12:09.360 --> 00:12:11.750 align:start position:0%
+copy over that suffix and put in those
+correct<00:12:09.680><c> messages</c><00:12:10.240><c> and</c><00:12:10.399><c> then</c><00:12:10.639><c> the</c><00:12:10.959><c> the</c><00:12:11.360><c> log</c><00:12:11.680><c> of</c>
+
+00:12:11.750 --> 00:12:11.760 align:start position:0%
+correct messages and then the the log of
+ 
+
+00:12:11.760 --> 00:12:13.590 align:start position:0%
+correct messages and then the the log of
+the<00:12:11.839><c> follower</c><00:12:12.240><c> will</c><00:12:12.399><c> be</c><00:12:12.560><c> the</c><00:12:12.720><c> same</c><00:12:12.959><c> as</c><00:12:13.200><c> the</c><00:12:13.360><c> log</c>
+
+00:12:13.590 --> 00:12:13.600 align:start position:0%
+the follower will be the same as the log
+ 
+
+00:12:13.600 --> 00:12:15.910 align:start position:0%
+the follower will be the same as the log
+of<00:12:13.680><c> the</c><00:12:13.760><c> leader</c><00:12:14.399><c> um</c><00:12:14.639><c> if</c><00:12:14.800><c> the</c><00:12:14.880><c> prefixes</c><00:12:15.600><c> aren't</c>
+
+00:12:15.910 --> 00:12:15.920 align:start position:0%
+of the leader um if the prefixes aren't
+ 
+
+00:12:15.920 --> 00:12:18.710 align:start position:0%
+of the leader um if the prefixes aren't
+not<00:12:16.079><c> the</c><00:12:16.240><c> same</c><00:12:16.959><c> then</c><00:12:17.360><c> we</c><00:12:17.519><c> know</c><00:12:17.920><c> that</c><00:12:18.560><c> the</c>
+
+00:12:18.710 --> 00:12:18.720 align:start position:0%
+not the same then we know that the
+ 
+
+00:12:18.720 --> 00:12:20.389 align:start position:0%
+not the same then we know that the
+assumption<00:12:19.200><c> that</c><00:12:19.440><c> the</c><00:12:19.519><c> leader</c><00:12:19.839><c> made</c><00:12:20.079><c> about</c>
+
+00:12:20.389 --> 00:12:20.399 align:start position:0%
+assumption that the leader made about
+ 
+
+00:12:20.399 --> 00:12:22.389 align:start position:0%
+assumption that the leader made about
+what<00:12:20.560><c> the</c><00:12:20.720><c> follower</c><00:12:21.200><c> already</c><00:12:21.440><c> has</c><00:12:21.680><c> in</c><00:12:21.760><c> its</c><00:12:22.000><c> log</c>
+
+00:12:22.389 --> 00:12:22.399 align:start position:0%
+what the follower already has in its log
+ 
+
+00:12:22.399 --> 00:12:23.829 align:start position:0%
+what the follower already has in its log
+is<00:12:22.560><c> bad</c><00:12:22.880><c> and</c><00:12:23.040><c> we're</c><00:12:23.200><c> going</c><00:12:23.360><c> to</c><00:12:23.519><c> have</c><00:12:23.600><c> to</c><00:12:23.680><c> go</c>
+
+00:12:23.829 --> 00:12:23.839 align:start position:0%
+is bad and we're going to have to go
+ 
+
+00:12:23.839 --> 00:12:26.069 align:start position:0%
+is bad and we're going to have to go
+ahead<00:12:24.160><c> and</c><00:12:24.320><c> report</c><00:12:24.720><c> that</c><00:12:24.880><c> back</c><00:12:25.120><c> to</c><00:12:25.200><c> the</c><00:12:25.360><c> leader</c>
+
+00:12:26.069 --> 00:12:26.079 align:start position:0%
+ahead and report that back to the leader
+ 
+
+00:12:26.079 --> 00:12:27.269 align:start position:0%
+ahead and report that back to the leader
+additionally
+
+00:12:27.269 --> 00:12:27.279 align:start position:0%
+additionally
+ 
+
+00:12:27.279 --> 00:12:29.509 align:start position:0%
+additionally
+when<00:12:27.600><c> the</c><00:12:27.839><c> leader</c><00:12:28.160><c> commits</c><00:12:28.560><c> the</c><00:12:28.720><c> suffixes</c><00:12:29.360><c> to</c>
+
+00:12:29.509 --> 00:12:29.519 align:start position:0%
+when the leader commits the suffixes to
+ 
+
+00:12:29.519 --> 00:12:31.509 align:start position:0%
+when the leader commits the suffixes to
+the<00:12:29.680><c> followers</c><00:12:30.399><c> which</c><00:12:30.639><c> it</c><00:12:30.720><c> only</c><00:12:30.959><c> does</c><00:12:31.279><c> if</c><00:12:31.440><c> the</c>
+
+00:12:31.509 --> 00:12:31.519 align:start position:0%
+the followers which it only does if the
+ 
+
+00:12:31.519 --> 00:12:33.990 align:start position:0%
+the followers which it only does if the
+prefixes<00:12:32.079><c> are</c><00:12:32.160><c> correct</c><00:12:32.880><c> then</c><00:12:33.200><c> we'll</c><00:12:33.360><c> go</c><00:12:33.519><c> ahead</c>
+
+00:12:33.990 --> 00:12:34.000 align:start position:0%
+prefixes are correct then we'll go ahead
+ 
+
+00:12:34.000 --> 00:12:35.910 align:start position:0%
+prefixes are correct then we'll go ahead
+and<00:12:34.320><c> have</c><00:12:34.560><c> the</c><00:12:34.720><c> follower</c><00:12:35.200><c> check</c><00:12:35.440><c> for</c><00:12:35.600><c> newly</c>
+
+00:12:35.910 --> 00:12:35.920 align:start position:0%
+and have the follower check for newly
+ 
+
+00:12:35.920 --> 00:12:38.389 align:start position:0%
+and have the follower check for newly
+committed<00:12:36.720><c> messages</c><00:12:37.200><c> so</c><00:12:37.360><c> that</c><00:12:37.440><c> i</c><00:12:37.600><c> can</c><00:12:38.000><c> commit</c>
+
+00:12:38.389 --> 00:12:38.399 align:start position:0%
+committed messages so that i can commit
+ 
+
+00:12:38.399 --> 00:12:40.710 align:start position:0%
+committed messages so that i can commit
+those<00:12:38.560><c> to</c><00:12:38.720><c> the</c><00:12:38.800><c> database</c><00:12:39.279><c> layer</c>
+
+00:12:40.710 --> 00:12:40.720 align:start position:0%
+those to the database layer
+ 
+
+00:12:40.720 --> 00:12:42.230 align:start position:0%
+those to the database layer
+okay<00:12:41.040><c> in</c><00:12:41.200><c> terms</c><00:12:41.440><c> of</c><00:12:41.600><c> receiving</c><00:12:42.000><c> right</c>
+
+00:12:42.230 --> 00:12:42.240 align:start position:0%
+okay in terms of receiving right
+ 
+
+00:12:42.240 --> 00:12:44.069 align:start position:0%
+okay in terms of receiving right
+acknowledgements<00:12:42.880><c> on</c><00:12:42.959><c> the</c><00:12:43.040><c> leader</c>
+
+00:12:44.069 --> 00:12:44.079 align:start position:0%
+acknowledgements on the leader
+ 
+
+00:12:44.079 --> 00:12:45.750 align:start position:0%
+acknowledgements on the leader
+as<00:12:44.240><c> we</c><00:12:44.320><c> just</c><00:12:44.480><c> mentioned</c><00:12:44.880><c> the</c><00:12:44.959><c> reader</c><00:12:45.279><c> wants</c><00:12:45.600><c> a</c>
+
+00:12:45.750 --> 00:12:45.760 align:start position:0%
+as we just mentioned the reader wants a
+ 
+
+00:12:45.760 --> 00:12:47.509 align:start position:0%
+as we just mentioned the reader wants a
+quorum<00:12:46.240><c> of</c><00:12:46.320><c> right</c><00:12:46.560><c> acknowledgements</c><00:12:47.200><c> so</c><00:12:47.360><c> if</c>
+
+00:12:47.509 --> 00:12:47.519 align:start position:0%
+quorum of right acknowledgements so if
+ 
+
+00:12:47.519 --> 00:12:50.550 align:start position:0%
+quorum of right acknowledgements so if
+it<00:12:47.600><c> receives</c><00:12:48.160><c> a</c><00:12:48.560><c> majority</c><00:12:49.279><c> of</c>
+
+00:12:50.550 --> 00:12:50.560 align:start position:0%
+it receives a majority of
+ 
+
+00:12:50.560 --> 00:12:52.069 align:start position:0%
+it receives a majority of
+you<00:12:50.639><c> know</c><00:12:50.880><c> acknowledgments</c><00:12:51.680><c> for</c><00:12:52.000><c> a</c>
+
+00:12:52.069 --> 00:12:52.079 align:start position:0%
+you know acknowledgments for a
+ 
+
+00:12:52.079 --> 00:12:54.389 align:start position:0%
+you know acknowledgments for a
+successful<00:12:52.639><c> write</c><00:12:52.959><c> for</c><00:12:53.120><c> a</c><00:12:53.200><c> given</c><00:12:53.519><c> log</c><00:12:53.760><c> entry</c>
+
+00:12:54.389 --> 00:12:54.399 align:start position:0%
+successful write for a given log entry
+ 
+
+00:12:54.399 --> 00:12:56.069 align:start position:0%
+successful write for a given log entry
+it's<00:12:54.560><c> going</c><00:12:54.639><c> to</c><00:12:54.720><c> go</c><00:12:54.880><c> ahead</c><00:12:55.279><c> and</c><00:12:55.519><c> keep</c><00:12:55.760><c> track</c><00:12:56.000><c> of</c>
+
+00:12:56.069 --> 00:12:56.079 align:start position:0%
+it's going to go ahead and keep track of
+ 
+
+00:12:56.079 --> 00:12:58.150 align:start position:0%
+it's going to go ahead and keep track of
+these<00:12:56.480><c> and</c><00:12:56.639><c> once</c><00:12:56.880><c> it</c><00:12:57.040><c> reaches</c><00:12:57.360><c> that</c><00:12:57.519><c> quorum</c><00:12:58.000><c> it</c>
+
+00:12:58.150 --> 00:12:58.160 align:start position:0%
+these and once it reaches that quorum it
+ 
+
+00:12:58.160 --> 00:13:00.470 align:start position:0%
+these and once it reaches that quorum it
+goes<00:12:58.399><c> ahead</c><00:12:59.040><c> commits</c><00:12:59.440><c> it</c><00:12:59.519><c> locally</c><00:13:00.079><c> and</c><00:13:00.160><c> then</c>
+
+00:13:00.470 --> 00:13:00.480 align:start position:0%
+goes ahead commits it locally and then
+ 
+
+00:13:00.480 --> 00:13:02.470 align:start position:0%
+goes ahead commits it locally and then
+sends<00:13:00.800><c> that</c><00:13:01.040><c> commit</c><00:13:01.519><c> out</c><00:13:01.760><c> to</c><00:13:02.079><c> all</c><00:13:02.240><c> of</c><00:13:02.399><c> the</c>
+
+00:13:02.470 --> 00:13:02.480 align:start position:0%
+sends that commit out to all of the
+ 
+
+00:13:02.480 --> 00:13:03.910 align:start position:0%
+sends that commit out to all of the
+followers
+
+00:13:03.910 --> 00:13:03.920 align:start position:0%
+followers
+ 
+
+00:13:03.920 --> 00:13:05.269 align:start position:0%
+followers
+additionally<00:13:04.399><c> if</c><00:13:04.560><c> it</c><00:13:04.639><c> hears</c><00:13:04.880><c> the</c><00:13:05.040><c> write</c>
+
+00:13:05.269 --> 00:13:05.279 align:start position:0%
+additionally if it hears the write
+ 
+
+00:13:05.279 --> 00:13:07.269 align:start position:0%
+additionally if it hears the write
+wasn't<00:13:05.519><c> successful</c><00:13:06.240><c> it</c><00:13:06.399><c> must</c><00:13:06.639><c> be</c><00:13:06.800><c> because</c><00:13:07.120><c> the</c>
+
+00:13:07.269 --> 00:13:07.279 align:start position:0%
+wasn't successful it must be because the
+ 
+
+00:13:07.279 --> 00:13:09.269 align:start position:0%
+wasn't successful it must be because the
+prefix<00:13:07.920><c> of</c><00:13:08.160><c> the</c><00:13:08.320><c> leader</c><00:13:08.720><c> and</c><00:13:08.800><c> the</c><00:13:08.880><c> follower</c>
+
+00:13:09.269 --> 00:13:09.279 align:start position:0%
+prefix of the leader and the follower
+ 
+
+00:13:09.279 --> 00:13:10.790 align:start position:0%
+prefix of the leader and the follower
+node<00:13:09.519><c> were</c><00:13:09.680><c> not</c><00:13:09.839><c> the</c><00:13:09.920><c> same</c>
+
+00:13:10.790 --> 00:13:10.800 align:start position:0%
+node were not the same
+ 
+
+00:13:10.800 --> 00:13:13.030 align:start position:0%
+node were not the same
+or<00:13:11.440><c> because</c><00:13:11.680><c> of</c><00:13:11.760><c> the</c><00:13:11.920><c> fact</c><00:13:12.160><c> that</c><00:13:12.399><c> they</c><00:13:12.639><c> had</c><00:13:12.880><c> a</c>
+
+00:13:13.030 --> 00:13:13.040 align:start position:0%
+or because of the fact that they had a
+ 
+
+00:13:13.040 --> 00:13:14.550 align:start position:0%
+or because of the fact that they had a
+different<00:13:13.360><c> term</c><00:13:13.600><c> number</c><00:13:13.920><c> between</c><00:13:14.160><c> them</c><00:13:14.480><c> and</c>
+
+00:13:14.550 --> 00:13:14.560 align:start position:0%
+different term number between them and
+ 
+
+00:13:14.560 --> 00:13:15.990 align:start position:0%
+different term number between them and
+if<00:13:14.720><c> the</c><00:13:14.800><c> term</c><00:13:15.040><c> number</c><00:13:15.279><c> of</c><00:13:15.360><c> the</c><00:13:15.519><c> follower</c><00:13:15.920><c> is</c>
+
+00:13:15.990 --> 00:13:16.000 align:start position:0%
+if the term number of the follower is
+ 
+
+00:13:16.000 --> 00:13:17.590 align:start position:0%
+if the term number of the follower is
+higher<00:13:16.240><c> than</c><00:13:16.399><c> the</c><00:13:16.480><c> leader</c>
+
+00:13:17.590 --> 00:13:17.600 align:start position:0%
+higher than the leader
+ 
+
+00:13:17.600 --> 00:13:19.509 align:start position:0%
+higher than the leader
+the<00:13:17.760><c> leader</c><00:13:18.079><c> now</c><00:13:18.320><c> knows</c><00:13:18.639><c> that</c>
+
+00:13:19.509 --> 00:13:19.519 align:start position:0%
+the leader now knows that
+ 
+
+00:13:19.519 --> 00:13:20.949 align:start position:0%
+the leader now knows that
+it's<00:13:19.760><c> no</c><00:13:19.920><c> longer</c><00:13:20.240><c> the</c><00:13:20.320><c> leader</c><00:13:20.639><c> and</c><00:13:20.720><c> has</c><00:13:20.880><c> to</c>
+
+00:13:20.949 --> 00:13:20.959 align:start position:0%
+it's no longer the leader and has to
+ 
+
+00:13:20.959 --> 00:13:22.710 align:start position:0%
+it's no longer the leader and has to
+give<00:13:21.200><c> up</c><00:13:21.360><c> its</c><00:13:21.519><c> leader</c><00:13:21.839><c> status</c><00:13:22.160><c> and</c><00:13:22.240><c> transition</c>
+
+00:13:22.710 --> 00:13:22.720 align:start position:0%
+give up its leader status and transition
+ 
+
+00:13:22.720 --> 00:13:24.710 align:start position:0%
+give up its leader status and transition
+to<00:13:22.800><c> follower</c><00:13:23.440><c> if</c><00:13:23.600><c> it's</c><00:13:23.839><c> because</c><00:13:24.079><c> the</c><00:13:24.240><c> prefix</c>
+
+00:13:24.710 --> 00:13:24.720 align:start position:0%
+to follower if it's because the prefix
+ 
+
+00:13:24.720 --> 00:13:26.150 align:start position:0%
+to follower if it's because the prefix
+of<00:13:24.800><c> the</c><00:13:24.880><c> follower</c><00:13:25.360><c> was</c><00:13:25.519><c> not</c><00:13:25.680><c> up</c><00:13:25.839><c> to</c><00:13:25.920><c> date</c>
+
+00:13:26.150 --> 00:13:26.160 align:start position:0%
+of the follower was not up to date
+ 
+
+00:13:26.160 --> 00:13:27.910 align:start position:0%
+of the follower was not up to date
+enough<00:13:26.720><c> then</c><00:13:26.880><c> what</c><00:13:27.040><c> the</c><00:13:27.360><c> leader</c><00:13:27.680><c> is</c><00:13:27.760><c> going</c><00:13:27.839><c> to</c>
+
+00:13:27.910 --> 00:13:27.920 align:start position:0%
+enough then what the leader is going to
+ 
+
+00:13:27.920 --> 00:13:29.829 align:start position:0%
+enough then what the leader is going to
+try<00:13:28.160><c> and</c><00:13:28.240><c> do</c><00:13:28.560><c> is</c><00:13:28.720><c> try</c><00:13:28.959><c> to</c><00:13:29.040><c> replicate</c><00:13:29.440><c> the</c><00:13:29.600><c> log</c>
+
+00:13:29.829 --> 00:13:29.839 align:start position:0%
+try and do is try to replicate the log
+ 
+
+00:13:29.839 --> 00:13:31.750 align:start position:0%
+try and do is try to replicate the log
+again<00:13:30.160><c> but</c><00:13:30.320><c> with</c><00:13:30.560><c> a</c><00:13:30.639><c> smaller</c><00:13:31.040><c> prefix</c><00:13:31.519><c> and</c><00:13:31.600><c> see</c>
+
+00:13:31.750 --> 00:13:31.760 align:start position:0%
+again but with a smaller prefix and see
+ 
+
+00:13:31.760 --> 00:13:33.430 align:start position:0%
+again but with a smaller prefix and see
+if<00:13:31.920><c> it</c><00:13:32.000><c> works</c><00:13:32.240><c> this</c><00:13:32.480><c> time</c><00:13:32.959><c> and</c><00:13:33.040><c> that</c><00:13:33.279><c> might</c>
+
+00:13:33.430 --> 00:13:33.440 align:start position:0%
+if it works this time and that might
+ 
+
+00:13:33.440 --> 00:13:35.269 align:start position:0%
+if it works this time and that might
+potentially<00:13:33.920><c> be</c><00:13:34.079><c> a</c><00:13:34.160><c> loop</c><00:13:34.399><c> that</c><00:13:34.639><c> spans</c><00:13:35.040><c> very</c>
+
+00:13:35.269 --> 00:13:35.279 align:start position:0%
+potentially be a loop that spans very
+ 
+
+00:13:35.279 --> 00:13:37.269 align:start position:0%
+potentially be a loop that spans very
+far<00:13:35.920><c> where</c><00:13:36.240><c> you</c><00:13:36.399><c> just</c><00:13:36.560><c> keep</c><00:13:36.800><c> adjusting</c><00:13:37.200><c> the</c>
+
+00:13:37.269 --> 00:13:37.279 align:start position:0%
+far where you just keep adjusting the
+ 
+
+00:13:37.279 --> 00:13:38.870 align:start position:0%
+far where you just keep adjusting the
+prefix<00:13:37.680><c> to</c><00:13:37.839><c> be</c><00:13:37.920><c> smaller</c><00:13:38.320><c> and</c><00:13:38.399><c> smaller</c>
+
+00:13:38.870 --> 00:13:38.880 align:start position:0%
+prefix to be smaller and smaller
+ 
+
+00:13:38.880 --> 00:13:40.310 align:start position:0%
+prefix to be smaller and smaller
+assuming<00:13:39.199><c> that</c><00:13:39.360><c> the</c><00:13:39.440><c> follower</c><00:13:39.839><c> knows</c><00:13:40.079><c> less</c>
+
+00:13:40.310 --> 00:13:40.320 align:start position:0%
+assuming that the follower knows less
+ 
+
+00:13:40.320 --> 00:13:42.629 align:start position:0%
+assuming that the follower knows less
+and<00:13:40.480><c> less</c><00:13:41.040><c> until</c><00:13:41.279><c> you</c><00:13:41.440><c> finally</c><00:13:41.920><c> reach</c><00:13:42.240><c> the</c>
+
+00:13:42.629 --> 00:13:42.639 align:start position:0%
+and less until you finally reach the
+ 
+
+00:13:42.639 --> 00:13:44.389 align:start position:0%
+and less until you finally reach the
+amount<00:13:43.040><c> of</c><00:13:43.279><c> the</c><00:13:43.440><c> log</c><00:13:43.760><c> that</c><00:13:43.920><c> they</c><00:13:44.079><c> have</c><00:13:44.240><c> in</c>
+
+00:13:44.389 --> 00:13:44.399 align:start position:0%
+amount of the log that they have in
+ 
+
+00:13:44.399 --> 00:13:45.750 align:start position:0%
+amount of the log that they have in
+common<00:13:44.800><c> and</c><00:13:44.880><c> then</c><00:13:45.040><c> you</c><00:13:45.120><c> can</c><00:13:45.199><c> go</c><00:13:45.360><c> ahead</c><00:13:45.680><c> and</c>
+
+00:13:45.750 --> 00:13:45.760 align:start position:0%
+common and then you can go ahead and
+ 
+
+00:13:45.760 --> 00:13:48.069 align:start position:0%
+common and then you can go ahead and
+replicate<00:13:46.240><c> what</c><00:13:46.399><c> you</c><00:13:46.480><c> have</c>
+
+00:13:48.069 --> 00:13:48.079 align:start position:0%
+replicate what you have
+ 
+
+00:13:48.079 --> 00:13:50.470 align:start position:0%
+replicate what you have
+okay<00:13:48.880><c> so</c><00:13:49.199><c> in</c><00:13:49.360><c> conclusion</c>
+
+00:13:50.470 --> 00:13:50.480 align:start position:0%
+okay so in conclusion
+ 
+
+00:13:50.480 --> 00:13:52.230 align:start position:0%
+okay so in conclusion
+even<00:13:50.639><c> though</c><00:13:50.800><c> the</c><00:13:50.880><c> raft</c><00:13:51.120><c> paper</c><00:13:51.360><c> is</c><00:13:51.440><c> from</c><00:13:51.600><c> 2014</c>
+
+00:13:52.230 --> 00:13:52.240 align:start position:0%
+even though the raft paper is from 2014
+ 
+
+00:13:52.240 --> 00:13:53.829 align:start position:0%
+even though the raft paper is from 2014
+like<00:13:52.480><c> i</c><00:13:52.560><c> mentioned</c><00:13:52.959><c> it's</c><00:13:53.120><c> gained</c><00:13:53.360><c> a</c><00:13:53.519><c> ton</c><00:13:53.680><c> of</c>
+
+00:13:53.829 --> 00:13:53.839 align:start position:0%
+like i mentioned it's gained a ton of
+ 
+
+00:13:53.839 --> 00:13:55.509 align:start position:0%
+like i mentioned it's gained a ton of
+popularity<00:13:54.560><c> because</c><00:13:54.720><c> it's</c><00:13:54.959><c> ease</c><00:13:55.360><c> of</c>
+
+00:13:55.509 --> 00:13:55.519 align:start position:0%
+popularity because it's ease of
+ 
+
+00:13:55.519 --> 00:13:57.910 align:start position:0%
+popularity because it's ease of
+understandability<00:13:56.880><c> and</c><00:13:57.199><c> i</c><00:13:57.360><c> just</c><00:13:57.600><c> explained</c>
+
+00:13:57.910 --> 00:13:57.920 align:start position:0%
+understandability and i just explained
+ 
+
+00:13:57.920 --> 00:13:59.670 align:start position:0%
+understandability and i just explained
+it<00:13:58.000><c> to</c><00:13:58.079><c> you</c><00:13:58.240><c> guys</c><00:13:58.480><c> in</c><00:13:58.560><c> basically</c><00:13:59.040><c> 15</c><00:13:59.360><c> minutes</c>
+
+00:13:59.670 --> 00:13:59.680 align:start position:0%
+it to you guys in basically 15 minutes
+ 
+
+00:13:59.680 --> 00:14:01.829 align:start position:0%
+it to you guys in basically 15 minutes
+so<00:13:59.839><c> clearly</c><00:14:00.240><c> it's</c><00:14:00.399><c> not</c><00:14:00.639><c> that</c><00:14:00.880><c> bad</c>
+
+00:14:01.829 --> 00:14:01.839 align:start position:0%
+so clearly it's not that bad
+ 
+
+00:14:01.839 --> 00:14:04.150 align:start position:0%
+so clearly it's not that bad
+and<00:14:02.000><c> it's</c><00:14:02.079><c> hugely</c><00:14:02.480><c> popular</c><00:14:03.440><c> it</c><00:14:03.519><c> still</c><00:14:03.760><c> takes</c><00:14:04.000><c> a</c>
+
+00:14:04.150 --> 00:14:04.160 align:start position:0%
+and it's hugely popular it still takes a
+ 
+
+00:14:04.160 --> 00:14:05.910 align:start position:0%
+and it's hugely popular it still takes a
+ton<00:14:04.399><c> of</c><00:14:04.480><c> network</c><00:14:04.880><c> coordination</c><00:14:05.440><c> in</c><00:14:05.600><c> order</c><00:14:05.839><c> to</c>
+
+00:14:05.910 --> 00:14:05.920 align:start position:0%
+ton of network coordination in order to
+ 
+
+00:14:05.920 --> 00:14:07.269 align:start position:0%
+ton of network coordination in order to
+do<00:14:06.079><c> all</c><00:14:06.160><c> this</c><00:14:06.320><c> stuff</c><00:14:06.560><c> you</c><00:14:06.720><c> basically</c><00:14:07.120><c> have</c><00:14:07.199><c> to</c>
+
+00:14:07.269 --> 00:14:07.279 align:start position:0%
+do all this stuff you basically have to
+ 
+
+00:14:07.279 --> 00:14:08.790 align:start position:0%
+do all this stuff you basically have to
+reach<00:14:07.600><c> out</c><00:14:07.760><c> to</c><00:14:07.839><c> every</c><00:14:08.079><c> node</c><00:14:08.399><c> or</c><00:14:08.480><c> at</c><00:14:08.560><c> least</c>
+
+00:14:08.790 --> 00:14:08.800 align:start position:0%
+reach out to every node or at least
+ 
+
+00:14:08.800 --> 00:14:09.910 align:start position:0%
+reach out to every node or at least
+attempt<00:14:09.120><c> to</c><00:14:09.199><c> do</c><00:14:09.360><c> so</c><00:14:09.600><c> and</c><00:14:09.760><c> get</c>
+
+00:14:09.910 --> 00:14:09.920 align:start position:0%
+attempt to do so and get
+ 
+
+00:14:09.920 --> 00:14:12.550 align:start position:0%
+attempt to do so and get
+acknowledgements<00:14:10.560><c> from</c><00:14:10.720><c> a</c><00:14:10.800><c> majority</c><00:14:11.279><c> of</c><00:14:11.360><c> them</c>
+
+00:14:12.550 --> 00:14:12.560 align:start position:0%
+acknowledgements from a majority of them
+ 
+
+00:14:12.560 --> 00:14:14.150 align:start position:0%
+acknowledgements from a majority of them
+compared<00:14:12.959><c> to</c><00:14:13.040><c> two-phase</c><00:14:13.440><c> commit</c><00:14:13.760><c> though</c><00:14:14.000><c> the</c>
+
+00:14:14.150 --> 00:14:14.160 align:start position:0%
+compared to two-phase commit though the
+ 
+
+00:14:14.160 --> 00:14:15.910 align:start position:0%
+compared to two-phase commit though the
+fact<00:14:14.399><c> that</c><00:14:14.480><c> it's</c><00:14:14.639><c> so</c><00:14:15.040><c> tolerant</c><00:14:15.519><c> is</c><00:14:15.600><c> really</c>
+
+00:14:15.910 --> 00:14:15.920 align:start position:0%
+fact that it's so tolerant is really
+ 
+
+00:14:15.920 --> 00:14:17.829 align:start position:0%
+fact that it's so tolerant is really
+great<00:14:16.480><c> that</c><00:14:16.720><c> being</c><00:14:16.959><c> said</c><00:14:17.279><c> there</c><00:14:17.440><c> are</c><00:14:17.519><c> still</c>
+
+00:14:17.829 --> 00:14:17.839 align:start position:0%
+great that being said there are still
+ 
+
+00:14:17.839 --> 00:14:19.590 align:start position:0%
+great that being said there are still
+times<00:14:18.160><c> where</c><00:14:18.399><c> two-phase</c><00:14:18.880><c> commit</c><00:14:19.279><c> is</c><00:14:19.440><c> more</c>
+
+00:14:19.590 --> 00:14:19.600 align:start position:0%
+times where two-phase commit is more
+ 
+
+00:14:19.600 --> 00:14:21.750 align:start position:0%
+times where two-phase commit is more
+useful<00:14:19.920><c> than</c><00:14:20.160><c> raft</c><00:14:20.720><c> and</c><00:14:20.959><c> the</c><00:14:21.040><c> main</c><00:14:21.279><c> example</c><00:14:21.680><c> of</c>
+
+00:14:21.750 --> 00:14:21.760 align:start position:0%
+useful than raft and the main example of
+ 
+
+00:14:21.760 --> 00:14:23.350 align:start position:0%
+useful than raft and the main example of
+that<00:14:22.079><c> are</c><00:14:22.240><c> things</c><00:14:22.480><c> like</c><00:14:22.720><c> atomic</c><00:14:23.040><c> commit</c>
+
+00:14:23.350 --> 00:14:23.360 align:start position:0%
+that are things like atomic commit
+ 
+
+00:14:23.360 --> 00:14:25.829 align:start position:0%
+that are things like atomic commit
+across<00:14:23.680><c> partitions</c><00:14:24.720><c> obviously</c><00:14:25.199><c> in</c><00:14:25.360><c> raft</c><00:14:25.760><c> if</c>
+
+00:14:25.829 --> 00:14:25.839 align:start position:0%
+across partitions obviously in raft if
+ 
+
+00:14:25.839 --> 00:14:27.110 align:start position:0%
+across partitions obviously in raft if
+we<00:14:25.920><c> want</c><00:14:26.079><c> to</c><00:14:26.160><c> make</c><00:14:26.399><c> rights</c><00:14:26.639><c> to</c><00:14:26.800><c> multiple</c>
+
+00:14:27.110 --> 00:14:27.120 align:start position:0%
+we want to make rights to multiple
+ 
+
+00:14:27.120 --> 00:14:29.350 align:start position:0%
+we want to make rights to multiple
+partitions<00:14:28.000><c> it's</c><00:14:28.160><c> not</c><00:14:28.399><c> enough</c><00:14:28.720><c> for</c><00:14:29.040><c> only</c><00:14:29.279><c> a</c>
+
+00:14:29.350 --> 00:14:29.360 align:start position:0%
+partitions it's not enough for only a
+ 
+
+00:14:29.360 --> 00:14:31.590 align:start position:0%
+partitions it's not enough for only a
+majority<00:14:29.920><c> of</c><00:14:30.000><c> them</c><00:14:30.160><c> to</c><00:14:30.320><c> say</c><00:14:30.560><c> okay</c><00:14:30.959><c> yeah</c><00:14:31.199><c> i</c><00:14:31.360><c> got</c>
+
+00:14:31.590 --> 00:14:31.600 align:start position:0%
+majority of them to say okay yeah i got
+ 
+
+00:14:31.600 --> 00:14:33.269 align:start position:0%
+majority of them to say okay yeah i got
+this<00:14:31.920><c> all</c><00:14:32.079><c> of</c><00:14:32.160><c> them</c><00:14:32.320><c> have</c><00:14:32.480><c> to</c><00:14:32.639><c> acknowledge</c><00:14:33.120><c> it</c>
+
+00:14:33.269 --> 00:14:33.279 align:start position:0%
+this all of them have to acknowledge it
+ 
+
+00:14:33.279 --> 00:14:35.509 align:start position:0%
+this all of them have to acknowledge it
+and<00:14:33.360><c> then</c><00:14:33.519><c> maybe</c><00:14:33.839><c> within</c><00:14:34.160><c> the</c><00:14:34.240><c> partitions</c><00:14:35.120><c> um</c>
+
+00:14:35.509 --> 00:14:35.519 align:start position:0%
+and then maybe within the partitions um
+ 
+
+00:14:35.519 --> 00:14:37.189 align:start position:0%
+and then maybe within the partitions um
+you<00:14:35.600><c> know</c><00:14:36.000><c> obviously</c><00:14:36.320><c> we</c><00:14:36.480><c> replicate</c><00:14:37.040><c> each</c>
+
+00:14:37.189 --> 00:14:37.199 align:start position:0%
+you know obviously we replicate each
+ 
+
+00:14:37.199 --> 00:14:38.870 align:start position:0%
+you know obviously we replicate each
+partition<00:14:37.920><c> you</c><00:14:38.000><c> can</c><00:14:38.160><c> use</c><00:14:38.399><c> something</c><00:14:38.720><c> like</c>
+
+00:14:38.870 --> 00:14:38.880 align:start position:0%
+partition you can use something like
+ 
+
+00:14:38.880 --> 00:14:39.990 align:start position:0%
+partition you can use something like
+raft
+
+00:14:39.990 --> 00:14:40.000 align:start position:0%
+raft
+ 
+
+00:14:40.000 --> 00:14:41.430 align:start position:0%
+raft
+nonetheless<00:14:40.639><c> it's</c><00:14:40.800><c> really</c><00:14:41.040><c> important</c><00:14:41.360><c> to</c>
+
+00:14:41.430 --> 00:14:41.440 align:start position:0%
+nonetheless it's really important to
+ 
+
+00:14:41.440 --> 00:14:43.110 align:start position:0%
+nonetheless it's really important to
+understand<00:14:41.839><c> this</c><00:14:42.079><c> algorithm</c><00:14:42.560><c> as</c><00:14:42.720><c> it</c><00:14:42.800><c> gives</c><00:14:43.040><c> a</c>
+
+00:14:43.110 --> 00:14:43.120 align:start position:0%
+understand this algorithm as it gives a
+ 
+
+00:14:43.120 --> 00:14:44.870 align:start position:0%
+understand this algorithm as it gives a
+great<00:14:43.360><c> idea</c><00:14:43.839><c> of</c>
+
+00:14:44.870 --> 00:14:44.880 align:start position:0%
+great idea of
+ 
+
+00:14:44.880 --> 00:14:46.470 align:start position:0%
+great idea of
+kind<00:14:45.040><c> of</c><00:14:45.199><c> a</c><00:14:45.279><c> lot</c><00:14:45.440><c> of</c><00:14:45.519><c> the</c><00:14:45.680><c> concepts</c><00:14:46.240><c> that</c><00:14:46.320><c> we've</c>
+
+00:14:46.470 --> 00:14:46.480 align:start position:0%
+kind of a lot of the concepts that we've
+ 
+
+00:14:46.480 --> 00:14:48.230 align:start position:0%
+kind of a lot of the concepts that we've
+talked<00:14:46.720><c> about</c><00:14:46.880><c> such</c><00:14:47.120><c> as</c><00:14:47.279><c> quorums</c><00:14:47.839><c> fencing</c>
+
+00:14:48.230 --> 00:14:48.240 align:start position:0%
+talked about such as quorums fencing
+ 
+
+00:14:48.240 --> 00:14:50.230 align:start position:0%
+talked about such as quorums fencing
+tokens<00:14:49.040><c> and</c><00:14:49.199><c> even</c><00:14:49.440><c> just</c><00:14:49.600><c> like</c><00:14:49.760><c> two-phase</c>
+
+00:14:50.230 --> 00:14:50.240 align:start position:0%
+tokens and even just like two-phase
+ 
+
+00:14:50.240 --> 00:14:51.509 align:start position:0%
+tokens and even just like two-phase
+commit<00:14:50.480><c> in</c><00:14:50.560><c> general</c><00:14:50.880><c> how</c><00:14:51.040><c> there's</c><00:14:51.199><c> kind</c><00:14:51.360><c> of</c>
+
+00:14:51.509 --> 00:14:51.519 align:start position:0%
+commit in general how there's kind of
+ 
+
+00:14:51.519 --> 00:14:53.110 align:start position:0%
+commit in general how there's kind of
+this<00:14:51.680><c> idea</c><00:14:51.920><c> of</c><00:14:52.000><c> a</c><00:14:52.079><c> prepare</c><00:14:52.560><c> phase</c><00:14:52.880><c> and</c><00:14:52.959><c> then</c>
+
+00:14:53.110 --> 00:14:53.120 align:start position:0%
+this idea of a prepare phase and then
+ 
+
+00:14:53.120 --> 00:14:54.629 align:start position:0%
+this idea of a prepare phase and then
+eventually<00:14:53.600><c> committing</c><00:14:54.000><c> that</c><00:14:54.160><c> right</c><00:14:54.399><c> to</c><00:14:54.560><c> the</c>
+
+00:14:54.629 --> 00:14:54.639 align:start position:0%
+eventually committing that right to the
+ 
+
+00:14:54.639 --> 00:14:55.990 align:start position:0%
+eventually committing that right to the
+database<00:14:55.120><c> layer</c>
+
+00:14:55.990 --> 00:14:56.000 align:start position:0%
+database layer
+ 
+
+00:14:56.000 --> 00:14:57.590 align:start position:0%
+database layer
+ultimately<00:14:56.480><c> it's</c><00:14:56.639><c> really</c><00:14:56.880><c> important</c><00:14:57.199><c> to</c><00:14:57.360><c> know</c>
+
+00:14:57.590 --> 00:14:57.600 align:start position:0%
+ultimately it's really important to know
+ 
+
+00:14:57.600 --> 00:14:59.750 align:start position:0%
+ultimately it's really important to know
+about<00:14:57.920><c> raft</c><00:14:58.480><c> and</c><00:14:58.800><c> not</c><00:14:58.959><c> necessarily</c><00:14:59.519><c> every</c>
+
+00:14:59.750 --> 00:14:59.760 align:start position:0%
+about raft and not necessarily every
+ 
+
+00:14:59.760 --> 00:15:01.350 align:start position:0%
+about raft and not necessarily every
+step<00:15:00.000><c> of</c><00:15:00.160><c> it</c><00:15:00.320><c> but</c><00:15:00.480><c> generally</c><00:15:00.880><c> what</c><00:15:01.040><c> you</c><00:15:01.199><c> might</c>
+
+00:15:01.350 --> 00:15:01.360 align:start position:0%
+step of it but generally what you might
+ 
+
+00:15:01.360 --> 00:15:03.189 align:start position:0%
+step of it but generally what you might
+use<00:15:01.600><c> it</c><00:15:01.680><c> for</c><00:15:02.320><c> and</c><00:15:02.560><c> additionally</c><00:15:03.120><c> in</c>
+
+00:15:03.189 --> 00:15:03.199 align:start position:0%
+use it for and additionally in
+ 
+
+00:15:03.199 --> 00:15:04.870 align:start position:0%
+use it for and additionally in
+subsequent<00:15:03.760><c> videos</c><00:15:04.079><c> how</c><00:15:04.240><c> it</c><00:15:04.320><c> differs</c><00:15:04.720><c> from</c>
+
+00:15:04.870 --> 00:15:04.880 align:start position:0%
+subsequent videos how it differs from
+ 
+
+00:15:04.880 --> 00:15:06.870 align:start position:0%
+subsequent videos how it differs from
+other<00:15:05.040><c> consensus</c><00:15:05.600><c> algorithms</c><00:15:06.079><c> like</c><00:15:06.240><c> paxos</c><00:15:06.720><c> or</c>
+
+00:15:06.870 --> 00:15:06.880 align:start position:0%
+other consensus algorithms like paxos or
+ 
+
+00:15:06.880 --> 00:15:09.430 align:start position:0%
+other consensus algorithms like paxos or
+zap<00:15:07.519><c> and</c><00:15:07.600><c> i'll</c><00:15:07.760><c> get</c><00:15:07.920><c> to</c><00:15:08.000><c> those</c><00:15:08.240><c> eventually</c><00:15:08.800><c> too</c>
+
+00:15:09.430 --> 00:15:09.440 align:start position:0%
+zap and i'll get to those eventually too
+ 
+
+00:15:09.440 --> 00:15:11.030 align:start position:0%
+zap and i'll get to those eventually too
+well<00:15:09.680><c> either</c><00:15:09.920><c> way</c><00:15:10.160><c> guys</c><00:15:10.480><c> this</c><00:15:10.639><c> is</c><00:15:10.800><c> probably</c>
+
+00:15:11.030 --> 00:15:11.040 align:start position:0%
+well either way guys this is probably
+ 
+
+00:15:11.040 --> 00:15:12.629 align:start position:0%
+well either way guys this is probably
+the<00:15:11.120><c> most</c><00:15:11.360><c> theoretical</c><00:15:11.839><c> video</c><00:15:12.160><c> i've</c><00:15:12.240><c> had</c><00:15:12.480><c> so</c>
+
+00:15:12.629 --> 00:15:12.639 align:start position:0%
+the most theoretical video i've had so
+ 
+
+00:15:12.639 --> 00:15:14.470 align:start position:0%
+the most theoretical video i've had so
+far<00:15:13.040><c> but</c><00:15:13.279><c> i</c><00:15:13.360><c> hope</c><00:15:13.600><c> it</c><00:15:13.680><c> was</c><00:15:13.839><c> easy</c><00:15:14.079><c> enough</c><00:15:14.320><c> to</c>
+
+00:15:14.470 --> 00:15:14.480 align:start position:0%
+far but i hope it was easy enough to
+ 
+
+00:15:14.480 --> 00:15:18.000 align:start position:0%
+far but i hope it was easy enough to
+understand<00:15:15.040><c> and</c><00:15:15.199><c> have</c><00:15:15.360><c> a</c><00:15:15.440><c> great</c><00:15:15.600><c> day</c>
+

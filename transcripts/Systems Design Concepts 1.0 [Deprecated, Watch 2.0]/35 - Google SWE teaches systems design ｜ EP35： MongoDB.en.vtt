@@ -1,0 +1,2608 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.480 --> 00:00:02.470 align:start position:0%
+ 
+hello<00:00:00.880><c> everybody</c><00:00:01.520><c> i</c><00:00:01.599><c> am</c><00:00:01.839><c> back</c><00:00:02.000><c> for</c><00:00:02.159><c> another</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+hello everybody i am back for another
+ 
+
+00:00:02.480 --> 00:00:03.909 align:start position:0%
+hello everybody i am back for another
+video<00:00:02.879><c> and</c><00:00:02.960><c> today</c><00:00:03.199><c> is</c><00:00:03.360><c> going</c><00:00:03.439><c> to</c><00:00:03.520><c> be</c><00:00:03.679><c> about</c>
+
+00:00:03.909 --> 00:00:03.919 align:start position:0%
+video and today is going to be about
+ 
+
+00:00:03.919 --> 00:00:06.150 align:start position:0%
+video and today is going to be about
+mongodb<00:00:04.880><c> i've</c><00:00:05.040><c> got</c><00:00:05.279><c> probably</c><00:00:05.600><c> about</c><00:00:05.839><c> 15</c>
+
+00:00:06.150 --> 00:00:06.160 align:start position:0%
+mongodb i've got probably about 15
+ 
+
+00:00:06.160 --> 00:00:07.749 align:start position:0%
+mongodb i've got probably about 15
+minutes<00:00:06.480><c> to</c><00:00:06.640><c> record</c><00:00:07.040><c> before</c><00:00:07.279><c> my</c><00:00:07.440><c> roommate</c>
+
+00:00:07.749 --> 00:00:07.759 align:start position:0%
+minutes to record before my roommate
+ 
+
+00:00:07.759 --> 00:00:10.150 align:start position:0%
+minutes to record before my roommate
+comes<00:00:08.080><c> back</c><00:00:08.320><c> and</c><00:00:08.559><c> catches</c><00:00:08.960><c> me</c><00:00:09.040><c> in</c><00:00:09.200><c> the</c><00:00:09.280><c> process</c>
+
+00:00:10.150 --> 00:00:10.160 align:start position:0%
+comes back and catches me in the process
+ 
+
+00:00:10.160 --> 00:00:12.390 align:start position:0%
+comes back and catches me in the process
+that<00:00:10.400><c> being</c><00:00:10.639><c> said</c><00:00:10.960><c> 15</c><00:00:11.360><c> minutes</c><00:00:11.759><c> is</c><00:00:11.920><c> a</c><00:00:12.000><c> lot</c><00:00:12.240><c> for</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+that being said 15 minutes is a lot for
+ 
+
+00:00:12.400 --> 00:00:13.910 align:start position:0%
+that being said 15 minutes is a lot for
+me<00:00:12.559><c> because</c><00:00:12.719><c> typically</c><00:00:13.200><c> it</c><00:00:13.280><c> takes</c><00:00:13.519><c> me</c><00:00:13.679><c> about</c>
+
+00:00:13.910 --> 00:00:13.920 align:start position:0%
+me because typically it takes me about
+ 
+
+00:00:13.920 --> 00:00:15.749 align:start position:0%
+me because typically it takes me about
+30<00:00:14.240><c> seconds</c><00:00:14.639><c> to</c><00:00:14.719><c> get</c><00:00:14.960><c> finished</c><00:00:15.360><c> in</c><00:00:15.519><c> most</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+30 seconds to get finished in most
+ 
+
+00:00:15.759 --> 00:00:17.349 align:start position:0%
+30 seconds to get finished in most
+aspects<00:00:16.240><c> of</c><00:00:16.320><c> my</c><00:00:16.480><c> life</c>
+
+00:00:17.349 --> 00:00:17.359 align:start position:0%
+aspects of my life
+ 
+
+00:00:17.359 --> 00:00:19.429 align:start position:0%
+aspects of my life
+so<00:00:17.840><c> with</c><00:00:18.080><c> that</c><00:00:18.320><c> being</c><00:00:18.560><c> said</c><00:00:18.800><c> let's</c><00:00:18.960><c> talk</c><00:00:19.199><c> about</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+so with that being said let's talk about
+ 
+
+00:00:19.439 --> 00:00:21.189 align:start position:0%
+so with that being said let's talk about
+mongodb<00:00:20.240><c> sorry</c><00:00:20.560><c> i</c><00:00:20.720><c> probably</c><00:00:20.960><c> should</c><00:00:21.119><c> have</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+mongodb sorry i probably should have
+ 
+
+00:00:21.199 --> 00:00:22.870 align:start position:0%
+mongodb sorry i probably should have
+made<00:00:21.439><c> this</c><00:00:21.520><c> video</c><00:00:21.840><c> a</c><00:00:22.000><c> while</c><00:00:22.240><c> ago</c><00:00:22.480><c> but</c><00:00:22.560><c> i</c><00:00:22.640><c> kept</c>
+
+00:00:22.870 --> 00:00:22.880 align:start position:0%
+made this video a while ago but i kept
+ 
+
+00:00:22.880 --> 00:00:24.310 align:start position:0%
+made this video a while ago but i kept
+like<00:00:22.960><c> looking</c><00:00:23.279><c> at</c><00:00:23.760><c> and</c><00:00:23.840><c> being</c><00:00:24.080><c> like</c><00:00:24.240><c> i</c>
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+like looking at and being like i
+ 
+
+00:00:24.320 --> 00:00:26.710 align:start position:0%
+like looking at and being like i
+don't<00:00:24.560><c> understand</c><00:00:25.279><c> why</c><00:00:25.599><c> this</c><00:00:25.920><c> deserves</c><00:00:26.560><c> a</c>
+
+00:00:26.710 --> 00:00:26.720 align:start position:0%
+don't understand why this deserves a
+ 
+
+00:00:26.720 --> 00:00:29.349 align:start position:0%
+don't understand why this deserves a
+video<00:00:27.519><c> so</c><00:00:27.760><c> in</c><00:00:27.920><c> some</c><00:00:28.160><c> senses</c><00:00:28.560><c> it</c><00:00:28.720><c> doesn't</c><00:00:29.119><c> but</c>
+
+00:00:29.349 --> 00:00:29.359 align:start position:0%
+video so in some senses it doesn't but
+ 
+
+00:00:29.359 --> 00:00:30.950 align:start position:0%
+video so in some senses it doesn't but
+it<00:00:29.519><c> seems</c><00:00:29.760><c> that</c><00:00:29.920><c> a</c><00:00:30.000><c> lot</c><00:00:30.160><c> of</c><00:00:30.240><c> companies</c><00:00:30.720><c> still</c>
+
+00:00:30.950 --> 00:00:30.960 align:start position:0%
+it seems that a lot of companies still
+ 
+
+00:00:30.960 --> 00:00:32.470 align:start position:0%
+it seems that a lot of companies still
+use<00:00:31.199><c> it</c><00:00:31.359><c> and</c><00:00:31.519><c> for</c><00:00:31.679><c> that</c><00:00:31.840><c> reason</c><00:00:32.160><c> i'm</c><00:00:32.320><c> going</c><00:00:32.399><c> to</c>
+
+00:00:32.470 --> 00:00:32.480 align:start position:0%
+use it and for that reason i'm going to
+ 
+
+00:00:32.480 --> 00:00:34.630 align:start position:0%
+use it and for that reason i'm going to
+talk<00:00:32.719><c> about</c><00:00:33.040><c> why</c><00:00:33.200><c> they</c><00:00:33.360><c> might</c><00:00:33.600><c> do</c><00:00:33.760><c> that</c><00:00:34.239><c> okay</c>
+
+00:00:34.630 --> 00:00:34.640 align:start position:0%
+talk about why they might do that okay
+ 
+
+00:00:34.640 --> 00:00:36.790 align:start position:0%
+talk about why they might do that okay
+mongodb<00:00:35.520><c> what</c><00:00:35.680><c> is</c><00:00:35.840><c> it</c><00:00:36.000><c> well</c><00:00:36.320><c> basically</c>
+
+00:00:36.790 --> 00:00:36.800 align:start position:0%
+mongodb what is it well basically
+ 
+
+00:00:36.800 --> 00:00:39.830 align:start position:0%
+mongodb what is it well basically
+mongodb<00:00:37.760><c> is</c><00:00:37.920><c> another</c><00:00:38.239><c> nosql</c><00:00:38.800><c> database</c><00:00:39.680><c> but</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+mongodb is another nosql database but
+ 
+
+00:00:39.840 --> 00:00:41.750 align:start position:0%
+mongodb is another nosql database but
+this<00:00:40.079><c> time</c><00:00:40.320><c> as</c><00:00:40.480><c> opposed</c><00:00:40.879><c> to</c><00:00:41.280><c> a</c><00:00:41.360><c> bunch</c><00:00:41.600><c> of</c><00:00:41.680><c> the</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+this time as opposed to a bunch of the
+ 
+
+00:00:41.760 --> 00:00:42.869 align:start position:0%
+this time as opposed to a bunch of the
+other<00:00:41.920><c> ones</c><00:00:42.160><c> that</c><00:00:42.239><c> i've</c><00:00:42.399><c> talked</c><00:00:42.640><c> about</c>
+
+00:00:42.869 --> 00:00:42.879 align:start position:0%
+other ones that i've talked about
+ 
+
+00:00:42.879 --> 00:00:44.950 align:start position:0%
+other ones that i've talked about
+mongodb<00:00:43.600><c> actually</c><00:00:43.920><c> uses</c><00:00:44.239><c> a</c><00:00:44.399><c> document</c>
+
+00:00:44.950 --> 00:00:44.960 align:start position:0%
+mongodb actually uses a document
+ 
+
+00:00:44.960 --> 00:00:47.270 align:start position:0%
+mongodb actually uses a document
+oriented<00:00:45.520><c> format</c><00:00:46.320><c> which</c><00:00:46.559><c> basically</c><00:00:47.039><c> means</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+oriented format which basically means
+ 
+
+00:00:47.280 --> 00:00:49.110 align:start position:0%
+oriented format which basically means
+that<00:00:47.440><c> we've</c><00:00:47.680><c> got</c><00:00:47.920><c> collection</c><00:00:48.399><c> of</c><00:00:48.480><c> documents</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+that we've got collection of documents
+ 
+
+00:00:49.120 --> 00:00:50.709 align:start position:0%
+that we've got collection of documents
+and<00:00:49.280><c> data</c><00:00:49.600><c> can</c><00:00:49.760><c> be</c><00:00:50.000><c> stored</c><00:00:50.320><c> within</c><00:00:50.559><c> those</c>
+
+00:00:50.709 --> 00:00:50.719 align:start position:0%
+and data can be stored within those
+ 
+
+00:00:50.719 --> 00:00:51.830 align:start position:0%
+and data can be stored within those
+documents
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+documents
+ 
+
+00:00:51.840 --> 00:00:53.270 align:start position:0%
+documents
+it<00:00:52.000><c> definitely</c><00:00:52.320><c> has</c><00:00:52.559><c> some</c><00:00:52.719><c> pretty</c><00:00:52.960><c> stark</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+it definitely has some pretty stark
+ 
+
+00:00:53.280 --> 00:00:55.110 align:start position:0%
+it definitely has some pretty stark
+differences<00:00:53.760><c> to</c><00:00:53.920><c> something</c><00:00:54.320><c> like</c><00:00:54.640><c> either</c><00:00:54.879><c> a</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+differences to something like either a
+ 
+
+00:00:55.120 --> 00:00:57.189 align:start position:0%
+differences to something like either a
+relational<00:00:55.680><c> database</c><00:00:56.160><c> management</c><00:00:56.559><c> system</c>
+
+00:00:57.189 --> 00:00:57.199 align:start position:0%
+relational database management system
+ 
+
+00:00:57.199 --> 00:00:58.549 align:start position:0%
+relational database management system
+and<00:00:57.440><c> also</c><00:00:57.840><c> on</c><00:00:57.920><c> the</c><00:00:58.000><c> other</c><00:00:58.239><c> end</c><00:00:58.399><c> of</c><00:00:58.480><c> the</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+and also on the other end of the
+ 
+
+00:00:58.559 --> 00:01:00.709 align:start position:0%
+and also on the other end of the
+spectrum<00:00:59.039><c> something</c><00:00:59.359><c> like</c><00:00:59.520><c> cassandra</c><00:01:00.480><c> where</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+spectrum something like cassandra where
+ 
+
+00:01:00.719 --> 00:01:03.029 align:start position:0%
+spectrum something like cassandra where
+it<00:01:00.800><c> kind</c><00:01:00.960><c> of</c><00:01:01.120><c> takes</c><00:01:01.520><c> aspects</c><00:01:02.000><c> of</c><00:01:02.160><c> both</c><00:01:02.559><c> and</c><00:01:02.800><c> and</c>
+
+00:01:03.029 --> 00:01:03.039 align:start position:0%
+it kind of takes aspects of both and and
+ 
+
+00:01:03.039 --> 00:01:04.710 align:start position:0%
+it kind of takes aspects of both and and
+it<00:01:03.199><c> really</c><00:01:03.440><c> seems</c><00:01:03.680><c> to</c><00:01:03.840><c> position</c><00:01:04.239><c> itself</c><00:01:04.640><c> in</c>
+
+00:01:04.710 --> 00:01:04.720 align:start position:0%
+it really seems to position itself in
+ 
+
+00:01:04.720 --> 00:01:06.390 align:start position:0%
+it really seems to position itself in
+like<00:01:04.879><c> a</c><00:01:04.960><c> major</c><00:01:05.360><c> middle</c><00:01:05.600><c> ground</c><00:01:05.920><c> between</c><00:01:06.240><c> all</c>
+
+00:01:06.390 --> 00:01:06.400 align:start position:0%
+like a major middle ground between all
+ 
+
+00:01:06.400 --> 00:01:08.070 align:start position:0%
+like a major middle ground between all
+of<00:01:06.479><c> the</c><00:01:06.560><c> databases</c><00:01:07.200><c> that</c><00:01:07.280><c> we've</c><00:01:07.520><c> covered</c><00:01:07.840><c> so</c>
+
+00:01:08.070 --> 00:01:08.080 align:start position:0%
+of the databases that we've covered so
+ 
+
+00:01:08.080 --> 00:01:10.390 align:start position:0%
+of the databases that we've covered so
+far<00:01:08.720><c> so</c><00:01:08.880><c> i'm</c><00:01:09.040><c> going</c><00:01:09.119><c> to</c><00:01:09.280><c> kind</c><00:01:09.439><c> of</c><00:01:09.600><c> describe</c><00:01:10.159><c> the</c>
+
+00:01:10.390 --> 00:01:10.400 align:start position:0%
+far so i'm going to kind of describe the
+ 
+
+00:01:10.400 --> 00:01:12.630 align:start position:0%
+far so i'm going to kind of describe the
+architectural<00:01:11.040><c> choices</c><00:01:11.600><c> that</c><00:01:12.240><c> have</c><00:01:12.400><c> gone</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+architectural choices that have gone
+ 
+
+00:01:12.640 --> 00:01:14.710 align:start position:0%
+architectural choices that have gone
+into<00:01:12.880><c> mongodb</c><00:01:13.600><c> that</c><00:01:13.760><c> makes</c><00:01:14.080><c> it</c><00:01:14.240><c> kind</c><00:01:14.400><c> of</c><00:01:14.479><c> work</c>
+
+00:01:14.710 --> 00:01:14.720 align:start position:0%
+into mongodb that makes it kind of work
+ 
+
+00:01:14.720 --> 00:01:16.870 align:start position:0%
+into mongodb that makes it kind of work
+that<00:01:14.960><c> way</c><00:01:15.520><c> and</c><00:01:15.759><c> ultimately</c><00:01:16.240><c> why</c><00:01:16.479><c> it</c><00:01:16.560><c> kind</c><00:01:16.720><c> of</c>
+
+00:01:16.870 --> 00:01:16.880 align:start position:0%
+that way and ultimately why it kind of
+ 
+
+00:01:16.880 --> 00:01:18.870 align:start position:0%
+that way and ultimately why it kind of
+acts<00:01:17.200><c> as</c><00:01:17.360><c> a</c><00:01:17.600><c> jack</c><00:01:17.840><c> of</c><00:01:18.000><c> all</c><00:01:18.159><c> trades</c><00:01:18.560><c> type</c><00:01:18.799><c> of</c>
+
+00:01:18.870 --> 00:01:18.880 align:start position:0%
+acts as a jack of all trades type of
+ 
+
+00:01:18.880 --> 00:01:21.510 align:start position:0%
+acts as a jack of all trades type of
+database<00:01:19.840><c> where</c><00:01:20.080><c> its</c><00:01:20.320><c> biggest</c><00:01:20.720><c> utility</c><00:01:21.360><c> is</c>
+
+00:01:21.510 --> 00:01:21.520 align:start position:0%
+database where its biggest utility is
+ 
+
+00:01:21.520 --> 00:01:23.350 align:start position:0%
+database where its biggest utility is
+probably<00:01:22.000><c> the</c><00:01:22.159><c> fact</c><00:01:22.479><c> that</c><00:01:22.799><c> the</c><00:01:22.960><c> lack</c><00:01:23.280><c> of</c>
+
+00:01:23.350 --> 00:01:23.360 align:start position:0%
+probably the fact that the lack of
+ 
+
+00:01:23.360 --> 00:01:25.670 align:start position:0%
+probably the fact that the lack of
+constraints<00:01:24.000><c> on</c><00:01:24.159><c> the</c><00:01:24.320><c> type</c><00:01:24.560><c> of</c><00:01:25.119><c> operations</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+constraints on the type of operations
+ 
+
+00:01:25.680 --> 00:01:27.510 align:start position:0%
+constraints on the type of operations
+you<00:01:25.840><c> can</c><00:01:25.920><c> do</c><00:01:26.159><c> on</c><00:01:26.240><c> the</c><00:01:26.320><c> data</c><00:01:27.040><c> means</c><00:01:27.360><c> that</c><00:01:27.439><c> you</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+you can do on the data means that you
+ 
+
+00:01:27.520 --> 00:01:29.030 align:start position:0%
+you can do on the data means that you
+don't<00:01:27.759><c> have</c><00:01:27.920><c> to</c><00:01:28.000><c> worry</c><00:01:28.320><c> too</c><00:01:28.479><c> much</c><00:01:28.720><c> about</c>
+
+00:01:29.030 --> 00:01:29.040 align:start position:0%
+don't have to worry too much about
+ 
+
+00:01:29.040 --> 00:01:30.950 align:start position:0%
+don't have to worry too much about
+future<00:01:29.360><c> maintainability</c><00:01:30.400><c> you</c><00:01:30.560><c> can</c><00:01:30.640><c> kind</c><00:01:30.880><c> of</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+future maintainability you can kind of
+ 
+
+00:01:30.960 --> 00:01:33.590 align:start position:0%
+future maintainability you can kind of
+just<00:01:31.200><c> throw</c><00:01:31.600><c> your</c><00:01:31.759><c> data</c><00:01:32.000><c> in</c><00:01:32.159><c> mongodb</c><00:01:33.200><c> and</c><00:01:33.360><c> know</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+just throw your data in mongodb and know
+ 
+
+00:01:33.600 --> 00:01:35.510 align:start position:0%
+just throw your data in mongodb and know
+that<00:01:34.079><c> the</c><00:01:34.159><c> majority</c><00:01:34.640><c> of</c><00:01:34.799><c> your</c><00:01:34.880><c> functionality</c>
+
+00:01:35.510 --> 00:01:35.520 align:start position:0%
+that the majority of your functionality
+ 
+
+00:01:35.520 --> 00:01:37.590 align:start position:0%
+that the majority of your functionality
+is<00:01:35.680><c> probably</c><00:01:36.079><c> going</c><00:01:36.159><c> to</c><00:01:36.240><c> be</c><00:01:36.400><c> supported</c><00:01:37.119><c> albeit</c>
+
+00:01:37.590 --> 00:01:37.600 align:start position:0%
+is probably going to be supported albeit
+ 
+
+00:01:37.600 --> 00:01:40.950 align:start position:0%
+is probably going to be supported albeit
+maybe<00:01:37.840><c> not</c><00:01:38.079><c> at</c><00:01:38.159><c> the</c><00:01:38.240><c> fastest</c><00:01:38.720><c> possible</c><00:01:39.119><c> speeds</c>
+
+00:01:40.950 --> 00:01:40.960 align:start position:0%
+maybe not at the fastest possible speeds
+ 
+
+00:01:40.960 --> 00:01:42.710 align:start position:0%
+maybe not at the fastest possible speeds
+okay<00:01:41.280><c> so</c><00:01:41.520><c> firstly</c><00:01:41.920><c> let's</c><00:01:42.159><c> talk</c><00:01:42.399><c> about</c><00:01:42.640><c> the</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+okay so firstly let's talk about the
+ 
+
+00:01:42.720 --> 00:01:44.950 align:start position:0%
+okay so firstly let's talk about the
+data<00:01:42.960><c> format</c><00:01:43.680><c> like</c><00:01:43.920><c> i</c><00:01:44.000><c> mentioned</c><00:01:44.320><c> mongodb</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+data format like i mentioned mongodb
+ 
+
+00:01:44.960 --> 00:01:46.789 align:start position:0%
+data format like i mentioned mongodb
+stores<00:01:45.360><c> its</c><00:01:45.520><c> data</c><00:01:45.920><c> in</c><00:01:46.159><c> documents</c><00:01:46.640><c> where</c>
+
+00:01:46.789 --> 00:01:46.799 align:start position:0%
+stores its data in documents where
+ 
+
+00:01:46.799 --> 00:01:48.550 align:start position:0%
+stores its data in documents where
+documents<00:01:47.280><c> are</c><00:01:47.360><c> stored</c><00:01:47.680><c> in</c><00:01:47.759><c> collections</c><00:01:48.320><c> each</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+documents are stored in collections each
+ 
+
+00:01:48.560 --> 00:01:50.069 align:start position:0%
+documents are stored in collections each
+document<00:01:48.960><c> can</c><00:01:49.200><c> also</c><00:01:49.439><c> have</c><00:01:49.600><c> collections</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+document can also have collections
+ 
+
+00:01:50.079 --> 00:01:51.749 align:start position:0%
+document can also have collections
+within<00:01:50.479><c> it</c><00:01:50.799><c> and</c><00:01:50.880><c> then</c><00:01:51.040><c> you</c><00:01:51.200><c> can</c><00:01:51.280><c> have</c><00:01:51.520><c> sub</c>
+
+00:01:51.749 --> 00:01:51.759 align:start position:0%
+within it and then you can have sub
+ 
+
+00:01:51.759 --> 00:01:53.910 align:start position:0%
+within it and then you can have sub
+documents<00:01:52.240><c> within</c><00:01:52.479><c> those</c><00:01:52.720><c> collections</c><00:01:53.520><c> so</c><00:01:53.680><c> as</c>
+
+00:01:53.910 --> 00:01:53.920 align:start position:0%
+documents within those collections so as
+ 
+
+00:01:53.920 --> 00:01:55.350 align:start position:0%
+documents within those collections so as
+you<00:01:54.000><c> can</c><00:01:54.159><c> see</c><00:01:54.399><c> i've</c><00:01:54.560><c> put</c><00:01:54.720><c> some</c><00:01:54.880><c> of</c><00:01:54.880><c> my</c><00:01:55.040><c> favorite</c>
+
+00:01:55.350 --> 00:01:55.360 align:start position:0%
+you can see i've put some of my favorite
+ 
+
+00:01:55.360 --> 00:01:58.149 align:start position:0%
+you can see i've put some of my favorite
+actresses<00:01:55.920><c> below</c><00:01:56.560><c> and</c><00:01:57.200><c> we've</c><00:01:57.439><c> got</c><00:01:57.759><c> videos</c>
+
+00:01:58.149 --> 00:01:58.159 align:start position:0%
+actresses below and we've got videos
+ 
+
+00:01:58.159 --> 00:01:59.670 align:start position:0%
+actresses below and we've got videos
+which<00:01:58.479><c> are</c><00:01:58.640><c> a</c><00:01:58.799><c> sub</c><00:01:59.040><c> collection</c><00:01:59.360><c> which</c><00:01:59.600><c> i</c>
+
+00:01:59.670 --> 00:01:59.680 align:start position:0%
+which are a sub collection which i
+ 
+
+00:01:59.680 --> 00:02:02.149 align:start position:0%
+which are a sub collection which i
+didn't<00:01:59.840><c> really</c><00:02:00.079><c> bother</c><00:02:00.399><c> to</c><00:02:00.560><c> picture</c><00:02:01.360><c> but</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+didn't really bother to picture but
+ 
+
+00:02:02.159 --> 00:02:04.069 align:start position:0%
+didn't really bother to picture but
+you<00:02:02.320><c> know</c><00:02:02.560><c> the</c><00:02:02.719><c> point</c><00:02:03.040><c> is</c><00:02:03.200><c> you</c><00:02:03.280><c> can</c><00:02:03.439><c> have</c><00:02:03.840><c> other</c>
+
+00:02:04.069 --> 00:02:04.079 align:start position:0%
+you know the point is you can have other
+ 
+
+00:02:04.079 --> 00:02:05.910 align:start position:0%
+you know the point is you can have other
+video<00:02:04.399><c> documents</c><00:02:05.040><c> in</c><00:02:05.200><c> each</c><00:02:05.360><c> of</c><00:02:05.520><c> those</c><00:02:05.680><c> sub</c>
+
+00:02:05.910 --> 00:02:05.920 align:start position:0%
+video documents in each of those sub
+ 
+
+00:02:05.920 --> 00:02:08.070 align:start position:0%
+video documents in each of those sub
+collections<00:02:06.719><c> what</c><00:02:06.880><c> that</c><00:02:07.040><c> does</c><00:02:07.360><c> is</c><00:02:07.520><c> it</c><00:02:07.680><c> greatly</c>
+
+00:02:08.070 --> 00:02:08.080 align:start position:0%
+collections what that does is it greatly
+ 
+
+00:02:08.080 --> 00:02:10.070 align:start position:0%
+collections what that does is it greatly
+increases<00:02:08.479><c> data</c><00:02:08.800><c> locality</c><00:02:09.360><c> you</c><00:02:09.440><c> can</c><00:02:09.599><c> store</c><00:02:10.000><c> a</c>
+
+00:02:10.070 --> 00:02:10.080 align:start position:0%
+increases data locality you can store a
+ 
+
+00:02:10.080 --> 00:02:11.670 align:start position:0%
+increases data locality you can store a
+ton<00:02:10.239><c> of</c><00:02:10.399><c> information</c><00:02:10.959><c> within</c><00:02:11.280><c> these</c><00:02:11.520><c> one</c>
+
+00:02:11.670 --> 00:02:11.680 align:start position:0%
+ton of information within these one
+ 
+
+00:02:11.680 --> 00:02:12.710 align:start position:0%
+ton of information within these one
+document
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+document
+ 
+
+00:02:12.720 --> 00:02:14.550 align:start position:0%
+document
+or<00:02:13.040><c> within</c><00:02:13.360><c> this</c><00:02:13.520><c> one</c><00:02:13.760><c> document</c><00:02:14.160><c> and</c><00:02:14.400><c> as</c><00:02:14.480><c> a</c>
+
+00:02:14.550 --> 00:02:14.560 align:start position:0%
+or within this one document and as a
+ 
+
+00:02:14.560 --> 00:02:15.910 align:start position:0%
+or within this one document and as a
+result<00:02:14.959><c> of</c><00:02:15.040><c> that</c>
+
+00:02:15.910 --> 00:02:15.920 align:start position:0%
+result of that
+ 
+
+00:02:15.920 --> 00:02:17.510 align:start position:0%
+result of that
+you<00:02:16.080><c> know</c><00:02:16.160><c> if</c><00:02:16.319><c> you</c><00:02:16.400><c> need</c><00:02:16.560><c> to</c><00:02:16.720><c> access</c><00:02:17.200><c> a</c><00:02:17.280><c> ton</c><00:02:17.440><c> of</c>
+
+00:02:17.510 --> 00:02:17.520 align:start position:0%
+you know if you need to access a ton of
+ 
+
+00:02:17.520 --> 00:02:19.270 align:start position:0%
+you know if you need to access a ton of
+stuff<00:02:17.920><c> unlike</c><00:02:18.160><c> a</c><00:02:18.239><c> relational</c><00:02:18.800><c> database</c>
+
+00:02:19.270 --> 00:02:19.280 align:start position:0%
+stuff unlike a relational database
+ 
+
+00:02:19.280 --> 00:02:21.190 align:start position:0%
+stuff unlike a relational database
+system<00:02:20.080><c> where</c><00:02:20.319><c> you</c><00:02:20.400><c> know</c><00:02:20.560><c> you</c><00:02:20.720><c> may</c><00:02:20.879><c> have</c><00:02:21.040><c> to</c>
+
+00:02:21.190 --> 00:02:21.200 align:start position:0%
+system where you know you may have to
+ 
+
+00:02:21.200 --> 00:02:22.390 align:start position:0%
+system where you know you may have to
+perform<00:02:21.599><c> a</c><00:02:21.680><c> join</c>
+
+00:02:22.390 --> 00:02:22.400 align:start position:0%
+perform a join
+ 
+
+00:02:22.400 --> 00:02:24.229 align:start position:0%
+perform a join
+you<00:02:22.480><c> can</c><00:02:22.720><c> actually</c><00:02:23.120><c> just</c><00:02:23.520><c> get</c><00:02:23.760><c> all</c><00:02:23.920><c> of</c><00:02:24.000><c> that</c>
+
+00:02:24.229 --> 00:02:24.239 align:start position:0%
+you can actually just get all of that
+ 
+
+00:02:24.239 --> 00:02:27.110 align:start position:0%
+you can actually just get all of that
+data<00:02:24.879><c> in</c><00:02:25.040><c> the</c><00:02:25.120><c> same</c><00:02:25.440><c> spot</c><00:02:25.760><c> on</c><00:02:26.000><c> disk</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+data in the same spot on disk
+ 
+
+00:02:27.120 --> 00:02:28.869 align:start position:0%
+data in the same spot on disk
+additionally<00:02:27.680><c> do</c><00:02:27.920><c> note</c><00:02:28.239><c> that</c><00:02:28.480><c> um</c><00:02:28.720><c> the</c>
+
+00:02:28.869 --> 00:02:28.879 align:start position:0%
+additionally do note that um the
+ 
+
+00:02:28.879 --> 00:02:30.550 align:start position:0%
+additionally do note that um the
+documents<00:02:29.360><c> don't</c><00:02:29.520><c> necessarily</c><00:02:30.080><c> have</c><00:02:30.239><c> a</c><00:02:30.319><c> set</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+documents don't necessarily have a set
+ 
+
+00:02:30.560 --> 00:02:32.390 align:start position:0%
+documents don't necessarily have a set
+schema<00:02:31.040><c> even</c><00:02:31.280><c> if</c><00:02:31.360><c> i</c><00:02:31.519><c> made</c><00:02:31.680><c> it</c><00:02:31.760><c> look</c><00:02:32.000><c> that</c><00:02:32.160><c> way</c>
+
+00:02:32.390 --> 00:02:32.400 align:start position:0%
+schema even if i made it look that way
+ 
+
+00:02:32.400 --> 00:02:34.150 align:start position:0%
+schema even if i made it look that way
+right<00:02:32.640><c> here</c><00:02:33.280><c> for</c><00:02:33.440><c> example</c><00:02:33.840><c> i</c><00:02:34.000><c> could</c>
+
+00:02:34.150 --> 00:02:34.160 align:start position:0%
+right here for example i could
+ 
+
+00:02:34.160 --> 00:02:36.229 align:start position:0%
+right here for example i could
+definitely<00:02:34.560><c> put</c><00:02:34.800><c> other</c><00:02:35.120><c> properties</c><00:02:35.760><c> for</c><00:02:36.000><c> each</c>
+
+00:02:36.229 --> 00:02:36.239 align:start position:0%
+definitely put other properties for each
+ 
+
+00:02:36.239 --> 00:02:38.390 align:start position:0%
+definitely put other properties for each
+of<00:02:36.319><c> these</c><00:02:36.560><c> documents</c><00:02:37.120><c> that</c><00:02:37.280><c> are</c><00:02:37.440><c> unique</c><00:02:38.239><c> like</c>
+
+00:02:38.390 --> 00:02:38.400 align:start position:0%
+of these documents that are unique like
+ 
+
+00:02:38.400 --> 00:02:39.910 align:start position:0%
+of these documents that are unique like
+i<00:02:38.480><c> don't</c><00:02:38.640><c> know</c><00:02:38.879><c> maybe</c><00:02:39.200><c> if</c><00:02:39.360><c> i</c><00:02:39.440><c> knew</c><00:02:39.680><c> one</c><00:02:39.840><c> of</c>
+
+00:02:39.910 --> 00:02:39.920 align:start position:0%
+i don't know maybe if i knew one of
+ 
+
+00:02:39.920 --> 00:02:41.190 align:start position:0%
+i don't know maybe if i knew one of
+their<00:02:40.080><c> heights</c><00:02:40.480><c> i</c><00:02:40.560><c> could</c><00:02:40.720><c> put</c><00:02:40.879><c> the</c><00:02:40.959><c> height</c>
+
+00:02:41.190 --> 00:02:41.200 align:start position:0%
+their heights i could put the height
+ 
+
+00:02:41.200 --> 00:02:42.710 align:start position:0%
+their heights i could put the height
+there<00:02:41.440><c> or</c><00:02:41.519><c> their</c><00:02:41.760><c> weight</c><00:02:42.000><c> or</c><00:02:42.160><c> something</c><00:02:42.400><c> along</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+there or their weight or something along
+ 
+
+00:02:42.720 --> 00:02:45.589 align:start position:0%
+there or their weight or something along
+those<00:02:42.959><c> lines</c><00:02:43.760><c> but</c><00:02:44.000><c> the</c><00:02:44.160><c> point</c><00:02:44.480><c> is</c><00:02:44.720><c> that</c>
+
+00:02:45.589 --> 00:02:45.599 align:start position:0%
+those lines but the point is that
+ 
+
+00:02:45.599 --> 00:02:47.750 align:start position:0%
+those lines but the point is that
+being<00:02:45.920><c> able</c><00:02:46.080><c> to</c><00:02:46.239><c> not</c><00:02:46.480><c> have</c>
+
+00:02:47.750 --> 00:02:47.760 align:start position:0%
+being able to not have
+ 
+
+00:02:47.760 --> 00:02:49.750 align:start position:0%
+being able to not have
+a<00:02:47.920><c> set</c><00:02:48.160><c> in</c><00:02:48.239><c> stone</c><00:02:48.560><c> schema</c><00:02:48.959><c> is</c><00:02:49.120><c> very</c><00:02:49.280><c> useful</c><00:02:49.599><c> for</c>
+
+00:02:49.750 --> 00:02:49.760 align:start position:0%
+a set in stone schema is very useful for
+ 
+
+00:02:49.760 --> 00:02:52.070 align:start position:0%
+a set in stone schema is very useful for
+mongodb<00:02:50.720><c> because</c><00:02:51.040><c> for</c><00:02:51.200><c> developers</c><00:02:51.760><c> who</c><00:02:51.920><c> know</c>
+
+00:02:52.070 --> 00:02:52.080 align:start position:0%
+mongodb because for developers who know
+ 
+
+00:02:52.080 --> 00:02:53.670 align:start position:0%
+mongodb because for developers who know
+that<00:02:52.239><c> their</c><00:02:52.400><c> application</c><00:02:53.120><c> and</c><00:02:53.200><c> the</c><00:02:53.280><c> data</c><00:02:53.599><c> that</c>
+
+00:02:53.670 --> 00:02:53.680 align:start position:0%
+that their application and the data that
+ 
+
+00:02:53.680 --> 00:02:55.190 align:start position:0%
+that their application and the data that
+they're<00:02:53.840><c> going</c><00:02:53.920><c> to</c><00:02:54.000><c> use</c><00:02:54.319><c> is</c><00:02:54.400><c> going</c><00:02:54.640><c> to</c><00:02:54.800><c> kind</c><00:02:54.959><c> of</c>
+
+00:02:55.190 --> 00:02:55.200 align:start position:0%
+they're going to use is going to kind of
+ 
+
+00:02:55.200 --> 00:02:57.350 align:start position:0%
+they're going to use is going to kind of
+evolve<00:02:55.599><c> over</c><00:02:55.840><c> time</c><00:02:56.400><c> having</c><00:02:56.720><c> that</c><00:02:56.879><c> flexible</c>
+
+00:02:57.350 --> 00:02:57.360 align:start position:0%
+evolve over time having that flexible
+ 
+
+00:02:57.360 --> 00:02:59.270 align:start position:0%
+evolve over time having that flexible
+schema<00:02:58.000><c> allows</c><00:02:58.319><c> you</c><00:02:58.480><c> to</c><00:02:58.560><c> have</c><00:02:58.720><c> some</c><00:02:58.959><c> peace</c><00:02:59.200><c> of</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+schema allows you to have some peace of
+ 
+
+00:02:59.280 --> 00:03:00.390 align:start position:0%
+schema allows you to have some peace of
+mind<00:02:59.519><c> that</c><00:02:59.599><c> you're</c><00:02:59.760><c> not</c><00:02:59.920><c> going</c><00:03:00.000><c> to</c><00:03:00.080><c> have</c><00:03:00.159><c> to</c><00:03:00.239><c> do</c>
+
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+mind that you're not going to have to do
+ 
+
+00:03:00.400 --> 00:03:02.550 align:start position:0%
+mind that you're not going to have to do
+a<00:03:00.480><c> major</c><00:03:00.800><c> migration</c><00:03:01.360><c> downline</c><00:03:02.000><c> or</c><00:03:02.159><c> ever</c><00:03:02.319><c> have</c>
+
+00:03:02.550 --> 00:03:02.560 align:start position:0%
+a major migration downline or ever have
+ 
+
+00:03:02.560 --> 00:03:05.589 align:start position:0%
+a major migration downline or ever have
+downtime<00:03:03.040><c> or</c><00:03:03.200><c> anything</c><00:03:03.440><c> like</c><00:03:03.680><c> that</c>
+
+00:03:05.589 --> 00:03:05.599 align:start position:0%
+downtime or anything like that
+ 
+
+00:03:05.599 --> 00:03:07.270 align:start position:0%
+downtime or anything like that
+okay<00:03:05.840><c> so</c><00:03:06.080><c> in</c><00:03:06.159><c> terms</c><00:03:06.400><c> of</c><00:03:06.480><c> the</c><00:03:06.640><c> architectural</c>
+
+00:03:07.270 --> 00:03:07.280 align:start position:0%
+okay so in terms of the architectural
+ 
+
+00:03:07.280 --> 00:03:08.470 align:start position:0%
+okay so in terms of the architectural
+overview<00:03:07.760><c> i'm</c><00:03:07.920><c> kind</c><00:03:08.080><c> of</c><00:03:08.159><c> just</c><00:03:08.319><c> going</c><00:03:08.400><c> to</c>
+
+00:03:08.470 --> 00:03:08.480 align:start position:0%
+overview i'm kind of just going to
+ 
+
+00:03:08.480 --> 00:03:09.990 align:start position:0%
+overview i'm kind of just going to
+breeze<00:03:08.800><c> through</c><00:03:09.040><c> this</c><00:03:09.280><c> because</c><00:03:09.519><c> we</c><00:03:09.680><c> know</c><00:03:09.840><c> what</c>
+
+00:03:09.990 --> 00:03:10.000 align:start position:0%
+breeze through this because we know what
+ 
+
+00:03:10.000 --> 00:03:12.070 align:start position:0%
+breeze through this because we know what
+most<00:03:10.239><c> of</c><00:03:10.319><c> these</c><00:03:10.480><c> topics</c><00:03:10.959><c> are</c><00:03:11.120><c> at</c><00:03:11.200><c> this</c><00:03:11.360><c> point</c>
+
+00:03:12.070 --> 00:03:12.080 align:start position:0%
+most of these topics are at this point
+ 
+
+00:03:12.080 --> 00:03:13.990 align:start position:0%
+most of these topics are at this point
+and<00:03:12.560><c> the</c><00:03:12.720><c> point</c><00:03:12.959><c> of</c><00:03:13.120><c> this</c><00:03:13.280><c> video</c><00:03:13.599><c> for</c><00:03:13.760><c> me</c>
+
+00:03:13.990 --> 00:03:14.000 align:start position:0%
+and the point of this video for me
+ 
+
+00:03:14.000 --> 00:03:16.390 align:start position:0%
+and the point of this video for me
+personally<00:03:14.560><c> is</c><00:03:14.720><c> not</c><00:03:14.959><c> to</c><00:03:15.200><c> you</c><00:03:15.280><c> know</c><00:03:15.920><c> kind</c><00:03:16.080><c> of</c>
+
+00:03:16.390 --> 00:03:16.400 align:start position:0%
+personally is not to you know kind of
+ 
+
+00:03:16.400 --> 00:03:18.390 align:start position:0%
+personally is not to you know kind of
+discuss<00:03:16.800><c> the</c><00:03:16.959><c> inner</c><00:03:17.200><c> workings</c><00:03:17.599><c> of</c><00:03:17.680><c> mongodb</c>
+
+00:03:18.390 --> 00:03:18.400 align:start position:0%
+discuss the inner workings of mongodb
+ 
+
+00:03:18.400 --> 00:03:20.070 align:start position:0%
+discuss the inner workings of mongodb
+but<00:03:18.560><c> probably</c><00:03:18.959><c> more</c><00:03:19.200><c> so</c><00:03:19.360><c> get</c><00:03:19.519><c> to</c><00:03:19.680><c> the</c><00:03:19.760><c> bottom</c>
+
+00:03:20.070 --> 00:03:20.080 align:start position:0%
+but probably more so get to the bottom
+ 
+
+00:03:20.080 --> 00:03:22.470 align:start position:0%
+but probably more so get to the bottom
+of<00:03:20.239><c> why</c><00:03:20.480><c> you</c><00:03:20.640><c> have</c><00:03:20.800><c> so</c><00:03:20.959><c> many</c><00:03:21.120><c> people</c><00:03:21.440><c> using</c><00:03:21.760><c> it</c>
+
+00:03:22.470 --> 00:03:22.480 align:start position:0%
+of why you have so many people using it
+ 
+
+00:03:22.480 --> 00:03:24.470 align:start position:0%
+of why you have so many people using it
+and<00:03:22.720><c> i'll</c><00:03:22.959><c> i</c><00:03:23.040><c> guess</c><00:03:23.440><c> express</c><00:03:23.840><c> my</c><00:03:24.080><c> thesis</c>
+
+00:03:24.470 --> 00:03:24.480 align:start position:0%
+and i'll i guess express my thesis
+ 
+
+00:03:24.480 --> 00:03:25.830 align:start position:0%
+and i'll i guess express my thesis
+towards<00:03:24.799><c> the</c><00:03:24.879><c> end</c>
+
+00:03:25.830 --> 00:03:25.840 align:start position:0%
+towards the end
+ 
+
+00:03:25.840 --> 00:03:28.550 align:start position:0%
+towards the end
+so<00:03:26.080><c> anyways</c><00:03:26.879><c> obviously</c><00:03:27.519><c> mongodb</c><00:03:28.080><c> can</c><00:03:28.239><c> store</c><00:03:28.480><c> a</c>
+
+00:03:28.550 --> 00:03:28.560 align:start position:0%
+so anyways obviously mongodb can store a
+ 
+
+00:03:28.560 --> 00:03:30.470 align:start position:0%
+so anyways obviously mongodb can store a
+ton<00:03:28.799><c> of</c><00:03:28.879><c> data</c><00:03:29.360><c> so</c><00:03:29.599><c> within</c><00:03:29.840><c> a</c><00:03:29.920><c> collection</c><00:03:30.400><c> if</c>
+
+00:03:30.470 --> 00:03:30.480 align:start position:0%
+ton of data so within a collection if
+ 
+
+00:03:30.480 --> 00:03:31.990 align:start position:0%
+ton of data so within a collection if
+you<00:03:30.560><c> have</c><00:03:30.640><c> a</c><00:03:30.720><c> ton</c><00:03:30.959><c> of</c><00:03:31.040><c> documents</c><00:03:31.760><c> you're</c>
+
+00:03:31.990 --> 00:03:32.000 align:start position:0%
+you have a ton of documents you're
+ 
+
+00:03:32.000 --> 00:03:33.509 align:start position:0%
+you have a ton of documents you're
+probably<00:03:32.400><c> going</c><00:03:32.560><c> to</c><00:03:32.640><c> have</c><00:03:32.720><c> to</c><00:03:32.879><c> partition</c><00:03:33.280><c> them</c>
+
+00:03:33.509 --> 00:03:33.519 align:start position:0%
+probably going to have to partition them
+ 
+
+00:03:33.519 --> 00:03:35.030 align:start position:0%
+probably going to have to partition them
+and<00:03:33.599><c> you</c><00:03:33.680><c> can</c><00:03:33.840><c> do</c><00:03:34.000><c> so</c><00:03:34.239><c> by</c><00:03:34.400><c> using</c><00:03:34.720><c> something</c>
+
+00:03:35.030 --> 00:03:35.040 align:start position:0%
+and you can do so by using something
+ 
+
+00:03:35.040 --> 00:03:37.910 align:start position:0%
+and you can do so by using something
+called<00:03:35.280><c> a</c><00:03:35.440><c> shard</c><00:03:35.760><c> key</c><00:03:36.400><c> where</c><00:03:37.120><c> manga</c><00:03:37.440><c> will</c><00:03:37.599><c> auto</c>
+
+00:03:37.910 --> 00:03:37.920 align:start position:0%
+called a shard key where manga will auto
+ 
+
+00:03:37.920 --> 00:03:39.270 align:start position:0%
+called a shard key where manga will auto
+generate<00:03:38.319><c> this</c><00:03:38.480><c> for</c><00:03:38.640><c> you</c><00:03:38.799><c> if</c><00:03:38.959><c> you</c><00:03:39.040><c> don't</c>
+
+00:03:39.270 --> 00:03:39.280 align:start position:0%
+generate this for you if you don't
+ 
+
+00:03:39.280 --> 00:03:40.550 align:start position:0%
+generate this for you if you don't
+specify<00:03:39.840><c> it</c>
+
+00:03:40.550 --> 00:03:40.560 align:start position:0%
+specify it
+ 
+
+00:03:40.560 --> 00:03:42.149 align:start position:0%
+specify it
+it's<00:03:40.720><c> basically</c><00:03:41.120><c> just</c><00:03:41.280><c> like</c><00:03:41.440><c> the</c><00:03:41.680><c> id</c><00:03:41.920><c> of</c><00:03:42.000><c> the</c>
+
+00:03:42.149 --> 00:03:42.159 align:start position:0%
+it's basically just like the id of the
+ 
+
+00:03:42.159 --> 00:03:43.990 align:start position:0%
+it's basically just like the id of the
+document<00:03:42.640><c> and</c><00:03:42.720><c> that</c><00:03:42.879><c> way</c><00:03:43.040><c> it</c><00:03:43.200><c> allows</c><00:03:43.519><c> you</c><00:03:43.760><c> to</c>
+
+00:03:43.990 --> 00:03:44.000 align:start position:0%
+document and that way it allows you to
+ 
+
+00:03:44.000 --> 00:03:45.509 align:start position:0%
+document and that way it allows you to
+kind<00:03:44.159><c> of</c><00:03:44.319><c> express</c><00:03:44.640><c> which</c><00:03:44.879><c> document</c><00:03:45.280><c> should</c><00:03:45.440><c> go</c>
+
+00:03:45.509 --> 00:03:45.519 align:start position:0%
+kind of express which document should go
+ 
+
+00:03:45.519 --> 00:03:47.270 align:start position:0%
+kind of express which document should go
+on<00:03:45.599><c> the</c><00:03:45.680><c> same</c><00:03:45.920><c> partition</c><00:03:46.720><c> which</c><00:03:46.879><c> gives</c><00:03:47.120><c> you</c>
+
+00:03:47.270 --> 00:03:47.280 align:start position:0%
+on the same partition which gives you
+ 
+
+00:03:47.280 --> 00:03:49.030 align:start position:0%
+on the same partition which gives you
+some<00:03:47.519><c> control</c><00:03:48.080><c> over</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+some control over
+ 
+
+00:03:49.040 --> 00:03:50.390 align:start position:0%
+some control over
+you<00:03:49.120><c> know</c><00:03:49.280><c> the</c><00:03:49.360><c> locality</c><00:03:50.000><c> of</c><00:03:50.080><c> certain</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+you know the locality of certain
+ 
+
+00:03:50.400 --> 00:03:52.070 align:start position:0%
+you know the locality of certain
+documents<00:03:50.879><c> and</c><00:03:50.959><c> maybe</c><00:03:51.200><c> being</c><00:03:51.440><c> able</c><00:03:51.599><c> to</c><00:03:51.760><c> access</c>
+
+00:03:52.070 --> 00:03:52.080 align:start position:0%
+documents and maybe being able to access
+ 
+
+00:03:52.080 --> 00:03:54.789 align:start position:0%
+documents and maybe being able to access
+them<00:03:52.239><c> in</c><00:03:52.319><c> something</c><00:03:52.560><c> like</c><00:03:52.720><c> a</c><00:03:52.879><c> range</c><00:03:53.120><c> query</c>
+
+00:03:54.789 --> 00:03:54.799 align:start position:0%
+them in something like a range query
+ 
+
+00:03:54.799 --> 00:03:57.670 align:start position:0%
+them in something like a range query
+and<00:03:54.879><c> then</c><00:03:55.040><c> within</c><00:03:55.439><c> each</c><00:03:55.680><c> chart</c><00:03:56.159><c> you</c><00:03:56.400><c> can</c><00:03:57.120><c> use</c><00:03:57.519><c> a</c>
+
+00:03:57.670 --> 00:03:57.680 align:start position:0%
+and then within each chart you can use a
+ 
+
+00:03:57.680 --> 00:03:59.830 align:start position:0%
+and then within each chart you can use a
+single<00:03:58.000><c> leader</c><00:03:58.239><c> replication</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+single leader replication
+ 
+
+00:03:59.840 --> 00:04:01.910 align:start position:0%
+single leader replication
+in<00:04:00.000><c> these</c><00:04:00.239><c> replication</c><00:04:00.879><c> zones</c><00:04:01.519><c> where</c><00:04:01.760><c> you</c>
+
+00:04:01.910 --> 00:04:01.920 align:start position:0%
+in these replication zones where you
+ 
+
+00:04:01.920 --> 00:04:04.149 align:start position:0%
+in these replication zones where you
+have<00:04:02.159><c> all</c><00:04:02.319><c> of</c><00:04:02.400><c> these</c><00:04:02.640><c> followers</c><00:04:03.680><c> that</c><00:04:03.840><c> are</c>
+
+00:04:04.149 --> 00:04:04.159 align:start position:0%
+have all of these followers that are
+ 
+
+00:04:04.159 --> 00:04:05.750 align:start position:0%
+have all of these followers that are
+asynchronously<00:04:04.959><c> getting</c><00:04:05.200><c> changes</c><00:04:05.519><c> from</c><00:04:05.680><c> the</c>
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+asynchronously getting changes from the
+ 
+
+00:04:05.760 --> 00:04:07.270 align:start position:0%
+asynchronously getting changes from the
+single<00:04:06.080><c> leader</c><00:04:06.400><c> and</c><00:04:06.560><c> if</c><00:04:06.640><c> the</c><00:04:06.720><c> leader</c><00:04:06.959><c> were</c><00:04:07.200><c> to</c>
+
+00:04:07.270 --> 00:04:07.280 align:start position:0%
+single leader and if the leader were to
+ 
+
+00:04:07.280 --> 00:04:08.949 align:start position:0%
+single leader and if the leader were to
+go<00:04:07.439><c> down</c><00:04:07.680><c> then</c><00:04:07.840><c> the</c><00:04:07.920><c> followers</c><00:04:08.319><c> will</c><00:04:08.480><c> go</c><00:04:08.640><c> ahead</c>
+
+00:04:08.949 --> 00:04:08.959 align:start position:0%
+go down then the followers will go ahead
+ 
+
+00:04:08.959 --> 00:04:10.550 align:start position:0%
+go down then the followers will go ahead
+and<00:04:09.040><c> elect</c><00:04:09.360><c> a</c><00:04:09.439><c> new</c><00:04:09.599><c> leader</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+and elect a new leader
+ 
+
+00:04:10.560 --> 00:04:11.910 align:start position:0%
+and elect a new leader
+it's<00:04:10.720><c> important</c><00:04:11.040><c> to</c><00:04:11.120><c> note</c><00:04:11.360><c> though</c><00:04:11.599><c> that</c>
+
+00:04:11.910 --> 00:04:11.920 align:start position:0%
+it's important to note though that
+ 
+
+00:04:11.920 --> 00:04:13.910 align:start position:0%
+it's important to note though that
+generally<00:04:12.400><c> speaking</c><00:04:12.720><c> mongodb</c><00:04:13.439><c> actually</c><00:04:13.680><c> only</c>
+
+00:04:13.910 --> 00:04:13.920 align:start position:0%
+generally speaking mongodb actually only
+ 
+
+00:04:13.920 --> 00:04:15.830 align:start position:0%
+generally speaking mongodb actually only
+performs<00:04:14.400><c> the</c><00:04:14.560><c> reads</c><00:04:14.879><c> from</c><00:04:14.959><c> the</c><00:04:15.120><c> leader</c><00:04:15.599><c> so</c><00:04:15.760><c> if</c>
+
+00:04:15.830 --> 00:04:15.840 align:start position:0%
+performs the reads from the leader so if
+ 
+
+00:04:15.840 --> 00:04:17.509 align:start position:0%
+performs the reads from the leader so if
+the<00:04:15.920><c> leader</c><00:04:16.239><c> does</c><00:04:16.400><c> go</c><00:04:16.639><c> down</c><00:04:16.959><c> you</c><00:04:17.120><c> may</c><00:04:17.280><c> have</c><00:04:17.440><c> a</c>
+
+00:04:17.509 --> 00:04:17.519 align:start position:0%
+the leader does go down you may have a
+ 
+
+00:04:17.519 --> 00:04:19.349 align:start position:0%
+the leader does go down you may have a
+few<00:04:17.680><c> seconds</c><00:04:18.079><c> of</c><00:04:18.160><c> downtime</c><00:04:18.720><c> you</c><00:04:18.799><c> can</c><00:04:19.040><c> actually</c>
+
+00:04:19.349 --> 00:04:19.359 align:start position:0%
+few seconds of downtime you can actually
+ 
+
+00:04:19.359 --> 00:04:21.189 align:start position:0%
+few seconds of downtime you can actually
+configure<00:04:19.759><c> mongodb</c><00:04:20.400><c> to</c><00:04:20.479><c> not</c><00:04:20.639><c> do</c><00:04:20.799><c> that</c><00:04:21.040><c> and</c>
+
+00:04:21.189 --> 00:04:21.199 align:start position:0%
+configure mongodb to not do that and
+ 
+
+00:04:21.199 --> 00:04:22.629 align:start position:0%
+configure mongodb to not do that and
+just<00:04:21.519><c> allow</c><00:04:21.840><c> some</c><00:04:22.000><c> stale</c><00:04:22.320><c> reads</c><00:04:22.560><c> from</c>
+
+00:04:22.629 --> 00:04:22.639 align:start position:0%
+just allow some stale reads from
+ 
+
+00:04:22.639 --> 00:04:24.230 align:start position:0%
+just allow some stale reads from
+replicas<00:04:23.120><c> in</c><00:04:23.199><c> order</c><00:04:23.440><c> to</c><00:04:23.600><c> ever</c><00:04:23.759><c> avoid</c><00:04:24.080><c> that</c>
+
+00:04:24.230 --> 00:04:24.240 align:start position:0%
+replicas in order to ever avoid that
+ 
+
+00:04:24.240 --> 00:04:25.510 align:start position:0%
+replicas in order to ever avoid that
+downtime<00:04:24.720><c> though</c>
+
+00:04:25.510 --> 00:04:25.520 align:start position:0%
+downtime though
+ 
+
+00:04:25.520 --> 00:04:26.870 align:start position:0%
+downtime though
+additionally<00:04:26.080><c> as</c><00:04:26.240><c> opposed</c><00:04:26.560><c> to</c><00:04:26.639><c> something</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+additionally as opposed to something
+ 
+
+00:04:26.880 --> 00:04:28.950 align:start position:0%
+additionally as opposed to something
+like<00:04:27.040><c> cassandra</c><00:04:27.600><c> which</c><00:04:27.840><c> uses</c><00:04:28.080><c> an</c><00:04:28.320><c> lsm</c><00:04:28.720><c> tree</c>
+
+00:04:28.950 --> 00:04:28.960 align:start position:0%
+like cassandra which uses an lsm tree
+ 
+
+00:04:28.960 --> 00:04:31.670 align:start position:0%
+like cassandra which uses an lsm tree
+based<00:04:29.280><c> storage</c><00:04:29.680><c> engine</c><00:04:30.320><c> mongodb</c><00:04:31.120><c> has</c><00:04:31.360><c> chosen</c>
+
+00:04:31.670 --> 00:04:31.680 align:start position:0%
+based storage engine mongodb has chosen
+ 
+
+00:04:31.680 --> 00:04:34.469 align:start position:0%
+based storage engine mongodb has chosen
+to<00:04:31.919><c> stick</c><00:04:32.160><c> with</c><00:04:32.320><c> the</c><00:04:32.400><c> traditional</c><00:04:33.199><c> b</c><00:04:33.440><c> tree</c><00:04:33.919><c> and</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+to stick with the traditional b tree and
+ 
+
+00:04:34.479 --> 00:04:35.909 align:start position:0%
+to stick with the traditional b tree and
+that<00:04:34.720><c> means</c><00:04:34.960><c> that</c><00:04:35.199><c> reeds</c><00:04:35.440><c> are</c><00:04:35.520><c> going</c><00:04:35.680><c> to</c><00:04:35.759><c> be</c>
+
+00:04:35.909 --> 00:04:35.919 align:start position:0%
+that means that reeds are going to be
+ 
+
+00:04:35.919 --> 00:04:37.990 align:start position:0%
+that means that reeds are going to be
+prioritized<00:04:36.639><c> a</c><00:04:36.639><c> little</c><00:04:36.800><c> bit</c><00:04:36.960><c> over</c><00:04:37.199><c> writes</c><00:04:37.840><c> so</c>
+
+00:04:37.990 --> 00:04:38.000 align:start position:0%
+prioritized a little bit over writes so
+ 
+
+00:04:38.000 --> 00:04:40.230 align:start position:0%
+prioritized a little bit over writes so
+that's<00:04:38.240><c> kind</c><00:04:38.479><c> of</c><00:04:38.720><c> more</c><00:04:39.360><c> comparable</c><00:04:39.919><c> to</c><00:04:40.080><c> the</c>
+
+00:04:40.230 --> 00:04:40.240 align:start position:0%
+that's kind of more comparable to the
+ 
+
+00:04:40.240 --> 00:04:43.749 align:start position:0%
+that's kind of more comparable to the
+traditional<00:04:40.800><c> relational</c><00:04:41.280><c> database</c><00:04:41.759><c> setup</c>
+
+00:04:43.749 --> 00:04:43.759 align:start position:0%
+traditional relational database setup
+ 
+
+00:04:43.759 --> 00:04:46.070 align:start position:0%
+traditional relational database setup
+additionally<00:04:44.560><c> one</c><00:04:44.800><c> cool</c><00:04:45.040><c> thing</c><00:04:45.199><c> that</c><00:04:45.440><c> mongodb</c>
+
+00:04:46.070 --> 00:04:46.080 align:start position:0%
+additionally one cool thing that mongodb
+ 
+
+00:04:46.080 --> 00:04:49.189 align:start position:0%
+additionally one cool thing that mongodb
+lets<00:04:46.320><c> you</c><00:04:46.479><c> actually</c><00:04:46.880><c> do</c><00:04:47.280><c> unlike</c><00:04:47.600><c> cassandra</c>
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+lets you actually do unlike cassandra
+ 
+
+00:04:49.199 --> 00:04:51.189 align:start position:0%
+lets you actually do unlike cassandra
+is<00:04:49.440><c> cross-partition</c><00:04:50.240><c> operations</c><00:04:50.800><c> so</c><00:04:50.960><c> this</c><00:04:51.120><c> is</c>
+
+00:04:51.189 --> 00:04:51.199 align:start position:0%
+is cross-partition operations so this is
+ 
+
+00:04:51.199 --> 00:04:52.710 align:start position:0%
+is cross-partition operations so this is
+where<00:04:51.360><c> you</c><00:04:51.520><c> get</c><00:04:51.680><c> a</c><00:04:51.759><c> little</c><00:04:51.919><c> bit</c><00:04:52.080><c> more</c><00:04:52.240><c> freedom</c>
+
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+where you get a little bit more freedom
+ 
+
+00:04:52.720 --> 00:04:54.390 align:start position:0%
+where you get a little bit more freedom
+than<00:04:52.880><c> kind</c><00:04:53.040><c> of</c><00:04:53.199><c> cassandra's</c><00:04:53.840><c> constrained</c>
+
+00:04:54.390 --> 00:04:54.400 align:start position:0%
+than kind of cassandra's constrained
+ 
+
+00:04:54.400 --> 00:04:56.629 align:start position:0%
+than kind of cassandra's constrained
+model<00:04:54.800><c> of</c><00:04:55.440><c> everything</c><00:04:55.840><c> needs</c><00:04:56.080><c> to</c><00:04:56.160><c> go</c><00:04:56.320><c> on</c><00:04:56.400><c> one</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+model of everything needs to go on one
+ 
+
+00:04:56.639 --> 00:04:58.469 align:start position:0%
+model of everything needs to go on one
+partition<00:04:57.040><c> and</c><00:04:57.199><c> let's</c><00:04:57.360><c> keep</c><00:04:57.600><c> it</c><00:04:57.680><c> there</c><00:04:58.240><c> so</c>
+
+00:04:58.469 --> 00:04:58.479 align:start position:0%
+partition and let's keep it there so
+ 
+
+00:04:58.479 --> 00:04:59.990 align:start position:0%
+partition and let's keep it there so
+ enables<00:04:59.280><c> multi-document</c>
+
+00:04:59.990 --> 00:05:00.000 align:start position:0%
+ enables multi-document
+ 
+
+00:05:00.000 --> 00:05:01.510 align:start position:0%
+ enables multi-document
+transactions<00:05:00.639><c> which</c><00:05:00.880><c> means</c><00:05:01.039><c> you</c><00:05:01.199><c> can</c><00:05:01.280><c> make</c>
+
+00:05:01.510 --> 00:05:01.520 align:start position:0%
+transactions which means you can make
+ 
+
+00:05:01.520 --> 00:05:03.670 align:start position:0%
+transactions which means you can make
+sure<00:05:01.759><c> that</c><00:05:01.919><c> multiple</c><00:05:02.720><c> documents</c><00:05:03.280><c> are</c><00:05:03.360><c> either</c>
+
+00:05:03.670 --> 00:05:03.680 align:start position:0%
+sure that multiple documents are either
+ 
+
+00:05:03.680 --> 00:05:05.990 align:start position:0%
+sure that multiple documents are either
+all<00:05:03.840><c> atomically</c><00:05:04.400><c> edited</c><00:05:04.880><c> or</c><00:05:05.280><c> you</c><00:05:05.360><c> know</c><00:05:05.759><c> not</c>
+
+00:05:05.990 --> 00:05:06.000 align:start position:0%
+all atomically edited or you know not
+ 
+
+00:05:06.000 --> 00:05:08.070 align:start position:0%
+all atomically edited or you know not
+changed<00:05:06.800><c> and</c><00:05:07.120><c> that</c><00:05:07.280><c> can</c><00:05:07.440><c> either</c><00:05:07.680><c> happen</c><00:05:08.000><c> on</c>
+
+00:05:08.070 --> 00:05:08.080 align:start position:0%
+changed and that can either happen on
+ 
+
+00:05:08.080 --> 00:05:09.830 align:start position:0%
+changed and that can either happen on
+the<00:05:08.240><c> same</c><00:05:08.479><c> or</c><00:05:08.720><c> different</c><00:05:09.039><c> charts</c><00:05:09.360><c> which</c><00:05:09.600><c> is</c>
+
+00:05:09.830 --> 00:05:09.840 align:start position:0%
+the same or different charts which is
+ 
+
+00:05:09.840 --> 00:05:11.430 align:start position:0%
+the same or different charts which is
+you<00:05:09.919><c> know</c><00:05:10.080><c> it's</c><00:05:10.240><c> a</c><00:05:10.320><c> nice</c><00:05:10.479><c> functionality</c><00:05:11.199><c> even</c>
+
+00:05:11.430 --> 00:05:11.440 align:start position:0%
+you know it's a nice functionality even
+ 
+
+00:05:11.440 --> 00:05:13.270 align:start position:0%
+you know it's a nice functionality even
+if<00:05:11.520><c> it's</c><00:05:11.680><c> not</c><00:05:11.840><c> the</c><00:05:11.919><c> most</c><00:05:12.160><c> efficient</c><00:05:12.560><c> thing</c>
+
+00:05:13.270 --> 00:05:13.280 align:start position:0%
+if it's not the most efficient thing
+ 
+
+00:05:13.280 --> 00:05:15.510 align:start position:0%
+if it's not the most efficient thing
+additionally<00:05:13.919><c> you</c><00:05:14.000><c> can</c><00:05:14.160><c> have</c><00:05:14.400><c> parallelized</c>
+
+00:05:15.510 --> 00:05:15.520 align:start position:0%
+additionally you can have parallelized
+ 
+
+00:05:15.520 --> 00:05:17.670 align:start position:0%
+additionally you can have parallelized
+second<00:05:15.919><c> uh</c><00:05:16.160><c> you</c><00:05:16.240><c> know</c><00:05:16.400><c> secondary</c><00:05:16.960><c> indexes</c><00:05:17.520><c> and</c>
+
+00:05:17.670 --> 00:05:17.680 align:start position:0%
+second uh you know secondary indexes and
+ 
+
+00:05:17.680 --> 00:05:19.749 align:start position:0%
+second uh you know secondary indexes and
+big<00:05:17.919><c> queries</c><00:05:18.320><c> over</c><00:05:18.560><c> the</c><00:05:18.639><c> entire</c><00:05:19.039><c> data</c><00:05:19.280><c> set</c><00:05:19.520><c> not</c>
+
+00:05:19.749 --> 00:05:19.759 align:start position:0%
+big queries over the entire data set not
+ 
+
+00:05:19.759 --> 00:05:21.830 align:start position:0%
+big queries over the entire data set not
+just<00:05:19.919><c> one</c><00:05:20.160><c> shard</c><00:05:20.479><c> like</c><00:05:20.639><c> cassandra</c>
+
+00:05:21.830 --> 00:05:21.840 align:start position:0%
+just one shard like cassandra
+ 
+
+00:05:21.840 --> 00:05:24.070 align:start position:0%
+just one shard like cassandra
+and<00:05:22.160><c> these</c><00:05:22.400><c> powerful</c><00:05:22.880><c> secondary</c><00:05:23.440><c> indexes</c>
+
+00:05:24.070 --> 00:05:24.080 align:start position:0%
+and these powerful secondary indexes
+ 
+
+00:05:24.080 --> 00:05:25.749 align:start position:0%
+and these powerful secondary indexes
+allow<00:05:24.400><c> you</c><00:05:24.479><c> to</c><00:05:24.639><c> have</c><00:05:24.720><c> a</c><00:05:24.800><c> ton</c><00:05:25.039><c> of</c><00:05:25.120><c> flexibility</c>
+
+00:05:25.749 --> 00:05:25.759 align:start position:0%
+allow you to have a ton of flexibility
+ 
+
+00:05:25.759 --> 00:05:28.230 align:start position:0%
+allow you to have a ton of flexibility
+within<00:05:26.000><c> mongodb</c><00:05:27.120><c> to</c><00:05:27.280><c> make</c><00:05:27.520><c> queries</c><00:05:27.919><c> as</c><00:05:28.080><c> your</c>
+
+00:05:28.230 --> 00:05:28.240 align:start position:0%
+within mongodb to make queries as your
+ 
+
+00:05:28.240 --> 00:05:30.790 align:start position:0%
+within mongodb to make queries as your
+data<00:05:28.560><c> evolves</c><00:05:28.960><c> over</c><00:05:29.199><c> time</c><00:05:29.919><c> so</c><00:05:30.320><c> you</c><00:05:30.400><c> know</c><00:05:30.639><c> as</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+data evolves over time so you know as
+ 
+
+00:05:30.800 --> 00:05:32.390 align:start position:0%
+data evolves over time so you know as
+far<00:05:30.960><c> as</c><00:05:31.039><c> cassandra</c><00:05:31.520><c> goes</c><00:05:31.759><c> you</c><00:05:31.919><c> generally</c><00:05:32.320><c> have</c>
+
+00:05:32.390 --> 00:05:32.400 align:start position:0%
+far as cassandra goes you generally have
+ 
+
+00:05:32.400 --> 00:05:33.749 align:start position:0%
+far as cassandra goes you generally have
+to<00:05:32.560><c> really</c><00:05:32.880><c> plan</c><00:05:33.199><c> out</c><00:05:33.360><c> how</c><00:05:33.520><c> you're</c><00:05:33.600><c> going</c><00:05:33.680><c> to</c>
+
+00:05:33.749 --> 00:05:33.759 align:start position:0%
+to really plan out how you're going to
+ 
+
+00:05:33.759 --> 00:05:36.150 align:start position:0%
+to really plan out how you're going to
+be<00:05:33.919><c> using</c><00:05:34.240><c> that</c><00:05:34.400><c> database</c><00:05:35.440><c> beforehand</c><00:05:36.000><c> to</c>
+
+00:05:36.150 --> 00:05:36.160 align:start position:0%
+be using that database beforehand to
+ 
+
+00:05:36.160 --> 00:05:37.990 align:start position:0%
+be using that database beforehand to
+make<00:05:36.320><c> sure</c><00:05:36.560><c> that</c><00:05:36.720><c> your</c><00:05:36.880><c> data</c><00:05:37.199><c> is</c><00:05:37.360><c> organized</c><00:05:37.919><c> in</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+make sure that your data is organized in
+ 
+
+00:05:38.000 --> 00:05:39.510 align:start position:0%
+make sure that your data is organized in
+a<00:05:38.080><c> way</c><00:05:38.240><c> that</c><00:05:38.400><c> all</c><00:05:38.479><c> of</c><00:05:38.639><c> your</c><00:05:38.800><c> operations</c><00:05:39.360><c> are</c>
+
+00:05:39.510 --> 00:05:39.520 align:start position:0%
+a way that all of your operations are
+ 
+
+00:05:39.520 --> 00:05:41.590 align:start position:0%
+a way that all of your operations are
+staying<00:05:39.759><c> with</c><00:05:39.919><c> on</c><00:05:40.080><c> one</c><00:05:40.320><c> shard</c>
+
+00:05:41.590 --> 00:05:41.600 align:start position:0%
+staying with on one shard
+ 
+
+00:05:41.600 --> 00:05:43.510 align:start position:0%
+staying with on one shard
+on<00:05:41.680><c> the</c><00:05:41.840><c> other</c><00:05:42.000><c> hand</c><00:05:42.320><c> with</c><00:05:42.960><c> like</c><00:05:43.120><c> i</c><00:05:43.280><c> keep</c>
+
+00:05:43.510 --> 00:05:43.520 align:start position:0%
+on the other hand with like i keep
+ 
+
+00:05:43.520 --> 00:05:44.950 align:start position:0%
+on the other hand with like i keep
+trying<00:05:43.759><c> to</c><00:05:43.840><c> mention</c><00:05:44.240><c> you</c><00:05:44.320><c> have</c><00:05:44.479><c> a</c><00:05:44.560><c> lot</c><00:05:44.720><c> more</c>
+
+00:05:44.950 --> 00:05:44.960 align:start position:0%
+trying to mention you have a lot more
+ 
+
+00:05:44.960 --> 00:05:46.950 align:start position:0%
+trying to mention you have a lot more
+flexibility<00:05:45.680><c> to</c><00:05:45.759><c> kind</c><00:05:45.919><c> of</c><00:05:46.080><c> dump</c><00:05:46.320><c> your</c><00:05:46.479><c> data</c><00:05:46.800><c> in</c>
+
+00:05:46.950 --> 00:05:46.960 align:start position:0%
+flexibility to kind of dump your data in
+ 
+
+00:05:46.960 --> 00:05:48.950 align:start position:0%
+flexibility to kind of dump your data in
+there<00:05:47.280><c> and</c><00:05:47.919><c> maybe</c><00:05:48.240><c> it</c><00:05:48.320><c> won't</c><00:05:48.479><c> be</c><00:05:48.639><c> the</c><00:05:48.720><c> most</c>
+
+00:05:48.950 --> 00:05:48.960 align:start position:0%
+there and maybe it won't be the most
+ 
+
+00:05:48.960 --> 00:05:50.710 align:start position:0%
+there and maybe it won't be the most
+efficient<00:05:49.360><c> query</c><00:05:49.680><c> but</c><00:05:49.919><c> if</c><00:05:50.080><c> you</c><00:05:50.240><c> do</c><00:05:50.400><c> need</c><00:05:50.560><c> to</c>
+
+00:05:50.710 --> 00:05:50.720 align:start position:0%
+efficient query but if you do need to
+ 
+
+00:05:50.720 --> 00:05:53.189 align:start position:0%
+efficient query but if you do need to
+get<00:05:50.960><c> the</c><00:05:51.039><c> data</c><00:05:51.440><c> somehow</c><00:05:51.919><c> you</c><00:05:52.080><c> can</c><00:05:52.560><c> via</c><00:05:53.039><c> all</c>
+
+00:05:53.189 --> 00:05:53.199 align:start position:0%
+get the data somehow you can via all
+ 
+
+00:05:53.199 --> 00:05:56.550 align:start position:0%
+get the data somehow you can via all
+these<00:05:53.600><c> types</c><00:05:53.840><c> of</c><00:05:54.000><c> secondary</c><00:05:54.560><c> indexes</c>
+
+00:05:56.550 --> 00:05:56.560 align:start position:0%
+these types of secondary indexes
+ 
+
+00:05:56.560 --> 00:05:58.150 align:start position:0%
+these types of secondary indexes
+okay<00:05:56.800><c> so</c><00:05:56.960><c> now</c><00:05:57.120><c> let's</c><00:05:57.360><c> actually</c><00:05:57.600><c> do</c><00:05:57.759><c> a</c><00:05:57.919><c> quick</c>
+
+00:05:58.150 --> 00:05:58.160 align:start position:0%
+okay so now let's actually do a quick
+ 
+
+00:05:58.160 --> 00:06:00.230 align:start position:0%
+okay so now let's actually do a quick
+comparison<00:05:59.199><c> because</c><00:05:59.520><c> like</c><00:05:59.680><c> i've</c><00:05:59.840><c> mentioned</c>
+
+00:06:00.230 --> 00:06:00.240 align:start position:0%
+comparison because like i've mentioned
+ 
+
+00:06:00.240 --> 00:06:01.749 align:start position:0%
+comparison because like i've mentioned
+ is<00:06:00.960><c> definitely</c><00:06:01.280><c> different</c><00:06:01.520><c> than</c>
+
+00:06:01.749 --> 00:06:01.759 align:start position:0%
+ is definitely different than
+ 
+
+00:06:01.759 --> 00:06:03.670 align:start position:0%
+ is definitely different than
+relational<00:06:02.160><c> databases</c><00:06:02.800><c> in</c><00:06:02.880><c> the</c><00:06:02.960><c> sense</c><00:06:03.280><c> that</c>
+
+00:06:03.670 --> 00:06:03.680 align:start position:0%
+relational databases in the sense that
+ 
+
+00:06:03.680 --> 00:06:05.510 align:start position:0%
+relational databases in the sense that
+you<00:06:03.840><c> use</c><00:06:04.080><c> a</c><00:06:04.160><c> document</c><00:06:04.560><c> data</c><00:06:04.880><c> model</c><00:06:05.280><c> which</c>
+
+00:06:05.510 --> 00:06:05.520 align:start position:0%
+you use a document data model which
+ 
+
+00:06:05.520 --> 00:06:07.830 align:start position:0%
+you use a document data model which
+allows<00:06:05.919><c> for</c><00:06:06.560><c> not</c><00:06:06.720><c> only</c><00:06:06.960><c> a</c><00:06:07.039><c> flexible</c><00:06:07.440><c> schema</c>
+
+00:06:07.830 --> 00:06:07.840 align:start position:0%
+allows for not only a flexible schema
+ 
+
+00:06:07.840 --> 00:06:09.909 align:start position:0%
+allows for not only a flexible schema
+but<00:06:08.000><c> also</c><00:06:08.319><c> much</c><00:06:08.560><c> greater</c><00:06:08.880><c> data</c><00:06:09.199><c> locality</c><00:06:09.759><c> if</c>
+
+00:06:09.909 --> 00:06:09.919 align:start position:0%
+but also much greater data locality if
+ 
+
+00:06:09.919 --> 00:06:11.510 align:start position:0%
+but also much greater data locality if
+you<00:06:10.000><c> want</c><00:06:10.160><c> to</c><00:06:10.240><c> store</c><00:06:10.560><c> a</c><00:06:10.639><c> bunch</c><00:06:10.880><c> of</c><00:06:11.039><c> individual</c>
+
+00:06:11.510 --> 00:06:11.520 align:start position:0%
+you want to store a bunch of individual
+ 
+
+00:06:11.520 --> 00:06:13.270 align:start position:0%
+you want to store a bunch of individual
+records<00:06:11.919><c> with</c><00:06:12.080><c> one</c><00:06:12.240><c> document</c>
+
+00:06:13.270 --> 00:06:13.280 align:start position:0%
+records with one document
+ 
+
+00:06:13.280 --> 00:06:14.629 align:start position:0%
+records with one document
+that<00:06:13.440><c> means</c><00:06:13.600><c> you</c><00:06:13.759><c> can</c><00:06:13.840><c> basically</c><00:06:14.160><c> just</c><00:06:14.319><c> have</c><00:06:14.560><c> a</c>
+
+00:06:14.629 --> 00:06:14.639 align:start position:0%
+that means you can basically just have a
+ 
+
+00:06:14.639 --> 00:06:16.150 align:start position:0%
+that means you can basically just have a
+many-to-one<00:06:15.120><c> relationship</c><00:06:15.680><c> and</c><00:06:15.759><c> as</c><00:06:15.919><c> opposed</c>
+
+00:06:16.150 --> 00:06:16.160 align:start position:0%
+many-to-one relationship and as opposed
+ 
+
+00:06:16.160 --> 00:06:18.150 align:start position:0%
+many-to-one relationship and as opposed
+to<00:06:16.319><c> running</c><00:06:16.639><c> a</c><00:06:16.720><c> join</c><00:06:17.360><c> over</c>
+
+00:06:18.150 --> 00:06:18.160 align:start position:0%
+to running a join over
+ 
+
+00:06:18.160 --> 00:06:19.749 align:start position:0%
+to running a join over
+possibly<00:06:18.639><c> many</c><00:06:18.960><c> nodes</c><00:06:19.199><c> and</c><00:06:19.360><c> a</c><00:06:19.440><c> network</c>
+
+00:06:19.749 --> 00:06:19.759 align:start position:0%
+possibly many nodes and a network
+ 
+
+00:06:19.759 --> 00:06:21.189 align:start position:0%
+possibly many nodes and a network
+connection<00:06:20.400><c> you</c><00:06:20.560><c> can</c><00:06:20.720><c> just</c><00:06:20.800><c> have</c><00:06:21.039><c> those</c>
+
+00:06:21.189 --> 00:06:21.199 align:start position:0%
+connection you can just have those
+ 
+
+00:06:21.199 --> 00:06:23.350 align:start position:0%
+connection you can just have those
+stored<00:06:21.600><c> all</c><00:06:21.759><c> together</c><00:06:22.560><c> that</c><00:06:22.800><c> being</c><00:06:22.960><c> said</c><00:06:23.199><c> the</c>
+
+00:06:23.350 --> 00:06:23.360 align:start position:0%
+stored all together that being said the
+ 
+
+00:06:23.360 --> 00:06:25.270 align:start position:0%
+stored all together that being said the
+fact<00:06:23.600><c> that</c><00:06:23.759><c> this</c><00:06:23.919><c> is</c><00:06:24.000><c> a</c><00:06:24.080><c> nosql</c><00:06:24.560><c> database</c><00:06:25.039><c> means</c>
+
+00:06:25.270 --> 00:06:25.280 align:start position:0%
+fact that this is a nosql database means
+ 
+
+00:06:25.280 --> 00:06:27.670 align:start position:0%
+fact that this is a nosql database means
+that<00:06:25.520><c> data</c><00:06:26.000><c> can</c><00:06:26.240><c> be</c><00:06:26.479><c> denormalized</c><00:06:27.360><c> if</c><00:06:27.440><c> you</c>
+
+00:06:27.670 --> 00:06:27.680 align:start position:0%
+that data can be denormalized if you
+ 
+
+00:06:27.680 --> 00:06:29.990 align:start position:0%
+that data can be denormalized if you
+choose<00:06:27.919><c> to</c><00:06:28.080><c> do</c><00:06:28.240><c> that</c><00:06:28.960><c> and</c><00:06:29.039><c> then</c><00:06:29.360><c> in</c><00:06:29.440><c> that</c><00:06:29.680><c> event</c>
+
+00:06:29.990 --> 00:06:30.000 align:start position:0%
+choose to do that and then in that event
+ 
+
+00:06:30.000 --> 00:06:31.350 align:start position:0%
+choose to do that and then in that event
+if<00:06:30.160><c> you're</c><00:06:30.319><c> going</c><00:06:30.479><c> to</c><00:06:30.639><c> make</c><00:06:30.880><c> updates</c><00:06:31.280><c> to</c>
+
+00:06:31.350 --> 00:06:31.360 align:start position:0%
+if you're going to make updates to
+ 
+
+00:06:31.360 --> 00:06:32.790 align:start position:0%
+if you're going to make updates to
+certain<00:06:31.680><c> data</c><00:06:32.000><c> you</c><00:06:32.160><c> may</c><00:06:32.319><c> have</c><00:06:32.479><c> to</c><00:06:32.560><c> make</c>
+
+00:06:32.790 --> 00:06:32.800 align:start position:0%
+certain data you may have to make
+ 
+
+00:06:32.800 --> 00:06:34.950 align:start position:0%
+certain data you may have to make
+multiple<00:06:33.280><c> updates</c><00:06:33.759><c> and</c><00:06:34.160><c> it's</c><00:06:34.400><c> probably</c><00:06:34.800><c> the</c>
+
+00:06:34.950 --> 00:06:34.960 align:start position:0%
+multiple updates and it's probably the
+ 
+
+00:06:34.960 --> 00:06:35.909 align:start position:0%
+multiple updates and it's probably the
+case<00:06:35.199><c> that</c><00:06:35.280><c> you</c><00:06:35.360><c> want</c><00:06:35.520><c> to</c><00:06:35.600><c> do</c><00:06:35.680><c> those</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+case that you want to do those
+ 
+
+00:06:35.919 --> 00:06:37.430 align:start position:0%
+case that you want to do those
+atomically<00:06:36.479><c> or</c><00:06:36.560><c> else</c><00:06:36.720><c> you</c><00:06:36.880><c> may</c><00:06:36.960><c> have</c><00:06:37.120><c> data</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+atomically or else you may have data
+ 
+
+00:06:37.440 --> 00:06:39.189 align:start position:0%
+atomically or else you may have data
+inconsistencies
+
+00:06:39.189 --> 00:06:39.199 align:start position:0%
+inconsistencies
+ 
+
+00:06:39.199 --> 00:06:40.629 align:start position:0%
+inconsistencies
+compared<00:06:39.520><c> to</c><00:06:39.680><c> something</c><00:06:39.919><c> like</c><00:06:40.080><c> cassandra</c>
+
+00:06:40.629 --> 00:06:40.639 align:start position:0%
+compared to something like cassandra
+ 
+
+00:06:40.639 --> 00:06:42.629 align:start position:0%
+compared to something like cassandra
+mongodb<00:06:41.280><c> definitely</c><00:06:41.600><c> has</c><00:06:41.840><c> disadvantages</c><00:06:42.560><c> and</c>
+
+00:06:42.629 --> 00:06:42.639 align:start position:0%
+mongodb definitely has disadvantages and
+ 
+
+00:06:42.639 --> 00:06:44.070 align:start position:0%
+mongodb definitely has disadvantages and
+disadvantages
+
+00:06:44.070 --> 00:06:44.080 align:start position:0%
+disadvantages
+ 
+
+00:06:44.080 --> 00:06:45.830 align:start position:0%
+disadvantages
+the<00:06:44.160><c> biggest</c><00:06:44.560><c> advantage</c><00:06:45.120><c> is</c><00:06:45.280><c> probably</c>
+
+00:06:45.830 --> 00:06:45.840 align:start position:0%
+the biggest advantage is probably
+ 
+
+00:06:45.840 --> 00:06:48.550 align:start position:0%
+the biggest advantage is probably
+actually<00:06:46.160><c> the</c><00:06:46.319><c> data</c><00:06:46.880><c> document</c><00:06:47.360><c> model</c><00:06:47.680><c> itself</c>
+
+00:06:48.550 --> 00:06:48.560 align:start position:0%
+actually the data document model itself
+ 
+
+00:06:48.560 --> 00:06:49.430 align:start position:0%
+actually the data document model itself
+um
+
+00:06:49.430 --> 00:06:49.440 align:start position:0%
+um
+ 
+
+00:06:49.440 --> 00:06:51.270 align:start position:0%
+um
+although<00:06:49.759><c> i</c><00:06:49.919><c> should</c><00:06:50.240><c> note</c><00:06:50.479><c> that</c><00:06:50.800><c> you</c><00:06:50.960><c> know</c><00:06:51.120><c> if</c>
+
+00:06:51.270 --> 00:06:51.280 align:start position:0%
+although i should note that you know if
+ 
+
+00:06:51.280 --> 00:06:53.189 align:start position:0%
+although i should note that you know if
+you're<00:06:51.440><c> smart</c><00:06:51.759><c> about</c><00:06:52.080><c> kind</c><00:06:52.240><c> of</c><00:06:52.319><c> the</c><00:06:52.479><c> design</c><00:06:53.039><c> of</c>
+
+00:06:53.189 --> 00:06:53.199 align:start position:0%
+you're smart about kind of the design of
+ 
+
+00:06:53.199 --> 00:06:54.790 align:start position:0%
+you're smart about kind of the design of
+your<00:06:53.360><c> clustering</c><00:06:53.840><c> keys</c><00:06:54.080><c> and</c><00:06:54.160><c> cassandra</c><00:06:54.720><c> you</c>
+
+00:06:54.790 --> 00:06:54.800 align:start position:0%
+your clustering keys and cassandra you
+ 
+
+00:06:54.800 --> 00:06:57.189 align:start position:0%
+your clustering keys and cassandra you
+can<00:06:55.039><c> effectively</c><00:06:55.599><c> just</c><00:06:55.840><c> create</c><00:06:56.160><c> your</c><00:06:56.319><c> own</c><00:06:56.960><c> sub</c>
+
+00:06:57.189 --> 00:06:57.199 align:start position:0%
+can effectively just create your own sub
+ 
+
+00:06:57.199 --> 00:06:59.189 align:start position:0%
+can effectively just create your own sub
+documents<00:06:57.680><c> and</c><00:06:57.759><c> cassandra</c><00:06:58.319><c> by</c><00:06:58.880><c> you</c><00:06:59.039><c> know</c>
+
+00:06:59.189 --> 00:06:59.199 align:start position:0%
+documents and cassandra by you know
+ 
+
+00:06:59.199 --> 00:07:01.830 align:start position:0%
+documents and cassandra by you know
+using<00:06:59.520><c> a</c><00:06:59.599><c> clustering</c><00:07:00.160><c> key</c><00:07:00.800><c> that</c><00:07:01.039><c> has</c><00:07:01.280><c> like</c><00:07:01.440><c> a</c>
+
+00:07:01.830 --> 00:07:01.840 align:start position:0%
+using a clustering key that has like a
+ 
+
+00:07:01.840 --> 00:07:04.950 align:start position:0%
+using a clustering key that has like a
+prefix<00:07:02.400><c> with</c><00:07:02.560><c> a</c><00:07:02.639><c> uuid</c><00:07:03.759><c> for</c><00:07:04.080><c> any</c><00:07:04.319><c> given</c><00:07:04.639><c> row</c><00:07:04.880><c> and</c>
+
+00:07:04.950 --> 00:07:04.960 align:start position:0%
+prefix with a uuid for any given row and
+ 
+
+00:07:04.960 --> 00:07:06.710 align:start position:0%
+prefix with a uuid for any given row and
+that<00:07:05.120><c> way</c><00:07:05.360><c> you</c><00:07:05.440><c> can</c><00:07:05.759><c> have</c><00:07:05.919><c> them</c><00:07:06.160><c> stored</c><00:07:06.560><c> all</c>
+
+00:07:06.710 --> 00:07:06.720 align:start position:0%
+that way you can have them stored all
+ 
+
+00:07:06.720 --> 00:07:09.350 align:start position:0%
+that way you can have them stored all
+adjacently<00:07:07.280><c> next</c><00:07:07.440><c> to</c><00:07:07.520><c> one</c><00:07:07.759><c> another</c>
+
+00:07:09.350 --> 00:07:09.360 align:start position:0%
+adjacently next to one another
+ 
+
+00:07:09.360 --> 00:07:11.110 align:start position:0%
+adjacently next to one another
+additionally<00:07:10.160><c> the</c><00:07:10.319><c> fact</c><00:07:10.560><c> that</c><00:07:10.720><c> you</c><00:07:10.800><c> can</c>
+
+00:07:11.110 --> 00:07:11.120 align:start position:0%
+additionally the fact that you can
+ 
+
+00:07:11.120 --> 00:07:13.270 align:start position:0%
+additionally the fact that you can
+perform<00:07:11.520><c> more</c><00:07:11.759><c> complicated</c><00:07:12.319><c> queries</c><00:07:13.039><c> not</c>
+
+00:07:13.270 --> 00:07:13.280 align:start position:0%
+perform more complicated queries not
+ 
+
+00:07:13.280 --> 00:07:15.270 align:start position:0%
+perform more complicated queries not
+just<00:07:13.520><c> on</c><00:07:13.680><c> one</c><00:07:13.919><c> partition</c><00:07:14.319><c> but</c><00:07:14.560><c> over</c><00:07:14.800><c> many</c>
+
+00:07:15.270 --> 00:07:15.280 align:start position:0%
+just on one partition but over many
+ 
+
+00:07:15.280 --> 00:07:16.950 align:start position:0%
+just on one partition but over many
+gives<00:07:15.520><c> you</c><00:07:15.599><c> a</c><00:07:15.680><c> lot</c><00:07:15.840><c> more</c><00:07:16.080><c> flexibility</c><00:07:16.720><c> within</c>
+
+00:07:16.950 --> 00:07:16.960 align:start position:0%
+gives you a lot more flexibility within
+ 
+
+00:07:16.960 --> 00:07:18.550 align:start position:0%
+gives you a lot more flexibility within
+your<00:07:17.120><c> database</c><00:07:17.840><c> to</c><00:07:18.000><c> make</c><00:07:18.160><c> sure</c><00:07:18.319><c> that</c><00:07:18.479><c> you</c>
+
+00:07:18.550 --> 00:07:18.560 align:start position:0%
+your database to make sure that you
+ 
+
+00:07:18.560 --> 00:07:20.070 align:start position:0%
+your database to make sure that you
+don't<00:07:18.800><c> necessarily</c><00:07:19.599><c> have</c><00:07:19.759><c> to</c><00:07:19.840><c> have</c>
+
+00:07:20.070 --> 00:07:20.080 align:start position:0%
+don't necessarily have to have
+ 
+
+00:07:20.080 --> 00:07:21.589 align:start position:0%
+don't necessarily have to have
+everything<00:07:20.479><c> figured</c><00:07:20.800><c> out</c><00:07:20.960><c> when</c><00:07:21.120><c> you're</c><00:07:21.280><c> first</c>
+
+00:07:21.589 --> 00:07:21.599 align:start position:0%
+everything figured out when you're first
+ 
+
+00:07:21.599 --> 00:07:23.430 align:start position:0%
+everything figured out when you're first
+modeling<00:07:22.000><c> out</c><00:07:22.080><c> your</c><00:07:22.240><c> data</c><00:07:22.960><c> you</c><00:07:23.039><c> know</c><00:07:23.199><c> if</c><00:07:23.360><c> it</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+modeling out your data you know if it
+ 
+
+00:07:23.440 --> 00:07:25.189 align:start position:0%
+modeling out your data you know if it
+happens<00:07:23.759><c> to</c><00:07:23.919><c> be</c><00:07:24.000><c> the</c><00:07:24.160><c> case</c><00:07:24.400><c> that</c><00:07:24.639><c> you</c><00:07:24.800><c> know</c><00:07:25.039><c> at</c>
+
+00:07:25.189 --> 00:07:25.199 align:start position:0%
+happens to be the case that you know at
+ 
+
+00:07:25.199 --> 00:07:27.350 align:start position:0%
+happens to be the case that you know at
+first<00:07:25.759><c> that</c><00:07:26.000><c> cassandra</c><00:07:26.479><c> model</c><00:07:26.800><c> seemed</c><00:07:27.120><c> great</c>
+
+00:07:27.350 --> 00:07:27.360 align:start position:0%
+first that cassandra model seemed great
+ 
+
+00:07:27.360 --> 00:07:28.550 align:start position:0%
+first that cassandra model seemed great
+but<00:07:27.440><c> then</c><00:07:27.599><c> you</c><00:07:27.680><c> realize</c><00:07:28.080><c> you</c><00:07:28.160><c> have</c><00:07:28.400><c> some</c>
+
+00:07:28.550 --> 00:07:28.560 align:start position:0%
+but then you realize you have some
+ 
+
+00:07:28.560 --> 00:07:30.230 align:start position:0%
+but then you realize you have some
+associations<00:07:29.280><c> in</c><00:07:29.360><c> your</c><00:07:29.520><c> data</c><00:07:29.840><c> that</c><00:07:29.919><c> you</c><00:07:30.080><c> want</c>
+
+00:07:30.230 --> 00:07:30.240 align:start position:0%
+associations in your data that you want
+ 
+
+00:07:30.240 --> 00:07:32.710 align:start position:0%
+associations in your data that you want
+to<00:07:30.319><c> be</c><00:07:30.800><c> joining</c><00:07:31.199><c> together</c><00:07:31.919><c> then</c><00:07:32.080><c> cassandra</c>
+
+00:07:32.710 --> 00:07:32.720 align:start position:0%
+to be joining together then cassandra
+ 
+
+00:07:32.720 --> 00:07:33.909 align:start position:0%
+to be joining together then cassandra
+becomes<00:07:32.960><c> really</c><00:07:33.199><c> infeasible</c><00:07:33.680><c> and</c><00:07:33.840><c> you</c>
+
+00:07:33.909 --> 00:07:33.919 align:start position:0%
+becomes really infeasible and you
+ 
+
+00:07:33.919 --> 00:07:35.270 align:start position:0%
+becomes really infeasible and you
+probably<00:07:34.160><c> have</c><00:07:34.240><c> to</c><00:07:34.319><c> switch</c><00:07:34.639><c> to</c><00:07:34.720><c> an</c><00:07:34.880><c> entirely</c>
+
+00:07:35.270 --> 00:07:35.280 align:start position:0%
+probably have to switch to an entirely
+ 
+
+00:07:35.280 --> 00:07:37.270 align:start position:0%
+probably have to switch to an entirely
+different<00:07:35.520><c> database</c><00:07:36.479><c> on</c><00:07:36.639><c> the</c><00:07:36.720><c> other</c><00:07:36.960><c> hand</c>
+
+00:07:37.270 --> 00:07:37.280 align:start position:0%
+different database on the other hand
+ 
+
+00:07:37.280 --> 00:07:39.110 align:start position:0%
+different database on the other hand
+ gives<00:07:37.840><c> you</c><00:07:37.919><c> that</c><00:07:38.160><c> flexibility</c><00:07:38.800><c> to</c><00:07:38.880><c> kind</c>
+
+00:07:39.110 --> 00:07:39.120 align:start position:0%
+ gives you that flexibility to kind
+ 
+
+00:07:39.120 --> 00:07:41.110 align:start position:0%
+ gives you that flexibility to kind
+of<00:07:39.280><c> dynamically</c><00:07:39.840><c> create</c><00:07:40.160><c> queries</c><00:07:40.639><c> as</c><00:07:40.720><c> you</c><00:07:40.880><c> go</c>
+
+00:07:41.110 --> 00:07:41.120 align:start position:0%
+of dynamically create queries as you go
+ 
+
+00:07:41.120 --> 00:07:42.870 align:start position:0%
+of dynamically create queries as you go
+and<00:07:41.280><c> through</c><00:07:41.440><c> the</c><00:07:41.599><c> lifestyle</c><00:07:42.240><c> the</c><00:07:42.319><c> life</c><00:07:42.560><c> cycle</c>
+
+00:07:42.870 --> 00:07:42.880 align:start position:0%
+and through the lifestyle the life cycle
+ 
+
+00:07:42.880 --> 00:07:45.270 align:start position:0%
+and through the lifestyle the life cycle
+of<00:07:43.039><c> your</c><00:07:43.199><c> application</c><00:07:44.160><c> and</c><00:07:44.400><c> as</c><00:07:44.560><c> a</c><00:07:44.639><c> result</c><00:07:45.039><c> like</c>
+
+00:07:45.270 --> 00:07:45.280 align:start position:0%
+of your application and as a result like
+ 
+
+00:07:45.280 --> 00:07:46.710 align:start position:0%
+of your application and as a result like
+i<00:07:45.360><c> said</c><00:07:45.599><c> it</c><00:07:45.680><c> just</c><00:07:45.759><c> gives</c><00:07:46.000><c> the</c><00:07:46.080><c> developer</c><00:07:46.560><c> more</c>
+
+00:07:46.710 --> 00:07:46.720 align:start position:0%
+i said it just gives the developer more
+ 
+
+00:07:46.720 --> 00:07:48.710 align:start position:0%
+i said it just gives the developer more
+flexibility<00:07:47.680><c> and</c><00:07:47.840><c> the</c><00:07:48.000><c> ability</c><00:07:48.319><c> to</c><00:07:48.400><c> keep</c><00:07:48.560><c> the</c>
+
+00:07:48.710 --> 00:07:48.720 align:start position:0%
+flexibility and the ability to keep the
+ 
+
+00:07:48.720 --> 00:07:51.029 align:start position:0%
+flexibility and the ability to keep the
+application<00:07:49.280><c> more</c><00:07:49.440><c> maintainable</c>
+
+00:07:51.029 --> 00:07:51.039 align:start position:0%
+application more maintainable
+ 
+
+00:07:51.039 --> 00:07:53.189 align:start position:0%
+application more maintainable
+additionally<00:07:51.520><c> that</c><00:07:51.680><c> b</c><00:07:51.840><c> tree</c><00:07:52.160><c> architecture</c>
+
+00:07:53.189 --> 00:07:53.199 align:start position:0%
+additionally that b tree architecture
+ 
+
+00:07:53.199 --> 00:07:54.390 align:start position:0%
+additionally that b tree architecture
+unlike
+
+00:07:54.390 --> 00:07:54.400 align:start position:0%
+unlike
+ 
+
+00:07:54.400 --> 00:07:56.550 align:start position:0%
+unlike
+what<00:07:54.560><c> cassandra</c><00:07:55.120><c> uses</c><00:07:55.520><c> with</c><00:07:55.759><c> ss</c><00:07:56.160><c> tables</c><00:07:56.479><c> and</c>
+
+00:07:56.550 --> 00:07:56.560 align:start position:0%
+what cassandra uses with ss tables and
+ 
+
+00:07:56.560 --> 00:07:58.790 align:start position:0%
+what cassandra uses with ss tables and
+bloom<00:07:56.879><c> filters</c><00:07:57.919><c> b-trees</c><00:07:58.400><c> is</c><00:07:58.479><c> a</c><00:07:58.560><c> little</c><00:07:58.720><c> bit</c>
+
+00:07:58.790 --> 00:07:58.800 align:start position:0%
+bloom filters b-trees is a little bit
+ 
+
+00:07:58.800 --> 00:08:00.869 align:start position:0%
+bloom filters b-trees is a little bit
+better<00:07:59.039><c> for</c><00:07:59.280><c> performing</c><00:07:59.759><c> reads</c>
+
+00:08:00.869 --> 00:08:00.879 align:start position:0%
+better for performing reads
+ 
+
+00:08:00.879 --> 00:08:03.350 align:start position:0%
+better for performing reads
+on<00:08:01.039><c> the</c><00:08:01.199><c> contrary</c><00:08:01.840><c> as</c><00:08:02.000><c> you</c><00:08:02.080><c> can</c><00:08:02.240><c> see</c><00:08:02.400><c> in</c><00:08:02.560><c> red</c>
+
+00:08:03.350 --> 00:08:03.360 align:start position:0%
+on the contrary as you can see in red
+ 
+
+00:08:03.360 --> 00:08:05.990 align:start position:0%
+on the contrary as you can see in red
+but<00:08:03.520><c> the</c><00:08:03.680><c> fact</c><00:08:03.919><c> that</c><00:08:04.240><c> um</c><00:08:04.720><c> mongodb</c>
+
+00:08:05.990 --> 00:08:06.000 align:start position:0%
+but the fact that um mongodb
+ 
+
+00:08:06.000 --> 00:08:08.230 align:start position:0%
+but the fact that um mongodb
+uses<00:08:06.400><c> a</c><00:08:06.479><c> b-tree</c><00:08:06.960><c> architra</c><00:08:07.599><c> architecture</c><00:08:08.160><c> and</c>
+
+00:08:08.230 --> 00:08:08.240 align:start position:0%
+uses a b-tree architra architecture and
+ 
+
+00:08:08.240 --> 00:08:09.430 align:start position:0%
+uses a b-tree architra architecture and
+the<00:08:08.400><c> fact</c><00:08:08.560><c> that</c><00:08:08.639><c> it</c><00:08:08.720><c> uses</c><00:08:08.960><c> single</c><00:08:09.199><c> leader</c>
+
+00:08:09.430 --> 00:08:09.440 align:start position:0%
+the fact that it uses single leader
+ 
+
+00:08:09.440 --> 00:08:11.589 align:start position:0%
+the fact that it uses single leader
+replication<00:08:10.560><c> makes</c><00:08:10.879><c> rights</c><00:08:11.360><c> pretty</c>
+
+00:08:11.589 --> 00:08:11.599 align:start position:0%
+replication makes rights pretty
+ 
+
+00:08:11.599 --> 00:08:13.029 align:start position:0%
+replication makes rights pretty
+significantly<00:08:12.160><c> slower</c><00:08:12.560><c> as</c><00:08:12.720><c> opposed</c><00:08:12.960><c> to</c>
+
+00:08:13.029 --> 00:08:13.039 align:start position:0%
+significantly slower as opposed to
+ 
+
+00:08:13.039 --> 00:08:14.469 align:start position:0%
+significantly slower as opposed to
+cassandra
+
+00:08:14.469 --> 00:08:14.479 align:start position:0%
+cassandra
+ 
+
+00:08:14.479 --> 00:08:16.550 align:start position:0%
+cassandra
+that<00:08:14.639><c> being</c><00:08:14.960><c> said</c><00:08:15.280><c> you</c><00:08:15.440><c> know</c><00:08:15.759><c> if</c><00:08:16.000><c> you</c><00:08:16.160><c> kind</c><00:08:16.400><c> of</c>
+
+00:08:16.550 --> 00:08:16.560 align:start position:0%
+that being said you know if you kind of
+ 
+
+00:08:16.560 --> 00:08:18.230 align:start position:0%
+that being said you know if you kind of
+need<00:08:16.800><c> the</c><00:08:16.960><c> extra</c><00:08:17.280><c> flexibility</c><00:08:18.000><c> that</c>
+
+00:08:18.230 --> 00:08:18.240 align:start position:0%
+need the extra flexibility that
+ 
+
+00:08:18.240 --> 00:08:20.550 align:start position:0%
+need the extra flexibility that
+cassandra<00:08:18.800><c> can't</c><00:08:18.960><c> really</c><00:08:19.199><c> provide</c><00:08:19.520><c> you</c>
+
+00:08:20.550 --> 00:08:20.560 align:start position:0%
+cassandra can't really provide you
+ 
+
+00:08:20.560 --> 00:08:23.510 align:start position:0%
+cassandra can't really provide you
+you<00:08:20.720><c> should</c><00:08:20.960><c> probably</c><00:08:21.199><c> go</c><00:08:21.360><c> with</c><00:08:21.440><c> mongodb</c>
+
+00:08:23.510 --> 00:08:23.520 align:start position:0%
+you should probably go with mongodb
+ 
+
+00:08:23.520 --> 00:08:25.589 align:start position:0%
+you should probably go with mongodb
+um<00:08:23.759><c> so</c><00:08:24.000><c> here's</c><00:08:24.240><c> kind</c><00:08:24.400><c> of</c><00:08:24.560><c> my</c><00:08:24.720><c> conclusion</c><00:08:25.440><c> is</c>
+
+00:08:25.589 --> 00:08:25.599 align:start position:0%
+um so here's kind of my conclusion is
+ 
+
+00:08:25.599 --> 00:08:26.469 align:start position:0%
+um so here's kind of my conclusion is
+that
+
+00:08:26.469 --> 00:08:26.479 align:start position:0%
+that
+ 
+
+00:08:26.479 --> 00:08:27.990 align:start position:0%
+that
+obviously<00:08:27.360><c> when</c><00:08:27.520><c> i</c><00:08:27.599><c> was</c><00:08:27.680><c> looking</c><00:08:27.919><c> at</c>
+
+00:08:27.990 --> 00:08:28.000 align:start position:0%
+obviously when i was looking at
+ 
+
+00:08:28.000 --> 00:08:30.629 align:start position:0%
+obviously when i was looking at
+mongodb's<00:08:28.720><c> website</c><00:08:29.039><c> and</c><00:08:29.199><c> i</c><00:08:29.280><c> just</c><00:08:29.520><c> know</c><00:08:29.759><c> from</c>
+
+00:08:30.629 --> 00:08:30.639 align:start position:0%
+mongodb's website and i just know from
+ 
+
+00:08:30.639 --> 00:08:32.790 align:start position:0%
+mongodb's website and i just know from
+my<00:08:30.879><c> own</c><00:08:31.199><c> programming</c><00:08:31.680><c> experience</c><00:08:32.159><c> mongodb</c><00:08:32.719><c> is</c>
+
+00:08:32.790 --> 00:08:32.800 align:start position:0%
+my own programming experience mongodb is
+ 
+
+00:08:32.800 --> 00:08:35.190 align:start position:0%
+my own programming experience mongodb is
+an<00:08:32.959><c> extremely</c><00:08:33.360><c> popular</c><00:08:33.760><c> database</c><00:08:34.240><c> solution</c>
+
+00:08:35.190 --> 00:08:35.200 align:start position:0%
+an extremely popular database solution
+ 
+
+00:08:35.200 --> 00:08:37.029 align:start position:0%
+an extremely popular database solution
+that<00:08:35.440><c> being</c><00:08:35.760><c> said</c><00:08:36.080><c> it</c><00:08:36.240><c> seems</c><00:08:36.560><c> that</c><00:08:36.640><c> the</c><00:08:36.800><c> reason</c>
+
+00:08:37.029 --> 00:08:37.039 align:start position:0%
+that being said it seems that the reason
+ 
+
+00:08:37.039 --> 00:08:38.469 align:start position:0%
+that being said it seems that the reason
+for<00:08:37.200><c> this</c><00:08:37.440><c> is</c><00:08:37.599><c> the</c><00:08:37.680><c> fact</c><00:08:37.839><c> that</c><00:08:38.000><c> it's</c><00:08:38.159><c> kind</c><00:08:38.399><c> of</c>
+
+00:08:38.469 --> 00:08:38.479 align:start position:0%
+for this is the fact that it's kind of
+ 
+
+00:08:38.479 --> 00:08:40.310 align:start position:0%
+for this is the fact that it's kind of
+this<00:08:38.640><c> nice</c><00:08:38.959><c> middle</c><00:08:39.279><c> ground</c><00:08:39.839><c> between</c>
+
+00:08:40.310 --> 00:08:40.320 align:start position:0%
+this nice middle ground between
+ 
+
+00:08:40.320 --> 00:08:42.149 align:start position:0%
+this nice middle ground between
+relational<00:08:40.800><c> databases</c><00:08:41.440><c> which</c><00:08:41.680><c> are</c><00:08:41.760><c> great</c><00:08:42.000><c> for</c>
+
+00:08:42.149 --> 00:08:42.159 align:start position:0%
+relational databases which are great for
+ 
+
+00:08:42.159 --> 00:08:44.710 align:start position:0%
+relational databases which are great for
+keeping<00:08:42.479><c> data</c><00:08:42.800><c> normalized</c><00:08:43.519><c> and</c><00:08:43.599><c> consistent</c>
+
+00:08:44.710 --> 00:08:44.720 align:start position:0%
+keeping data normalized and consistent
+ 
+
+00:08:44.720 --> 00:08:46.070 align:start position:0%
+keeping data normalized and consistent
+and<00:08:45.120><c> you</c><00:08:45.279><c> know</c>
+
+00:08:46.070 --> 00:08:46.080 align:start position:0%
+and you know
+ 
+
+00:08:46.080 --> 00:08:48.150 align:start position:0%
+and you know
+something<00:08:46.320><c> like</c><00:08:46.560><c> a</c><00:08:46.720><c> multi-master</c><00:08:47.680><c> leaderless</c>
+
+00:08:48.150 --> 00:08:48.160 align:start position:0%
+something like a multi-master leaderless
+ 
+
+00:08:48.160 --> 00:08:50.389 align:start position:0%
+something like a multi-master leaderless
+database<00:08:48.640><c> like</c><00:08:48.800><c> cassandra</c><00:08:49.440><c> which</c><00:08:49.600><c> is</c><00:08:49.839><c> super</c>
+
+00:08:50.389 --> 00:08:50.399 align:start position:0%
+database like cassandra which is super
+ 
+
+00:08:50.399 --> 00:08:52.310 align:start position:0%
+database like cassandra which is super
+optimized<00:08:50.880><c> for</c><00:08:51.040><c> performance</c><00:08:51.920><c> and</c><00:08:52.080><c> right</c>
+
+00:08:52.310 --> 00:08:52.320 align:start position:0%
+optimized for performance and right
+ 
+
+00:08:52.320 --> 00:08:54.150 align:start position:0%
+optimized for performance and right
+throughput<00:08:52.720><c> but</c><00:08:52.880><c> only</c><00:08:53.120><c> with</c><00:08:53.279><c> a</c><00:08:53.360><c> very</c><00:08:53.600><c> specific</c>
+
+00:08:54.150 --> 00:08:54.160 align:start position:0%
+throughput but only with a very specific
+ 
+
+00:08:54.160 --> 00:08:55.750 align:start position:0%
+throughput but only with a very specific
+data<00:08:54.480><c> access</c><00:08:54.880><c> pattern</c><00:08:55.279><c> in</c><00:08:55.360><c> the</c><00:08:55.440><c> case</c><00:08:55.680><c> of</c>
+
+00:08:55.750 --> 00:08:55.760 align:start position:0%
+data access pattern in the case of
+ 
+
+00:08:55.760 --> 00:08:57.990 align:start position:0%
+data access pattern in the case of
+cassandra<00:08:56.560><c> it's</c><00:08:56.800><c> kind</c><00:08:56.959><c> of</c><00:08:57.120><c> just</c><00:08:57.360><c> over</c><00:08:57.680><c> one</c>
+
+00:08:57.990 --> 00:08:58.000 align:start position:0%
+cassandra it's kind of just over one
+ 
+
+00:08:58.000 --> 00:08:58.870 align:start position:0%
+cassandra it's kind of just over one
+shard
+
+00:08:58.870 --> 00:08:58.880 align:start position:0%
+shard
+ 
+
+00:08:58.880 --> 00:09:01.190 align:start position:0%
+shard
+however<00:08:59.279><c> what</c><00:08:59.519><c> mongodb</c><00:09:00.160><c> allows</c><00:09:00.480><c> you</c><00:09:00.560><c> to</c><00:09:00.720><c> do</c><00:09:01.040><c> as</c>
+
+00:09:01.190 --> 00:09:01.200 align:start position:0%
+however what mongodb allows you to do as
+ 
+
+00:09:01.200 --> 00:09:03.750 align:start position:0%
+however what mongodb allows you to do as
+a<00:09:01.279><c> developer</c><00:09:01.839><c> at</c><00:09:01.920><c> least</c><00:09:02.240><c> in</c><00:09:02.480><c> practice</c><00:09:03.279><c> is</c><00:09:03.519><c> to</c>
+
+00:09:03.750 --> 00:09:03.760 align:start position:0%
+a developer at least in practice is to
+ 
+
+00:09:03.760 --> 00:09:05.670 align:start position:0%
+a developer at least in practice is to
+be<00:09:04.000><c> able</c><00:09:04.240><c> to</c><00:09:04.480><c> kind</c><00:09:04.720><c> of</c><00:09:04.959><c> you</c><00:09:05.120><c> know</c><00:09:05.279><c> model</c><00:09:05.600><c> the</c>
+
+00:09:05.670 --> 00:09:05.680 align:start position:0%
+be able to kind of you know model the
+ 
+
+00:09:05.680 --> 00:09:07.750 align:start position:0%
+be able to kind of you know model the
+data<00:09:06.000><c> how</c><00:09:06.160><c> you</c><00:09:06.320><c> want</c><00:09:06.800><c> but</c><00:09:07.040><c> know</c><00:09:07.279><c> that</c><00:09:07.519><c> if</c><00:09:07.600><c> you</c>
+
+00:09:07.750 --> 00:09:07.760 align:start position:0%
+data how you want but know that if you
+ 
+
+00:09:07.760 --> 00:09:09.590 align:start position:0%
+data how you want but know that if you
+ever<00:09:07.920><c> need</c><00:09:08.080><c> to</c><00:09:08.160><c> fall</c><00:09:08.399><c> back</c><00:09:08.959><c> on</c><00:09:09.360><c> you</c><00:09:09.440><c> know</c>
+
+00:09:09.590 --> 00:09:09.600 align:start position:0%
+ever need to fall back on you know
+ 
+
+00:09:09.600 --> 00:09:11.750 align:start position:0%
+ever need to fall back on you know
+having<00:09:09.920><c> to</c><00:09:10.000><c> make</c><00:09:10.160><c> a</c><00:09:10.240><c> more</c><00:09:10.480><c> inefficient</c><00:09:11.040><c> query</c>
+
+00:09:11.750 --> 00:09:11.760 align:start position:0%
+having to make a more inefficient query
+ 
+
+00:09:11.760 --> 00:09:14.310 align:start position:0%
+having to make a more inefficient query
+using<00:09:12.080><c> something</c><00:09:12.480><c> like</c><00:09:12.800><c> um</c><00:09:13.279><c> you</c><00:09:13.360><c> know</c>
+
+00:09:14.310 --> 00:09:14.320 align:start position:0%
+using something like um you know
+ 
+
+00:09:14.320 --> 00:09:16.150 align:start position:0%
+using something like um you know
+local<00:09:14.640><c> secondary</c><00:09:15.200><c> indexes</c><00:09:15.680><c> and</c><00:09:15.760><c> then</c><00:09:15.920><c> kind</c><00:09:16.080><c> of</c>
+
+00:09:16.150 --> 00:09:16.160 align:start position:0%
+local secondary indexes and then kind of
+ 
+
+00:09:16.160 --> 00:09:18.150 align:start position:0%
+local secondary indexes and then kind of
+combining<00:09:16.640><c> those</c><00:09:16.800><c> together</c><00:09:17.200><c> in</c><00:09:17.279><c> parallel</c><00:09:18.000><c> you</c>
+
+00:09:18.150 --> 00:09:18.160 align:start position:0%
+combining those together in parallel you
+ 
+
+00:09:18.160 --> 00:09:19.750 align:start position:0%
+combining those together in parallel you
+can<00:09:18.399><c> do</c><00:09:18.560><c> that</c><00:09:18.720><c> so</c><00:09:18.880><c> you</c><00:09:19.040><c> have</c><00:09:19.200><c> this</c><00:09:19.440><c> kind</c><00:09:19.600><c> of</c>
+
+00:09:19.750 --> 00:09:19.760 align:start position:0%
+can do that so you have this kind of
+ 
+
+00:09:19.760 --> 00:09:22.310 align:start position:0%
+can do that so you have this kind of
+greater<00:09:20.080><c> set</c><00:09:20.240><c> of</c><00:09:20.320><c> functionality</c>
+
+00:09:22.310 --> 00:09:22.320 align:start position:0%
+greater set of functionality
+ 
+
+00:09:22.320 --> 00:09:24.070 align:start position:0%
+greater set of functionality
+that<00:09:22.560><c> being</c><00:09:22.800><c> said</c><00:09:23.040><c> as</c><00:09:23.200><c> far</c><00:09:23.360><c> as</c><00:09:23.519><c> for</c><00:09:23.680><c> systems</c>
+
+00:09:24.070 --> 00:09:24.080 align:start position:0%
+that being said as far as for systems
+ 
+
+00:09:24.080 --> 00:09:26.070 align:start position:0%
+that being said as far as for systems
+design<00:09:24.399><c> interviews</c><00:09:25.200><c> i</c><00:09:25.360><c> can't</c><00:09:25.600><c> imagine</c><00:09:26.000><c> that</c>
+
+00:09:26.070 --> 00:09:26.080 align:start position:0%
+design interviews i can't imagine that
+ 
+
+00:09:26.080 --> 00:09:28.230 align:start position:0%
+design interviews i can't imagine that
+for<00:09:26.240><c> the</c><00:09:26.320><c> most</c><00:09:26.560><c> part</c><00:09:26.800><c> mongodb</c><00:09:27.600><c> is</c><00:09:27.760><c> going</c><00:09:28.000><c> to</c><00:09:28.080><c> be</c>
+
+00:09:28.230 --> 00:09:28.240 align:start position:0%
+for the most part mongodb is going to be
+ 
+
+00:09:28.240 --> 00:09:30.310 align:start position:0%
+for the most part mongodb is going to be
+the<00:09:28.399><c> best</c><00:09:28.720><c> answer</c><00:09:29.040><c> to</c><00:09:29.200><c> ever</c><00:09:29.440><c> give</c><00:09:30.080><c> that's</c>
+
+00:09:30.310 --> 00:09:30.320 align:start position:0%
+the best answer to ever give that's
+ 
+
+00:09:30.320 --> 00:09:32.230 align:start position:0%
+the best answer to ever give that's
+because<00:09:30.640><c> in</c><00:09:30.800><c> systems</c><00:09:31.120><c> design</c><00:09:31.519><c> interviews</c>
+
+00:09:32.230 --> 00:09:32.240 align:start position:0%
+because in systems design interviews
+ 
+
+00:09:32.240 --> 00:09:33.269 align:start position:0%
+because in systems design interviews
+you're<00:09:32.480><c> not</c><00:09:32.640><c> thinking</c><00:09:32.959><c> about</c><00:09:33.200><c> the</c>
+
+00:09:33.269 --> 00:09:33.279 align:start position:0%
+you're not thinking about the
+ 
+
+00:09:33.279 --> 00:09:35.509 align:start position:0%
+you're not thinking about the
+maintainability<00:09:34.160><c> of</c><00:09:34.320><c> the</c><00:09:34.480><c> application</c><00:09:35.360><c> as</c>
+
+00:09:35.509 --> 00:09:35.519 align:start position:0%
+maintainability of the application as
+ 
+
+00:09:35.519 --> 00:09:37.750 align:start position:0%
+maintainability of the application as
+much<00:09:35.760><c> as</c><00:09:35.920><c> you</c><00:09:36.160><c> are</c><00:09:36.320><c> how</c><00:09:36.560><c> to</c><00:09:36.720><c> solve</c><00:09:37.120><c> a</c><00:09:37.279><c> problem</c>
+
+00:09:37.750 --> 00:09:37.760 align:start position:0%
+much as you are how to solve a problem
+ 
+
+00:09:37.760 --> 00:09:39.590 align:start position:0%
+much as you are how to solve a problem
+at<00:09:38.000><c> a</c><00:09:38.080><c> given</c><00:09:38.399><c> level</c><00:09:38.640><c> of</c><00:09:38.720><c> scale</c><00:09:39.120><c> right</c><00:09:39.360><c> in</c><00:09:39.440><c> every</c>
+
+00:09:39.590 --> 00:09:39.600 align:start position:0%
+at a given level of scale right in every
+ 
+
+00:09:39.600 --> 00:09:41.350 align:start position:0%
+at a given level of scale right in every
+single<00:09:39.920><c> systems</c><00:09:40.240><c> design</c><00:09:40.640><c> interview</c><00:09:41.120><c> your</c>
+
+00:09:41.350 --> 00:09:41.360 align:start position:0%
+single systems design interview your
+ 
+
+00:09:41.360 --> 00:09:42.630 align:start position:0%
+single systems design interview your
+interviewer<00:09:41.760><c> is</c><00:09:41.839><c> going</c><00:09:41.920><c> to</c><00:09:42.000><c> say</c><00:09:42.240><c> this</c><00:09:42.399><c> is</c><00:09:42.480><c> how</c>
+
+00:09:42.630 --> 00:09:42.640 align:start position:0%
+interviewer is going to say this is how
+ 
+
+00:09:42.640 --> 00:09:44.710 align:start position:0%
+interviewer is going to say this is how
+many<00:09:42.800><c> users</c><00:09:43.200><c> you</c><00:09:43.360><c> have</c><00:09:43.920><c> not</c><00:09:44.160><c> this</c><00:09:44.320><c> is</c><00:09:44.399><c> how</c><00:09:44.560><c> many</c>
+
+00:09:44.710 --> 00:09:44.720 align:start position:0%
+many users you have not this is how many
+ 
+
+00:09:44.720 --> 00:09:46.630 align:start position:0%
+many users you have not this is how many
+users<00:09:45.040><c> you</c><00:09:45.200><c> have</c><00:09:45.440><c> now</c><00:09:45.839><c> and</c><00:09:46.080><c> you</c><00:09:46.240><c> know</c><00:09:46.399><c> in</c><00:09:46.560><c> the</c>
+
+00:09:46.630 --> 00:09:46.640 align:start position:0%
+users you have now and you know in the
+ 
+
+00:09:46.640 --> 00:09:49.030 align:start position:0%
+users you have now and you know in the
+future<00:09:47.200><c> expect</c><00:09:47.600><c> this</c><00:09:47.839><c> to</c><00:09:48.320><c> double</c><00:09:48.560><c> or</c><00:09:48.720><c> at</c><00:09:48.800><c> least</c>
+
+00:09:49.030 --> 00:09:49.040 align:start position:0%
+future expect this to double or at least
+ 
+
+00:09:49.040 --> 00:09:50.310 align:start position:0%
+future expect this to double or at least
+in<00:09:49.120><c> my</c><00:09:49.279><c> experience</c><00:09:49.680><c> that</c><00:09:49.839><c> hasn't</c><00:09:50.080><c> been</c><00:09:50.240><c> the</c>
+
+00:09:50.310 --> 00:09:50.320 align:start position:0%
+in my experience that hasn't been the
+ 
+
+00:09:50.320 --> 00:09:51.990 align:start position:0%
+in my experience that hasn't been the
+case<00:09:50.560><c> maybe</c><00:09:50.800><c> it</c><00:09:50.959><c> can</c><00:09:51.200><c> be</c>
+
+00:09:51.990 --> 00:09:52.000 align:start position:0%
+case maybe it can be
+ 
+
+00:09:52.000 --> 00:09:53.670 align:start position:0%
+case maybe it can be
+but<00:09:52.160><c> the</c><00:09:52.320><c> point</c><00:09:52.640><c> is</c><00:09:53.040><c> assuming</c><00:09:53.440><c> that</c><00:09:53.519><c> you're</c>
+
+00:09:53.670 --> 00:09:53.680 align:start position:0%
+but the point is assuming that you're
+ 
+
+00:09:53.680 --> 00:09:55.750 align:start position:0%
+but the point is assuming that you're
+just<00:09:53.839><c> tackling</c><00:09:54.399><c> one</c><00:09:54.720><c> problem</c><00:09:55.120><c> in</c><00:09:55.200><c> the</c><00:09:55.360><c> systems</c>
+
+00:09:55.750 --> 00:09:55.760 align:start position:0%
+just tackling one problem in the systems
+ 
+
+00:09:55.760 --> 00:09:57.430 align:start position:0%
+just tackling one problem in the systems
+design<00:09:56.080><c> interview</c><00:09:56.800><c> typically</c><00:09:57.200><c> there's</c>
+
+00:09:57.430 --> 00:09:57.440 align:start position:0%
+design interview typically there's
+ 
+
+00:09:57.440 --> 00:09:59.430 align:start position:0%
+design interview typically there's
+probably<00:09:57.839><c> going</c><00:09:58.080><c> to</c><00:09:58.240><c> be</c><00:09:58.480><c> a</c><00:09:58.560><c> more</c><00:09:58.800><c> specialized</c>
+
+00:09:59.430 --> 00:09:59.440 align:start position:0%
+probably going to be a more specialized
+ 
+
+00:09:59.440 --> 00:10:01.430 align:start position:0%
+probably going to be a more specialized
+database<00:09:59.920><c> solution</c><00:10:00.640><c> that's</c><00:10:00.959><c> going</c><00:10:01.120><c> to</c><00:10:01.200><c> work</c>
+
+00:10:01.430 --> 00:10:01.440 align:start position:0%
+database solution that's going to work
+ 
+
+00:10:01.440 --> 00:10:03.269 align:start position:0%
+database solution that's going to work
+better<00:10:01.600><c> than</c><00:10:01.760><c> mongodb</c>
+
+00:10:03.269 --> 00:10:03.279 align:start position:0%
+better than mongodb
+ 
+
+00:10:03.279 --> 00:10:05.269 align:start position:0%
+better than mongodb
+that<00:10:03.519><c> being</c><00:10:03.680><c> said</c><00:10:04.000><c> though</c><00:10:04.399><c> in</c><00:10:04.640><c> practice</c><00:10:05.200><c> you</c>
+
+00:10:05.269 --> 00:10:05.279 align:start position:0%
+that being said though in practice you
+ 
+
+00:10:05.279 --> 00:10:06.389 align:start position:0%
+that being said though in practice you
+know<00:10:05.519><c> if</c><00:10:05.680><c> you're</c><00:10:05.760><c> trying</c><00:10:06.000><c> to</c><00:10:06.079><c> get</c><00:10:06.240><c> an</c>
+
+00:10:06.389 --> 00:10:06.399 align:start position:0%
+know if you're trying to get an
+ 
+
+00:10:06.399 --> 00:10:07.829 align:start position:0%
+know if you're trying to get an
+application<00:10:06.880><c> off</c><00:10:07.040><c> the</c><00:10:07.120><c> ground</c><00:10:07.519><c> and</c><00:10:07.600><c> you</c><00:10:07.680><c> know</c>
+
+00:10:07.829 --> 00:10:07.839 align:start position:0%
+application off the ground and you know
+ 
+
+00:10:07.839 --> 00:10:09.030 align:start position:0%
+application off the ground and you know
+that<00:10:08.000><c> you're</c><00:10:08.079><c> going</c><00:10:08.160><c> to</c><00:10:08.240><c> be</c><00:10:08.320><c> growing</c><00:10:08.720><c> over</c>
+
+00:10:09.030 --> 00:10:09.040 align:start position:0%
+that you're going to be growing over
+ 
+
+00:10:09.040 --> 00:10:12.150 align:start position:0%
+that you're going to be growing over
+time<00:10:09.760><c> the</c><00:10:09.920><c> scalability</c><00:10:11.040><c> and</c><00:10:11.680><c> advanced</c>
+
+00:10:12.150 --> 00:10:12.160 align:start position:0%
+time the scalability and advanced
+ 
+
+00:10:12.160 --> 00:10:14.310 align:start position:0%
+time the scalability and advanced
+feature<00:10:12.399><c> set</c><00:10:12.640><c> of</c><00:10:12.720><c> mongodb</c><00:10:13.519><c> does</c><00:10:13.680><c> make</c><00:10:13.920><c> it</c><00:10:14.079><c> very</c>
+
+00:10:14.310 --> 00:10:14.320 align:start position:0%
+feature set of mongodb does make it very
+ 
+
+00:10:14.320 --> 00:10:16.630 align:start position:0%
+feature set of mongodb does make it very
+useful<00:10:15.040><c> so</c><00:10:15.200><c> i</c><00:10:15.279><c> hope</c><00:10:15.519><c> that</c><00:10:15.600><c> this</c><00:10:15.839><c> video</c><00:10:16.240><c> was</c><00:10:16.560><c> a</c>
+
+00:10:16.630 --> 00:10:16.640 align:start position:0%
+useful so i hope that this video was a
+ 
+
+00:10:16.640 --> 00:10:18.710 align:start position:0%
+useful so i hope that this video was a
+nice<00:10:16.959><c> introduction</c><00:10:17.440><c> to</c><00:10:17.600><c> document</c><00:10:18.000><c> databases</c>
+
+00:10:18.710 --> 00:10:18.720 align:start position:0%
+nice introduction to document databases
+ 
+
+00:10:18.720 --> 00:10:20.230 align:start position:0%
+nice introduction to document databases
+i'll<00:10:18.880><c> probably</c><00:10:19.200><c> cover</c><00:10:19.519><c> one</c><00:10:19.760><c> more</c><00:10:20.000><c> which</c><00:10:20.160><c> i</c>
+
+00:10:20.230 --> 00:10:20.240 align:start position:0%
+i'll probably cover one more which i
+ 
+
+00:10:20.240 --> 00:10:22.470 align:start position:0%
+i'll probably cover one more which i
+think<00:10:20.399><c> is</c><00:10:20.560><c> going</c><00:10:20.720><c> to</c><00:10:20.800><c> be</c><00:10:20.959><c> couch</c><00:10:21.279><c> base</c><00:10:22.079><c> and</c><00:10:22.160><c> then</c>
+
+00:10:22.470 --> 00:10:22.480 align:start position:0%
+think is going to be couch base and then
+ 
+
+00:10:22.480 --> 00:10:24.949 align:start position:0%
+think is going to be couch base and then
+also<00:10:22.959><c> one</c><00:10:23.200><c> or</c><00:10:23.279><c> two</c><00:10:23.440><c> more</c><00:10:23.680><c> new</c><00:10:23.839><c> sql</c><00:10:24.160><c> databases</c>
+
+00:10:24.949 --> 00:10:24.959 align:start position:0%
+also one or two more new sql databases
+ 
+
+00:10:24.959 --> 00:10:28.000 align:start position:0%
+also one or two more new sql databases
+and<00:10:25.040><c> then</c><00:10:25.200><c> we</c><00:10:25.279><c> can</c>
+

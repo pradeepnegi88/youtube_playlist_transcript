@@ -1,0 +1,2152 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.179 --> 00:00:03.050 align:start position:0%
+ 
+hello<00:00:00.659><c> everyone</c><00:00:01.020><c> and</c><00:00:01.740><c> welcome</c><00:00:02.159><c> back</c><00:00:02.639><c> to</c><00:00:02.879><c> the</c>
+
+00:00:03.050 --> 00:00:03.060 align:start position:0%
+hello everyone and welcome back to the
+ 
+
+00:00:03.060 --> 00:00:05.390 align:start position:0%
+hello everyone and welcome back to the
+channel<00:00:03.259><c> uh</c><00:00:04.259><c> right</c><00:00:04.500><c> now</c><00:00:04.680><c> it</c><00:00:04.920><c> is</c><00:00:05.100><c> just</c><00:00:05.220><c> starting</c>
+
+00:00:05.390 --> 00:00:05.400 align:start position:0%
+channel uh right now it is just starting
+ 
+
+00:00:05.400 --> 00:00:07.730 align:start position:0%
+channel uh right now it is just starting
+to<00:00:05.580><c> get</c><00:00:05.759><c> cold</c><00:00:06.000><c> over</c><00:00:06.299><c> here</c><00:00:06.540><c> in</c><00:00:06.720><c> Chicago</c><00:00:06.899><c> and</c><00:00:07.560><c> as</c>
+
+00:00:07.730 --> 00:00:07.740 align:start position:0%
+to get cold over here in Chicago and as
+ 
+
+00:00:07.740 --> 00:00:09.470 align:start position:0%
+to get cold over here in Chicago and as
+a<00:00:07.859><c> result</c><00:00:07.980><c> the</c><00:00:08.280><c> down</c><00:00:08.460><c> Badness</c><00:00:08.880><c> is</c><00:00:09.120><c> hitting</c><00:00:09.420><c> me</c>
+
+00:00:09.470 --> 00:00:09.480 align:start position:0%
+a result the down Badness is hitting me
+ 
+
+00:00:09.480 --> 00:00:11.810 align:start position:0%
+a result the down Badness is hitting me
+like<00:00:09.660><c> a</c><00:00:09.840><c> truck</c><00:00:10.019><c> uh</c><00:00:10.920><c> but</c><00:00:11.099><c> anyways</c><00:00:11.460><c> I'm</c><00:00:11.700><c> gonna</c>
+
+00:00:11.810 --> 00:00:11.820 align:start position:0%
+like a truck uh but anyways I'm gonna
+ 
+
+00:00:11.820 --> 00:00:13.789 align:start position:0%
+like a truck uh but anyways I'm gonna
+persevere<00:00:12.420><c> through</c><00:00:12.660><c> it</c><00:00:12.840><c> and</c><00:00:13.080><c> talk</c><00:00:13.320><c> about</c><00:00:13.500><c> some</c>
+
+00:00:13.789 --> 00:00:13.799 align:start position:0%
+persevere through it and talk about some
+ 
+
+00:00:13.799 --> 00:00:16.970 align:start position:0%
+persevere through it and talk about some
+graph<00:00:14.160><c> databases</c><00:00:14.759><c> so</c><00:00:15.059><c> let's</c><00:00:15.299><c> get</c><00:00:15.540><c> into</c><00:00:15.780><c> things</c>
+
+00:00:16.970 --> 00:00:16.980 align:start position:0%
+graph databases so let's get into things
+ 
+
+00:00:16.980 --> 00:00:19.550 align:start position:0%
+graph databases so let's get into things
+alrighty<00:00:17.820><c> so</c><00:00:17.940><c> today's</c><00:00:18.180><c> video</c><00:00:18.600><c> is</c><00:00:19.080><c> all</c><00:00:19.320><c> about</c>
+
+00:00:19.550 --> 00:00:19.560 align:start position:0%
+alrighty so today's video is all about
+ 
+
+00:00:19.560 --> 00:00:22.010 align:start position:0%
+alrighty so today's video is all about
+graph<00:00:20.039><c> databases</c><00:00:20.760><c> which</c><00:00:21.180><c> as</c><00:00:21.480><c> you</c><00:00:21.660><c> may</c><00:00:21.840><c> have</c>
+
+00:00:22.010 --> 00:00:22.020 align:start position:0%
+graph databases which as you may have
+ 
+
+00:00:22.020 --> 00:00:24.650 align:start position:0%
+graph databases which as you may have
+guessed<00:00:22.380><c> are</c><00:00:22.980><c> specifically</c><00:00:23.460><c> useful</c><00:00:24.000><c> for</c>
+
+00:00:24.650 --> 00:00:24.660 align:start position:0%
+guessed are specifically useful for
+ 
+
+00:00:24.660 --> 00:00:27.410 align:start position:0%
+guessed are specifically useful for
+holding<00:00:25.260><c> storing</c><00:00:26.039><c> and</c><00:00:26.519><c> reading</c><00:00:27.000><c> and</c><00:00:27.060><c> writing</c>
+
+00:00:27.410 --> 00:00:27.420 align:start position:0%
+holding storing and reading and writing
+ 
+
+00:00:27.420 --> 00:00:30.230 align:start position:0%
+holding storing and reading and writing
+quickly<00:00:27.720><c> graph</c><00:00:28.560><c> data</c><00:00:28.980><c> so</c><00:00:29.400><c> graph</c><00:00:29.699><c> data</c><00:00:30.119><c> is</c>
+
+00:00:30.230 --> 00:00:30.240 align:start position:0%
+quickly graph data so graph data is
+ 
+
+00:00:30.240 --> 00:00:32.330 align:start position:0%
+quickly graph data so graph data is
+anything<00:00:30.480><c> that</c><00:00:30.779><c> is</c><00:00:30.900><c> best</c><00:00:31.080><c> represented</c><00:00:31.679><c> by</c><00:00:31.980><c> a</c>
+
+00:00:32.330 --> 00:00:32.340 align:start position:0%
+anything that is best represented by a
+ 
+
+00:00:32.340 --> 00:00:34.549 align:start position:0%
+anything that is best represented by a
+bunch<00:00:32.520><c> of</c><00:00:32.820><c> nodes</c><00:00:33.180><c> and</c><00:00:33.420><c> vertices</c><00:00:33.780><c> or</c><00:00:34.200><c> edges</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+bunch of nodes and vertices or edges
+ 
+
+00:00:34.559 --> 00:00:36.530 align:start position:0%
+bunch of nodes and vertices or edges
+whatever<00:00:34.800><c> you</c><00:00:35.100><c> want</c><00:00:35.219><c> to</c><00:00:35.340><c> call</c><00:00:35.399><c> them</c><00:00:35.579><c> and</c><00:00:36.300><c> as</c>
+
+00:00:36.530 --> 00:00:36.540 align:start position:0%
+whatever you want to call them and as
+ 
+
+00:00:36.540 --> 00:00:38.389 align:start position:0%
+whatever you want to call them and as
+you<00:00:36.660><c> can</c><00:00:36.780><c> see</c><00:00:36.960><c> I</c><00:00:37.320><c> have</c><00:00:37.440><c> presented</c><00:00:37.860><c> one</c><00:00:38.100><c> here</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+you can see I have presented one here
+ 
+
+00:00:38.399 --> 00:00:41.270 align:start position:0%
+you can see I have presented one here
+below<00:00:38.780><c> where</c><00:00:39.780><c> even</c><00:00:40.200><c> things</c><00:00:40.559><c> like</c><00:00:40.739><c> the</c><00:00:40.980><c> edges</c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+below where even things like the edges
+ 
+
+00:00:41.280 --> 00:00:43.130 align:start position:0%
+below where even things like the edges
+themselves<00:00:41.700><c> can</c><00:00:42.059><c> have</c><00:00:42.239><c> values</c><00:00:42.719><c> the</c><00:00:42.960><c> nodes</c>
+
+00:00:43.130 --> 00:00:43.140 align:start position:0%
+themselves can have values the nodes
+ 
+
+00:00:43.140 --> 00:00:45.410 align:start position:0%
+themselves can have values the nodes
+themselves<00:00:43.620><c> can</c><00:00:43.920><c> have</c><00:00:44.100><c> keys</c><00:00:44.579><c> and</c><00:00:44.760><c> or</c><00:00:44.940><c> values</c>
+
+00:00:45.410 --> 00:00:45.420 align:start position:0%
+themselves can have keys and or values
+ 
+
+00:00:45.420 --> 00:00:47.750 align:start position:0%
+themselves can have keys and or values
+and<00:00:46.020><c> in</c><00:00:46.200><c> particular</c><00:00:46.559><c> this</c><00:00:46.920><c> graph</c><00:00:47.219><c> is</c><00:00:47.399><c> going</c><00:00:47.579><c> to</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+and in particular this graph is going to
+ 
+
+00:00:47.760 --> 00:00:50.150 align:start position:0%
+and in particular this graph is going to
+represent<00:00:48.239><c> who</c><00:00:49.020><c> is</c><00:00:49.260><c> trying</c><00:00:49.500><c> to</c><00:00:49.680><c> flirt</c><00:00:49.980><c> with</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+represent who is trying to flirt with
+ 
+
+00:00:50.160 --> 00:00:51.950 align:start position:0%
+represent who is trying to flirt with
+who<00:00:50.399><c> as</c><00:00:50.640><c> you</c><00:00:50.760><c> can</c><00:00:50.879><c> see</c><00:00:50.940><c> it's</c><00:00:51.059><c> a</c><00:00:51.300><c> direct</c><00:00:51.420><c> graph</c>
+
+00:00:51.950 --> 00:00:51.960 align:start position:0%
+who as you can see it's a direct graph
+ 
+
+00:00:51.960 --> 00:00:54.350 align:start position:0%
+who as you can see it's a direct graph
+so<00:00:52.500><c> you've</c><00:00:52.680><c> got</c><00:00:52.800><c> Megan</c><00:00:53.219><c> Fox</c><00:00:53.460><c> and</c><00:00:53.820><c> Kate</c><00:00:54.059><c> Upton</c>
+
+00:00:54.350 --> 00:00:54.360 align:start position:0%
+so you've got Megan Fox and Kate Upton
+ 
+
+00:00:54.360 --> 00:00:55.790 align:start position:0%
+so you've got Megan Fox and Kate Upton
+over<00:00:54.600><c> here</c><00:00:54.780><c> trying</c><00:00:55.020><c> to</c><00:00:55.140><c> flirt</c><00:00:55.320><c> with</c><00:00:55.620><c> Jordan</c>
+
+00:00:55.790 --> 00:00:55.800 align:start position:0%
+over here trying to flirt with Jordan
+ 
+
+00:00:55.800 --> 00:00:58.069 align:start position:0%
+over here trying to flirt with Jordan
+unsurprising<00:00:56.760><c> and</c><00:00:57.360><c> then</c><00:00:57.420><c> you've</c><00:00:57.660><c> got</c><00:00:57.780><c> a</c><00:00:57.960><c> few</c>
+
+00:00:58.069 --> 00:00:58.079 align:start position:0%
+unsurprising and then you've got a few
+ 
+
+00:00:58.079 --> 00:01:00.290 align:start position:0%
+unsurprising and then you've got a few
+uh<00:00:58.440><c> Bozo</c><00:00:58.920><c> celebrities</c><00:00:59.340><c> trying</c><00:00:59.640><c> to</c><00:00:59.820><c> flirt</c><00:01:00.059><c> with</c>
+
+00:01:00.290 --> 00:01:00.300 align:start position:0%
+uh Bozo celebrities trying to flirt with
+ 
+
+00:01:00.300 --> 00:01:02.090 align:start position:0%
+uh Bozo celebrities trying to flirt with
+them<00:01:00.480><c> but</c><00:01:00.960><c> uh</c><00:01:01.260><c> you</c><00:01:01.379><c> know</c><00:01:01.500><c> they're</c><00:01:01.739><c> not</c><00:01:01.920><c> really</c>
+
+00:01:02.090 --> 00:01:02.100 align:start position:0%
+them but uh you know they're not really
+ 
+
+00:01:02.100 --> 00:01:03.650 align:start position:0%
+them but uh you know they're not really
+reciprocating<00:01:02.760><c> that</c><00:01:02.940><c> so</c><00:01:03.120><c> you've</c><00:01:03.300><c> got</c><00:01:03.359><c> Shia</c>
+
+00:01:03.650 --> 00:01:03.660 align:start position:0%
+reciprocating that so you've got Shia
+ 
+
+00:01:03.660 --> 00:01:05.750 align:start position:0%
+reciprocating that so you've got Shia
+LaBeouf<00:01:04.140><c> Machine</c><00:01:04.619><c> Gun</c><00:01:04.920><c> Kelly</c><00:01:05.280><c> of</c><00:01:05.700><c> course</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+LaBeouf Machine Gun Kelly of course
+ 
+
+00:01:05.760 --> 00:01:07.789 align:start position:0%
+LaBeouf Machine Gun Kelly of course
+going<00:01:06.000><c> to</c><00:01:06.119><c> shoot</c><00:01:06.240><c> his</c><00:01:06.420><c> shot</c><00:01:06.600><c> with</c><00:01:06.840><c> both</c><00:01:07.080><c> and</c>
+
+00:01:07.789 --> 00:01:07.799 align:start position:0%
+going to shoot his shot with both and
+ 
+
+00:01:07.799 --> 00:01:09.590 align:start position:0%
+going to shoot his shot with both and
+then<00:01:07.860><c> Justin</c><00:01:08.100><c> Verlander</c><00:01:08.880><c> who</c><00:01:09.060><c> to</c><00:01:09.420><c> my</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+then Justin Verlander who to my
+ 
+
+00:01:09.600 --> 00:01:11.330 align:start position:0%
+then Justin Verlander who to my
+disappointment<00:01:10.140><c> is</c><00:01:10.619><c> actually</c><00:01:10.799><c> now</c><00:01:11.100><c> married</c>
+
+00:01:11.330 --> 00:01:11.340 align:start position:0%
+disappointment is actually now married
+ 
+
+00:01:11.340 --> 00:01:13.490 align:start position:0%
+disappointment is actually now married
+to<00:01:11.580><c> Kate</c><00:01:11.820><c> Upton</c><00:01:12.119><c> so</c><00:01:12.659><c> the</c><00:01:12.840><c> graph</c><00:01:13.080><c> database</c>
+
+00:01:13.490 --> 00:01:13.500 align:start position:0%
+to Kate Upton so the graph database
+ 
+
+00:01:13.500 --> 00:01:16.490 align:start position:0%
+to Kate Upton so the graph database
+video<00:01:13.860><c> itself</c><00:01:14.400><c> is</c><00:01:14.760><c> mostly</c><00:01:15.119><c> inspired</c><00:01:15.600><c> by</c><00:01:15.840><c> neo4j</c>
+
+00:01:16.490 --> 00:01:16.500 align:start position:0%
+video itself is mostly inspired by neo4j
+ 
+
+00:01:16.500 --> 00:01:17.990 align:start position:0%
+video itself is mostly inspired by neo4j
+which<00:01:16.740><c> we'll</c><00:01:16.799><c> talk</c><00:01:16.920><c> talk</c><00:01:17.280><c> about</c><00:01:17.400><c> towards</c><00:01:17.820><c> the</c>
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+which we'll talk talk about towards the
+ 
+
+00:01:18.000 --> 00:01:19.609 align:start position:0%
+which we'll talk talk about towards the
+end<00:01:18.119><c> of</c><00:01:18.240><c> this</c><00:01:18.360><c> one</c><00:01:18.540><c> but</c><00:01:18.780><c> for</c><00:01:18.960><c> now</c><00:01:19.080><c> let's</c><00:01:19.439><c> think</c>
+
+00:01:19.609 --> 00:01:19.619 align:start position:0%
+end of this one but for now let's think
+ 
+
+00:01:19.619 --> 00:01:21.289 align:start position:0%
+end of this one but for now let's think
+about<00:01:19.799><c> this</c><00:01:20.100><c> a</c><00:01:20.280><c> little</c><00:01:20.400><c> bit</c><00:01:20.520><c> more</c><00:01:20.759><c> abstractly</c>
+
+00:01:21.289 --> 00:01:21.299 align:start position:0%
+about this a little bit more abstractly
+ 
+
+00:01:21.299 --> 00:01:23.390 align:start position:0%
+about this a little bit more abstractly
+so<00:01:21.960><c> I'm</c><00:01:22.080><c> going</c><00:01:22.200><c> to</c><00:01:22.259><c> start</c><00:01:22.439><c> the</c><00:01:22.680><c> video</c><00:01:22.860><c> Itself</c>
+
+00:01:23.390 --> 00:01:23.400 align:start position:0%
+so I'm going to start the video Itself
+ 
+
+00:01:23.400 --> 00:01:26.030 align:start position:0%
+so I'm going to start the video Itself
+by<00:01:23.939><c> basically</c><00:01:24.360><c> covering</c><00:01:24.840><c> the</c><00:01:25.020><c> concept</c><00:01:25.380><c> of</c>
+
+00:01:26.030 --> 00:01:26.040 align:start position:0%
+by basically covering the concept of
+ 
+
+00:01:26.040 --> 00:01:29.510 align:start position:0%
+by basically covering the concept of
+native<00:01:26.939><c> versus</c><00:01:27.299><c> non-native</c><00:01:27.960><c> graph</c><00:01:28.380><c> databases</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+native versus non-native graph databases
+ 
+
+00:01:29.520 --> 00:01:31.550 align:start position:0%
+native versus non-native graph databases
+now<00:01:29.939><c> the</c><00:01:30.119><c> meaning</c><00:01:30.240><c> of</c><00:01:30.420><c> that</c><00:01:30.600><c> effectively</c><00:01:31.200><c> is</c>
+
+00:01:31.550 --> 00:01:31.560 align:start position:0%
+now the meaning of that effectively is
+ 
+
+00:01:31.560 --> 00:01:34.670 align:start position:0%
+now the meaning of that effectively is
+that<00:01:31.860><c> a</c><00:01:32.460><c> non-native</c><00:01:32.939><c> graph</c><00:01:33.360><c> database</c><00:01:33.840><c> is</c><00:01:34.500><c> one</c>
+
+00:01:34.670 --> 00:01:34.680 align:start position:0%
+that a non-native graph database is one
+ 
+
+00:01:34.680 --> 00:01:37.249 align:start position:0%
+that a non-native graph database is one
+that<00:01:34.920><c> takes</c><00:01:35.220><c> a</c><00:01:35.640><c> typical</c><00:01:36.000><c> existing</c><00:01:36.780><c> database</c>
+
+00:01:37.249 --> 00:01:37.259 align:start position:0%
+that takes a typical existing database
+ 
+
+00:01:37.259 --> 00:01:39.950 align:start position:0%
+that takes a typical existing database
+and<00:01:37.920><c> basically</c><00:01:38.220><c> writes</c><00:01:38.820><c> a</c><00:01:38.939><c> query</c><00:01:39.240><c> language</c><00:01:39.540><c> on</c>
+
+00:01:39.950 --> 00:01:39.960 align:start position:0%
+and basically writes a query language on
+ 
+
+00:01:39.960 --> 00:01:41.270 align:start position:0%
+and basically writes a query language on
+top<00:01:40.079><c> of</c><00:01:40.259><c> it</c><00:01:40.380><c> such</c><00:01:40.619><c> that</c><00:01:40.799><c> you</c><00:01:40.979><c> can</c><00:01:41.100><c> perform</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+top of it such that you can perform
+ 
+
+00:01:41.280 --> 00:01:44.090 align:start position:0%
+top of it such that you can perform
+graph<00:01:41.820><c> traversals</c><00:01:42.420><c> relatively</c><00:01:43.020><c> easily</c><00:01:43.439><c> so</c>
+
+00:01:44.090 --> 00:01:44.100 align:start position:0%
+graph traversals relatively easily so
+ 
+
+00:01:44.100 --> 00:01:45.590 align:start position:0%
+graph traversals relatively easily so
+let's<00:01:44.280><c> see</c><00:01:44.460><c> how</c><00:01:44.640><c> we</c><00:01:44.759><c> would</c><00:01:44.939><c> actually</c><00:01:45.180><c> perform</c>
+
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+let's see how we would actually perform
+ 
+
+00:01:45.600 --> 00:01:48.530 align:start position:0%
+let's see how we would actually perform
+something<00:01:46.200><c> like</c><00:01:46.439><c> a</c><00:01:46.619><c> graph</c><00:01:46.799><c> traversal</c><00:01:47.400><c> using</c><00:01:48.180><c> a</c>
+
+00:01:48.530 --> 00:01:48.540 align:start position:0%
+something like a graph traversal using a
+ 
+
+00:01:48.540 --> 00:01:50.510 align:start position:0%
+something like a graph traversal using a
+relational<00:01:48.780><c> database</c><00:01:49.380><c> so</c><00:01:49.920><c> keep</c><00:01:50.100><c> in</c><00:01:50.220><c> mind</c><00:01:50.340><c> with</c>
+
+00:01:50.510 --> 00:01:50.520 align:start position:0%
+relational database so keep in mind with
+ 
+
+00:01:50.520 --> 00:01:52.010 align:start position:0%
+relational database so keep in mind with
+a<00:01:50.640><c> relational</c><00:01:50.880><c> database</c><00:01:51.360><c> whenever</c><00:01:51.780><c> we</c><00:01:51.960><c> have</c>
+
+00:01:52.010 --> 00:01:52.020 align:start position:0%
+a relational database whenever we have
+ 
+
+00:01:52.020 --> 00:01:53.569 align:start position:0%
+a relational database whenever we have
+many<00:01:52.200><c> to</c><00:01:52.380><c> many</c><00:01:52.619><c> relationships</c><00:01:53.159><c> like</c><00:01:53.399><c> we</c>
+
+00:01:53.569 --> 00:01:53.579 align:start position:0%
+many to many relationships like we
+ 
+
+00:01:53.579 --> 00:01:55.910 align:start position:0%
+many to many relationships like we
+require<00:01:53.820><c> in</c><00:01:54.420><c> a</c><00:01:54.600><c> graph</c><00:01:54.899><c> we</c><00:01:55.439><c> would</c><00:01:55.619><c> typically</c>
+
+00:01:55.910 --> 00:01:55.920 align:start position:0%
+require in a graph we would typically
+ 
+
+00:01:55.920 --> 00:01:58.310 align:start position:0%
+require in a graph we would typically
+use<00:01:56.280><c> a</c><00:01:56.579><c> table</c><00:01:56.759><c> that</c><00:01:57.360><c> basically</c><00:01:57.720><c> just</c><00:01:57.899><c> has</c><00:01:58.079><c> the</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+use a table that basically just has the
+ 
+
+00:01:58.320 --> 00:01:59.870 align:start position:0%
+use a table that basically just has the
+primary<00:01:58.619><c> keys</c><00:01:59.040><c> of</c><00:01:59.220><c> the</c><00:01:59.340><c> nodes</c><00:01:59.520><c> that</c><00:01:59.759><c> you're</c>
+
+00:01:59.870 --> 00:01:59.880 align:start position:0%
+primary keys of the nodes that you're
+ 
+
+00:01:59.880 --> 00:02:02.149 align:start position:0%
+primary keys of the nodes that you're
+joining<00:02:00.299><c> and</c><00:02:00.960><c> that</c><00:02:01.140><c> would</c><00:02:01.320><c> indicate</c><00:02:01.740><c> an</c><00:02:01.920><c> edge</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+joining and that would indicate an edge
+ 
+
+00:02:02.159 --> 00:02:04.310 align:start position:0%
+joining and that would indicate an edge
+so<00:02:02.820><c> again</c><00:02:03.000><c> here's</c><00:02:03.360><c> our</c><00:02:03.479><c> people</c><00:02:03.600><c> table</c><00:02:03.960><c> over</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+so again here's our people table over
+ 
+
+00:02:04.320 --> 00:02:06.109 align:start position:0%
+so again here's our people table over
+here<00:02:04.560><c> on</c><00:02:04.680><c> the</c><00:02:04.860><c> left</c><00:02:04.920><c> we've</c><00:02:05.399><c> got</c><00:02:05.520><c> all</c><00:02:05.880><c> of</c><00:02:06.000><c> our</c>
+
+00:02:06.109 --> 00:02:06.119 align:start position:0%
+here on the left we've got all of our
+ 
+
+00:02:06.119 --> 00:02:08.150 align:start position:0%
+here on the left we've got all of our
+lovely<00:02:06.540><c> characters</c><00:02:06.840><c> and</c><00:02:07.560><c> then</c><00:02:07.740><c> of</c><00:02:08.039><c> course</c>
+
+00:02:08.150 --> 00:02:08.160 align:start position:0%
+lovely characters and then of course
+ 
+
+00:02:08.160 --> 00:02:10.430 align:start position:0%
+lovely characters and then of course
+we've<00:02:08.459><c> got</c><00:02:08.580><c> our</c><00:02:08.759><c> flirting</c><00:02:09.179><c> table</c><00:02:09.360><c> with</c><00:02:09.959><c> a</c><00:02:10.259><c> from</c>
+
+00:02:10.430 --> 00:02:10.440 align:start position:0%
+we've got our flirting table with a from
+ 
+
+00:02:10.440 --> 00:02:12.949 align:start position:0%
+we've got our flirting table with a from
+and<00:02:11.039><c> a</c><00:02:11.220><c> two</c><00:02:11.340><c> column</c><00:02:11.819><c> now</c><00:02:12.360><c> keep</c><00:02:12.540><c> in</c><00:02:12.660><c> mind</c><00:02:12.780><c> to</c>
+
+00:02:12.949 --> 00:02:12.959 align:start position:0%
+and a two column now keep in mind to
+ 
+
+00:02:12.959 --> 00:02:14.930 align:start position:0%
+and a two column now keep in mind to
+keep<00:02:13.140><c> this</c><00:02:13.319><c> thing</c><00:02:13.440><c> as</c><00:02:13.680><c> fast</c><00:02:13.860><c> as</c><00:02:13.980><c> possible</c><00:02:14.400><c> we</c>
+
+00:02:14.930 --> 00:02:14.940 align:start position:0%
+keep this thing as fast as possible we
+ 
+
+00:02:14.940 --> 00:02:16.729 align:start position:0%
+keep this thing as fast as possible we
+probably<00:02:15.120><c> want</c><00:02:15.480><c> to</c><00:02:15.599><c> put</c><00:02:15.720><c> an</c><00:02:15.900><c> index</c><00:02:16.319><c> on</c><00:02:16.620><c> the</c>
+
+00:02:16.729 --> 00:02:16.739 align:start position:0%
+probably want to put an index on the
+ 
+
+00:02:16.739 --> 00:02:18.770 align:start position:0%
+probably want to put an index on the
+from<00:02:16.860><c> column</c><00:02:17.340><c> and</c><00:02:17.760><c> then</c><00:02:17.879><c> we</c><00:02:18.060><c> also</c><00:02:18.360><c> want</c><00:02:18.540><c> to</c><00:02:18.660><c> put</c>
+
+00:02:18.770 --> 00:02:18.780 align:start position:0%
+from column and then we also want to put
+ 
+
+00:02:18.780 --> 00:02:20.990 align:start position:0%
+from column and then we also want to put
+an<00:02:18.959><c> index</c><00:02:19.319><c> on</c><00:02:19.620><c> our</c><00:02:19.739><c> ID</c><00:02:19.920><c> column</c><00:02:20.400><c> so</c><00:02:20.580><c> we</c><00:02:20.700><c> can</c><00:02:20.819><c> find</c>
+
+00:02:20.990 --> 00:02:21.000 align:start position:0%
+an index on our ID column so we can find
+ 
+
+00:02:21.000 --> 00:02:22.790 align:start position:0%
+an index on our ID column so we can find
+people<00:02:21.239><c> as</c><00:02:21.540><c> quickly</c><00:02:21.780><c> as</c><00:02:21.959><c> possible</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+people as quickly as possible
+ 
+
+00:02:22.800 --> 00:02:25.190 align:start position:0%
+people as quickly as possible
+so<00:02:23.340><c> why</c><00:02:23.580><c> is</c><00:02:23.700><c> it</c><00:02:23.879><c> that</c><00:02:24.060><c> this</c><00:02:24.239><c> implementation</c><00:02:24.780><c> of</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+so why is it that this implementation of
+ 
+
+00:02:25.200 --> 00:02:27.050 align:start position:0%
+so why is it that this implementation of
+a<00:02:25.319><c> graph</c><00:02:25.620><c> is</c><00:02:25.980><c> a</c><00:02:26.099><c> little</c><00:02:26.160><c> bit</c><00:02:26.340><c> less</c><00:02:26.520><c> than</c><00:02:26.700><c> ideal</c>
+
+00:02:27.050 --> 00:02:27.060 align:start position:0%
+a graph is a little bit less than ideal
+ 
+
+00:02:27.060 --> 00:02:29.330 align:start position:0%
+a graph is a little bit less than ideal
+well<00:02:27.720><c> let's</c><00:02:28.020><c> try</c><00:02:28.260><c> and</c><00:02:28.379><c> demonstrate</c><00:02:28.860><c> that</c><00:02:29.099><c> by</c>
+
+00:02:29.330 --> 00:02:29.340 align:start position:0%
+well let's try and demonstrate that by
+ 
+
+00:02:29.340 --> 00:02:30.830 align:start position:0%
+well let's try and demonstrate that by
+answering<00:02:29.700><c> the</c><00:02:29.879><c> question</c><00:02:30.000><c> who</c><00:02:30.420><c> has</c><00:02:30.599><c> Machine</c>
+
+00:02:30.830 --> 00:02:30.840 align:start position:0%
+answering the question who has Machine
+ 
+
+00:02:30.840 --> 00:02:33.410 align:start position:0%
+answering the question who has Machine
+Gun<00:02:31.140><c> Kelly</c><00:02:31.379><c> hit</c><00:02:31.739><c> on</c><00:02:31.920><c> so</c><00:02:32.520><c> first</c><00:02:32.700><c> by</c><00:02:33.000><c> doing</c><00:02:33.180><c> this</c>
+
+00:02:33.410 --> 00:02:33.420 align:start position:0%
+Gun Kelly hit on so first by doing this
+ 
+
+00:02:33.420 --> 00:02:34.850 align:start position:0%
+Gun Kelly hit on so first by doing this
+we<00:02:33.599><c> would</c><00:02:33.780><c> start</c><00:02:33.900><c> by</c><00:02:34.080><c> finding</c><00:02:34.440><c> Machine</c><00:02:34.620><c> Gun</c>
+
+00:02:34.850 --> 00:02:34.860 align:start position:0%
+we would start by finding Machine Gun
+ 
+
+00:02:34.860 --> 00:02:37.250 align:start position:0%
+we would start by finding Machine Gun
+Kelly<00:02:35.160><c> so</c><00:02:35.879><c> that</c><00:02:36.180><c> is</c><00:02:36.360><c> going</c><00:02:36.540><c> to</c><00:02:36.660><c> be</c><00:02:36.720><c> node</c><00:02:37.020><c> with</c>
+
+00:02:37.250 --> 00:02:37.260 align:start position:0%
+Kelly so that is going to be node with
+ 
+
+00:02:37.260 --> 00:02:39.229 align:start position:0%
+Kelly so that is going to be node with
+ID<00:02:37.379><c> number</c><00:02:37.739><c> five</c><00:02:38.040><c> and</c><00:02:38.640><c> then</c><00:02:38.819><c> we</c><00:02:38.940><c> would</c><00:02:39.060><c> check</c>
+
+00:02:39.229 --> 00:02:39.239 align:start position:0%
+ID number five and then we would check
+ 
+
+00:02:39.239 --> 00:02:41.089 align:start position:0%
+ID number five and then we would check
+out<00:02:39.360><c> our</c><00:02:39.660><c> flirting</c><00:02:40.080><c> table</c><00:02:40.260><c> so</c><00:02:40.860><c> the</c><00:02:40.980><c> first</c>
+
+00:02:41.089 --> 00:02:41.099 align:start position:0%
+out our flirting table so the first
+ 
+
+00:02:41.099 --> 00:02:42.229 align:start position:0%
+out our flirting table so the first
+thing<00:02:41.220><c> we</c><00:02:41.340><c> would</c><00:02:41.519><c> have</c><00:02:41.640><c> to</c><00:02:41.700><c> do</c><00:02:41.819><c> is</c><00:02:42.060><c> because</c>
+
+00:02:42.229 --> 00:02:42.239 align:start position:0%
+thing we would have to do is because
+ 
+
+00:02:42.239 --> 00:02:43.850 align:start position:0%
+thing we would have to do is because
+this<00:02:42.599><c> is</c><00:02:42.720><c> an</c><00:02:42.840><c> index</c><00:02:43.140><c> we</c><00:02:43.319><c> have</c><00:02:43.440><c> to</c><00:02:43.560><c> binary</c>
+
+00:02:43.850 --> 00:02:43.860 align:start position:0%
+this is an index we have to binary
+ 
+
+00:02:43.860 --> 00:02:47.089 align:start position:0%
+this is an index we have to binary
+search<00:02:44.160><c> it</c><00:02:44.400><c> so</c><00:02:44.940><c> we</c><00:02:45.120><c> binary</c><00:02:45.540><c> search</c><00:02:45.840><c> it</c><00:02:46.080><c> and</c><00:02:46.860><c> we</c>
+
+00:02:47.089 --> 00:02:47.099 align:start position:0%
+search it so we binary search it and we
+ 
+
+00:02:47.099 --> 00:02:48.710 align:start position:0%
+search it so we binary search it and we
+end<00:02:47.220><c> up</c><00:02:47.340><c> seeing</c><00:02:47.700><c> that</c><00:02:47.879><c> he's</c><00:02:48.060><c> flirted</c><00:02:48.599><c> with</c>
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+end up seeing that he's flirted with
+ 
+
+00:02:48.720 --> 00:02:51.830 align:start position:0%
+end up seeing that he's flirted with
+people<00:02:49.019><c> too</c><00:02:49.560><c> and</c><00:02:50.280><c> person</c><00:02:50.519><c> three</c><00:02:50.879><c> and</c>
+
+00:02:51.830 --> 00:02:51.840 align:start position:0%
+people too and person three and
+ 
+
+00:02:51.840 --> 00:02:53.630 align:start position:0%
+people too and person three and
+basically<00:02:52.260><c> from</c><00:02:52.560><c> there</c><00:02:52.739><c> now</c><00:02:53.099><c> we</c><00:02:53.280><c> have</c><00:02:53.400><c> to</c><00:02:53.519><c> go</c>
+
+00:02:53.630 --> 00:02:53.640 align:start position:0%
+basically from there now we have to go
+ 
+
+00:02:53.640 --> 00:02:55.550 align:start position:0%
+basically from there now we have to go
+back<00:02:53.940><c> to</c><00:02:54.120><c> our</c><00:02:54.300><c> people</c><00:02:54.420><c> table</c><00:02:54.780><c> and</c><00:02:55.200><c> binary</c>
+
+00:02:55.550 --> 00:02:55.560 align:start position:0%
+back to our people table and binary
+ 
+
+00:02:55.560 --> 00:02:57.110 align:start position:0%
+back to our people table and binary
+search<00:02:55.860><c> that</c><00:02:56.099><c> and</c><00:02:56.340><c> we</c><00:02:56.519><c> can</c><00:02:56.640><c> see</c><00:02:56.819><c> that</c>
+
+00:02:57.110 --> 00:02:57.120 align:start position:0%
+search that and we can see that
+ 
+
+00:02:57.120 --> 00:02:59.690 align:start position:0%
+search that and we can see that
+eventually<00:02:57.480><c> he's</c><00:02:58.379><c> flirted</c><00:02:58.860><c> with</c><00:02:59.040><c> Megan</c><00:02:59.519><c> Fox</c>
+
+00:02:59.690 --> 00:02:59.700 align:start position:0%
+eventually he's flirted with Megan Fox
+ 
+
+00:02:59.700 --> 00:03:01.790 align:start position:0%
+eventually he's flirted with Megan Fox
+and<00:02:59.940><c> Kate</c><00:03:00.180><c> Upton</c><00:03:00.540><c> as</c><00:03:00.840><c> was</c><00:03:01.080><c> the</c><00:03:01.260><c> case</c><00:03:01.379><c> in</c><00:03:01.620><c> our</c>
+
+00:03:01.790 --> 00:03:01.800 align:start position:0%
+and Kate Upton as was the case in our
+ 
+
+00:03:01.800 --> 00:03:03.410 align:start position:0%
+and Kate Upton as was the case in our
+original<00:03:01.980><c> graph</c><00:03:02.459><c> that's</c><00:03:02.819><c> basically</c><00:03:03.239><c> what</c>
+
+00:03:03.410 --> 00:03:03.420 align:start position:0%
+original graph that's basically what
+ 
+
+00:03:03.420 --> 00:03:04.670 align:start position:0%
+original graph that's basically what
+we're<00:03:03.540><c> going</c><00:03:03.720><c> to</c><00:03:03.780><c> be</c><00:03:03.840><c> relying</c><00:03:04.200><c> on</c><00:03:04.379><c> for</c><00:03:04.560><c> the</c>
+
+00:03:04.670 --> 00:03:04.680 align:start position:0%
+we're going to be relying on for the
+ 
+
+00:03:04.680 --> 00:03:06.470 align:start position:0%
+we're going to be relying on for the
+rest<00:03:04.800><c> of</c><00:03:04.920><c> this</c><00:03:05.040><c> video</c><00:03:05.220><c> there</c><00:03:06.060><c> are</c><00:03:06.180><c> a</c><00:03:06.239><c> couple</c><00:03:06.300><c> of</c>
+
+00:03:06.470 --> 00:03:06.480 align:start position:0%
+rest of this video there are a couple of
+ 
+
+00:03:06.480 --> 00:03:08.570 align:start position:0%
+rest of this video there are a couple of
+problems<00:03:06.780><c> with</c><00:03:06.959><c> that</c><00:03:07.140><c> though</c><00:03:07.440><c> it</c><00:03:08.040><c> takes</c><00:03:08.220><c> a</c><00:03:08.519><c> lot</c>
+
+00:03:08.570 --> 00:03:08.580 align:start position:0%
+problems with that though it takes a lot
+ 
+
+00:03:08.580 --> 00:03:10.970 align:start position:0%
+problems with that though it takes a lot
+of<00:03:08.760><c> time</c><00:03:08.940><c> to</c><00:03:09.239><c> actually</c><00:03:09.360><c> find</c><00:03:09.660><c> that</c><00:03:09.900><c> result</c><00:03:10.080><c> for</c>
+
+00:03:10.970 --> 00:03:10.980 align:start position:0%
+of time to actually find that result for
+ 
+
+00:03:10.980 --> 00:03:13.550 align:start position:0%
+of time to actually find that result for
+starters<00:03:11.340><c> in</c><00:03:12.060><c> order</c><00:03:12.180><c> to</c><00:03:12.480><c> find</c><00:03:12.659><c> you</c><00:03:13.200><c> know</c><00:03:13.260><c> the</c>
+
+00:03:13.550 --> 00:03:13.560 align:start position:0%
+starters in order to find you know the
+ 
+
+00:03:13.560 --> 00:03:15.589 align:start position:0%
+starters in order to find you know the
+primary<00:03:13.800><c> keys</c><00:03:14.159><c> of</c><00:03:14.340><c> who</c><00:03:14.400><c> we</c><00:03:14.580><c> flirted</c><00:03:14.940><c> with</c><00:03:15.060><c> that</c>
+
+00:03:15.589 --> 00:03:15.599 align:start position:0%
+primary keys of who we flirted with that
+ 
+
+00:03:15.599 --> 00:03:18.110 align:start position:0%
+primary keys of who we flirted with that
+is<00:03:15.780><c> a</c><00:03:16.019><c> logarithmic</c><00:03:16.739><c> operation</c><00:03:17.280><c> relative</c><00:03:17.879><c> to</c>
+
+00:03:18.110 --> 00:03:18.120 align:start position:0%
+is a logarithmic operation relative to
+ 
+
+00:03:18.120 --> 00:03:20.210 align:start position:0%
+is a logarithmic operation relative to
+the<00:03:18.239><c> number</c><00:03:18.360><c> of</c><00:03:18.480><c> edges</c><00:03:18.900><c> in</c><00:03:19.019><c> our</c><00:03:19.200><c> graph</c><00:03:19.379><c> and</c><00:03:20.040><c> to</c>
+
+00:03:20.210 --> 00:03:20.220 align:start position:0%
+the number of edges in our graph and to
+ 
+
+00:03:20.220 --> 00:03:21.949 align:start position:0%
+the number of edges in our graph and to
+actually<00:03:20.400><c> go</c><00:03:20.700><c> ahead</c><00:03:20.940><c> and</c><00:03:21.239><c> then</c><00:03:21.360><c> take</c><00:03:21.659><c> those</c>
+
+00:03:21.949 --> 00:03:21.959 align:start position:0%
+actually go ahead and then take those
+ 
+
+00:03:21.959 --> 00:03:24.170 align:start position:0%
+actually go ahead and then take those
+kind<00:03:22.200><c> of</c><00:03:22.260><c> primary</c><00:03:22.560><c> key</c><00:03:22.800><c> ease</c><00:03:23.400><c> and</c><00:03:23.700><c> get</c><00:03:23.940><c> the</c>
+
+00:03:24.170 --> 00:03:24.180 align:start position:0%
+kind of primary key ease and get the
+ 
+
+00:03:24.180 --> 00:03:26.750 align:start position:0%
+kind of primary key ease and get the
+people<00:03:24.360><c> from</c><00:03:24.840><c> them</c><00:03:25.019><c> that</c><00:03:25.739><c> is</c><00:03:25.920><c> a</c><00:03:26.099><c> logarithmic</c>
+
+00:03:26.750 --> 00:03:26.760 align:start position:0%
+people from them that is a logarithmic
+ 
+
+00:03:26.760 --> 00:03:27.790 align:start position:0%
+people from them that is a logarithmic
+operation
+
+00:03:27.790 --> 00:03:27.800 align:start position:0%
+operation
+ 
+
+00:03:27.800 --> 00:03:30.110 align:start position:0%
+operation
+relative<00:03:28.800><c> to</c><00:03:29.099><c> the</c><00:03:29.340><c> number</c><00:03:29.459><c> of</c><00:03:29.580><c> people</c><00:03:29.879><c> or</c>
+
+00:03:30.110 --> 00:03:30.120 align:start position:0%
+relative to the number of people or
+ 
+
+00:03:30.120 --> 00:03:32.390 align:start position:0%
+relative to the number of people or
+nodes<00:03:30.480><c> in</c><00:03:30.659><c> our</c><00:03:30.780><c> graph</c><00:03:31.019><c> and</c><00:03:31.500><c> so</c><00:03:31.620><c> as</c><00:03:31.860><c> a</c><00:03:31.980><c> result</c><00:03:32.159><c> of</c>
+
+00:03:32.390 --> 00:03:32.400 align:start position:0%
+nodes in our graph and so as a result of
+ 
+
+00:03:32.400 --> 00:03:33.949 align:start position:0%
+nodes in our graph and so as a result of
+that<00:03:32.519><c> that</c><00:03:32.760><c> is</c><00:03:33.060><c> going</c><00:03:33.239><c> to</c><00:03:33.360><c> be</c><00:03:33.480><c> pretty</c><00:03:33.720><c> slow</c>
+
+00:03:33.949 --> 00:03:33.959 align:start position:0%
+that that is going to be pretty slow
+ 
+
+00:03:33.959 --> 00:03:35.809 align:start position:0%
+that that is going to be pretty slow
+when<00:03:34.200><c> we</c><00:03:34.379><c> think</c><00:03:34.560><c> of</c><00:03:34.739><c> a</c><00:03:34.980><c> graph</c><00:03:35.220><c> typically</c><00:03:35.580><c> when</c>
+
+00:03:35.809 --> 00:03:35.819 align:start position:0%
+when we think of a graph typically when
+ 
+
+00:03:35.819 --> 00:03:37.369 align:start position:0%
+when we think of a graph typically when
+we<00:03:35.940><c> have</c><00:03:36.120><c> an</c><00:03:36.239><c> edge</c><00:03:36.360><c> we</c><00:03:36.659><c> can</c><00:03:36.720><c> just</c><00:03:36.840><c> jump</c><00:03:37.019><c> to</c><00:03:37.260><c> the</c>
+
+00:03:37.369 --> 00:03:37.379 align:start position:0%
+we have an edge we can just jump to the
+ 
+
+00:03:37.379 --> 00:03:39.530 align:start position:0%
+we have an edge we can just jump to the
+other<00:03:37.500><c> node</c><00:03:37.739><c> right</c><00:03:38.040><c> we</c><00:03:38.280><c> can</c><00:03:38.400><c> do</c><00:03:38.580><c> it</c><00:03:38.700><c> in</c><00:03:39.060><c> uh</c>
+
+00:03:39.530 --> 00:03:39.540 align:start position:0%
+other node right we can do it in uh
+ 
+
+00:03:39.540 --> 00:03:41.809 align:start position:0%
+other node right we can do it in uh
+basically<00:03:39.959><c> constant</c><00:03:40.440><c> time</c><00:03:40.620><c> complexity</c><00:03:41.220><c> and</c>
+
+00:03:41.809 --> 00:03:41.819 align:start position:0%
+basically constant time complexity and
+ 
+
+00:03:41.819 --> 00:03:44.030 align:start position:0%
+basically constant time complexity and
+so<00:03:42.000><c> using</c><00:03:42.420><c> a</c><00:03:42.659><c> relational</c><00:03:42.900><c> database</c><00:03:43.440><c> to</c><00:03:43.860><c> build</c>
+
+00:03:44.030 --> 00:03:44.040 align:start position:0%
+so using a relational database to build
+ 
+
+00:03:44.040 --> 00:03:47.089 align:start position:0%
+so using a relational database to build
+a<00:03:44.280><c> graph</c><00:03:44.519><c> probably</c><00:03:45.000><c> isn't</c><00:03:45.480><c> your</c><00:03:45.720><c> best</c><00:03:45.900><c> idea</c>
+
+00:03:47.089 --> 00:03:47.099 align:start position:0%
+a graph probably isn't your best idea
+ 
+
+00:03:47.099 --> 00:03:49.190 align:start position:0%
+a graph probably isn't your best idea
+it<00:03:47.640><c> shouldn't</c><00:03:47.940><c> be</c><00:03:48.000><c> the</c><00:03:48.180><c> case</c><00:03:48.299><c> that</c><00:03:48.599><c> as</c><00:03:48.840><c> we</c><00:03:49.019><c> add</c>
+
+00:03:49.190 --> 00:03:49.200 align:start position:0%
+it shouldn't be the case that as we add
+ 
+
+00:03:49.200 --> 00:03:51.170 align:start position:0%
+it shouldn't be the case that as we add
+more<00:03:49.440><c> nodes</c><00:03:49.739><c> to</c><00:03:49.980><c> the</c><00:03:50.099><c> graph</c><00:03:50.340><c> it</c><00:03:50.879><c> literally</c>
+
+00:03:51.170 --> 00:03:51.180 align:start position:0%
+more nodes to the graph it literally
+ 
+
+00:03:51.180 --> 00:03:53.210 align:start position:0%
+more nodes to the graph it literally
+gets<00:03:51.540><c> slower</c><00:03:51.780><c> to</c><00:03:52.019><c> Traverse</c><00:03:52.440><c> that</c><00:03:52.860><c> shouldn't</c>
+
+00:03:53.210 --> 00:03:53.220 align:start position:0%
+gets slower to Traverse that shouldn't
+ 
+
+00:03:53.220 --> 00:03:54.830 align:start position:0%
+gets slower to Traverse that shouldn't
+really<00:03:53.400><c> matter</c><00:03:53.640><c> at</c><00:03:53.940><c> all</c>
+
+00:03:54.830 --> 00:03:54.840 align:start position:0%
+really matter at all
+ 
+
+00:03:54.840 --> 00:03:56.630 align:start position:0%
+really matter at all
+okay<00:03:55.319><c> so</c><00:03:55.620><c> let's</c><00:03:55.739><c> think</c><00:03:55.980><c> about</c><00:03:56.159><c> a</c>
+
+00:03:56.630 --> 00:03:56.640 align:start position:0%
+okay so let's think about a
+ 
+
+00:03:56.640 --> 00:03:59.149 align:start position:0%
+okay so let's think about a
+non-relational<00:03:57.239><c> implementation</c><00:03:58.140><c> of</c><00:03:58.620><c> a</c><00:03:58.860><c> graph</c>
+
+00:03:59.149 --> 00:03:59.159 align:start position:0%
+non-relational implementation of a graph
+ 
+
+00:03:59.159 --> 00:04:01.610 align:start position:0%
+non-relational implementation of a graph
+this<00:03:59.819><c> could</c><00:03:59.940><c> be</c><00:04:00.180><c> a</c><00:04:00.480><c> little</c><00:04:00.599><c> bit</c><00:04:00.780><c> better</c><00:04:00.959><c> so</c><00:04:01.379><c> as</c>
+
+00:04:01.610 --> 00:04:01.620 align:start position:0%
+this could be a little bit better so as
+ 
+
+00:04:01.620 --> 00:04:03.350 align:start position:0%
+this could be a little bit better so as
+you<00:04:01.739><c> can</c><00:04:01.799><c> see</c><00:04:01.980><c> since</c><00:04:02.340><c> we</c><00:04:02.580><c> have</c><00:04:02.760><c> more</c><00:04:03.000><c> data</c>
+
+00:04:03.350 --> 00:04:03.360 align:start position:0%
+you can see since we have more data
+ 
+
+00:04:03.360 --> 00:04:05.210 align:start position:0%
+you can see since we have more data
+locality<00:04:03.780><c> since</c><00:04:04.019><c> we</c><00:04:04.200><c> don't</c><00:04:04.319><c> have</c><00:04:04.500><c> a</c><00:04:04.739><c> set</c><00:04:04.920><c> of</c><00:04:05.099><c> a</c>
+
+00:04:05.210 --> 00:04:05.220 align:start position:0%
+locality since we don't have a set of a
+ 
+
+00:04:05.220 --> 00:04:07.130 align:start position:0%
+locality since we don't have a set of a
+structure<00:04:05.519><c> we</c><00:04:06.360><c> can</c><00:04:06.480><c> actually</c><00:04:06.659><c> just</c><00:04:06.900><c> have</c><00:04:07.019><c> a</c>
+
+00:04:07.130 --> 00:04:07.140 align:start position:0%
+structure we can actually just have a
+ 
+
+00:04:07.140 --> 00:04:09.050 align:start position:0%
+structure we can actually just have a
+field<00:04:07.260><c> that's</c><00:04:07.560><c> a</c><00:04:07.799><c> list</c><00:04:07.920><c> and</c><00:04:08.340><c> it</c><00:04:08.519><c> stores</c><00:04:08.760><c> the</c>
+
+00:04:09.050 --> 00:04:09.060 align:start position:0%
+field that's a list and it stores the
+ 
+
+00:04:09.060 --> 00:04:11.030 align:start position:0%
+field that's a list and it stores the
+IDS<00:04:09.420><c> of</c><00:04:09.540><c> the</c><00:04:09.720><c> people</c><00:04:09.780><c> that</c><00:04:10.019><c> we've</c><00:04:10.200><c> hit</c><00:04:10.379><c> on</c><00:04:10.560><c> so</c>
+
+00:04:11.030 --> 00:04:11.040 align:start position:0%
+IDS of the people that we've hit on so
+ 
+
+00:04:11.040 --> 00:04:13.070 align:start position:0%
+IDS of the people that we've hit on so
+again<00:04:11.159><c> let's</c><00:04:11.580><c> use</c><00:04:11.760><c> Machine</c><00:04:12.000><c> Gun</c><00:04:12.299><c> Kelly</c><00:04:12.599><c> as</c><00:04:12.900><c> our</c>
+
+00:04:13.070 --> 00:04:13.080 align:start position:0%
+again let's use Machine Gun Kelly as our
+ 
+
+00:04:13.080 --> 00:04:15.589 align:start position:0%
+again let's use Machine Gun Kelly as our
+example<00:04:13.379><c> so</c><00:04:14.220><c> we</c><00:04:14.400><c> can</c><00:04:14.519><c> see</c><00:04:14.700><c> pretty</c><00:04:15.120><c> easily</c>
+
+00:04:15.589 --> 00:04:15.599 align:start position:0%
+example so we can see pretty easily
+ 
+
+00:04:15.599 --> 00:04:17.449 align:start position:0%
+example so we can see pretty easily
+right<00:04:15.840><c> off</c><00:04:16.019><c> the</c><00:04:16.139><c> bat</c><00:04:16.320><c> due</c><00:04:16.680><c> to</c><00:04:16.799><c> our</c><00:04:16.919><c> great</c><00:04:17.100><c> data</c>
+
+00:04:17.449 --> 00:04:17.459 align:start position:0%
+right off the bat due to our great data
+ 
+
+00:04:17.459 --> 00:04:19.789 align:start position:0%
+right off the bat due to our great data
+locality<00:04:17.940><c> that</c><00:04:18.479><c> he's</c><00:04:18.720><c> hit</c><00:04:18.900><c> on</c><00:04:19.079><c> people</c><00:04:19.320><c> two</c><00:04:19.620><c> and</c>
+
+00:04:19.789 --> 00:04:19.799 align:start position:0%
+locality that he's hit on people two and
+ 
+
+00:04:19.799 --> 00:04:21.289 align:start position:0%
+locality that he's hit on people two and
+three<00:04:19.979><c> so</c><00:04:20.220><c> we</c><00:04:20.400><c> don't</c><00:04:20.519><c> have</c><00:04:20.639><c> to</c><00:04:20.820><c> go</c><00:04:20.940><c> to</c><00:04:21.120><c> another</c>
+
+00:04:21.289 --> 00:04:21.299 align:start position:0%
+three so we don't have to go to another
+ 
+
+00:04:21.299 --> 00:04:23.629 align:start position:0%
+three so we don't have to go to another
+table<00:04:21.660><c> and</c><00:04:21.959><c> do</c><00:04:22.079><c> a</c><00:04:22.260><c> binary</c><00:04:22.560><c> search</c><00:04:22.860><c> so</c><00:04:23.340><c> we</c><00:04:23.460><c> got</c>
+
+00:04:23.629 --> 00:04:23.639 align:start position:0%
+table and do a binary search so we got
+ 
+
+00:04:23.639 --> 00:04:25.850 align:start position:0%
+table and do a binary search so we got
+rid<00:04:23.880><c> of</c><00:04:24.120><c> you</c><00:04:24.600><c> know</c><00:04:24.660><c> scaling</c><00:04:25.199><c> our</c><00:04:25.380><c> complexity</c>
+
+00:04:25.850 --> 00:04:25.860 align:start position:0%
+rid of you know scaling our complexity
+ 
+
+00:04:25.860 --> 00:04:28.189 align:start position:0%
+rid of you know scaling our complexity
+due<00:04:26.160><c> to</c><00:04:26.220><c> the</c><00:04:26.340><c> number</c><00:04:26.460><c> of</c><00:04:26.639><c> edges</c><00:04:27.060><c> however</c><00:04:27.840><c> in</c>
+
+00:04:28.189 --> 00:04:28.199 align:start position:0%
+due to the number of edges however in
+ 
+
+00:04:28.199 --> 00:04:30.350 align:start position:0%
+due to the number of edges however in
+this<00:04:28.320><c> case</c><00:04:28.500><c> we</c><00:04:29.100><c> still</c><00:04:29.280><c> do</c><00:04:29.400><c> have</c><00:04:29.639><c> to</c><00:04:29.759><c> take</c><00:04:29.940><c> two</c>
+
+00:04:30.350 --> 00:04:30.360 align:start position:0%
+this case we still do have to take two
+ 
+
+00:04:30.360 --> 00:04:32.749 align:start position:0%
+this case we still do have to take two
+and<00:04:30.840><c> take</c><00:04:31.020><c> three</c><00:04:31.259><c> and</c><00:04:31.740><c> do</c><00:04:31.919><c> a</c><00:04:32.100><c> binary</c><00:04:32.460><c> search</c>
+
+00:04:32.749 --> 00:04:32.759 align:start position:0%
+and take three and do a binary search
+ 
+
+00:04:32.759 --> 00:04:35.510 align:start position:0%
+and take three and do a binary search
+over<00:04:33.120><c> here</c><00:04:33.419><c> in</c><00:04:33.960><c> order</c><00:04:34.080><c> to</c><00:04:34.320><c> find</c><00:04:34.500><c> them</c><00:04:34.740><c> and</c><00:04:35.340><c> so</c>
+
+00:04:35.510 --> 00:04:35.520 align:start position:0%
+over here in order to find them and so
+ 
+
+00:04:35.520 --> 00:04:37.070 align:start position:0%
+over here in order to find them and so
+it's<00:04:35.880><c> still</c><00:04:36.060><c> becoming</c><00:04:36.479><c> more</c><00:04:36.720><c> and</c><00:04:36.840><c> more</c>
+
+00:04:37.070 --> 00:04:37.080 align:start position:0%
+it's still becoming more and more
+ 
+
+00:04:37.080 --> 00:04:39.110 align:start position:0%
+it's still becoming more and more
+expensive<00:04:37.500><c> to</c><00:04:37.740><c> Traverse</c><00:04:38.100><c> our</c><00:04:38.280><c> graph</c>
+
+00:04:39.110 --> 00:04:39.120 align:start position:0%
+expensive to Traverse our graph
+ 
+
+00:04:39.120 --> 00:04:41.090 align:start position:0%
+expensive to Traverse our graph
+as<00:04:39.720><c> the</c><00:04:39.900><c> number</c><00:04:40.080><c> of</c><00:04:40.259><c> nodes</c><00:04:40.560><c> in</c><00:04:40.740><c> our</c><00:04:40.919><c> graph</c>
+
+00:04:41.090 --> 00:04:41.100 align:start position:0%
+as the number of nodes in our graph
+ 
+
+00:04:41.100 --> 00:04:43.490 align:start position:0%
+as the number of nodes in our graph
+increases<00:04:41.820><c> like</c><00:04:42.600><c> I</c><00:04:42.780><c> mentioned</c><00:04:43.020><c> this</c><00:04:43.259><c> is</c><00:04:43.380><c> the</c>
+
+00:04:43.490 --> 00:04:43.500 align:start position:0%
+increases like I mentioned this is the
+ 
+
+00:04:43.500 --> 00:04:45.650 align:start position:0%
+increases like I mentioned this is the
+size<00:04:43.680><c> of</c><00:04:43.919><c> the</c><00:04:44.040><c> nodes</c><00:04:44.220><c> and</c><00:04:44.699><c> so</c><00:04:44.820><c> as</c><00:04:45.060><c> a</c><00:04:45.180><c> result</c><00:04:45.360><c> of</c>
+
+00:04:45.650 --> 00:04:45.660 align:start position:0%
+size of the nodes and so as a result of
+ 
+
+00:04:45.660 --> 00:04:47.689 align:start position:0%
+size of the nodes and so as a result of
+that<00:04:45.840><c> again</c><00:04:46.620><c> just</c><00:04:47.040><c> not</c><00:04:47.220><c> an</c><00:04:47.400><c> ideal</c>
+
+00:04:47.689 --> 00:04:47.699 align:start position:0%
+that again just not an ideal
+ 
+
+00:04:47.699 --> 00:04:49.610 align:start position:0%
+that again just not an ideal
+implementation<00:04:48.300><c> now</c><00:04:48.960><c> you</c><00:04:49.139><c> may</c><00:04:49.259><c> say</c><00:04:49.440><c> to</c>
+
+00:04:49.610 --> 00:04:49.620 align:start position:0%
+implementation now you may say to
+ 
+
+00:04:49.620 --> 00:04:51.409 align:start position:0%
+implementation now you may say to
+yourself<00:04:49.740><c> well</c><00:04:50.040><c> oh</c><00:04:50.280><c> you</c><00:04:50.580><c> know</c><00:04:50.639><c> like</c><00:04:50.880><c> couldn't</c>
+
+00:04:51.409 --> 00:04:51.419 align:start position:0%
+yourself well oh you know like couldn't
+ 
+
+00:04:51.419 --> 00:04:53.450 align:start position:0%
+yourself well oh you know like couldn't
+we<00:04:51.660><c> just</c><00:04:51.840><c> go</c><00:04:52.020><c> right</c><00:04:52.259><c> back</c><00:04:52.440><c> to</c><00:04:52.620><c> Megan</c><00:04:52.860><c> Fox</c><00:04:53.100><c> over</c>
+
+00:04:53.450 --> 00:04:53.460 align:start position:0%
+we just go right back to Megan Fox over
+ 
+
+00:04:53.460 --> 00:04:55.189 align:start position:0%
+we just go right back to Megan Fox over
+here<00:04:53.639><c> couldn't</c><00:04:54.120><c> we</c><00:04:54.300><c> go</c><00:04:54.479><c> right</c><00:04:54.660><c> back</c><00:04:54.840><c> to</c><00:04:54.960><c> Kate</c>
+
+00:04:55.189 --> 00:04:55.199 align:start position:0%
+here couldn't we go right back to Kate
+ 
+
+00:04:55.199 --> 00:04:56.629 align:start position:0%
+here couldn't we go right back to Kate
+Upton<00:04:55.500><c> over</c><00:04:55.800><c> here</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+Upton over here
+ 
+
+00:04:56.639 --> 00:04:59.930 align:start position:0%
+Upton over here
+yeah<00:04:57.120><c> we</c><00:04:57.660><c> could</c><00:04:57.840><c> but</c><00:04:58.620><c> keep</c><00:04:59.160><c> in</c><00:04:59.340><c> mind</c><00:04:59.460><c> that</c><00:04:59.699><c> they</c>
+
+00:04:59.930 --> 00:04:59.940 align:start position:0%
+yeah we could but keep in mind that they
+ 
+
+00:04:59.940 --> 00:05:02.090 align:start position:0%
+yeah we could but keep in mind that they
+also<00:05:00.300><c> have</c><00:05:00.479><c> edges</c><00:05:00.900><c> and</c><00:05:01.259><c> as</c><00:05:01.380><c> a</c><00:05:01.500><c> result</c><00:05:01.620><c> if</c><00:05:01.919><c> we</c>
+
+00:05:02.090 --> 00:05:02.100 align:start position:0%
+also have edges and as a result if we
+ 
+
+00:05:02.100 --> 00:05:04.129 align:start position:0%
+also have edges and as a result if we
+wanted<00:05:02.220><c> to</c><00:05:02.460><c> store</c><00:05:02.699><c> the</c><00:05:03.120><c> actual</c><00:05:03.360><c> full</c><00:05:03.600><c> node</c><00:05:03.960><c> and</c>
+
+00:05:04.129 --> 00:05:04.139 align:start position:0%
+wanted to store the actual full node and
+ 
+
+00:05:04.139 --> 00:05:06.530 align:start position:0%
+wanted to store the actual full node and
+do<00:05:04.320><c> traversals</c><00:05:04.979><c> we</c><00:05:05.759><c> would</c><00:05:05.880><c> potentially</c><00:05:06.300><c> be</c>
+
+00:05:06.530 --> 00:05:06.540 align:start position:0%
+do traversals we would potentially be
+ 
+
+00:05:06.540 --> 00:05:09.110 align:start position:0%
+do traversals we would potentially be
+just<00:05:06.840><c> duplicating</c><00:05:07.320><c> our</c><00:05:07.680><c> graph</c><00:05:07.919><c> n</c><00:05:08.580><c> times</c><00:05:08.820><c> over</c>
+
+00:05:09.110 --> 00:05:09.120 align:start position:0%
+just duplicating our graph n times over
+ 
+
+00:05:09.120 --> 00:05:12.110 align:start position:0%
+just duplicating our graph n times over
+it<00:05:09.540><c> could</c><00:05:09.660><c> be</c><00:05:09.840><c> very</c><00:05:10.020><c> very</c><00:05:10.259><c> bad</c><00:05:10.560><c> storage</c><00:05:10.919><c> wise</c>
+
+00:05:12.110 --> 00:05:12.120 align:start position:0%
+it could be very very bad storage wise
+ 
+
+00:05:12.120 --> 00:05:13.249 align:start position:0%
+it could be very very bad storage wise
+so
+
+00:05:13.249 --> 00:05:13.259 align:start position:0%
+so
+ 
+
+00:05:13.259 --> 00:05:15.830 align:start position:0%
+so
+let's<00:05:13.860><c> now</c><00:05:14.100><c> talk</c><00:05:14.400><c> about</c><00:05:14.699><c> the</c><00:05:15.180><c> last</c><00:05:15.360><c> piece</c><00:05:15.720><c> of</c>
+
+00:05:15.830 --> 00:05:15.840 align:start position:0%
+let's now talk about the last piece of
+ 
+
+00:05:15.840 --> 00:05:17.510 align:start position:0%
+let's now talk about the last piece of
+this<00:05:16.020><c> video</c><00:05:16.199><c> the</c><00:05:16.500><c> last</c><00:05:16.680><c> piece</c><00:05:16.919><c> of</c><00:05:17.040><c> our</c><00:05:17.160><c> puzzle</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+this video the last piece of our puzzle
+ 
+
+00:05:17.520 --> 00:05:19.490 align:start position:0%
+this video the last piece of our puzzle
+which<00:05:18.240><c> is</c><00:05:18.419><c> going</c><00:05:18.600><c> to</c><00:05:18.720><c> be</c><00:05:18.840><c> the</c><00:05:19.259><c> native</c>
+
+00:05:19.490 --> 00:05:19.500 align:start position:0%
+which is going to be the native
+ 
+
+00:05:19.500 --> 00:05:22.610 align:start position:0%
+which is going to be the native
+implementation<00:05:20.240><c> or</c><00:05:21.240><c> basically</c><00:05:21.660><c> what</c><00:05:21.960><c> neo4j</c>
+
+00:05:22.610 --> 00:05:22.620 align:start position:0%
+implementation or basically what neo4j
+ 
+
+00:05:22.620 --> 00:05:24.830 align:start position:0%
+implementation or basically what neo4j
+does<00:05:22.919><c> which</c><00:05:23.160><c> is</c><00:05:23.280><c> why</c><00:05:23.520><c> it</c><00:05:23.699><c> is</c><00:05:23.880><c> so</c><00:05:24.060><c> popular</c><00:05:24.240><c> as</c><00:05:24.660><c> a</c>
+
+00:05:24.830 --> 00:05:24.840 align:start position:0%
+does which is why it is so popular as a
+ 
+
+00:05:24.840 --> 00:05:27.110 align:start position:0%
+does which is why it is so popular as a
+graph<00:05:25.020><c> database</c><00:05:25.919><c> so</c><00:05:26.340><c> as</c><00:05:26.520><c> you</c><00:05:26.639><c> can</c><00:05:26.759><c> see</c><00:05:26.880><c> right</c>
+
+00:05:27.110 --> 00:05:27.120 align:start position:0%
+graph database so as you can see right
+ 
+
+00:05:27.120 --> 00:05:28.730 align:start position:0%
+graph database so as you can see right
+here<00:05:27.300><c> we've</c><00:05:27.539><c> got</c><00:05:27.660><c> a</c><00:05:27.780><c> couple</c><00:05:27.900><c> of</c><00:05:28.080><c> unique</c><00:05:28.380><c> Fields</c>
+
+00:05:28.730 --> 00:05:28.740 align:start position:0%
+here we've got a couple of unique Fields
+ 
+
+00:05:28.740 --> 00:05:30.290 align:start position:0%
+here we've got a couple of unique Fields
+we've<00:05:28.919><c> got</c><00:05:29.039><c> an</c><00:05:29.220><c> address</c><00:05:29.460><c> field</c><00:05:29.759><c> which</c><00:05:30.180><c> is</c>
+
+00:05:30.290 --> 00:05:30.300 align:start position:0%
+we've got an address field which is
+ 
+
+00:05:30.300 --> 00:05:32.150 align:start position:0%
+we've got an address field which is
+representing<00:05:30.840><c> basically</c><00:05:31.320><c> the</c><00:05:31.620><c> address</c><00:05:31.800><c> of</c>
+
+00:05:32.150 --> 00:05:32.160 align:start position:0%
+representing basically the address of
+ 
+
+00:05:32.160 --> 00:05:34.730 align:start position:0%
+representing basically the address of
+this<00:05:32.340><c> thing</c><00:05:32.520><c> on</c><00:05:32.699><c> disk</c><00:05:33.060><c> or</c><00:05:33.720><c> memory</c><00:05:34.139><c> whichever</c>
+
+00:05:34.730 --> 00:05:34.740 align:start position:0%
+this thing on disk or memory whichever
+ 
+
+00:05:34.740 --> 00:05:36.770 align:start position:0%
+this thing on disk or memory whichever
+you<00:05:34.979><c> want</c><00:05:35.160><c> to</c><00:05:35.280><c> use</c><00:05:35.400><c> and</c><00:05:36.300><c> then</c><00:05:36.360><c> additionally</c>
+
+00:05:36.770 --> 00:05:36.780 align:start position:0%
+you want to use and then additionally
+ 
+
+00:05:36.780 --> 00:05:39.110 align:start position:0%
+you want to use and then additionally
+we've<00:05:37.139><c> also</c><00:05:37.440><c> got</c><00:05:37.680><c> a</c><00:05:37.979><c> nodes</c><00:05:38.280><c> and</c><00:05:38.580><c> an</c><00:05:38.759><c> edges</c>
+
+00:05:39.110 --> 00:05:39.120 align:start position:0%
+we've also got a nodes and an edges
+ 
+
+00:05:39.120 --> 00:05:41.270 align:start position:0%
+we've also got a nodes and an edges
+table<00:05:39.360><c> so</c><00:05:39.960><c> the</c><00:05:40.199><c> edges</c><00:05:40.500><c> themselves</c><00:05:40.979><c> are</c>
+
+00:05:41.270 --> 00:05:41.280 align:start position:0%
+table so the edges themselves are
+ 
+
+00:05:41.280 --> 00:05:43.370 align:start position:0%
+table so the edges themselves are
+effectively<00:05:41.699><c> objects</c><00:05:42.180><c> in</c><00:05:42.300><c> our</c><00:05:42.479><c> database</c><00:05:42.780><c> so</c>
+
+00:05:43.370 --> 00:05:43.380 align:start position:0%
+effectively objects in our database so
+ 
+
+00:05:43.380 --> 00:05:45.770 align:start position:0%
+effectively objects in our database so
+as<00:05:43.500><c> you</c><00:05:43.620><c> can</c><00:05:43.740><c> see</c><00:05:43.860><c> for</c><00:05:44.100><c> every</c><00:05:44.340><c> single</c><00:05:44.639><c> person</c>
+
+00:05:45.770 --> 00:05:45.780 align:start position:0%
+as you can see for every single person
+ 
+
+00:05:45.780 --> 00:05:49.070 align:start position:0%
+as you can see for every single person
+we've<00:05:46.380><c> got</c><00:05:46.560><c> a</c><00:05:46.860><c> pointer</c><00:05:47.220><c> in</c><00:05:48.000><c> the</c><00:05:48.180><c> database</c><00:05:48.600><c> to</c>
+
+00:05:49.070 --> 00:05:49.080 align:start position:0%
+we've got a pointer in the database to
+ 
+
+00:05:49.080 --> 00:05:51.590 align:start position:0%
+we've got a pointer in the database to
+an<00:05:49.320><c> edge</c><00:05:49.500><c> address</c><00:05:49.820><c> and</c><00:05:50.820><c> what</c><00:05:51.000><c> that's</c><00:05:51.120><c> going</c><00:05:51.419><c> to</c>
+
+00:05:51.590 --> 00:05:51.600 align:start position:0%
+an edge address and what that's going to
+ 
+
+00:05:51.600 --> 00:05:54.050 align:start position:0%
+an edge address and what that's going to
+do<00:05:51.720><c> is</c><00:05:52.139><c> then</c><00:05:52.380><c> actually</c><00:05:52.680><c> point</c><00:05:53.039><c> us</c><00:05:53.280><c> right</c><00:05:53.820><c> over</c>
+
+00:05:54.050 --> 00:05:54.060 align:start position:0%
+do is then actually point us right over
+ 
+
+00:05:54.060 --> 00:05:56.090 align:start position:0%
+do is then actually point us right over
+here<00:05:54.300><c> to</c><00:05:54.660><c> our</c><00:05:54.780><c> edges</c><00:05:55.139><c> table</c><00:05:55.380><c> where</c><00:05:55.979><c> it's</c>
+
+00:05:56.090 --> 00:05:56.100 align:start position:0%
+here to our edges table where it's
+ 
+
+00:05:56.100 --> 00:05:58.430 align:start position:0%
+here to our edges table where it's
+corresponding<00:05:56.759><c> and</c><00:05:57.360><c> then</c><00:05:57.479><c> our</c><00:05:57.720><c> Edge</c><00:05:57.960><c> in</c><00:05:58.259><c> turn</c>
+
+00:05:58.430 --> 00:05:58.440 align:start position:0%
+corresponding and then our Edge in turn
+ 
+
+00:05:58.440 --> 00:06:01.010 align:start position:0%
+corresponding and then our Edge in turn
+is<00:05:58.800><c> going</c><00:05:58.979><c> to</c><00:05:59.160><c> point</c><00:05:59.460><c> right</c><00:05:59.880><c> back</c><00:06:00.120><c> to</c><00:06:00.660><c> the</c>
+
+00:06:01.010 --> 00:06:01.020 align:start position:0%
+is going to point right back to the
+ 
+
+00:06:01.020 --> 00:06:03.110 align:start position:0%
+is going to point right back to the
+original<00:06:01.139><c> node</c><00:06:01.620><c> and</c><00:06:02.400><c> what</c><00:06:02.580><c> that</c><00:06:02.699><c> does</c><00:06:02.880><c> is</c>
+
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+original node and what that does is
+ 
+
+00:06:03.120 --> 00:06:04.430 align:start position:0%
+original node and what that does is
+instead<00:06:03.479><c> of</c><00:06:03.600><c> having</c><00:06:03.780><c> to</c><00:06:03.960><c> actually</c><00:06:04.139><c> just</c>
+
+00:06:04.430 --> 00:06:04.440 align:start position:0%
+instead of having to actually just
+ 
+
+00:06:04.440 --> 00:06:06.469 align:start position:0%
+instead of having to actually just
+binary<00:06:04.860><c> search</c><00:06:05.160><c> our</c><00:06:05.460><c> index</c><00:06:05.820><c> over</c><00:06:06.060><c> and</c><00:06:06.300><c> over</c>
+
+00:06:06.469 --> 00:06:06.479 align:start position:0%
+binary search our index over and over
+ 
+
+00:06:06.479 --> 00:06:08.629 align:start position:0%
+binary search our index over and over
+and<00:06:06.660><c> over</c><00:06:06.840><c> again</c><00:06:07.020><c> we</c><00:06:07.680><c> can</c><00:06:07.860><c> just</c><00:06:08.039><c> jump</c><00:06:08.280><c> to</c><00:06:08.520><c> the</c>
+
+00:06:08.629 --> 00:06:08.639 align:start position:0%
+and over again we can just jump to the
+ 
+
+00:06:08.639 --> 00:06:11.150 align:start position:0%
+and over again we can just jump to the
+proper<00:06:09.000><c> place</c><00:06:09.180><c> on</c><00:06:09.479><c> disk</c><00:06:09.900><c> now</c><00:06:10.380><c> do</c><00:06:10.620><c> keep</c><00:06:10.860><c> in</c><00:06:10.979><c> mind</c>
+
+00:06:11.150 --> 00:06:11.160 align:start position:0%
+proper place on disk now do keep in mind
+ 
+
+00:06:11.160 --> 00:06:13.310 align:start position:0%
+proper place on disk now do keep in mind
+that<00:06:11.520><c> disks</c><00:06:12.060><c> generally</c><00:06:12.419><c> speaking</c><00:06:12.840><c> are</c><00:06:13.020><c> meant</c>
+
+00:06:13.310 --> 00:06:13.320 align:start position:0%
+that disks generally speaking are meant
+ 
+
+00:06:13.320 --> 00:06:14.990 align:start position:0%
+that disks generally speaking are meant
+for<00:06:13.440><c> sequential</c><00:06:13.979><c> access</c><00:06:14.160><c> they're</c><00:06:14.580><c> not</c><00:06:14.820><c> really</c>
+
+00:06:14.990 --> 00:06:15.000 align:start position:0%
+for sequential access they're not really
+ 
+
+00:06:15.000 --> 00:06:18.170 align:start position:0%
+for sequential access they're not really
+meant<00:06:15.300><c> for</c><00:06:15.419><c> random</c><00:06:15.840><c> accesses</c><00:06:16.400><c> however</c><00:06:17.400><c> if</c><00:06:18.000><c> you</c>
+
+00:06:18.170 --> 00:06:18.180 align:start position:0%
+meant for random accesses however if you
+ 
+
+00:06:18.180 --> 00:06:20.570 align:start position:0%
+meant for random accesses however if you
+can<00:06:18.360><c> save</c><00:06:18.660><c> this</c><00:06:19.080><c> much</c><00:06:19.259><c> time</c><00:06:19.440><c> complexity</c><00:06:20.039><c> it's</c>
+
+00:06:20.570 --> 00:06:20.580 align:start position:0%
+can save this much time complexity it's
+ 
+
+00:06:20.580 --> 00:06:22.249 align:start position:0%
+can save this much time complexity it's
+still<00:06:20.759><c> going</c><00:06:20.940><c> to</c><00:06:21.120><c> make</c><00:06:21.300><c> a</c><00:06:21.600><c> super</c><00:06:21.720><c> significant</c>
+
+00:06:22.249 --> 00:06:22.259 align:start position:0%
+still going to make a super significant
+ 
+
+00:06:22.259 --> 00:06:24.290 align:start position:0%
+still going to make a super significant
+difference<00:06:22.560><c> so</c><00:06:23.340><c> another</c><00:06:23.460><c> thing</c><00:06:23.819><c> you</c><00:06:24.000><c> may</c><00:06:24.120><c> note</c>
+
+00:06:24.290 --> 00:06:24.300 align:start position:0%
+difference so another thing you may note
+ 
+
+00:06:24.300 --> 00:06:26.689 align:start position:0%
+difference so another thing you may note
+that's<00:06:24.660><c> actually</c><00:06:24.960><c> kind</c><00:06:25.259><c> of</c><00:06:25.380><c> interesting</c><00:06:25.800><c> is</c>
+
+00:06:26.689 --> 00:06:26.699 align:start position:0%
+that's actually kind of interesting is
+ 
+
+00:06:26.699 --> 00:06:29.029 align:start position:0%
+that's actually kind of interesting is
+for<00:06:27.000><c> MGK</c><00:06:27.479><c> for</c><00:06:27.780><c> example</c><00:06:28.020><c> recall</c><00:06:28.500><c> that</c><00:06:28.620><c> he's</c><00:06:28.800><c> got</c>
+
+00:06:29.029 --> 00:06:29.039 align:start position:0%
+for MGK for example recall that he's got
+ 
+
+00:06:29.039 --> 00:06:30.710 align:start position:0%
+for MGK for example recall that he's got
+multiple<00:06:29.460><c> edges</c><00:06:29.819><c> and</c><00:06:30.120><c> meanwhile</c><00:06:30.419><c> there's</c>
+
+00:06:30.710 --> 00:06:30.720 align:start position:0%
+multiple edges and meanwhile there's
+ 
+
+00:06:30.720 --> 00:06:33.170 align:start position:0%
+multiple edges and meanwhile there's
+only<00:06:30.900><c> one</c><00:06:31.259><c> address</c><00:06:31.500><c> for</c><00:06:31.919><c> him</c><00:06:32.160><c> the</c><00:06:32.699><c> reason</c><00:06:32.880><c> for</c>
+
+00:06:33.170 --> 00:06:33.180 align:start position:0%
+only one address for him the reason for
+ 
+
+00:06:33.180 --> 00:06:34.730 align:start position:0%
+only one address for him the reason for
+that<00:06:33.300><c> being</c><00:06:33.479><c> that</c><00:06:33.780><c> that's</c><00:06:33.960><c> what</c><00:06:34.199><c> this</c><00:06:34.500><c> next</c>
+
+00:06:34.730 --> 00:06:34.740 align:start position:0%
+that being that that's what this next
+ 
+
+00:06:34.740 --> 00:06:38.090 align:start position:0%
+that being that that's what this next
+address<00:06:35.580><c> field</c><00:06:36.000><c> is</c><00:06:36.360><c> doing</c><00:06:36.539><c> over</c><00:06:36.780><c> here</c><00:06:37.080><c> so</c><00:06:37.919><c> if</c>
+
+00:06:38.090 --> 00:06:38.100 align:start position:0%
+address field is doing over here so if
+ 
+
+00:06:38.100 --> 00:06:40.010 align:start position:0%
+address field is doing over here so if
+we<00:06:38.220><c> go</c><00:06:38.340><c> to</c><00:06:38.460><c> the</c><00:06:38.699><c> edge</c><00:06:38.880><c> that</c><00:06:39.300><c> is</c><00:06:39.419><c> at</c><00:06:39.600><c> the</c><00:06:39.780><c> address</c>
+
+00:06:40.010 --> 00:06:40.020 align:start position:0%
+we go to the edge that is at the address
+ 
+
+00:06:40.020 --> 00:06:42.770 align:start position:0%
+we go to the edge that is at the address
+10<00:06:40.800><c> we</c><00:06:41.340><c> can</c><00:06:41.460><c> see</c><00:06:41.580><c> that</c><00:06:41.759><c> it's</c><00:06:41.940><c> pointing</c><00:06:42.360><c> to</c><00:06:42.539><c> node</c>
+
+00:06:42.770 --> 00:06:42.780 align:start position:0%
+10 we can see that it's pointing to node
+ 
+
+00:06:42.780 --> 00:06:44.870 align:start position:0%
+10 we can see that it's pointing to node
+two<00:06:43.020><c> so</c><00:06:43.380><c> that's</c><00:06:43.500><c> pointing</c><00:06:43.919><c> back</c><00:06:44.100><c> to</c><00:06:44.400><c> Megan</c><00:06:44.639><c> Fox</c>
+
+00:06:44.870 --> 00:06:44.880 align:start position:0%
+two so that's pointing back to Megan Fox
+ 
+
+00:06:44.880 --> 00:06:47.990 align:start position:0%
+two so that's pointing back to Megan Fox
+however<00:06:45.780><c> at</c><00:06:46.259><c> the</c><00:06:46.380><c> same</c><00:06:46.560><c> time</c><00:06:46.740><c> it</c><00:06:47.160><c> also</c><00:06:47.520><c> points</c>
+
+00:06:47.990 --> 00:06:48.000 align:start position:0%
+however at the same time it also points
+ 
+
+00:06:48.000 --> 00:06:50.210 align:start position:0%
+however at the same time it also points
+to<00:06:48.120><c> the</c><00:06:48.360><c> next</c><00:06:48.479><c> Edge</c><00:06:48.780><c> right</c><00:06:49.080><c> here</c><00:06:49.319><c> so</c><00:06:49.919><c> that</c><00:06:50.100><c> if</c>
+
+00:06:50.210 --> 00:06:50.220 align:start position:0%
+to the next Edge right here so that if
+ 
+
+00:06:50.220 --> 00:06:52.010 align:start position:0%
+to the next Edge right here so that if
+we're<00:06:50.340><c> trying</c><00:06:50.520><c> to</c><00:06:50.759><c> Traverse</c><00:06:51.240><c> all</c><00:06:51.600><c> of</c><00:06:51.840><c> Machine</c>
+
+00:06:52.010 --> 00:06:52.020 align:start position:0%
+we're trying to Traverse all of Machine
+ 
+
+00:06:52.020 --> 00:06:54.170 align:start position:0%
+we're trying to Traverse all of Machine
+Gun<00:06:52.319><c> Kelly's</c><00:06:52.740><c> nodes</c><00:06:53.220><c> or</c><00:06:53.400><c> the</c><00:06:53.580><c> ones</c><00:06:53.759><c> that</c><00:06:54.000><c> it</c>
+
+00:06:54.170 --> 00:06:54.180 align:start position:0%
+Gun Kelly's nodes or the ones that it
+ 
+
+00:06:54.180 --> 00:06:56.510 align:start position:0%
+Gun Kelly's nodes or the ones that it
+points<00:06:54.539><c> to</c><00:06:54.660><c> we</c><00:06:55.199><c> can</c><00:06:55.319><c> go</c><00:06:55.620><c> quickly</c><00:06:56.039><c> from</c><00:06:56.280><c> this</c>
+
+00:06:56.510 --> 00:06:56.520 align:start position:0%
+points to we can go quickly from this
+ 
+
+00:06:56.520 --> 00:06:58.909 align:start position:0%
+points to we can go quickly from this
+Edge<00:06:56.699><c> to</c><00:06:57.300><c> this</c><00:06:57.479><c> Edge</c><00:06:57.660><c> over</c><00:06:57.960><c> here</c><00:06:58.199><c> see</c><00:06:58.740><c> that</c>
+
+00:06:58.909 --> 00:06:58.919 align:start position:0%
+Edge to this Edge over here see that
+ 
+
+00:06:58.919 --> 00:07:00.710 align:start position:0%
+Edge to this Edge over here see that
+it's<00:06:59.100><c> pointing</c><00:06:59.520><c> to</c><00:06:59.880><c> the</c><00:07:00.120><c> thing</c><00:07:00.240><c> in</c><00:07:00.479><c> address</c>
+
+00:07:00.710 --> 00:07:00.720 align:start position:0%
+it's pointing to the thing in address
+ 
+
+00:07:00.720 --> 00:07:02.930 align:start position:0%
+it's pointing to the thing in address
+three<00:07:01.080><c> and</c><00:07:01.620><c> then</c><00:07:01.740><c> jump</c><00:07:02.039><c> right</c><00:07:02.220><c> back</c><00:07:02.520><c> to</c><00:07:02.819><c> see</c>
+
+00:07:02.930 --> 00:07:02.940 align:start position:0%
+three and then jump right back to see
+ 
+
+00:07:02.940 --> 00:07:04.850 align:start position:0%
+three and then jump right back to see
+that<00:07:03.180><c> Machine</c><00:07:03.300><c> Gun</c><00:07:03.600><c> Kelly</c><00:07:03.840><c> is</c><00:07:04.259><c> also</c><00:07:04.500><c> hitting</c>
+
+00:07:04.850 --> 00:07:04.860 align:start position:0%
+that Machine Gun Kelly is also hitting
+ 
+
+00:07:04.860 --> 00:07:06.409 align:start position:0%
+that Machine Gun Kelly is also hitting
+on<00:07:05.100><c> Kate</c><00:07:05.400><c> Upton</c>
+
+00:07:06.409 --> 00:07:06.419 align:start position:0%
+on Kate Upton
+ 
+
+00:07:06.419 --> 00:07:08.029 align:start position:0%
+on Kate Upton
+now<00:07:06.900><c> the</c><00:07:07.080><c> really</c><00:07:07.259><c> nice</c><00:07:07.440><c> thing</c><00:07:07.620><c> about</c><00:07:07.800><c> this</c>
+
+00:07:08.029 --> 00:07:08.039 align:start position:0%
+now the really nice thing about this
+ 
+
+00:07:08.039 --> 00:07:10.610 align:start position:0%
+now the really nice thing about this
+like<00:07:08.340><c> I</c><00:07:08.460><c> mentioned</c><00:07:08.819><c> is</c><00:07:09.539><c> it</c><00:07:09.780><c> is</c><00:07:10.020><c> constant</c><00:07:10.380><c> time</c>
+
+00:07:10.610 --> 00:07:10.620 align:start position:0%
+like I mentioned is it is constant time
+ 
+
+00:07:10.620 --> 00:07:12.710 align:start position:0%
+like I mentioned is it is constant time
+complexity<00:07:11.160><c> we're</c><00:07:11.400><c> just</c><00:07:11.639><c> jumping</c><00:07:11.940><c> around</c><00:07:12.120><c> we</c>
+
+00:07:12.710 --> 00:07:12.720 align:start position:0%
+complexity we're just jumping around we
+ 
+
+00:07:12.720 --> 00:07:14.270 align:start position:0%
+complexity we're just jumping around we
+don't<00:07:12.840><c> have</c><00:07:13.020><c> to</c><00:07:13.199><c> Loop</c><00:07:13.560><c> through</c><00:07:13.740><c> the</c><00:07:13.979><c> number</c><00:07:14.100><c> of</c>
+
+00:07:14.270 --> 00:07:14.280 align:start position:0%
+don't have to Loop through the number of
+ 
+
+00:07:14.280 --> 00:07:16.670 align:start position:0%
+don't have to Loop through the number of
+nodes<00:07:14.580><c> every</c><00:07:14.940><c> single</c><00:07:15.180><c> time</c><00:07:15.419><c> the</c><00:07:16.319><c> amount</c><00:07:16.560><c> of</c>
+
+00:07:16.670 --> 00:07:16.680 align:start position:0%
+nodes every single time the amount of
+ 
+
+00:07:16.680 --> 00:07:18.350 align:start position:0%
+nodes every single time the amount of
+computation<00:07:17.160><c> that</c><00:07:17.400><c> we</c><00:07:17.520><c> have</c><00:07:17.639><c> to</c><00:07:17.699><c> do</c><00:07:17.819><c> does</c><00:07:18.180><c> not</c>
+
+00:07:18.350 --> 00:07:18.360 align:start position:0%
+computation that we have to do does not
+ 
+
+00:07:18.360 --> 00:07:20.270 align:start position:0%
+computation that we have to do does not
+scale<00:07:18.720><c> relative</c><00:07:19.139><c> to</c><00:07:19.319><c> the</c><00:07:19.440><c> number</c><00:07:19.560><c> of</c><00:07:19.740><c> nodes</c><00:07:20.039><c> or</c>
+
+00:07:20.270 --> 00:07:20.280 align:start position:0%
+scale relative to the number of nodes or
+ 
+
+00:07:20.280 --> 00:07:22.430 align:start position:0%
+scale relative to the number of nodes or
+edges<00:07:20.699><c> in</c><00:07:20.880><c> our</c><00:07:21.000><c> graph</c><00:07:21.240><c> and</c><00:07:21.840><c> so</c><00:07:21.960><c> as</c><00:07:22.139><c> a</c><00:07:22.259><c> result</c>
+
+00:07:22.430 --> 00:07:22.440 align:start position:0%
+edges in our graph and so as a result
+ 
+
+00:07:22.440 --> 00:07:24.830 align:start position:0%
+edges in our graph and so as a result
+this<00:07:22.800><c> thing</c><00:07:22.979><c> is</c><00:07:23.220><c> a</c><00:07:23.460><c> lot</c><00:07:23.580><c> more</c><00:07:23.880><c> efficient</c><00:07:24.300><c> the</c>
+
+00:07:24.830 --> 00:07:24.840 align:start position:0%
+this thing is a lot more efficient the
+ 
+
+00:07:24.840 --> 00:07:27.350 align:start position:0%
+this thing is a lot more efficient the
+term<00:07:25.020><c> that</c><00:07:25.199><c> neo4j</c><00:07:25.860><c> officially</c><00:07:26.400><c> uses</c><00:07:26.759><c> for</c><00:07:27.120><c> it</c>
+
+00:07:27.350 --> 00:07:27.360 align:start position:0%
+term that neo4j officially uses for it
+ 
+
+00:07:27.360 --> 00:07:29.809 align:start position:0%
+term that neo4j officially uses for it
+is<00:07:27.599><c> called</c><00:07:27.840><c> index</c><00:07:28.380><c> free</c><00:07:28.620><c> adjacency</c><00:07:29.400><c> because</c>
+
+00:07:29.809 --> 00:07:29.819 align:start position:0%
+is called index free adjacency because
+ 
+
+00:07:29.819 --> 00:07:32.270 align:start position:0%
+is called index free adjacency because
+we<00:07:30.060><c> don't</c><00:07:30.240><c> have</c><00:07:30.419><c> to</c><00:07:30.599><c> use</c><00:07:30.780><c> an</c><00:07:30.960><c> index</c><00:07:31.259><c> it</c><00:07:31.919><c> speeds</c>
+
+00:07:32.270 --> 00:07:32.280 align:start position:0%
+we don't have to use an index it speeds
+ 
+
+00:07:32.280 --> 00:07:34.370 align:start position:0%
+we don't have to use an index it speeds
+things<00:07:32.400><c> up</c><00:07:32.639><c> pretty</c><00:07:33.000><c> considerably</c>
+
+00:07:34.370 --> 00:07:34.380 align:start position:0%
+things up pretty considerably
+ 
+
+00:07:34.380 --> 00:07:37.129 align:start position:0%
+things up pretty considerably
+okay<00:07:34.979><c> so</c><00:07:35.819><c> the</c><00:07:36.060><c> last</c><00:07:36.180><c> kind</c><00:07:36.479><c> of</c><00:07:36.599><c> point</c><00:07:36.780><c> to</c><00:07:36.960><c> make</c>
+
+00:07:37.129 --> 00:07:37.139 align:start position:0%
+okay so the last kind of point to make
+ 
+
+00:07:37.139 --> 00:07:39.770 align:start position:0%
+okay so the last kind of point to make
+over<00:07:37.380><c> here</c><00:07:37.680><c> is</c><00:07:38.099><c> that</c><00:07:38.400><c> in</c><00:07:38.639><c> neo4j</c><00:07:39.240><c> in</c><00:07:39.479><c> particular</c>
+
+00:07:39.770 --> 00:07:39.780 align:start position:0%
+over here is that in neo4j in particular
+ 
+
+00:07:39.780 --> 00:07:41.570 align:start position:0%
+over here is that in neo4j in particular
+we<00:07:40.020><c> have</c><00:07:40.139><c> a</c><00:07:40.259><c> lot</c><00:07:40.319><c> of</c><00:07:40.440><c> acid</c><00:07:40.800><c> transactions</c><00:07:41.400><c> that</c>
+
+00:07:41.570 --> 00:07:41.580 align:start position:0%
+we have a lot of acid transactions that
+ 
+
+00:07:41.580 --> 00:07:43.370 align:start position:0%
+we have a lot of acid transactions that
+we<00:07:41.699><c> need</c><00:07:41.819><c> to</c><00:07:41.940><c> make</c><00:07:42.060><c> the</c><00:07:42.539><c> reason</c><00:07:42.720><c> being</c><00:07:42.960><c> that</c><00:07:43.199><c> a</c>
+
+00:07:43.370 --> 00:07:43.380 align:start position:0%
+we need to make the reason being that a
+ 
+
+00:07:43.380 --> 00:07:45.110 align:start position:0%
+we need to make the reason being that a
+lot<00:07:43.500><c> of</c><00:07:43.560><c> times</c><00:07:43.740><c> there</c><00:07:44.099><c> are</c><00:07:44.280><c> operations</c><00:07:44.639><c> that</c>
+
+00:07:45.110 --> 00:07:45.120 align:start position:0%
+lot of times there are operations that
+ 
+
+00:07:45.120 --> 00:07:47.210 align:start position:0%
+lot of times there are operations that
+we<00:07:45.300><c> may</c><00:07:45.419><c> want</c><00:07:45.720><c> to</c><00:07:46.020><c> basically</c><00:07:46.319><c> perform</c><00:07:46.560><c> them</c><00:07:46.919><c> on</c>
+
+00:07:47.210 --> 00:07:47.220 align:start position:0%
+we may want to basically perform them on
+ 
+
+00:07:47.220 --> 00:07:48.770 align:start position:0%
+we may want to basically perform them on
+multiple<00:07:47.580><c> nodes</c><00:07:47.880><c> that</c><00:07:48.060><c> are</c><00:07:48.240><c> connected</c><00:07:48.479><c> to</c><00:07:48.599><c> one</c>
+
+00:07:48.770 --> 00:07:48.780 align:start position:0%
+multiple nodes that are connected to one
+ 
+
+00:07:48.780 --> 00:07:50.629 align:start position:0%
+multiple nodes that are connected to one
+another<00:07:48.900><c> for</c><00:07:49.560><c> example</c><00:07:49.800><c> let's</c><00:07:50.099><c> say</c><00:07:50.220><c> we</c><00:07:50.460><c> said</c>
+
+00:07:50.629 --> 00:07:50.639 align:start position:0%
+another for example let's say we said
+ 
+
+00:07:50.639 --> 00:07:52.550 align:start position:0%
+another for example let's say we said
+take<00:07:51.180><c> this</c><00:07:51.419><c> node</c><00:07:51.660><c> here</c><00:07:51.840><c> and</c><00:07:52.080><c> every</c><00:07:52.259><c> single</c>
+
+00:07:52.550 --> 00:07:52.560 align:start position:0%
+take this node here and every single
+ 
+
+00:07:52.560 --> 00:07:55.010 align:start position:0%
+take this node here and every single
+node<00:07:52.740><c> that's</c><00:07:52.919><c> connected</c><00:07:53.280><c> to</c><00:07:53.400><c> it</c><00:07:53.580><c> add</c><00:07:53.940><c> three</c><00:07:54.240><c> so</c>
+
+00:07:55.010 --> 00:07:55.020 align:start position:0%
+node that's connected to it add three so
+ 
+
+00:07:55.020 --> 00:07:56.629 align:start position:0%
+node that's connected to it add three so
+that<00:07:55.319><c> would</c><00:07:55.440><c> look</c><00:07:55.620><c> like</c><00:07:55.740><c> this</c><00:07:55.979><c> right</c><00:07:56.220><c> here</c><00:07:56.400><c> and</c>
+
+00:07:56.629 --> 00:07:56.639 align:start position:0%
+that would look like this right here and
+ 
+
+00:07:56.639 --> 00:07:58.070 align:start position:0%
+that would look like this right here and
+it's<00:07:56.759><c> important</c><00:07:57.060><c> that</c><00:07:57.240><c> all</c><00:07:57.419><c> these</c><00:07:57.720><c> operations</c>
+
+00:07:58.070 --> 00:07:58.080 align:start position:0%
+it's important that all these operations
+ 
+
+00:07:58.080 --> 00:08:01.010 align:start position:0%
+it's important that all these operations
+go<00:07:58.440><c> through</c><00:07:58.560><c> or</c><00:07:58.919><c> they</c><00:07:59.160><c> all</c><00:07:59.280><c> fail</c><00:07:59.580><c> or</c><00:08:00.479><c> just</c><00:08:00.900><c> in</c>
+
+00:08:01.010 --> 00:08:01.020 align:start position:0%
+go through or they all fail or just in
+ 
+
+00:08:01.020 --> 00:08:03.409 align:start position:0%
+go through or they all fail or just in
+general<00:08:01.199><c> we</c><00:08:01.500><c> want</c><00:08:01.620><c> them</c><00:08:01.800><c> to</c><00:08:01.919><c> be</c><00:08:02.039><c> Atomic</c><00:08:02.520><c> so</c><00:08:03.180><c> of</c>
+
+00:08:03.409 --> 00:08:03.419 align:start position:0%
+general we want them to be Atomic so of
+ 
+
+00:08:03.419 --> 00:08:05.330 align:start position:0%
+general we want them to be Atomic so of
+course<00:08:03.539><c> for</c><00:08:04.080><c> doing</c><00:08:04.319><c> something</c><00:08:04.560><c> like</c><00:08:04.860><c> this</c><00:08:04.979><c> it</c>
+
+00:08:05.330 --> 00:08:05.340 align:start position:0%
+course for doing something like this it
+ 
+
+00:08:05.340 --> 00:08:06.770 align:start position:0%
+course for doing something like this it
+would<00:08:05.460><c> be</c><00:08:05.520><c> the</c><00:08:05.699><c> same</c><00:08:05.880><c> as</c><00:08:06.060><c> our</c><00:08:06.240><c> other</c><00:08:06.360><c> asset</c>
+
+00:08:06.770 --> 00:08:06.780 align:start position:0%
+would be the same as our other asset
+ 
+
+00:08:06.780 --> 00:08:08.930 align:start position:0%
+would be the same as our other asset
+transactions<00:08:07.319><c> in</c><00:08:07.500><c> normal</c><00:08:07.680><c> databases</c><00:08:08.340><c> we</c><00:08:08.819><c> need</c>
+
+00:08:08.930 --> 00:08:08.940 align:start position:0%
+transactions in normal databases we need
+ 
+
+00:08:08.940 --> 00:08:10.969 align:start position:0%
+transactions in normal databases we need
+to<00:08:09.060><c> write</c><00:08:09.180><c> ahead</c><00:08:09.479><c> log</c><00:08:09.660><c> we</c><00:08:10.139><c> need</c><00:08:10.199><c> to</c><00:08:10.380><c> put</c><00:08:10.500><c> locks</c>
+
+00:08:10.969 --> 00:08:10.979 align:start position:0%
+to write ahead log we need to put locks
+ 
+
+00:08:10.979 --> 00:08:12.650 align:start position:0%
+to write ahead log we need to put locks
+on<00:08:11.099><c> all</c><00:08:11.280><c> of</c><00:08:11.340><c> those</c><00:08:11.520><c> nodes</c><00:08:11.819><c> so</c><00:08:12.060><c> we</c><00:08:12.180><c> don't</c><00:08:12.300><c> incur</c>
+
+00:08:12.650 --> 00:08:12.660 align:start position:0%
+on all of those nodes so we don't incur
+ 
+
+00:08:12.660 --> 00:08:14.809 align:start position:0%
+on all of those nodes so we don't incur
+any<00:08:12.780><c> race</c><00:08:13.020><c> conditions</c><00:08:13.620><c> and</c><00:08:14.039><c> as</c><00:08:14.220><c> a</c><00:08:14.400><c> result</c><00:08:14.520><c> of</c>
+
+00:08:14.809 --> 00:08:14.819 align:start position:0%
+any race conditions and as a result of
+ 
+
+00:08:14.819 --> 00:08:16.850 align:start position:0%
+any race conditions and as a result of
+course<00:08:14.940><c> that</c><00:08:15.240><c> can</c><00:08:15.419><c> slow</c><00:08:15.660><c> things</c><00:08:15.960><c> down</c><00:08:16.199><c> and</c>
+
+00:08:16.850 --> 00:08:16.860 align:start position:0%
+course that can slow things down and
+ 
+
+00:08:16.860 --> 00:08:19.430 align:start position:0%
+course that can slow things down and
+even<00:08:17.099><c> more</c><00:08:17.539><c> problematic</c><00:08:18.539><c> scenario</c><00:08:19.020><c> is</c><00:08:19.259><c> going</c>
+
+00:08:19.430 --> 00:08:19.440 align:start position:0%
+even more problematic scenario is going
+ 
+
+00:08:19.440 --> 00:08:20.990 align:start position:0%
+even more problematic scenario is going
+to<00:08:19.560><c> be</c><00:08:19.620><c> when</c><00:08:19.919><c> these</c><00:08:20.220><c> things</c><00:08:20.280><c> are</c><00:08:20.580><c> distributed</c>
+
+00:08:20.990 --> 00:08:21.000 align:start position:0%
+to be when these things are distributed
+ 
+
+00:08:21.000 --> 00:08:23.809 align:start position:0%
+to be when these things are distributed
+across<00:08:21.660><c> different</c><00:08:21.900><c> partitions</c><00:08:22.560><c> of</c><00:08:22.800><c> the</c><00:08:22.919><c> graph</c>
+
+00:08:23.809 --> 00:08:23.819 align:start position:0%
+across different partitions of the graph
+ 
+
+00:08:23.819 --> 00:08:26.629 align:start position:0%
+across different partitions of the graph
+so<00:08:24.300><c> as</c><00:08:24.419><c> you</c><00:08:24.539><c> can</c><00:08:24.599><c> see</c><00:08:24.720><c> if</c><00:08:24.900><c> I</c><00:08:25.020><c> want</c><00:08:25.139><c> to</c><00:08:25.259><c> add</c><00:08:25.500><c> 3</c><00:08:26.280><c> to</c>
+
+00:08:26.629 --> 00:08:26.639 align:start position:0%
+so as you can see if I want to add 3 to
+ 
+
+00:08:26.639 --> 00:08:28.129 align:start position:0%
+so as you can see if I want to add 3 to
+all<00:08:26.819><c> of</c><00:08:26.879><c> these</c><00:08:27.060><c> nodes</c><00:08:27.300><c> over</c><00:08:27.539><c> here</c><00:08:27.720><c> here</c><00:08:27.960><c> and</c>
+
+00:08:28.129 --> 00:08:28.139 align:start position:0%
+all of these nodes over here here and
+ 
+
+00:08:28.139 --> 00:08:29.749 align:start position:0%
+all of these nodes over here here and
+here<00:08:28.379><c> they're</c><00:08:28.860><c> physically</c><00:08:29.280><c> on</c><00:08:29.580><c> different</c>
+
+00:08:29.749 --> 00:08:29.759 align:start position:0%
+here they're physically on different
+ 
+
+00:08:29.759 --> 00:08:31.670 align:start position:0%
+here they're physically on different
+computers<00:08:30.300><c> and</c><00:08:30.660><c> unfortunately</c><00:08:31.139><c> what</c><00:08:31.500><c> that</c>
+
+00:08:31.670 --> 00:08:31.680 align:start position:0%
+computers and unfortunately what that
+ 
+
+00:08:31.680 --> 00:08:32.990 align:start position:0%
+computers and unfortunately what that
+does<00:08:31.860><c> mean</c><00:08:32.039><c> is</c><00:08:32.339><c> that</c><00:08:32.459><c> we're</c><00:08:32.580><c> going</c><00:08:32.700><c> to</c><00:08:32.760><c> have</c><00:08:32.880><c> to</c>
+
+00:08:32.990 --> 00:08:33.000 align:start position:0%
+does mean is that we're going to have to
+ 
+
+00:08:33.000 --> 00:08:34.969 align:start position:0%
+does mean is that we're going to have to
+run<00:08:33.180><c> a</c><00:08:33.360><c> two-phase</c><00:08:33.719><c> commit</c><00:08:34.020><c> the</c><00:08:34.680><c> nice</c><00:08:34.800><c> thing</c>
+
+00:08:34.969 --> 00:08:34.979 align:start position:0%
+run a two-phase commit the nice thing
+ 
+
+00:08:34.979 --> 00:08:37.130 align:start position:0%
+run a two-phase commit the nice thing
+that<00:08:35.159><c> neo4j</c><00:08:35.760><c> does</c><00:08:36.060><c> do</c><00:08:36.300><c> for</c><00:08:36.479><c> us</c><00:08:36.599><c> is</c><00:08:36.839><c> it'll</c>
+
+00:08:37.130 --> 00:08:37.140 align:start position:0%
+that neo4j does do for us is it'll
+ 
+
+00:08:37.140 --> 00:08:38.810 align:start position:0%
+that neo4j does do for us is it'll
+basically<00:08:37.380><c> say</c><00:08:37.620><c> okay</c><00:08:37.800><c> well</c><00:08:38.039><c> it's</c><00:08:38.219><c> only</c><00:08:38.399><c> these</c>
+
+00:08:38.810 --> 00:08:38.820 align:start position:0%
+basically say okay well it's only these
+ 
+
+00:08:38.820 --> 00:08:41.329 align:start position:0%
+basically say okay well it's only these
+three<00:08:38.940><c> nodes</c><00:08:39.560><c> involved</c><00:08:40.560><c> in</c><00:08:40.800><c> the</c><00:08:40.919><c> two-phase</c>
+
+00:08:41.329 --> 00:08:41.339 align:start position:0%
+three nodes involved in the two-phase
+ 
+
+00:08:41.339 --> 00:08:43.070 align:start position:0%
+three nodes involved in the two-phase
+commit<00:08:41.700><c> so</c><00:08:42.060><c> let's</c><00:08:42.240><c> make</c><00:08:42.419><c> this</c><00:08:42.659><c> guy</c><00:08:42.839><c> the</c>
+
+00:08:43.070 --> 00:08:43.080 align:start position:0%
+commit so let's make this guy the
+ 
+
+00:08:43.080 --> 00:08:44.870 align:start position:0%
+commit so let's make this guy the
+coordinator
+
+00:08:44.870 --> 00:08:44.880 align:start position:0%
+coordinator
+ 
+
+00:08:44.880 --> 00:08:47.449 align:start position:0%
+coordinator
+and<00:08:45.540><c> these</c><00:08:45.839><c> two</c><00:08:45.959><c> are</c><00:08:46.320><c> listening</c><00:08:46.800><c> basically</c><00:08:47.279><c> to</c>
+
+00:08:47.449 --> 00:08:47.459 align:start position:0%
+and these two are listening basically to
+ 
+
+00:08:47.459 --> 00:08:49.910 align:start position:0%
+and these two are listening basically to
+the<00:08:47.640><c> two-phase</c><00:08:48.000><c> commit</c>
+
+00:08:49.910 --> 00:08:49.920 align:start position:0%
+the two-phase commit
+ 
+
+00:08:49.920 --> 00:08:53.449 align:start position:0%
+the two-phase commit
+and<00:08:50.640><c> then</c><00:08:50.820><c> this</c><00:08:51.420><c> fourth</c><00:08:51.779><c> node</c><00:08:51.959><c> over</c><00:08:52.200><c> here</c><00:08:52.459><c> we</c>
+
+00:08:53.449 --> 00:08:53.459 align:start position:0%
+and then this fourth node over here we
+ 
+
+00:08:53.459 --> 00:08:55.009 align:start position:0%
+and then this fourth node over here we
+don't<00:08:53.580><c> really</c><00:08:53.820><c> have</c><00:08:54.000><c> to</c><00:08:54.120><c> worry</c><00:08:54.300><c> about</c><00:08:54.540><c> that</c><00:08:54.720><c> it</c>
+
+00:08:55.009 --> 00:08:55.019 align:start position:0%
+don't really have to worry about that it
+ 
+
+00:08:55.019 --> 00:08:56.690 align:start position:0%
+don't really have to worry about that it
+can<00:08:55.140><c> proceed</c><00:08:55.440><c> as</c><00:08:55.680><c> normal</c>
+
+00:08:56.690 --> 00:08:56.700 align:start position:0%
+can proceed as normal
+ 
+
+00:08:56.700 --> 00:08:59.870 align:start position:0%
+can proceed as normal
+proceed<00:08:57.540><c> as</c><00:08:58.380><c> normal</c>
+
+00:08:59.870 --> 00:08:59.880 align:start position:0%
+proceed as normal
+ 
+
+00:08:59.880 --> 00:09:01.490 align:start position:0%
+proceed as normal
+and<00:09:00.360><c> that</c><00:09:00.480><c> is</c><00:09:00.660><c> obviously</c><00:09:01.019><c> going</c><00:09:01.140><c> to</c><00:09:01.260><c> be</c><00:09:01.320><c> super</c>
+
+00:09:01.490 --> 00:09:01.500 align:start position:0%
+and that is obviously going to be super
+ 
+
+00:09:01.500 --> 00:09:03.350 align:start position:0%
+and that is obviously going to be super
+useful<00:09:01.860><c> because</c><00:09:02.100><c> if</c><00:09:02.399><c> every</c><00:09:02.700><c> single</c><00:09:03.000><c> node</c><00:09:03.180><c> was</c>
+
+00:09:03.350 --> 00:09:03.360 align:start position:0%
+useful because if every single node was
+ 
+
+00:09:03.360 --> 00:09:05.030 align:start position:0%
+useful because if every single node was
+involved<00:09:03.720><c> in</c><00:09:03.839><c> the</c><00:09:03.959><c> two</c><00:09:04.019><c> phase</c><00:09:04.260><c> commit</c><00:09:04.620><c> then</c>
+
+00:09:05.030 --> 00:09:05.040 align:start position:0%
+involved in the two phase commit then
+ 
+
+00:09:05.040 --> 00:09:06.889 align:start position:0%
+involved in the two phase commit then
+our<00:09:05.279><c> entire</c><00:09:05.580><c> system</c><00:09:05.880><c> would</c><00:09:06.360><c> basically</c><00:09:06.660><c> have</c>
+
+00:09:06.889 --> 00:09:06.899 align:start position:0%
+our entire system would basically have
+ 
+
+00:09:06.899 --> 00:09:09.230 align:start position:0%
+our entire system would basically have
+to<00:09:07.080><c> wait</c><00:09:07.200><c> while</c><00:09:07.500><c> that</c><00:09:07.680><c> right</c><00:09:07.860><c> went</c><00:09:08.160><c> through</c><00:09:08.880><c> so</c>
+
+00:09:09.230 --> 00:09:09.240 align:start position:0%
+to wait while that right went through so
+ 
+
+00:09:09.240 --> 00:09:12.410 align:start position:0%
+to wait while that right went through so
+in<00:09:10.019><c> conclusion</c><00:09:10.500><c> graph</c><00:09:11.399><c> to</c><00:09:11.580><c> databases</c><00:09:12.060><c> are</c>
+
+00:09:12.410 --> 00:09:12.420 align:start position:0%
+in conclusion graph to databases are
+ 
+
+00:09:12.420 --> 00:09:13.970 align:start position:0%
+in conclusion graph to databases are
+probably<00:09:12.600><c> not</c><00:09:12.839><c> going</c><00:09:13.019><c> to</c><00:09:13.140><c> come</c><00:09:13.260><c> up</c><00:09:13.440><c> too</c><00:09:13.800><c> much</c>
+
+00:09:13.970 --> 00:09:13.980 align:start position:0%
+probably not going to come up too much
+ 
+
+00:09:13.980 --> 00:09:15.710 align:start position:0%
+probably not going to come up too much
+in<00:09:14.220><c> your</c><00:09:14.339><c> system</c><00:09:14.519><c> design</c><00:09:14.820><c> interviews</c><00:09:15.420><c> and</c>
+
+00:09:15.710 --> 00:09:15.720 align:start position:0%
+in your system design interviews and
+ 
+
+00:09:15.720 --> 00:09:17.269 align:start position:0%
+in your system design interviews and
+frankly<00:09:16.080><c> probably</c><00:09:16.320><c> not</c><00:09:16.560><c> even</c><00:09:16.740><c> that</c><00:09:16.980><c> much</c><00:09:17.100><c> in</c>
+
+00:09:17.269 --> 00:09:17.279 align:start position:0%
+frankly probably not even that much in
+ 
+
+00:09:17.279 --> 00:09:19.730 align:start position:0%
+frankly probably not even that much in
+your<00:09:17.459><c> career</c><00:09:17.700><c> either</c><00:09:17.940><c> but</c><00:09:18.779><c> not</c><00:09:19.140><c> only</c><00:09:19.260><c> is</c><00:09:19.440><c> it</c><00:09:19.620><c> an</c>
+
+00:09:19.730 --> 00:09:19.740 align:start position:0%
+your career either but not only is it an
+ 
+
+00:09:19.740 --> 00:09:21.410 align:start position:0%
+your career either but not only is it an
+interesting<00:09:20.100><c> topic</c><00:09:20.459><c> but</c><00:09:20.880><c> if</c><00:09:21.000><c> they</c><00:09:21.120><c> do</c><00:09:21.240><c> ever</c>
+
+00:09:21.410 --> 00:09:21.420 align:start position:0%
+interesting topic but if they do ever
+ 
+
+00:09:21.420 --> 00:09:22.790 align:start position:0%
+interesting topic but if they do ever
+come<00:09:21.600><c> up</c><00:09:21.720><c> you're</c><00:09:21.959><c> going</c><00:09:22.080><c> to</c><00:09:22.200><c> want</c><00:09:22.320><c> to</c><00:09:22.440><c> know</c><00:09:22.560><c> why</c>
+
+00:09:22.790 --> 00:09:22.800 align:start position:0%
+come up you're going to want to know why
+ 
+
+00:09:22.800 --> 00:09:24.889 align:start position:0%
+come up you're going to want to know why
+native<00:09:23.100><c> graph</c><00:09:23.459><c> databases</c><00:09:24.000><c> are</c><00:09:24.300><c> a</c><00:09:24.420><c> lot</c><00:09:24.540><c> quicker</c>
+
+00:09:24.889 --> 00:09:24.899 align:start position:0%
+native graph databases are a lot quicker
+ 
+
+00:09:24.899 --> 00:09:27.350 align:start position:0%
+native graph databases are a lot quicker
+and<00:09:25.200><c> a</c><00:09:25.320><c> lot</c><00:09:25.440><c> better</c><00:09:25.680><c> and</c><00:09:26.399><c> of</c><00:09:26.580><c> course</c><00:09:26.700><c> why</c><00:09:27.120><c> that</c>
+
+00:09:27.350 --> 00:09:27.360 align:start position:0%
+and a lot better and of course why that
+ 
+
+00:09:27.360 --> 00:09:29.449 align:start position:0%
+and a lot better and of course why that
+is<00:09:27.540><c> anyways</c><00:09:28.380><c> guys</c><00:09:28.560><c> hope</c><00:09:28.860><c> this</c><00:09:29.100><c> video</c><00:09:29.220><c> was</c>
+
+00:09:29.449 --> 00:09:29.459 align:start position:0%
+is anyways guys hope this video was
+ 
+
+00:09:29.459 --> 00:09:31.009 align:start position:0%
+is anyways guys hope this video was
+useful<00:09:29.760><c> and</c><00:09:30.000><c> I</c><00:09:30.120><c> will</c><00:09:30.300><c> see</c><00:09:30.420><c> you</c><00:09:30.540><c> in</c><00:09:30.779><c> the</c><00:09:30.899><c> next</c>
+
+00:09:31.009 --> 00:09:31.019 align:start position:0%
+useful and I will see you in the next
+ 
+
+00:09:31.019 --> 00:09:33.200 align:start position:0%
+useful and I will see you in the next
+one
+

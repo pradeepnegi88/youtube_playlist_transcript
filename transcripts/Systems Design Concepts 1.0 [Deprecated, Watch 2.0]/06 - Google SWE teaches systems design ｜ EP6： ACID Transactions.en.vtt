@@ -1,0 +1,3912 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.960 --> 00:00:03.750 align:start position:0%
+ 
+hey<00:00:01.280><c> everyone</c><00:00:01.760><c> i</c><00:00:02.080><c> am</c><00:00:02.480><c> back</c><00:00:02.800><c> for</c><00:00:03.199><c> another</c>
+
+00:00:03.750 --> 00:00:03.760 align:start position:0%
+hey everyone i am back for another
+ 
+
+00:00:03.760 --> 00:00:05.670 align:start position:0%
+hey everyone i am back for another
+episode<00:00:04.640><c> uh</c><00:00:04.880><c> today</c><00:00:05.200><c> we're</c><00:00:05.359><c> going</c><00:00:05.359><c> to</c><00:00:05.440><c> be</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+episode uh today we're going to be
+ 
+
+00:00:05.680 --> 00:00:07.909 align:start position:0%
+episode uh today we're going to be
+starting<00:00:05.920><c> to</c><00:00:06.080><c> cover</c><00:00:06.480><c> transactions</c><00:00:07.440><c> and</c><00:00:07.600><c> then</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+starting to cover transactions and then
+ 
+
+00:00:07.919 --> 00:00:10.950 align:start position:0%
+starting to cover transactions and then
+from<00:00:08.080><c> there</c><00:00:08.480><c> i'll</c><00:00:08.720><c> probably</c><00:00:09.200><c> do</c><00:00:09.519><c> be</c><00:00:09.679><c> doing</c><00:00:10.160><c> um</c>
+
+00:00:10.950 --> 00:00:10.960 align:start position:0%
+from there i'll probably do be doing um
+ 
+
+00:00:10.960 --> 00:00:14.230 align:start position:0%
+from there i'll probably do be doing um
+something<00:00:11.360><c> like</c><00:00:11.599><c> a</c><00:00:11.679><c> database</c><00:00:12.240><c> comparison</c><00:00:13.200><c> so</c>
+
+00:00:14.230 --> 00:00:14.240 align:start position:0%
+something like a database comparison so
+ 
+
+00:00:14.240 --> 00:00:16.150 align:start position:0%
+something like a database comparison so
+first<00:00:14.480><c> of</c><00:00:14.639><c> all</c><00:00:14.799><c> just</c><00:00:15.040><c> quickly</c><00:00:15.440><c> um</c><00:00:15.839><c> if</c><00:00:15.839><c> you</c><00:00:16.000><c> guys</c>
+
+00:00:16.150 --> 00:00:16.160 align:start position:0%
+first of all just quickly um if you guys
+ 
+
+00:00:16.160 --> 00:00:17.269 align:start position:0%
+first of all just quickly um if you guys
+are<00:00:16.240><c> watching</c><00:00:16.560><c> this</c><00:00:16.720><c> can</c><00:00:16.880><c> you</c><00:00:16.960><c> go</c><00:00:17.119><c> in</c><00:00:17.199><c> the</c>
+
+00:00:17.269 --> 00:00:17.279 align:start position:0%
+are watching this can you go in the
+ 
+
+00:00:17.279 --> 00:00:19.189 align:start position:0%
+are watching this can you go in the
+comments<00:00:17.680><c> section</c><00:00:18.080><c> and</c><00:00:18.160><c> let</c><00:00:18.320><c> me</c><00:00:18.480><c> know</c><00:00:18.800><c> if</c><00:00:19.039><c> you</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+comments section and let me know if you
+ 
+
+00:00:19.199 --> 00:00:21.269 align:start position:0%
+comments section and let me know if you
+mind<00:00:19.520><c> that</c><00:00:19.680><c> i'm</c><00:00:19.840><c> using</c><00:00:20.160><c> a</c><00:00:20.240><c> webcam</c><00:00:20.800><c> like</c><00:00:20.960><c> i</c><00:00:21.119><c> have</c>
+
+00:00:21.269 --> 00:00:21.279 align:start position:0%
+mind that i'm using a webcam like i have
+ 
+
+00:00:21.279 --> 00:00:23.750 align:start position:0%
+mind that i'm using a webcam like i have
+a<00:00:21.359><c> high</c><00:00:21.680><c> quality</c><00:00:22.080><c> camera</c><00:00:22.560><c> from</c><00:00:22.800><c> um</c><00:00:23.519><c> you</c><00:00:23.600><c> know</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+a high quality camera from um you know
+ 
+
+00:00:23.760 --> 00:00:25.429 align:start position:0%
+a high quality camera from um you know
+my<00:00:24.000><c> only</c><00:00:24.320><c> fan</c><00:00:24.480><c> stays</c><00:00:24.880><c> which</c><00:00:25.039><c> you</c><00:00:25.119><c> can</c><00:00:25.199><c> check</c>
+
+00:00:25.429 --> 00:00:25.439 align:start position:0%
+my only fan stays which you can check
+ 
+
+00:00:25.439 --> 00:00:28.550 align:start position:0%
+my only fan stays which you can check
+out<00:00:25.519><c> at</c><00:00:25.680><c> onlyfans.comcop</c>
+
+00:00:28.550 --> 00:00:28.560 align:start position:0%
+out at onlyfans.comcop
+ 
+
+00:00:28.560 --> 00:00:30.630 align:start position:0%
+out at onlyfans.comcop
+but<00:00:28.880><c> um</c><00:00:29.359><c> yeah</c><00:00:29.599><c> i'm</c><00:00:29.679><c> just</c><00:00:29.840><c> kind</c><00:00:29.920><c> of</c><00:00:30.080><c> curious</c><00:00:30.480><c> if</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+but um yeah i'm just kind of curious if
+ 
+
+00:00:30.640 --> 00:00:31.990 align:start position:0%
+but um yeah i'm just kind of curious if
+the<00:00:30.720><c> webcam</c><00:00:31.119><c> is</c><00:00:31.199><c> sufficient</c><00:00:31.679><c> because</c><00:00:31.760><c> i</c><00:00:31.840><c> feel</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+the webcam is sufficient because i feel
+ 
+
+00:00:32.000 --> 00:00:33.510 align:start position:0%
+the webcam is sufficient because i feel
+like<00:00:32.079><c> my</c><00:00:32.239><c> microphone's</c><00:00:32.800><c> pretty</c><00:00:32.960><c> good</c><00:00:33.120><c> and</c><00:00:33.280><c> i'm</c>
+
+00:00:33.510 --> 00:00:33.520 align:start position:0%
+like my microphone's pretty good and i'm
+ 
+
+00:00:33.520 --> 00:00:34.709 align:start position:0%
+like my microphone's pretty good and i'm
+you<00:00:33.680><c> know</c><00:00:33.760><c> it</c><00:00:33.840><c> doesn't</c><00:00:34.079><c> really</c><00:00:34.239><c> matter</c><00:00:34.480><c> what</c><00:00:34.640><c> i</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+you know it doesn't really matter what i
+ 
+
+00:00:34.719 --> 00:00:36.310 align:start position:0%
+you know it doesn't really matter what i
+look<00:00:34.880><c> like</c><00:00:35.040><c> i</c><00:00:35.200><c> just</c><00:00:35.360><c> look</c><00:00:35.600><c> uglier</c><00:00:36.079><c> in</c><00:00:36.160><c> high</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+look like i just look uglier in high
+ 
+
+00:00:36.320 --> 00:00:37.750 align:start position:0%
+look like i just look uglier in high
+definition<00:00:36.960><c> so</c>
+
+00:00:37.750 --> 00:00:37.760 align:start position:0%
+definition so
+ 
+
+00:00:37.760 --> 00:00:39.990 align:start position:0%
+definition so
+you<00:00:37.920><c> know</c><00:00:38.160><c> i</c><00:00:38.239><c> feel</c><00:00:38.399><c> like</c><00:00:38.559><c> this</c><00:00:38.719><c> is</c><00:00:38.879><c> fine</c><00:00:39.600><c> but</c><00:00:39.840><c> uh</c>
+
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+you know i feel like this is fine but uh
+ 
+
+00:00:40.000 --> 00:00:41.590 align:start position:0%
+you know i feel like this is fine but uh
+yeah<00:00:40.239><c> anyways</c><00:00:40.640><c> let's</c><00:00:40.800><c> start</c><00:00:41.040><c> talking</c><00:00:41.360><c> about</c>
+
+00:00:41.590 --> 00:00:41.600 align:start position:0%
+yeah anyways let's start talking about
+ 
+
+00:00:41.600 --> 00:00:43.430 align:start position:0%
+yeah anyways let's start talking about
+transactions<00:00:42.559><c> um</c>
+
+00:00:43.430 --> 00:00:43.440 align:start position:0%
+transactions um
+ 
+
+00:00:43.440 --> 00:00:45.510 align:start position:0%
+transactions um
+i<00:00:43.600><c> hope</c><00:00:44.239><c> this</c><00:00:44.399><c> video</c><00:00:44.640><c> is</c><00:00:44.800><c> useful</c><00:00:45.280><c> and</c><00:00:45.440><c> i'm</c>
+
+00:00:45.510 --> 00:00:45.520 align:start position:0%
+i hope this video is useful and i'm
+ 
+
+00:00:45.520 --> 00:00:46.790 align:start position:0%
+i hope this video is useful and i'm
+probably<00:00:45.840><c> going</c><00:00:45.920><c> to</c><00:00:46.000><c> break</c><00:00:46.160><c> this</c><00:00:46.399><c> into</c><00:00:46.640><c> two</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+probably going to break this into two
+ 
+
+00:00:46.800 --> 00:00:48.470 align:start position:0%
+probably going to break this into two
+parts<00:00:47.120><c> so</c><00:00:47.200><c> i</c><00:00:47.280><c> can</c><00:00:47.360><c> cover</c><00:00:47.680><c> weak</c><00:00:47.920><c> isolation</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+parts so i can cover weak isolation
+ 
+
+00:00:48.480 --> 00:00:52.549 align:start position:0%
+parts so i can cover weak isolation
+levels<00:00:48.879><c> next</c><00:00:49.680><c> all</c><00:00:49.840><c> right</c><00:00:50.160><c> enjoy</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+levels next all right enjoy
+ 
+
+00:00:52.559 --> 00:00:54.790 align:start position:0%
+levels next all right enjoy
+okay<00:00:52.960><c> so</c><00:00:53.199><c> let's</c><00:00:53.440><c> talk</c><00:00:53.680><c> about</c><00:00:54.000><c> transactions</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+okay so let's talk about transactions
+ 
+
+00:00:54.800 --> 00:00:56.869 align:start position:0%
+okay so let's talk about transactions
+well<00:00:55.039><c> what</c><00:00:55.199><c> are</c><00:00:55.360><c> they</c><00:00:55.760><c> transactions</c><00:00:56.480><c> are</c><00:00:56.719><c> a</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+well what are they transactions are a
+ 
+
+00:00:56.879 --> 00:00:59.029 align:start position:0%
+well what are they transactions are a
+database<00:00:57.360><c> abstraction</c><00:00:58.079><c> that</c><00:00:58.320><c> bundle</c><00:00:58.719><c> a</c><00:00:58.800><c> bunch</c>
+
+00:00:59.029 --> 00:00:59.039 align:start position:0%
+database abstraction that bundle a bunch
+ 
+
+00:00:59.039 --> 00:01:01.189 align:start position:0%
+database abstraction that bundle a bunch
+of<00:00:59.199><c> operations</c><00:00:59.760><c> to</c><00:00:59.920><c> the</c><00:01:00.000><c> database</c><00:01:00.559><c> so</c><00:01:00.879><c> reads</c>
+
+00:01:01.189 --> 00:01:01.199 align:start position:0%
+of operations to the database so reads
+ 
+
+00:01:01.199 --> 00:01:04.390 align:start position:0%
+of operations to the database so reads
+and<00:01:01.359><c> writes</c><00:01:02.160><c> into</c><00:01:02.640><c> one</c><00:01:02.960><c> basically</c><00:01:03.680><c> package</c><00:01:04.239><c> of</c>
+
+00:01:04.390 --> 00:01:04.400 align:start position:0%
+and writes into one basically package of
+ 
+
+00:01:04.400 --> 00:01:07.030 align:start position:0%
+and writes into one basically package of
+operations<00:01:05.119><c> that</c><00:01:05.360><c> either</c><00:01:05.760><c> all</c><00:01:06.000><c> succeed</c><00:01:06.799><c> or</c>
+
+00:01:07.030 --> 00:01:07.040 align:start position:0%
+operations that either all succeed or
+ 
+
+00:01:07.040 --> 00:01:08.550 align:start position:0%
+operations that either all succeed or
+they<00:01:07.280><c> all</c><00:01:07.600><c> fail</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+they all fail
+ 
+
+00:01:08.560 --> 00:01:10.950 align:start position:0%
+they all fail
+the<00:01:08.720><c> entire</c><00:01:09.200><c> point</c><00:01:09.520><c> of</c><00:01:09.680><c> transactions</c><00:01:10.560><c> is</c><00:01:10.720><c> to</c>
+
+00:01:10.950 --> 00:01:10.960 align:start position:0%
+the entire point of transactions is to
+ 
+
+00:01:10.960 --> 00:01:13.510 align:start position:0%
+the entire point of transactions is to
+implement<00:01:11.439><c> this</c><00:01:11.680><c> guarantee</c><00:01:12.640><c> called</c><00:01:12.960><c> acid</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+implement this guarantee called acid
+ 
+
+00:01:13.520 --> 00:01:15.830 align:start position:0%
+implement this guarantee called acid
+where<00:01:13.760><c> acid</c><00:01:14.159><c> stands</c><00:01:14.479><c> for</c><00:01:14.720><c> atomicity</c>
+
+00:01:15.830 --> 00:01:15.840 align:start position:0%
+where acid stands for atomicity
+ 
+
+00:01:15.840 --> 00:01:19.109 align:start position:0%
+where acid stands for atomicity
+consistency<00:01:17.040><c> isolation</c><00:01:17.920><c> and</c><00:01:18.080><c> durability</c><00:01:18.960><c> so</c>
+
+00:01:19.109 --> 00:01:19.119 align:start position:0%
+consistency isolation and durability so
+ 
+
+00:01:19.119 --> 00:01:20.950 align:start position:0%
+consistency isolation and durability so
+i'll<00:01:19.520><c> explain</c><00:01:19.920><c> what</c><00:01:20.080><c> that</c><00:01:20.240><c> means</c><00:01:20.560><c> in</c><00:01:20.640><c> the</c><00:01:20.720><c> next</c>
+
+00:01:20.950 --> 00:01:20.960 align:start position:0%
+i'll explain what that means in the next
+ 
+
+00:01:20.960 --> 00:01:23.590 align:start position:0%
+i'll explain what that means in the next
+slide<00:01:21.759><c> so</c><00:01:22.000><c> atomicity</c><00:01:22.720><c> is</c><00:01:22.880><c> basically</c><00:01:23.280><c> saying</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+slide so atomicity is basically saying
+ 
+
+00:01:23.600 --> 00:01:25.429 align:start position:0%
+slide so atomicity is basically saying
+this<00:01:23.920><c> let's</c><00:01:24.080><c> say</c><00:01:24.240><c> we</c><00:01:24.400><c> have</c><00:01:24.640><c> a</c><00:01:24.799><c> bunch</c><00:01:25.040><c> of</c><00:01:25.200><c> reads</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+this let's say we have a bunch of reads
+ 
+
+00:01:25.439 --> 00:01:27.510 align:start position:0%
+this let's say we have a bunch of reads
+and<00:01:25.520><c> writes</c><00:01:26.320><c> it's</c><00:01:26.640><c> never</c><00:01:26.880><c> going</c><00:01:27.119><c> to</c><00:01:27.200><c> be</c><00:01:27.360><c> the</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+and writes it's never going to be the
+ 
+
+00:01:27.520 --> 00:01:29.429 align:start position:0%
+and writes it's never going to be the
+case<00:01:27.920><c> that</c><00:01:28.159><c> say</c><00:01:28.560><c> some</c><00:01:28.799><c> of</c><00:01:28.880><c> the</c><00:01:29.040><c> rights</c><00:01:29.360><c> are</c>
+
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+case that say some of the rights are
+ 
+
+00:01:29.439 --> 00:01:31.350 align:start position:0%
+case that say some of the rights are
+going<00:01:29.600><c> to</c><00:01:29.680><c> work</c><00:01:30.400><c> and</c><00:01:30.640><c> some</c><00:01:30.799><c> of</c><00:01:30.880><c> the</c><00:01:30.960><c> rights</c><00:01:31.280><c> are</c>
+
+00:01:31.350 --> 00:01:31.360 align:start position:0%
+going to work and some of the rights are
+ 
+
+00:01:31.360 --> 00:01:32.789 align:start position:0%
+going to work and some of the rights are
+going<00:01:31.439><c> to</c><00:01:31.600><c> fail</c><00:01:32.000><c> and</c><00:01:32.159><c> then</c><00:01:32.320><c> the</c><00:01:32.400><c> rights</c><00:01:32.720><c> that</c>
+
+00:01:32.789 --> 00:01:32.799 align:start position:0%
+going to fail and then the rights that
+ 
+
+00:01:32.799 --> 00:01:34.950 align:start position:0%
+going to fail and then the rights that
+worked<00:01:33.119><c> are</c><00:01:33.200><c> going</c><00:01:33.280><c> to</c><00:01:33.439><c> lead</c><00:01:33.680><c> aside</c><00:01:34.479><c> leave</c><00:01:34.799><c> a</c>
+
+00:01:34.950 --> 00:01:34.960 align:start position:0%
+worked are going to lead aside leave a
+ 
+
+00:01:34.960 --> 00:01:36.870 align:start position:0%
+worked are going to lead aside leave a
+side<00:01:35.200><c> effect</c><00:01:35.600><c> on</c><00:01:35.680><c> the</c><00:01:35.759><c> database</c><00:01:36.560><c> it's</c><00:01:36.720><c> going</c>
+
+00:01:36.870 --> 00:01:36.880 align:start position:0%
+side effect on the database it's going
+ 
+
+00:01:36.880 --> 00:01:39.109 align:start position:0%
+side effect on the database it's going
+to<00:01:37.040><c> be</c><00:01:37.200><c> the</c><00:01:37.280><c> case</c><00:01:37.680><c> that</c><00:01:37.920><c> it</c><00:01:38.079><c> is</c><00:01:38.320><c> one</c><00:01:38.640><c> atomic</c>
+
+00:01:39.109 --> 00:01:39.119 align:start position:0%
+to be the case that it is one atomic
+ 
+
+00:01:39.119 --> 00:01:41.190 align:start position:0%
+to be the case that it is one atomic
+unit<00:01:39.759><c> of</c><00:01:39.920><c> a</c><00:01:40.079><c> transaction</c><00:01:40.720><c> meaning</c><00:01:41.040><c> that</c>
+
+00:01:41.190 --> 00:01:41.200 align:start position:0%
+unit of a transaction meaning that
+ 
+
+00:01:41.200 --> 00:01:42.550 align:start position:0%
+unit of a transaction meaning that
+there's<00:01:41.439><c> never</c><00:01:41.680><c> going</c><00:01:41.840><c> to</c><00:01:41.920><c> be</c><00:01:42.079><c> a</c><00:01:42.159><c> case</c><00:01:42.399><c> where</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+there's never going to be a case where
+ 
+
+00:01:42.560 --> 00:01:44.389 align:start position:0%
+there's never going to be a case where
+only<00:01:42.799><c> half</c><00:01:42.960><c> the</c><00:01:43.119><c> transaction</c><00:01:43.680><c> works</c><00:01:44.000><c> and</c><00:01:44.079><c> half</c>
+
+00:01:44.389 --> 00:01:44.399 align:start position:0%
+only half the transaction works and half
+ 
+
+00:01:44.399 --> 00:01:45.990 align:start position:0%
+only half the transaction works and half
+doesn't<00:01:44.960><c> it's</c><00:01:45.200><c> either</c><00:01:45.439><c> all</c><00:01:45.600><c> going</c><00:01:45.840><c> to</c><00:01:45.920><c> be</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+doesn't it's either all going to be
+ 
+
+00:01:46.000 --> 00:01:47.270 align:start position:0%
+doesn't it's either all going to be
+committed<00:01:46.479><c> or</c><00:01:46.640><c> it's</c><00:01:46.799><c> all</c><00:01:46.960><c> going</c><00:01:47.040><c> to</c><00:01:47.119><c> be</c>
+
+00:01:47.270 --> 00:01:47.280 align:start position:0%
+committed or it's all going to be
+ 
+
+00:01:47.280 --> 00:01:48.630 align:start position:0%
+committed or it's all going to be
+aborted
+
+00:01:48.630 --> 00:01:48.640 align:start position:0%
+aborted
+ 
+
+00:01:48.640 --> 00:01:50.950 align:start position:0%
+aborted
+as<00:01:48.799><c> far</c><00:01:49.119><c> as</c><00:01:49.439><c> consistency</c><00:01:50.079><c> goes</c><00:01:50.479><c> this</c><00:01:50.720><c> is</c>
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+as far as consistency goes this is
+ 
+
+00:01:50.960 --> 00:01:53.190 align:start position:0%
+as far as consistency goes this is
+basically<00:01:51.439><c> just</c><00:01:51.680><c> saying</c><00:01:52.159><c> that</c><00:01:52.479><c> the</c><00:01:52.640><c> database</c>
+
+00:01:53.190 --> 00:01:53.200 align:start position:0%
+basically just saying that the database
+ 
+
+00:01:53.200 --> 00:01:55.109 align:start position:0%
+basically just saying that the database
+is<00:01:53.280><c> going</c><00:01:53.360><c> to</c><00:01:53.439><c> do</c><00:01:53.600><c> what</c><00:01:53.759><c> it's</c><00:01:53.920><c> supposed</c><00:01:54.240><c> to</c>
+
+00:01:55.109 --> 00:01:55.119 align:start position:0%
+is going to do what it's supposed to
+ 
+
+00:01:55.119 --> 00:01:57.270 align:start position:0%
+is going to do what it's supposed to
+if<00:01:55.360><c> a</c><00:01:55.439><c> transaction</c><00:01:56.079><c> works</c><00:01:56.880><c> it's</c><00:01:57.119><c> going</c><00:01:57.200><c> to</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+if a transaction works it's going to
+ 
+
+00:01:57.280 --> 00:01:58.389 align:start position:0%
+if a transaction works it's going to
+stay<00:01:57.520><c> that</c><00:01:57.680><c> way</c><00:01:57.840><c> it's</c><00:01:58.000><c> not</c><00:01:58.159><c> going</c><00:01:58.240><c> to</c><00:01:58.320><c> be</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+stay that way it's not going to be
+ 
+
+00:01:58.399 --> 00:02:00.469 align:start position:0%
+stay that way it's not going to be
+partially<00:01:58.880><c> complete</c><00:01:59.200><c> or</c><00:01:59.360><c> anything</c><00:02:00.000><c> and</c><00:02:00.240><c> as</c><00:02:00.399><c> a</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+partially complete or anything and as a
+ 
+
+00:02:00.479 --> 00:02:01.749 align:start position:0%
+partially complete or anything and as a
+result<00:02:00.799><c> you</c><00:02:00.960><c> can</c><00:02:01.119><c> expect</c><00:02:01.439><c> that</c><00:02:01.600><c> your</c>
+
+00:02:01.749 --> 00:02:01.759 align:start position:0%
+result you can expect that your
+ 
+
+00:02:01.759 --> 00:02:03.429 align:start position:0%
+result you can expect that your
+invariants<00:02:02.399><c> about</c><00:02:02.560><c> the</c><00:02:02.640><c> data</c><00:02:03.040><c> are</c><00:02:03.200><c> going</c><00:02:03.360><c> to</c>
+
+00:02:03.429 --> 00:02:03.439 align:start position:0%
+invariants about the data are going to
+ 
+
+00:02:03.439 --> 00:02:05.590 align:start position:0%
+invariants about the data are going to
+hold<00:02:03.840><c> even</c><00:02:04.079><c> in</c><00:02:04.240><c> the</c><00:02:04.320><c> face</c><00:02:04.560><c> of</c><00:02:04.719><c> faults</c><00:02:05.280><c> if</c><00:02:05.439><c> there</c>
+
+00:02:05.590 --> 00:02:05.600 align:start position:0%
+hold even in the face of faults if there
+ 
+
+00:02:05.600 --> 00:02:07.190 align:start position:0%
+hold even in the face of faults if there
+is<00:02:05.759><c> a</c><00:02:05.840><c> fault</c><00:02:06.240><c> the</c><00:02:06.399><c> transaction</c><00:02:06.880><c> is</c><00:02:06.960><c> just</c><00:02:07.119><c> going</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+is a fault the transaction is just going
+ 
+
+00:02:07.200 --> 00:02:08.469 align:start position:0%
+is a fault the transaction is just going
+to<00:02:07.280><c> get</c><00:02:07.439><c> aborted</c><00:02:07.840><c> and</c><00:02:08.000><c> there's</c><00:02:08.160><c> not</c><00:02:08.319><c> going</c><00:02:08.399><c> to</c>
+
+00:02:08.469 --> 00:02:08.479 align:start position:0%
+to get aborted and there's not going to
+ 
+
+00:02:08.479 --> 00:02:11.270 align:start position:0%
+to get aborted and there's not going to
+be<00:02:08.560><c> any</c><00:02:08.720><c> side</c><00:02:08.959><c> effects</c><00:02:09.520><c> so</c><00:02:09.759><c> all</c><00:02:10.000><c> is</c><00:02:10.080><c> well</c>
+
+00:02:11.270 --> 00:02:11.280 align:start position:0%
+be any side effects so all is well
+ 
+
+00:02:11.280 --> 00:02:13.030 align:start position:0%
+be any side effects so all is well
+the<00:02:11.440><c> next</c><00:02:11.680><c> one</c><00:02:12.400><c> which</c><00:02:12.560><c> we're</c><00:02:12.720><c> going</c><00:02:12.800><c> to</c><00:02:12.879><c> be</c>
+
+00:02:13.030 --> 00:02:13.040 align:start position:0%
+the next one which we're going to be
+ 
+
+00:02:13.040 --> 00:02:15.030 align:start position:0%
+the next one which we're going to be
+discussing<00:02:13.520><c> a</c><00:02:13.599><c> lot</c><00:02:13.760><c> more</c><00:02:13.920><c> in</c><00:02:14.080><c> detail</c><00:02:14.800><c> is</c>
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+discussing a lot more in detail is
+ 
+
+00:02:15.040 --> 00:02:17.270 align:start position:0%
+discussing a lot more in detail is
+isolation<00:02:16.080><c> isolation</c><00:02:16.800><c> means</c><00:02:17.040><c> that</c>
+
+00:02:17.270 --> 00:02:17.280 align:start position:0%
+isolation isolation means that
+ 
+
+00:02:17.280 --> 00:02:19.510 align:start position:0%
+isolation isolation means that
+concurrently<00:02:17.840><c> executing</c><00:02:18.400><c> transactions</c><00:02:19.280><c> can</c>
+
+00:02:19.510 --> 00:02:19.520 align:start position:0%
+concurrently executing transactions can
+ 
+
+00:02:19.520 --> 00:02:21.430 align:start position:0%
+concurrently executing transactions can
+act<00:02:19.840><c> as</c><00:02:20.000><c> if</c><00:02:20.080><c> they're</c><00:02:20.319><c> the</c><00:02:20.480><c> only</c><00:02:20.800><c> one</c><00:02:21.040><c> currently</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+act as if they're the only one currently
+ 
+
+00:02:21.440 --> 00:02:23.589 align:start position:0%
+act as if they're the only one currently
+performing<00:02:21.920><c> an</c><00:02:22.080><c> operation</c><00:02:22.560><c> on</c><00:02:22.640><c> the</c><00:02:22.720><c> data</c><00:02:23.440><c> we</c>
+
+00:02:23.589 --> 00:02:23.599 align:start position:0%
+performing an operation on the data we
+ 
+
+00:02:23.599 --> 00:02:24.869 align:start position:0%
+performing an operation on the data we
+don't<00:02:23.840><c> have</c><00:02:24.000><c> to</c><00:02:24.080><c> worry</c><00:02:24.400><c> about</c><00:02:24.640><c> race</c>
+
+00:02:24.869 --> 00:02:24.879 align:start position:0%
+don't have to worry about race
+ 
+
+00:02:24.879 --> 00:02:26.710 align:start position:0%
+don't have to worry about race
+conditions<00:02:25.599><c> we</c><00:02:25.760><c> don't</c><00:02:25.920><c> have</c><00:02:26.080><c> to</c><00:02:26.160><c> worry</c><00:02:26.480><c> about</c>
+
+00:02:26.710 --> 00:02:26.720 align:start position:0%
+conditions we don't have to worry about
+ 
+
+00:02:26.720 --> 00:02:28.710 align:start position:0%
+conditions we don't have to worry about
+interleaved<00:02:27.360><c> transactions</c><00:02:28.319><c> and</c><00:02:28.400><c> we</c><00:02:28.560><c> don't</c>
+
+00:02:28.710 --> 00:02:28.720 align:start position:0%
+interleaved transactions and we don't
+ 
+
+00:02:28.720 --> 00:02:30.309 align:start position:0%
+interleaved transactions and we don't
+have<00:02:28.879><c> to</c><00:02:28.959><c> worry</c><00:02:29.200><c> about</c><00:02:29.440><c> anything</c><00:02:29.760><c> like</c><00:02:30.000><c> lost</c>
+
+00:02:30.309 --> 00:02:30.319 align:start position:0%
+have to worry about anything like lost
+ 
+
+00:02:30.319 --> 00:02:31.670 align:start position:0%
+have to worry about anything like lost
+updates
+
+00:02:31.670 --> 00:02:31.680 align:start position:0%
+updates
+ 
+
+00:02:31.680 --> 00:02:33.750 align:start position:0%
+updates
+isolation<00:02:32.480><c> is</c><00:02:32.640><c> kind</c><00:02:32.879><c> of</c><00:02:33.040><c> the</c><00:02:33.120><c> main</c><00:02:33.360><c> reason</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+isolation is kind of the main reason
+ 
+
+00:02:33.760 --> 00:02:35.750 align:start position:0%
+isolation is kind of the main reason
+that<00:02:34.000><c> transactions</c><00:02:34.720><c> take</c><00:02:34.879><c> a</c><00:02:34.959><c> big</c><00:02:35.200><c> performance</c>
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+that transactions take a big performance
+ 
+
+00:02:35.760 --> 00:02:37.270 align:start position:0%
+that transactions take a big performance
+penalty<00:02:36.239><c> on</c><00:02:36.319><c> the</c><00:02:36.400><c> database</c><00:02:36.959><c> and</c><00:02:37.120><c> we'll</c>
+
+00:02:37.270 --> 00:02:37.280 align:start position:0%
+penalty on the database and we'll
+ 
+
+00:02:37.280 --> 00:02:39.830 align:start position:0%
+penalty on the database and we'll
+discuss<00:02:37.680><c> that</c><00:02:37.920><c> in</c><00:02:38.160><c> depth</c><00:02:38.480><c> a</c><00:02:38.560><c> little</c><00:02:38.720><c> bit</c><00:02:38.879><c> more</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+discuss that in depth a little bit more
+ 
+
+00:02:39.840 --> 00:02:41.509 align:start position:0%
+discuss that in depth a little bit more
+finally<00:02:40.239><c> there's</c><00:02:40.480><c> durability</c><00:02:41.200><c> once</c><00:02:41.440><c> a</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+finally there's durability once a
+ 
+
+00:02:41.519 --> 00:02:44.070 align:start position:0%
+finally there's durability once a
+transaction<00:02:42.080><c> is</c><00:02:42.239><c> complete</c><00:02:43.040><c> it's</c><00:02:43.200><c> on</c><00:02:43.360><c> the</c><00:02:43.440><c> disk</c>
+
+00:02:44.070 --> 00:02:44.080 align:start position:0%
+transaction is complete it's on the disk
+ 
+
+00:02:44.080 --> 00:02:45.910 align:start position:0%
+transaction is complete it's on the disk
+i<00:02:44.239><c> mean</c><00:02:44.400><c> in</c><00:02:44.560><c> theory</c><00:02:44.959><c> sure</c><00:02:45.200><c> if</c><00:02:45.360><c> i</c><00:02:45.440><c> came</c><00:02:45.680><c> along</c>
+
+00:02:45.910 --> 00:02:45.920 align:start position:0%
+i mean in theory sure if i came along
+ 
+
+00:02:45.920 --> 00:02:47.430 align:start position:0%
+i mean in theory sure if i came along
+with<00:02:46.080><c> a</c><00:02:46.160><c> hammer</c><00:02:46.560><c> and</c><00:02:46.640><c> broke</c><00:02:46.879><c> the</c><00:02:46.959><c> disk</c><00:02:47.280><c> it's</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+with a hammer and broke the disk it's
+ 
+
+00:02:47.440 --> 00:02:49.589 align:start position:0%
+with a hammer and broke the disk it's
+not<00:02:47.680><c> durable</c><00:02:48.480><c> but</c><00:02:48.720><c> you</c><00:02:48.879><c> can</c><00:02:49.040><c> only</c><00:02:49.280><c> make</c><00:02:49.440><c> so</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+not durable but you can only make so
+ 
+
+00:02:49.599 --> 00:02:51.509 align:start position:0%
+not durable but you can only make so
+many<00:02:49.840><c> guarantees</c><00:02:50.560><c> and</c><00:02:50.640><c> the</c><00:02:50.800><c> point</c><00:02:51.120><c> is</c><00:02:51.360><c> you</c>
+
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+many guarantees and the point is you
+ 
+
+00:02:51.519 --> 00:02:53.430 align:start position:0%
+many guarantees and the point is you
+know<00:02:51.760><c> it's</c><00:02:52.080><c> durable</c><00:02:52.480><c> to</c><00:02:52.640><c> the</c><00:02:52.800><c> extent</c><00:02:53.200><c> that</c><00:02:53.360><c> the</c>
+
+00:02:53.430 --> 00:02:53.440 align:start position:0%
+know it's durable to the extent that the
+ 
+
+00:02:53.440 --> 00:02:56.710 align:start position:0%
+know it's durable to the extent that the
+hard<00:02:53.760><c> drive</c><00:02:54.000><c> it's</c><00:02:54.160><c> written</c><00:02:54.480><c> on</c><00:02:54.640><c> is</c><00:02:54.800><c> terrible</c>
+
+00:02:56.710 --> 00:02:56.720 align:start position:0%
+hard drive it's written on is terrible
+ 
+
+00:02:56.720 --> 00:02:58.949 align:start position:0%
+hard drive it's written on is terrible
+okay<00:02:57.200><c> so</c><00:02:57.440><c> now</c><00:02:57.680><c> how</c><00:02:57.920><c> are</c><00:02:58.000><c> we</c><00:02:58.159><c> going</c><00:02:58.319><c> to</c><00:02:58.560><c> actually</c>
+
+00:02:58.949 --> 00:02:58.959 align:start position:0%
+okay so now how are we going to actually
+ 
+
+00:02:58.959 --> 00:03:01.110 align:start position:0%
+okay so now how are we going to actually
+implement<00:02:59.360><c> isolation</c><00:03:00.000><c> because</c><00:03:00.159><c> like</c><00:03:00.400><c> i</c><00:03:00.560><c> said</c>
+
+00:03:01.110 --> 00:03:01.120 align:start position:0%
+implement isolation because like i said
+ 
+
+00:03:01.120 --> 00:03:03.110 align:start position:0%
+implement isolation because like i said
+isolation<00:03:01.680><c> is</c><00:03:01.840><c> kind</c><00:03:02.000><c> of</c><00:03:02.080><c> the</c><00:03:02.239><c> toughest</c><00:03:02.640><c> part</c>
+
+00:03:03.110 --> 00:03:03.120 align:start position:0%
+isolation is kind of the toughest part
+ 
+
+00:03:03.120 --> 00:03:04.710 align:start position:0%
+isolation is kind of the toughest part
+it's<00:03:03.360><c> basically</c><00:03:03.840><c> saying</c><00:03:04.159><c> there</c><00:03:04.319><c> can</c><00:03:04.480><c> be</c><00:03:04.640><c> a</c>
+
+00:03:04.710 --> 00:03:04.720 align:start position:0%
+it's basically saying there can be a
+ 
+
+00:03:04.720 --> 00:03:06.710 align:start position:0%
+it's basically saying there can be a
+bunch<00:03:04.959><c> of</c><00:03:05.120><c> concurrent</c><00:03:05.599><c> threads</c><00:03:06.159><c> operating</c><00:03:06.640><c> on</c>
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+bunch of concurrent threads operating on
+ 
+
+00:03:06.720 --> 00:03:08.790 align:start position:0%
+bunch of concurrent threads operating on
+a<00:03:06.800><c> database</c><00:03:07.599><c> and</c><00:03:07.760><c> we're</c><00:03:07.920><c> not</c><00:03:08.159><c> going</c><00:03:08.400><c> to</c><00:03:08.480><c> have</c>
+
+00:03:08.790 --> 00:03:08.800 align:start position:0%
+a database and we're not going to have
+ 
+
+00:03:08.800 --> 00:03:10.550 align:start position:0%
+a database and we're not going to have
+any<00:03:09.040><c> concurrency</c><00:03:09.680><c> bugs</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+any concurrency bugs
+ 
+
+00:03:10.560 --> 00:03:12.949 align:start position:0%
+any concurrency bugs
+isolation<00:03:11.200><c> insinuates</c><00:03:12.000><c> that</c><00:03:12.239><c> you</c><00:03:12.480><c> don't</c><00:03:12.720><c> have</c>
+
+00:03:12.949 --> 00:03:12.959 align:start position:0%
+isolation insinuates that you don't have
+ 
+
+00:03:12.959 --> 00:03:15.350 align:start position:0%
+isolation insinuates that you don't have
+to<00:03:13.120><c> worry</c><00:03:13.360><c> about</c><00:03:13.680><c> the</c><00:03:14.000><c> um</c><00:03:14.560><c> you</c><00:03:14.720><c> know</c><00:03:14.959><c> like</c><00:03:15.200><c> the</c>
+
+00:03:15.350 --> 00:03:15.360 align:start position:0%
+to worry about the um you know like the
+ 
+
+00:03:15.360 --> 00:03:17.270 align:start position:0%
+to worry about the um you know like the
+actual<00:03:15.840><c> ordering</c><00:03:16.400><c> of</c><00:03:16.560><c> each</c><00:03:16.800><c> right</c><00:03:17.120><c> in</c><00:03:17.200><c> the</c>
+
+00:03:17.270 --> 00:03:17.280 align:start position:0%
+actual ordering of each right in the
+ 
+
+00:03:17.280 --> 00:03:18.869 align:start position:0%
+actual ordering of each right in the
+transaction
+
+00:03:18.869 --> 00:03:18.879 align:start position:0%
+transaction
+ 
+
+00:03:18.879 --> 00:03:20.869 align:start position:0%
+transaction
+amongst<00:03:19.440><c> two</c><00:03:19.680><c> transactions</c><00:03:20.400><c> we</c><00:03:20.560><c> just</c><00:03:20.720><c> know</c>
+
+00:03:20.869 --> 00:03:20.879 align:start position:0%
+amongst two transactions we just know
+ 
+
+00:03:20.879 --> 00:03:22.949 align:start position:0%
+amongst two transactions we just know
+that<00:03:21.120><c> it's</c><00:03:21.280><c> going</c><00:03:21.360><c> to</c><00:03:21.440><c> work</c><00:03:22.159><c> so</c><00:03:22.400><c> first</c><00:03:22.720><c> let's</c>
+
+00:03:22.949 --> 00:03:22.959 align:start position:0%
+that it's going to work so first let's
+ 
+
+00:03:22.959 --> 00:03:25.190 align:start position:0%
+that it's going to work so first let's
+talk<00:03:23.200><c> about</c><00:03:23.519><c> actual</c><00:03:23.920><c> serial</c><00:03:24.319><c> execution</c><00:03:24.959><c> which</c>
+
+00:03:25.190 --> 00:03:25.200 align:start position:0%
+talk about actual serial execution which
+ 
+
+00:03:25.200 --> 00:03:27.990 align:start position:0%
+talk about actual serial execution which
+is<00:03:25.280><c> the</c><00:03:25.440><c> simplest</c><00:03:25.920><c> way</c><00:03:26.239><c> to</c><00:03:26.400><c> implement</c><00:03:26.799><c> this</c>
+
+00:03:27.990 --> 00:03:28.000 align:start position:0%
+is the simplest way to implement this
+ 
+
+00:03:28.000 --> 00:03:30.309 align:start position:0%
+is the simplest way to implement this
+actual<00:03:28.319><c> serial</c><00:03:28.720><c> execution</c><00:03:29.519><c> is</c><00:03:29.680><c> saying</c><00:03:30.000><c> this</c>
+
+00:03:30.309 --> 00:03:30.319 align:start position:0%
+actual serial execution is saying this
+ 
+
+00:03:30.319 --> 00:03:32.229 align:start position:0%
+actual serial execution is saying this
+we're<00:03:30.640><c> only</c><00:03:30.879><c> going</c><00:03:31.120><c> to</c><00:03:31.280><c> actually</c><00:03:31.599><c> have</c><00:03:31.920><c> one</c>
+
+00:03:32.229 --> 00:03:32.239 align:start position:0%
+we're only going to actually have one
+ 
+
+00:03:32.239 --> 00:03:34.149 align:start position:0%
+we're only going to actually have one
+thread<00:03:32.560><c> running</c><00:03:32.879><c> on</c><00:03:32.959><c> a</c><00:03:33.040><c> database</c>
+
+00:03:34.149 --> 00:03:34.159 align:start position:0%
+thread running on a database
+ 
+
+00:03:34.159 --> 00:03:36.070 align:start position:0%
+thread running on a database
+it<00:03:34.319><c> means</c><00:03:34.560><c> that</c><00:03:34.799><c> all</c><00:03:35.040><c> of</c><00:03:35.120><c> those</c><00:03:35.440><c> queries</c><00:03:35.920><c> are</c>
+
+00:03:36.070 --> 00:03:36.080 align:start position:0%
+it means that all of those queries are
+ 
+
+00:03:36.080 --> 00:03:38.710 align:start position:0%
+it means that all of those queries are
+going<00:03:36.319><c> to</c><00:03:36.400><c> be</c><00:03:36.560><c> run</c><00:03:36.879><c> on</c><00:03:37.040><c> a</c><00:03:37.120><c> single</c><00:03:37.440><c> cpu</c><00:03:37.920><c> core</c><00:03:38.560><c> and</c>
+
+00:03:38.710 --> 00:03:38.720 align:start position:0%
+going to be run on a single cpu core and
+ 
+
+00:03:38.720 --> 00:03:40.390 align:start position:0%
+going to be run on a single cpu core and
+it's<00:03:38.879><c> only</c><00:03:39.200><c> possible</c><00:03:39.680><c> under</c><00:03:39.920><c> the</c><00:03:40.000><c> following</c>
+
+00:03:40.390 --> 00:03:40.400 align:start position:0%
+it's only possible under the following
+ 
+
+00:03:40.400 --> 00:03:41.509 align:start position:0%
+it's only possible under the following
+conditions
+
+00:03:41.509 --> 00:03:41.519 align:start position:0%
+conditions
+ 
+
+00:03:41.519 --> 00:03:43.589 align:start position:0%
+conditions
+a<00:03:41.920><c> all</c><00:03:42.159><c> of</c><00:03:42.239><c> the</c><00:03:42.319><c> data</c><00:03:42.720><c> in</c><00:03:42.799><c> the</c><00:03:42.879><c> database</c><00:03:43.440><c> is</c>
+
+00:03:43.589 --> 00:03:43.599 align:start position:0%
+a all of the data in the database is
+ 
+
+00:03:43.599 --> 00:03:45.990 align:start position:0%
+a all of the data in the database is
+stored<00:03:44.000><c> in</c><00:03:44.159><c> memory</c><00:03:44.879><c> why</c><00:03:45.120><c> is</c><00:03:45.200><c> this</c><00:03:45.440><c> the</c><00:03:45.519><c> case</c>
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+stored in memory why is this the case
+ 
+
+00:03:46.000 --> 00:03:47.910 align:start position:0%
+stored in memory why is this the case
+well<00:03:46.319><c> if</c><00:03:46.480><c> you</c><00:03:46.640><c> had</c><00:03:46.799><c> to</c><00:03:47.120><c> keep</c><00:03:47.280><c> making</c><00:03:47.680><c> all</c><00:03:47.840><c> of</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+well if you had to keep making all of
+ 
+
+00:03:47.920 --> 00:03:49.990 align:start position:0%
+well if you had to keep making all of
+these<00:03:48.159><c> disk</c><00:03:48.480><c> reads</c><00:03:48.720><c> and</c><00:03:48.799><c> disk</c><00:03:49.120><c> writes</c><00:03:49.760><c> those</c>
+
+00:03:49.990 --> 00:03:50.000 align:start position:0%
+these disk reads and disk writes those
+ 
+
+00:03:50.000 --> 00:03:51.990 align:start position:0%
+these disk reads and disk writes those
+take<00:03:50.319><c> too</c><00:03:50.480><c> long</c><00:03:50.959><c> so</c><00:03:51.120><c> the</c><00:03:51.280><c> only</c><00:03:51.519><c> way</c><00:03:51.760><c> that</c><00:03:51.840><c> we</c>
+
+00:03:51.990 --> 00:03:52.000 align:start position:0%
+take too long so the only way that we
+ 
+
+00:03:52.000 --> 00:03:53.589 align:start position:0%
+take too long so the only way that we
+can<00:03:52.159><c> actually</c><00:03:52.560><c> get</c><00:03:52.720><c> the</c><00:03:52.879><c> throughput</c><00:03:53.280><c> that</c><00:03:53.439><c> we</c>
+
+00:03:53.589 --> 00:03:53.599 align:start position:0%
+can actually get the throughput that we
+ 
+
+00:03:53.599 --> 00:03:55.990 align:start position:0%
+can actually get the throughput that we
+need<00:03:53.840><c> on</c><00:03:53.920><c> a</c><00:03:54.000><c> single</c><00:03:54.319><c> cpu</c><00:03:54.879><c> core</c><00:03:55.360><c> is</c><00:03:55.519><c> if</c><00:03:55.760><c> all</c><00:03:55.920><c> the</c>
+
+00:03:55.990 --> 00:03:56.000 align:start position:0%
+need on a single cpu core is if all the
+ 
+
+00:03:56.000 --> 00:03:57.750 align:start position:0%
+need on a single cpu core is if all the
+data<00:03:56.319><c> is</c><00:03:56.400><c> in</c><00:03:56.560><c> memory</c><00:03:57.200><c> there</c><00:03:57.360><c> are</c><00:03:57.439><c> some</c><00:03:57.599><c> pretty</c>
+
+00:03:57.750 --> 00:03:57.760 align:start position:0%
+data is in memory there are some pretty
+ 
+
+00:03:57.760 --> 00:04:00.710 align:start position:0%
+data is in memory there are some pretty
+popular<00:03:58.319><c> in-memory</c><00:03:58.720><c> databases</c><00:03:59.680><c> like</c><00:04:00.319><c> redis</c>
+
+00:04:00.710 --> 00:04:00.720 align:start position:0%
+popular in-memory databases like redis
+ 
+
+00:04:00.720 --> 00:04:03.030 align:start position:0%
+popular in-memory databases like redis
+and<00:04:00.879><c> memcached</c><00:04:01.840><c> and</c><00:04:02.000><c> as</c><00:04:02.159><c> a</c><00:04:02.239><c> result</c><00:04:02.720><c> using</c>
+
+00:04:03.030 --> 00:04:03.040 align:start position:0%
+and memcached and as a result using
+ 
+
+00:04:03.040 --> 00:04:04.630 align:start position:0%
+and memcached and as a result using
+things<00:04:03.280><c> like</c><00:04:03.519><c> that</c><00:04:03.760><c> we</c><00:04:03.920><c> could</c><00:04:04.159><c> maybe</c><00:04:04.480><c> make</c>
+
+00:04:04.630 --> 00:04:04.640 align:start position:0%
+things like that we could maybe make
+ 
+
+00:04:04.640 --> 00:04:06.149 align:start position:0%
+things like that we could maybe make
+this<00:04:04.959><c> actually</c><00:04:05.280><c> work</c>
+
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+this actually work
+ 
+
+00:04:06.159 --> 00:04:07.509 align:start position:0%
+this actually work
+another<00:04:06.480><c> thing</c><00:04:06.720><c> is</c><00:04:06.879><c> that</c><00:04:06.959><c> you</c><00:04:07.120><c> have</c><00:04:07.280><c> to</c><00:04:07.360><c> use</c>
+
+00:04:07.509 --> 00:04:07.519 align:start position:0%
+another thing is that you have to use
+ 
+
+00:04:07.519 --> 00:04:09.589 align:start position:0%
+another thing is that you have to use
+stored<00:04:07.840><c> procedures</c><00:04:08.879><c> typically</c><00:04:09.280><c> what</c><00:04:09.439><c> you</c>
+
+00:04:09.589 --> 00:04:09.599 align:start position:0%
+stored procedures typically what you
+ 
+
+00:04:09.599 --> 00:04:11.750 align:start position:0%
+stored procedures typically what you
+would<00:04:09.760><c> do</c><00:04:10.080><c> when</c><00:04:10.319><c> using</c><00:04:10.560><c> a</c><00:04:10.720><c> transaction</c><00:04:11.439><c> is</c><00:04:11.599><c> go</c>
+
+00:04:11.750 --> 00:04:11.760 align:start position:0%
+would do when using a transaction is go
+ 
+
+00:04:11.760 --> 00:04:13.589 align:start position:0%
+would do when using a transaction is go
+ahead<00:04:12.000><c> and</c><00:04:12.159><c> actually</c><00:04:12.480><c> pass</c><00:04:12.799><c> the</c><00:04:12.879><c> database</c><00:04:13.519><c> you</c>
+
+00:04:13.589 --> 00:04:13.599 align:start position:0%
+ahead and actually pass the database you
+ 
+
+00:04:13.599 --> 00:04:15.190 align:start position:0%
+ahead and actually pass the database you
+know<00:04:13.840><c> something</c><00:04:14.159><c> like</c><00:04:14.319><c> sql</c><00:04:14.640><c> instructions</c>
+
+00:04:15.190 --> 00:04:15.200 align:start position:0%
+know something like sql instructions
+ 
+
+00:04:15.200 --> 00:04:16.550 align:start position:0%
+know something like sql instructions
+over<00:04:15.439><c> the</c><00:04:15.519><c> network</c>
+
+00:04:16.550 --> 00:04:16.560 align:start position:0%
+over the network
+ 
+
+00:04:16.560 --> 00:04:18.949 align:start position:0%
+over the network
+however<00:04:17.359><c> just</c><00:04:17.519><c> by</c><00:04:17.759><c> virtue</c><00:04:18.160><c> of</c><00:04:18.320><c> even</c><00:04:18.560><c> passing</c>
+
+00:04:18.949 --> 00:04:18.959 align:start position:0%
+however just by virtue of even passing
+ 
+
+00:04:18.959 --> 00:04:20.629 align:start position:0%
+however just by virtue of even passing
+those<00:04:19.199><c> instructions</c><00:04:19.759><c> over</c><00:04:20.000><c> the</c><00:04:20.079><c> network</c>
+
+00:04:20.629 --> 00:04:20.639 align:start position:0%
+those instructions over the network
+ 
+
+00:04:20.639 --> 00:04:22.390 align:start position:0%
+those instructions over the network
+we're<00:04:20.799><c> wasting</c><00:04:21.199><c> a</c><00:04:21.280><c> lot</c><00:04:21.440><c> of</c><00:04:21.600><c> time</c><00:04:21.919><c> that</c><00:04:22.079><c> we</c><00:04:22.240><c> need</c>
+
+00:04:22.390 --> 00:04:22.400 align:start position:0%
+we're wasting a lot of time that we need
+ 
+
+00:04:22.400 --> 00:04:24.710 align:start position:0%
+we're wasting a lot of time that we need
+the<00:04:22.560><c> cpu</c><00:04:23.040><c> to</c><00:04:23.199><c> be</c><00:04:23.280><c> doing</c><00:04:23.600><c> operations</c><00:04:24.560><c> so</c>
+
+00:04:24.710 --> 00:04:24.720 align:start position:0%
+the cpu to be doing operations so
+ 
+
+00:04:24.720 --> 00:04:27.030 align:start position:0%
+the cpu to be doing operations so
+instead<00:04:25.120><c> what</c><00:04:25.280><c> we</c><00:04:25.520><c> actually</c><00:04:25.919><c> do</c><00:04:26.320><c> is</c><00:04:26.479><c> store</c><00:04:26.800><c> the</c>
+
+00:04:27.030 --> 00:04:27.040 align:start position:0%
+instead what we actually do is store the
+ 
+
+00:04:27.040 --> 00:04:29.510 align:start position:0%
+instead what we actually do is store the
+transaction<00:04:27.759><c> in</c><00:04:28.000><c> advance</c><00:04:28.560><c> on</c><00:04:28.720><c> the</c><00:04:28.880><c> database</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+transaction in advance on the database
+ 
+
+00:04:29.520 --> 00:04:31.590 align:start position:0%
+transaction in advance on the database
+as<00:04:29.680><c> something</c><00:04:30.000><c> called</c><00:04:30.160><c> a</c><00:04:30.320><c> stored</c><00:04:30.560><c> procedure</c>
+
+00:04:31.590 --> 00:04:31.600 align:start position:0%
+as something called a stored procedure
+ 
+
+00:04:31.600 --> 00:04:33.030 align:start position:0%
+as something called a stored procedure
+and<00:04:31.680><c> then</c><00:04:31.919><c> you</c><00:04:32.000><c> would</c><00:04:32.240><c> end</c><00:04:32.400><c> up</c><00:04:32.560><c> calling</c><00:04:32.880><c> that</c>
+
+00:04:33.030 --> 00:04:33.040 align:start position:0%
+and then you would end up calling that
+ 
+
+00:04:33.040 --> 00:04:35.030 align:start position:0%
+and then you would end up calling that
+stored<00:04:33.360><c> procedure</c><00:04:34.160><c> there</c><00:04:34.320><c> are</c><00:04:34.400><c> a</c><00:04:34.479><c> few</c><00:04:34.720><c> issues</c>
+
+00:04:35.030 --> 00:04:35.040 align:start position:0%
+stored procedure there are a few issues
+ 
+
+00:04:35.040 --> 00:04:37.350 align:start position:0%
+stored procedure there are a few issues
+with<00:04:35.199><c> this</c><00:04:35.600><c> one</c><00:04:36.000><c> is</c><00:04:36.240><c> that</c><00:04:36.560><c> it</c><00:04:36.800><c> implies</c><00:04:37.199><c> that</c>
+
+00:04:37.350 --> 00:04:37.360 align:start position:0%
+with this one is that it implies that
+ 
+
+00:04:37.360 --> 00:04:38.790 align:start position:0%
+with this one is that it implies that
+you<00:04:37.520><c> already</c><00:04:37.840><c> know</c><00:04:38.000><c> in</c><00:04:38.160><c> advance</c><00:04:38.560><c> what</c>
+
+00:04:38.790 --> 00:04:38.800 align:start position:0%
+you already know in advance what
+ 
+
+00:04:38.800 --> 00:04:40.390 align:start position:0%
+you already know in advance what
+transactions<00:04:39.360><c> you're</c><00:04:39.520><c> going</c><00:04:39.600><c> to</c><00:04:39.680><c> be</c><00:04:39.759><c> doing</c>
+
+00:04:40.390 --> 00:04:40.400 align:start position:0%
+transactions you're going to be doing
+ 
+
+00:04:40.400 --> 00:04:42.629 align:start position:0%
+transactions you're going to be doing
+and<00:04:40.639><c> secondly</c><00:04:41.280><c> and</c><00:04:41.759><c> possibly</c><00:04:42.240><c> even</c><00:04:42.400><c> more</c>
+
+00:04:42.629 --> 00:04:42.639 align:start position:0%
+and secondly and possibly even more
+ 
+
+00:04:42.639 --> 00:04:44.230 align:start position:0%
+and secondly and possibly even more
+importantly<00:04:43.120><c> is</c><00:04:43.280><c> that</c><00:04:43.440><c> stored</c><00:04:43.759><c> procedures</c>
+
+00:04:44.230 --> 00:04:44.240 align:start position:0%
+importantly is that stored procedures
+ 
+
+00:04:44.240 --> 00:04:46.390 align:start position:0%
+importantly is that stored procedures
+are<00:04:44.320><c> kind</c><00:04:44.479><c> of</c><00:04:44.639><c> an</c><00:04:44.800><c> afterthought</c><00:04:45.360><c> by</c><00:04:45.520><c> databases</c>
+
+00:04:46.390 --> 00:04:46.400 align:start position:0%
+are kind of an afterthought by databases
+ 
+
+00:04:46.400 --> 00:04:47.990 align:start position:0%
+are kind of an afterthought by databases
+they're<00:04:46.639><c> hard</c><00:04:46.800><c> to</c><00:04:46.960><c> version</c><00:04:47.280><c> control</c><00:04:47.759><c> and</c><00:04:47.840><c> for</c>
+
+00:04:47.990 --> 00:04:48.000 align:start position:0%
+they're hard to version control and for
+ 
+
+00:04:48.000 --> 00:04:49.749 align:start position:0%
+they're hard to version control and for
+the<00:04:48.080><c> most</c><00:04:48.240><c> part</c><00:04:48.560><c> a</c><00:04:48.639><c> lot</c><00:04:48.800><c> of</c><00:04:48.880><c> databases</c><00:04:49.520><c> don't</c>
+
+00:04:49.749 --> 00:04:49.759 align:start position:0%
+the most part a lot of databases don't
+ 
+
+00:04:49.759 --> 00:04:51.510 align:start position:0%
+the most part a lot of databases don't
+use<00:04:50.000><c> a</c><00:04:50.080><c> popular</c><00:04:50.560><c> language</c><00:04:50.960><c> in</c><00:04:51.040><c> order</c><00:04:51.280><c> to</c><00:04:51.360><c> write</c>
+
+00:04:51.510 --> 00:04:51.520 align:start position:0%
+use a popular language in order to write
+ 
+
+00:04:51.520 --> 00:04:53.350 align:start position:0%
+use a popular language in order to write
+stored<00:04:51.840><c> procedures</c><00:04:52.560><c> which</c><00:04:52.800><c> make</c><00:04:52.960><c> them</c><00:04:53.199><c> pretty</c>
+
+00:04:53.350 --> 00:04:53.360 align:start position:0%
+stored procedures which make them pretty
+ 
+
+00:04:53.360 --> 00:04:55.590 align:start position:0%
+stored procedures which make them pretty
+annoying<00:04:53.759><c> as</c><00:04:53.919><c> developers</c><00:04:54.479><c> to</c><00:04:54.560><c> work</c><00:04:54.800><c> with</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+annoying as developers to work with
+ 
+
+00:04:55.600 --> 00:04:56.790 align:start position:0%
+annoying as developers to work with
+finally
+
+00:04:56.790 --> 00:04:56.800 align:start position:0%
+finally
+ 
+
+00:04:56.800 --> 00:04:58.390 align:start position:0%
+finally
+and<00:04:56.960><c> this</c><00:04:57.199><c> is</c><00:04:57.440><c> kind</c><00:04:57.680><c> of</c>
+
+00:04:58.390 --> 00:04:58.400 align:start position:0%
+and this is kind of
+ 
+
+00:04:58.400 --> 00:04:59.670 align:start position:0%
+and this is kind of
+more<00:04:58.560><c> of</c><00:04:58.639><c> an</c><00:04:58.880><c> optional</c><00:04:59.199><c> thing</c><00:04:59.360><c> but</c><00:04:59.520><c> it</c><00:04:59.600><c> would</c>
+
+00:04:59.670 --> 00:04:59.680 align:start position:0%
+more of an optional thing but it would
+ 
+
+00:04:59.680 --> 00:05:01.670 align:start position:0%
+more of an optional thing but it would
+help<00:04:59.919><c> a</c><00:05:00.000><c> lot</c><00:05:00.320><c> is</c><00:05:00.479><c> you</c><00:05:00.639><c> want</c><00:05:00.800><c> to</c><00:05:00.960><c> keep</c><00:05:01.280><c> all</c><00:05:01.520><c> the</c>
+
+00:05:01.670 --> 00:05:01.680 align:start position:0%
+help a lot is you want to keep all the
+ 
+
+00:05:01.680 --> 00:05:04.070 align:start position:0%
+help a lot is you want to keep all the
+transactions<00:05:02.320><c> limited</c><00:05:02.720><c> to</c><00:05:02.800><c> one</c><00:05:02.960><c> partition</c>
+
+00:05:04.070 --> 00:05:04.080 align:start position:0%
+transactions limited to one partition
+ 
+
+00:05:04.080 --> 00:05:06.070 align:start position:0%
+transactions limited to one partition
+if<00:05:04.240><c> you</c><00:05:04.400><c> have</c><00:05:04.720><c> multiple</c><00:05:05.120><c> partitions</c><00:05:05.759><c> involved</c>
+
+00:05:06.070 --> 00:05:06.080 align:start position:0%
+if you have multiple partitions involved
+ 
+
+00:05:06.080 --> 00:05:07.590 align:start position:0%
+if you have multiple partitions involved
+in<00:05:06.160><c> a</c><00:05:06.240><c> transaction</c><00:05:06.960><c> you're</c><00:05:07.120><c> going</c><00:05:07.280><c> to</c><00:05:07.440><c> have</c><00:05:07.520><c> to</c>
+
+00:05:07.590 --> 00:05:07.600 align:start position:0%
+in a transaction you're going to have to
+ 
+
+00:05:07.600 --> 00:05:09.430 align:start position:0%
+in a transaction you're going to have to
+be<00:05:07.759><c> dealing</c><00:05:08.000><c> with</c><00:05:08.240><c> network</c><00:05:08.639><c> calls</c><00:05:09.199><c> and</c><00:05:09.280><c> the</c>
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+be dealing with network calls and the
+ 
+
+00:05:09.440 --> 00:05:12.070 align:start position:0%
+be dealing with network calls and the
+thought<00:05:09.680><c> of</c><00:05:09.840><c> having</c><00:05:10.160><c> only</c><00:05:10.479><c> one</c><00:05:10.800><c> cpu</c><00:05:11.360><c> core</c><00:05:11.840><c> to</c>
+
+00:05:12.070 --> 00:05:12.080 align:start position:0%
+thought of having only one cpu core to
+ 
+
+00:05:12.080 --> 00:05:13.749 align:start position:0%
+thought of having only one cpu core to
+deal<00:05:12.400><c> with</c><00:05:12.560><c> things</c><00:05:12.880><c> that</c><00:05:13.120><c> are</c><00:05:13.280><c> going</c><00:05:13.520><c> to</c><00:05:13.600><c> be</c>
+
+00:05:13.749 --> 00:05:13.759 align:start position:0%
+deal with things that are going to be
+ 
+
+00:05:13.759 --> 00:05:15.749 align:start position:0%
+deal with things that are going to be
+waiting<00:05:14.080><c> on</c><00:05:14.240><c> a</c><00:05:14.320><c> network</c><00:05:14.960><c> means</c><00:05:15.199><c> that</c><00:05:15.440><c> other</c>
+
+00:05:15.749 --> 00:05:15.759 align:start position:0%
+waiting on a network means that other
+ 
+
+00:05:15.759 --> 00:05:17.510 align:start position:0%
+waiting on a network means that other
+transactions<00:05:16.400><c> that</c><00:05:16.560><c> have</c><00:05:16.720><c> to</c><00:05:16.880><c> be</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+transactions that have to be
+ 
+
+00:05:17.520 --> 00:05:19.189 align:start position:0%
+transactions that have to be
+run<00:05:17.759><c> by</c><00:05:17.919><c> the</c><00:05:18.000><c> core</c><00:05:18.320><c> afterwards</c><00:05:18.800><c> are</c><00:05:18.960><c> going</c><00:05:19.120><c> to</c>
+
+00:05:19.189 --> 00:05:19.199 align:start position:0%
+run by the core afterwards are going to
+ 
+
+00:05:19.199 --> 00:05:20.950 align:start position:0%
+run by the core afterwards are going to
+be<00:05:19.360><c> delayed</c><00:05:19.680><c> significantly</c><00:05:20.639><c> that's</c>
+
+00:05:20.950 --> 00:05:20.960 align:start position:0%
+be delayed significantly that's
+ 
+
+00:05:20.960 --> 00:05:22.950 align:start position:0%
+be delayed significantly that's
+obviously<00:05:21.360><c> a</c><00:05:21.440><c> very</c><00:05:21.680><c> big</c><00:05:21.919><c> problem</c>
+
+00:05:22.950 --> 00:05:22.960 align:start position:0%
+obviously a very big problem
+ 
+
+00:05:22.960 --> 00:05:24.710 align:start position:0%
+obviously a very big problem
+so<00:05:23.199><c> in</c><00:05:23.360><c> general</c><00:05:23.680><c> the</c><00:05:23.840><c> pros</c><00:05:24.080><c> of</c><00:05:24.240><c> this</c><00:05:24.400><c> are</c><00:05:24.560><c> that</c>
+
+00:05:24.710 --> 00:05:24.720 align:start position:0%
+so in general the pros of this are that
+ 
+
+00:05:24.720 --> 00:05:26.550 align:start position:0%
+so in general the pros of this are that
+it's<00:05:24.880><c> very</c><00:05:25.120><c> simple</c><00:05:25.440><c> to</c><00:05:25.600><c> implement</c>
+
+00:05:26.550 --> 00:05:26.560 align:start position:0%
+it's very simple to implement
+ 
+
+00:05:26.560 --> 00:05:29.189 align:start position:0%
+it's very simple to implement
+and<00:05:27.039><c> it's</c><00:05:27.280><c> good</c><00:05:27.520><c> because</c><00:05:28.240><c> generally</c><00:05:28.720><c> speaking</c>
+
+00:05:29.189 --> 00:05:29.199 align:start position:0%
+and it's good because generally speaking
+ 
+
+00:05:29.199 --> 00:05:30.790 align:start position:0%
+and it's good because generally speaking
+unless<00:05:29.520><c> you're</c><00:05:29.680><c> doing</c><00:05:29.919><c> huge</c><00:05:30.240><c> analytic</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+unless you're doing huge analytic
+ 
+
+00:05:30.800 --> 00:05:32.469 align:start position:0%
+unless you're doing huge analytic
+queries<00:05:31.199><c> on</c><00:05:31.280><c> the</c><00:05:31.360><c> database</c><00:05:32.240><c> those</c>
+
+00:05:32.469 --> 00:05:32.479 align:start position:0%
+queries on the database those
+ 
+
+00:05:32.479 --> 00:05:33.749 align:start position:0%
+queries on the database those
+transactions<00:05:33.120><c> are</c><00:05:33.280><c> probably</c><00:05:33.520><c> going</c><00:05:33.600><c> to</c><00:05:33.680><c> be</c>
+
+00:05:33.749 --> 00:05:33.759 align:start position:0%
+transactions are probably going to be
+ 
+
+00:05:33.759 --> 00:05:36.710 align:start position:0%
+transactions are probably going to be
+pretty<00:05:34.000><c> short</c><00:05:34.800><c> however</c><00:05:35.440><c> the</c><00:05:35.600><c> con</c><00:05:36.080><c> is</c><00:05:36.240><c> that</c>
+
+00:05:36.710 --> 00:05:36.720 align:start position:0%
+pretty short however the con is that
+ 
+
+00:05:36.720 --> 00:05:38.790 align:start position:0%
+pretty short however the con is that
+most<00:05:37.199><c> operations</c><00:05:37.840><c> are</c><00:05:37.919><c> not</c><00:05:38.080><c> necessarily</c><00:05:38.560><c> most</c>
+
+00:05:38.790 --> 00:05:38.800 align:start position:0%
+most operations are not necessarily most
+ 
+
+00:05:38.800 --> 00:05:41.590 align:start position:0%
+most operations are not necessarily most
+but<00:05:39.039><c> a</c><00:05:39.199><c> good</c><00:05:39.440><c> chunk</c><00:05:39.919><c> of</c><00:05:40.639><c> you</c><00:05:40.800><c> know</c><00:05:41.120><c> hugely</c>
+
+00:05:41.590 --> 00:05:41.600 align:start position:0%
+but a good chunk of you know hugely
+ 
+
+00:05:41.600 --> 00:05:43.670 align:start position:0%
+but a good chunk of you know hugely
+scaled<00:05:42.000><c> out</c><00:05:42.240><c> applications</c><00:05:42.960><c> can't</c><00:05:43.280><c> actually</c>
+
+00:05:43.670 --> 00:05:43.680 align:start position:0%
+scaled out applications can't actually
+ 
+
+00:05:43.680 --> 00:05:45.749 align:start position:0%
+scaled out applications can't actually
+just<00:05:44.000><c> run</c><00:05:44.400><c> all</c><00:05:44.560><c> of</c><00:05:44.639><c> their</c><00:05:44.880><c> transactions</c><00:05:45.520><c> on</c><00:05:45.680><c> a</c>
+
+00:05:45.749 --> 00:05:45.759 align:start position:0%
+just run all of their transactions on a
+ 
+
+00:05:45.759 --> 00:05:48.390 align:start position:0%
+just run all of their transactions on a
+single<00:05:46.080><c> cpu</c><00:05:46.560><c> core</c><00:05:47.199><c> and</c><00:05:47.360><c> also</c><00:05:47.680><c> like</c><00:05:47.919><c> i</c><00:05:48.000><c> said</c><00:05:48.240><c> we</c>
+
+00:05:48.390 --> 00:05:48.400 align:start position:0%
+single cpu core and also like i said we
+ 
+
+00:05:48.400 --> 00:05:50.950 align:start position:0%
+single cpu core and also like i said we
+have<00:05:48.479><c> to</c><00:05:48.560><c> deal</c><00:05:48.800><c> with</c><00:05:48.880><c> stored</c><00:05:49.199><c> procedures</c>
+
+00:05:50.950 --> 00:05:50.960 align:start position:0%
+have to deal with stored procedures
+ 
+
+00:05:50.960 --> 00:05:52.950 align:start position:0%
+have to deal with stored procedures
+okay<00:05:51.360><c> now</c><00:05:51.520><c> let's</c><00:05:51.759><c> talk</c><00:05:52.000><c> about</c><00:05:52.240><c> the</c><00:05:52.400><c> far</c><00:05:52.639><c> more</c>
+
+00:05:52.950 --> 00:05:52.960 align:start position:0%
+okay now let's talk about the far more
+ 
+
+00:05:52.960 --> 00:05:54.870 align:start position:0%
+okay now let's talk about the far more
+popular<00:05:53.440><c> solution</c><00:05:53.919><c> that's</c><00:05:54.240><c> implemented</c><00:05:54.800><c> in</c>
+
+00:05:54.870 --> 00:05:54.880 align:start position:0%
+popular solution that's implemented in
+ 
+
+00:05:54.880 --> 00:05:57.909 align:start position:0%
+popular solution that's implemented in
+most<00:05:55.120><c> databases</c><00:05:56.080><c> called</c><00:05:56.319><c> two-phase</c><00:05:56.880><c> locking</c>
+
+00:05:57.909 --> 00:05:57.919 align:start position:0%
+most databases called two-phase locking
+ 
+
+00:05:57.919 --> 00:05:59.749 align:start position:0%
+most databases called two-phase locking
+so<00:05:58.400><c> if</c><00:05:58.560><c> you</c><00:05:58.639><c> don't</c><00:05:58.800><c> know</c><00:05:58.960><c> what</c><00:05:59.039><c> a</c><00:05:59.199><c> lock</c><00:05:59.520><c> is</c>
+
+00:05:59.749 --> 00:05:59.759 align:start position:0%
+so if you don't know what a lock is
+ 
+
+00:05:59.759 --> 00:06:01.749 align:start position:0%
+so if you don't know what a lock is
+basically<00:06:00.240><c> it's</c><00:06:00.400><c> this</c><00:06:00.800><c> you</c><00:06:00.960><c> can</c><00:06:01.120><c> put</c><00:06:01.360><c> it</c><00:06:01.440><c> on</c><00:06:01.600><c> an</c>
+
+00:06:01.749 --> 00:06:01.759 align:start position:0%
+basically it's this you can put it on an
+ 
+
+00:06:01.759 --> 00:06:03.749 align:start position:0%
+basically it's this you can put it on an
+object<00:06:02.720><c> and</c>
+
+00:06:03.749 --> 00:06:03.759 align:start position:0%
+object and
+ 
+
+00:06:03.759 --> 00:06:05.749 align:start position:0%
+object and
+if<00:06:03.919><c> you</c><00:06:04.000><c> have</c><00:06:04.319><c> multiple</c><00:06:04.880><c> concurrent</c><00:06:05.360><c> threads</c>
+
+00:06:05.749 --> 00:06:05.759 align:start position:0%
+if you have multiple concurrent threads
+ 
+
+00:06:05.759 --> 00:06:07.510 align:start position:0%
+if you have multiple concurrent threads
+so<00:06:05.919><c> multiple</c><00:06:06.240><c> threads</c><00:06:06.560><c> running</c><00:06:06.800><c> in</c><00:06:06.880><c> parallel</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+so multiple threads running in parallel
+ 
+
+00:06:07.520 --> 00:06:09.749 align:start position:0%
+so multiple threads running in parallel
+trying<00:06:07.759><c> to</c><00:06:07.919><c> grab</c><00:06:08.160><c> the</c><00:06:08.319><c> lock</c><00:06:08.960><c> once</c><00:06:09.199><c> one</c><00:06:09.440><c> thread</c>
+
+00:06:09.749 --> 00:06:09.759 align:start position:0%
+trying to grab the lock once one thread
+ 
+
+00:06:09.759 --> 00:06:11.350 align:start position:0%
+trying to grab the lock once one thread
+is<00:06:09.840><c> holding</c><00:06:10.160><c> the</c><00:06:10.319><c> lock</c><00:06:10.560><c> the</c><00:06:10.720><c> other</c><00:06:10.960><c> thread</c><00:06:11.199><c> may</c>
+
+00:06:11.350 --> 00:06:11.360 align:start position:0%
+is holding the lock the other thread may
+ 
+
+00:06:11.360 --> 00:06:13.270 align:start position:0%
+is holding the lock the other thread may
+not<00:06:11.680><c> and</c><00:06:11.840><c> it</c><00:06:12.000><c> may</c><00:06:12.160><c> not</c><00:06:12.479><c> operate</c><00:06:12.960><c> on</c><00:06:13.039><c> that</c>
+
+00:06:13.270 --> 00:06:13.280 align:start position:0%
+not and it may not operate on that
+ 
+
+00:06:13.280 --> 00:06:15.909 align:start position:0%
+not and it may not operate on that
+object<00:06:14.160><c> however</c><00:06:14.639><c> two-phase</c><00:06:15.199><c> locking</c><00:06:15.600><c> changes</c>
+
+00:06:15.909 --> 00:06:15.919 align:start position:0%
+object however two-phase locking changes
+ 
+
+00:06:15.919 --> 00:06:17.510 align:start position:0%
+object however two-phase locking changes
+those<00:06:16.160><c> locks</c><00:06:16.479><c> a</c><00:06:16.560><c> little</c><00:06:16.720><c> bit</c><00:06:16.960><c> in</c><00:06:17.039><c> the</c><00:06:17.199><c> sense</c>
+
+00:06:17.510 --> 00:06:17.520 align:start position:0%
+those locks a little bit in the sense
+ 
+
+00:06:17.520 --> 00:06:19.029 align:start position:0%
+those locks a little bit in the sense
+that<00:06:17.680><c> now</c><00:06:17.919><c> instead</c><00:06:18.240><c> of</c><00:06:18.319><c> just</c><00:06:18.479><c> having</c><00:06:18.720><c> a</c><00:06:18.800><c> lock</c>
+
+00:06:19.029 --> 00:06:19.039 align:start position:0%
+that now instead of just having a lock
+ 
+
+00:06:19.039 --> 00:06:21.110 align:start position:0%
+that now instead of just having a lock
+which<00:06:19.280><c> is</c><00:06:19.360><c> either</c><00:06:19.600><c> held</c><00:06:20.160><c> or</c><00:06:20.319><c> not</c><00:06:20.560><c> held</c><00:06:20.960><c> and</c>
+
+00:06:21.110 --> 00:06:21.120 align:start position:0%
+which is either held or not held and
+ 
+
+00:06:21.120 --> 00:06:23.189 align:start position:0%
+which is either held or not held and
+only<00:06:21.360><c> one</c><00:06:21.600><c> process</c><00:06:21.919><c> can</c><00:06:22.080><c> have</c><00:06:22.240><c> it</c><00:06:22.400><c> at</c><00:06:22.560><c> a</c><00:06:22.639><c> time</c>
+
+00:06:23.189 --> 00:06:23.199 align:start position:0%
+only one process can have it at a time
+ 
+
+00:06:23.199 --> 00:06:25.350 align:start position:0%
+only one process can have it at a time
+the<00:06:23.360><c> lock</c><00:06:23.680><c> now</c><00:06:23.919><c> has</c><00:06:24.080><c> two</c><00:06:24.240><c> different</c><00:06:24.560><c> modes</c>
+
+00:06:25.350 --> 00:06:25.360 align:start position:0%
+the lock now has two different modes
+ 
+
+00:06:25.360 --> 00:06:28.070 align:start position:0%
+the lock now has two different modes
+shared<00:06:25.680><c> mode</c><00:06:26.000><c> or</c><00:06:26.240><c> exclusive</c><00:06:26.800><c> mode</c><00:06:27.520><c> in</c><00:06:27.759><c> shared</c>
+
+00:06:28.070 --> 00:06:28.080 align:start position:0%
+shared mode or exclusive mode in shared
+ 
+
+00:06:28.080 --> 00:06:30.150 align:start position:0%
+shared mode or exclusive mode in shared
+mode<00:06:28.400><c> you</c><00:06:28.560><c> can</c><00:06:28.720><c> have</c><00:06:28.960><c> a</c><00:06:29.039><c> bunch</c><00:06:29.280><c> of</c><00:06:29.440><c> processes</c>
+
+00:06:30.150 --> 00:06:30.160 align:start position:0%
+mode you can have a bunch of processes
+ 
+
+00:06:30.160 --> 00:06:32.070 align:start position:0%
+mode you can have a bunch of processes
+or<00:06:30.319><c> transactions</c><00:06:31.039><c> that</c><00:06:31.199><c> want</c><00:06:31.360><c> to</c><00:06:31.520><c> read</c><00:06:31.840><c> that</c>
+
+00:06:32.070 --> 00:06:32.080 align:start position:0%
+or transactions that want to read that
+ 
+
+00:06:32.080 --> 00:06:35.110 align:start position:0%
+or transactions that want to read that
+object<00:06:32.880><c> however</c><00:06:33.360><c> in</c><00:06:33.520><c> exclusive</c><00:06:34.160><c> mode</c>
+
+00:06:35.110 --> 00:06:35.120 align:start position:0%
+object however in exclusive mode
+ 
+
+00:06:35.120 --> 00:06:37.510 align:start position:0%
+object however in exclusive mode
+you<00:06:35.280><c> need</c><00:06:35.520><c> this</c><00:06:35.759><c> to</c><00:06:35.919><c> write</c><00:06:36.400><c> and</c><00:06:36.800><c> in</c><00:06:36.960><c> exclusive</c>
+
+00:06:37.510 --> 00:06:37.520 align:start position:0%
+you need this to write and in exclusive
+ 
+
+00:06:37.520 --> 00:06:39.510 align:start position:0%
+you need this to write and in exclusive
+mode<00:06:37.919><c> no</c><00:06:38.160><c> other</c><00:06:38.400><c> processes</c><00:06:38.960><c> can</c><00:06:39.120><c> be</c><00:06:39.199><c> holding</c>
+
+00:06:39.510 --> 00:06:39.520 align:start position:0%
+mode no other processes can be holding
+ 
+
+00:06:39.520 --> 00:06:41.029 align:start position:0%
+mode no other processes can be holding
+that<00:06:39.759><c> lock</c>
+
+00:06:41.029 --> 00:06:41.039 align:start position:0%
+that lock
+ 
+
+00:06:41.039 --> 00:06:42.469 align:start position:0%
+that lock
+so<00:06:41.199><c> the</c><00:06:41.360><c> point</c><00:06:41.680><c> is</c><00:06:41.840><c> that</c><00:06:42.000><c> multiple</c>
+
+00:06:42.469 --> 00:06:42.479 align:start position:0%
+so the point is that multiple
+ 
+
+00:06:42.479 --> 00:06:44.230 align:start position:0%
+so the point is that multiple
+transactions<00:06:43.199><c> can</c><00:06:43.360><c> read</c><00:06:43.600><c> from</c><00:06:43.759><c> a</c><00:06:43.840><c> row</c><00:06:44.160><c> if</c>
+
+00:06:44.230 --> 00:06:44.240 align:start position:0%
+transactions can read from a row if
+ 
+
+00:06:44.240 --> 00:06:45.909 align:start position:0%
+transactions can read from a row if
+they're<00:06:44.400><c> holding</c><00:06:44.720><c> a</c><00:06:44.800><c> lock</c><00:06:45.039><c> in</c><00:06:45.120><c> shared</c><00:06:45.440><c> mode</c>
+
+00:06:45.909 --> 00:06:45.919 align:start position:0%
+they're holding a lock in shared mode
+ 
+
+00:06:45.919 --> 00:06:47.430 align:start position:0%
+they're holding a lock in shared mode
+but<00:06:46.160><c> the</c><00:06:46.240><c> second</c><00:06:46.560><c> that</c><00:06:46.720><c> they</c><00:06:46.880><c> want</c><00:06:47.039><c> to</c><00:06:47.199><c> write</c>
+
+00:06:47.430 --> 00:06:47.440 align:start position:0%
+but the second that they want to write
+ 
+
+00:06:47.440 --> 00:06:49.270 align:start position:0%
+but the second that they want to write
+to<00:06:47.520><c> that</c><00:06:47.840><c> row</c><00:06:48.080><c> they</c><00:06:48.240><c> have</c><00:06:48.400><c> to</c><00:06:48.720><c> upgrade</c><00:06:49.120><c> that</c>
+
+00:06:49.270 --> 00:06:49.280 align:start position:0%
+to that row they have to upgrade that
+ 
+
+00:06:49.280 --> 00:06:52.309 align:start position:0%
+to that row they have to upgrade that
+lock<00:06:49.599><c> to</c><00:06:49.840><c> exclusive</c><00:06:50.319><c> mode</c><00:06:51.039><c> additionally</c><00:06:52.080><c> if</c>
+
+00:06:52.309 --> 00:06:52.319 align:start position:0%
+lock to exclusive mode additionally if
+ 
+
+00:06:52.319 --> 00:06:53.749 align:start position:0%
+lock to exclusive mode additionally if
+they're<00:06:52.560><c> currently</c><00:06:52.960><c> holding</c><00:06:53.280><c> the</c><00:06:53.360><c> lock</c><00:06:53.680><c> in</c>
+
+00:06:53.749 --> 00:06:53.759 align:start position:0%
+they're currently holding the lock in
+ 
+
+00:06:53.759 --> 00:06:55.350 align:start position:0%
+they're currently holding the lock in
+shared<00:06:54.000><c> mode</c><00:06:54.319><c> and</c><00:06:54.479><c> another</c><00:06:54.800><c> process</c><00:06:55.280><c> is</c>
+
+00:06:55.350 --> 00:06:55.360 align:start position:0%
+shared mode and another process is
+ 
+
+00:06:55.360 --> 00:06:57.029 align:start position:0%
+shared mode and another process is
+holding<00:06:55.599><c> the</c><00:06:55.759><c> lock</c><00:06:56.000><c> in</c><00:06:56.080><c> shared</c><00:06:56.400><c> mode</c><00:06:56.800><c> they're</c>
+
+00:06:57.029 --> 00:06:57.039 align:start position:0%
+holding the lock in shared mode they're
+ 
+
+00:06:57.039 --> 00:06:58.550 align:start position:0%
+holding the lock in shared mode they're
+not<00:06:57.199><c> going</c><00:06:57.440><c> to</c><00:06:57.520><c> be</c><00:06:57.680><c> able</c><00:06:57.919><c> to</c><00:06:58.080><c> upgrade</c><00:06:58.400><c> to</c>
+
+00:06:58.550 --> 00:06:58.560 align:start position:0%
+not going to be able to upgrade to
+ 
+
+00:06:58.560 --> 00:07:00.309 align:start position:0%
+not going to be able to upgrade to
+exclusive<00:06:59.039><c> mode</c><00:06:59.440><c> you</c><00:06:59.599><c> can</c><00:06:59.759><c> only</c><00:07:00.000><c> go</c><00:07:00.160><c> to</c>
+
+00:07:00.309 --> 00:07:00.319 align:start position:0%
+exclusive mode you can only go to
+ 
+
+00:07:00.319 --> 00:07:01.990 align:start position:0%
+exclusive mode you can only go to
+exclusive<00:07:00.800><c> mode</c><00:07:01.039><c> once</c><00:07:01.199><c> there</c><00:07:01.360><c> are</c><00:07:01.440><c> no</c><00:07:01.680><c> other</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+exclusive mode once there are no other
+ 
+
+00:07:02.000 --> 00:07:04.469 align:start position:0%
+exclusive mode once there are no other
+processes<00:07:02.560><c> holding</c><00:07:02.880><c> that</c><00:07:03.120><c> lock</c><00:07:03.440><c> at</c><00:07:03.680><c> all</c><00:07:04.080><c> so</c>
+
+00:07:04.469 --> 00:07:04.479 align:start position:0%
+processes holding that lock at all so
+ 
+
+00:07:04.479 --> 00:07:06.469 align:start position:0%
+processes holding that lock at all so
+before<00:07:04.880><c> i</c><00:07:05.120><c> actually</c><00:07:05.599><c> get</c><00:07:05.840><c> into</c><00:07:06.319><c> my</c>
+
+00:07:06.469 --> 00:07:06.479 align:start position:0%
+before i actually get into my
+ 
+
+00:07:06.479 --> 00:07:08.550 align:start position:0%
+before i actually get into my
+demonstration<00:07:07.360><c> of</c><00:07:07.520><c> how</c><00:07:07.680><c> that</c><00:07:07.840><c> would</c><00:07:08.080><c> work</c><00:07:08.400><c> i</c>
+
+00:07:08.550 --> 00:07:08.560 align:start position:0%
+demonstration of how that would work i
+ 
+
+00:07:08.560 --> 00:07:10.309 align:start position:0%
+demonstration of how that would work i
+should<00:07:08.800><c> also</c><00:07:09.120><c> mention</c><00:07:09.440><c> a</c><00:07:09.599><c> pretty</c><00:07:09.759><c> significant</c>
+
+00:07:10.309 --> 00:07:10.319 align:start position:0%
+should also mention a pretty significant
+ 
+
+00:07:10.319 --> 00:07:12.790 align:start position:0%
+should also mention a pretty significant
+edge<00:07:10.560><c> case</c><00:07:10.880><c> of</c><00:07:11.039><c> two-phase</c><00:07:11.520><c> locking</c><00:07:12.319><c> known</c><00:07:12.639><c> as</c>
+
+00:07:12.790 --> 00:07:12.800 align:start position:0%
+edge case of two-phase locking known as
+ 
+
+00:07:12.800 --> 00:07:14.950 align:start position:0%
+edge case of two-phase locking known as
+predicate<00:07:13.199><c> locks</c><00:07:13.840><c> so</c><00:07:14.000><c> let's</c><00:07:14.240><c> imagine</c><00:07:14.560><c> that</c><00:07:14.720><c> we</c>
+
+00:07:14.950 --> 00:07:14.960 align:start position:0%
+predicate locks so let's imagine that we
+ 
+
+00:07:14.960 --> 00:07:16.790 align:start position:0%
+predicate locks so let's imagine that we
+want<00:07:15.199><c> to</c><00:07:15.440><c> run</c><00:07:15.599><c> a</c><00:07:15.759><c> transaction</c><00:07:16.319><c> to</c><00:07:16.479><c> book</c><00:07:16.720><c> a</c>
+
+00:07:16.790 --> 00:07:16.800 align:start position:0%
+want to run a transaction to book a
+ 
+
+00:07:16.800 --> 00:07:19.670 align:start position:0%
+want to run a transaction to book a
+meeting<00:07:17.120><c> room</c><00:07:17.840><c> and</c><00:07:18.240><c> we</c><00:07:18.479><c> know</c><00:07:18.800><c> that</c><00:07:19.120><c> in</c><00:07:19.280><c> order</c>
+
+00:07:19.670 --> 00:07:19.680 align:start position:0%
+meeting room and we know that in order
+ 
+
+00:07:19.680 --> 00:07:21.990 align:start position:0%
+meeting room and we know that in order
+to<00:07:20.319><c> book</c><00:07:20.560><c> this</c><00:07:20.800><c> meeting</c><00:07:21.039><c> room</c><00:07:21.360><c> first</c><00:07:21.680><c> we</c><00:07:21.840><c> want</c>
+
+00:07:21.990 --> 00:07:22.000 align:start position:0%
+to book this meeting room first we want
+ 
+
+00:07:22.000 --> 00:07:23.990 align:start position:0%
+to book this meeting room first we want
+to<00:07:22.080><c> read</c><00:07:22.319><c> from</c><00:07:22.479><c> the</c><00:07:22.560><c> database</c><00:07:23.199><c> and</c><00:07:23.360><c> say</c><00:07:23.759><c> find</c>
+
+00:07:23.990 --> 00:07:24.000 align:start position:0%
+to read from the database and say find
+ 
+
+00:07:24.000 --> 00:07:26.870 align:start position:0%
+to read from the database and say find
+me<00:07:24.319><c> all</c><00:07:24.479><c> of</c><00:07:24.560><c> the</c><00:07:24.720><c> rows</c><00:07:25.520><c> that</c><00:07:26.000><c> are</c>
+
+00:07:26.870 --> 00:07:26.880 align:start position:0%
+me all of the rows that are
+ 
+
+00:07:26.880 --> 00:07:28.390 align:start position:0%
+me all of the rows that are
+you<00:07:27.039><c> know</c><00:07:27.280><c> for</c><00:07:27.520><c> this</c><00:07:27.680><c> meeting</c><00:07:27.919><c> room</c><00:07:28.160><c> for</c><00:07:28.319><c> a</c>
+
+00:07:28.390 --> 00:07:28.400 align:start position:0%
+you know for this meeting room for a
+ 
+
+00:07:28.400 --> 00:07:29.909 align:start position:0%
+you know for this meeting room for a
+given<00:07:28.639><c> time</c><00:07:28.880><c> so</c><00:07:29.039><c> we</c><00:07:29.120><c> can</c><00:07:29.280><c> make</c><00:07:29.360><c> sure</c><00:07:29.599><c> that</c><00:07:29.759><c> no</c>
+
+00:07:29.909 --> 00:07:29.919 align:start position:0%
+given time so we can make sure that no
+ 
+
+00:07:29.919 --> 00:07:31.990 align:start position:0%
+given time so we can make sure that no
+one<00:07:30.000><c> has</c><00:07:30.240><c> already</c><00:07:30.479><c> booked</c><00:07:30.800><c> the</c><00:07:30.880><c> room</c>
+
+00:07:31.990 --> 00:07:32.000 align:start position:0%
+one has already booked the room
+ 
+
+00:07:32.000 --> 00:07:33.990 align:start position:0%
+one has already booked the room
+however<00:07:32.560><c> after</c><00:07:32.880><c> we've</c><00:07:33.120><c> made</c><00:07:33.360><c> that</c><00:07:33.520><c> query</c><00:07:33.840><c> for</c>
+
+00:07:33.990 --> 00:07:34.000 align:start position:0%
+however after we've made that query for
+ 
+
+00:07:34.000 --> 00:07:35.749 align:start position:0%
+however after we've made that query for
+all<00:07:34.160><c> those</c><00:07:34.319><c> bookings</c><00:07:34.800><c> another</c><00:07:35.120><c> transaction</c>
+
+00:07:35.749 --> 00:07:35.759 align:start position:0%
+all those bookings another transaction
+ 
+
+00:07:35.759 --> 00:07:38.230 align:start position:0%
+all those bookings another transaction
+comes<00:07:36.080><c> along</c><00:07:36.800><c> and</c><00:07:37.039><c> actually</c><00:07:37.360><c> goes</c><00:07:37.599><c> ahead</c><00:07:38.000><c> and</c>
+
+00:07:38.230 --> 00:07:38.240 align:start position:0%
+comes along and actually goes ahead and
+ 
+
+00:07:38.240 --> 00:07:40.550 align:start position:0%
+comes along and actually goes ahead and
+writes<00:07:38.639><c> a</c><00:07:38.720><c> new</c><00:07:38.960><c> row</c><00:07:39.520><c> that</c><00:07:39.759><c> takes</c><00:07:40.080><c> the</c><00:07:40.160><c> booking</c>
+
+00:07:40.550 --> 00:07:40.560 align:start position:0%
+writes a new row that takes the booking
+ 
+
+00:07:40.560 --> 00:07:41.909 align:start position:0%
+writes a new row that takes the booking
+that<00:07:40.639><c> we</c><00:07:40.800><c> want</c>
+
+00:07:41.909 --> 00:07:41.919 align:start position:0%
+that we want
+ 
+
+00:07:41.919 --> 00:07:43.670 align:start position:0%
+that we want
+it's<00:07:42.240><c> impossible</c><00:07:42.720><c> that</c><00:07:42.880><c> we</c><00:07:43.039><c> could</c><00:07:43.199><c> stop</c><00:07:43.440><c> this</c>
+
+00:07:43.670 --> 00:07:43.680 align:start position:0%
+it's impossible that we could stop this
+ 
+
+00:07:43.680 --> 00:07:45.189 align:start position:0%
+it's impossible that we could stop this
+because<00:07:43.919><c> there's</c><00:07:44.160><c> no</c><00:07:44.319><c> way</c><00:07:44.560><c> that</c><00:07:44.639><c> we</c><00:07:44.800><c> can</c><00:07:44.879><c> put</c><00:07:45.120><c> a</c>
+
+00:07:45.189 --> 00:07:45.199 align:start position:0%
+because there's no way that we can put a
+ 
+
+00:07:45.199 --> 00:07:46.790 align:start position:0%
+because there's no way that we can put a
+lock<00:07:45.520><c> on</c><00:07:45.680><c> a</c><00:07:45.759><c> row</c><00:07:46.000><c> in</c><00:07:46.080><c> the</c><00:07:46.160><c> database</c><00:07:46.639><c> that</c>
+
+00:07:46.790 --> 00:07:46.800 align:start position:0%
+lock on a row in the database that
+ 
+
+00:07:46.800 --> 00:07:49.189 align:start position:0%
+lock on a row in the database that
+doesn't<00:07:47.120><c> exist</c><00:07:47.440><c> yet</c><00:07:48.160><c> however</c><00:07:48.720><c> there</c><00:07:48.960><c> is</c><00:07:49.120><c> a</c>
+
+00:07:49.189 --> 00:07:49.199 align:start position:0%
+doesn't exist yet however there is a
+ 
+
+00:07:49.199 --> 00:07:51.029 align:start position:0%
+doesn't exist yet however there is a
+solution<00:07:49.599><c> to</c><00:07:49.759><c> this</c><00:07:50.240><c> known</c><00:07:50.479><c> as</c><00:07:50.639><c> predicate</c>
+
+00:07:51.029 --> 00:07:51.039 align:start position:0%
+solution to this known as predicate
+ 
+
+00:07:51.039 --> 00:07:52.550 align:start position:0%
+solution to this known as predicate
+locks
+
+00:07:52.550 --> 00:07:52.560 align:start position:0%
+locks
+ 
+
+00:07:52.560 --> 00:07:54.550 align:start position:0%
+locks
+predicate<00:07:53.039><c> locks</c><00:07:53.360><c> are</c><00:07:53.440><c> basically</c><00:07:53.919><c> saying</c><00:07:54.400><c> we</c>
+
+00:07:54.550 --> 00:07:54.560 align:start position:0%
+predicate locks are basically saying we
+ 
+
+00:07:54.560 --> 00:07:56.869 align:start position:0%
+predicate locks are basically saying we
+are<00:07:54.639><c> going</c><00:07:54.879><c> to</c><00:07:55.039><c> put</c><00:07:55.360><c> a</c><00:07:55.520><c> lock</c><00:07:55.919><c> on</c><00:07:56.160><c> all</c><00:07:56.400><c> objects</c>
+
+00:07:56.869 --> 00:07:56.879 align:start position:0%
+are going to put a lock on all objects
+ 
+
+00:07:56.879 --> 00:07:59.430 align:start position:0%
+are going to put a lock on all objects
+that<00:07:57.039><c> satisfy</c><00:07:57.680><c> a</c><00:07:57.759><c> query</c><00:07:58.560><c> even</c><00:07:58.879><c> if</c><00:07:59.039><c> they</c><00:07:59.199><c> don't</c>
+
+00:07:59.430 --> 00:07:59.440 align:start position:0%
+that satisfy a query even if they don't
+ 
+
+00:07:59.440 --> 00:08:01.350 align:start position:0%
+that satisfy a query even if they don't
+yet<00:07:59.680><c> exist</c><00:08:00.160><c> so</c><00:08:00.400><c> in</c><00:08:00.479><c> this</c><00:08:00.639><c> case</c><00:08:00.960><c> let's</c><00:08:01.120><c> say</c><00:08:01.280><c> i</c>
+
+00:08:01.350 --> 00:08:01.360 align:start position:0%
+yet exist so in this case let's say i
+ 
+
+00:08:01.360 --> 00:08:02.469 align:start position:0%
+yet exist so in this case let's say i
+want<00:08:01.520><c> to</c><00:08:01.680><c> book</c>
+
+00:08:02.469 --> 00:08:02.479 align:start position:0%
+want to book
+ 
+
+00:08:02.479 --> 00:08:03.909 align:start position:0%
+want to book
+i<00:08:02.560><c> don't</c><00:08:02.720><c> know</c><00:08:02.960><c> a</c><00:08:03.039><c> certain</c><00:08:03.440><c> room</c><00:08:03.680><c> with</c><00:08:03.840><c> a</c>
+
+00:08:03.909 --> 00:08:03.919 align:start position:0%
+i don't know a certain room with a
+ 
+
+00:08:03.919 --> 00:08:05.189 align:start position:0%
+i don't know a certain room with a
+certain<00:08:04.319><c> time</c>
+
+00:08:05.189 --> 00:08:05.199 align:start position:0%
+certain time
+ 
+
+00:08:05.199 --> 00:08:07.510 align:start position:0%
+certain time
+i<00:08:05.360><c> would</c><00:08:05.520><c> say</c><00:08:05.919><c> to</c><00:08:06.080><c> put</c><00:08:06.319><c> a</c><00:08:06.400><c> predicate</c><00:08:06.879><c> lock</c><00:08:07.280><c> on</c>
+
+00:08:07.510 --> 00:08:07.520 align:start position:0%
+i would say to put a predicate lock on
+ 
+
+00:08:07.520 --> 00:08:09.670 align:start position:0%
+i would say to put a predicate lock on
+all<00:08:07.759><c> of</c><00:08:07.840><c> those</c><00:08:08.479><c> meetings</c><00:08:08.960><c> with</c><00:08:09.120><c> that</c><00:08:09.360><c> room</c><00:08:09.599><c> and</c>
+
+00:08:09.670 --> 00:08:09.680 align:start position:0%
+all of those meetings with that room and
+ 
+
+00:08:09.680 --> 00:08:10.790 align:start position:0%
+all of those meetings with that room and
+that<00:08:09.919><c> time</c>
+
+00:08:10.790 --> 00:08:10.800 align:start position:0%
+that time
+ 
+
+00:08:10.800 --> 00:08:12.390 align:start position:0%
+that time
+so<00:08:10.960><c> that</c><00:08:11.280><c> in</c><00:08:11.440><c> the</c><00:08:11.599><c> event</c><00:08:11.840><c> that</c><00:08:12.000><c> another</c>
+
+00:08:12.390 --> 00:08:12.400 align:start position:0%
+so that in the event that another
+ 
+
+00:08:12.400 --> 00:08:14.390 align:start position:0%
+so that in the event that another
+transaction<00:08:13.039><c> tries</c><00:08:13.360><c> to</c><00:08:13.520><c> create</c><00:08:13.840><c> a</c><00:08:14.000><c> row</c><00:08:14.160><c> for</c>
+
+00:08:14.390 --> 00:08:14.400 align:start position:0%
+transaction tries to create a row for
+ 
+
+00:08:14.400 --> 00:08:16.309 align:start position:0%
+transaction tries to create a row for
+that<00:08:14.879><c> my</c><00:08:15.120><c> predicate</c><00:08:15.520><c> lock</c><00:08:15.759><c> would</c><00:08:15.919><c> already</c><00:08:16.160><c> be</c>
+
+00:08:16.309 --> 00:08:16.319 align:start position:0%
+that my predicate lock would already be
+ 
+
+00:08:16.319 --> 00:08:17.749 align:start position:0%
+that my predicate lock would already be
+holding<00:08:16.639><c> it</c><00:08:16.800><c> and</c><00:08:16.879><c> they</c><00:08:17.039><c> wouldn't</c><00:08:17.280><c> be</c><00:08:17.440><c> able</c><00:08:17.599><c> to</c>
+
+00:08:17.749 --> 00:08:17.759 align:start position:0%
+holding it and they wouldn't be able to
+ 
+
+00:08:17.759 --> 00:08:20.150 align:start position:0%
+holding it and they wouldn't be able to
+do<00:08:17.919><c> so</c><00:08:18.639><c> the</c><00:08:18.800><c> big</c><00:08:19.120><c> issue</c><00:08:19.440><c> here</c><00:08:19.680><c> is</c><00:08:19.759><c> that</c><00:08:19.919><c> this</c>
+
+00:08:20.150 --> 00:08:20.160 align:start position:0%
+do so the big issue here is that this
+ 
+
+00:08:20.160 --> 00:08:22.230 align:start position:0%
+do so the big issue here is that this
+actually<00:08:20.479><c> performs</c><00:08:20.960><c> really</c><00:08:21.280><c> poorly</c><00:08:21.919><c> you</c><00:08:22.080><c> have</c>
+
+00:08:22.230 --> 00:08:22.240 align:start position:0%
+actually performs really poorly you have
+ 
+
+00:08:22.240 --> 00:08:24.309 align:start position:0%
+actually performs really poorly you have
+to<00:08:22.319><c> do</c><00:08:22.479><c> a</c><00:08:22.560><c> huge</c><00:08:22.879><c> query</c><00:08:23.360><c> basically</c><00:08:23.840><c> finding</c><00:08:24.240><c> all</c>
+
+00:08:24.309 --> 00:08:24.319 align:start position:0%
+to do a huge query basically finding all
+ 
+
+00:08:24.319 --> 00:08:25.990 align:start position:0%
+to do a huge query basically finding all
+the<00:08:24.479><c> rows</c><00:08:24.800><c> in</c><00:08:24.879><c> the</c><00:08:24.960><c> database</c><00:08:25.440><c> that</c><00:08:25.680><c> might</c>
+
+00:08:25.990 --> 00:08:26.000 align:start position:0%
+the rows in the database that might
+ 
+
+00:08:26.000 --> 00:08:27.749 align:start position:0%
+the rows in the database that might
+apply<00:08:26.319><c> to</c><00:08:26.479><c> the</c><00:08:26.560><c> predicate</c><00:08:26.960><c> lock</c><00:08:27.440><c> and</c><00:08:27.520><c> then</c>
+
+00:08:27.749 --> 00:08:27.759 align:start position:0%
+apply to the predicate lock and then
+ 
+
+00:08:27.759 --> 00:08:29.589 align:start position:0%
+apply to the predicate lock and then
+additionally<00:08:28.479><c> every</c><00:08:28.720><c> row</c><00:08:28.960><c> that's</c><00:08:29.199><c> added</c><00:08:29.440><c> you</c>
+
+00:08:29.589 --> 00:08:29.599 align:start position:0%
+additionally every row that's added you
+ 
+
+00:08:29.599 --> 00:08:31.430 align:start position:0%
+additionally every row that's added you
+also<00:08:29.919><c> have</c><00:08:30.080><c> to</c><00:08:30.240><c> check</c><00:08:30.639><c> if</c><00:08:30.800><c> it</c><00:08:30.960><c> applies</c><00:08:31.280><c> to</c><00:08:31.360><c> the</c>
+
+00:08:31.430 --> 00:08:31.440 align:start position:0%
+also have to check if it applies to the
+ 
+
+00:08:31.440 --> 00:08:33.029 align:start position:0%
+also have to check if it applies to the
+predicate<00:08:31.840><c> lock</c>
+
+00:08:33.029 --> 00:08:33.039 align:start position:0%
+predicate lock
+ 
+
+00:08:33.039 --> 00:08:34.630 align:start position:0%
+predicate lock
+so<00:08:33.200><c> what</c><00:08:33.440><c> alternative</c><00:08:33.919><c> can</c><00:08:34.080><c> we</c><00:08:34.240><c> use</c><00:08:34.479><c> that's</c>
+
+00:08:34.630 --> 00:08:34.640 align:start position:0%
+so what alternative can we use that's
+ 
+
+00:08:34.640 --> 00:08:36.230 align:start position:0%
+so what alternative can we use that's
+kind<00:08:34.800><c> of</c><00:08:34.959><c> a</c><00:08:35.039><c> little</c><00:08:35.200><c> bit</c><00:08:35.360><c> of</c><00:08:35.440><c> an</c><00:08:35.599><c> optimization</c>
+
+00:08:36.230 --> 00:08:36.240 align:start position:0%
+kind of a little bit of an optimization
+ 
+
+00:08:36.240 --> 00:08:38.469 align:start position:0%
+kind of a little bit of an optimization
+on<00:08:36.320><c> this</c><00:08:36.880><c> it's</c><00:08:37.039><c> called</c><00:08:37.360><c> index</c><00:08:37.760><c> range</c><00:08:38.080><c> locking</c>
+
+00:08:38.469 --> 00:08:38.479 align:start position:0%
+on this it's called index range locking
+ 
+
+00:08:38.479 --> 00:08:41.029 align:start position:0%
+on this it's called index range locking
+and<00:08:38.640><c> i'm</c><00:08:38.719><c> going</c><00:08:38.800><c> to</c><00:08:38.880><c> show</c><00:08:39.120><c> that</c><00:08:39.279><c> off</c><00:08:39.440><c> right</c><00:08:39.680><c> now</c>
+
+00:08:41.029 --> 00:08:41.039 align:start position:0%
+and i'm going to show that off right now
+ 
+
+00:08:41.039 --> 00:08:42.630 align:start position:0%
+and i'm going to show that off right now
+so<00:08:41.279><c> as</c><00:08:41.440><c> you</c><00:08:41.519><c> can</c><00:08:41.680><c> see</c><00:08:41.919><c> imagine</c><00:08:42.320><c> i</c><00:08:42.399><c> have</c><00:08:42.560><c> the</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+so as you can see imagine i have the
+ 
+
+00:08:42.640 --> 00:08:44.310 align:start position:0%
+so as you can see imagine i have the
+following<00:08:43.039><c> database</c><00:08:43.519><c> table</c><00:08:43.839><c> on</c><00:08:43.919><c> the</c><00:08:44.080><c> left</c>
+
+00:08:44.310 --> 00:08:44.320 align:start position:0%
+following database table on the left
+ 
+
+00:08:44.320 --> 00:08:46.070 align:start position:0%
+following database table on the left
+here<00:08:44.800><c> and</c><00:08:44.959><c> imagine</c><00:08:45.360><c> that</c><00:08:45.519><c> i</c><00:08:45.680><c> have</c><00:08:45.920><c> the</c>
+
+00:08:46.070 --> 00:08:46.080 align:start position:0%
+here and imagine that i have the
+ 
+
+00:08:46.080 --> 00:08:48.389 align:start position:0%
+here and imagine that i have the
+following<00:08:46.560><c> index</c><00:08:47.040><c> on</c><00:08:47.120><c> the</c><00:08:47.279><c> right</c><00:08:47.760><c> which</c><00:08:48.080><c> shows</c>
+
+00:08:48.389 --> 00:08:48.399 align:start position:0%
+following index on the right which shows
+ 
+
+00:08:48.399 --> 00:08:49.110 align:start position:0%
+following index on the right which shows
+me
+
+00:08:49.110 --> 00:08:49.120 align:start position:0%
+me
+ 
+
+00:08:49.120 --> 00:08:50.710 align:start position:0%
+me
+the<00:08:49.279><c> meeting</c><00:08:49.600><c> room</c><00:08:49.839><c> and</c><00:08:50.000><c> the</c><00:08:50.080><c> corresponding</c>
+
+00:08:50.710 --> 00:08:50.720 align:start position:0%
+the meeting room and the corresponding
+ 
+
+00:08:50.720 --> 00:08:53.350 align:start position:0%
+the meeting room and the corresponding
+rows<00:08:51.040><c> for</c><00:08:51.279><c> it</c><00:08:51.920><c> so</c><00:08:52.080><c> let's</c><00:08:52.240><c> say</c><00:08:52.560><c> i</c><00:08:52.800><c> want</c><00:08:52.959><c> to</c><00:08:53.120><c> book</c>
+
+00:08:53.350 --> 00:08:53.360 align:start position:0%
+rows for it so let's say i want to book
+ 
+
+00:08:53.360 --> 00:08:55.350 align:start position:0%
+rows for it so let's say i want to book
+the<00:08:53.519><c> oval</c><00:08:53.920><c> office</c><00:08:54.240><c> for</c><00:08:54.399><c> tuesday</c><00:08:54.959><c> as</c><00:08:55.120><c> you</c><00:08:55.200><c> can</c>
+
+00:08:55.350 --> 00:08:55.360 align:start position:0%
+the oval office for tuesday as you can
+ 
+
+00:08:55.360 --> 00:08:57.110 align:start position:0%
+the oval office for tuesday as you can
+see<00:08:55.600><c> it's</c><00:08:55.839><c> not</c><00:08:56.080><c> booked</c><00:08:56.480><c> there's</c><00:08:56.720><c> only</c><00:08:56.959><c> the</c>
+
+00:08:57.110 --> 00:08:57.120 align:start position:0%
+see it's not booked there's only the
+ 
+
+00:08:57.120 --> 00:08:59.350 align:start position:0%
+see it's not booked there's only the
+oval<00:08:57.440><c> office</c><00:08:57.680><c> for</c><00:08:57.839><c> monday</c><00:08:58.160><c> and</c><00:08:58.320><c> wednesday</c><00:08:59.120><c> so</c>
+
+00:08:59.350 --> 00:08:59.360 align:start position:0%
+oval office for monday and wednesday so
+ 
+
+00:08:59.360 --> 00:09:00.949 align:start position:0%
+oval office for monday and wednesday so
+if<00:08:59.519><c> i</c><00:08:59.600><c> wanted</c><00:08:59.839><c> to</c><00:08:59.920><c> do</c><00:09:00.080><c> this</c><00:09:00.320><c> i</c><00:09:00.480><c> would</c><00:09:00.640><c> first</c>
+
+00:09:00.949 --> 00:09:00.959 align:start position:0%
+if i wanted to do this i would first
+ 
+
+00:09:00.959 --> 00:09:03.509 align:start position:0%
+if i wanted to do this i would first
+apply<00:09:01.440><c> a</c><00:09:01.519><c> predicate</c><00:09:02.000><c> lock</c><00:09:02.720><c> to</c><00:09:03.040><c> all</c><00:09:03.279><c> of</c><00:09:03.360><c> the</c>
+
+00:09:03.509 --> 00:09:03.519 align:start position:0%
+apply a predicate lock to all of the
+ 
+
+00:09:03.519 --> 00:09:05.910 align:start position:0%
+apply a predicate lock to all of the
+oval<00:09:03.839><c> office</c><00:09:04.160><c> slots</c><00:09:04.560><c> for</c><00:09:04.800><c> tuesday</c>
+
+00:09:05.910 --> 00:09:05.920 align:start position:0%
+oval office slots for tuesday
+ 
+
+00:09:05.920 --> 00:09:07.910 align:start position:0%
+oval office slots for tuesday
+and<00:09:06.480><c> as</c><00:09:06.720><c> you</c><00:09:06.800><c> can</c><00:09:06.959><c> see</c><00:09:07.120><c> that</c><00:09:07.279><c> wouldn't</c><00:09:07.600><c> apply</c>
+
+00:09:07.910 --> 00:09:07.920 align:start position:0%
+and as you can see that wouldn't apply
+ 
+
+00:09:07.920 --> 00:09:10.230 align:start position:0%
+and as you can see that wouldn't apply
+to<00:09:08.000><c> any</c><00:09:08.240><c> rows</c><00:09:08.560><c> currently</c><00:09:09.360><c> however</c><00:09:09.920><c> like</c><00:09:10.160><c> i</c>
+
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+to any rows currently however like i
+ 
+
+00:09:10.240 --> 00:09:11.590 align:start position:0%
+to any rows currently however like i
+said<00:09:10.560><c> that's</c><00:09:10.800><c> going</c><00:09:10.880><c> to</c><00:09:10.959><c> be</c><00:09:11.120><c> pretty</c><00:09:11.360><c> slow</c>
+
+00:09:11.590 --> 00:09:11.600 align:start position:0%
+said that's going to be pretty slow
+ 
+
+00:09:11.600 --> 00:09:13.110 align:start position:0%
+said that's going to be pretty slow
+because<00:09:11.760><c> we'd</c><00:09:12.000><c> have</c><00:09:12.080><c> to</c><00:09:12.240><c> query</c><00:09:12.560><c> the</c><00:09:12.720><c> entire</c>
+
+00:09:13.110 --> 00:09:13.120 align:start position:0%
+because we'd have to query the entire
+ 
+
+00:09:13.120 --> 00:09:15.430 align:start position:0%
+because we'd have to query the entire
+database<00:09:13.920><c> to</c><00:09:14.080><c> find</c><00:09:14.399><c> all</c><00:09:14.560><c> of</c><00:09:14.640><c> the</c><00:09:14.800><c> places</c><00:09:15.200><c> where</c>
+
+00:09:15.430 --> 00:09:15.440 align:start position:0%
+database to find all of the places where
+ 
+
+00:09:15.440 --> 00:09:17.910 align:start position:0%
+database to find all of the places where
+the<00:09:15.600><c> oval</c><00:09:15.920><c> office</c><00:09:16.399><c> and</c><00:09:16.480><c> tuesday</c><00:09:16.959><c> comes</c><00:09:17.200><c> up</c>
+
+00:09:17.910 --> 00:09:17.920 align:start position:0%
+the oval office and tuesday comes up
+ 
+
+00:09:17.920 --> 00:09:20.310 align:start position:0%
+the oval office and tuesday comes up
+however<00:09:18.800><c> what</c><00:09:19.040><c> if</c><00:09:19.120><c> i</c><00:09:19.279><c> just</c><00:09:19.440><c> went</c><00:09:19.680><c> ahead</c><00:09:20.080><c> and</c>
+
+00:09:20.310 --> 00:09:20.320 align:start position:0%
+however what if i just went ahead and
+ 
+
+00:09:20.320 --> 00:09:22.389 align:start position:0%
+however what if i just went ahead and
+instead<00:09:20.800><c> decided</c><00:09:21.279><c> to</c><00:09:21.360><c> put</c><00:09:21.519><c> a</c><00:09:21.600><c> lock</c><00:09:21.920><c> on</c><00:09:22.160><c> all</c><00:09:22.320><c> of</c>
+
+00:09:22.389 --> 00:09:22.399 align:start position:0%
+instead decided to put a lock on all of
+ 
+
+00:09:22.399 --> 00:09:24.710 align:start position:0%
+instead decided to put a lock on all of
+the<00:09:22.560><c> oval</c><00:09:22.959><c> office</c><00:09:23.279><c> rows</c><00:09:23.920><c> this</c><00:09:24.080><c> would</c><00:09:24.240><c> be</c><00:09:24.399><c> a</c><00:09:24.480><c> lot</c>
+
+00:09:24.710 --> 00:09:24.720 align:start position:0%
+the oval office rows this would be a lot
+ 
+
+00:09:24.720 --> 00:09:26.710 align:start position:0%
+the oval office rows this would be a lot
+faster<00:09:25.279><c> because</c><00:09:25.519><c> we</c><00:09:25.760><c> already</c><00:09:26.080><c> know</c><00:09:26.320><c> from</c><00:09:26.560><c> our</c>
+
+00:09:26.710 --> 00:09:26.720 align:start position:0%
+faster because we already know from our
+ 
+
+00:09:26.720 --> 00:09:28.870 align:start position:0%
+faster because we already know from our
+index<00:09:27.120><c> that</c><00:09:27.279><c> the</c><00:09:27.440><c> oval</c><00:09:27.760><c> office</c><00:09:28.160><c> has</c><00:09:28.399><c> primary</c>
+
+00:09:28.870 --> 00:09:28.880 align:start position:0%
+index that the oval office has primary
+ 
+
+00:09:28.880 --> 00:09:31.829 align:start position:0%
+index that the oval office has primary
+ids<00:09:29.360><c> 2</c><00:09:29.680><c> and</c><00:09:29.920><c> 3.</c><00:09:30.560><c> so</c><00:09:30.720><c> as</c><00:09:30.959><c> a</c><00:09:31.040><c> result</c><00:09:31.360><c> of</c><00:09:31.440><c> that</c><00:09:31.680><c> i</c>
+
+00:09:31.829 --> 00:09:31.839 align:start position:0%
+ids 2 and 3. so as a result of that i
+ 
+
+00:09:31.839 --> 00:09:33.590 align:start position:0%
+ids 2 and 3. so as a result of that i
+know<00:09:32.000><c> that</c><00:09:32.240><c> any</c><00:09:32.480><c> oval</c><00:09:32.800><c> office</c><00:09:33.120><c> meeting</c><00:09:33.440><c> on</c>
+
+00:09:33.590 --> 00:09:33.600 align:start position:0%
+know that any oval office meeting on
+ 
+
+00:09:33.600 --> 00:09:35.509 align:start position:0%
+know that any oval office meeting on
+tuesday<00:09:34.080><c> is</c><00:09:34.240><c> going</c><00:09:34.480><c> to</c><00:09:34.560><c> be</c><00:09:34.800><c> on</c><00:09:34.880><c> that</c><00:09:35.120><c> greater</c>
+
+00:09:35.509 --> 00:09:35.519 align:start position:0%
+tuesday is going to be on that greater
+ 
+
+00:09:35.519 --> 00:09:37.750 align:start position:0%
+tuesday is going to be on that greater
+set<00:09:36.160><c> including</c><00:09:36.720><c> all</c><00:09:36.880><c> of</c><00:09:36.959><c> the</c><00:09:37.120><c> meetings</c><00:09:37.519><c> that</c>
+
+00:09:37.750 --> 00:09:37.760 align:start position:0%
+set including all of the meetings that
+ 
+
+00:09:37.760 --> 00:09:39.350 align:start position:0%
+set including all of the meetings that
+include<00:09:38.000><c> the</c><00:09:38.160><c> oval</c><00:09:38.480><c> office</c>
+
+00:09:39.350 --> 00:09:39.360 align:start position:0%
+include the oval office
+ 
+
+00:09:39.360 --> 00:09:41.430 align:start position:0%
+include the oval office
+as<00:09:39.519><c> a</c><00:09:39.600><c> result</c><00:09:40.000><c> of</c><00:09:40.080><c> that</c><00:09:40.480><c> this</c><00:09:40.720><c> predicate</c><00:09:41.200><c> lock</c>
+
+00:09:41.430 --> 00:09:41.440 align:start position:0%
+as a result of that this predicate lock
+ 
+
+00:09:41.440 --> 00:09:43.430 align:start position:0%
+as a result of that this predicate lock
+is<00:09:41.600><c> actually</c><00:09:41.920><c> going</c><00:09:42.080><c> to</c><00:09:42.160><c> be</c><00:09:42.320><c> much</c><00:09:42.560><c> faster</c>
+
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+is actually going to be much faster
+ 
+
+00:09:43.440 --> 00:09:44.870 align:start position:0%
+is actually going to be much faster
+although<00:09:43.760><c> it</c><00:09:43.839><c> does</c><00:09:44.080><c> come</c><00:09:44.320><c> at</c><00:09:44.399><c> the</c><00:09:44.480><c> cost</c><00:09:44.800><c> of</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+although it does come at the cost of
+ 
+
+00:09:44.880 --> 00:09:46.710 align:start position:0%
+although it does come at the cost of
+potentially<00:09:45.440><c> locking</c><00:09:45.839><c> too</c><00:09:46.000><c> many</c><00:09:46.240><c> things</c><00:09:46.560><c> and</c>
+
+00:09:46.710 --> 00:09:46.720 align:start position:0%
+potentially locking too many things and
+ 
+
+00:09:46.720 --> 00:09:48.230 align:start position:0%
+potentially locking too many things and
+slowing<00:09:47.120><c> down</c><00:09:47.440><c> other</c><00:09:47.680><c> unrelated</c>
+
+00:09:48.230 --> 00:09:48.240 align:start position:0%
+slowing down other unrelated
+ 
+
+00:09:48.240 --> 00:09:50.630 align:start position:0%
+slowing down other unrelated
+transactions<00:09:49.440><c> this</c><00:09:49.600><c> is</c><00:09:49.760><c> known</c><00:09:50.000><c> as</c><00:09:50.240><c> index</c>
+
+00:09:50.630 --> 00:09:50.640 align:start position:0%
+transactions this is known as index
+ 
+
+00:09:50.640 --> 00:09:52.070 align:start position:0%
+transactions this is known as index
+range<00:09:50.959><c> locking</c>
+
+00:09:52.070 --> 00:09:52.080 align:start position:0%
+range locking
+ 
+
+00:09:52.080 --> 00:09:53.670 align:start position:0%
+range locking
+because<00:09:52.320><c> we're</c><00:09:52.480><c> basically</c><00:09:52.959><c> taking</c><00:09:53.279><c> a</c><00:09:53.360><c> super</c>
+
+00:09:53.670 --> 00:09:53.680 align:start position:0%
+because we're basically taking a super
+ 
+
+00:09:53.680 --> 00:09:55.269 align:start position:0%
+because we're basically taking a super
+set<00:09:54.000><c> of</c><00:09:54.240><c> all</c><00:09:54.399><c> the</c><00:09:54.560><c> things</c><00:09:54.800><c> that</c><00:09:54.880><c> we</c><00:09:55.040><c> want</c><00:09:55.200><c> to</c>
+
+00:09:55.269 --> 00:09:55.279 align:start position:0%
+set of all the things that we want to
+ 
+
+00:09:55.279 --> 00:09:57.670 align:start position:0%
+set of all the things that we want to
+put<00:09:55.440><c> a</c><00:09:55.519><c> predicate</c><00:09:55.920><c> lock</c><00:09:56.240><c> on</c><00:09:56.880><c> however</c><00:09:57.440><c> it's</c>
+
+00:09:57.670 --> 00:09:57.680 align:start position:0%
+put a predicate lock on however it's
+ 
+
+00:09:57.680 --> 00:09:59.509 align:start position:0%
+put a predicate lock on however it's
+faster<00:09:58.320><c> because</c><00:09:58.720><c> of</c><00:09:58.800><c> the</c><00:09:58.959><c> fact</c><00:09:59.200><c> that</c><00:09:59.360><c> we</c>
+
+00:09:59.509 --> 00:09:59.519 align:start position:0%
+faster because of the fact that we
+ 
+
+00:09:59.519 --> 00:10:01.430 align:start position:0%
+faster because of the fact that we
+already<00:09:59.839><c> have</c><00:10:00.000><c> this</c><00:10:00.240><c> query</c><00:10:00.720><c> pre</c>
+
+00:10:01.430 --> 00:10:01.440 align:start position:0%
+already have this query pre
+ 
+
+00:10:01.440 --> 00:10:04.630 align:start position:0%
+already have this query pre
+pre-populated<00:10:02.240><c> for</c><00:10:02.480><c> us</c><00:10:02.720><c> via</c><00:10:02.959><c> the</c><00:10:03.120><c> index</c><00:10:04.320><c> so</c><00:10:04.480><c> as</c>
+
+00:10:04.630 --> 00:10:04.640 align:start position:0%
+pre-populated for us via the index so as
+ 
+
+00:10:04.640 --> 00:10:06.150 align:start position:0%
+pre-populated for us via the index so as
+you<00:10:04.720><c> can</c><00:10:04.880><c> see</c><00:10:05.120><c> i</c><00:10:05.200><c> would</c><00:10:05.360><c> then</c><00:10:05.519><c> just</c><00:10:05.680><c> go</c><00:10:05.839><c> ahead</c>
+
+00:10:06.150 --> 00:10:06.160 align:start position:0%
+you can see i would then just go ahead
+ 
+
+00:10:06.160 --> 00:10:08.389 align:start position:0%
+you can see i would then just go ahead
+and<00:10:06.240><c> put</c><00:10:06.399><c> a</c><00:10:06.480><c> lock</c><00:10:06.800><c> on</c><00:10:07.120><c> ids</c><00:10:07.519><c> two</c><00:10:07.760><c> and</c><00:10:07.839><c> three</c><00:10:08.240><c> even</c>
+
+00:10:08.389 --> 00:10:08.399 align:start position:0%
+and put a lock on ids two and three even
+ 
+
+00:10:08.399 --> 00:10:10.069 align:start position:0%
+and put a lock on ids two and three even
+though<00:10:08.640><c> neither</c><00:10:09.040><c> actually</c><00:10:09.360><c> relevant</c><00:10:09.760><c> for</c><00:10:09.920><c> my</c>
+
+00:10:10.069 --> 00:10:10.079 align:start position:0%
+though neither actually relevant for my
+ 
+
+00:10:10.079 --> 00:10:12.230 align:start position:0%
+though neither actually relevant for my
+query<00:10:10.720><c> it's</c><00:10:10.880><c> a</c><00:10:10.959><c> superset</c><00:10:11.600><c> and</c><00:10:11.680><c> if</c><00:10:11.839><c> there</c><00:10:12.000><c> was</c>
+
+00:10:12.230 --> 00:10:12.240 align:start position:0%
+query it's a superset and if there was
+ 
+
+00:10:12.240 --> 00:10:13.990 align:start position:0%
+query it's a superset and if there was
+an<00:10:12.399><c> oval</c><00:10:12.720><c> office</c><00:10:12.959><c> with</c><00:10:13.120><c> tuesday</c><00:10:13.600><c> meeting</c><00:10:13.920><c> in</c>
+
+00:10:13.990 --> 00:10:14.000 align:start position:0%
+an oval office with tuesday meeting in
+ 
+
+00:10:14.000 --> 00:10:16.710 align:start position:0%
+an oval office with tuesday meeting in
+there<00:10:14.399><c> it</c><00:10:14.560><c> would</c><00:10:14.720><c> have</c><00:10:14.880><c> locked</c><00:10:15.120><c> that</c><00:10:15.360><c> too</c>
+
+00:10:16.710 --> 00:10:16.720 align:start position:0%
+there it would have locked that too
+ 
+
+00:10:16.720 --> 00:10:18.949 align:start position:0%
+there it would have locked that too
+okay<00:10:17.360><c> so</c><00:10:17.519><c> now</c><00:10:17.680><c> let's</c><00:10:17.920><c> talk</c><00:10:18.160><c> about</c><00:10:18.399><c> two</c><00:10:18.640><c> phase</c>
+
+00:10:18.949 --> 00:10:18.959 align:start position:0%
+okay so now let's talk about two phase
+ 
+
+00:10:18.959 --> 00:10:20.949 align:start position:0%
+okay so now let's talk about two phase
+lockings<00:10:19.360><c> performance</c><00:10:20.399><c> it's</c><00:10:20.640><c> actually</c>
+
+00:10:20.949 --> 00:10:20.959 align:start position:0%
+lockings performance it's actually
+ 
+
+00:10:20.959 --> 00:10:23.269 align:start position:0%
+lockings performance it's actually
+pretty<00:10:21.279><c> bad</c><00:10:21.760><c> why</c><00:10:22.160><c> because</c><00:10:22.480><c> of</c><00:10:22.560><c> the</c><00:10:22.720><c> fact</c><00:10:23.040><c> that</c>
+
+00:10:23.269 --> 00:10:23.279 align:start position:0%
+pretty bad why because of the fact that
+ 
+
+00:10:23.279 --> 00:10:25.750 align:start position:0%
+pretty bad why because of the fact that
+we<00:10:23.519><c> end</c><00:10:23.680><c> up</c><00:10:23.839><c> using</c><00:10:24.160><c> so</c><00:10:24.320><c> many</c><00:10:24.560><c> locks</c><00:10:25.200><c> we</c><00:10:25.440><c> slow</c>
+
+00:10:25.750 --> 00:10:25.760 align:start position:0%
+we end up using so many locks we slow
+ 
+
+00:10:25.760 --> 00:10:27.750 align:start position:0%
+we end up using so many locks we slow
+down<00:10:26.000><c> a</c><00:10:26.079><c> bunch</c><00:10:26.320><c> of</c><00:10:26.480><c> unrelated</c><00:10:27.120><c> transactions</c>
+
+00:10:27.750 --> 00:10:27.760 align:start position:0%
+down a bunch of unrelated transactions
+ 
+
+00:10:27.760 --> 00:10:29.269 align:start position:0%
+down a bunch of unrelated transactions
+that<00:10:27.920><c> may</c><00:10:28.160><c> not</c><00:10:28.320><c> have</c><00:10:28.560><c> actually</c><00:10:28.880><c> caused</c><00:10:29.200><c> a</c>
+
+00:10:29.269 --> 00:10:29.279 align:start position:0%
+that may not have actually caused a
+ 
+
+00:10:29.279 --> 00:10:30.630 align:start position:0%
+that may not have actually caused a
+concurrency<00:10:29.839><c> bug</c>
+
+00:10:30.630 --> 00:10:30.640 align:start position:0%
+concurrency bug
+ 
+
+00:10:30.640 --> 00:10:32.790 align:start position:0%
+concurrency bug
+additionally<00:10:31.440><c> we</c><00:10:31.760><c> often</c><00:10:32.079><c> have</c><00:10:32.320><c> two-phase</c>
+
+00:10:32.790 --> 00:10:32.800 align:start position:0%
+additionally we often have two-phase
+ 
+
+00:10:32.800 --> 00:10:34.550 align:start position:0%
+additionally we often have two-phase
+locking<00:10:33.120><c> leading</c><00:10:33.440><c> to</c><00:10:33.600><c> deadlocks</c><00:10:34.320><c> and</c><00:10:34.480><c> the</c>
+
+00:10:34.550 --> 00:10:34.560 align:start position:0%
+locking leading to deadlocks and the
+ 
+
+00:10:34.560 --> 00:10:36.230 align:start position:0%
+locking leading to deadlocks and the
+database<00:10:35.120><c> has</c><00:10:35.200><c> to</c><00:10:35.360><c> detect</c><00:10:35.760><c> when</c><00:10:35.920><c> there's</c><00:10:36.160><c> a</c>
+
+00:10:36.230 --> 00:10:36.240 align:start position:0%
+database has to detect when there's a
+ 
+
+00:10:36.240 --> 00:10:38.630 align:start position:0%
+database has to detect when there's a
+deadlock<00:10:36.959><c> abort</c><00:10:37.360><c> one</c><00:10:37.519><c> of</c><00:10:37.600><c> those</c><00:10:37.839><c> transactions</c>
+
+00:10:38.630 --> 00:10:38.640 align:start position:0%
+deadlock abort one of those transactions
+ 
+
+00:10:38.640 --> 00:10:40.949 align:start position:0%
+deadlock abort one of those transactions
+involved<00:10:39.519><c> and</c><00:10:39.600><c> then</c><00:10:39.839><c> let</c><00:10:40.000><c> the</c><00:10:40.160><c> other</c><00:10:40.399><c> complete</c>
+
+00:10:40.949 --> 00:10:40.959 align:start position:0%
+involved and then let the other complete
+ 
+
+00:10:40.959 --> 00:10:42.949 align:start position:0%
+involved and then let the other complete
+what's<00:10:41.200><c> a</c><00:10:41.279><c> deadlock</c><00:10:41.680><c> it</c><00:10:41.839><c> just</c><00:10:42.000><c> means</c><00:10:42.320><c> when</c><00:10:42.640><c> two</c>
+
+00:10:42.949 --> 00:10:42.959 align:start position:0%
+what's a deadlock it just means when two
+ 
+
+00:10:42.959 --> 00:10:45.350 align:start position:0%
+what's a deadlock it just means when two
+processes<00:10:43.839><c> are</c><00:10:44.079><c> waiting</c><00:10:44.399><c> for</c><00:10:44.560><c> the</c><00:10:44.720><c> resources</c>
+
+00:10:45.350 --> 00:10:45.360 align:start position:0%
+processes are waiting for the resources
+ 
+
+00:10:45.360 --> 00:10:47.269 align:start position:0%
+processes are waiting for the resources
+of<00:10:45.440><c> one</c><00:10:45.600><c> another</c><00:10:46.240><c> and</c><00:10:46.399><c> as</c><00:10:46.560><c> a</c><00:10:46.640><c> result</c><00:10:46.959><c> neither</c>
+
+00:10:47.269 --> 00:10:47.279 align:start position:0%
+of one another and as a result neither
+ 
+
+00:10:47.279 --> 00:10:48.790 align:start position:0%
+of one another and as a result neither
+can<00:10:47.440><c> go</c><00:10:47.600><c> forward</c><00:10:48.000><c> so</c><00:10:48.160><c> i'm</c><00:10:48.320><c> gonna</c><00:10:48.480><c> show</c><00:10:48.640><c> an</c>
+
+00:10:48.790 --> 00:10:48.800 align:start position:0%
+can go forward so i'm gonna show an
+ 
+
+00:10:48.800 --> 00:10:50.870 align:start position:0%
+can go forward so i'm gonna show an
+example<00:10:49.200><c> of</c><00:10:49.279><c> this</c><00:10:49.519><c> right</c><00:10:49.680><c> now</c>
+
+00:10:50.870 --> 00:10:50.880 align:start position:0%
+example of this right now
+ 
+
+00:10:50.880 --> 00:10:52.470 align:start position:0%
+example of this right now
+let's<00:10:51.040><c> say</c><00:10:51.279><c> i</c><00:10:51.440><c> have</c><00:10:51.600><c> the</c><00:10:51.760><c> key</c><00:10:52.079><c> jordan</c>
+
+00:10:52.470 --> 00:10:52.480 align:start position:0%
+let's say i have the key jordan
+ 
+
+00:10:52.480 --> 00:10:55.269 align:start position:0%
+let's say i have the key jordan
+attractiveness<00:10:53.440><c> in</c><00:10:53.600><c> my</c><00:10:53.920><c> database</c><00:10:54.800><c> and</c><00:10:55.120><c> right</c>
+
+00:10:55.269 --> 00:10:55.279 align:start position:0%
+attractiveness in my database and right
+ 
+
+00:10:55.279 --> 00:10:56.710 align:start position:0%
+attractiveness in my database and right
+now<00:10:55.519><c> it's</c><00:10:55.680><c> an</c><00:10:55.839><c> eight</c><00:10:56.160><c> because</c><00:10:56.320><c> you</c><00:10:56.480><c> know</c><00:10:56.640><c> i'm</c>
+
+00:10:56.710 --> 00:10:56.720 align:start position:0%
+now it's an eight because you know i'm
+ 
+
+00:10:56.720 --> 00:10:58.710 align:start position:0%
+now it's an eight because you know i'm
+looking<00:10:56.959><c> pretty</c><00:10:57.200><c> handsome</c><00:10:57.680><c> these</c><00:10:57.839><c> days</c><00:10:58.160><c> but</c><00:10:58.640><c> i</c>
+
+00:10:58.710 --> 00:10:58.720 align:start position:0%
+looking pretty handsome these days but i
+ 
+
+00:10:58.720 --> 00:11:00.310 align:start position:0%
+looking pretty handsome these days but i
+could<00:10:58.959><c> cut</c><00:10:59.120><c> a</c><00:10:59.200><c> little</c><00:10:59.360><c> bit</c><00:10:59.519><c> further</c><00:10:59.920><c> get</c><00:11:00.079><c> this</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+could cut a little bit further get this
+ 
+
+00:11:00.320 --> 00:11:02.710 align:start position:0%
+could cut a little bit further get this
+six-pack<00:11:00.800><c> popping</c><00:11:01.200><c> or</c><00:11:01.279><c> whatever</c>
+
+00:11:02.710 --> 00:11:02.720 align:start position:0%
+six-pack popping or whatever
+ 
+
+00:11:02.720 --> 00:11:04.949 align:start position:0%
+six-pack popping or whatever
+so<00:11:02.880><c> now</c><00:11:03.040><c> i</c><00:11:03.200><c> have</c><00:11:03.279><c> a</c><00:11:03.440><c> transaction</c><00:11:04.079><c> one</c><00:11:04.480><c> because</c>
+
+00:11:04.949 --> 00:11:04.959 align:start position:0%
+so now i have a transaction one because
+ 
+
+00:11:04.959 --> 00:11:06.470 align:start position:0%
+so now i have a transaction one because
+i've<00:11:05.200><c> gone</c><00:11:05.360><c> to</c><00:11:05.519><c> the</c><00:11:05.600><c> gym</c><00:11:05.839><c> a</c><00:11:05.920><c> little</c><00:11:06.079><c> bit</c><00:11:06.240><c> more</c>
+
+00:11:06.470 --> 00:11:06.480 align:start position:0%
+i've gone to the gym a little bit more
+ 
+
+00:11:06.480 --> 00:11:09.670 align:start position:0%
+i've gone to the gym a little bit more
+and<00:11:06.640><c> got</c><00:11:06.800><c> my</c><00:11:06.959><c> bench</c><00:11:07.279><c> from</c><00:11:07.519><c> 225</c><00:11:08.240><c> to</c><00:11:08.399><c> 245</c>
+
+00:11:09.670 --> 00:11:09.680 align:start position:0%
+and got my bench from 225 to 245
+ 
+
+00:11:09.680 --> 00:11:12.310 align:start position:0%
+and got my bench from 225 to 245
+and<00:11:09.839><c> so</c><00:11:10.320><c> transaction</c><00:11:10.959><c> one</c><00:11:11.360><c> is</c><00:11:11.519><c> going</c><00:11:11.839><c> to</c><00:11:12.079><c> read</c>
+
+00:11:12.310 --> 00:11:12.320 align:start position:0%
+and so transaction one is going to read
+ 
+
+00:11:12.320 --> 00:11:14.069 align:start position:0%
+and so transaction one is going to read
+jordan<00:11:12.640><c> attractiveness</c><00:11:13.360><c> get</c><00:11:13.519><c> the</c><00:11:13.600><c> value</c><00:11:13.920><c> of</c>
+
+00:11:14.069 --> 00:11:14.079 align:start position:0%
+jordan attractiveness get the value of
+ 
+
+00:11:14.079 --> 00:11:16.389 align:start position:0%
+jordan attractiveness get the value of
+that<00:11:14.240><c> and</c><00:11:14.399><c> then</c><00:11:14.640><c> increment</c><00:11:15.040><c> it</c><00:11:15.120><c> by</c><00:11:15.360><c> one</c>
+
+00:11:16.389 --> 00:11:16.399 align:start position:0%
+that and then increment it by one
+ 
+
+00:11:16.399 --> 00:11:17.829 align:start position:0%
+that and then increment it by one
+so<00:11:16.560><c> what</c><00:11:16.720><c> it's</c><00:11:16.880><c> going</c><00:11:16.959><c> to</c><00:11:17.040><c> do</c><00:11:17.279><c> is</c><00:11:17.519><c> grab</c><00:11:17.760><c> the</c>
+
+00:11:17.829 --> 00:11:17.839 align:start position:0%
+so what it's going to do is grab the
+ 
+
+00:11:17.839 --> 00:11:20.870 align:start position:0%
+so what it's going to do is grab the
+shared<00:11:18.160><c> lock</c><00:11:18.480><c> to</c><00:11:18.640><c> read</c><00:11:19.360><c> and</c><00:11:19.440><c> then</c><00:11:19.839><c> finally</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+shared lock to read and then finally
+ 
+
+00:11:20.880 --> 00:11:23.190 align:start position:0%
+shared lock to read and then finally
+transaction<00:11:21.519><c> 2</c><00:11:21.839><c> is</c><00:11:21.920><c> now</c><00:11:22.160><c> going</c><00:11:22.320><c> to</c><00:11:22.480><c> come</c><00:11:22.720><c> in</c>
+
+00:11:23.190 --> 00:11:23.200 align:start position:0%
+transaction 2 is now going to come in
+ 
+
+00:11:23.200 --> 00:11:25.750 align:start position:0%
+transaction 2 is now going to come in
+because<00:11:23.519><c> i've</c><00:11:24.160><c> you</c><00:11:24.320><c> know</c><00:11:24.480><c> got</c><00:11:24.720><c> my</c><00:11:24.880><c> squad</c><00:11:25.279><c> up</c><00:11:25.440><c> 20</c>
+
+00:11:25.750 --> 00:11:25.760 align:start position:0%
+because i've you know got my squad up 20
+ 
+
+00:11:25.760 --> 00:11:28.230 align:start position:0%
+because i've you know got my squad up 20
+pounds<00:11:26.079><c> as</c><00:11:26.240><c> well</c><00:11:26.959><c> and</c><00:11:27.200><c> it</c><00:11:27.360><c> is</c><00:11:27.519><c> also</c><00:11:27.839><c> going</c><00:11:28.079><c> to</c>
+
+00:11:28.230 --> 00:11:28.240 align:start position:0%
+pounds as well and it is also going to
+ 
+
+00:11:28.240 --> 00:11:30.230 align:start position:0%
+pounds as well and it is also going to
+try<00:11:28.480><c> and</c><00:11:28.720><c> read</c><00:11:29.120><c> jordan</c><00:11:29.440><c> attractiveness</c><00:11:30.079><c> and</c>
+
+00:11:30.230 --> 00:11:30.240 align:start position:0%
+try and read jordan attractiveness and
+ 
+
+00:11:30.240 --> 00:11:32.389 align:start position:0%
+try and read jordan attractiveness and
+increment<00:11:30.720><c> it</c><00:11:31.279><c> so</c><00:11:31.440><c> right</c><00:11:31.680><c> now</c><00:11:32.000><c> if</c><00:11:32.160><c> you're</c>
+
+00:11:32.389 --> 00:11:32.399 align:start position:0%
+increment it so right now if you're
+ 
+
+00:11:32.399 --> 00:11:34.069 align:start position:0%
+increment it so right now if you're
+familiar<00:11:32.720><c> with</c><00:11:32.880><c> concurrent</c><00:11:33.360><c> programming</c><00:11:33.920><c> you</c>
+
+00:11:34.069 --> 00:11:34.079 align:start position:0%
+familiar with concurrent programming you
+ 
+
+00:11:34.079 --> 00:11:35.509 align:start position:0%
+familiar with concurrent programming you
+know<00:11:34.240><c> that</c><00:11:34.399><c> this</c><00:11:34.560><c> could</c><00:11:34.720><c> potentially</c><00:11:35.200><c> be</c><00:11:35.360><c> an</c>
+
+00:11:35.509 --> 00:11:35.519 align:start position:0%
+know that this could potentially be an
+ 
+
+00:11:35.519 --> 00:11:37.509 align:start position:0%
+know that this could potentially be an
+issue<00:11:36.000><c> in</c><00:11:36.160><c> the</c><00:11:36.320><c> sense</c><00:11:36.560><c> that</c><00:11:36.880><c> they</c><00:11:37.040><c> would</c><00:11:37.200><c> both</c>
+
+00:11:37.509 --> 00:11:37.519 align:start position:0%
+issue in the sense that they would both
+ 
+
+00:11:37.519 --> 00:11:39.829 align:start position:0%
+issue in the sense that they would both
+read<00:11:37.760><c> jordan</c><00:11:38.160><c> attractiveness</c><00:11:39.200><c> both</c><00:11:39.440><c> see</c><00:11:39.680><c> that</c>
+
+00:11:39.829 --> 00:11:39.839 align:start position:0%
+read jordan attractiveness both see that
+ 
+
+00:11:39.839 --> 00:11:40.790 align:start position:0%
+read jordan attractiveness both see that
+it's<00:11:40.000><c> eight</c>
+
+00:11:40.790 --> 00:11:40.800 align:start position:0%
+it's eight
+ 
+
+00:11:40.800 --> 00:11:43.509 align:start position:0%
+it's eight
+both<00:11:41.120><c> add</c><00:11:41.360><c> 1</c><00:11:41.600><c> to</c><00:11:41.839><c> it</c><00:11:42.320><c> and</c><00:11:42.480><c> then</c><00:11:42.959><c> the</c><00:11:43.120><c> final</c>
+
+00:11:43.509 --> 00:11:43.519 align:start position:0%
+both add 1 to it and then the final
+ 
+
+00:11:43.519 --> 00:11:45.910 align:start position:0%
+both add 1 to it and then the final
+value<00:11:43.920><c> would</c><00:11:44.079><c> be</c><00:11:44.240><c> 9</c><00:11:44.720><c> as</c><00:11:44.880><c> opposed</c><00:11:45.200><c> to</c><00:11:45.360><c> 10</c><00:11:45.680><c> which</c>
+
+00:11:45.910 --> 00:11:45.920 align:start position:0%
+value would be 9 as opposed to 10 which
+ 
+
+00:11:45.920 --> 00:11:47.430 align:start position:0%
+value would be 9 as opposed to 10 which
+is<00:11:46.000><c> what</c><00:11:46.160><c> it's</c><00:11:46.320><c> supposed</c><00:11:46.560><c> to</c><00:11:46.720><c> be</c>
+
+00:11:47.430 --> 00:11:47.440 align:start position:0%
+is what it's supposed to be
+ 
+
+00:11:47.440 --> 00:11:49.670 align:start position:0%
+is what it's supposed to be
+so<00:11:47.680><c> anyways</c><00:11:48.160><c> after</c><00:11:48.480><c> t2</c><00:11:48.880><c> comes</c><00:11:49.120><c> along</c><00:11:49.440><c> it's</c>
+
+00:11:49.670 --> 00:11:49.680 align:start position:0%
+so anyways after t2 comes along it's
+ 
+
+00:11:49.680 --> 00:11:51.350 align:start position:0%
+so anyways after t2 comes along it's
+going<00:11:49.839><c> to</c><00:11:50.000><c> read</c><00:11:50.240><c> the</c><00:11:50.320><c> shared</c><00:11:50.720><c> lock</c><00:11:51.040><c> or</c><00:11:51.200><c> it's</c>
+
+00:11:51.350 --> 00:11:51.360 align:start position:0%
+going to read the shared lock or it's
+ 
+
+00:11:51.360 --> 00:11:53.430 align:start position:0%
+going to read the shared lock or it's
+going<00:11:51.519><c> to</c><00:11:51.600><c> grab</c><00:11:51.839><c> the</c><00:11:51.920><c> shared</c><00:11:52.240><c> lock</c><00:11:52.639><c> and</c><00:11:53.200><c> both</c>
+
+00:11:53.430 --> 00:11:53.440 align:start position:0%
+going to grab the shared lock and both
+ 
+
+00:11:53.440 --> 00:11:55.190 align:start position:0%
+going to grab the shared lock and both
+of<00:11:53.600><c> these</c><00:11:53.839><c> transactions</c><00:11:54.480><c> see</c><00:11:54.639><c> that</c><00:11:54.800><c> the</c><00:11:54.880><c> value</c>
+
+00:11:55.190 --> 00:11:55.200 align:start position:0%
+of these transactions see that the value
+ 
+
+00:11:55.200 --> 00:11:57.430 align:start position:0%
+of these transactions see that the value
+of<00:11:55.279><c> jordan</c><00:11:55.680><c> attractiveness</c><00:11:56.320><c> is</c><00:11:56.480><c> 8</c><00:11:57.040><c> which</c><00:11:57.279><c> is</c>
+
+00:11:57.430 --> 00:11:57.440 align:start position:0%
+of jordan attractiveness is 8 which is
+ 
+
+00:11:57.440 --> 00:11:59.110 align:start position:0%
+of jordan attractiveness is 8 which is
+bad
+
+00:11:59.110 --> 00:11:59.120 align:start position:0%
+bad
+ 
+
+00:11:59.120 --> 00:12:01.430 align:start position:0%
+bad
+finally<00:11:59.920><c> now</c><00:12:00.160><c> we</c><00:12:00.240><c> have</c><00:12:00.399><c> a</c><00:12:00.480><c> deadlock</c><00:12:01.120><c> both</c><00:12:01.360><c> of</c>
+
+00:12:01.430 --> 00:12:01.440 align:start position:0%
+finally now we have a deadlock both of
+ 
+
+00:12:01.440 --> 00:12:02.949 align:start position:0%
+finally now we have a deadlock both of
+these<00:12:01.680><c> guys</c><00:12:01.920><c> want</c><00:12:02.079><c> to</c><00:12:02.240><c> write</c><00:12:02.480><c> the</c><00:12:02.560><c> jordan</c>
+
+00:12:02.949 --> 00:12:02.959 align:start position:0%
+these guys want to write the jordan
+ 
+
+00:12:02.959 --> 00:12:05.190 align:start position:0%
+these guys want to write the jordan
+attractiveness<00:12:03.600><c> is</c><00:12:03.760><c> 9</c><00:12:04.240><c> but</c><00:12:04.480><c> neither</c><00:12:04.800><c> can</c><00:12:04.959><c> grab</c>
+
+00:12:05.190 --> 00:12:05.200 align:start position:0%
+attractiveness is 9 but neither can grab
+ 
+
+00:12:05.200 --> 00:12:06.870 align:start position:0%
+attractiveness is 9 but neither can grab
+the<00:12:05.360><c> exclusive</c><00:12:05.920><c> block</c><00:12:06.240><c> because</c><00:12:06.480><c> they're</c><00:12:06.639><c> both</c>
+
+00:12:06.870 --> 00:12:06.880 align:start position:0%
+the exclusive block because they're both
+ 
+
+00:12:06.880 --> 00:12:09.269 align:start position:0%
+the exclusive block because they're both
+holding<00:12:07.200><c> the</c><00:12:07.279><c> shared</c><00:12:07.600><c> lock</c><00:12:08.399><c> as</c><00:12:08.639><c> you</c><00:12:08.720><c> can</c><00:12:08.959><c> see</c>
+
+00:12:09.269 --> 00:12:09.279 align:start position:0%
+holding the shared lock as you can see
+ 
+
+00:12:09.279 --> 00:12:11.190 align:start position:0%
+holding the shared lock as you can see
+this<00:12:09.519><c> is</c><00:12:09.600><c> the</c><00:12:09.760><c> definition</c><00:12:10.240><c> of</c><00:12:10.320><c> a</c><00:12:10.399><c> deadlock</c><00:12:11.120><c> and</c>
+
+00:12:11.190 --> 00:12:11.200 align:start position:0%
+this is the definition of a deadlock and
+ 
+
+00:12:11.200 --> 00:12:12.629 align:start position:0%
+this is the definition of a deadlock and
+the<00:12:11.360><c> database</c><00:12:11.839><c> is</c><00:12:11.920><c> going</c><00:12:12.079><c> to</c><00:12:12.160><c> go</c><00:12:12.240><c> ahead</c><00:12:12.560><c> and</c>
+
+00:12:12.629 --> 00:12:12.639 align:start position:0%
+the database is going to go ahead and
+ 
+
+00:12:12.639 --> 00:12:14.790 align:start position:0%
+the database is going to go ahead and
+have<00:12:12.800><c> to</c><00:12:12.959><c> abort</c><00:12:13.360><c> one</c><00:12:13.519><c> of</c><00:12:13.600><c> these</c><00:12:13.839><c> transactions</c>
+
+00:12:14.790 --> 00:12:14.800 align:start position:0%
+have to abort one of these transactions
+ 
+
+00:12:14.800 --> 00:12:17.509 align:start position:0%
+have to abort one of these transactions
+so<00:12:14.959><c> let's</c><00:12:15.120><c> say</c><00:12:15.279><c> it</c><00:12:15.440><c> aborts</c><00:12:15.839><c> transaction</c><00:12:16.399><c> 2.</c>
+
+00:12:17.509 --> 00:12:17.519 align:start position:0%
+so let's say it aborts transaction 2.
+ 
+
+00:12:17.519 --> 00:12:19.269 align:start position:0%
+so let's say it aborts transaction 2.
+now<00:12:17.760><c> we're</c><00:12:17.920><c> back</c><00:12:18.079><c> to</c><00:12:18.240><c> the</c><00:12:18.320><c> situation</c><00:12:18.880><c> we're</c><00:12:19.120><c> in</c>
+
+00:12:19.269 --> 00:12:19.279 align:start position:0%
+now we're back to the situation we're in
+ 
+
+00:12:19.279 --> 00:12:21.430 align:start position:0%
+now we're back to the situation we're in
+before<00:12:20.000><c> where</c><00:12:20.160><c> we</c><00:12:20.320><c> have</c><00:12:20.560><c> the</c><00:12:20.720><c> shared</c><00:12:21.040><c> lock</c>
+
+00:12:21.430 --> 00:12:21.440 align:start position:0%
+before where we have the shared lock
+ 
+
+00:12:21.440 --> 00:12:23.990 align:start position:0%
+before where we have the shared lock
+grabbed<00:12:21.760><c> by</c><00:12:21.920><c> t1</c><00:12:22.800><c> and</c><00:12:22.959><c> t1</c><00:12:23.360><c> is</c><00:12:23.440><c> now</c><00:12:23.680><c> going</c><00:12:23.839><c> to</c>
+
+00:12:23.990 --> 00:12:24.000 align:start position:0%
+grabbed by t1 and t1 is now going to
+ 
+
+00:12:24.000 --> 00:12:26.150 align:start position:0%
+grabbed by t1 and t1 is now going to
+upgrade<00:12:24.320><c> itself</c><00:12:24.639><c> to</c><00:12:24.800><c> the</c><00:12:24.959><c> exclusive</c><00:12:25.440><c> block</c>
+
+00:12:26.150 --> 00:12:26.160 align:start position:0%
+upgrade itself to the exclusive block
+ 
+
+00:12:26.160 --> 00:12:28.069 align:start position:0%
+upgrade itself to the exclusive block
+and<00:12:26.320><c> then</c><00:12:26.560><c> increment</c><00:12:26.959><c> my</c><00:12:27.120><c> attractiveness</c><00:12:27.920><c> now</c>
+
+00:12:28.069 --> 00:12:28.079 align:start position:0%
+and then increment my attractiveness now
+ 
+
+00:12:28.079 --> 00:12:30.629 align:start position:0%
+and then increment my attractiveness now
+that<00:12:28.240><c> i'm</c><00:12:28.399><c> a</c><00:12:28.480><c> 9.</c><00:12:29.200><c> now</c><00:12:29.440><c> t2</c><00:12:29.920><c> can</c><00:12:30.079><c> finally</c><00:12:30.480><c> come</c>
+
+00:12:30.629 --> 00:12:30.639 align:start position:0%
+that i'm a 9. now t2 can finally come
+ 
+
+00:12:30.639 --> 00:12:32.949 align:start position:0%
+that i'm a 9. now t2 can finally come
+along<00:12:30.959><c> and</c><00:12:31.120><c> be</c><00:12:31.279><c> retried</c><00:12:32.079><c> do</c><00:12:32.320><c> the</c><00:12:32.399><c> same</c><00:12:32.720><c> thing</c>
+
+00:12:32.949 --> 00:12:32.959 align:start position:0%
+along and be retried do the same thing
+ 
+
+00:12:32.959 --> 00:12:34.870 align:start position:0%
+along and be retried do the same thing
+where<00:12:33.120><c> it</c><00:12:33.279><c> grabs</c><00:12:33.600><c> the</c><00:12:33.680><c> shared</c><00:12:34.000><c> lock</c>
+
+00:12:34.870 --> 00:12:34.880 align:start position:0%
+where it grabs the shared lock
+ 
+
+00:12:34.880 --> 00:12:36.310 align:start position:0%
+where it grabs the shared lock
+go<00:12:35.040><c> ahead</c><00:12:35.279><c> and</c><00:12:35.440><c> upgrade</c><00:12:35.760><c> itself</c><00:12:36.079><c> to</c><00:12:36.240><c> the</c>
+
+00:12:36.310 --> 00:12:36.320 align:start position:0%
+go ahead and upgrade itself to the
+ 
+
+00:12:36.320 --> 00:12:38.710 align:start position:0%
+go ahead and upgrade itself to the
+exclusive<00:12:36.800><c> rock</c><00:12:37.279><c> uh</c><00:12:37.680><c> exclusive</c><00:12:38.160><c> lock</c><00:12:38.399><c> to</c><00:12:38.560><c> take</c>
+
+00:12:38.710 --> 00:12:38.720 align:start position:0%
+exclusive rock uh exclusive lock to take
+ 
+
+00:12:38.720 --> 00:12:39.750 align:start position:0%
+exclusive rock uh exclusive lock to take
+a<00:12:38.880><c> right</c>
+
+00:12:39.750 --> 00:12:39.760 align:start position:0%
+a right
+ 
+
+00:12:39.760 --> 00:12:41.910 align:start position:0%
+a right
+and<00:12:39.839><c> then</c><00:12:40.079><c> finally</c><00:12:40.639><c> now</c><00:12:40.800><c> i'm</c><00:12:40.959><c> a</c><00:12:41.040><c> 10</c><00:12:41.600><c> which</c><00:12:41.839><c> is</c>
+
+00:12:41.910 --> 00:12:41.920 align:start position:0%
+and then finally now i'm a 10 which is
+ 
+
+00:12:41.920 --> 00:12:44.230 align:start position:0%
+and then finally now i'm a 10 which is
+what<00:12:42.079><c> i</c><00:12:42.160><c> currently</c><00:12:42.639><c> am</c><00:12:42.959><c> accurate</c>
+
+00:12:44.230 --> 00:12:44.240 align:start position:0%
+what i currently am accurate
+ 
+
+00:12:44.240 --> 00:12:47.110 align:start position:0%
+what i currently am accurate
+okay<00:12:44.800><c> serializable</c><00:12:45.600><c> snapshot</c><00:12:46.240><c> isolation</c><00:12:46.959><c> is</c>
+
+00:12:47.110 --> 00:12:47.120 align:start position:0%
+okay serializable snapshot isolation is
+ 
+
+00:12:47.120 --> 00:12:48.949 align:start position:0%
+okay serializable snapshot isolation is
+the<00:12:47.279><c> third</c><00:12:47.680><c> possible</c><00:12:48.240><c> option</c><00:12:48.720><c> for</c>
+
+00:12:48.949 --> 00:12:48.959 align:start position:0%
+the third possible option for
+ 
+
+00:12:48.959 --> 00:12:51.110 align:start position:0%
+the third possible option for
+implementing<00:12:49.600><c> isolation</c>
+
+00:12:51.110 --> 00:12:51.120 align:start position:0%
+implementing isolation
+ 
+
+00:12:51.120 --> 00:12:53.269 align:start position:0%
+implementing isolation
+so<00:12:51.279><c> what's</c><00:12:51.519><c> the</c><00:12:51.680><c> idea</c><00:12:52.240><c> well</c><00:12:52.560><c> basically</c><00:12:53.120><c> we</c>
+
+00:12:53.269 --> 00:12:53.279 align:start position:0%
+so what's the idea well basically we
+ 
+
+00:12:53.279 --> 00:12:54.629 align:start position:0%
+so what's the idea well basically we
+just<00:12:53.519><c> let</c><00:12:53.760><c> all</c><00:12:53.920><c> of</c><00:12:54.000><c> the</c><00:12:54.160><c> threads</c><00:12:54.480><c> run</c>
+
+00:12:54.629 --> 00:12:54.639 align:start position:0%
+just let all of the threads run
+ 
+
+00:12:54.639 --> 00:12:57.110 align:start position:0%
+just let all of the threads run
+concurrently<00:12:55.279><c> like</c><00:12:55.519><c> normal</c><00:12:56.240><c> and</c><00:12:56.480><c> only</c><00:12:56.720><c> revert</c>
+
+00:12:57.110 --> 00:12:57.120 align:start position:0%
+concurrently like normal and only revert
+ 
+
+00:12:57.120 --> 00:12:58.949 align:start position:0%
+concurrently like normal and only revert
+a<00:12:57.200><c> transaction</c><00:12:57.920><c> if</c><00:12:58.079><c> there</c><00:12:58.240><c> was</c><00:12:58.320><c> a</c><00:12:58.399><c> concurrency</c>
+
+00:12:58.949 --> 00:12:58.959 align:start position:0%
+a transaction if there was a concurrency
+ 
+
+00:12:58.959 --> 00:13:00.949 align:start position:0%
+a transaction if there was a concurrency
+bug<00:12:59.279><c> that's</c><00:12:59.519><c> been</c><00:12:59.680><c> detected</c>
+
+00:13:00.949 --> 00:13:00.959 align:start position:0%
+bug that's been detected
+ 
+
+00:13:00.959 --> 00:13:02.470 align:start position:0%
+bug that's been detected
+so<00:13:01.200><c> all</c><00:13:01.440><c> reads</c><00:13:01.760><c> are</c><00:13:01.839><c> going</c><00:13:01.920><c> to</c><00:13:02.000><c> be</c><00:13:02.079><c> taken</c><00:13:02.320><c> from</c>
+
+00:13:02.470 --> 00:13:02.480 align:start position:0%
+so all reads are going to be taken from
+ 
+
+00:13:02.480 --> 00:13:04.870 align:start position:0%
+so all reads are going to be taken from
+a<00:13:02.560><c> snapshot</c><00:13:03.600><c> and</c><00:13:03.839><c> basically</c><00:13:04.480><c> we're</c><00:13:04.639><c> looking</c>
+
+00:13:04.870 --> 00:13:04.880 align:start position:0%
+a snapshot and basically we're looking
+ 
+
+00:13:04.880 --> 00:13:07.509 align:start position:0%
+a snapshot and basically we're looking
+for<00:13:05.120><c> two</c><00:13:05.360><c> things</c><00:13:06.240><c> let's</c><00:13:06.480><c> say</c><00:13:06.880><c> that</c><00:13:07.279><c> we're</c>
+
+00:13:07.509 --> 00:13:07.519 align:start position:0%
+for two things let's say that we're
+ 
+
+00:13:07.519 --> 00:13:09.910 align:start position:0%
+for two things let's say that we're
+going<00:13:07.760><c> to</c><00:13:07.920><c> read</c><00:13:08.160><c> from</c><00:13:08.320><c> a</c><00:13:08.399><c> snapshot</c><00:13:09.279><c> and</c><00:13:09.440><c> we</c><00:13:09.680><c> see</c>
+
+00:13:09.910 --> 00:13:09.920 align:start position:0%
+going to read from a snapshot and we see
+ 
+
+00:13:09.920 --> 00:13:11.750 align:start position:0%
+going to read from a snapshot and we see
+that<00:13:10.240><c> an</c><00:13:10.399><c> uncommitted</c><00:13:11.040><c> write</c><00:13:11.279><c> has</c><00:13:11.440><c> occurred</c>
+
+00:13:11.750 --> 00:13:11.760 align:start position:0%
+that an uncommitted write has occurred
+ 
+
+00:13:11.760 --> 00:13:13.750 align:start position:0%
+that an uncommitted write has occurred
+before<00:13:12.000><c> the</c><00:13:12.160><c> read</c><00:13:12.800><c> so</c><00:13:13.040><c> basically</c><00:13:13.440><c> we</c><00:13:13.600><c> have</c>
+
+00:13:13.750 --> 00:13:13.760 align:start position:0%
+before the read so basically we have
+ 
+
+00:13:13.760 --> 00:13:15.509 align:start position:0%
+before the read so basically we have
+another<00:13:14.160><c> transaction</c><00:13:14.800><c> that</c><00:13:14.959><c> is</c><00:13:15.120><c> going</c><00:13:15.360><c> to</c>
+
+00:13:15.509 --> 00:13:15.519 align:start position:0%
+another transaction that is going to
+ 
+
+00:13:15.519 --> 00:13:17.910 align:start position:0%
+another transaction that is going to
+write<00:13:15.839><c> to</c><00:13:16.000><c> this</c><00:13:16.240><c> object</c><00:13:16.800><c> but</c><00:13:17.120><c> hasn't</c><00:13:17.440><c> yet</c><00:13:17.680><c> done</c>
+
+00:13:17.910 --> 00:13:17.920 align:start position:0%
+write to this object but hasn't yet done
+ 
+
+00:13:17.920 --> 00:13:18.870 align:start position:0%
+write to this object but hasn't yet done
+so
+
+00:13:18.870 --> 00:13:18.880 align:start position:0%
+so
+ 
+
+00:13:18.880 --> 00:13:21.350 align:start position:0%
+so
+in<00:13:19.040><c> the</c><00:13:19.200><c> event</c><00:13:19.760><c> that</c><00:13:20.000><c> when</c><00:13:20.639><c> our</c><00:13:20.800><c> transaction</c>
+
+00:13:21.350 --> 00:13:21.360 align:start position:0%
+in the event that when our transaction
+ 
+
+00:13:21.360 --> 00:13:22.870 align:start position:0%
+in the event that when our transaction
+which<00:13:21.600><c> is</c><00:13:21.680><c> just</c><00:13:21.920><c> read</c><00:13:22.240><c> is</c><00:13:22.320><c> going</c><00:13:22.560><c> to</c><00:13:22.639><c> write</c>
+
+00:13:22.870 --> 00:13:22.880 align:start position:0%
+which is just read is going to write
+ 
+
+00:13:22.880 --> 00:13:25.269 align:start position:0%
+which is just read is going to write
+that<00:13:23.120><c> object</c><00:13:23.920><c> we</c><00:13:24.079><c> have</c><00:13:24.240><c> to</c><00:13:24.480><c> check</c><00:13:24.800><c> if</c><00:13:25.040><c> that</c>
+
+00:13:25.269 --> 00:13:25.279 align:start position:0%
+that object we have to check if that
+ 
+
+00:13:25.279 --> 00:13:27.590 align:start position:0%
+that object we have to check if that
+uncommitted<00:13:25.839><c> right</c><00:13:26.160><c> has</c><00:13:26.320><c> now</c><00:13:26.560><c> been</c><00:13:26.720><c> committed</c>
+
+00:13:27.590 --> 00:13:27.600 align:start position:0%
+uncommitted right has now been committed
+ 
+
+00:13:27.600 --> 00:13:29.430 align:start position:0%
+uncommitted right has now been committed
+if<00:13:27.760><c> so</c><00:13:28.079><c> we</c><00:13:28.160><c> need</c><00:13:28.320><c> to</c><00:13:28.480><c> abort</c><00:13:28.800><c> it</c><00:13:28.959><c> it's</c><00:13:29.120><c> also</c>
+
+00:13:29.430 --> 00:13:29.440 align:start position:0%
+if so we need to abort it it's also
+ 
+
+00:13:29.440 --> 00:13:31.190 align:start position:0%
+if so we need to abort it it's also
+possible<00:13:29.920><c> the</c><00:13:30.079><c> uncommitted</c><00:13:30.560><c> right</c><00:13:30.800><c> might</c><00:13:31.040><c> end</c>
+
+00:13:31.190 --> 00:13:31.200 align:start position:0%
+possible the uncommitted right might end
+ 
+
+00:13:31.200 --> 00:13:32.949 align:start position:0%
+possible the uncommitted right might end
+up<00:13:31.279><c> being</c><00:13:31.519><c> aborted</c><00:13:32.000><c> which</c><00:13:32.160><c> is</c><00:13:32.320><c> why</c><00:13:32.560><c> we</c><00:13:32.720><c> don't</c>
+
+00:13:32.949 --> 00:13:32.959 align:start position:0%
+up being aborted which is why we don't
+ 
+
+00:13:32.959 --> 00:13:34.230 align:start position:0%
+up being aborted which is why we don't
+just
+
+00:13:34.230 --> 00:13:34.240 align:start position:0%
+just
+ 
+
+00:13:34.240 --> 00:13:36.230 align:start position:0%
+just
+abort<00:13:34.639><c> our</c><00:13:34.800><c> read</c><00:13:35.040><c> right</c><00:13:35.279><c> away</c><00:13:35.600><c> by</c><00:13:35.760><c> virtue</c><00:13:36.160><c> if</c>
+
+00:13:36.230 --> 00:13:36.240 align:start position:0%
+abort our read right away by virtue if
+ 
+
+00:13:36.240 --> 00:13:38.230 align:start position:0%
+abort our read right away by virtue if
+they're<00:13:36.399><c> being</c><00:13:36.560><c> an</c><00:13:36.720><c> uncommitted</c><00:13:37.200><c> right</c>
+
+00:13:38.230 --> 00:13:38.240 align:start position:0%
+they're being an uncommitted right
+ 
+
+00:13:38.240 --> 00:13:40.310 align:start position:0%
+they're being an uncommitted right
+additionally<00:13:39.040><c> let's</c><00:13:39.279><c> say</c><00:13:39.440><c> we</c><00:13:39.600><c> read</c><00:13:39.839><c> an</c><00:13:40.000><c> item</c>
+
+00:13:40.310 --> 00:13:40.320 align:start position:0%
+additionally let's say we read an item
+ 
+
+00:13:40.320 --> 00:13:42.870 align:start position:0%
+additionally let's say we read an item
+with<00:13:40.480><c> transaction</c><00:13:41.199><c> 1</c><00:13:41.760><c> and</c><00:13:41.920><c> in</c><00:13:42.079><c> the</c><00:13:42.160><c> meantime</c>
+
+00:13:42.870 --> 00:13:42.880 align:start position:0%
+with transaction 1 and in the meantime
+ 
+
+00:13:42.880 --> 00:13:44.949 align:start position:0%
+with transaction 1 and in the meantime
+right<00:13:43.120><c> after</c><00:13:43.360><c> we</c><00:13:43.519><c> do</c><00:13:43.680><c> that</c><00:13:43.839><c> read</c><00:13:44.320><c> transaction</c>
+
+00:13:44.949 --> 00:13:44.959 align:start position:0%
+right after we do that read transaction
+ 
+
+00:13:44.959 --> 00:13:46.150 align:start position:0%
+right after we do that read transaction
+2<00:13:45.360><c> both</c>
+
+00:13:46.150 --> 00:13:46.160 align:start position:0%
+2 both
+ 
+
+00:13:46.160 --> 00:13:47.590 align:start position:0%
+2 both
+has<00:13:46.320><c> an</c><00:13:46.480><c> uncommitted</c><00:13:47.040><c> write</c><00:13:47.279><c> and</c><00:13:47.360><c> then</c><00:13:47.519><c> it</c>
+
+00:13:47.590 --> 00:13:47.600 align:start position:0%
+has an uncommitted write and then it
+ 
+
+00:13:47.600 --> 00:13:48.870 align:start position:0%
+has an uncommitted write and then it
+commits
+
+00:13:48.870 --> 00:13:48.880 align:start position:0%
+commits
+ 
+
+00:13:48.880 --> 00:13:50.870 align:start position:0%
+commits
+we<00:13:49.120><c> can</c><00:13:49.279><c> actually</c><00:13:49.760><c> keep</c><00:13:50.079><c> track</c><00:13:50.399><c> of</c><00:13:50.560><c> all</c><00:13:50.720><c> the</c>
+
+00:13:50.870 --> 00:13:50.880 align:start position:0%
+we can actually keep track of all the
+ 
+
+00:13:50.880 --> 00:13:53.509 align:start position:0%
+we can actually keep track of all the
+transactions<00:13:51.600><c> that</c><00:13:51.760><c> have</c><00:13:52.000><c> read</c><00:13:52.399><c> a</c><00:13:52.560><c> given</c><00:13:52.880><c> item</c>
+
+00:13:53.509 --> 00:13:53.519 align:start position:0%
+transactions that have read a given item
+ 
+
+00:13:53.519 --> 00:13:56.069 align:start position:0%
+transactions that have read a given item
+and<00:13:53.760><c> as</c><00:13:54.000><c> a</c><00:13:54.079><c> result</c><00:13:54.720><c> the</c><00:13:54.880><c> second</c><00:13:55.279><c> that</c><00:13:55.519><c> a</c><00:13:55.760><c> write</c>
+
+00:13:56.069 --> 00:13:56.079 align:start position:0%
+and as a result the second that a write
+ 
+
+00:13:56.079 --> 00:13:58.150 align:start position:0%
+and as a result the second that a write
+changes<00:13:56.399><c> that</c><00:13:56.639><c> item</c><00:13:56.959><c> we</c><00:13:57.120><c> go</c><00:13:57.279><c> ahead</c><00:13:57.600><c> and</c><00:13:57.760><c> abort</c>
+
+00:13:58.150 --> 00:13:58.160 align:start position:0%
+changes that item we go ahead and abort
+ 
+
+00:13:58.160 --> 00:14:01.269 align:start position:0%
+changes that item we go ahead and abort
+all<00:13:58.320><c> the</c><00:13:58.480><c> transactions</c><00:13:59.120><c> that</c><00:13:59.199><c> have</c><00:13:59.360><c> read</c><00:13:59.600><c> it</c>
+
+00:14:01.269 --> 00:14:01.279 align:start position:0%
+all the transactions that have read it
+ 
+
+00:14:01.279 --> 00:14:03.189 align:start position:0%
+all the transactions that have read it
+okay<00:14:01.680><c> so</c><00:14:01.920><c> evaluating</c><00:14:02.480><c> the</c><00:14:02.639><c> performance</c><00:14:03.120><c> of</c>
+
+00:14:03.189 --> 00:14:03.199 align:start position:0%
+okay so evaluating the performance of
+ 
+
+00:14:03.199 --> 00:14:04.949 align:start position:0%
+okay so evaluating the performance of
+this<00:14:03.760><c> it's</c><00:14:04.079><c> actually</c><00:14:04.399><c> really</c><00:14:04.639><c> good</c><00:14:04.880><c> and</c>
+
+00:14:04.949 --> 00:14:04.959 align:start position:0%
+this it's actually really good and
+ 
+
+00:14:04.959 --> 00:14:06.629 align:start position:0%
+this it's actually really good and
+really<00:14:05.279><c> promising</c><00:14:05.680><c> it's</c><00:14:05.839><c> a</c><00:14:05.920><c> relatively</c><00:14:06.399><c> new</c>
+
+00:14:06.629 --> 00:14:06.639 align:start position:0%
+really promising it's a relatively new
+ 
+
+00:14:06.639 --> 00:14:08.870 align:start position:0%
+really promising it's a relatively new
+algorithm<00:14:07.199><c> and</c><00:14:07.360><c> so</c><00:14:07.519><c> it's</c><00:14:07.760><c> not</c><00:14:08.079><c> implemented</c><00:14:08.720><c> as</c>
+
+00:14:08.870 --> 00:14:08.880 align:start position:0%
+algorithm and so it's not implemented as
+ 
+
+00:14:08.880 --> 00:14:11.030 align:start position:0%
+algorithm and so it's not implemented as
+heavily<00:14:09.279><c> in</c><00:14:09.360><c> database</c><00:14:09.839><c> systems</c><00:14:10.560><c> but</c><00:14:10.800><c> i</c><00:14:10.880><c> think</c>
+
+00:14:11.030 --> 00:14:11.040 align:start position:0%
+heavily in database systems but i think
+ 
+
+00:14:11.040 --> 00:14:12.629 align:start position:0%
+heavily in database systems but i think
+it's<00:14:11.279><c> going</c><00:14:11.440><c> to</c><00:14:11.600><c> start</c><00:14:11.839><c> being</c><00:14:12.160><c> implemented</c>
+
+00:14:12.629 --> 00:14:12.639 align:start position:0%
+it's going to start being implemented
+ 
+
+00:14:12.639 --> 00:14:13.990 align:start position:0%
+it's going to start being implemented
+more<00:14:12.880><c> so</c>
+
+00:14:13.990 --> 00:14:14.000 align:start position:0%
+more so
+ 
+
+00:14:14.000 --> 00:14:16.230 align:start position:0%
+more so
+the<00:14:14.240><c> great</c><00:14:14.480><c> thing</c><00:14:14.639><c> about</c><00:14:14.880><c> this</c><00:14:15.279><c> is</c><00:14:15.519><c> since</c><00:14:15.920><c> um</c>
+
+00:14:16.230 --> 00:14:16.240 align:start position:0%
+the great thing about this is since um
+ 
+
+00:14:16.240 --> 00:14:18.150 align:start position:0%
+the great thing about this is since um
+in<00:14:16.399><c> many</c><00:14:16.720><c> applications</c><00:14:17.360><c> there</c><00:14:17.600><c> aren't</c><00:14:17.920><c> tons</c>
+
+00:14:18.150 --> 00:14:18.160 align:start position:0%
+in many applications there aren't tons
+ 
+
+00:14:18.160 --> 00:14:20.150 align:start position:0%
+in many applications there aren't tons
+of<00:14:18.240><c> concurrency</c><00:14:18.880><c> issues</c><00:14:19.199><c> on</c><00:14:19.279><c> the</c><00:14:19.360><c> data</c><00:14:19.600><c> set</c>
+
+00:14:20.150 --> 00:14:20.160 align:start position:0%
+of concurrency issues on the data set
+ 
+
+00:14:20.160 --> 00:14:22.310 align:start position:0%
+of concurrency issues on the data set
+it's<00:14:20.399><c> far</c><00:14:20.639><c> faster</c><00:14:21.040><c> than</c><00:14:21.199><c> two-phase</c><00:14:21.680><c> locking</c>
+
+00:14:22.310 --> 00:14:22.320 align:start position:0%
+it's far faster than two-phase locking
+ 
+
+00:14:22.320 --> 00:14:24.470 align:start position:0%
+it's far faster than two-phase locking
+which<00:14:22.560><c> is</c><00:14:22.639><c> very</c><00:14:22.880><c> pessimistic</c><00:14:23.839><c> and</c><00:14:24.000><c> goes</c><00:14:24.240><c> ahead</c>
+
+00:14:24.470 --> 00:14:24.480 align:start position:0%
+which is very pessimistic and goes ahead
+ 
+
+00:14:24.480 --> 00:14:26.230 align:start position:0%
+which is very pessimistic and goes ahead
+and<00:14:24.639><c> tries</c><00:14:24.880><c> to</c><00:14:25.040><c> lock</c><00:14:25.360><c> everything</c><00:14:25.680><c> possible</c><00:14:26.079><c> to</c>
+
+00:14:26.230 --> 00:14:26.240 align:start position:0%
+and tries to lock everything possible to
+ 
+
+00:14:26.240 --> 00:14:28.870 align:start position:0%
+and tries to lock everything possible to
+make<00:14:26.399><c> sure</c><00:14:26.639><c> nothing</c><00:14:26.959><c> bad</c><00:14:27.199><c> can</c><00:14:27.360><c> go</c><00:14:27.600><c> wrong</c>
+
+00:14:28.870 --> 00:14:28.880 align:start position:0%
+make sure nothing bad can go wrong
+ 
+
+00:14:28.880 --> 00:14:30.790 align:start position:0%
+make sure nothing bad can go wrong
+on<00:14:29.040><c> the</c><00:14:29.120><c> other</c><00:14:29.360><c> hand</c><00:14:29.839><c> if</c><00:14:30.000><c> there</c><00:14:30.240><c> are</c><00:14:30.399><c> a</c><00:14:30.560><c> ton</c><00:14:30.720><c> of</c>
+
+00:14:30.790 --> 00:14:30.800 align:start position:0%
+on the other hand if there are a ton of
+ 
+
+00:14:30.800 --> 00:14:32.230 align:start position:0%
+on the other hand if there are a ton of
+concurrency<00:14:31.360><c> bugs</c><00:14:31.680><c> we're</c><00:14:31.839><c> going</c><00:14:31.920><c> to</c><00:14:32.000><c> be</c>
+
+00:14:32.230 --> 00:14:32.240 align:start position:0%
+concurrency bugs we're going to be
+ 
+
+00:14:32.240 --> 00:14:34.949 align:start position:0%
+concurrency bugs we're going to be
+reverting<00:14:32.720><c> a</c><00:14:32.880><c> ton</c><00:14:33.120><c> of</c><00:14:33.199><c> transactions</c><00:14:34.000><c> in</c><00:14:34.160><c> ssi</c>
+
+00:14:34.949 --> 00:14:34.959 align:start position:0%
+reverting a ton of transactions in ssi
+ 
+
+00:14:34.959 --> 00:14:36.629 align:start position:0%
+reverting a ton of transactions in ssi
+and<00:14:35.199><c> as</c><00:14:35.360><c> a</c><00:14:35.440><c> result</c><00:14:35.839><c> of</c><00:14:35.920><c> that</c><00:14:36.320><c> all</c><00:14:36.480><c> these</c>
+
+00:14:36.629 --> 00:14:36.639 align:start position:0%
+and as a result of that all these
+ 
+
+00:14:36.639 --> 00:14:38.949 align:start position:0%
+and as a result of that all these
+reverts<00:14:37.199><c> are</c><00:14:37.360><c> going</c><00:14:37.600><c> to</c><00:14:37.760><c> make</c><00:14:38.000><c> this</c><00:14:38.240><c> very</c><00:14:38.480><c> slow</c>
+
+00:14:38.949 --> 00:14:38.959 align:start position:0%
+reverts are going to make this very slow
+ 
+
+00:14:38.959 --> 00:14:40.470 align:start position:0%
+reverts are going to make this very slow
+and<00:14:39.040><c> perhaps</c><00:14:39.440><c> we'd</c><00:14:39.680><c> be</c><00:14:39.760><c> better</c><00:14:40.079><c> off</c><00:14:40.240><c> using</c>
+
+00:14:40.470 --> 00:14:40.480 align:start position:0%
+and perhaps we'd be better off using
+ 
+
+00:14:40.480 --> 00:14:42.870 align:start position:0%
+and perhaps we'd be better off using
+two-phase<00:14:40.959><c> locking</c>
+
+00:14:42.870 --> 00:14:42.880 align:start position:0%
+two-phase locking
+ 
+
+00:14:42.880 --> 00:14:46.150 align:start position:0%
+two-phase locking
+okay<00:14:43.600><c> so</c><00:14:43.920><c> in</c><00:14:44.079><c> conclusion</c><00:14:44.800><c> transactions</c><00:14:45.680><c> are</c><00:14:46.000><c> a</c>
+
+00:14:46.150 --> 00:14:46.160 align:start position:0%
+okay so in conclusion transactions are a
+ 
+
+00:14:46.160 --> 00:14:48.150 align:start position:0%
+okay so in conclusion transactions are a
+really<00:14:46.480><c> useful</c><00:14:46.880><c> abstraction</c>
+
+00:14:48.150 --> 00:14:48.160 align:start position:0%
+really useful abstraction
+ 
+
+00:14:48.160 --> 00:14:50.310 align:start position:0%
+really useful abstraction
+and<00:14:48.560><c> it</c><00:14:48.800><c> makes</c><00:14:49.120><c> using</c><00:14:49.440><c> the</c><00:14:49.519><c> database</c><00:14:50.079><c> very</c>
+
+00:14:50.310 --> 00:14:50.320 align:start position:0%
+and it makes using the database very
+ 
+
+00:14:50.320 --> 00:14:52.710 align:start position:0%
+and it makes using the database very
+easy<00:14:50.560><c> to</c><00:14:50.720><c> reason</c><00:14:50.959><c> about</c><00:14:51.680><c> however</c><00:14:52.160><c> at</c><00:14:52.320><c> the</c><00:14:52.399><c> same</c>
+
+00:14:52.710 --> 00:14:52.720 align:start position:0%
+easy to reason about however at the same
+ 
+
+00:14:52.720 --> 00:14:54.949 align:start position:0%
+easy to reason about however at the same
+time<00:14:53.199><c> the</c><00:14:53.360><c> main</c><00:14:53.600><c> objective</c><00:14:54.160><c> of</c><00:14:54.320><c> these</c><00:14:54.480><c> videos</c>
+
+00:14:54.949 --> 00:14:54.959 align:start position:0%
+time the main objective of these videos
+ 
+
+00:14:54.959 --> 00:14:56.470 align:start position:0%
+time the main objective of these videos
+is<00:14:55.040><c> to</c><00:14:55.199><c> build</c><00:14:55.440><c> a</c><00:14:55.600><c> highly</c><00:14:55.920><c> scalable</c>
+
+00:14:56.470 --> 00:14:56.480 align:start position:0%
+is to build a highly scalable
+ 
+
+00:14:56.480 --> 00:14:59.110 align:start position:0%
+is to build a highly scalable
+application<00:14:57.600><c> and</c><00:14:57.839><c> often</c><00:14:58.160><c> times</c><00:14:58.480><c> transactions</c>
+
+00:14:59.110 --> 00:14:59.120 align:start position:0%
+application and often times transactions
+ 
+
+00:14:59.120 --> 00:15:00.470 align:start position:0%
+application and often times transactions
+don't<00:14:59.360><c> scale</c><00:14:59.680><c> well</c>
+
+00:15:00.470 --> 00:15:00.480 align:start position:0%
+don't scale well
+ 
+
+00:15:00.480 --> 00:15:02.870 align:start position:0%
+don't scale well
+they<00:15:00.639><c> are</c><00:15:00.880><c> very</c><00:15:01.279><c> non-performant</c><00:15:02.160><c> as</c><00:15:02.320><c> a</c><00:15:02.399><c> result</c>
+
+00:15:02.870 --> 00:15:02.880 align:start position:0%
+they are very non-performant as a result
+ 
+
+00:15:02.880 --> 00:15:04.550 align:start position:0%
+they are very non-performant as a result
+of<00:15:02.959><c> having</c><00:15:03.279><c> to</c><00:15:03.440><c> actually</c><00:15:03.839><c> implement</c><00:15:04.320><c> all</c><00:15:04.480><c> of</c>
+
+00:15:04.550 --> 00:15:04.560 align:start position:0%
+of having to actually implement all of
+ 
+
+00:15:04.560 --> 00:15:07.269 align:start position:0%
+of having to actually implement all of
+this<00:15:04.800><c> isolation</c><00:15:05.760><c> and</c><00:15:05.920><c> as</c><00:15:06.079><c> a</c><00:15:06.240><c> result</c><00:15:06.560><c> of</c><00:15:06.639><c> that</c>
+
+00:15:07.269 --> 00:15:07.279 align:start position:0%
+this isolation and as a result of that
+ 
+
+00:15:07.279 --> 00:15:09.269 align:start position:0%
+this isolation and as a result of that
+many<00:15:07.600><c> databases</c><00:15:08.240><c> have</c><00:15:08.399><c> instead</c><00:15:08.800><c> chosen</c><00:15:09.120><c> to</c>
+
+00:15:09.269 --> 00:15:09.279 align:start position:0%
+many databases have instead chosen to
+ 
+
+00:15:09.279 --> 00:15:11.670 align:start position:0%
+many databases have instead chosen to
+use<00:15:09.519><c> weaker</c><00:15:09.920><c> isolation</c><00:15:10.480><c> guarantees</c><00:15:11.360><c> and</c><00:15:11.519><c> we</c>
+
+00:15:11.670 --> 00:15:11.680 align:start position:0%
+use weaker isolation guarantees and we
+ 
+
+00:15:11.680 --> 00:15:15.189 align:start position:0%
+use weaker isolation guarantees and we
+can<00:15:11.839><c> cover</c><00:15:12.160><c> those</c><00:15:12.399><c> next</c><00:15:12.639><c> video</c>
+
+00:15:15.189 --> 00:15:15.199 align:start position:0%
+ 
+ 
+
+00:15:15.199 --> 00:15:16.949 align:start position:0%
+ 
+in<00:15:15.360><c> addition</c><00:15:16.000><c> as</c><00:15:16.240><c> i</c><00:15:16.320><c> mentioned</c><00:15:16.720><c> there</c><00:15:16.880><c> are</c>
+
+00:15:16.949 --> 00:15:16.959 align:start position:0%
+in addition as i mentioned there are
+ 
+
+00:15:16.959 --> 00:15:19.829 align:start position:0%
+in addition as i mentioned there are
+three<00:15:17.279><c> types</c><00:15:17.600><c> of</c><00:15:17.760><c> isolation</c><00:15:18.399><c> implementations</c>
+
+00:15:19.829 --> 00:15:19.839 align:start position:0%
+three types of isolation implementations
+ 
+
+00:15:19.839 --> 00:15:21.829 align:start position:0%
+three types of isolation implementations
+and<00:15:20.160><c> let's</c><00:15:20.399><c> go</c><00:15:20.639><c> and</c><00:15:20.720><c> summarize</c><00:15:21.279><c> them</c><00:15:21.440><c> one</c><00:15:21.600><c> more</c>
+
+00:15:21.829 --> 00:15:21.839 align:start position:0%
+and let's go and summarize them one more
+ 
+
+00:15:21.839 --> 00:15:24.470 align:start position:0%
+and let's go and summarize them one more
+time<00:15:22.480><c> actual</c><00:15:22.880><c> serial</c><00:15:23.279><c> execution</c><00:15:24.000><c> is</c><00:15:24.160><c> super</c>
+
+00:15:24.470 --> 00:15:24.480 align:start position:0%
+time actual serial execution is super
+ 
+
+00:15:24.480 --> 00:15:25.910 align:start position:0%
+time actual serial execution is super
+simple<00:15:24.720><c> to</c><00:15:24.880><c> think</c><00:15:25.040><c> about</c><00:15:25.360><c> because</c><00:15:25.600><c> it</c><00:15:25.680><c> doesn't</c>
+
+00:15:25.910 --> 00:15:25.920 align:start position:0%
+simple to think about because it doesn't
+ 
+
+00:15:25.920 --> 00:15:28.310 align:start position:0%
+simple to think about because it doesn't
+require<00:15:26.399><c> locks</c><00:15:27.120><c> however</c><00:15:27.600><c> the</c><00:15:27.760><c> throughput</c><00:15:28.240><c> is</c>
+
+00:15:28.310 --> 00:15:28.320 align:start position:0%
+require locks however the throughput is
+ 
+
+00:15:28.320 --> 00:15:30.790 align:start position:0%
+require locks however the throughput is
+limited<00:15:28.639><c> to</c><00:15:28.800><c> one</c><00:15:28.959><c> cpu</c><00:15:29.519><c> core</c><00:15:30.079><c> we</c><00:15:30.240><c> have</c><00:15:30.399><c> to</c><00:15:30.560><c> keep</c>
+
+00:15:30.790 --> 00:15:30.800 align:start position:0%
+limited to one cpu core we have to keep
+ 
+
+00:15:30.800 --> 00:15:32.470 align:start position:0%
+limited to one cpu core we have to keep
+all<00:15:30.959><c> of</c><00:15:31.040><c> our</c><00:15:31.199><c> data</c><00:15:31.519><c> in</c><00:15:31.600><c> memory</c><00:15:32.000><c> which</c><00:15:32.160><c> is</c><00:15:32.320><c> not</c>
+
+00:15:32.470 --> 00:15:32.480 align:start position:0%
+all of our data in memory which is not
+ 
+
+00:15:32.480 --> 00:15:33.670 align:start position:0%
+all of our data in memory which is not
+good<00:15:32.639><c> if</c><00:15:32.800><c> there's</c><00:15:32.959><c> a</c><00:15:33.040><c> ton</c><00:15:33.199><c> of</c><00:15:33.360><c> it</c><00:15:33.440><c> because</c>
+
+00:15:33.670 --> 00:15:33.680 align:start position:0%
+good if there's a ton of it because
+ 
+
+00:15:33.680 --> 00:15:35.910 align:start position:0%
+good if there's a ton of it because
+memory<00:15:34.000><c> is</c><00:15:34.079><c> more</c><00:15:34.320><c> expensive</c><00:15:35.199><c> and</c><00:15:35.440><c> also</c><00:15:35.759><c> we</c>
+
+00:15:35.910 --> 00:15:35.920 align:start position:0%
+memory is more expensive and also we
+ 
+
+00:15:35.920 --> 00:15:37.749 align:start position:0%
+memory is more expensive and also we
+have<00:15:36.000><c> to</c><00:15:36.079><c> use</c><00:15:36.240><c> stored</c><00:15:36.560><c> procedures</c><00:15:37.360><c> which</c><00:15:37.600><c> are</c>
+
+00:15:37.749 --> 00:15:37.759 align:start position:0%
+have to use stored procedures which are
+ 
+
+00:15:37.759 --> 00:15:38.870 align:start position:0%
+have to use stored procedures which are
+annoying
+
+00:15:38.870 --> 00:15:38.880 align:start position:0%
+annoying
+ 
+
+00:15:38.880 --> 00:15:41.110 align:start position:0%
+annoying
+finally<00:15:39.440><c> we</c><00:15:39.759><c> have</c><00:15:40.000><c> two-phase</c><00:15:40.480><c> locking</c><00:15:40.959><c> and</c>
+
+00:15:41.110 --> 00:15:41.120 align:start position:0%
+finally we have two-phase locking and
+ 
+
+00:15:41.120 --> 00:15:43.829 align:start position:0%
+finally we have two-phase locking and
+serializable<00:15:42.000><c> snapshot</c><00:15:42.560><c> isolation</c>
+
+00:15:43.829 --> 00:15:43.839 align:start position:0%
+serializable snapshot isolation
+ 
+
+00:15:43.839 --> 00:15:46.470 align:start position:0%
+serializable snapshot isolation
+2pl<00:15:44.480><c> is</c><00:15:44.639><c> basically</c><00:15:45.040><c> used</c><00:15:45.360><c> in</c><00:15:45.440><c> most</c><00:15:45.680><c> databases</c>
+
+00:15:46.470 --> 00:15:46.480 align:start position:0%
+2pl is basically used in most databases
+ 
+
+00:15:46.480 --> 00:15:48.389 align:start position:0%
+2pl is basically used in most databases
+but<00:15:46.800><c> it</c><00:15:46.959><c> seems</c><00:15:47.199><c> like</c><00:15:47.440><c> it's</c><00:15:47.600><c> on</c><00:15:47.759><c> its</c><00:15:47.920><c> way</c><00:15:48.160><c> out</c>
+
+00:15:48.389 --> 00:15:48.399 align:start position:0%
+but it seems like it's on its way out
+ 
+
+00:15:48.399 --> 00:15:51.430 align:start position:0%
+but it seems like it's on its way out
+because<00:15:48.720><c> of</c><00:15:48.880><c> ssi</c><00:15:49.920><c> 2pl</c><00:15:50.560><c> is</c><00:15:50.720><c> basically</c><00:15:51.279><c> a</c>
+
+00:15:51.430 --> 00:15:51.440 align:start position:0%
+because of ssi 2pl is basically a
+ 
+
+00:15:51.440 --> 00:15:53.910 align:start position:0%
+because of ssi 2pl is basically a
+pessimistic<00:15:52.160><c> concurrency</c><00:15:52.800><c> control</c><00:15:53.440><c> and</c><00:15:53.600><c> as</c><00:15:53.839><c> a</c>
+
+00:15:53.910 --> 00:15:53.920 align:start position:0%
+pessimistic concurrency control and as a
+ 
+
+00:15:53.920 --> 00:15:55.350 align:start position:0%
+pessimistic concurrency control and as a
+result<00:15:54.240><c> of</c><00:15:54.320><c> that</c><00:15:54.560><c> there's</c><00:15:54.880><c> tons</c><00:15:55.199><c> of</c>
+
+00:15:55.350 --> 00:15:55.360 align:start position:0%
+result of that there's tons of
+ 
+
+00:15:55.360 --> 00:15:57.350 align:start position:0%
+result of that there's tons of
+unnecessary<00:15:56.079><c> locking</c><00:15:56.800><c> and</c><00:15:56.959><c> tons</c><00:15:57.199><c> of</c>
+
+00:15:57.350 --> 00:15:57.360 align:start position:0%
+unnecessary locking and tons of
+ 
+
+00:15:57.360 --> 00:15:59.910 align:start position:0%
+unnecessary locking and tons of
+deadlocks<00:15:57.839><c> which</c><00:15:58.079><c> need</c><00:15:58.240><c> to</c><00:15:58.320><c> be</c><00:15:58.480><c> resolved</c><00:15:59.360><c> ssi</c>
+
+00:15:59.910 --> 00:15:59.920 align:start position:0%
+deadlocks which need to be resolved ssi
+ 
+
+00:15:59.920 --> 00:16:02.550 align:start position:0%
+deadlocks which need to be resolved ssi
+on<00:16:00.079><c> the</c><00:16:00.160><c> other</c><00:16:00.399><c> hand</c><00:16:00.800><c> is</c><00:16:01.120><c> more</c><00:16:01.440><c> optimistic</c><00:16:02.320><c> and</c>
+
+00:16:02.550 --> 00:16:02.560 align:start position:0%
+on the other hand is more optimistic and
+ 
+
+00:16:02.560 --> 00:16:04.550 align:start position:0%
+on the other hand is more optimistic and
+only<00:16:02.800><c> reverts</c><00:16:03.279><c> transactions</c><00:16:04.079><c> once</c><00:16:04.320><c> they've</c>
+
+00:16:04.550 --> 00:16:04.560 align:start position:0%
+only reverts transactions once they've
+ 
+
+00:16:04.560 --> 00:16:07.030 align:start position:0%
+only reverts transactions once they've
+actually<00:16:05.120><c> led</c><00:16:05.360><c> to</c><00:16:05.440><c> a</c><00:16:05.600><c> concurrency</c><00:16:06.160><c> bug</c><00:16:06.800><c> as</c><00:16:06.959><c> a</c>
+
+00:16:07.030 --> 00:16:07.040 align:start position:0%
+actually led to a concurrency bug as a
+ 
+
+00:16:07.040 --> 00:16:08.870 align:start position:0%
+actually led to a concurrency bug as a
+result<00:16:07.360><c> of</c><00:16:07.440><c> that</c><00:16:07.759><c> in</c><00:16:07.920><c> most</c><00:16:08.240><c> applications</c>
+
+00:16:08.870 --> 00:16:08.880 align:start position:0%
+result of that in most applications
+ 
+
+00:16:08.880 --> 00:16:10.710 align:start position:0%
+result of that in most applications
+where<00:16:09.040><c> there</c><00:16:09.279><c> aren't</c><00:16:09.600><c> tons</c><00:16:10.000><c> of</c><00:16:10.079><c> concurrency</c>
+
+00:16:10.710 --> 00:16:10.720 align:start position:0%
+where there aren't tons of concurrency
+ 
+
+00:16:10.720 --> 00:16:12.710 align:start position:0%
+where there aren't tons of concurrency
+bugs<00:16:11.199><c> but</c><00:16:11.360><c> you</c><00:16:11.680><c> they're</c><00:16:11.839><c> more</c><00:16:12.079><c> of</c><00:16:12.240><c> like</c><00:16:12.480><c> an</c>
+
+00:16:12.710 --> 00:16:12.720 align:start position:0%
+bugs but you they're more of like an
+ 
+
+00:16:12.720 --> 00:16:15.110 align:start position:0%
+bugs but you they're more of like an
+edge<00:16:12.959><c> case</c><00:16:13.199><c> or</c><00:16:13.360><c> an</c><00:16:13.519><c> afterthought</c><00:16:14.240><c> ssi</c><00:16:14.800><c> works</c>
+
+00:16:15.110 --> 00:16:15.120 align:start position:0%
+edge case or an afterthought ssi works
+ 
+
+00:16:15.120 --> 00:16:16.550 align:start position:0%
+edge case or an afterthought ssi works
+better
+
+00:16:16.550 --> 00:16:16.560 align:start position:0%
+better
+ 
+
+00:16:16.560 --> 00:16:18.230 align:start position:0%
+better
+all<00:16:16.720><c> right</c><00:16:17.040><c> i</c><00:16:17.120><c> hope</c><00:16:17.279><c> this</c><00:16:17.519><c> one</c><00:16:17.680><c> makes</c><00:16:18.000><c> a</c><00:16:18.079><c> little</c>
+
+00:16:18.230 --> 00:16:18.240 align:start position:0%
+all right i hope this one makes a little
+ 
+
+00:16:18.240 --> 00:16:21.030 align:start position:0%
+all right i hope this one makes a little
+bit<00:16:18.399><c> of</c><00:16:18.480><c> sense</c><00:16:18.880><c> guys</c><00:16:19.360><c> uh</c><00:16:19.759><c> i'm</c><00:16:19.920><c> gonna</c><00:16:20.079><c> do</c><00:16:20.480><c> weak</c>
+
+00:16:21.030 --> 00:16:21.040 align:start position:0%
+bit of sense guys uh i'm gonna do weak
+ 
+
+00:16:21.040 --> 00:16:23.829 align:start position:0%
+bit of sense guys uh i'm gonna do weak
+isolation<00:16:21.680><c> levels</c><00:16:22.160><c> for</c><00:16:22.399><c> the</c><00:16:22.480><c> next</c><00:16:22.720><c> video</c>
+
+00:16:23.829 --> 00:16:23.839 align:start position:0%
+isolation levels for the next video
+ 
+
+00:16:23.839 --> 00:16:26.069 align:start position:0%
+isolation levels for the next video
+and<00:16:24.000><c> then</c><00:16:24.720><c> we</c><00:16:24.880><c> can</c><00:16:25.040><c> go</c><00:16:25.360><c> ahead</c><00:16:25.600><c> and</c><00:16:25.680><c> get</c><00:16:25.839><c> to</c><00:16:26.000><c> a</c>
+
+00:16:26.069 --> 00:16:26.079 align:start position:0%
+and then we can go ahead and get to a
+ 
+
+00:16:26.079 --> 00:16:29.199 align:start position:0%
+and then we can go ahead and get to a
+database<00:16:26.560><c> comparison</c>
+

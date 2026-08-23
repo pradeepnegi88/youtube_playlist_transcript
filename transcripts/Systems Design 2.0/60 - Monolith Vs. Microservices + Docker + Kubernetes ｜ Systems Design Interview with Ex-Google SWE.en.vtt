@@ -1,0 +1,2632 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.640 --> 00:00:03.869 align:start position:0%
+ 
+hey<00:00:00.880><c> guys</c><00:00:01.319><c> and</c><00:00:01.680><c> welcome</c><00:00:02.120><c> back</c><00:00:02.360><c> to</c><00:00:02.520><c> the</c><00:00:02.879><c> channel</c>
+
+00:00:03.869 --> 00:00:03.879 align:start position:0%
+hey guys and welcome back to the channel
+ 
+
+00:00:03.879 --> 00:00:05.630 align:start position:0%
+hey guys and welcome back to the channel
+uh<00:00:04.120><c> I</c><00:00:04.200><c> think</c><00:00:04.359><c> we</c><00:00:04.560><c> finally</c><00:00:04.880><c> made</c><00:00:05.080><c> it</c><00:00:05.240><c> to</c><00:00:05.400><c> our</c>
+
+00:00:05.630 --> 00:00:05.640 align:start position:0%
+uh I think we finally made it to our
+ 
+
+00:00:05.640 --> 00:00:08.030 align:start position:0%
+uh I think we finally made it to our
+last<00:00:05.920><c> systems</c><00:00:06.440><c> Design</c><00:00:07.000><c> Concepts</c><00:00:07.560><c> video</c><00:00:07.879><c> which</c>
+
+00:00:08.030 --> 00:00:08.040 align:start position:0%
+last systems Design Concepts video which
+ 
+
+00:00:08.040 --> 00:00:09.750 align:start position:0%
+last systems Design Concepts video which
+is<00:00:08.160><c> freaking</c><00:00:08.639><c> awesome</c><00:00:09.080><c> because</c><00:00:09.320><c> I've</c><00:00:09.559><c> really</c>
+
+00:00:09.750 --> 00:00:09.760 align:start position:0%
+is freaking awesome because I've really
+ 
+
+00:00:09.760 --> 00:00:11.830 align:start position:0%
+is freaking awesome because I've really
+been<00:00:09.960><c> looking</c><00:00:10.240><c> forward</c><00:00:11.040><c> to</c><00:00:11.360><c> getting</c><00:00:11.599><c> to</c><00:00:11.719><c> the</c>
+
+00:00:11.830 --> 00:00:11.840 align:start position:0%
+been looking forward to getting to the
+ 
+
+00:00:11.840 --> 00:00:13.030 align:start position:0%
+been looking forward to getting to the
+next<00:00:12.040><c> round</c><00:00:12.240><c> of</c><00:00:12.360><c> videos</c><00:00:12.639><c> which</c><00:00:12.759><c> is</c><00:00:12.880><c> going</c><00:00:12.960><c> to</c>
+
+00:00:13.030 --> 00:00:13.040 align:start position:0%
+next round of videos which is going to
+ 
+
+00:00:13.040 --> 00:00:14.430 align:start position:0%
+next round of videos which is going to
+be<00:00:13.120><c> all</c><00:00:13.280><c> the</c><00:00:13.400><c> interview</c><00:00:13.799><c> questions</c><00:00:14.200><c> it's</c><00:00:14.360><c> kind</c>
+
+00:00:14.430 --> 00:00:14.440 align:start position:0%
+be all the interview questions it's kind
+ 
+
+00:00:14.440 --> 00:00:15.869 align:start position:0%
+be all the interview questions it's kind
+of<00:00:14.559><c> the</c><00:00:14.639><c> main</c><00:00:14.839><c> reason</c><00:00:15.080><c> that</c><00:00:15.160><c> I</c><00:00:15.280><c> wanted</c><00:00:15.480><c> to</c><00:00:15.559><c> redo</c>
+
+00:00:15.869 --> 00:00:15.879 align:start position:0%
+of the main reason that I wanted to redo
+ 
+
+00:00:15.879 --> 00:00:17.550 align:start position:0%
+of the main reason that I wanted to redo
+everything<00:00:16.400><c> cuz</c><00:00:16.520><c> I</c><00:00:16.640><c> just</c><00:00:16.760><c> rambled</c><00:00:17.119><c> a</c><00:00:17.199><c> bunch</c><00:00:17.400><c> of</c>
+
+00:00:17.550 --> 00:00:17.560 align:start position:0%
+everything cuz I just rambled a bunch of
+ 
+
+00:00:17.560 --> 00:00:19.029 align:start position:0%
+everything cuz I just rambled a bunch of
+those<00:00:17.720><c> and</c><00:00:17.840><c> never</c><00:00:18.039><c> really</c><00:00:18.199><c> Drew</c><00:00:18.520><c> anything</c><00:00:18.760><c> out</c>
+
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+those and never really Drew anything out
+ 
+
+00:00:19.039 --> 00:00:21.390 align:start position:0%
+those and never really Drew anything out
+cuz<00:00:19.160><c> I</c><00:00:19.240><c> was</c><00:00:19.400><c> lazy</c><00:00:20.359><c> so</c><00:00:20.720><c> uh</c><00:00:20.920><c> yeah</c><00:00:21.080><c> I'm</c><00:00:21.160><c> going</c><00:00:21.279><c> to</c>
+
+00:00:21.390 --> 00:00:21.400 align:start position:0%
+cuz I was lazy so uh yeah I'm going to
+ 
+
+00:00:21.400 --> 00:00:23.349 align:start position:0%
+cuz I was lazy so uh yeah I'm going to
+get<00:00:21.519><c> to</c><00:00:21.680><c> those</c><00:00:22.080><c> but</c><00:00:22.320><c> unfortunately</c><00:00:23.000><c> today</c><00:00:23.279><c> I</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+get to those but unfortunately today I
+ 
+
+00:00:23.359 --> 00:00:25.390 align:start position:0%
+get to those but unfortunately today I
+am<00:00:23.519><c> super</c><00:00:23.760><c> hung</c><00:00:24.080><c> over</c><00:00:24.840><c> and</c><00:00:25.039><c> uh</c><00:00:25.119><c> there's</c><00:00:25.279><c> a</c>
+
+00:00:25.390 --> 00:00:25.400 align:start position:0%
+am super hung over and uh there's a
+ 
+
+00:00:25.400 --> 00:00:26.790 align:start position:0%
+am super hung over and uh there's a
+decent<00:00:25.640><c> shot</c><00:00:25.880><c> I</c><00:00:26.080><c> just</c><00:00:26.160><c> throw</c><00:00:26.400><c> up</c><00:00:26.599><c> while</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+decent shot I just throw up while
+ 
+
+00:00:26.800 --> 00:00:28.669 align:start position:0%
+decent shot I just throw up while
+recording<00:00:27.199><c> this</c><00:00:27.840><c> uh</c><00:00:27.960><c> so</c><00:00:28.160><c> as</c><00:00:28.240><c> a</c><00:00:28.359><c> result</c><00:00:28.599><c> I'm</c>
+
+00:00:28.669 --> 00:00:28.679 align:start position:0%
+recording this uh so as a result I'm
+ 
+
+00:00:28.679 --> 00:00:29.669 align:start position:0%
+recording this uh so as a result I'm
+going<00:00:28.800><c> to</c><00:00:28.880><c> try</c><00:00:29.039><c> and</c><00:00:29.160><c> get</c><00:00:29.279><c> through</c><00:00:29.439><c> it</c><00:00:29.560><c> as</c>
+
+00:00:29.669 --> 00:00:29.679 align:start position:0%
+going to try and get through it as
+ 
+
+00:00:29.679 --> 00:00:31.630 align:start position:0%
+going to try and get through it as
+quickly<00:00:30.080><c> as</c><00:00:30.279><c> possible</c><00:00:30.880><c> so</c><00:00:31.039><c> let's</c><00:00:31.240><c> go</c><00:00:31.359><c> ahead</c>
+
+00:00:31.630 --> 00:00:31.640 align:start position:0%
+quickly as possible so let's go ahead
+ 
+
+00:00:31.640 --> 00:00:34.150 align:start position:0%
+quickly as possible so let's go ahead
+and<00:00:31.800><c> get</c><00:00:31.920><c> to</c><00:00:32.040><c> the</c><00:00:32.280><c> iPad</c><00:00:33.280><c> all</c><00:00:33.440><c> righty</c><00:00:33.800><c> guys</c><00:00:34.000><c> so</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+and get to the iPad all righty guys so
+ 
+
+00:00:34.160 --> 00:00:35.590 align:start position:0%
+and get to the iPad all righty guys so
+today<00:00:34.440><c> we're</c><00:00:34.600><c> going</c><00:00:34.680><c> to</c><00:00:34.800><c> be</c><00:00:34.960><c> talking</c><00:00:35.239><c> about</c>
+
+00:00:35.590 --> 00:00:35.600 align:start position:0%
+today we're going to be talking about
+ 
+
+00:00:35.600 --> 00:00:38.389 align:start position:0%
+today we're going to be talking about
+monoliths<00:00:36.399><c> vers</c><00:00:37.040><c> microservices</c><00:00:38.040><c> and</c><00:00:38.239><c> I'm</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+monoliths vers microservices and I'm
+ 
+
+00:00:38.399 --> 00:00:40.110 align:start position:0%
+monoliths vers microservices and I'm
+going<00:00:38.600><c> to</c><00:00:38.879><c> begin</c><00:00:39.399><c> by</c><00:00:39.559><c> talking</c><00:00:39.840><c> about</c><00:00:40.000><c> the</c>
+
+00:00:40.110 --> 00:00:40.120 align:start position:0%
+going to begin by talking about the
+ 
+
+00:00:40.120 --> 00:00:41.549 align:start position:0%
+going to begin by talking about the
+monolith<00:00:40.600><c> and</c><00:00:40.719><c> I</c><00:00:40.800><c> have</c><00:00:40.960><c> this</c><00:00:41.079><c> handy</c><00:00:41.360><c> little</c>
+
+00:00:41.549 --> 00:00:41.559 align:start position:0%
+monolith and I have this handy little
+ 
+
+00:00:41.559 --> 00:00:44.029 align:start position:0%
+monolith and I have this handy little
+note<00:00:41.879><c> here</c><00:00:42.600><c> CU</c><00:00:42.760><c> I</c><00:00:42.879><c> know</c><00:00:43.160><c> many</c><00:00:43.360><c> of</c><00:00:43.480><c> you</c><00:00:43.879><c> might</c>
+
+00:00:44.029 --> 00:00:44.039 align:start position:0%
+note here CU I know many of you might
+ 
+
+00:00:44.039 --> 00:00:45.590 align:start position:0%
+note here CU I know many of you might
+just<00:00:44.200><c> think</c><00:00:44.399><c> about</c><00:00:44.600><c> my</c><00:00:44.760><c> junk</c><00:00:45.079><c> when</c><00:00:45.200><c> I</c><00:00:45.320><c> say</c><00:00:45.520><c> the</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+just think about my junk when I say the
+ 
+
+00:00:45.600 --> 00:00:47.470 align:start position:0%
+just think about my junk when I say the
+word<00:00:45.840><c> monolith</c><00:00:46.399><c> but</c><00:00:46.520><c> no</c><00:00:46.760><c> that's</c><00:00:46.920><c> not</c><00:00:47.079><c> in</c><00:00:47.280><c> fact</c>
+
+00:00:47.470 --> 00:00:47.480 align:start position:0%
+word monolith but no that's not in fact
+ 
+
+00:00:47.480 --> 00:00:49.310 align:start position:0%
+word monolith but no that's not in fact
+what<00:00:47.600><c> I'm</c><00:00:47.760><c> talking</c><00:00:48.039><c> about</c><00:00:48.600><c> what</c><00:00:48.719><c> I</c><00:00:48.840><c> am</c><00:00:49.039><c> talking</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+what I'm talking about what I am talking
+ 
+
+00:00:49.320 --> 00:00:51.910 align:start position:0%
+what I'm talking about what I am talking
+about<00:00:49.520><c> is</c><00:00:49.760><c> effectively</c><00:00:50.760><c> the</c><00:00:50.960><c> idea</c><00:00:51.280><c> of</c><00:00:51.480><c> having</c>
+
+00:00:51.910 --> 00:00:51.920 align:start position:0%
+about is effectively the idea of having
+ 
+
+00:00:51.920 --> 00:00:55.110 align:start position:0%
+about is effectively the idea of having
+one<00:00:52.440><c> kind</c><00:00:52.600><c> of</c><00:00:53.280><c> you</c><00:00:53.359><c> know</c><00:00:53.640><c> massive</c><00:00:54.199><c> binary</c><00:00:54.920><c> that</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+one kind of you know massive binary that
+ 
+
+00:00:55.120 --> 00:00:56.910 align:start position:0%
+one kind of you know massive binary that
+incorporates<00:00:55.760><c> all</c><00:00:55.920><c> of</c><00:00:56.039><c> the</c><00:00:56.199><c> functionality</c><00:00:56.800><c> of</c>
+
+00:00:56.910 --> 00:00:56.920 align:start position:0%
+incorporates all of the functionality of
+ 
+
+00:00:56.920 --> 00:00:59.189 align:start position:0%
+incorporates all of the functionality of
+your<00:00:57.239><c> application</c><00:00:58.239><c> and</c><00:00:58.519><c> basically</c><00:00:58.960><c> as</c><00:00:59.039><c> a</c>
+
+00:00:59.189 --> 00:00:59.199 align:start position:0%
+your application and basically as a
+ 
+
+00:00:59.199 --> 00:01:00.830 align:start position:0%
+your application and basically as a
+result<00:00:59.440><c> of</c><00:00:59.600><c> having</c><00:01:00.000><c> just</c><00:01:00.199><c> pretty</c><00:01:00.399><c> much</c><00:01:00.600><c> one</c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+result of having just pretty much one
+ 
+
+00:01:00.840 --> 00:01:02.430 align:start position:0%
+result of having just pretty much one
+piece<00:01:01.039><c> of</c><00:01:01.239><c> code</c><00:01:01.640><c> that's</c><00:01:01.800><c> going</c><00:01:02.000><c> to</c><00:01:02.120><c> run</c>
+
+00:01:02.430 --> 00:01:02.440 align:start position:0%
+piece of code that's going to run
+ 
+
+00:01:02.440 --> 00:01:04.070 align:start position:0%
+piece of code that's going to run
+everything<00:01:03.160><c> it</c><00:01:03.359><c> basically</c><00:01:03.719><c> means</c><00:01:04.000><c> that</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+everything it basically means that
+ 
+
+00:01:04.080 --> 00:01:05.789 align:start position:0%
+everything it basically means that
+you're<00:01:04.280><c> going</c><00:01:04.479><c> to</c><00:01:04.799><c> deploy</c><00:01:05.199><c> it</c><00:01:05.439><c> together</c>
+
+00:01:05.789 --> 00:01:05.799 align:start position:0%
+you're going to deploy it together
+ 
+
+00:01:05.799 --> 00:01:07.469 align:start position:0%
+you're going to deploy it together
+you're<00:01:05.960><c> going</c><00:01:06.119><c> to</c><00:01:06.240><c> scale</c><00:01:06.520><c> it</c><00:01:06.799><c> together</c><00:01:07.080><c> etc</c>
+
+00:01:07.469 --> 00:01:07.479 align:start position:0%
+you're going to scale it together etc
+ 
+
+00:01:07.479 --> 00:01:09.670 align:start position:0%
+you're going to scale it together etc
+etc<00:01:07.840><c> etc</c><00:01:08.560><c> so</c><00:01:08.680><c> if</c><00:01:08.799><c> we</c><00:01:08.880><c> were</c><00:01:09.040><c> you</c><00:01:09.159><c> know</c><00:01:09.280><c> to</c><00:01:09.439><c> use</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+etc etc so if we were you know to use
+ 
+
+00:01:09.680 --> 00:01:11.149 align:start position:0%
+etc etc so if we were you know to use
+Instagram<00:01:10.159><c> as</c><00:01:10.240><c> an</c><00:01:10.400><c> example</c><00:01:10.759><c> you</c><00:01:10.880><c> know</c><00:01:11.040><c> we</c>
+
+00:01:11.149 --> 00:01:11.159 align:start position:0%
+Instagram as an example you know we
+ 
+
+00:01:11.159 --> 00:01:14.230 align:start position:0%
+Instagram as an example you know we
+might<00:01:11.400><c> have</c><00:01:11.560><c> literally</c><00:01:12.439><c> just</c><00:01:12.640><c> one</c><00:01:13.040><c> binary</c><00:01:14.040><c> and</c>
+
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+might have literally just one binary and
+ 
+
+00:01:14.240 --> 00:01:15.590 align:start position:0%
+might have literally just one binary and
+within<00:01:14.520><c> that</c><00:01:14.720><c> we</c><00:01:14.799><c> would</c><00:01:14.960><c> have</c><00:01:15.080><c> the</c><00:01:15.200><c> ability</c><00:01:15.479><c> to</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+within that we would have the ability to
+ 
+
+00:01:15.600 --> 00:01:17.270 align:start position:0%
+within that we would have the ability to
+upload<00:01:16.000><c> files</c><00:01:16.280><c> to</c><00:01:16.439><c> our</c><00:01:16.560><c> service</c><00:01:16.960><c> we'd</c><00:01:17.159><c> have</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+upload files to our service we'd have
+ 
+
+00:01:17.280 --> 00:01:19.350 align:start position:0%
+upload files to our service we'd have
+the<00:01:17.360><c> ability</c><00:01:17.640><c> to</c><00:01:17.759><c> follow</c><00:01:18.040><c> other</c><00:01:18.280><c> users</c><00:01:19.159><c> uh</c><00:01:19.240><c> you</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+the ability to follow other users uh you
+ 
+
+00:01:19.360 --> 00:01:21.230 align:start position:0%
+the ability to follow other users uh you
+know<00:01:19.759><c> basically</c><00:01:20.040><c> serve</c><00:01:20.400><c> people</c><00:01:20.680><c> ads</c><00:01:21.000><c> connect</c>
+
+00:01:21.230 --> 00:01:21.240 align:start position:0%
+know basically serve people ads connect
+ 
+
+00:01:21.240 --> 00:01:23.510 align:start position:0%
+know basically serve people ads connect
+to<00:01:21.400><c> third</c><00:01:21.640><c> parties</c><00:01:22.000><c> deal</c><00:01:22.200><c> with</c><00:01:22.439><c> metrics</c><00:01:23.439><c> and</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+to third parties deal with metrics and
+ 
+
+00:01:23.520 --> 00:01:25.230 align:start position:0%
+to third parties deal with metrics and
+so<00:01:23.720><c> of</c><00:01:23.920><c> course</c><00:01:24.159><c> there</c><00:01:24.280><c> are</c><00:01:24.520><c> going</c><00:01:24.680><c> to</c><00:01:24.840><c> be</c><00:01:25.000><c> some</c>
+
+00:01:25.230 --> 00:01:25.240 align:start position:0%
+so of course there are going to be some
+ 
+
+00:01:25.240 --> 00:01:27.030 align:start position:0%
+so of course there are going to be some
+pros<00:01:25.479><c> and</c><00:01:25.680><c> cons</c><00:01:26.240><c> when</c><00:01:26.479><c> designing</c><00:01:26.840><c> an</c>
+
+00:01:27.030 --> 00:01:27.040 align:start position:0%
+pros and cons when designing an
+ 
+
+00:01:27.040 --> 00:01:29.350 align:start position:0%
+pros and cons when designing an
+application<00:01:27.560><c> this</c><00:01:27.720><c> way</c><00:01:28.439><c> uh</c><00:01:28.520><c> the</c><00:01:28.600><c> main</c><00:01:28.840><c> Pros</c><00:01:29.200><c> is</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+application this way uh the main Pros is
+ 
+
+00:01:29.360 --> 00:01:31.109 align:start position:0%
+application this way uh the main Pros is
+probably<00:01:29.600><c> just</c><00:01:29.920><c> going</c><00:01:30.000><c> to</c><00:01:30.079><c> be</c><00:01:30.200><c> Simplicity</c><00:01:31.000><c> if</c>
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+probably just going to be Simplicity if
+ 
+
+00:01:31.119 --> 00:01:33.190 align:start position:0%
+probably just going to be Simplicity if
+you<00:01:31.240><c> just</c><00:01:31.400><c> have</c><00:01:31.600><c> one</c><00:01:31.880><c> repository</c><00:01:32.880><c> uh</c><00:01:32.960><c> you</c><00:01:33.040><c> can</c>
+
+00:01:33.190 --> 00:01:33.200 align:start position:0%
+you just have one repository uh you can
+ 
+
+00:01:33.200 --> 00:01:34.670 align:start position:0%
+you just have one repository uh you can
+keep<00:01:33.360><c> all</c><00:01:33.479><c> of</c><00:01:33.560><c> your</c><00:01:33.680><c> dependencies</c><00:01:34.200><c> in</c><00:01:34.360><c> check</c>
+
+00:01:34.670 --> 00:01:34.680 align:start position:0%
+keep all of your dependencies in check
+ 
+
+00:01:34.680 --> 00:01:36.069 align:start position:0%
+keep all of your dependencies in check
+and<00:01:34.799><c> this</c><00:01:34.880><c> is</c><00:01:35.040><c> probably</c><00:01:35.320><c> less</c><00:01:35.520><c> relevant</c><00:01:35.880><c> for</c>
+
+00:01:36.069 --> 00:01:36.079 align:start position:0%
+and this is probably less relevant for
+ 
+
+00:01:36.079 --> 00:01:37.109 align:start position:0%
+and this is probably less relevant for
+something<00:01:36.320><c> like</c><00:01:36.439><c> a</c><00:01:36.520><c> systems</c><00:01:36.840><c> design</c>
+
+00:01:37.109 --> 00:01:37.119 align:start position:0%
+something like a systems design
+ 
+
+00:01:37.119 --> 00:01:39.069 align:start position:0%
+something like a systems design
+interview<00:01:37.520><c> but</c><00:01:37.600><c> it</c><00:01:37.680><c> is</c><00:01:37.799><c> an</c><00:01:38.000><c> objective</c><00:01:38.439><c> upside</c>
+
+00:01:39.069 --> 00:01:39.079 align:start position:0%
+interview but it is an objective upside
+ 
+
+00:01:39.079 --> 00:01:40.749 align:start position:0%
+interview but it is an objective upside
+of<00:01:39.280><c> something</c><00:01:39.560><c> like</c><00:01:39.680><c> a</c><00:01:39.799><c> monor</c><00:01:40.159><c> repo</c><00:01:40.520><c> or</c><00:01:40.680><c> a</c>
+
+00:01:40.749 --> 00:01:40.759 align:start position:0%
+of something like a monor repo or a
+ 
+
+00:01:40.759 --> 00:01:42.830 align:start position:0%
+of something like a monor repo or a
+monolith<00:01:41.240><c> in</c><00:01:41.439><c> general</c><00:01:42.439><c> um</c><00:01:42.600><c> and</c><00:01:42.680><c> then</c>
+
+00:01:42.830 --> 00:01:42.840 align:start position:0%
+monolith in general um and then
+ 
+
+00:01:42.840 --> 00:01:44.389 align:start position:0%
+monolith in general um and then
+additionally<00:01:43.360><c> of</c><00:01:43.520><c> course</c><00:01:43.759><c> you</c><00:01:43.880><c> know</c><00:01:44.079><c> if</c><00:01:44.200><c> you</c>
+
+00:01:44.389 --> 00:01:44.399 align:start position:0%
+additionally of course you know if you
+ 
+
+00:01:44.399 --> 00:01:45.870 align:start position:0%
+additionally of course you know if you
+just<00:01:44.520><c> have</c><00:01:44.680><c> a</c><00:01:44.799><c> smaller</c><00:01:45.200><c> application</c><00:01:45.680><c> you</c>
+
+00:01:45.870 --> 00:01:45.880 align:start position:0%
+just have a smaller application you
+ 
+
+00:01:45.880 --> 00:01:47.069 align:start position:0%
+just have a smaller application you
+don't<00:01:46.000><c> need</c><00:01:46.119><c> a</c><00:01:46.240><c> build</c><00:01:46.479><c> for</c><00:01:46.680><c> that</c><00:01:46.840><c> type</c><00:01:47.000><c> of</c>
+
+00:01:47.069 --> 00:01:47.079 align:start position:0%
+don't need a build for that type of
+ 
+
+00:01:47.079 --> 00:01:48.990 align:start position:0%
+don't need a build for that type of
+scale<00:01:47.960><c> why</c><00:01:48.079><c> would</c><00:01:48.200><c> you</c><00:01:48.320><c> split</c><00:01:48.600><c> everything</c><00:01:48.840><c> out</c>
+
+00:01:48.990 --> 00:01:49.000 align:start position:0%
+scale why would you split everything out
+ 
+
+00:01:49.000 --> 00:01:50.149 align:start position:0%
+scale why would you split everything out
+into<00:01:49.200><c> different</c><00:01:49.399><c> Services</c><00:01:49.840><c> you're</c><00:01:49.960><c> going</c><00:01:50.079><c> to</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+into different Services you're going to
+ 
+
+00:01:50.159 --> 00:01:51.830 align:start position:0%
+into different Services you're going to
+have<00:01:50.280><c> a</c><00:01:50.360><c> lot</c><00:01:50.520><c> less</c><00:01:50.680><c> to</c><00:01:50.799><c> keep</c><00:01:51.000><c> track</c><00:01:51.280><c> of</c><00:01:51.520><c> if</c><00:01:51.640><c> you</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+have a lot less to keep track of if you
+ 
+
+00:01:51.840 --> 00:01:53.469 align:start position:0%
+have a lot less to keep track of if you
+just<00:01:52.079><c> have</c><00:01:52.479><c> you</c><00:01:52.560><c> know</c><00:01:52.840><c> one</c><00:01:53.079><c> thing</c><00:01:53.240><c> that</c><00:01:53.320><c> you're</c>
+
+00:01:53.469 --> 00:01:53.479 align:start position:0%
+just have you know one thing that you're
+ 
+
+00:01:53.479 --> 00:01:55.270 align:start position:0%
+just have you know one thing that you're
+managing<00:01:54.000><c> and</c><00:01:54.200><c> one</c><00:01:54.439><c> thing</c><00:01:54.799><c> that</c><00:01:55.040><c> actually</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+managing and one thing that actually
+ 
+
+00:01:55.280 --> 00:01:57.870 align:start position:0%
+managing and one thing that actually
+needs<00:01:55.520><c> to</c><00:01:55.640><c> be</c><00:01:55.799><c> kept</c><00:01:56.079><c> working</c><00:01:57.079><c> so</c><00:01:57.399><c> of</c><00:01:57.520><c> course</c>
+
+00:01:57.870 --> 00:01:57.880 align:start position:0%
+needs to be kept working so of course
+ 
+
+00:01:57.880 --> 00:01:59.270 align:start position:0%
+needs to be kept working so of course
+there<00:01:58.000><c> are</c><00:01:58.240><c> going</c><00:01:58.399><c> to</c><00:01:58.520><c> be</c><00:01:58.680><c> Cons</c><00:01:59.000><c> with</c><00:01:59.159><c> this</c>
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+there are going to be Cons with this
+ 
+
+00:01:59.280 --> 00:02:00.550 align:start position:0%
+there are going to be Cons with this
+approach<00:01:59.600><c> as</c><00:01:59.680><c> well</c><00:01:59.920><c> well</c><00:02:00.200><c> which</c><00:02:00.320><c> is</c><00:02:00.439><c> the</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+approach as well well which is the
+ 
+
+00:02:00.560 --> 00:02:02.069 align:start position:0%
+approach as well well which is the
+reason<00:02:00.840><c> that</c><00:02:01.000><c> people</c><00:02:01.280><c> have</c><00:02:01.439><c> begun</c><00:02:01.759><c> using</c>
+
+00:02:02.069 --> 00:02:02.079 align:start position:0%
+reason that people have begun using
+ 
+
+00:02:02.079 --> 00:02:04.109 align:start position:0%
+reason that people have begun using
+microservices<00:02:02.880><c> at</c><00:02:03.000><c> least</c><00:02:03.200><c> in</c><00:02:03.439><c> applications</c>
+
+00:02:04.109 --> 00:02:04.119 align:start position:0%
+microservices at least in applications
+ 
+
+00:02:04.119 --> 00:02:06.749 align:start position:0%
+microservices at least in applications
+that<00:02:04.320><c> require</c><00:02:04.719><c> tons</c><00:02:04.960><c> of</c><00:02:05.079><c> scaling</c><00:02:05.920><c> so</c><00:02:06.159><c> one</c><00:02:06.520><c> is</c>
+
+00:02:06.749 --> 00:02:06.759 align:start position:0%
+that require tons of scaling so one is
+ 
+
+00:02:06.759 --> 00:02:08.949 align:start position:0%
+that require tons of scaling so one is
+that<00:02:07.200><c> uh</c><00:02:07.520><c> in</c><00:02:07.719><c> the</c><00:02:08.000><c> case</c><00:02:08.280><c> that</c><00:02:08.479><c> everything</c><00:02:08.840><c> is</c>
+
+00:02:08.949 --> 00:02:08.959 align:start position:0%
+that uh in the case that everything is
+ 
+
+00:02:08.959 --> 00:02:10.669 align:start position:0%
+that uh in the case that everything is
+in<00:02:09.080><c> the</c><00:02:09.160><c> same</c><00:02:09.399><c> repository</c><00:02:10.039><c> one</c><00:02:10.239><c> bug</c><00:02:10.520><c> can</c>
+
+00:02:10.669 --> 00:02:10.679 align:start position:0%
+in the same repository one bug can
+ 
+
+00:02:10.679 --> 00:02:12.350 align:start position:0%
+in the same repository one bug can
+really<00:02:10.879><c> just</c><00:02:11.039><c> take</c><00:02:11.280><c> everything</c><00:02:11.640><c> down</c><00:02:12.239><c> you</c>
+
+00:02:12.350 --> 00:02:12.360 align:start position:0%
+really just take everything down you
+ 
+
+00:02:12.360 --> 00:02:14.030 align:start position:0%
+really just take everything down you
+know<00:02:12.520><c> you</c><00:02:12.640><c> screw</c><00:02:12.920><c> up</c><00:02:13.040><c> a</c><00:02:13.160><c> dependency</c><00:02:13.599><c> chain</c><00:02:13.920><c> and</c>
+
+00:02:14.030 --> 00:02:14.040 align:start position:0%
+know you screw up a dependency chain and
+ 
+
+00:02:14.040 --> 00:02:16.030 align:start position:0%
+know you screw up a dependency chain and
+all<00:02:14.160><c> of</c><00:02:14.239><c> a</c><00:02:14.360><c> sudden</c><00:02:14.760><c> everything</c><00:02:15.200><c> is</c><00:02:15.319><c> screwed</c><00:02:15.680><c> up</c>
+
+00:02:16.030 --> 00:02:16.040 align:start position:0%
+all of a sudden everything is screwed up
+ 
+
+00:02:16.040 --> 00:02:18.350 align:start position:0%
+all of a sudden everything is screwed up
+and<00:02:16.160><c> you've</c><00:02:16.360><c> got</c><00:02:16.560><c> a</c><00:02:16.680><c> s</c><00:02:16.959><c> 2</c><00:02:17.160><c> on</c><00:02:17.280><c> your</c><00:02:17.400><c> hands</c><00:02:18.239><c> the</c>
+
+00:02:18.350 --> 00:02:18.360 align:start position:0%
+and you've got a s 2 on your hands the
+ 
+
+00:02:18.360 --> 00:02:20.470 align:start position:0%
+and you've got a s 2 on your hands the
+other<00:02:18.760><c> is</c><00:02:19.080><c> that</c><00:02:19.319><c> you</c><00:02:19.519><c> basically</c><00:02:19.920><c> can't</c><00:02:20.120><c> scale</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+other is that you basically can't scale
+ 
+
+00:02:20.480 --> 00:02:22.110 align:start position:0%
+other is that you basically can't scale
+things<00:02:20.640><c> out</c><00:02:20.840><c> independently</c><00:02:21.440><c> so</c><00:02:21.640><c> what</c><00:02:21.760><c> if</c><00:02:21.920><c> for</c>
+
+00:02:22.110 --> 00:02:22.120 align:start position:0%
+things out independently so what if for
+ 
+
+00:02:22.120 --> 00:02:23.910 align:start position:0%
+things out independently so what if for
+whatever<00:02:22.519><c> reason</c><00:02:23.000><c> people</c><00:02:23.200><c> were</c><00:02:23.400><c> uploading</c>
+
+00:02:23.910 --> 00:02:23.920 align:start position:0%
+whatever reason people were uploading
+ 
+
+00:02:23.920 --> 00:02:25.509 align:start position:0%
+whatever reason people were uploading
+photos<00:02:24.319><c> a</c><00:02:24.440><c> million</c><00:02:24.840><c> times</c><00:02:25.080><c> more</c><00:02:25.280><c> than</c><00:02:25.440><c> they</c>
+
+00:02:25.509 --> 00:02:25.519 align:start position:0%
+photos a million times more than they
+ 
+
+00:02:25.519 --> 00:02:27.309 align:start position:0%
+photos a million times more than they
+were<00:02:25.680><c> following</c><00:02:26.040><c> one</c><00:02:26.200><c> another</c><00:02:26.959><c> in</c><00:02:27.040><c> the</c><00:02:27.160><c> case</c>
+
+00:02:27.309 --> 00:02:27.319 align:start position:0%
+were following one another in the case
+ 
+
+00:02:27.319 --> 00:02:29.070 align:start position:0%
+were following one another in the case
+of<00:02:27.480><c> Instagram</c><00:02:27.959><c> that</c><00:02:28.080><c> may</c><00:02:28.319><c> actually</c><00:02:28.519><c> be</c><00:02:28.720><c> true</c>
+
+00:02:29.070 --> 00:02:29.080 align:start position:0%
+of Instagram that may actually be true
+ 
+
+00:02:29.080 --> 00:02:30.630 align:start position:0%
+of Instagram that may actually be true
+you<00:02:29.160><c> would</c><00:02:29.319><c> probably</c><00:02:29.560><c> want</c><00:02:30.000><c> a</c><00:02:30.120><c> lot</c><00:02:30.280><c> more</c>
+
+00:02:30.630 --> 00:02:30.640 align:start position:0%
+you would probably want a lot more
+ 
+
+00:02:30.640 --> 00:02:33.190 align:start position:0%
+you would probably want a lot more
+servers<00:02:31.200><c> devoted</c><00:02:31.640><c> to</c><00:02:32.080><c> exclusively</c><00:02:32.680><c> uploading</c>
+
+00:02:33.190 --> 00:02:33.200 align:start position:0%
+servers devoted to exclusively uploading
+ 
+
+00:02:33.200 --> 00:02:35.110 align:start position:0%
+servers devoted to exclusively uploading
+things<00:02:33.440><c> than</c><00:02:33.560><c> you</c><00:02:33.640><c> would</c><00:02:33.840><c> following</c><00:02:34.360><c> things</c>
+
+00:02:35.110 --> 00:02:35.120 align:start position:0%
+things than you would following things
+ 
+
+00:02:35.120 --> 00:02:36.949 align:start position:0%
+things than you would following things
+but<00:02:35.480><c> in</c><00:02:35.640><c> the</c><00:02:35.760><c> current</c><00:02:36.040><c> monolith</c><00:02:36.599><c> State</c>
+
+00:02:36.949 --> 00:02:36.959 align:start position:0%
+but in the current monolith State
+ 
+
+00:02:36.959 --> 00:02:38.670 align:start position:0%
+but in the current monolith State
+basically<00:02:37.400><c> every</c><00:02:37.599><c> single</c><00:02:38.000><c> binary</c><00:02:38.440><c> that</c><00:02:38.519><c> you</c>
+
+00:02:38.670 --> 00:02:38.680 align:start position:0%
+basically every single binary that you
+ 
+
+00:02:38.680 --> 00:02:41.030 align:start position:0%
+basically every single binary that you
+deploy<00:02:39.080><c> has</c><00:02:39.239><c> the</c><00:02:39.400><c> ability</c><00:02:39.680><c> to</c><00:02:39.800><c> do</c><00:02:40.040><c> both</c><00:02:40.800><c> and</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+deploy has the ability to do both and
+ 
+
+00:02:41.040 --> 00:02:43.309 align:start position:0%
+deploy has the ability to do both and
+you<00:02:41.120><c> know</c><00:02:41.280><c> you</c><00:02:41.440><c> just</c><00:02:41.560><c> don't</c><00:02:41.800><c> really</c><00:02:42.000><c> need</c><00:02:42.319><c> that</c>
+
+00:02:43.309 --> 00:02:43.319 align:start position:0%
+you know you just don't really need that
+ 
+
+00:02:43.319 --> 00:02:46.750 align:start position:0%
+you know you just don't really need that
+so<00:02:44.000><c> let's</c><00:02:44.239><c> now</c><00:02:44.519><c> go</c><00:02:44.680><c> ahead</c><00:02:45.000><c> and</c><00:02:45.200><c> talk</c><00:02:45.440><c> about</c>
+
+00:02:46.750 --> 00:02:46.760 align:start position:0%
+so let's now go ahead and talk about
+ 
+
+00:02:46.760 --> 00:02:48.830 align:start position:0%
+so let's now go ahead and talk about
+microservices<00:02:47.760><c> because</c><00:02:48.200><c> this</c><00:02:48.319><c> is</c><00:02:48.480><c> going</c><00:02:48.680><c> to</c>
+
+00:02:48.830 --> 00:02:48.840 align:start position:0%
+microservices because this is going to
+ 
+
+00:02:48.840 --> 00:02:50.309 align:start position:0%
+microservices because this is going to
+allow<00:02:49.120><c> us</c><00:02:49.239><c> to</c><00:02:49.360><c> be</c><00:02:49.480><c> more</c><00:02:49.680><c> efficient</c><00:02:50.000><c> with</c><00:02:50.120><c> our</c>
+
+00:02:50.309 --> 00:02:50.319 align:start position:0%
+allow us to be more efficient with our
+ 
+
+00:02:50.319 --> 00:02:52.270 align:start position:0%
+allow us to be more efficient with our
+resources<00:02:50.840><c> when</c><00:02:51.000><c> we</c><00:02:51.120><c> have</c><00:02:51.239><c> an</c><00:02:51.440><c> application</c><00:02:52.080><c> at</c>
+
+00:02:52.270 --> 00:02:52.280 align:start position:0%
+resources when we have an application at
+ 
+
+00:02:52.280 --> 00:02:55.630 align:start position:0%
+resources when we have an application at
+huge<00:02:52.560><c> scale</c><00:02:53.480><c> so</c><00:02:54.360><c> uh</c><00:02:54.480><c> in</c><00:02:54.640><c> this</c><00:02:54.840><c> case</c><00:02:55.280><c> you</c><00:02:55.400><c> know</c>
+
+00:02:55.630 --> 00:02:55.640 align:start position:0%
+huge scale so uh in this case you know
+ 
+
+00:02:55.640 --> 00:02:57.030 align:start position:0%
+huge scale so uh in this case you know
+perhaps<00:02:55.959><c> I'm</c><00:02:56.080><c> talking</c><00:02:56.319><c> about</c><00:02:56.480><c> your</c><00:02:56.720><c> private</c>
+
+00:02:57.030 --> 00:02:57.040 align:start position:0%
+perhaps I'm talking about your private
+ 
+
+00:02:57.040 --> 00:02:59.869 align:start position:0%
+perhaps I'm talking about your private
+parts<00:02:57.720><c> micro</c><00:02:58.599><c> but</c><00:02:59.040><c> let's</c><00:02:59.239><c> go</c><00:02:59.360><c> ahead</c><00:02:59.599><c> and</c><00:02:59.760><c> and</c>
+
+00:02:59.869 --> 00:02:59.879 align:start position:0%
+parts micro but let's go ahead and and
+ 
+
+00:02:59.879 --> 00:03:01.390 align:start position:0%
+parts micro but let's go ahead and and
+talk<00:03:00.040><c> about</c><00:03:00.280><c> them</c><00:03:00.519><c> so</c><00:03:00.760><c> in</c><00:03:00.879><c> the</c><00:03:01.000><c> case</c><00:03:01.200><c> of</c>
+
+00:03:01.390 --> 00:03:01.400 align:start position:0%
+talk about them so in the case of
+ 
+
+00:03:01.400 --> 00:03:02.910 align:start position:0%
+talk about them so in the case of
+Instagram<00:03:01.879><c> I've</c><00:03:02.000><c> kind</c><00:03:02.120><c> of</c><00:03:02.239><c> broken</c><00:03:02.480><c> it</c><00:03:02.680><c> down</c>
+
+00:03:02.910 --> 00:03:02.920 align:start position:0%
+Instagram I've kind of broken it down
+ 
+
+00:03:02.920 --> 00:03:05.149 align:start position:0%
+Instagram I've kind of broken it down
+into<00:03:03.200><c> those</c><00:03:03.440><c> five</c><00:03:03.680><c> different</c><00:03:04.040><c> Services</c><00:03:05.040><c> you</c>
+
+00:03:05.149 --> 00:03:05.159 align:start position:0%
+into those five different Services you
+ 
+
+00:03:05.159 --> 00:03:06.470 align:start position:0%
+into those five different Services you
+know<00:03:05.519><c> whatever</c><00:03:05.760><c> you</c><00:03:05.840><c> want</c><00:03:05.959><c> to</c><00:03:06.040><c> call</c><00:03:06.200><c> them</c>
+
+00:03:06.470 --> 00:03:06.480 align:start position:0%
+know whatever you want to call them
+ 
+
+00:03:06.480 --> 00:03:08.589 align:start position:0%
+know whatever you want to call them
+theoretically<00:03:07.480><c> and</c><00:03:07.720><c> basically</c><00:03:08.040><c> the</c><00:03:08.159><c> gist</c><00:03:08.440><c> is</c>
+
+00:03:08.589 --> 00:03:08.599 align:start position:0%
+theoretically and basically the gist is
+ 
+
+00:03:08.599 --> 00:03:09.630 align:start position:0%
+theoretically and basically the gist is
+you<00:03:08.680><c> know</c><00:03:08.799><c> if</c><00:03:08.920><c> certain</c><00:03:09.159><c> things</c><00:03:09.319><c> are</c><00:03:09.440><c> going</c><00:03:09.519><c> to</c>
+
+00:03:09.630 --> 00:03:09.640 align:start position:0%
+you know if certain things are going to
+ 
+
+00:03:09.640 --> 00:03:11.110 align:start position:0%
+you know if certain things are going to
+require<00:03:09.959><c> more</c><00:03:10.120><c> load</c><00:03:10.440><c> than</c><00:03:10.560><c> others</c><00:03:10.840><c> you</c><00:03:10.920><c> could</c>
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+require more load than others you could
+ 
+
+00:03:11.120 --> 00:03:13.070 align:start position:0%
+require more load than others you could
+basically<00:03:11.560><c> go</c><00:03:11.879><c> and</c><00:03:12.080><c> devote</c><00:03:12.440><c> more</c><00:03:12.599><c> nodes</c><00:03:12.959><c> in</c>
+
+00:03:13.070 --> 00:03:13.080 align:start position:0%
+basically go and devote more nodes in
+ 
+
+00:03:13.080 --> 00:03:14.550 align:start position:0%
+basically go and devote more nodes in
+your<00:03:13.239><c> distributed</c><00:03:13.720><c> cluster</c><00:03:14.080><c> to</c><00:03:14.319><c> actually</c>
+
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+your distributed cluster to actually
+ 
+
+00:03:14.560 --> 00:03:16.750 align:start position:0%
+your distributed cluster to actually
+running<00:03:14.920><c> that</c><00:03:15.080><c> service</c><00:03:15.640><c> specifically</c><00:03:16.640><c> the</c>
+
+00:03:16.750 --> 00:03:16.760 align:start position:0%
+running that service specifically the
+ 
+
+00:03:16.760 --> 00:03:18.430 align:start position:0%
+running that service specifically the
+issue<00:03:17.040><c> with</c><00:03:17.159><c> the</c><00:03:17.239><c> monolith</c><00:03:17.840><c> is</c><00:03:18.120><c> yeah</c><00:03:18.280><c> in</c>
+
+00:03:18.430 --> 00:03:18.440 align:start position:0%
+issue with the monolith is yeah in
+ 
+
+00:03:18.440 --> 00:03:19.869 align:start position:0%
+issue with the monolith is yeah in
+theory<00:03:18.760><c> you</c><00:03:18.840><c> can</c><00:03:19.080><c> have</c><00:03:19.319><c> just</c><00:03:19.440><c> a</c><00:03:19.560><c> ton</c><00:03:19.760><c> of</c>
+
+00:03:19.869 --> 00:03:19.879 align:start position:0%
+theory you can have just a ton of
+ 
+
+00:03:19.879 --> 00:03:21.430 align:start position:0%
+theory you can have just a ton of
+deployments<00:03:20.400><c> of</c><00:03:20.560><c> that</c><00:03:20.680><c> monolith</c><00:03:21.159><c> but</c><00:03:21.280><c> at</c><00:03:21.360><c> the</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+deployments of that monolith but at the
+ 
+
+00:03:21.440 --> 00:03:23.229 align:start position:0%
+deployments of that monolith but at the
+end<00:03:21.560><c> of</c><00:03:21.680><c> the</c><00:03:21.799><c> day</c><00:03:22.159><c> all</c><00:03:22.319><c> of</c><00:03:22.519><c> those</c><00:03:22.680><c> services</c><00:03:23.080><c> are</c>
+
+00:03:23.229 --> 00:03:23.239 align:start position:0%
+end of the day all of those services are
+ 
+
+00:03:23.239 --> 00:03:25.149 align:start position:0%
+end of the day all of those services are
+going<00:03:23.400><c> to</c><00:03:23.519><c> be</c><00:03:23.720><c> stealing</c><00:03:24.159><c> resources</c><00:03:24.799><c> from</c><00:03:25.040><c> what</c>
+
+00:03:25.149 --> 00:03:25.159 align:start position:0%
+going to be stealing resources from what
+ 
+
+00:03:25.159 --> 00:03:27.190 align:start position:0%
+going to be stealing resources from what
+you<00:03:25.400><c> actually</c><00:03:25.640><c> want</c><00:03:25.760><c> to</c><00:03:25.879><c> be</c><00:03:26.040><c> devoting</c><00:03:26.959><c> that</c>
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+you actually want to be devoting that
+ 
+
+00:03:27.200 --> 00:03:29.149 align:start position:0%
+you actually want to be devoting that
+particular<00:03:27.599><c> deployment</c><00:03:28.000><c> to</c><00:03:28.519><c> and</c><00:03:28.680><c> as</c><00:03:28.760><c> a</c><00:03:28.879><c> result</c>
+
+00:03:29.149 --> 00:03:29.159 align:start position:0%
+particular deployment to and as a result
+ 
+
+00:03:29.159 --> 00:03:31.070 align:start position:0%
+particular deployment to and as a result
+decoupling<00:03:29.840><c> these</c><00:03:30.000><c> things</c><00:03:30.760><c> within</c>
+
+00:03:31.070 --> 00:03:31.080 align:start position:0%
+decoupling these things within
+ 
+
+00:03:31.080 --> 00:03:32.830 align:start position:0%
+decoupling these things within
+microservices<00:03:31.879><c> might</c><00:03:32.040><c> make</c><00:03:32.280><c> life</c><00:03:32.519><c> a</c><00:03:32.640><c> little</c>
+
+00:03:32.830 --> 00:03:32.840 align:start position:0%
+microservices might make life a little
+ 
+
+00:03:32.840 --> 00:03:35.789 align:start position:0%
+microservices might make life a little
+bit<00:03:33.040><c> easier</c><00:03:33.799><c> so</c><00:03:33.959><c> the</c><00:03:34.080><c> first</c><00:03:34.319><c> thing</c><00:03:34.599><c> is</c><00:03:34.879><c> that</c><00:03:35.599><c> it</c>
+
+00:03:35.789 --> 00:03:35.799 align:start position:0%
+bit easier so the first thing is that it
+ 
+
+00:03:35.799 --> 00:03:37.030 align:start position:0%
+bit easier so the first thing is that it
+doesn't<00:03:36.080><c> have</c><00:03:36.200><c> to</c><00:03:36.319><c> be</c><00:03:36.439><c> the</c><00:03:36.560><c> case</c><00:03:36.720><c> that</c><00:03:36.840><c> they're</c>
+
+00:03:37.030 --> 00:03:37.040 align:start position:0%
+doesn't have to be the case that they're
+ 
+
+00:03:37.040 --> 00:03:39.030 align:start position:0%
+doesn't have to be the case that they're
+separate<00:03:37.319><c> repositories</c><00:03:38.080><c> but</c><00:03:38.239><c> if</c><00:03:38.360><c> they</c><00:03:38.519><c> are</c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+separate repositories but if they are
+ 
+
+00:03:39.040 --> 00:03:41.070 align:start position:0%
+separate repositories but if they are
+developed<00:03:39.439><c> in</c><00:03:39.560><c> separate</c><00:03:40.080><c> repositories</c>
+
+00:03:41.070 --> 00:03:41.080 align:start position:0%
+developed in separate repositories
+ 
+
+00:03:41.080 --> 00:03:43.110 align:start position:0%
+developed in separate repositories
+microservices<00:03:41.840><c> will</c><00:03:42.120><c> allow</c><00:03:42.360><c> you</c><00:03:42.480><c> to</c><00:03:42.720><c> avoid</c>
+
+00:03:43.110 --> 00:03:43.120 align:start position:0%
+microservices will allow you to avoid
+ 
+
+00:03:43.120 --> 00:03:44.429 align:start position:0%
+microservices will allow you to avoid
+basically<00:03:43.480><c> like</c><00:03:43.640><c> Global</c><00:03:43.959><c> bugs</c><00:03:44.239><c> and</c>
+
+00:03:44.429 --> 00:03:44.439 align:start position:0%
+basically like Global bugs and
+ 
+
+00:03:44.439 --> 00:03:46.030 align:start position:0%
+basically like Global bugs and
+additionally<00:03:44.799><c> teams</c><00:03:45.159><c> can</c><00:03:45.319><c> kind</c><00:03:45.439><c> of</c><00:03:45.560><c> develop</c>
+
+00:03:46.030 --> 00:03:46.040 align:start position:0%
+additionally teams can kind of develop
+ 
+
+00:03:46.040 --> 00:03:47.550 align:start position:0%
+additionally teams can kind of develop
+independently<00:03:46.599><c> from</c><00:03:46.760><c> one</c><00:03:46.920><c> another</c><00:03:47.239><c> without</c>
+
+00:03:47.550 --> 00:03:47.560 align:start position:0%
+independently from one another without
+ 
+
+00:03:47.560 --> 00:03:49.949 align:start position:0%
+independently from one another without
+any<00:03:47.799><c> considerations</c><00:03:48.640><c> into</c><00:03:49.400><c> you</c><00:03:49.519><c> know</c><00:03:49.720><c> like</c>
+
+00:03:49.949 --> 00:03:49.959 align:start position:0%
+any considerations into you know like
+ 
+
+00:03:49.959 --> 00:03:51.390 align:start position:0%
+any considerations into you know like
+hey<00:03:50.159><c> we</c><00:03:50.280><c> have</c><00:03:50.360><c> to</c><00:03:50.439><c> use</c><00:03:50.640><c> this</c><00:03:50.760><c> dependency</c><00:03:51.200><c> or</c><00:03:51.319><c> we</c>
+
+00:03:51.390 --> 00:03:51.400 align:start position:0%
+hey we have to use this dependency or we
+ 
+
+00:03:51.400 --> 00:03:52.990 align:start position:0%
+hey we have to use this dependency or we
+have<00:03:51.519><c> to</c><00:03:51.599><c> use</c><00:03:51.760><c> this</c><00:03:51.920><c> technology</c><00:03:52.760><c> you're</c>
+
+00:03:52.990 --> 00:03:53.000 align:start position:0%
+have to use this technology you're
+ 
+
+00:03:53.000 --> 00:03:54.550 align:start position:0%
+have to use this technology you're
+basically<00:03:53.319><c> decoupled</c><00:03:54.000><c> and</c><00:03:54.120><c> you</c><00:03:54.200><c> can</c><00:03:54.360><c> just</c>
+
+00:03:54.550 --> 00:03:54.560 align:start position:0%
+basically decoupled and you can just
+ 
+
+00:03:54.560 --> 00:03:57.869 align:start position:0%
+basically decoupled and you can just
+agree<00:03:54.959><c> on</c><00:03:55.200><c> one</c><00:03:55.519><c> common</c><00:03:56.360><c> interface</c><00:03:57.360><c> uh</c><00:03:57.640><c> with</c>
+
+00:03:57.869 --> 00:03:57.879 align:start position:0%
+agree on one common interface uh with
+ 
+
+00:03:57.879 --> 00:03:58.869 align:start position:0%
+agree on one common interface uh with
+which<00:03:58.200><c> you</c><00:03:58.319><c> know</c><00:03:58.439><c> to</c><00:03:58.640><c> have</c><00:03:58.760><c> your</c>
+
+00:03:58.869 --> 00:03:58.879 align:start position:0%
+which you know to have your
+ 
+
+00:03:58.879 --> 00:04:00.710 align:start position:0%
+which you know to have your
+microservices<00:03:59.680><c> connect</c><00:04:00.040><c> basically</c><00:04:00.519><c> just</c>
+
+00:04:00.710 --> 00:04:00.720 align:start position:0%
+microservices connect basically just
+ 
+
+00:04:00.720 --> 00:04:03.270 align:start position:0%
+microservices connect basically just
+creating<00:04:01.120><c> apis</c><00:04:01.640><c> that's</c><00:04:01.799><c> what</c><00:04:01.879><c> they're</c><00:04:02.040><c> for</c><00:04:03.040><c> um</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+creating apis that's what they're for um
+ 
+
+00:04:03.280 --> 00:04:04.630 align:start position:0%
+creating apis that's what they're for um
+and<00:04:03.480><c> of</c><00:04:03.599><c> course</c><00:04:03.799><c> like</c><00:04:03.959><c> I</c><00:04:04.040><c> mentioned</c><00:04:04.439><c> each</c>
+
+00:04:04.630 --> 00:04:04.640 align:start position:0%
+and of course like I mentioned each
+ 
+
+00:04:04.640 --> 00:04:06.229 align:start position:0%
+and of course like I mentioned each
+service<00:04:04.959><c> can</c><00:04:05.120><c> actually</c><00:04:05.319><c> scale</c><00:04:05.640><c> independently</c>
+
+00:04:06.229 --> 00:04:06.239 align:start position:0%
+service can actually scale independently
+ 
+
+00:04:06.239 --> 00:04:08.229 align:start position:0%
+service can actually scale independently
+which<00:04:06.360><c> can</c><00:04:06.480><c> be</c><00:04:06.599><c> more</c><00:04:06.799><c> cost</c><00:04:07.079><c> efficient</c><00:04:08.000><c> and</c>
+
+00:04:08.229 --> 00:04:08.239 align:start position:0%
+which can be more cost efficient and
+ 
+
+00:04:08.239 --> 00:04:10.190 align:start position:0%
+which can be more cost efficient and
+ultimately<00:04:08.840><c> allow</c><00:04:09.159><c> you</c><00:04:09.319><c> to</c><00:04:09.560><c> basically</c><00:04:10.000><c> get</c>
+
+00:04:10.190 --> 00:04:10.200 align:start position:0%
+ultimately allow you to basically get
+ 
+
+00:04:10.200 --> 00:04:12.030 align:start position:0%
+ultimately allow you to basically get
+more<00:04:10.519><c> usage</c><00:04:10.920><c> out</c><00:04:11.079><c> of</c><00:04:11.200><c> your</c><00:04:11.319><c> servers</c><00:04:11.799><c> which</c><00:04:11.879><c> is</c>
+
+00:04:12.030 --> 00:04:12.040 align:start position:0%
+more usage out of your servers which is
+ 
+
+00:04:12.040 --> 00:04:14.030 align:start position:0%
+more usage out of your servers which is
+pretty<00:04:12.280><c> important</c><00:04:12.760><c> when</c><00:04:12.879><c> you</c><00:04:13.000><c> have</c><00:04:13.159><c> tons</c><00:04:13.400><c> of</c>
+
+00:04:14.030 --> 00:04:14.040 align:start position:0%
+pretty important when you have tons of
+ 
+
+00:04:14.040 --> 00:04:16.870 align:start position:0%
+pretty important when you have tons of
+users<00:04:15.040><c> on</c><00:04:15.400><c> the</c><00:04:15.640><c> cons</c><00:04:16.079><c> side</c><00:04:16.359><c> though</c><00:04:16.720><c> every</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+users on the cons side though every
+ 
+
+00:04:16.880 --> 00:04:19.270 align:start position:0%
+users on the cons side though every
+single<00:04:17.199><c> piece</c><00:04:17.680><c> can</c><00:04:18.000><c> fail</c><00:04:18.680><c> because</c><00:04:18.919><c> now</c><00:04:19.120><c> we</c>
+
+00:04:19.270 --> 00:04:19.280 align:start position:0%
+single piece can fail because now we
+ 
+
+00:04:19.280 --> 00:04:21.509 align:start position:0%
+single piece can fail because now we
+have<00:04:19.359><c> to</c><00:04:19.519><c> keep</c><00:04:19.720><c> track</c><00:04:20.040><c> of</c><00:04:20.199><c> a</c><00:04:20.320><c> bunch</c><00:04:20.519><c> more</c><00:04:20.799><c> stuff</c>
+
+00:04:21.509 --> 00:04:21.519 align:start position:0%
+have to keep track of a bunch more stuff
+ 
+
+00:04:21.519 --> 00:04:23.230 align:start position:0%
+have to keep track of a bunch more stuff
+you<00:04:21.639><c> know</c><00:04:21.840><c> for</c><00:04:21.959><c> example</c><00:04:22.280><c> our</c><00:04:22.479><c> ad</c><00:04:22.720><c> service</c><00:04:23.080><c> can</c>
+
+00:04:23.230 --> 00:04:23.240 align:start position:0%
+you know for example our ad service can
+ 
+
+00:04:23.240 --> 00:04:25.070 align:start position:0%
+you know for example our ad service can
+just<00:04:23.400><c> have</c><00:04:23.520><c> a</c><00:04:23.680><c> bug</c><00:04:23.919><c> it</c><00:04:24.000><c> can</c><00:04:24.160><c> go</c><00:04:24.320><c> down</c><00:04:24.560><c> entirely</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+just have a bug it can go down entirely
+ 
+
+00:04:25.080 --> 00:04:26.710 align:start position:0%
+just have a bug it can go down entirely
+and<00:04:25.240><c> now</c><00:04:25.440><c> all</c><00:04:25.560><c> of</c><00:04:25.639><c> a</c><00:04:25.759><c> sudden</c><00:04:26.120><c> we</c><00:04:26.240><c> have</c><00:04:26.360><c> to</c>
+
+00:04:26.710 --> 00:04:26.720 align:start position:0%
+and now all of a sudden we have to
+ 
+
+00:04:26.720 --> 00:04:28.550 align:start position:0%
+and now all of a sudden we have to
+monitor<00:04:27.240><c> you</c><00:04:27.320><c> know</c><00:04:27.560><c> five</c><00:04:27.800><c> different</c><00:04:28.080><c> Services</c>
+
+00:04:28.550 --> 00:04:28.560 align:start position:0%
+monitor you know five different Services
+ 
+
+00:04:28.560 --> 00:04:30.110 align:start position:0%
+monitor you know five different Services
+instead<00:04:28.840><c> of</c><00:04:28.960><c> one</c><00:04:29.160><c> and</c><00:04:29.280><c> be</c><00:04:29.440><c> like</c><00:04:29.680><c> okay</c><00:04:29.800><c> is</c><00:04:29.919><c> this</c>
+
+00:04:30.110 --> 00:04:30.120 align:start position:0%
+instead of one and be like okay is this
+ 
+
+00:04:30.120 --> 00:04:32.270 align:start position:0%
+instead of one and be like okay is this
+okay<00:04:30.320><c> is</c><00:04:30.440><c> this</c><00:04:30.680><c> okay</c><00:04:30.840><c> is</c><00:04:31.000><c> this</c><00:04:31.280><c> okay</c><00:04:32.039><c> and</c><00:04:32.120><c> then</c>
+
+00:04:32.270 --> 00:04:32.280 align:start position:0%
+okay is this okay is this okay and then
+ 
+
+00:04:32.280 --> 00:04:34.629 align:start position:0%
+okay is this okay is this okay and then
+of<00:04:32.440><c> course</c><00:04:33.240><c> when</c><00:04:33.400><c> we</c><00:04:33.560><c> will</c><00:04:33.720><c> have</c><00:04:33.840><c> to</c><00:04:34.199><c> deploy</c>
+
+00:04:34.629 --> 00:04:34.639 align:start position:0%
+of course when we will have to deploy
+ 
+
+00:04:34.639 --> 00:04:35.830 align:start position:0%
+of course when we will have to deploy
+all<00:04:34.759><c> of</c><00:04:34.880><c> these</c><00:04:35.039><c> different</c><00:04:35.240><c> services</c><00:04:35.680><c> to</c>
+
+00:04:35.830 --> 00:04:35.840 align:start position:0%
+all of these different services to
+ 
+
+00:04:35.840 --> 00:04:37.590 align:start position:0%
+all of these different services to
+different<00:04:36.120><c> places</c><00:04:36.440><c> and</c><00:04:36.680><c> all</c><00:04:36.840><c> of</c><00:04:37.039><c> those</c><00:04:37.440><c> uh</c>
+
+00:04:37.590 --> 00:04:37.600 align:start position:0%
+different places and all of those uh
+ 
+
+00:04:37.600 --> 00:04:38.870 align:start position:0%
+different places and all of those uh
+microservices<00:04:38.320><c> need</c><00:04:38.600><c> different</c>
+
+00:04:38.870 --> 00:04:38.880 align:start position:0%
+microservices need different
+ 
+
+00:04:38.880 --> 00:04:40.790 align:start position:0%
+microservices need different
+dependencies<00:04:39.440><c> and</c><00:04:39.600><c> different</c><00:04:39.880><c> resources</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+dependencies and different resources
+ 
+
+00:04:40.800 --> 00:04:43.029 align:start position:0%
+dependencies and different resources
+that<00:04:40.960><c> can</c><00:04:41.120><c> get</c><00:04:41.320><c> complicated</c><00:04:42.240><c> so</c><00:04:42.440><c> to</c><00:04:42.600><c> close</c><00:04:42.840><c> out</c>
+
+00:04:43.029 --> 00:04:43.039 align:start position:0%
+that can get complicated so to close out
+ 
+
+00:04:43.039 --> 00:04:44.670 align:start position:0%
+that can get complicated so to close out
+this<00:04:43.240><c> video</c><00:04:43.520><c> I'm</c><00:04:43.639><c> going</c><00:04:43.759><c> to</c><00:04:43.919><c> talk</c><00:04:44.199><c> about</c><00:04:44.440><c> two</c>
+
+00:04:44.670 --> 00:04:44.680 align:start position:0%
+this video I'm going to talk about two
+ 
+
+00:04:44.680 --> 00:04:46.150 align:start position:0%
+this video I'm going to talk about two
+different<00:04:44.960><c> types</c><00:04:45.160><c> of</c><00:04:45.320><c> technologies</c><00:04:45.919><c> that</c><00:04:46.039><c> are</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+different types of technologies that are
+ 
+
+00:04:46.160 --> 00:04:47.990 align:start position:0%
+different types of technologies that are
+going<00:04:46.320><c> to</c><00:04:46.520><c> greatly</c><00:04:46.880><c> help</c><00:04:47.120><c> us</c><00:04:47.280><c> out</c><00:04:47.759><c> with</c>
+
+00:04:47.990 --> 00:04:48.000 align:start position:0%
+going to greatly help us out with
+ 
+
+00:04:48.000 --> 00:04:49.909 align:start position:0%
+going to greatly help us out with
+microservices<00:04:49.000><c> and</c><00:04:49.199><c> actually</c><00:04:49.440><c> dealing</c><00:04:49.800><c> with</c>
+
+00:04:49.909 --> 00:04:49.919 align:start position:0%
+microservices and actually dealing with
+ 
+
+00:04:49.919 --> 00:04:51.909 align:start position:0%
+microservices and actually dealing with
+the<00:04:50.080><c> complications</c><00:04:50.639><c> that</c><00:04:50.800><c> they</c><00:04:50.960><c> introduce</c>
+
+00:04:51.909 --> 00:04:51.919 align:start position:0%
+the complications that they introduce
+ 
+
+00:04:51.919 --> 00:04:53.469 align:start position:0%
+the complications that they introduce
+the<00:04:52.080><c> first</c><00:04:52.400><c> is</c><00:04:52.520><c> going</c><00:04:52.600><c> to</c><00:04:52.720><c> be</c><00:04:52.880><c> Docker</c><00:04:53.280><c> so</c><00:04:53.400><c> if</c>
+
+00:04:53.469 --> 00:04:53.479 align:start position:0%
+the first is going to be Docker so if
+ 
+
+00:04:53.479 --> 00:04:54.790 align:start position:0%
+the first is going to be Docker so if
+you<00:04:53.600><c> haven't</c><00:04:53.800><c> seen</c><00:04:54.000><c> it</c><00:04:54.160><c> before</c><00:04:54.400><c> the</c><00:04:54.520><c> logo</c>
+
+00:04:54.790 --> 00:04:54.800 align:start position:0%
+you haven't seen it before the logo
+ 
+
+00:04:54.800 --> 00:04:56.629 align:start position:0%
+you haven't seen it before the logo
+looks<00:04:55.000><c> like</c><00:04:55.120><c> a</c><00:04:55.240><c> little</c><00:04:55.360><c> bit</c><00:04:55.479><c> of</c><00:04:55.600><c> a</c><00:04:55.720><c> whale</c><00:04:56.479><c> but</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+looks like a little bit of a whale but
+ 
+
+00:04:56.639 --> 00:04:59.189 align:start position:0%
+looks like a little bit of a whale but
+basically<00:04:57.160><c> the</c><00:04:57.280><c> gist</c><00:04:57.520><c> of</c><00:04:57.680><c> Docker</c><00:04:58.039><c> is</c><00:04:58.280><c> this</c>
+
+00:04:59.189 --> 00:04:59.199 align:start position:0%
+basically the gist of Docker is this
+ 
+
+00:04:59.199 --> 00:05:00.830 align:start position:0%
+basically the gist of Docker is this
+every<00:04:59.600><c> single</c><00:04:59.800><c> one</c><00:04:59.880><c> of</c><00:04:59.960><c> our</c><00:05:00.080><c> microservices</c>
+
+00:05:00.830 --> 00:05:00.840 align:start position:0%
+every single one of our microservices
+ 
+
+00:05:00.840 --> 00:05:01.670 align:start position:0%
+every single one of our microservices
+assuming<00:05:01.160><c> they</c><00:05:01.280><c> have</c><00:05:01.440><c> different</c>
+
+00:05:01.670 --> 00:05:01.680 align:start position:0%
+assuming they have different
+ 
+
+00:05:01.680 --> 00:05:03.990 align:start position:0%
+assuming they have different
+Technologies<00:05:02.560><c> is</c><00:05:02.720><c> going</c><00:05:02.919><c> to</c><00:05:03.199><c> have</c><00:05:03.600><c> unique</c>
+
+00:05:03.990 --> 00:05:04.000 align:start position:0%
+Technologies is going to have unique
+ 
+
+00:05:04.000 --> 00:05:05.710 align:start position:0%
+Technologies is going to have unique
+requirements<00:05:04.840><c> you</c><00:05:04.960><c> know</c><00:05:05.120><c> maybe</c><00:05:05.360><c> one</c><00:05:05.479><c> of</c><00:05:05.600><c> them</c>
+
+00:05:05.710 --> 00:05:05.720 align:start position:0%
+requirements you know maybe one of them
+ 
+
+00:05:05.720 --> 00:05:07.270 align:start position:0%
+requirements you know maybe one of them
+is<00:05:05.840><c> in</c><00:05:06.039><c> Python</c><00:05:06.479><c> maybe</c><00:05:06.720><c> one</c><00:05:06.840><c> of</c><00:05:06.919><c> them</c><00:05:07.039><c> is</c><00:05:07.160><c> in</c>
+
+00:05:07.270 --> 00:05:07.280 align:start position:0%
+is in Python maybe one of them is in
+ 
+
+00:05:07.280 --> 00:05:09.390 align:start position:0%
+is in Python maybe one of them is in
+Java<00:05:07.919><c> maybe</c><00:05:08.240><c> even</c><00:05:08.440><c> within</c><00:05:08.800><c> python</c><00:05:09.160><c> they</c><00:05:09.280><c> just</c>
+
+00:05:09.390 --> 00:05:09.400 align:start position:0%
+Java maybe even within python they just
+ 
+
+00:05:09.400 --> 00:05:10.670 align:start position:0%
+Java maybe even within python they just
+have<00:05:09.600><c> different</c><00:05:09.840><c> dependencies</c><00:05:10.400><c> that</c><00:05:10.560><c> they</c>
+
+00:05:10.670 --> 00:05:10.680 align:start position:0%
+have different dependencies that they
+ 
+
+00:05:10.680 --> 00:05:12.830 align:start position:0%
+have different dependencies that they
+want<00:05:11.320><c> and</c><00:05:11.440><c> the</c><00:05:11.560><c> gist</c><00:05:11.840><c> is</c><00:05:12.000><c> if</c><00:05:12.120><c> I</c><00:05:12.199><c> were</c><00:05:12.400><c> to</c><00:05:12.680><c> just</c>
+
+00:05:12.830 --> 00:05:12.840 align:start position:0%
+want and the gist is if I were to just
+ 
+
+00:05:12.840 --> 00:05:14.670 align:start position:0%
+want and the gist is if I were to just
+deploy<00:05:13.240><c> that</c><00:05:13.440><c> to</c><00:05:13.680><c> like</c><00:05:13.840><c> an</c><00:05:14.039><c> actual</c><00:05:14.320><c> server</c>
+
+00:05:14.670 --> 00:05:14.680 align:start position:0%
+deploy that to like an actual server
+ 
+
+00:05:14.680 --> 00:05:16.189 align:start position:0%
+deploy that to like an actual server
+computer<00:05:15.080><c> then</c><00:05:15.199><c> I</c><00:05:15.280><c> would</c><00:05:15.400><c> have</c><00:05:15.560><c> to</c><00:05:15.759><c> jump</c><00:05:16.000><c> to</c>
+
+00:05:16.189 --> 00:05:16.199 align:start position:0%
+computer then I would have to jump to
+ 
+
+00:05:16.199 --> 00:05:17.710 align:start position:0%
+computer then I would have to jump to
+that<00:05:16.360><c> server</c><00:05:17.039><c> download</c><00:05:17.440><c> all</c><00:05:17.600><c> the</c>
+
+00:05:17.710 --> 00:05:17.720 align:start position:0%
+that server download all the
+ 
+
+00:05:17.720 --> 00:05:19.189 align:start position:0%
+that server download all the
+dependencies<00:05:18.600><c> and</c><00:05:18.720><c> that's</c><00:05:18.919><c> really</c>
+
+00:05:19.189 --> 00:05:19.199 align:start position:0%
+dependencies and that's really
+ 
+
+00:05:19.199 --> 00:05:20.350 align:start position:0%
+dependencies and that's really
+complicated<00:05:19.639><c> and</c><00:05:19.759><c> I</c><00:05:19.800><c> would</c><00:05:19.960><c> have</c><00:05:20.039><c> to</c><00:05:20.120><c> do</c><00:05:20.240><c> it</c>
+
+00:05:20.350 --> 00:05:20.360 align:start position:0%
+complicated and I would have to do it
+ 
+
+00:05:20.360 --> 00:05:22.430 align:start position:0%
+complicated and I would have to do it
+for<00:05:20.560><c> every</c><00:05:20.759><c> single</c><00:05:21.080><c> one</c><00:05:21.199><c> of</c><00:05:21.360><c> them</c><00:05:22.039><c> instead</c>
+
+00:05:22.430 --> 00:05:22.440 align:start position:0%
+for every single one of them instead
+ 
+
+00:05:22.440 --> 00:05:24.189 align:start position:0%
+for every single one of them instead
+what<00:05:22.560><c> Docker</c><00:05:22.960><c> does</c><00:05:23.160><c> is</c><00:05:23.280><c> it</c><00:05:23.520><c> basically</c><00:05:23.880><c> allows</c>
+
+00:05:24.189 --> 00:05:24.199 align:start position:0%
+what Docker does is it basically allows
+ 
+
+00:05:24.199 --> 00:05:26.830 align:start position:0%
+what Docker does is it basically allows
+us<00:05:24.400><c> to</c><00:05:24.680><c> standardize</c><00:05:25.680><c> how</c><00:05:25.840><c> we</c><00:05:25.960><c> are</c><00:05:26.160><c> going</c><00:05:26.400><c> to</c>
+
+00:05:26.830 --> 00:05:26.840 align:start position:0%
+us to standardize how we are going to
+ 
+
+00:05:26.840 --> 00:05:28.469 align:start position:0%
+us to standardize how we are going to
+install<00:05:27.280><c> those</c><00:05:27.479><c> dependencies</c><00:05:28.039><c> and</c><00:05:28.199><c> get</c><00:05:28.319><c> our</c>
+
+00:05:28.469 --> 00:05:28.479 align:start position:0%
+install those dependencies and get our
+ 
+
+00:05:28.479 --> 00:05:30.150 align:start position:0%
+install those dependencies and get our
+development<00:05:28.919><c> environment</c><00:05:29.280><c> going</c>
+
+00:05:30.150 --> 00:05:30.160 align:start position:0%
+development environment going
+ 
+
+00:05:30.160 --> 00:05:31.590 align:start position:0%
+development environment going
+and<00:05:30.280><c> the</c><00:05:30.360><c> way</c><00:05:30.479><c> that</c><00:05:30.600><c> it</c><00:05:30.720><c> does</c><00:05:31.000><c> this</c><00:05:31.240><c> is</c><00:05:31.400><c> through</c>
+
+00:05:31.590 --> 00:05:31.600 align:start position:0%
+and the way that it does this is through
+ 
+
+00:05:31.600 --> 00:05:33.469 align:start position:0%
+and the way that it does this is through
+this<00:05:31.759><c> usage</c><00:05:32.039><c> of</c><00:05:32.160><c> a</c><00:05:32.280><c> container</c><00:05:32.919><c> so</c><00:05:33.120><c> think</c><00:05:33.280><c> of</c><00:05:33.360><c> a</c>
+
+00:05:33.469 --> 00:05:33.479 align:start position:0%
+this usage of a container so think of a
+ 
+
+00:05:33.479 --> 00:05:35.510 align:start position:0%
+this usage of a container so think of a
+container<00:05:34.080><c> as</c><00:05:34.280><c> this</c><00:05:34.520><c> interface</c><00:05:35.199><c> right</c><00:05:35.400><c> and</c>
+
+00:05:35.510 --> 00:05:35.520 align:start position:0%
+container as this interface right and
+ 
+
+00:05:35.520 --> 00:05:36.749 align:start position:0%
+container as this interface right and
+the<00:05:35.600><c> reason</c><00:05:35.840><c> I've</c><00:05:35.960><c> drawn</c><00:05:36.240><c> this</c><00:05:36.319><c> out</c><00:05:36.479><c> as</c><00:05:36.600><c> a</c>
+
+00:05:36.749 --> 00:05:36.759 align:start position:0%
+the reason I've drawn this out as a
+ 
+
+00:05:36.759 --> 00:05:38.230 align:start position:0%
+the reason I've drawn this out as a
+square<00:05:37.120><c> is</c><00:05:37.280><c> because</c><00:05:37.520><c> let's</c><00:05:37.720><c> imagine</c><00:05:38.039><c> every</c>
+
+00:05:38.230 --> 00:05:38.240 align:start position:0%
+square is because let's imagine every
+ 
+
+00:05:38.240 --> 00:05:40.150 align:start position:0%
+square is because let's imagine every
+single<00:05:38.520><c> computer</c><00:05:39.280><c> knows</c><00:05:39.560><c> how</c><00:05:39.680><c> to</c><00:05:39.800><c> run</c><00:05:40.039><c> the</c>
+
+00:05:40.150 --> 00:05:40.160 align:start position:0%
+single computer knows how to run the
+ 
+
+00:05:40.160 --> 00:05:42.309 align:start position:0%
+single computer knows how to run the
+square<00:05:40.680><c> nice</c><00:05:40.840><c> and</c><00:05:41.000><c> easily</c><00:05:41.800><c> but</c><00:05:41.919><c> then</c><00:05:42.080><c> within</c>
+
+00:05:42.309 --> 00:05:42.319 align:start position:0%
+square nice and easily but then within
+ 
+
+00:05:42.319 --> 00:05:43.390 align:start position:0%
+square nice and easily but then within
+the<00:05:42.400><c> square</c><00:05:42.720><c> you</c><00:05:42.800><c> know</c><00:05:42.960><c> you</c><00:05:43.039><c> can</c><00:05:43.199><c> have</c>
+
+00:05:43.390 --> 00:05:43.400 align:start position:0%
+the square you know you can have
+ 
+
+00:05:43.400 --> 00:05:44.870 align:start position:0%
+the square you know you can have
+anything<00:05:43.759><c> going</c><00:05:43.960><c> on</c><00:05:44.199><c> you</c><00:05:44.319><c> might</c><00:05:44.520><c> have</c><00:05:44.720><c> all</c>
+
+00:05:44.870 --> 00:05:44.880 align:start position:0%
+anything going on you might have all
+ 
+
+00:05:44.880 --> 00:05:46.790 align:start position:0%
+anything going on you might have all
+different<00:05:45.120><c> types</c><00:05:45.319><c> of</c><00:05:45.440><c> dependencies</c><00:05:46.199><c> in</c><00:05:46.360><c> here</c>
+
+00:05:46.790 --> 00:05:46.800 align:start position:0%
+different types of dependencies in here
+ 
+
+00:05:46.800 --> 00:05:48.189 align:start position:0%
+different types of dependencies in here
+you<00:05:46.919><c> might</c><00:05:47.160><c> have</c><00:05:47.400><c> different</c><00:05:47.720><c> operating</c>
+
+00:05:48.189 --> 00:05:48.199 align:start position:0%
+you might have different operating
+ 
+
+00:05:48.199 --> 00:05:49.670 align:start position:0%
+you might have different operating
+systems<00:05:48.600><c> even</c><00:05:48.880><c> like</c><00:05:49.039><c> different</c><00:05:49.240><c> versions</c><00:05:49.560><c> of</c>
+
+00:05:49.670 --> 00:05:49.680 align:start position:0%
+systems even like different versions of
+ 
+
+00:05:49.680 --> 00:05:50.990 align:start position:0%
+systems even like different versions of
+Linux<00:05:50.039><c> that</c><00:05:50.160><c> you're</c><00:05:50.319><c> actually</c><00:05:50.520><c> running</c><00:05:50.800><c> your</c>
+
+00:05:50.990 --> 00:05:51.000 align:start position:0%
+Linux that you're actually running your
+ 
+
+00:05:51.000 --> 00:05:53.590 align:start position:0%
+Linux that you're actually running your
+program<00:05:51.319><c> on</c><00:05:52.080><c> and</c><00:05:52.199><c> so</c><00:05:52.680><c> Docker</c><00:05:53.120><c> basically</c>
+
+00:05:53.590 --> 00:05:53.600 align:start position:0%
+program on and so Docker basically
+ 
+
+00:05:53.600 --> 00:05:55.790 align:start position:0%
+program on and so Docker basically
+abstracts<00:05:54.120><c> away</c><00:05:54.400><c> from</c><00:05:54.560><c> the</c><00:05:54.759><c> actual</c><00:05:55.080><c> host</c><00:05:55.680><c> that</c>
+
+00:05:55.790 --> 00:05:55.800 align:start position:0%
+abstracts away from the actual host that
+ 
+
+00:05:55.800 --> 00:05:57.670 align:start position:0%
+abstracts away from the actual host that
+the<00:05:55.919><c> container</c><00:05:56.280><c> is</c><00:05:56.400><c> running</c><00:05:56.680><c> on</c><00:05:57.440><c> uh</c><00:05:57.560><c> the</c>
+
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+the container is running on uh the
+ 
+
+00:05:57.680 --> 00:05:59.350 align:start position:0%
+the container is running on uh the
+dependencies<00:05:58.400><c> and</c><00:05:58.560><c> just</c><00:05:58.720><c> allows</c><00:05:59.000><c> it</c><00:05:59.080><c> to</c><00:05:59.199><c> run</c>
+
+00:05:59.350 --> 00:05:59.360 align:start position:0%
+dependencies and just allows it to run
+ 
+
+00:05:59.360 --> 00:06:00.950 align:start position:0%
+dependencies and just allows it to run
+the<00:05:59.520><c> the</c><00:05:59.600><c> container</c><00:06:00.160><c> and</c><00:06:00.280><c> so</c><00:06:00.479><c> you</c><00:06:00.560><c> don't</c><00:06:00.840><c> have</c>
+
+00:06:00.950 --> 00:06:00.960 align:start position:0%
+the the container and so you don't have
+ 
+
+00:06:00.960 --> 00:06:02.670 align:start position:0%
+the the container and so you don't have
+to<00:06:01.280><c> go</c><00:06:01.440><c> and</c><00:06:01.639><c> install</c><00:06:01.960><c> the</c><00:06:02.120><c> dependencies</c>
+
+00:06:02.670 --> 00:06:02.680 align:start position:0%
+to go and install the dependencies
+ 
+
+00:06:02.680 --> 00:06:04.670 align:start position:0%
+to go and install the dependencies
+manually<00:06:03.080><c> on</c><00:06:03.280><c> each</c><00:06:03.479><c> host</c><00:06:03.880><c> which</c><00:06:04.000><c> saves</c><00:06:04.319><c> a</c><00:06:04.479><c> ton</c>
+
+00:06:04.670 --> 00:06:04.680 align:start position:0%
+manually on each host which saves a ton
+ 
+
+00:06:04.680 --> 00:06:07.430 align:start position:0%
+manually on each host which saves a ton
+of<00:06:05.080><c> time</c><00:06:06.080><c> additionally</c><00:06:06.639><c> another</c><00:06:06.960><c> really</c><00:06:07.199><c> nice</c>
+
+00:06:07.430 --> 00:06:07.440 align:start position:0%
+of time additionally another really nice
+ 
+
+00:06:07.440 --> 00:06:09.110 align:start position:0%
+of time additionally another really nice
+thing<00:06:07.599><c> about</c><00:06:07.800><c> containers</c><00:06:08.599><c> is</c><00:06:08.759><c> that</c><00:06:09.000><c> as</c>
+
+00:06:09.110 --> 00:06:09.120 align:start position:0%
+thing about containers is that as
+ 
+
+00:06:09.120 --> 00:06:10.430 align:start position:0%
+thing about containers is that as
+opposed<00:06:09.440><c> to</c><00:06:09.599><c> something</c><00:06:09.840><c> like</c><00:06:09.960><c> a</c><00:06:10.080><c> virtual</c>
+
+00:06:10.430 --> 00:06:10.440 align:start position:0%
+opposed to something like a virtual
+ 
+
+00:06:10.440 --> 00:06:12.469 align:start position:0%
+opposed to something like a virtual
+machine<00:06:11.039><c> you</c><00:06:11.160><c> don't</c><00:06:11.440><c> necessarily</c><00:06:12.039><c> have</c><00:06:12.160><c> to</c>
+
+00:06:12.469 --> 00:06:12.479 align:start position:0%
+machine you don't necessarily have to
+ 
+
+00:06:12.479 --> 00:06:14.430 align:start position:0%
+machine you don't necessarily have to
+like<00:06:12.680><c> specify</c><00:06:13.160><c> how</c><00:06:13.240><c> many</c><00:06:13.479><c> resources</c><00:06:14.039><c> you</c><00:06:14.160><c> need</c>
+
+00:06:14.430 --> 00:06:14.440 align:start position:0%
+like specify how many resources you need
+ 
+
+00:06:14.440 --> 00:06:15.950 align:start position:0%
+like specify how many resources you need
+in<00:06:14.639><c> advance</c><00:06:15.039><c> you</c><00:06:15.120><c> know</c><00:06:15.240><c> how</c><00:06:15.319><c> much</c><00:06:15.520><c> memory</c><00:06:15.880><c> how</c>
+
+00:06:15.950 --> 00:06:15.960 align:start position:0%
+in advance you know how much memory how
+ 
+
+00:06:15.960 --> 00:06:17.909 align:start position:0%
+in advance you know how much memory how
+much<00:06:16.080><c> CPU</c><00:06:16.479><c> usage</c><00:06:16.880><c> anything</c><00:06:17.199><c> like</c><00:06:17.400><c> that</c><00:06:17.800><c> they</c>
+
+00:06:17.909 --> 00:06:17.919 align:start position:0%
+much CPU usage anything like that they
+ 
+
+00:06:17.919 --> 00:06:19.950 align:start position:0%
+much CPU usage anything like that they
+can<00:06:18.160><c> actually</c><00:06:18.479><c> just</c><00:06:18.639><c> scale</c><00:06:19.039><c> up</c><00:06:19.199><c> and</c><00:06:19.360><c> down</c><00:06:19.800><c> as</c>
+
+00:06:19.950 --> 00:06:19.960 align:start position:0%
+can actually just scale up and down as
+ 
+
+00:06:19.960 --> 00:06:21.950 align:start position:0%
+can actually just scale up and down as
+more<00:06:20.199><c> resources</c><00:06:20.680><c> are</c><00:06:20.840><c> needed</c><00:06:21.520><c> and</c><00:06:21.639><c> so</c><00:06:21.840><c> of</c>
+
+00:06:21.950 --> 00:06:21.960 align:start position:0%
+more resources are needed and so of
+ 
+
+00:06:21.960 --> 00:06:23.629 align:start position:0%
+more resources are needed and so of
+course<00:06:22.160><c> in</c><00:06:22.280><c> a</c><00:06:22.440><c> world</c><00:06:22.759><c> where</c><00:06:22.919><c> we</c><00:06:23.039><c> want</c><00:06:23.160><c> to</c><00:06:23.440><c> cut</c>
+
+00:06:23.629 --> 00:06:23.639 align:start position:0%
+course in a world where we want to cut
+ 
+
+00:06:23.639 --> 00:06:25.390 align:start position:0%
+course in a world where we want to cut
+as<00:06:23.759><c> many</c><00:06:24.000><c> costs</c><00:06:24.319><c> as</c><00:06:24.520><c> possible</c><00:06:24.919><c> when</c><00:06:25.080><c> running</c>
+
+00:06:25.390 --> 00:06:25.400 align:start position:0%
+as many costs as possible when running
+ 
+
+00:06:25.400 --> 00:06:27.469 align:start position:0%
+as many costs as possible when running
+our<00:06:25.599><c> applications</c><00:06:26.479><c> containers</c><00:06:26.880><c> are</c><00:06:27.080><c> hugely</c>
+
+00:06:27.469 --> 00:06:27.479 align:start position:0%
+our applications containers are hugely
+ 
+
+00:06:27.479 --> 00:06:30.029 align:start position:0%
+our applications containers are hugely
+useful<00:06:28.319><c> this</c><00:06:28.479><c> is</c><00:06:28.680><c> going</c><00:06:28.840><c> to</c><00:06:28.960><c> be</c><00:06:29.080><c> critical</c>
+
+00:06:30.029 --> 00:06:30.039 align:start position:0%
+useful this is going to be critical
+ 
+
+00:06:30.039 --> 00:06:31.550 align:start position:0%
+useful this is going to be critical
+when<00:06:30.199><c> you've</c><00:06:30.400><c> got</c><00:06:30.560><c> many</c><00:06:30.759><c> of</c><00:06:30.880><c> them</c><00:06:31.000><c> on</c><00:06:31.160><c> the</c><00:06:31.240><c> same</c>
+
+00:06:31.550 --> 00:06:31.560 align:start position:0%
+when you've got many of them on the same
+ 
+
+00:06:31.560 --> 00:06:33.510 align:start position:0%
+when you've got many of them on the same
+host<00:06:31.960><c> which</c><00:06:32.080><c> is</c><00:06:32.280><c> very</c><00:06:32.520><c> common</c><00:06:33.000><c> when</c><00:06:33.120><c> you</c><00:06:33.240><c> are</c>
+
+00:06:33.510 --> 00:06:33.520 align:start position:0%
+host which is very common when you are
+ 
+
+00:06:33.520 --> 00:06:36.150 align:start position:0%
+host which is very common when you are
+using<00:06:33.919><c> something</c><00:06:34.440><c> like</c><00:06:35.039><c> microservices</c><00:06:36.039><c> that</c>
+
+00:06:36.150 --> 00:06:36.160 align:start position:0%
+using something like microservices that
+ 
+
+00:06:36.160 --> 00:06:38.029 align:start position:0%
+using something like microservices that
+being<00:06:36.400><c> said</c><00:06:36.960><c> great</c><00:06:37.199><c> now</c><00:06:37.360><c> we</c><00:06:37.560><c> have</c><00:06:37.680><c> all</c><00:06:37.880><c> these</c>
+
+00:06:38.029 --> 00:06:38.039 align:start position:0%
+being said great now we have all these
+ 
+
+00:06:38.039 --> 00:06:40.589 align:start position:0%
+being said great now we have all these
+Docker<00:06:38.400><c> containers</c><00:06:39.039><c> but</c><00:06:39.360><c> what</c><00:06:39.560><c> happens</c><00:06:40.160><c> if</c><00:06:40.520><c> uh</c>
+
+00:06:40.589 --> 00:06:40.599 align:start position:0%
+Docker containers but what happens if uh
+ 
+
+00:06:40.599 --> 00:06:42.390 align:start position:0%
+Docker containers but what happens if uh
+we<00:06:40.720><c> need</c><00:06:40.880><c> to</c><00:06:41.039><c> choose</c><00:06:41.720><c> you</c><00:06:41.840><c> know</c><00:06:41.960><c> for</c><00:06:42.120><c> a</c><00:06:42.240><c> new</c>
+
+00:06:42.390 --> 00:06:42.400 align:start position:0%
+we need to choose you know for a new
+ 
+
+00:06:42.400 --> 00:06:44.390 align:start position:0%
+we need to choose you know for a new
+Docker<00:06:42.720><c> container</c><00:06:43.520><c> which</c><00:06:43.720><c> host</c><00:06:43.960><c> to</c><00:06:44.160><c> actually</c>
+
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+Docker container which host to actually
+ 
+
+00:06:44.400 --> 00:06:46.430 align:start position:0%
+Docker container which host to actually
+put<00:06:44.560><c> it</c><00:06:44.680><c> on</c><00:06:45.080><c> additionally</c><00:06:45.680><c> what</c><00:06:45.840><c> happens</c><00:06:46.199><c> if</c><00:06:46.319><c> a</c>
+
+00:06:46.430 --> 00:06:46.440 align:start position:0%
+put it on additionally what happens if a
+ 
+
+00:06:46.440 --> 00:06:48.510 align:start position:0%
+put it on additionally what happens if a
+given<00:06:46.680><c> Docker</c><00:06:47.039><c> container</c><00:06:47.639><c> crashes</c><00:06:48.080><c> or</c><00:06:48.240><c> stops</c>
+
+00:06:48.510 --> 00:06:48.520 align:start position:0%
+given Docker container crashes or stops
+ 
+
+00:06:48.520 --> 00:06:50.469 align:start position:0%
+given Docker container crashes or stops
+running<00:06:48.840><c> or</c><00:06:48.960><c> a</c><00:06:49.039><c> host</c><00:06:49.319><c> goes</c><00:06:49.560><c> down</c><00:06:50.080><c> how</c><00:06:50.199><c> can</c><00:06:50.319><c> we</c>
+
+00:06:50.469 --> 00:06:50.479 align:start position:0%
+running or a host goes down how can we
+ 
+
+00:06:50.479 --> 00:06:51.990 align:start position:0%
+running or a host goes down how can we
+make<00:06:50.639><c> sure</c><00:06:50.919><c> that</c><00:06:51.080><c> all</c><00:06:51.199><c> of</c><00:06:51.319><c> our</c><00:06:51.479><c> programs</c><00:06:51.840><c> are</c>
+
+00:06:51.990 --> 00:06:52.000 align:start position:0%
+make sure that all of our programs are
+ 
+
+00:06:52.000 --> 00:06:53.950 align:start position:0%
+make sure that all of our programs are
+running<00:06:52.360><c> as</c><00:06:52.560><c> expected</c><00:06:53.479><c> this</c><00:06:53.639><c> is</c><00:06:53.759><c> where</c>
+
+00:06:53.950 --> 00:06:53.960 align:start position:0%
+running as expected this is where
+ 
+
+00:06:53.960 --> 00:06:56.029 align:start position:0%
+running as expected this is where
+something<00:06:54.280><c> called</c><00:06:54.520><c> kubernetes</c><00:06:55.120><c> comes</c><00:06:55.319><c> in</c><00:06:55.879><c> so</c>
+
+00:06:56.029 --> 00:06:56.039 align:start position:0%
+something called kubernetes comes in so
+ 
+
+00:06:56.039 --> 00:06:57.230 align:start position:0%
+something called kubernetes comes in so
+I<00:06:56.120><c> think</c><00:06:56.240><c> a</c><00:06:56.360><c> lot</c><00:06:56.479><c> of</c><00:06:56.599><c> people</c><00:06:56.840><c> when</c><00:06:56.960><c> they</c><00:06:57.080><c> hear</c>
+
+00:06:57.230 --> 00:06:57.240 align:start position:0%
+I think a lot of people when they hear
+ 
+
+00:06:57.240 --> 00:06:58.790 align:start position:0%
+I think a lot of people when they hear
+about<00:06:57.440><c> Docker</c><00:06:57.800><c> and</c><00:06:57.919><c> kubernetes</c><00:06:58.520><c> think</c><00:06:58.680><c> that</c>
+
+00:06:58.790 --> 00:06:58.800 align:start position:0%
+about Docker and kubernetes think that
+ 
+
+00:06:58.800 --> 00:07:00.230 align:start position:0%
+about Docker and kubernetes think that
+they're<00:06:58.960><c> actually</c><00:06:59.160><c> the</c><00:06:59.479><c> same</c><00:06:59.680><c> thing</c><00:06:59.879><c> or</c><00:07:00.120><c> you</c>
+
+00:07:00.230 --> 00:07:00.240 align:start position:0%
+they're actually the same thing or you
+ 
+
+00:07:00.240 --> 00:07:01.909 align:start position:0%
+they're actually the same thing or you
+know<00:07:00.440><c> there's</c><00:07:00.639><c> something</c><00:07:01.039><c> that</c><00:07:01.160><c> you</c><00:07:01.319><c> use</c><00:07:01.639><c> one</c>
+
+00:07:01.909 --> 00:07:01.919 align:start position:0%
+know there's something that you use one
+ 
+
+00:07:01.919 --> 00:07:03.589 align:start position:0%
+know there's something that you use one
+or<00:07:02.080><c> you</c><00:07:02.240><c> use</c><00:07:02.440><c> the</c><00:07:02.560><c> other</c><00:07:02.800><c> but</c><00:07:02.879><c> in</c><00:07:03.039><c> reality</c><00:07:03.400><c> you</c>
+
+00:07:03.589 --> 00:07:03.599 align:start position:0%
+or you use the other but in reality you
+ 
+
+00:07:03.599 --> 00:07:05.110 align:start position:0%
+or you use the other but in reality you
+actually<00:07:03.919><c> tend</c><00:07:04.120><c> to</c><00:07:04.240><c> use</c><00:07:04.400><c> them</c><00:07:04.560><c> in</c><00:07:04.680><c> conjunction</c>
+
+00:07:05.110 --> 00:07:05.120 align:start position:0%
+actually tend to use them in conjunction
+ 
+
+00:07:05.120 --> 00:07:07.189 align:start position:0%
+actually tend to use them in conjunction
+with<00:07:05.280><c> one</c><00:07:05.440><c> another</c><00:07:06.160><c> so</c><00:07:06.360><c> kubernetes</c><00:07:06.879><c> is</c><00:07:07.039><c> pretty</c>
+
+00:07:07.189 --> 00:07:07.199 align:start position:0%
+with one another so kubernetes is pretty
+ 
+
+00:07:07.199 --> 00:07:09.589 align:start position:0%
+with one another so kubernetes is pretty
+simple<00:07:07.800><c> we</c><00:07:07.919><c> have</c><00:07:08.080><c> all</c><00:07:08.280><c> these</c><00:07:08.440><c> containers</c><00:07:09.400><c> and</c>
+
+00:07:09.589 --> 00:07:09.599 align:start position:0%
+simple we have all these containers and
+ 
+
+00:07:09.599 --> 00:07:11.550 align:start position:0%
+simple we have all these containers and
+like<00:07:09.720><c> I</c><00:07:09.840><c> mentioned</c><00:07:10.479><c> we</c><00:07:10.599><c> don't</c><00:07:10.800><c> know</c><00:07:11.199><c> where</c><00:07:11.360><c> to</c>
+
+00:07:11.550 --> 00:07:11.560 align:start position:0%
+like I mentioned we don't know where to
+ 
+
+00:07:11.560 --> 00:07:13.309 align:start position:0%
+like I mentioned we don't know where to
+actually<00:07:11.879><c> put</c><00:07:12.080><c> them</c><00:07:12.440><c> you</c><00:07:12.560><c> know</c><00:07:12.960><c> all</c><00:07:13.080><c> of</c><00:07:13.240><c> this</c>
+
+00:07:13.309 --> 00:07:13.319 align:start position:0%
+actually put them you know all of this
+ 
+
+00:07:13.319 --> 00:07:14.990 align:start position:0%
+actually put them you know all of this
+is<00:07:13.479><c> commodity</c><00:07:13.960><c> Hardware</c><00:07:14.319><c> so</c><00:07:14.400><c> we</c><00:07:14.479><c> don't</c><00:07:14.759><c> really</c>
+
+00:07:14.990 --> 00:07:15.000 align:start position:0%
+is commodity Hardware so we don't really
+ 
+
+00:07:15.000 --> 00:07:17.029 align:start position:0%
+is commodity Hardware so we don't really
+care<00:07:15.199><c> which</c><00:07:15.400><c> host</c><00:07:15.639><c> it's</c><00:07:15.840><c> going</c><00:07:16.039><c> on</c><00:07:16.879><c> and</c>
+
+00:07:17.029 --> 00:07:17.039 align:start position:0%
+care which host it's going on and
+ 
+
+00:07:17.039 --> 00:07:18.270 align:start position:0%
+care which host it's going on and
+additionally<00:07:17.520><c> we</c><00:07:17.639><c> want</c><00:07:17.840><c> something</c><00:07:18.080><c> to</c>
+
+00:07:18.270 --> 00:07:18.280 align:start position:0%
+additionally we want something to
+ 
+
+00:07:18.280 --> 00:07:19.749 align:start position:0%
+additionally we want something to
+actually<00:07:18.520><c> manage</c><00:07:18.800><c> failures</c><00:07:19.240><c> for</c><00:07:19.400><c> us</c><00:07:19.599><c> because</c>
+
+00:07:19.749 --> 00:07:19.759 align:start position:0%
+actually manage failures for us because
+ 
+
+00:07:19.759 --> 00:07:21.029 align:start position:0%
+actually manage failures for us because
+otherwise<00:07:20.120><c> we</c><00:07:20.199><c> have</c><00:07:20.319><c> to</c><00:07:20.400><c> monitor</c><00:07:20.800><c> everything</c>
+
+00:07:21.029 --> 00:07:21.039 align:start position:0%
+otherwise we have to monitor everything
+ 
+
+00:07:21.039 --> 00:07:23.430 align:start position:0%
+otherwise we have to monitor everything
+ourselves<00:07:21.440><c> and</c><00:07:21.560><c> that</c><00:07:21.639><c> can</c><00:07:21.759><c> be</c><00:07:21.919><c> really</c><00:07:22.440><c> tough</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+ourselves and that can be really tough
+ 
+
+00:07:23.440 --> 00:07:24.909 align:start position:0%
+ourselves and that can be really tough
+and<00:07:23.560><c> I</c><00:07:23.680><c> had</c><00:07:23.840><c> the</c><00:07:23.919><c> Eraser</c><00:07:24.360><c> out</c><00:07:24.520><c> there</c><00:07:24.680><c> like</c><00:07:24.800><c> an</c>
+
+00:07:24.909 --> 00:07:24.919 align:start position:0%
+and I had the Eraser out there like an
+ 
+
+00:07:24.919 --> 00:07:27.589 align:start position:0%
+and I had the Eraser out there like an
+idiot<00:07:25.720><c> so</c><00:07:25.960><c> basically</c><00:07:26.879><c> what</c><00:07:27.039><c> kubernetes</c>
+
+00:07:27.589 --> 00:07:27.599 align:start position:0%
+idiot so basically what kubernetes
+ 
+
+00:07:27.599 --> 00:07:30.550 align:start position:0%
+idiot so basically what kubernetes
+allows<00:07:27.919><c> us</c><00:07:28.080><c> to</c><00:07:28.240><c> do</c><00:07:28.919><c> is</c><00:07:29.400><c> specify</c><00:07:29.919><c> this</c><00:07:30.120><c> concept</c>
+
+00:07:30.550 --> 00:07:30.560 align:start position:0%
+allows us to do is specify this concept
+ 
+
+00:07:30.560 --> 00:07:33.790 align:start position:0%
+allows us to do is specify this concept
+of<00:07:30.759><c> a</c><00:07:30.960><c> desired</c><00:07:31.479><c> State</c><00:07:32.440><c> and</c><00:07:32.919><c> kubernetes</c><00:07:33.560><c> via</c>
+
+00:07:33.790 --> 00:07:33.800 align:start position:0%
+of a desired State and kubernetes via
+ 
+
+00:07:33.800 --> 00:07:37.550 align:start position:0%
+of a desired State and kubernetes via
+the<00:07:33.919><c> control</c><00:07:34.280><c> plane</c><00:07:34.759><c> over</c><00:07:35.240><c> here</c><00:07:36.240><c> and</c><00:07:36.800><c> etcd</c>
+
+00:07:37.550 --> 00:07:37.560 align:start position:0%
+the control plane over here and etcd
+ 
+
+00:07:37.560 --> 00:07:39.189 align:start position:0%
+the control plane over here and etcd
+which<00:07:37.680><c> is</c><00:07:37.840><c> basically</c><00:07:38.160><c> a</c><00:07:38.240><c> version</c><00:07:38.520><c> of</c><00:07:38.680><c> raft</c>
+
+00:07:39.189 --> 00:07:39.199 align:start position:0%
+which is basically a version of raft
+ 
+
+00:07:39.199 --> 00:07:41.430 align:start position:0%
+which is basically a version of raft
+right<00:07:39.360><c> this</c><00:07:39.440><c> is</c><00:07:39.599><c> a</c><00:07:39.800><c> distributed</c><00:07:40.319><c> consensus</c><00:07:41.280><c> uh</c>
+
+00:07:41.430 --> 00:07:41.440 align:start position:0%
+right this is a distributed consensus uh
+ 
+
+00:07:41.440 --> 00:07:42.950 align:start position:0%
+right this is a distributed consensus uh
+coordination
+
+00:07:42.950 --> 00:07:42.960 align:start position:0%
+coordination
+ 
+
+00:07:42.960 --> 00:07:44.990 align:start position:0%
+coordination
+service<00:07:43.960><c> I</c><00:07:44.039><c> don't</c><00:07:44.199><c> think</c><00:07:44.319><c> it</c><00:07:44.479><c> actually</c><00:07:44.720><c> uses</c>
+
+00:07:44.990 --> 00:07:45.000 align:start position:0%
+service I don't think it actually uses
+ 
+
+00:07:45.000 --> 00:07:46.469 align:start position:0%
+service I don't think it actually uses
+raft<00:07:45.360><c> under</c><00:07:45.520><c> the</c><00:07:45.639><c> hood</c><00:07:45.800><c> it</c><00:07:45.879><c> probably</c><00:07:46.120><c> uses</c><00:07:46.360><c> its</c>
+
+00:07:46.469 --> 00:07:46.479 align:start position:0%
+raft under the hood it probably uses its
+ 
+
+00:07:46.479 --> 00:07:48.909 align:start position:0%
+raft under the hood it probably uses its
+own<00:07:46.680><c> algorithm</c><00:07:47.360><c> but</c><00:07:47.680><c> uh</c><00:07:48.280><c> the</c><00:07:48.400><c> point</c><00:07:48.599><c> is</c><00:07:48.759><c> it's</c>
+
+00:07:48.909 --> 00:07:48.919 align:start position:0%
+own algorithm but uh the point is it's
+ 
+
+00:07:48.919 --> 00:07:51.270 align:start position:0%
+own algorithm but uh the point is it's
+like<00:07:49.199><c> zookeeper</c><00:07:50.199><c> is</c><00:07:50.440><c> keeping</c><00:07:50.759><c> track</c><00:07:51.080><c> of</c>
+
+00:07:51.270 --> 00:07:51.280 align:start position:0%
+like zookeeper is keeping track of
+ 
+
+00:07:51.280 --> 00:07:52.749 align:start position:0%
+like zookeeper is keeping track of
+basically<00:07:51.720><c> what</c><00:07:51.879><c> systems</c><00:07:52.199><c> are</c><00:07:52.400><c> up</c><00:07:52.639><c> what</c>
+
+00:07:52.749 --> 00:07:52.759 align:start position:0%
+basically what systems are up what
+ 
+
+00:07:52.759 --> 00:07:55.070 align:start position:0%
+basically what systems are up what
+systems<00:07:53.039><c> are</c><00:07:53.199><c> down</c><00:07:53.919><c> and</c><00:07:54.080><c> as</c><00:07:54.199><c> a</c><00:07:54.360><c> result</c><00:07:54.800><c> it</c><00:07:54.919><c> can</c>
+
+00:07:55.070 --> 00:07:55.080 align:start position:0%
+systems are down and as a result it can
+ 
+
+00:07:55.080 --> 00:07:56.790 align:start position:0%
+systems are down and as a result it can
+then<00:07:55.240><c> send</c><00:07:55.560><c> that</c><00:07:55.759><c> information</c><00:07:56.319><c> over</c><00:07:56.520><c> to</c><00:07:56.639><c> the</c>
+
+00:07:56.790 --> 00:07:56.800 align:start position:0%
+then send that information over to the
+ 
+
+00:07:56.800 --> 00:07:59.830 align:start position:0%
+then send that information over to the
+kuet<00:07:57.280><c> on</c><00:07:57.479><c> every</c><00:07:57.680><c> single</c><00:07:57.960><c> host</c><00:07:58.879><c> host</c><00:07:59.120><c> one</c><00:07:59.360><c> one</c>
+
+00:07:59.830 --> 00:07:59.840 align:start position:0%
+kuet on every single host host one one
+ 
+
+00:07:59.840 --> 00:08:01.270 align:start position:0%
+kuet on every single host host one one
+could<00:08:00.000><c> be</c><00:08:00.080><c> a</c><00:08:00.199><c> VM</c><00:08:00.520><c> or</c><00:08:00.599><c> it</c><00:08:00.680><c> could</c><00:08:00.800><c> be</c><00:08:00.879><c> a</c><00:08:00.960><c> physical</c>
+
+00:08:01.270 --> 00:08:01.280 align:start position:0%
+could be a VM or it could be a physical
+ 
+
+00:08:01.280 --> 00:08:04.830 align:start position:0%
+could be a VM or it could be a physical
+host<00:08:02.159><c> host</c><00:08:02.440><c> 2</c><00:08:03.280><c> and</c><00:08:03.400><c> then</c><00:08:03.639><c> basically</c><00:08:04.080><c> KU</c><00:08:04.720><c> uh</c>
+
+00:08:04.830 --> 00:08:04.840 align:start position:0%
+host host 2 and then basically KU uh
+ 
+
+00:08:04.840 --> 00:08:06.909 align:start position:0%
+host host 2 and then basically KU uh
+kuet<00:08:05.319><c> will</c><00:08:05.440><c> go</c><00:08:05.639><c> spin</c><00:08:05.919><c> up</c><00:08:06.120><c> all</c><00:08:06.240><c> of</c><00:08:06.400><c> these</c><00:08:06.599><c> pods</c>
+
+00:08:06.909 --> 00:08:06.919 align:start position:0%
+kuet will go spin up all of these pods
+ 
+
+00:08:06.919 --> 00:08:08.510 align:start position:0%
+kuet will go spin up all of these pods
+and<00:08:07.039><c> each</c><00:08:07.280><c> of</c><00:08:07.440><c> these</c><00:08:07.599><c> pods</c><00:08:07.879><c> is</c><00:08:08.080><c> effectively</c>
+
+00:08:08.510 --> 00:08:08.520 align:start position:0%
+and each of these pods is effectively
+ 
+
+00:08:08.520 --> 00:08:10.629 align:start position:0%
+and each of these pods is effectively
+just<00:08:08.639><c> running</c><00:08:08.919><c> a</c><00:08:09.039><c> Docker</c><00:08:09.360><c> container</c><00:08:10.120><c> if</c><00:08:10.240><c> a</c><00:08:10.400><c> pod</c>
+
+00:08:10.629 --> 00:08:10.639 align:start position:0%
+just running a Docker container if a pod
+ 
+
+00:08:10.639 --> 00:08:12.350 align:start position:0%
+just running a Docker container if a pod
+goes<00:08:10.879><c> down</c><00:08:11.199><c> the</c><00:08:11.319><c> kuet</c><00:08:11.720><c> can</c><00:08:11.800><c> notice</c><00:08:12.080><c> it</c><00:08:12.199><c> and</c>
+
+00:08:12.350 --> 00:08:12.360 align:start position:0%
+goes down the kuet can notice it and
+ 
+
+00:08:12.360 --> 00:08:14.589 align:start position:0%
+goes down the kuet can notice it and
+restart<00:08:12.800><c> it</c><00:08:13.319><c> and</c><00:08:13.479><c> similarly</c><00:08:13.919><c> if</c><00:08:14.000><c> a</c><00:08:14.120><c> host</c><00:08:14.400><c> goes</c>
+
+00:08:14.589 --> 00:08:14.599 align:start position:0%
+restart it and similarly if a host goes
+ 
+
+00:08:14.599 --> 00:08:16.510 align:start position:0%
+restart it and similarly if a host goes
+down<00:08:14.800><c> the</c><00:08:14.919><c> control</c><00:08:15.319><c> plane</c><00:08:15.560><c> can</c><00:08:15.720><c> notice</c><00:08:16.039><c> it</c><00:08:16.319><c> and</c>
+
+00:08:16.510 --> 00:08:16.520 align:start position:0%
+down the control plane can notice it and
+ 
+
+00:08:16.520 --> 00:08:18.830 align:start position:0%
+down the control plane can notice it and
+put<00:08:16.759><c> that</c><00:08:16.919><c> stuff</c><00:08:17.240><c> over</c><00:08:17.440><c> on</c><00:08:17.599><c> a</c><00:08:17.759><c> different</c><00:08:18.039><c> host</c>
+
+00:08:18.830 --> 00:08:18.840 align:start position:0%
+put that stuff over on a different host
+ 
+
+00:08:18.840 --> 00:08:20.469 align:start position:0%
+put that stuff over on a different host
+and<00:08:18.919><c> so</c><00:08:19.080><c> by</c><00:08:19.199><c> doing</c><00:08:19.440><c> this</c><00:08:19.599><c> kubernetes</c><00:08:20.199><c> makes</c>
+
+00:08:20.469 --> 00:08:20.479 align:start position:0%
+and so by doing this kubernetes makes
+ 
+
+00:08:20.479 --> 00:08:23.430 align:start position:0%
+and so by doing this kubernetes makes
+things<00:08:20.759><c> a</c><00:08:20.919><c> lot</c><00:08:21.159><c> easier</c><00:08:21.599><c> to</c><00:08:21.759><c> run</c><00:08:22.039><c> and</c><00:08:22.199><c> manage</c><00:08:23.000><c> so</c>
+
+00:08:23.430 --> 00:08:23.440 align:start position:0%
+things a lot easier to run and manage so
+ 
+
+00:08:23.440 --> 00:08:25.430 align:start position:0%
+things a lot easier to run and manage so
+guys<00:08:23.800><c> let's</c><00:08:24.000><c> go</c><00:08:24.159><c> ahead</c><00:08:24.400><c> and</c><00:08:24.599><c> quickly</c><00:08:24.919><c> conclude</c>
+
+00:08:25.430 --> 00:08:25.440 align:start position:0%
+guys let's go ahead and quickly conclude
+ 
+
+00:08:25.440 --> 00:08:26.950 align:start position:0%
+guys let's go ahead and quickly conclude
+because<00:08:25.639><c> we've</c><00:08:25.840><c> gone</c><00:08:26.039><c> through</c><00:08:26.319><c> all</c><00:08:26.520><c> of</c><00:08:26.720><c> these</c>
+
+00:08:26.950 --> 00:08:26.960 align:start position:0%
+because we've gone through all of these
+ 
+
+00:08:26.960 --> 00:08:28.950 align:start position:0%
+because we've gone through all of these
+great<00:08:27.240><c> systems</c><00:08:27.720><c> Design</c><00:08:28.199><c> Concepts</c><00:08:28.759><c> and</c><00:08:28.879><c> I</c>
+
+00:08:28.950 --> 00:08:28.960 align:start position:0%
+great systems Design Concepts and I
+ 
+
+00:08:28.960 --> 00:08:30.510 align:start position:0%
+great systems Design Concepts and I
+would<00:08:29.280><c> just</c><00:08:29.440><c> love</c><00:08:29.639><c> to</c><00:08:29.720><c> be</c><00:08:29.840><c> able</c><00:08:30.000><c> to</c><00:08:30.120><c> wrap</c><00:08:30.319><c> it</c><00:08:30.400><c> up</c>
+
+00:08:30.510 --> 00:08:30.520 align:start position:0%
+would just love to be able to wrap it up
+ 
+
+00:08:30.520 --> 00:08:33.670 align:start position:0%
+would just love to be able to wrap it up
+so<00:08:30.639><c> I</c><00:08:30.720><c> can</c><00:08:30.840><c> go</c><00:08:30.960><c> throw</c><00:08:31.240><c> up</c><00:08:32.240><c> first</c><00:08:32.519><c> off</c><00:08:33.159><c> basically</c>
+
+00:08:33.670 --> 00:08:33.680 align:start position:0%
+so I can go throw up first off basically
+ 
+
+00:08:33.680 --> 00:08:35.509 align:start position:0%
+so I can go throw up first off basically
+the<00:08:33.800><c> gist</c><00:08:34.200><c> is</c><00:08:34.479><c> if</c><00:08:34.599><c> you're</c><00:08:34.719><c> a</c><00:08:34.880><c> massive</c><00:08:35.200><c> company</c>
+
+00:08:35.509 --> 00:08:35.519 align:start position:0%
+the gist is if you're a massive company
+ 
+
+00:08:35.519 --> 00:08:37.029 align:start position:0%
+the gist is if you're a massive company
+if<00:08:35.599><c> you're</c><00:08:35.719><c> a</c><00:08:35.880><c> Google</c><00:08:36.240><c> if</c><00:08:36.320><c> you're</c><00:08:36.440><c> a</c><00:08:36.599><c> Facebook</c>
+
+00:08:37.029 --> 00:08:37.039 align:start position:0%
+if you're a Google if you're a Facebook
+ 
+
+00:08:37.039 --> 00:08:39.310 align:start position:0%
+if you're a Google if you're a Facebook
+or<00:08:37.360><c> Microsoft</c><00:08:37.839><c> or</c><00:08:37.959><c> anything</c><00:08:38.279><c> like</c><00:08:38.440><c> that</c>
+
+00:08:39.310 --> 00:08:39.320 align:start position:0%
+or Microsoft or anything like that
+ 
+
+00:08:39.320 --> 00:08:41.589 align:start position:0%
+or Microsoft or anything like that
+microservices<00:08:40.000><c> are</c><00:08:40.200><c> basically</c><00:08:40.599><c> inevitable</c>
+
+00:08:41.589 --> 00:08:41.599 align:start position:0%
+microservices are basically inevitable
+ 
+
+00:08:41.599 --> 00:08:43.269 align:start position:0%
+microservices are basically inevitable
+you<00:08:41.760><c> can't</c><00:08:42.039><c> really</c><00:08:42.320><c> develop</c><00:08:42.760><c> every</c><00:08:42.959><c> single</c>
+
+00:08:43.269 --> 00:08:43.279 align:start position:0%
+you can't really develop every single
+ 
+
+00:08:43.279 --> 00:08:44.829 align:start position:0%
+you can't really develop every single
+thing<00:08:43.560><c> in</c><00:08:43.680><c> the</c><00:08:43.760><c> same</c><00:08:44.000><c> large</c><00:08:44.279><c> binary</c><00:08:44.720><c> it's</c>
+
+00:08:44.829 --> 00:08:44.839 align:start position:0%
+thing in the same large binary it's
+ 
+
+00:08:44.839 --> 00:08:46.509 align:start position:0%
+thing in the same large binary it's
+going<00:08:44.959><c> to</c><00:08:45.040><c> take</c><00:08:45.320><c> a</c><00:08:45.519><c> forever</c><00:08:45.839><c> to</c><00:08:45.959><c> compile</c>
+
+00:08:46.509 --> 00:08:46.519 align:start position:0%
+going to take a forever to compile
+ 
+
+00:08:46.519 --> 00:08:48.070 align:start position:0%
+going to take a forever to compile
+forever<00:08:46.839><c> to</c><00:08:47.000><c> deploy</c><00:08:47.519><c> and</c><00:08:47.640><c> it's</c><00:08:47.760><c> going</c><00:08:47.839><c> to</c><00:08:47.959><c> be</c>
+
+00:08:48.070 --> 00:08:48.080 align:start position:0%
+forever to deploy and it's going to be
+ 
+
+00:08:48.080 --> 00:08:49.949 align:start position:0%
+forever to deploy and it's going to be
+impossible<00:08:48.480><c> to</c><00:08:48.640><c> scale</c><00:08:49.000><c> independently</c><00:08:49.760><c> with</c>
+
+00:08:49.949 --> 00:08:49.959 align:start position:0%
+impossible to scale independently with
+ 
+
+00:08:49.959 --> 00:08:52.550 align:start position:0%
+impossible to scale independently with
+different<00:08:50.480><c> pieces</c><00:08:51.480><c> that</c><00:08:51.640><c> being</c><00:08:51.880><c> said</c><00:08:52.240><c> because</c>
+
+00:08:52.550 --> 00:08:52.560 align:start position:0%
+different pieces that being said because
+ 
+
+00:08:52.560 --> 00:08:54.230 align:start position:0%
+different pieces that being said because
+microservices<00:08:53.399><c> introduce</c><00:08:53.839><c> all</c><00:08:53.959><c> of</c><00:08:54.080><c> this</c>
+
+00:08:54.230 --> 00:08:54.240 align:start position:0%
+microservices introduce all of this
+ 
+
+00:08:54.240 --> 00:08:55.630 align:start position:0%
+microservices introduce all of this
+additional<00:08:54.640><c> complexity</c><00:08:55.120><c> when</c><00:08:55.200><c> it</c><00:08:55.320><c> comes</c><00:08:55.480><c> to</c>
+
+00:08:55.630 --> 00:08:55.640 align:start position:0%
+additional complexity when it comes to
+ 
+
+00:08:55.640 --> 00:08:57.110 align:start position:0%
+additional complexity when it comes to
+actually<00:08:55.880><c> keeping</c><00:08:56.160><c> track</c><00:08:56.440><c> of</c><00:08:56.600><c> and</c><00:08:56.760><c> managing</c>
+
+00:08:57.110 --> 00:08:57.120 align:start position:0%
+actually keeping track of and managing
+ 
+
+00:08:57.120 --> 00:08:59.190 align:start position:0%
+actually keeping track of and managing
+your<00:08:57.279><c> services</c><00:08:58.000><c> Docker</c><00:08:58.320><c> and</c><00:08:58.440><c> kubernetes</c><00:08:58.959><c> or</c>
+
+00:08:59.190 --> 00:08:59.200 align:start position:0%
+your services Docker and kubernetes or
+ 
+
+00:08:59.200 --> 00:09:00.949 align:start position:0%
+your services Docker and kubernetes or
+at<00:08:59.279><c> least</c><00:08:59.480><c> tools</c><00:08:59.800><c> similar</c><00:09:00.120><c> to</c><00:09:00.320><c> those</c><00:09:00.600><c> become</c>
+
+00:09:00.949 --> 00:09:00.959 align:start position:0%
+at least tools similar to those become
+ 
+
+00:09:00.959 --> 00:09:02.870 align:start position:0%
+at least tools similar to those become
+very<00:09:01.200><c> very</c><00:09:01.480><c> important</c><00:09:02.200><c> Docker</c><00:09:02.640><c> like</c><00:09:02.760><c> I</c>
+
+00:09:02.870 --> 00:09:02.880 align:start position:0%
+very very important Docker like I
+ 
+
+00:09:02.880 --> 00:09:05.910 align:start position:0%
+very very important Docker like I
+mentioned<00:09:03.200><c> is</c><00:09:03.320><c> known</c><00:09:03.480><c> as</c><00:09:03.560><c> a</c><00:09:03.720><c> containerization</c>
+
+00:09:05.910 --> 00:09:05.920 align:start position:0%
+mentioned is known as a containerization
+ 
+
+00:09:05.920 --> 00:09:08.829 align:start position:0%
+mentioned is known as a containerization
+tool<00:09:06.920><c> and</c><00:09:07.160><c> kubernetes</c><00:09:07.959><c> is</c><00:09:08.120><c> going</c><00:09:08.320><c> to</c><00:09:08.440><c> be</c><00:09:08.680><c> more</c>
+
+00:09:08.829 --> 00:09:08.839 align:start position:0%
+tool and kubernetes is going to be more
+ 
+
+00:09:08.839 --> 00:09:09.870 align:start position:0%
+tool and kubernetes is going to be more
+of<00:09:09.000><c> like</c><00:09:09.120><c> an</c>
+
+00:09:09.870 --> 00:09:09.880 align:start position:0%
+of like an
+ 
+
+00:09:09.880 --> 00:09:12.350 align:start position:0%
+of like an
+orchestration<00:09:10.880><c> framework</c><00:09:11.720><c> at</c><00:09:11.839><c> least</c><00:09:12.040><c> as</c><00:09:12.200><c> far</c>
+
+00:09:12.350 --> 00:09:12.360 align:start position:0%
+orchestration framework at least as far
+ 
+
+00:09:12.360 --> 00:09:15.150 align:start position:0%
+orchestration framework at least as far
+as<00:09:12.480><c> I'm</c><00:09:12.640><c> aware</c><00:09:13.200><c> correct</c><00:09:13.480><c> me</c><00:09:13.640><c> if</c><00:09:13.760><c> I'm</c><00:09:13.959><c> wrong</c><00:09:14.959><c> and</c>
+
+00:09:15.150 --> 00:09:15.160 align:start position:0%
+as I'm aware correct me if I'm wrong and
+ 
+
+00:09:15.160 --> 00:09:17.069 align:start position:0%
+as I'm aware correct me if I'm wrong and
+so<00:09:15.640><c> to</c><00:09:15.800><c> finish</c><00:09:16.079><c> off</c><00:09:16.320><c> this</c><00:09:16.480><c> series</c><00:09:16.880><c> I</c><00:09:16.959><c> would</c>
+
+00:09:17.069 --> 00:09:17.079 align:start position:0%
+so to finish off this series I would
+ 
+
+00:09:17.079 --> 00:09:18.910 align:start position:0%
+so to finish off this series I would
+love<00:09:17.240><c> to</c><00:09:17.399><c> give</c><00:09:17.560><c> two</c><00:09:17.800><c> quotes</c><00:09:18.399><c> and</c><00:09:18.519><c> then</c><00:09:18.640><c> we</c><00:09:18.720><c> will</c>
+
+00:09:18.910 --> 00:09:18.920 align:start position:0%
+love to give two quotes and then we will
+ 
+
+00:09:18.920 --> 00:09:20.150 align:start position:0%
+love to give two quotes and then we will
+go<00:09:19.079><c> ahead</c><00:09:19.279><c> and</c><00:09:19.480><c> talk</c><00:09:19.640><c> about</c><00:09:19.880><c> how</c><00:09:20.000><c> they're</c>
+
+00:09:20.150 --> 00:09:20.160 align:start position:0%
+go ahead and talk about how they're
+ 
+
+00:09:20.160 --> 00:09:22.829 align:start position:0%
+go ahead and talk about how they're
+relevant<00:09:20.600><c> here</c><00:09:21.320><c> the</c><00:09:21.480><c> first</c><00:09:21.880><c> is</c><00:09:22.079><c> a</c><00:09:22.240><c> serious</c><00:09:22.640><c> one</c>
+
+00:09:22.829 --> 00:09:22.839 align:start position:0%
+relevant here the first is a serious one
+ 
+
+00:09:22.839 --> 00:09:23.949 align:start position:0%
+relevant here the first is a serious one
+and<00:09:22.959><c> a</c><00:09:23.079><c> very</c><00:09:23.279><c> good</c><00:09:23.440><c> one</c><00:09:23.600><c> which</c><00:09:23.720><c> is</c><00:09:23.800><c> the</c>
+
+00:09:23.949 --> 00:09:23.959 align:start position:0%
+and a very good one which is the
+ 
+
+00:09:23.959 --> 00:09:25.990 align:start position:0%
+and a very good one which is the
+premature<00:09:24.440><c> optimization</c><00:09:25.240><c> is</c><00:09:25.519><c> the</c><00:09:25.640><c> root</c><00:09:25.880><c> of</c>
+
+00:09:25.990 --> 00:09:26.000 align:start position:0%
+premature optimization is the root of
+ 
+
+00:09:26.000 --> 00:09:28.750 align:start position:0%
+premature optimization is the root of
+all<00:09:26.200><c> evil</c><00:09:26.519><c> as</c><00:09:26.680><c> I</c><00:09:26.760><c> spell</c><00:09:27.120><c> optimization</c><00:09:27.800><c> wrong</c>
+
+00:09:28.750 --> 00:09:28.760 align:start position:0%
+all evil as I spell optimization wrong
+ 
+
+00:09:28.760 --> 00:09:30.269 align:start position:0%
+all evil as I spell optimization wrong
+bad
+
+00:09:30.269 --> 00:09:30.279 align:start position:0%
+bad
+ 
+
+00:09:30.279 --> 00:09:32.470 align:start position:0%
+bad
+that's<00:09:30.399><c> why</c><00:09:30.600><c> Donald</c><00:09:30.839><c> n</c><00:09:31.120><c> he's</c><00:09:31.279><c> a</c><00:09:31.399><c> genius</c><00:09:31.959><c> and</c><00:09:32.279><c> uh</c>
+
+00:09:32.470 --> 00:09:32.480 align:start position:0%
+that's why Donald n he's a genius and uh
+ 
+
+00:09:32.480 --> 00:09:33.870 align:start position:0%
+that's why Donald n he's a genius and uh
+is<00:09:32.680><c> right</c><00:09:32.839><c> about</c><00:09:33.120><c> that</c><00:09:33.279><c> if</c><00:09:33.399><c> you</c><00:09:33.480><c> don't</c><00:09:33.680><c> really</c>
+
+00:09:33.870 --> 00:09:33.880 align:start position:0%
+is right about that if you don't really
+ 
+
+00:09:33.880 --> 00:09:36.030 align:start position:0%
+is right about that if you don't really
+need<00:09:34.279><c> microservices</c><00:09:35.279><c> you</c><00:09:35.440><c> don't</c><00:09:35.720><c> have</c><00:09:35.839><c> to</c>
+
+00:09:36.030 --> 00:09:36.040 align:start position:0%
+need microservices you don't have to
+ 
+
+00:09:36.040 --> 00:09:37.710 align:start position:0%
+need microservices you don't have to
+actually<00:09:36.320><c> go</c><00:09:36.519><c> and</c><00:09:36.680><c> build</c><00:09:36.920><c> them</c><00:09:37.000><c> out</c><00:09:37.519><c> sometimes</c>
+
+00:09:37.710 --> 00:09:37.720 align:start position:0%
+actually go and build them out sometimes
+ 
+
+00:09:37.720 --> 00:09:39.110 align:start position:0%
+actually go and build them out sometimes
+a<00:09:37.839><c> monolith</c><00:09:38.279><c> is</c><00:09:38.360><c> going</c><00:09:38.519><c> to</c><00:09:38.680><c> make</c><00:09:38.800><c> your</c><00:09:38.959><c> life</c>
+
+00:09:39.110 --> 00:09:39.120 align:start position:0%
+a monolith is going to make your life
+ 
+
+00:09:39.120 --> 00:09:40.269 align:start position:0%
+a monolith is going to make your life
+easier<00:09:39.440><c> if</c><00:09:39.519><c> you're</c><00:09:39.640><c> just</c><00:09:39.760><c> building</c><00:09:40.000><c> for</c><00:09:40.160><c> a</c>
+
+00:09:40.269 --> 00:09:40.279 align:start position:0%
+easier if you're just building for a
+ 
+
+00:09:40.279 --> 00:09:41.710 align:start position:0%
+easier if you're just building for a
+personal<00:09:40.720><c> project</c><00:09:41.000><c> and</c><00:09:41.120><c> you</c><00:09:41.279><c> anticipate</c>
+
+00:09:41.710 --> 00:09:41.720 align:start position:0%
+personal project and you anticipate
+ 
+
+00:09:41.720 --> 00:09:43.430 align:start position:0%
+personal project and you anticipate
+you're<00:09:41.839><c> going</c><00:09:41.920><c> to</c><00:09:42.000><c> have</c><00:09:42.120><c> a</c><00:09:42.240><c> 100</c><00:09:42.440><c> users</c><00:09:42.839><c> most</c>
+
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+you're going to have a 100 users most
+ 
+
+00:09:43.440 --> 00:09:44.470 align:start position:0%
+you're going to have a 100 users most
+you<00:09:43.600><c> probably</c><00:09:43.800><c> don't</c><00:09:43.920><c> need</c><00:09:44.079><c> a</c><00:09:44.200><c> bunch</c><00:09:44.360><c> of</c>
+
+00:09:44.470 --> 00:09:44.480 align:start position:0%
+you probably don't need a bunch of
+ 
+
+00:09:44.480 --> 00:09:46.030 align:start position:0%
+you probably don't need a bunch of
+disjoint<00:09:44.880><c> Services</c><00:09:45.360><c> just</c><00:09:45.480><c> write</c><00:09:45.680><c> it</c><00:09:45.800><c> all</c><00:09:45.920><c> on</c>
+
+00:09:46.030 --> 00:09:46.040 align:start position:0%
+disjoint Services just write it all on
+ 
+
+00:09:46.040 --> 00:09:48.470 align:start position:0%
+disjoint Services just write it all on
+the<00:09:46.160><c> same</c><00:09:46.360><c> app</c><00:09:47.240><c> and</c><00:09:47.399><c> of</c><00:09:47.560><c> course</c><00:09:48.079><c> for</c><00:09:48.320><c> my</c>
+
+00:09:48.470 --> 00:09:48.480 align:start position:0%
+the same app and of course for my
+ 
+
+00:09:48.480 --> 00:09:50.069 align:start position:0%
+the same app and of course for my
+ex-girlfriend<00:09:49.079><c> yours</c><00:09:49.279><c> is</c><00:09:49.480><c> perfect</c><00:09:49.839><c> the</c><00:09:49.920><c> big</c>
+
+00:09:50.069 --> 00:09:50.079 align:start position:0%
+ex-girlfriend yours is perfect the big
+ 
+
+00:09:50.079 --> 00:09:51.870 align:start position:0%
+ex-girlfriend yours is perfect the big
+ones<00:09:50.279><c> hurt</c><00:09:50.519><c> anyways</c><00:09:51.360><c> sometimes</c><00:09:51.519><c> you</c><00:09:51.640><c> don't</c>
+
+00:09:51.870 --> 00:09:51.880 align:start position:0%
+ones hurt anyways sometimes you don't
+ 
+
+00:09:51.880 --> 00:09:53.430 align:start position:0%
+ones hurt anyways sometimes you don't
+always<00:09:52.079><c> want</c><00:09:52.240><c> to</c><00:09:52.360><c> design</c><00:09:52.600><c> for</c><00:09:52.800><c> scale</c><00:09:53.240><c> if</c><00:09:53.320><c> you</c>
+
+00:09:53.430 --> 00:09:53.440 align:start position:0%
+always want to design for scale if you
+ 
+
+00:09:53.440 --> 00:09:55.230 align:start position:0%
+always want to design for scale if you
+don't<00:09:53.640><c> need</c><00:09:53.800><c> it</c><00:09:54.480><c> and</c><00:09:54.760><c> uh</c><00:09:54.880><c> this</c><00:09:55.000><c> was</c><00:09:55.120><c> a</c>
+
+00:09:55.230 --> 00:09:55.240 align:start position:0%
+don't need it and uh this was a
+ 
+
+00:09:55.240 --> 00:09:56.790 align:start position:0%
+don't need it and uh this was a
+convoluted<00:09:55.839><c> way</c><00:09:56.000><c> of</c><00:09:56.120><c> me</c><00:09:56.240><c> trying</c><00:09:56.440><c> to</c><00:09:56.560><c> make</c><00:09:56.680><c> a</c>
+
+00:09:56.790 --> 00:09:56.800 align:start position:0%
+convoluted way of me trying to make a
+ 
+
+00:09:56.800 --> 00:09:59.509 align:start position:0%
+convoluted way of me trying to make a
+joke<00:09:57.040><c> about</c><00:09:57.240><c> it</c><00:09:57.480><c> but</c><00:09:58.040><c> generally</c><00:09:58.600><c> guys</c><00:09:59.320><c> what</c><00:09:59.440><c> I</c>
+
+00:09:59.509 --> 00:09:59.519 align:start position:0%
+joke about it but generally guys what I
+ 
+
+00:09:59.519 --> 00:10:01.150 align:start position:0%
+joke about it but generally guys what I
+want<00:09:59.640><c> to</c><00:09:59.760><c> say</c><00:10:00.000><c> most</c><00:10:00.320><c> is</c><00:10:00.519><c> thank</c><00:10:00.680><c> you</c><00:10:00.800><c> all</c><00:10:00.959><c> for</c>
+
+00:10:01.150 --> 00:10:01.160 align:start position:0%
+want to say most is thank you all for
+ 
+
+00:10:01.160 --> 00:10:02.910 align:start position:0%
+want to say most is thank you all for
+watching<00:10:01.480><c> this</c><00:10:01.640><c> series</c><00:10:02.200><c> I</c><00:10:02.320><c> hope</c><00:10:02.480><c> it's</c><00:10:02.640><c> been</c>
+
+00:10:02.910 --> 00:10:02.920 align:start position:0%
+watching this series I hope it's been
+ 
+
+00:10:02.920 --> 00:10:05.389 align:start position:0%
+watching this series I hope it's been
+helpful<00:10:03.920><c> I</c><00:10:04.040><c> continue</c><00:10:04.360><c> to</c><00:10:04.519><c> get</c><00:10:04.880><c> really</c><00:10:05.160><c> really</c>
+
+00:10:05.389 --> 00:10:05.399 align:start position:0%
+helpful I continue to get really really
+ 
+
+00:10:05.399 --> 00:10:07.269 align:start position:0%
+helpful I continue to get really really
+great<00:10:05.680><c> feedback</c><00:10:06.120><c> from</c><00:10:06.320><c> all</c><00:10:06.440><c> of</c><00:10:06.560><c> you</c><00:10:06.839><c> and</c><00:10:06.959><c> more</c>
+
+00:10:07.269 --> 00:10:07.279 align:start position:0%
+great feedback from all of you and more
+ 
+
+00:10:07.279 --> 00:10:09.310 align:start position:0%
+great feedback from all of you and more
+importantly<00:10:07.880><c> you</c><00:10:08.079><c> guys</c><00:10:08.320><c> continue</c><00:10:08.640><c> to</c><00:10:08.800><c> tell</c><00:10:09.000><c> me</c>
+
+00:10:09.310 --> 00:10:09.320 align:start position:0%
+importantly you guys continue to tell me
+ 
+
+00:10:09.320 --> 00:10:11.269 align:start position:0%
+importantly you guys continue to tell me
+that<00:10:09.440><c> it's</c><00:10:09.600><c> really</c><00:10:09.839><c> benefiting</c><00:10:10.320><c> you</c><00:10:10.880><c> tons</c><00:10:11.120><c> of</c>
+
+00:10:11.269 --> 00:10:11.279 align:start position:0%
+that it's really benefiting you tons of
+ 
+
+00:10:11.279 --> 00:10:12.990 align:start position:0%
+that it's really benefiting you tons of
+you<00:10:11.399><c> have</c><00:10:11.519><c> gotten</c><00:10:11.800><c> job</c><00:10:12.079><c> offers</c><00:10:12.399><c> and</c><00:10:12.560><c> I</c><00:10:12.640><c> plan</c><00:10:12.839><c> on</c>
+
+00:10:12.990 --> 00:10:13.000 align:start position:0%
+you have gotten job offers and I plan on
+ 
+
+00:10:13.000 --> 00:10:14.790 align:start position:0%
+you have gotten job offers and I plan on
+making<00:10:13.240><c> an</c><00:10:13.399><c> appreciation</c><00:10:14.000><c> post</c><00:10:14.320><c> for</c><00:10:14.519><c> all</c><00:10:14.680><c> of</c>
+
+00:10:14.790 --> 00:10:14.800 align:start position:0%
+making an appreciation post for all of
+ 
+
+00:10:14.800 --> 00:10:16.470 align:start position:0%
+making an appreciation post for all of
+you<00:10:15.040><c> at</c><00:10:15.240><c> some</c><00:10:15.399><c> point</c><00:10:15.640><c> that</c><00:10:15.760><c> I</c><00:10:15.839><c> can</c><00:10:16.000><c> keep</c><00:10:16.200><c> track</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+you at some point that I can keep track
+ 
+
+00:10:16.480 --> 00:10:18.590 align:start position:0%
+you at some point that I can keep track
+of<00:10:17.120><c> anyways</c><00:10:17.640><c> guys</c><00:10:17.839><c> have</c><00:10:17.959><c> a</c><00:10:18.079><c> great</c><00:10:18.279><c> rest</c><00:10:18.480><c> of</c>
+
+00:10:18.590 --> 00:10:18.600 align:start position:0%
+of anyways guys have a great rest of
+ 
+
+00:10:18.600 --> 00:10:20.269 align:start position:0%
+of anyways guys have a great rest of
+your<00:10:18.760><c> weekend</c><00:10:19.360><c> and</c><00:10:19.519><c> I'll</c><00:10:19.680><c> see</c><00:10:19.839><c> you</c><00:10:20.040><c> in</c><00:10:20.160><c> the</c>
+
+00:10:20.269 --> 00:10:20.279 align:start position:0%
+your weekend and I'll see you in the
+ 
+
+00:10:20.279 --> 00:10:23.320 align:start position:0%
+your weekend and I'll see you in the
+next<00:10:20.480><c> one</c>
+

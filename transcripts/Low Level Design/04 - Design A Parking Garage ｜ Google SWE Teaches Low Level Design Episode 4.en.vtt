@@ -1,0 +1,3768 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:02.869 align:start position:0%
+ 
+hey<00:00:00.719><c> guys</c><00:00:00.960><c> I</c><00:00:01.680><c> am</c><00:00:01.920><c> alone</c><00:00:02.159><c> in</c><00:00:02.520><c> my</c><00:00:02.700><c> apartment</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+hey guys I am alone in my apartment
+ 
+
+00:00:02.879 --> 00:00:04.910 align:start position:0%
+hey guys I am alone in my apartment
+today<00:00:03.240><c> which</c><00:00:03.600><c> means</c><00:00:03.899><c> I</c><00:00:04.259><c> can</c><00:00:04.380><c> actually</c><00:00:04.620><c> go</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+today which means I can actually go
+ 
+
+00:00:04.920 --> 00:00:07.309 align:start position:0%
+today which means I can actually go
+ahead<00:00:05.160><c> and</c><00:00:05.400><c> record</c><00:00:05.580><c> yet</c><00:00:06.000><c> another</c><00:00:06.180><c> video</c><00:00:06.600><c> so</c>
+
+00:00:07.309 --> 00:00:07.319 align:start position:0%
+ahead and record yet another video so
+ 
+
+00:00:07.319 --> 00:00:08.810 align:start position:0%
+ahead and record yet another video so
+welcome<00:00:07.560><c> back</c><00:00:07.919><c> because</c><00:00:08.160><c> we're</c><00:00:08.460><c> going</c><00:00:08.580><c> to</c><00:00:08.700><c> be</c>
+
+00:00:08.810 --> 00:00:08.820 align:start position:0%
+welcome back because we're going to be
+ 
+
+00:00:08.820 --> 00:00:11.570 align:start position:0%
+welcome back because we're going to be
+doing<00:00:09.000><c> some</c><00:00:09.360><c> more</c><00:00:09.540><c> low-level</c><00:00:10.080><c> design</c><00:00:10.320><c> and</c><00:00:11.280><c> for</c>
+
+00:00:11.570 --> 00:00:11.580 align:start position:0%
+doing some more low-level design and for
+ 
+
+00:00:11.580 --> 00:00:13.910 align:start position:0%
+doing some more low-level design and for
+today's<00:00:11.760><c> video</c><00:00:12.179><c> we</c><00:00:12.540><c> are</c><00:00:12.719><c> going</c><00:00:12.840><c> to</c><00:00:13.019><c> be</c><00:00:13.139><c> doing</c><00:00:13.380><c> a</c>
+
+00:00:13.910 --> 00:00:13.920 align:start position:0%
+today's video we are going to be doing a
+ 
+
+00:00:13.920 --> 00:00:16.550 align:start position:0%
+today's video we are going to be doing a
+parking<00:00:14.280><c> garage</c><00:00:14.460><c> implementation</c><00:00:15.299><c> so</c><00:00:16.199><c> as</c><00:00:16.379><c> a</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+parking garage implementation so as a
+ 
+
+00:00:16.560 --> 00:00:18.470 align:start position:0%
+parking garage implementation so as a
+kid<00:00:16.680><c> from</c><00:00:16.859><c> New</c><00:00:17.039><c> York</c><00:00:17.220><c> City</c><00:00:17.400><c> I'm</c><00:00:17.940><c> not</c><00:00:18.240><c> the</c><00:00:18.359><c> best</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+kid from New York City I'm not the best
+ 
+
+00:00:18.480 --> 00:00:20.210 align:start position:0%
+kid from New York City I'm not the best
+of<00:00:18.720><c> drivers</c><00:00:19.140><c> I</c><00:00:19.440><c> definitely</c><00:00:19.800><c> have</c><00:00:19.920><c> a</c><00:00:20.039><c> lot</c><00:00:20.100><c> of</c>
+
+00:00:20.210 --> 00:00:20.220 align:start position:0%
+of drivers I definitely have a lot of
+ 
+
+00:00:20.220 --> 00:00:22.370 align:start position:0%
+of drivers I definitely have a lot of
+trouble<00:00:20.340><c> with</c><00:00:20.699><c> parallel</c><00:00:21.119><c> parking</c>
+
+00:00:22.370 --> 00:00:22.380 align:start position:0%
+trouble with parallel parking
+ 
+
+00:00:22.380 --> 00:00:23.990 align:start position:0%
+trouble with parallel parking
+um<00:00:22.439><c> and</c><00:00:22.740><c> I</c><00:00:22.920><c> would</c><00:00:23.039><c> have</c><00:00:23.160><c> to</c><00:00:23.340><c> say</c><00:00:23.460><c> that</c><00:00:23.699><c> you</c><00:00:23.880><c> know</c>
+
+00:00:23.990 --> 00:00:24.000 align:start position:0%
+um and I would have to say that you know
+ 
+
+00:00:24.000 --> 00:00:25.790 align:start position:0%
+um and I would have to say that you know
+when<00:00:24.119><c> it</c><00:00:24.300><c> comes</c><00:00:24.480><c> to</c><00:00:24.660><c> fitting</c><00:00:25.019><c> in</c><00:00:25.140><c> tight</c><00:00:25.380><c> spaces</c>
+
+00:00:25.790 --> 00:00:25.800 align:start position:0%
+when it comes to fitting in tight spaces
+ 
+
+00:00:25.800 --> 00:00:27.529 align:start position:0%
+when it comes to fitting in tight spaces
+I've<00:00:26.100><c> always</c><00:00:26.279><c> definitely</c><00:00:26.640><c> empathized</c><00:00:27.300><c> more</c>
+
+00:00:27.529 --> 00:00:27.539 align:start position:0%
+I've always definitely empathized more
+ 
+
+00:00:27.539 --> 00:00:29.210 align:start position:0%
+I've always definitely empathized more
+with<00:00:27.779><c> the</c><00:00:27.960><c> parking</c><00:00:28.260><c> spot</c><00:00:28.439><c> than</c><00:00:28.680><c> the</c><00:00:28.920><c> car</c><00:00:29.039><c> I</c>
+
+00:00:29.210 --> 00:00:29.220 align:start position:0%
+with the parking spot than the car I
+ 
+
+00:00:29.220 --> 00:00:30.830 align:start position:0%
+with the parking spot than the car I
+tend<00:00:29.519><c> to</c><00:00:29.580><c> prefer</c><00:00:29.939><c> other</c><00:00:30.119><c> people</c><00:00:30.300><c> do</c><00:00:30.539><c> the</c><00:00:30.720><c> work</c>
+
+00:00:30.830 --> 00:00:30.840 align:start position:0%
+tend to prefer other people do the work
+ 
+
+00:00:30.840 --> 00:00:33.229 align:start position:0%
+tend to prefer other people do the work
+there<00:00:31.080><c> so</c><00:00:31.859><c> without</c><00:00:32.040><c> further</c><00:00:32.520><c> Ado</c><00:00:32.640><c> let's</c><00:00:33.000><c> go</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+there so without further Ado let's go
+ 
+
+00:00:33.239 --> 00:00:36.410 align:start position:0%
+there so without further Ado let's go
+ahead<00:00:33.420><c> and</c><00:00:33.780><c> get</c><00:00:34.079><c> into</c><00:00:34.320><c> this</c><00:00:34.739><c> challenge</c><00:00:35.420><c> there</c>
+
+00:00:36.410 --> 00:00:36.420 align:start position:0%
+ahead and get into this challenge there
+ 
+
+00:00:36.420 --> 00:00:37.370 align:start position:0%
+ahead and get into this challenge there
+are<00:00:36.540><c> a</c><00:00:36.600><c> ton</c><00:00:36.660><c> of</c><00:00:36.780><c> different</c><00:00:36.899><c> functional</c>
+
+00:00:37.370 --> 00:00:37.380 align:start position:0%
+are a ton of different functional
+ 
+
+00:00:37.380 --> 00:00:38.930 align:start position:0%
+are a ton of different functional
+requirements<00:00:37.800><c> for</c><00:00:38.040><c> a</c><00:00:38.160><c> problem</c><00:00:38.280><c> like</c><00:00:38.579><c> this</c><00:00:38.760><c> so</c>
+
+00:00:38.930 --> 00:00:38.940 align:start position:0%
+requirements for a problem like this so
+ 
+
+00:00:38.940 --> 00:00:40.490 align:start position:0%
+requirements for a problem like this so
+I'll<00:00:39.059><c> name</c><00:00:39.300><c> the</c><00:00:39.480><c> ones</c><00:00:39.660><c> that</c><00:00:39.780><c> I'm</c><00:00:39.960><c> going</c><00:00:40.079><c> off</c><00:00:40.320><c> of</c>
+
+00:00:40.490 --> 00:00:40.500 align:start position:0%
+I'll name the ones that I'm going off of
+ 
+
+00:00:40.500 --> 00:00:41.990 align:start position:0%
+I'll name the ones that I'm going off of
+but<00:00:40.800><c> maybe</c><00:00:41.040><c> you</c><00:00:41.460><c> know</c><00:00:41.520><c> in</c><00:00:41.700><c> a</c><00:00:41.879><c> natural</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+but maybe you know in a natural
+ 
+
+00:00:42.000 --> 00:00:43.490 align:start position:0%
+but maybe you know in a natural
+interview<00:00:42.300><c> they</c><00:00:42.660><c> might</c><00:00:42.780><c> extend</c><00:00:43.079><c> this</c><00:00:43.320><c> problem</c>
+
+00:00:43.490 --> 00:00:43.500 align:start position:0%
+interview they might extend this problem
+ 
+
+00:00:43.500 --> 00:00:45.410 align:start position:0%
+interview they might extend this problem
+quite<00:00:43.800><c> a</c><00:00:43.920><c> bit</c><00:00:44.040><c> and</c><00:00:44.640><c> so</c><00:00:44.760><c> it's</c><00:00:45.000><c> possible</c><00:00:45.239><c> that</c>
+
+00:00:45.410 --> 00:00:45.420 align:start position:0%
+quite a bit and so it's possible that
+ 
+
+00:00:45.420 --> 00:00:46.610 align:start position:0%
+quite a bit and so it's possible that
+I'm<00:00:45.600><c> not</c><00:00:45.719><c> going</c><00:00:45.840><c> to</c><00:00:45.899><c> cover</c><00:00:46.020><c> everything</c><00:00:46.320><c> but</c>
+
+00:00:46.610 --> 00:00:46.620 align:start position:0%
+I'm not going to cover everything but
+ 
+
+00:00:46.620 --> 00:00:48.470 align:start position:0%
+I'm not going to cover everything but
+I'll<00:00:46.739><c> do</c><00:00:46.920><c> my</c><00:00:47.100><c> best</c><00:00:47.280><c> to</c><00:00:47.760><c> you</c><00:00:48.059><c> know</c><00:00:48.180><c> address</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+I'll do my best to you know address
+ 
+
+00:00:48.480 --> 00:00:50.690 align:start position:0%
+I'll do my best to you know address
+different<00:00:49.440><c> aspects</c><00:00:49.980><c> of</c><00:00:50.100><c> this</c><00:00:50.219><c> problem</c><00:00:50.399><c> where</c>
+
+00:00:50.690 --> 00:00:50.700 align:start position:0%
+different aspects of this problem where
+ 
+
+00:00:50.700 --> 00:00:52.549 align:start position:0%
+different aspects of this problem where
+I<00:00:50.879><c> can</c><00:00:51.000><c> so</c><00:00:51.420><c> let's</c><00:00:51.539><c> go</c><00:00:51.719><c> ahead</c><00:00:51.899><c> and</c><00:00:51.960><c> get</c><00:00:52.140><c> into</c><00:00:52.320><c> it</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+I can so let's go ahead and get into it
+ 
+
+00:00:52.559 --> 00:00:55.549 align:start position:0%
+I can so let's go ahead and get into it
+okay<00:00:53.160><c> starting</c><00:00:53.640><c> off</c><00:00:53.879><c> a</c><00:00:54.239><c> parking</c><00:00:54.600><c> garage</c><00:00:54.780><c> so</c><00:00:55.320><c> we</c>
+
+00:00:55.549 --> 00:00:55.559 align:start position:0%
+okay starting off a parking garage so we
+ 
+
+00:00:55.559 --> 00:00:56.990 align:start position:0%
+okay starting off a parking garage so we
+all<00:00:55.680><c> know</c><00:00:55.800><c> what</c><00:00:55.920><c> it</c><00:00:56.100><c> is</c><00:00:56.219><c> basically</c><00:00:56.760><c> that's</c>
+
+00:00:56.990 --> 00:00:57.000 align:start position:0%
+all know what it is basically that's
+ 
+
+00:00:57.000 --> 00:00:59.330 align:start position:0%
+all know what it is basically that's
+where<00:00:57.239><c> you</c><00:00:57.360><c> go</c><00:00:57.539><c> when</c><00:00:57.840><c> you</c><00:00:57.960><c> have</c><00:00:58.079><c> a</c><00:00:58.260><c> car</c><00:00:58.379><c> and</c><00:00:59.160><c> you</c>
+
+00:00:59.330 --> 00:00:59.340 align:start position:0%
+where you go when you have a car and you
+ 
+
+00:00:59.340 --> 00:01:00.650 align:start position:0%
+where you go when you have a car and you
+need<00:00:59.460><c> to</c><00:00:59.579><c> go</c><00:00:59.699><c> ahead</c><00:00:59.820><c> and</c><00:00:59.940><c> start</c><00:01:00.059><c> or</c><00:01:00.480><c> it</c>
+
+00:01:00.650 --> 00:01:00.660 align:start position:0%
+need to go ahead and start or it
+ 
+
+00:01:00.660 --> 00:01:02.150 align:start position:0%
+need to go ahead and start or it
+somewhere<00:01:00.960><c> while</c><00:01:01.199><c> you</c><00:01:01.440><c> go</c><00:01:01.620><c> out</c><00:01:01.739><c> and</c><00:01:01.860><c> do</c><00:01:02.039><c> your</c>
+
+00:01:02.150 --> 00:01:02.160 align:start position:0%
+somewhere while you go out and do your
+ 
+
+00:01:02.160 --> 00:01:04.490 align:start position:0%
+somewhere while you go out and do your
+thing<00:01:02.340><c> but</c><00:01:03.120><c> generally</c><00:01:03.600><c> speaking</c><00:01:04.019><c> what</c><00:01:04.320><c> are</c>
+
+00:01:04.490 --> 00:01:04.500 align:start position:0%
+thing but generally speaking what are
+ 
+
+00:01:04.500 --> 00:01:05.929 align:start position:0%
+thing but generally speaking what are
+the<00:01:04.680><c> functional</c><00:01:04.979><c> requirements</c><00:01:05.580><c> of</c><00:01:05.760><c> this</c>
+
+00:01:05.929 --> 00:01:05.939 align:start position:0%
+the functional requirements of this
+ 
+
+00:01:05.939 --> 00:01:08.330 align:start position:0%
+the functional requirements of this
+problem<00:01:06.119><c> basically</c><00:01:07.020><c> we</c><00:01:07.320><c> want</c><00:01:07.500><c> to</c><00:01:07.680><c> design</c><00:01:07.979><c> some</c>
+
+00:01:08.330 --> 00:01:08.340 align:start position:0%
+problem basically we want to design some
+ 
+
+00:01:08.340 --> 00:01:10.609 align:start position:0%
+problem basically we want to design some
+sort<00:01:08.520><c> of</c><00:01:08.640><c> parking</c><00:01:08.939><c> lot</c><00:01:09.119><c> that</c><00:01:09.780><c> has</c><00:01:10.020><c> three</c><00:01:10.380><c> major</c>
+
+00:01:10.609 --> 00:01:10.619 align:start position:0%
+sort of parking lot that has three major
+ 
+
+00:01:10.619 --> 00:01:12.350 align:start position:0%
+sort of parking lot that has three major
+requirements<00:01:11.220><c> we</c><00:01:11.460><c> want</c><00:01:11.580><c> to</c><00:01:11.700><c> be</c><00:01:11.760><c> able</c><00:01:11.880><c> to</c><00:01:12.060><c> enter</c>
+
+00:01:12.350 --> 00:01:12.360 align:start position:0%
+requirements we want to be able to enter
+ 
+
+00:01:12.360 --> 00:01:14.810 align:start position:0%
+requirements we want to be able to enter
+the<00:01:12.600><c> lot</c><00:01:12.720><c> as</c><00:01:13.140><c> a</c><00:01:13.380><c> car</c><00:01:13.500><c> and</c><00:01:13.920><c> basically</c><00:01:14.159><c> receive</c><00:01:14.580><c> a</c>
+
+00:01:14.810 --> 00:01:14.820 align:start position:0%
+the lot as a car and basically receive a
+ 
+
+00:01:14.820 --> 00:01:17.210 align:start position:0%
+the lot as a car and basically receive a
+spot<00:01:15.000><c> to</c><00:01:15.479><c> take</c><00:01:15.780><c> at</c><00:01:16.500><c> the</c><00:01:16.619><c> moment</c><00:01:16.860><c> of</c><00:01:16.979><c> Entry</c>
+
+00:01:17.210 --> 00:01:17.220 align:start position:0%
+spot to take at the moment of Entry
+ 
+
+00:01:17.220 --> 00:01:18.770 align:start position:0%
+spot to take at the moment of Entry
+right<00:01:17.400><c> so</c><00:01:17.640><c> we</c><00:01:17.760><c> would</c><00:01:17.880><c> get</c><00:01:18.060><c> a</c><00:01:18.180><c> ticket</c><00:01:18.299><c> from</c><00:01:18.600><c> the</c>
+
+00:01:18.770 --> 00:01:18.780 align:start position:0%
+right so we would get a ticket from the
+ 
+
+00:01:18.780 --> 00:01:20.630 align:start position:0%
+right so we would get a ticket from the
+entry<00:01:19.080><c> and</c><00:01:19.500><c> it</c><00:01:19.619><c> would</c><00:01:19.740><c> tell</c><00:01:19.920><c> us</c><00:01:20.040><c> which</c><00:01:20.220><c> spot</c><00:01:20.460><c> to</c>
+
+00:01:20.630 --> 00:01:20.640 align:start position:0%
+entry and it would tell us which spot to
+ 
+
+00:01:20.640 --> 00:01:22.550 align:start position:0%
+entry and it would tell us which spot to
+take<00:01:20.820><c> similarly</c><00:01:21.659><c> we</c><00:01:21.900><c> want</c><00:01:22.020><c> to</c><00:01:22.140><c> be</c><00:01:22.259><c> able</c><00:01:22.439><c> to</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+take similarly we want to be able to
+ 
+
+00:01:22.560 --> 00:01:24.710 align:start position:0%
+take similarly we want to be able to
+exit<00:01:23.040><c> a</c><00:01:23.280><c> lot</c><00:01:23.400><c> and</c><00:01:23.939><c> then</c><00:01:24.060><c> the</c><00:01:24.240><c> last</c><00:01:24.360><c> kind</c><00:01:24.600><c> of</c>
+
+00:01:24.710 --> 00:01:24.720 align:start position:0%
+exit a lot and then the last kind of
+ 
+
+00:01:24.720 --> 00:01:26.570 align:start position:0%
+exit a lot and then the last kind of
+piece<00:01:24.960><c> of</c><00:01:25.080><c> this</c><00:01:25.200><c> puzzle</c><00:01:25.500><c> is</c><00:01:25.860><c> also</c><00:01:26.100><c> just</c><00:01:26.340><c> you</c>
+
+00:01:26.570 --> 00:01:26.580 align:start position:0%
+piece of this puzzle is also just you
+ 
+
+00:01:26.580 --> 00:01:27.890 align:start position:0%
+piece of this puzzle is also just you
+know<00:01:26.640><c> if</c><00:01:26.820><c> you're</c><00:01:26.939><c> driving</c><00:01:27.119><c> around</c><00:01:27.420><c> and</c><00:01:27.720><c> are</c>
+
+00:01:27.890 --> 00:01:27.900 align:start position:0%
+know if you're driving around and are
+ 
+
+00:01:27.900 --> 00:01:30.410 align:start position:0%
+know if you're driving around and are
+considering<00:01:28.259><c> entering</c><00:01:29.040><c> a</c><00:01:29.220><c> lot</c><00:01:29.340><c> to</c><00:01:29.939><c> be</c><00:01:30.060><c> able</c><00:01:30.180><c> to</c>
+
+00:01:30.410 --> 00:01:30.420 align:start position:0%
+considering entering a lot to be able to
+ 
+
+00:01:30.420 --> 00:01:32.810 align:start position:0%
+considering entering a lot to be able to
+see<00:01:30.600><c> how</c><00:01:31.200><c> many</c><00:01:31.320><c> available</c><00:01:31.680><c> spots</c><00:01:32.340><c> there</c><00:01:32.640><c> are</c>
+
+00:01:32.810 --> 00:01:32.820 align:start position:0%
+see how many available spots there are
+ 
+
+00:01:32.820 --> 00:01:34.670 align:start position:0%
+see how many available spots there are
+of<00:01:33.180><c> each</c><00:01:33.360><c> type</c><00:01:33.600><c> so</c><00:01:33.840><c> I'm</c><00:01:33.960><c> going</c><00:01:34.140><c> to</c><00:01:34.259><c> assume</c>
+
+00:01:34.670 --> 00:01:34.680 align:start position:0%
+of each type so I'm going to assume
+ 
+
+00:01:34.680 --> 00:01:36.530 align:start position:0%
+of each type so I'm going to assume
+there<00:01:35.040><c> are</c><00:01:35.220><c> three</c><00:01:35.520><c> types</c><00:01:35.820><c> of</c><00:01:35.880><c> spots</c><00:01:36.240><c> we</c><00:01:36.420><c> can</c>
+
+00:01:36.530 --> 00:01:36.540 align:start position:0%
+there are three types of spots we can
+ 
+
+00:01:36.540 --> 00:01:38.990 align:start position:0%
+there are three types of spots we can
+call<00:01:36.720><c> those</c><00:01:37.020><c> big</c><00:01:37.259><c> medium</c><00:01:37.740><c> and</c><00:01:37.920><c> small</c><00:01:38.159><c> and</c><00:01:38.820><c> for</c>
+
+00:01:38.990 --> 00:01:39.000 align:start position:0%
+call those big medium and small and for
+ 
+
+00:01:39.000 --> 00:01:40.609 align:start position:0%
+call those big medium and small and for
+now<00:01:39.119><c> just</c><00:01:39.420><c> to</c><00:01:39.540><c> simplify</c><00:01:39.960><c> things</c><00:01:40.200><c> I'm</c><00:01:40.439><c> going</c><00:01:40.560><c> to</c>
+
+00:01:40.609 --> 00:01:40.619 align:start position:0%
+now just to simplify things I'm going to
+ 
+
+00:01:40.619 --> 00:01:42.950 align:start position:0%
+now just to simplify things I'm going to
+assume<00:01:40.920><c> that</c><00:01:41.159><c> only</c><00:01:41.400><c> big</c><00:01:41.820><c> vehicles</c><00:01:42.299><c> can</c><00:01:42.540><c> fit</c><00:01:42.720><c> in</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+assume that only big vehicles can fit in
+ 
+
+00:01:42.960 --> 00:01:45.230 align:start position:0%
+assume that only big vehicles can fit in
+big<00:01:43.140><c> spots</c><00:01:43.560><c> medium</c><00:01:44.159><c> and</c><00:01:44.280><c> medium</c><00:01:44.579><c> spots</c><00:01:45.000><c> and</c>
+
+00:01:45.230 --> 00:01:45.240 align:start position:0%
+big spots medium and medium spots and
+ 
+
+00:01:45.240 --> 00:01:47.030 align:start position:0%
+big spots medium and medium spots and
+small<00:01:45.479><c> in</c><00:01:45.720><c> small</c><00:01:45.960><c> spots</c><00:01:46.320><c> but</c><00:01:46.740><c> this</c><00:01:46.920><c> doesn't</c>
+
+00:01:47.030 --> 00:01:47.040 align:start position:0%
+small in small spots but this doesn't
+ 
+
+00:01:47.040 --> 00:01:48.710 align:start position:0%
+small in small spots but this doesn't
+really<00:01:47.340><c> complicate</c><00:01:47.820><c> the</c><00:01:48.060><c> problem</c><00:01:48.180><c> too</c><00:01:48.540><c> much</c>
+
+00:01:48.710 --> 00:01:48.720 align:start position:0%
+really complicate the problem too much
+ 
+
+00:01:48.720 --> 00:01:50.990 align:start position:0%
+really complicate the problem too much
+and<00:01:49.439><c> again</c><00:01:49.680><c> different</c><00:01:50.220><c> interviewers</c><00:01:50.759><c> might</c>
+
+00:01:50.990 --> 00:01:51.000 align:start position:0%
+and again different interviewers might
+ 
+
+00:01:51.000 --> 00:01:52.429 align:start position:0%
+and again different interviewers might
+have<00:01:51.180><c> different</c><00:01:51.360><c> requirements</c><00:01:51.899><c> here</c><00:01:52.020><c> perhaps</c>
+
+00:01:52.429 --> 00:01:52.439 align:start position:0%
+have different requirements here perhaps
+ 
+
+00:01:52.439 --> 00:01:54.410 align:start position:0%
+have different requirements here perhaps
+some<00:01:52.680><c> would</c><00:01:52.860><c> say</c><00:01:53.040><c> like</c><00:01:53.220><c> oh</c><00:01:53.460><c> you</c><00:01:53.759><c> know</c><00:01:53.820><c> a</c><00:01:54.299><c> small</c>
+
+00:01:54.410 --> 00:01:54.420 align:start position:0%
+some would say like oh you know a small
+ 
+
+00:01:54.420 --> 00:01:56.090 align:start position:0%
+some would say like oh you know a small
+vehicle<00:01:54.840><c> could</c><00:01:55.079><c> go</c><00:01:55.259><c> in</c><00:01:55.380><c> a</c><00:01:55.560><c> big</c><00:01:55.619><c> spot</c><00:01:55.799><c> but</c>
+
+00:01:56.090 --> 00:01:56.100 align:start position:0%
+vehicle could go in a big spot but
+ 
+
+00:01:56.100 --> 00:01:57.830 align:start position:0%
+vehicle could go in a big spot but
+ideally<00:01:56.340><c> we</c><00:01:56.640><c> should</c><00:01:56.759><c> prioritize</c><00:01:57.360><c> the</c><00:01:57.659><c> small</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+ideally we should prioritize the small
+ 
+
+00:01:57.840 --> 00:01:59.810 align:start position:0%
+ideally we should prioritize the small
+spots<00:01:58.259><c> first</c><00:01:58.439><c> so</c><00:01:58.860><c> that</c><00:01:59.340><c> could</c><00:01:59.460><c> complicate</c>
+
+00:01:59.810 --> 00:01:59.820 align:start position:0%
+spots first so that could complicate
+ 
+
+00:01:59.820 --> 00:02:01.609 align:start position:0%
+spots first so that could complicate
+things<00:02:00.000><c> a</c><00:02:00.479><c> little</c><00:02:00.540><c> bit</c><00:02:00.720><c> but</c><00:02:00.899><c> for</c><00:02:01.079><c> now</c><00:02:01.200><c> I'm</c><00:02:01.439><c> not</c>
+
+00:02:01.609 --> 00:02:01.619 align:start position:0%
+things a little bit but for now I'm not
+ 
+
+00:02:01.619 --> 00:02:04.190 align:start position:0%
+things a little bit but for now I'm not
+really<00:02:01.799><c> going</c><00:02:01.979><c> to</c><00:02:02.159><c> consider</c><00:02:02.520><c> that</c><00:02:03.180><c> okay</c><00:02:03.720><c> so</c>
+
+00:02:04.190 --> 00:02:04.200 align:start position:0%
+really going to consider that okay so
+ 
+
+00:02:04.200 --> 00:02:05.630 align:start position:0%
+really going to consider that okay so
+let's<00:02:04.320><c> think</c><00:02:04.560><c> about</c><00:02:04.740><c> the</c><00:02:05.040><c> actual</c><00:02:05.219><c> parking</c>
+
+00:02:05.630 --> 00:02:05.640 align:start position:0%
+let's think about the actual parking
+ 
+
+00:02:05.640 --> 00:02:08.330 align:start position:0%
+let's think about the actual parking
+garage<00:02:05.820><c> itself</c><00:02:06.420><c> so</c><00:02:07.200><c> we</c><00:02:07.500><c> know</c><00:02:07.619><c> that</c><00:02:07.920><c> we</c><00:02:08.220><c> want</c>
+
+00:02:08.330 --> 00:02:08.340 align:start position:0%
+garage itself so we know that we want
+ 
+
+00:02:08.340 --> 00:02:09.949 align:start position:0%
+garage itself so we know that we want
+our<00:02:08.580><c> parking</c><00:02:08.940><c> garage</c><00:02:09.060><c> to</c><00:02:09.420><c> probably</c><00:02:09.599><c> be</c><00:02:09.780><c> an</c>
+
+00:02:09.949 --> 00:02:09.959 align:start position:0%
+our parking garage to probably be an
+ 
+
+00:02:09.959 --> 00:02:11.869 align:start position:0%
+our parking garage to probably be an
+interface<00:02:10.380><c> the</c><00:02:10.860><c> reason</c><00:02:11.039><c> for</c><00:02:11.280><c> that</c><00:02:11.400><c> being</c><00:02:11.640><c> that</c>
+
+00:02:11.869 --> 00:02:11.879 align:start position:0%
+interface the reason for that being that
+ 
+
+00:02:11.879 --> 00:02:13.670 align:start position:0%
+interface the reason for that being that
+amongst<00:02:12.360><c> parking</c><00:02:12.660><c> garages</c><00:02:12.959><c> we've</c><00:02:13.440><c> kind</c><00:02:13.560><c> of</c>
+
+00:02:13.670 --> 00:02:13.680 align:start position:0%
+amongst parking garages we've kind of
+ 
+
+00:02:13.680 --> 00:02:15.949 align:start position:0%
+amongst parking garages we've kind of
+standardized<00:02:14.340><c> the</c><00:02:14.760><c> way</c><00:02:15.120><c> that</c><00:02:15.360><c> a</c><00:02:15.540><c> user</c><00:02:15.780><c> might</c>
+
+00:02:15.949 --> 00:02:15.959 align:start position:0%
+standardized the way that a user might
+ 
+
+00:02:15.959 --> 00:02:17.270 align:start position:0%
+standardized the way that a user might
+interact<00:02:16.260><c> with</c><00:02:16.440><c> it</c><00:02:16.620><c> right</c><00:02:16.860><c> they're</c><00:02:17.099><c> just</c>
+
+00:02:17.270 --> 00:02:17.280 align:start position:0%
+interact with it right they're just
+ 
+
+00:02:17.280 --> 00:02:19.790 align:start position:0%
+interact with it right they're just
+going<00:02:17.459><c> up</c><00:02:17.700><c> to</c><00:02:17.940><c> the</c><00:02:18.239><c> entry</c><00:02:18.540><c> and</c><00:02:18.720><c> exit</c><00:02:19.020><c> point</c><00:02:19.200><c> and</c>
+
+00:02:19.790 --> 00:02:19.800 align:start position:0%
+going up to the entry and exit point and
+ 
+
+00:02:19.800 --> 00:02:21.530 align:start position:0%
+going up to the entry and exit point and
+asking<00:02:20.160><c> for</c><00:02:20.340><c> a</c><00:02:20.459><c> ticket</c><00:02:20.580><c> or</c><00:02:20.879><c> giving</c><00:02:21.120><c> them</c><00:02:21.360><c> back</c>
+
+00:02:21.530 --> 00:02:21.540 align:start position:0%
+asking for a ticket or giving them back
+ 
+
+00:02:21.540 --> 00:02:23.270 align:start position:0%
+asking for a ticket or giving them back
+their<00:02:21.780><c> ticket</c><00:02:21.959><c> or</c><00:02:22.680><c> seeing</c><00:02:23.040><c> how</c><00:02:23.160><c> many</c>
+
+00:02:23.270 --> 00:02:23.280 align:start position:0%
+their ticket or seeing how many
+ 
+
+00:02:23.280 --> 00:02:25.309 align:start position:0%
+their ticket or seeing how many
+available<00:02:23.459><c> spots</c><00:02:24.000><c> there</c><00:02:24.180><c> are</c><00:02:24.300><c> but</c><00:02:24.900><c> within</c>
+
+00:02:25.309 --> 00:02:25.319 align:start position:0%
+available spots there are but within
+ 
+
+00:02:25.319 --> 00:02:27.350 align:start position:0%
+available spots there are but within
+that<00:02:25.560><c> actual</c><00:02:25.860><c> interface</c><00:02:26.400><c> that</c><00:02:26.760><c> a</c><00:02:26.879><c> user</c><00:02:27.180><c> might</c>
+
+00:02:27.350 --> 00:02:27.360 align:start position:0%
+that actual interface that a user might
+ 
+
+00:02:27.360 --> 00:02:29.030 align:start position:0%
+that actual interface that a user might
+use<00:02:27.599><c> to</c><00:02:27.900><c> interact</c><00:02:28.200><c> with</c><00:02:28.500><c> the</c><00:02:28.620><c> parking</c><00:02:28.920><c> garage</c>
+
+00:02:29.030 --> 00:02:29.040 align:start position:0%
+use to interact with the parking garage
+ 
+
+00:02:29.040 --> 00:02:30.949 align:start position:0%
+use to interact with the parking garage
+we<00:02:29.940><c> don't</c><00:02:30.060><c> actually</c><00:02:30.300><c> know</c><00:02:30.599><c> how</c><00:02:30.780><c> the</c>
+
+00:02:30.949 --> 00:02:30.959 align:start position:0%
+we don't actually know how the
+ 
+
+00:02:30.959 --> 00:02:32.630 align:start position:0%
+we don't actually know how the
+implementation<00:02:31.500><c> is</c><00:02:31.800><c> going</c><00:02:31.980><c> to</c><00:02:32.160><c> happen</c><00:02:32.280><c> under</c>
+
+00:02:32.630 --> 00:02:32.640 align:start position:0%
+implementation is going to happen under
+ 
+
+00:02:32.640 --> 00:02:34.670 align:start position:0%
+implementation is going to happen under
+the<00:02:32.879><c> hood</c><00:02:33.000><c> so</c><00:02:33.599><c> it's</c><00:02:33.720><c> important</c><00:02:34.020><c> that</c><00:02:34.260><c> we</c><00:02:34.500><c> kind</c>
+
+00:02:34.670 --> 00:02:34.680 align:start position:0%
+the hood so it's important that we kind
+ 
+
+00:02:34.680 --> 00:02:36.470 align:start position:0%
+the hood so it's important that we kind
+of<00:02:34.800><c> have</c><00:02:34.980><c> the</c><00:02:35.220><c> standardized</c><00:02:35.760><c> interfaces</c><00:02:36.300><c> so</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+of have the standardized interfaces so
+ 
+
+00:02:36.480 --> 00:02:38.630 align:start position:0%
+of have the standardized interfaces so
+that<00:02:36.660><c> users</c><00:02:37.020><c> can</c><00:02:37.260><c> interact</c><00:02:37.560><c> with</c><00:02:37.800><c> it</c><00:02:38.040><c> in</c><00:02:38.459><c> kind</c>
+
+00:02:38.630 --> 00:02:38.640 align:start position:0%
+that users can interact with it in kind
+ 
+
+00:02:38.640 --> 00:02:40.670 align:start position:0%
+that users can interact with it in kind
+of<00:02:38.700><c> a</c><00:02:38.819><c> normalized</c><00:02:39.300><c> way</c><00:02:39.420><c> but</c><00:02:40.080><c> under</c><00:02:40.319><c> the</c><00:02:40.560><c> hood</c>
+
+00:02:40.670 --> 00:02:40.680 align:start position:0%
+of a normalized way but under the hood
+ 
+
+00:02:40.680 --> 00:02:42.589 align:start position:0%
+of a normalized way but under the hood
+we<00:02:41.099><c> may</c><00:02:41.280><c> actually</c><00:02:41.519><c> determine</c><00:02:42.060><c> the</c><00:02:42.239><c> way</c><00:02:42.360><c> that</c>
+
+00:02:42.589 --> 00:02:42.599 align:start position:0%
+we may actually determine the way that
+ 
+
+00:02:42.599 --> 00:02:44.750 align:start position:0%
+we may actually determine the way that
+parking<00:02:42.900><c> spots</c><00:02:43.200><c> are</c><00:02:43.319><c> given</c><00:02:43.620><c> out</c><00:02:43.739><c> in</c><00:02:44.400><c> multiple</c>
+
+00:02:44.750 --> 00:02:44.760 align:start position:0%
+parking spots are given out in multiple
+ 
+
+00:02:44.760 --> 00:02:46.670 align:start position:0%
+parking spots are given out in multiple
+different<00:02:44.940><c> types</c><00:02:45.300><c> of</c><00:02:45.420><c> implementations</c><00:02:46.019><c> and</c>
+
+00:02:46.670 --> 00:02:46.680 align:start position:0%
+different types of implementations and
+ 
+
+00:02:46.680 --> 00:02:48.470 align:start position:0%
+different types of implementations and
+as<00:02:46.860><c> a</c><00:02:47.040><c> result</c><00:02:47.099><c> interfaces</c><00:02:48.000><c> are</c><00:02:48.120><c> probably</c><00:02:48.300><c> the</c>
+
+00:02:48.470 --> 00:02:48.480 align:start position:0%
+as a result interfaces are probably the
+ 
+
+00:02:48.480 --> 00:02:51.110 align:start position:0%
+as a result interfaces are probably the
+way<00:02:48.660><c> to</c><00:02:48.780><c> go</c><00:02:48.840><c> here</c><00:02:49.440><c> so</c><00:02:50.099><c> if</c><00:02:50.459><c> we</c><00:02:50.640><c> are</c><00:02:50.819><c> actually</c>
+
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+way to go here so if we are actually
+ 
+
+00:02:51.120 --> 00:02:52.729 align:start position:0%
+way to go here so if we are actually
+going<00:02:51.420><c> to</c><00:02:51.540><c> have</c><00:02:51.780><c> an</c><00:02:51.959><c> interface</c><00:02:52.319><c> as</c><00:02:52.560><c> our</c>
+
+00:02:52.729 --> 00:02:52.739 align:start position:0%
+going to have an interface as our
+ 
+
+00:02:52.739 --> 00:02:54.530 align:start position:0%
+going to have an interface as our
+parking<00:02:53.099><c> garage</c><00:02:53.220><c> what</c><00:02:53.700><c> are</c><00:02:53.879><c> those</c><00:02:54.060><c> three</c><00:02:54.300><c> main</c>
+
+00:02:54.530 --> 00:02:54.540 align:start position:0%
+parking garage what are those three main
+ 
+
+00:02:54.540 --> 00:02:56.150 align:start position:0%
+parking garage what are those three main
+methods<00:02:55.019><c> going</c><00:02:55.140><c> to</c><00:02:55.319><c> look</c><00:02:55.500><c> like</c><00:02:55.620><c> that</c><00:02:55.920><c> we</c><00:02:56.040><c> have</c>
+
+00:02:56.150 --> 00:02:56.160 align:start position:0%
+methods going to look like that we have
+ 
+
+00:02:56.160 --> 00:02:58.550 align:start position:0%
+methods going to look like that we have
+to<00:02:56.280><c> be</c><00:02:56.400><c> implementing</c><00:02:56.940><c> well</c><00:02:57.660><c> the</c><00:02:57.959><c> first</c><00:02:58.080><c> one</c><00:02:58.260><c> is</c>
+
+00:02:58.550 --> 00:02:58.560 align:start position:0%
+to be implementing well the first one is
+ 
+
+00:02:58.560 --> 00:03:00.170 align:start position:0%
+to be implementing well the first one is
+going<00:02:58.680><c> to</c><00:02:58.860><c> be</c><00:02:58.920><c> to</c><00:02:59.280><c> actually</c><00:02:59.459><c> enter</c><00:02:59.760><c> the</c><00:03:00.000><c> garage</c>
+
+00:03:00.170 --> 00:03:00.180 align:start position:0%
+going to be to actually enter the garage
+ 
+
+00:03:00.180 --> 00:03:02.390 align:start position:0%
+going to be to actually enter the garage
+that<00:03:01.080><c> is</c><00:03:01.260><c> going</c><00:03:01.440><c> to</c><00:03:01.560><c> take</c><00:03:01.739><c> in</c><00:03:01.920><c> something</c><00:03:02.160><c> like</c>
+
+00:03:02.390 --> 00:03:02.400 align:start position:0%
+that is going to take in something like
+ 
+
+00:03:02.400 --> 00:03:05.270 align:start position:0%
+that is going to take in something like
+a<00:03:02.580><c> car</c><00:03:02.760><c> size</c><00:03:03.000><c> an</c><00:03:03.959><c> entry</c><00:03:04.260><c> number</c><00:03:04.500><c> because</c><00:03:04.980><c> it's</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+a car size an entry number because it's
+ 
+
+00:03:05.280 --> 00:03:06.710 align:start position:0%
+a car size an entry number because it's
+possible<00:03:05.580><c> that</c><00:03:05.819><c> a</c><00:03:06.000><c> parking</c><00:03:06.239><c> garage</c><00:03:06.360><c> might</c>
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+possible that a parking garage might
+ 
+
+00:03:06.720 --> 00:03:09.350 align:start position:0%
+possible that a parking garage might
+have<00:03:06.900><c> multiple</c><00:03:07.379><c> entrances</c><00:03:08.160><c> and</c><00:03:08.400><c> exits</c><00:03:08.940><c> and</c>
+
+00:03:09.350 --> 00:03:09.360 align:start position:0%
+have multiple entrances and exits and
+ 
+
+00:03:09.360 --> 00:03:11.750 align:start position:0%
+have multiple entrances and exits and
+then<00:03:09.480><c> also</c><00:03:09.840><c> a</c><00:03:10.140><c> license</c><00:03:10.319><c> plate</c><00:03:10.739><c> number</c><00:03:10.920><c> and</c>
+
+00:03:11.750 --> 00:03:11.760 align:start position:0%
+then also a license plate number and
+ 
+
+00:03:11.760 --> 00:03:13.729 align:start position:0%
+then also a license plate number and
+basically<00:03:12.060><c> what</c><00:03:12.360><c> this</c><00:03:12.599><c> is</c><00:03:12.780><c> going</c><00:03:13.140><c> to</c><00:03:13.319><c> mean</c><00:03:13.500><c> is</c>
+
+00:03:13.729 --> 00:03:13.739 align:start position:0%
+basically what this is going to mean is
+ 
+
+00:03:13.739 --> 00:03:15.170 align:start position:0%
+basically what this is going to mean is
+that<00:03:13.920><c> you</c><00:03:14.099><c> know</c><00:03:14.159><c> a</c><00:03:14.340><c> car</c><00:03:14.459><c> with</c><00:03:14.640><c> a</c><00:03:14.819><c> given</c><00:03:15.000><c> license</c>
+
+00:03:15.170 --> 00:03:15.180 align:start position:0%
+that you know a car with a given license
+ 
+
+00:03:15.180 --> 00:03:17.210 align:start position:0%
+that you know a car with a given license
+plate<00:03:15.599><c> is</c><00:03:16.080><c> coming</c><00:03:16.260><c> in</c><00:03:16.500><c> through</c><00:03:16.739><c> a</c><00:03:17.099><c> certain</c>
+
+00:03:17.210 --> 00:03:17.220 align:start position:0%
+plate is coming in through a certain
+ 
+
+00:03:17.220 --> 00:03:19.490 align:start position:0%
+plate is coming in through a certain
+entry<00:03:17.640><c> number</c><00:03:17.819><c> and</c><00:03:18.480><c> that</c><00:03:18.659><c> car</c><00:03:18.780><c> has</c><00:03:19.080><c> a</c><00:03:19.260><c> given</c>
+
+00:03:19.490 --> 00:03:19.500 align:start position:0%
+entry number and that car has a given
+ 
+
+00:03:19.500 --> 00:03:22.070 align:start position:0%
+entry number and that car has a given
+size<00:03:19.739><c> and</c><00:03:20.340><c> all</c><00:03:20.519><c> our</c><00:03:20.700><c> parking</c><00:03:21.120><c> garage</c><00:03:21.659><c> is</c><00:03:21.900><c> going</c>
+
+00:03:22.070 --> 00:03:22.080 align:start position:0%
+size and all our parking garage is going
+ 
+
+00:03:22.080 --> 00:03:24.110 align:start position:0%
+size and all our parking garage is going
+to<00:03:22.140><c> do</c><00:03:22.260><c> is</c><00:03:22.440><c> going</c><00:03:22.620><c> to</c><00:03:22.800><c> return</c><00:03:22.980><c> the</c><00:03:23.580><c> name</c><00:03:23.819><c> of</c><00:03:24.000><c> the</c>
+
+00:03:24.110 --> 00:03:24.120 align:start position:0%
+to do is going to return the name of the
+ 
+
+00:03:24.120 --> 00:03:25.550 align:start position:0%
+to do is going to return the name of the
+actual<00:03:24.420><c> spot</c><00:03:24.659><c> that</c><00:03:25.019><c> it</c><00:03:25.140><c> is</c><00:03:25.260><c> that</c><00:03:25.440><c> they're</c>
+
+00:03:25.550 --> 00:03:25.560 align:start position:0%
+actual spot that it is that they're
+ 
+
+00:03:25.560 --> 00:03:26.690 align:start position:0%
+actual spot that it is that they're
+going<00:03:25.739><c> to</c><00:03:25.860><c> be</c><00:03:25.920><c> taking</c>
+
+00:03:26.690 --> 00:03:26.700 align:start position:0%
+going to be taking
+ 
+
+00:03:26.700 --> 00:03:29.449 align:start position:0%
+going to be taking
+similarly<00:03:27.480><c> we</c><00:03:27.900><c> also</c><00:03:28.140><c> have</c><00:03:28.440><c> this</c><00:03:29.040><c> concept</c><00:03:29.280><c> of</c>
+
+00:03:29.449 --> 00:03:29.459 align:start position:0%
+similarly we also have this concept of
+ 
+
+00:03:29.459 --> 00:03:31.729 align:start position:0%
+similarly we also have this concept of
+exiting<00:03:30.000><c> and</c><00:03:30.420><c> that's</c><00:03:30.540><c> when</c><00:03:30.840><c> a</c><00:03:31.140><c> car</c><00:03:31.260><c> is</c><00:03:31.560><c> leaving</c>
+
+00:03:31.729 --> 00:03:31.739 align:start position:0%
+exiting and that's when a car is leaving
+ 
+
+00:03:31.739 --> 00:03:33.050 align:start position:0%
+exiting and that's when a car is leaving
+the<00:03:31.980><c> parking</c><00:03:32.280><c> garage</c><00:03:32.459><c> it's</c><00:03:32.700><c> going</c><00:03:32.879><c> to</c><00:03:32.879><c> give</c>
+
+00:03:33.050 --> 00:03:33.060 align:start position:0%
+the parking garage it's going to give
+ 
+
+00:03:33.060 --> 00:03:35.390 align:start position:0%
+the parking garage it's going to give
+back<00:03:33.300><c> its</c><00:03:33.659><c> ticket</c><00:03:33.780><c> which</c><00:03:34.500><c> has</c><00:03:34.739><c> basically</c><00:03:35.099><c> its</c>
+
+00:03:35.390 --> 00:03:35.400 align:start position:0%
+back its ticket which has basically its
+ 
+
+00:03:35.400 --> 00:03:37.910 align:start position:0%
+back its ticket which has basically its
+license<00:03:35.519><c> plate</c><00:03:35.940><c> number</c><00:03:36.120><c> and</c><00:03:36.959><c> also</c><00:03:37.319><c> its</c><00:03:37.800><c> car</c>
+
+00:03:37.910 --> 00:03:37.920 align:start position:0%
+license plate number and also its car
+ 
+
+00:03:37.920 --> 00:03:39.830 align:start position:0%
+license plate number and also its car
+size<00:03:38.220><c> and</c><00:03:38.580><c> entry</c><00:03:38.940><c> number</c><00:03:39.060><c> and</c><00:03:39.300><c> then</c><00:03:39.420><c> we</c><00:03:39.599><c> can</c><00:03:39.659><c> go</c>
+
+00:03:39.830 --> 00:03:39.840 align:start position:0%
+size and entry number and then we can go
+ 
+
+00:03:39.840 --> 00:03:41.690 align:start position:0%
+size and entry number and then we can go
+ahead<00:03:40.019><c> and</c><00:03:40.319><c> basically</c><00:03:40.680><c> vacate</c><00:03:41.280><c> that</c><00:03:41.519><c> spot</c>
+
+00:03:41.690 --> 00:03:41.700 align:start position:0%
+ahead and basically vacate that spot
+ 
+
+00:03:41.700 --> 00:03:43.309 align:start position:0%
+ahead and basically vacate that spot
+again<00:03:41.940><c> and</c><00:03:42.239><c> say</c><00:03:42.360><c> this</c><00:03:42.540><c> is</c><00:03:42.659><c> now</c><00:03:42.780><c> open</c><00:03:43.019><c> for</c>
+
+00:03:43.309 --> 00:03:43.319 align:start position:0%
+again and say this is now open for
+ 
+
+00:03:43.319 --> 00:03:45.589 align:start position:0%
+again and say this is now open for
+future<00:03:43.500><c> cars</c><00:03:43.920><c> to</c><00:03:44.040><c> take</c><00:03:44.220><c> the</c><00:03:45.120><c> last</c><00:03:45.239><c> piece</c><00:03:45.480><c> of</c>
+
+00:03:45.589 --> 00:03:45.599 align:start position:0%
+future cars to take the last piece of
+ 
+
+00:03:45.599 --> 00:03:47.030 align:start position:0%
+future cars to take the last piece of
+this<00:03:45.720><c> puzzle</c><00:03:46.080><c> is</c><00:03:46.379><c> actually</c><00:03:46.500><c> getting</c><00:03:46.799><c> the</c>
+
+00:03:47.030 --> 00:03:47.040 align:start position:0%
+this puzzle is actually getting the
+ 
+
+00:03:47.040 --> 00:03:48.589 align:start position:0%
+this puzzle is actually getting the
+number<00:03:47.159><c> of</c><00:03:47.340><c> spots</c><00:03:47.700><c> we</c><00:03:47.940><c> don't</c><00:03:48.120><c> need</c><00:03:48.299><c> any</c>
+
+00:03:48.589 --> 00:03:48.599 align:start position:0%
+number of spots we don't need any
+ 
+
+00:03:48.599 --> 00:03:51.410 align:start position:0%
+number of spots we don't need any
+methods<00:03:49.019><c> for</c><00:03:49.260><c> this</c><00:03:49.500><c> parameter</c><00:03:49.980><c> because</c><00:03:50.700><c> more</c>
+
+00:03:51.410 --> 00:03:51.420 align:start position:0%
+methods for this parameter because more
+ 
+
+00:03:51.420 --> 00:03:53.089 align:start position:0%
+methods for this parameter because more
+or<00:03:51.540><c> less</c><00:03:51.659><c> all</c><00:03:51.959><c> that's</c><00:03:52.080><c> going</c><00:03:52.319><c> to</c><00:03:52.500><c> happen</c><00:03:52.680><c> is</c>
+
+00:03:53.089 --> 00:03:53.099 align:start position:0%
+or less all that's going to happen is
+ 
+
+00:03:53.099 --> 00:03:55.970 align:start position:0%
+or less all that's going to happen is
+we're<00:03:53.280><c> just</c><00:03:53.519><c> going</c><00:03:53.700><c> to</c><00:03:53.879><c> display</c><00:03:54.239><c> a</c><00:03:54.840><c> map</c><00:03:55.019><c> of</c><00:03:55.500><c> you</c>
+
+00:03:55.970 --> 00:03:55.980 align:start position:0%
+we're just going to display a map of you
+ 
+
+00:03:55.980 --> 00:03:58.550 align:start position:0%
+we're just going to display a map of you
+know<00:03:56.099><c> car</c><00:03:56.519><c> size</c><00:03:56.760><c> medium</c><00:03:57.239><c> 100</c><00:03:57.599><c> spots</c><00:03:58.080><c> car</c><00:03:58.319><c> size</c>
+
+00:03:58.550 --> 00:03:58.560 align:start position:0%
+know car size medium 100 spots car size
+ 
+
+00:03:58.560 --> 00:04:00.830 align:start position:0%
+know car size medium 100 spots car size
+small<00:03:58.860><c> 10</c><00:03:59.220><c> spots</c><00:03:59.640><c> so</c><00:03:59.940><c> it's</c><00:04:00.420><c> just</c><00:04:00.540><c> going</c><00:04:00.720><c> to</c>
+
+00:04:00.830 --> 00:04:00.840 align:start position:0%
+small 10 spots so it's just going to
+ 
+
+00:04:00.840 --> 00:04:02.330 align:start position:0%
+small 10 spots so it's just going to
+tell<00:04:00.959><c> you</c><00:04:01.080><c> how</c><00:04:01.319><c> many</c><00:04:01.379><c> available</c><00:04:01.620><c> spots</c><00:04:02.159><c> there</c>
+
+00:04:02.330 --> 00:04:02.340 align:start position:0%
+tell you how many available spots there
+ 
+
+00:04:02.340 --> 00:04:04.850 align:start position:0%
+tell you how many available spots there
+are<00:04:02.519><c> for</c><00:04:02.760><c> each</c><00:04:03.000><c> size</c>
+
+00:04:04.850 --> 00:04:04.860 align:start position:0%
+are for each size
+ 
+
+00:04:04.860 --> 00:04:06.710 align:start position:0%
+are for each size
+um<00:04:04.920><c> do</c><00:04:05.099><c> we</c><00:04:05.280><c> actually</c><00:04:05.459><c> need</c><00:04:05.760><c> any</c><00:04:06.060><c> other</c><00:04:06.239><c> classes</c>
+
+00:04:06.710 --> 00:04:06.720 align:start position:0%
+um do we actually need any other classes
+ 
+
+00:04:06.720 --> 00:04:09.229 align:start position:0%
+um do we actually need any other classes
+well<00:04:07.440><c> to</c><00:04:07.799><c> get</c><00:04:07.980><c> started</c><00:04:08.340><c> we</c><00:04:08.760><c> probably</c><00:04:08.940><c> don't</c>
+
+00:04:09.229 --> 00:04:09.239 align:start position:0%
+well to get started we probably don't
+ 
+
+00:04:09.239 --> 00:04:10.970 align:start position:0%
+well to get started we probably don't
+need<00:04:09.420><c> a</c><00:04:09.599><c> vehicle</c><00:04:09.840><c> class</c><00:04:10.080><c> the</c><00:04:10.439><c> reason</c><00:04:10.620><c> for</c><00:04:10.860><c> this</c>
+
+00:04:10.970 --> 00:04:10.980 align:start position:0%
+need a vehicle class the reason for this
+ 
+
+00:04:10.980 --> 00:04:12.890 align:start position:0%
+need a vehicle class the reason for this
+being<00:04:11.220><c> that</c><00:04:12.000><c> um</c><00:04:12.000><c> you</c><00:04:12.360><c> know</c><00:04:12.420><c> in</c><00:04:12.659><c> our</c><00:04:12.720><c> case</c>
+
+00:04:12.890 --> 00:04:12.900 align:start position:0%
+being that um you know in our case
+ 
+
+00:04:12.900 --> 00:04:14.509 align:start position:0%
+being that um you know in our case
+Vehicles<00:04:13.319><c> actually</c><00:04:13.620><c> aren't</c><00:04:13.980><c> holding</c><00:04:14.340><c> any</c>
+
+00:04:14.509 --> 00:04:14.519 align:start position:0%
+Vehicles actually aren't holding any
+ 
+
+00:04:14.519 --> 00:04:16.729 align:start position:0%
+Vehicles actually aren't holding any
+stateful<00:04:14.939><c> information</c><00:04:15.260><c> uh</c><00:04:16.260><c> the</c><00:04:16.500><c> vehicle</c>
+
+00:04:16.729 --> 00:04:16.739 align:start position:0%
+stateful information uh the vehicle
+ 
+
+00:04:16.739 --> 00:04:18.830 align:start position:0%
+stateful information uh the vehicle
+itself<00:04:17.280><c> is</c><00:04:17.579><c> not</c><00:04:17.760><c> really</c><00:04:17.940><c> part</c><00:04:18.180><c> of</c><00:04:18.419><c> the</c><00:04:18.540><c> parking</c>
+
+00:04:18.830 --> 00:04:18.840 align:start position:0%
+itself is not really part of the parking
+ 
+
+00:04:18.840 --> 00:04:20.990 align:start position:0%
+itself is not really part of the parking
+garage<00:04:19.019><c> but</c><00:04:19.739><c> what</c><00:04:19.919><c> really</c><00:04:20.160><c> is</c><00:04:20.459><c> is</c><00:04:20.820><c> actually</c>
+
+00:04:20.990 --> 00:04:21.000 align:start position:0%
+garage but what really is is actually
+ 
+
+00:04:21.000 --> 00:04:22.850 align:start position:0%
+garage but what really is is actually
+the<00:04:21.299><c> parking</c><00:04:21.660><c> spot</c><00:04:21.900><c> because</c><00:04:22.320><c> we</c><00:04:22.560><c> need</c><00:04:22.680><c> to</c><00:04:22.740><c> know</c>
+
+00:04:22.850 --> 00:04:22.860 align:start position:0%
+the parking spot because we need to know
+ 
+
+00:04:22.860 --> 00:04:25.070 align:start position:0%
+the parking spot because we need to know
+if<00:04:23.040><c> a</c><00:04:23.160><c> given</c><00:04:23.400><c> parking</c><00:04:23.759><c> spot</c><00:04:23.880><c> is</c><00:04:24.240><c> occupied</c><00:04:24.780><c> or</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+if a given parking spot is occupied or
+ 
+
+00:04:25.080 --> 00:04:27.230 align:start position:0%
+if a given parking spot is occupied or
+it's<00:04:25.199><c> not</c><00:04:25.440><c> and</c><00:04:25.979><c> also</c><00:04:26.220><c> certain</c><00:04:26.460><c> aspects</c><00:04:27.120><c> about</c>
+
+00:04:27.230 --> 00:04:27.240 align:start position:0%
+it's not and also certain aspects about
+ 
+
+00:04:27.240 --> 00:04:29.810 align:start position:0%
+it's not and also certain aspects about
+the<00:04:27.479><c> parking</c><00:04:27.840><c> spot</c><00:04:28.020><c> such</c><00:04:28.620><c> as</c><00:04:28.919><c> its</c><00:04:29.280><c> distance</c><00:04:29.400><c> to</c>
+
+00:04:29.810 --> 00:04:29.820 align:start position:0%
+the parking spot such as its distance to
+ 
+
+00:04:29.820 --> 00:04:32.390 align:start position:0%
+the parking spot such as its distance to
+each<00:04:30.120><c> entry</c><00:04:30.479><c> or</c><00:04:30.660><c> exit</c><00:04:31.020><c> and</c><00:04:31.680><c> so</c><00:04:31.800><c> let's</c><00:04:31.979><c> go</c><00:04:32.220><c> ahead</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+each entry or exit and so let's go ahead
+ 
+
+00:04:32.400 --> 00:04:34.310 align:start position:0%
+each entry or exit and so let's go ahead
+and<00:04:32.520><c> take</c><00:04:32.880><c> a</c><00:04:33.000><c> look</c><00:04:33.060><c> at</c><00:04:33.360><c> a</c><00:04:33.540><c> parking</c><00:04:33.840><c> spot</c><00:04:33.960><c> class</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+and take a look at a parking spot class
+ 
+
+00:04:34.320 --> 00:04:36.290 align:start position:0%
+and take a look at a parking spot class
+so<00:04:34.740><c> here</c><00:04:34.919><c> are</c><00:04:35.100><c> some</c><00:04:35.220><c> of</c><00:04:35.340><c> the</c><00:04:35.520><c> actual</c><00:04:35.880><c> fields</c>
+
+00:04:36.290 --> 00:04:36.300 align:start position:0%
+so here are some of the actual fields
+ 
+
+00:04:36.300 --> 00:04:38.330 align:start position:0%
+so here are some of the actual fields
+that<00:04:36.540><c> might</c><00:04:36.660><c> be</c><00:04:36.840><c> really</c><00:04:37.020><c> useful</c><00:04:37.320><c> for</c><00:04:37.560><c> us</c><00:04:37.680><c> as</c>
+
+00:04:38.330 --> 00:04:38.340 align:start position:0%
+that might be really useful for us as
+ 
+
+00:04:38.340 --> 00:04:39.770 align:start position:0%
+that might be really useful for us as
+you<00:04:38.460><c> can</c><00:04:38.520><c> see</c><00:04:38.639><c> we</c><00:04:38.880><c> have</c><00:04:39.060><c> this</c><00:04:39.240><c> parking</c><00:04:39.660><c> spot</c>
+
+00:04:39.770 --> 00:04:39.780 align:start position:0%
+you can see we have this parking spot
+ 
+
+00:04:39.780 --> 00:04:41.990 align:start position:0%
+you can see we have this parking spot
+and<00:04:40.500><c> then</c><00:04:40.680><c> it's</c><00:04:41.160><c> going</c><00:04:41.340><c> to</c><00:04:41.460><c> come</c><00:04:41.580><c> with</c><00:04:41.699><c> a</c><00:04:41.880><c> size</c>
+
+00:04:41.990 --> 00:04:42.000 align:start position:0%
+and then it's going to come with a size
+ 
+
+00:04:42.000 --> 00:04:43.850 align:start position:0%
+and then it's going to come with a size
+so<00:04:42.300><c> I'm</c><00:04:42.360><c> assuming</c><00:04:42.720><c> a</c><00:04:42.840><c> size</c><00:04:43.020><c> is</c><00:04:43.259><c> part</c><00:04:43.500><c> of</c><00:04:43.620><c> this</c>
+
+00:04:43.850 --> 00:04:43.860 align:start position:0%
+so I'm assuming a size is part of this
+ 
+
+00:04:43.860 --> 00:04:45.830 align:start position:0%
+so I'm assuming a size is part of this
+size<00:04:44.220><c> enum</c><00:04:44.759><c> which</c><00:04:45.060><c> could</c><00:04:45.180><c> be</c><00:04:45.360><c> something</c><00:04:45.540><c> like</c>
+
+00:04:45.830 --> 00:04:45.840 align:start position:0%
+size enum which could be something like
+ 
+
+00:04:45.840 --> 00:04:48.530 align:start position:0%
+size enum which could be something like
+small<00:04:46.259><c> medium</c><00:04:46.919><c> or</c><00:04:47.160><c> big</c><00:04:47.400><c> it's</c><00:04:47.940><c> going</c><00:04:48.120><c> to</c><00:04:48.240><c> have</c><00:04:48.360><c> a</c>
+
+00:04:48.530 --> 00:04:48.540 align:start position:0%
+small medium or big it's going to have a
+ 
+
+00:04:48.540 --> 00:04:49.969 align:start position:0%
+small medium or big it's going to have a
+name<00:04:48.660><c> and</c><00:04:49.020><c> that</c><00:04:49.139><c> name</c><00:04:49.320><c> is</c><00:04:49.500><c> going</c><00:04:49.680><c> to</c><00:04:49.800><c> come</c><00:04:49.860><c> in</c>
+
+00:04:49.969 --> 00:04:49.979 align:start position:0%
+name and that name is going to come in
+ 
+
+00:04:49.979 --> 00:04:51.469 align:start position:0%
+name and that name is going to come in
+handy<00:04:50.280><c> if</c><00:04:50.520><c> we</c><00:04:50.639><c> ever</c><00:04:50.759><c> need</c><00:04:51.000><c> to</c><00:04:51.120><c> use</c><00:04:51.300><c> something</c>
+
+00:04:51.469 --> 00:04:51.479 align:start position:0%
+handy if we ever need to use something
+ 
+
+00:04:51.479 --> 00:04:53.870 align:start position:0%
+handy if we ever need to use something
+like<00:04:51.720><c> a</c><00:04:51.960><c> hash</c><00:04:52.199><c> map</c><00:04:52.380><c> from</c><00:04:52.800><c> parking</c><00:04:53.400><c> spot</c><00:04:53.580><c> names</c>
+
+00:04:53.870 --> 00:04:53.880 align:start position:0%
+like a hash map from parking spot names
+ 
+
+00:04:53.880 --> 00:04:57.050 align:start position:0%
+like a hash map from parking spot names
+to<00:04:54.120><c> parking</c><00:04:54.479><c> spots</c><00:04:54.780><c> and</c><00:04:55.560><c> then</c><00:04:55.620><c> also</c><00:04:55.979><c> finally</c><00:04:56.400><c> I</c>
+
+00:04:57.050 --> 00:04:57.060 align:start position:0%
+to parking spots and then also finally I
+ 
+
+00:04:57.060 --> 00:04:58.909 align:start position:0%
+to parking spots and then also finally I
+have<00:04:57.180><c> this</c><00:04:57.360><c> concept</c><00:04:57.840><c> of</c><00:04:58.080><c> a</c><00:04:58.259><c> list</c><00:04:58.440><c> of</c><00:04:58.740><c> distance</c>
+
+00:04:58.909 --> 00:04:58.919 align:start position:0%
+have this concept of a list of distance
+ 
+
+00:04:58.919 --> 00:05:01.490 align:start position:0%
+have this concept of a list of distance
+to<00:04:59.280><c> entrances</c><00:04:59.759><c> so</c><00:05:00.300><c> imagine</c><00:05:00.479><c> that</c><00:05:00.900><c> we</c><00:05:01.080><c> have</c><00:05:01.259><c> you</c>
+
+00:05:01.490 --> 00:05:01.500 align:start position:0%
+to entrances so imagine that we have you
+ 
+
+00:05:01.500 --> 00:05:03.830 align:start position:0%
+to entrances so imagine that we have you
+know<00:05:01.620><c> five</c><00:05:01.860><c> entrances</c><00:05:02.460><c> this</c><00:05:03.240><c> list</c><00:05:03.479><c> distance</c>
+
+00:05:03.830 --> 00:05:03.840 align:start position:0%
+know five entrances this list distance
+ 
+
+00:05:03.840 --> 00:05:05.510 align:start position:0%
+know five entrances this list distance
+to<00:05:04.020><c> entry</c><00:05:04.259><c> is</c><00:05:04.740><c> going</c><00:05:05.100><c> to</c><00:05:05.220><c> have</c><00:05:05.340><c> a</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+to entry is going to have a
+ 
+
+00:05:05.520 --> 00:05:07.790 align:start position:0%
+to entry is going to have a
+corresponding<00:05:06.060><c> distance</c><00:05:06.360><c> in</c><00:05:07.199><c> who</c><00:05:07.380><c> knows</c><00:05:07.620><c> say</c>
+
+00:05:07.790 --> 00:05:07.800 align:start position:0%
+corresponding distance in who knows say
+ 
+
+00:05:07.800 --> 00:05:10.310 align:start position:0%
+corresponding distance in who knows say
+meters<00:05:08.220><c> from</c><00:05:08.940><c> this</c><00:05:09.419><c> particular</c><00:05:09.720><c> parking</c><00:05:10.139><c> spot</c>
+
+00:05:10.310 --> 00:05:10.320 align:start position:0%
+meters from this particular parking spot
+ 
+
+00:05:10.320 --> 00:05:11.990 align:start position:0%
+meters from this particular parking spot
+to<00:05:10.620><c> every</c><00:05:10.860><c> single</c><00:05:11.100><c> one</c><00:05:11.340><c> of</c><00:05:11.639><c> those</c><00:05:11.820><c> five</c>
+
+00:05:11.990 --> 00:05:12.000 align:start position:0%
+to every single one of those five
+ 
+
+00:05:12.000 --> 00:05:13.790 align:start position:0%
+to every single one of those five
+entrances<00:05:12.540><c> so</c><00:05:12.960><c> you</c><00:05:13.139><c> know</c><00:05:13.259><c> distance</c><00:05:13.500><c> to</c>
+
+00:05:13.790 --> 00:05:13.800 align:start position:0%
+entrances so you know distance to
+ 
+
+00:05:13.800 --> 00:05:16.370 align:start position:0%
+entrances so you know distance to
+entrances<00:05:14.160><c> at</c><00:05:14.580><c> the</c><00:05:14.699><c> zeroth</c><00:05:15.120><c> index</c><00:05:15.479><c> would</c><00:05:16.199><c> be</c>
+
+00:05:16.370 --> 00:05:16.380 align:start position:0%
+entrances at the zeroth index would be
+ 
+
+00:05:16.380 --> 00:05:18.110 align:start position:0%
+entrances at the zeroth index would be
+basically<00:05:16.860><c> the</c><00:05:17.220><c> distance</c><00:05:17.340><c> to</c><00:05:17.699><c> that</c><00:05:17.940><c> first</c>
+
+00:05:18.110 --> 00:05:18.120 align:start position:0%
+basically the distance to that first
+ 
+
+00:05:18.120 --> 00:05:20.629 align:start position:0%
+basically the distance to that first
+entrance<00:05:18.660><c> of</c><00:05:18.960><c> the</c><00:05:19.080><c> parking</c><00:05:19.380><c> lot</c>
+
+00:05:20.629 --> 00:05:20.639 align:start position:0%
+entrance of the parking lot
+ 
+
+00:05:20.639 --> 00:05:22.670 align:start position:0%
+entrance of the parking lot
+okay<00:05:21.120><c> so</c><00:05:21.360><c> let's</c><00:05:21.540><c> think</c><00:05:21.720><c> about</c><00:05:21.900><c> some</c><00:05:22.320><c> possible</c>
+
+00:05:22.670 --> 00:05:22.680 align:start position:0%
+okay so let's think about some possible
+ 
+
+00:05:22.680 --> 00:05:24.409 align:start position:0%
+okay so let's think about some possible
+implementations<00:05:23.340><c> of</c><00:05:23.759><c> our</c><00:05:23.880><c> parking</c><00:05:24.240><c> garage</c>
+
+00:05:24.409 --> 00:05:24.419 align:start position:0%
+implementations of our parking garage
+ 
+
+00:05:24.419 --> 00:05:26.270 align:start position:0%
+implementations of our parking garage
+because<00:05:25.080><c> we've</c><00:05:25.500><c> said</c><00:05:25.680><c> that</c><00:05:25.860><c> this</c><00:05:26.039><c> is</c><00:05:26.160><c> an</c>
+
+00:05:26.270 --> 00:05:26.280 align:start position:0%
+because we've said that this is an
+ 
+
+00:05:26.280 --> 00:05:27.590 align:start position:0%
+because we've said that this is an
+interface<00:05:26.639><c> there's</c><00:05:27.000><c> definitely</c><00:05:27.360><c> many</c>
+
+00:05:27.590 --> 00:05:27.600 align:start position:0%
+interface there's definitely many
+ 
+
+00:05:27.600 --> 00:05:29.450 align:start position:0%
+interface there's definitely many
+different<00:05:27.840><c> ways</c><00:05:28.259><c> that</c><00:05:28.440><c> we</c><00:05:28.560><c> can</c><00:05:28.680><c> go</c><00:05:28.860><c> ahead</c><00:05:29.100><c> and</c>
+
+00:05:29.450 --> 00:05:29.460 align:start position:0%
+different ways that we can go ahead and
+ 
+
+00:05:29.460 --> 00:05:31.909 align:start position:0%
+different ways that we can go ahead and
+assign<00:05:29.820><c> spots</c><00:05:30.300><c> and</c><00:05:31.020><c> as</c><00:05:31.199><c> a</c><00:05:31.320><c> result</c><00:05:31.440><c> of</c><00:05:31.740><c> that</c>
+
+00:05:31.909 --> 00:05:31.919 align:start position:0%
+assign spots and as a result of that
+ 
+
+00:05:31.919 --> 00:05:34.430 align:start position:0%
+assign spots and as a result of that
+some<00:05:32.880><c> are</c><00:05:33.180><c> going</c><00:05:33.360><c> to</c><00:05:33.539><c> be</c><00:05:33.660><c> better</c><00:05:33.900><c> than</c><00:05:34.080><c> others</c>
+
+00:05:34.430 --> 00:05:34.440 align:start position:0%
+some are going to be better than others
+ 
+
+00:05:34.440 --> 00:05:36.290 align:start position:0%
+some are going to be better than others
+and<00:05:35.039><c> some</c><00:05:35.280><c> are</c><00:05:35.460><c> maybe</c><00:05:35.580><c> going</c><00:05:35.820><c> to</c><00:05:35.940><c> have</c><00:05:36.000><c> some</c>
+
+00:05:36.290 --> 00:05:36.300 align:start position:0%
+and some are maybe going to have some
+ 
+
+00:05:36.300 --> 00:05:38.330 align:start position:0%
+and some are maybe going to have some
+algorithmic<00:05:36.960><c> complexity</c><00:05:37.680><c> trade-offs</c><00:05:38.280><c> and</c>
+
+00:05:38.330 --> 00:05:38.340 align:start position:0%
+algorithmic complexity trade-offs and
+ 
+
+00:05:38.340 --> 00:05:39.590 align:start position:0%
+algorithmic complexity trade-offs and
+some<00:05:38.460><c> are</c><00:05:38.699><c> going</c><00:05:38.820><c> to</c><00:05:38.940><c> have</c><00:05:39.060><c> some</c><00:05:39.240><c> practical</c>
+
+00:05:39.590 --> 00:05:39.600 align:start position:0%
+some are going to have some practical
+ 
+
+00:05:39.600 --> 00:05:41.629 align:start position:0%
+some are going to have some practical
+trade-offs<00:05:40.199><c> so</c><00:05:40.680><c> let's</c><00:05:40.800><c> think</c><00:05:41.039><c> about</c><00:05:41.160><c> one</c><00:05:41.460><c> that</c>
+
+00:05:41.629 --> 00:05:41.639 align:start position:0%
+trade-offs so let's think about one that
+ 
+
+00:05:41.639 --> 00:05:42.950 align:start position:0%
+trade-offs so let's think about one that
+would<00:05:41.759><c> have</c><00:05:41.940><c> really</c><00:05:42.120><c> good</c><00:05:42.300><c> algorithmic</c>
+
+00:05:42.950 --> 00:05:42.960 align:start position:0%
+would have really good algorithmic
+ 
+
+00:05:42.960 --> 00:05:45.469 align:start position:0%
+would have really good algorithmic
+complexity<00:05:43.380><c> well</c><00:05:44.039><c> a</c><00:05:44.400><c> simple</c><00:05:44.520><c> naive</c><00:05:44.940><c> way</c><00:05:45.180><c> of</c>
+
+00:05:45.469 --> 00:05:45.479 align:start position:0%
+complexity well a simple naive way of
+ 
+
+00:05:45.479 --> 00:05:47.390 align:start position:0%
+complexity well a simple naive way of
+assigning<00:05:45.900><c> spots</c><00:05:46.259><c> would</c><00:05:46.680><c> basically</c><00:05:46.979><c> just</c><00:05:47.160><c> to</c>
+
+00:05:47.390 --> 00:05:47.400 align:start position:0%
+assigning spots would basically just to
+ 
+
+00:05:47.400 --> 00:05:49.730 align:start position:0%
+assigning spots would basically just to
+maintain<00:05:47.759><c> cues</c><00:05:48.300><c> for</c><00:05:48.780><c> every</c><00:05:49.020><c> single</c><00:05:49.259><c> type</c><00:05:49.500><c> of</c>
+
+00:05:49.730 --> 00:05:49.740 align:start position:0%
+maintain cues for every single type of
+ 
+
+00:05:49.740 --> 00:05:51.230 align:start position:0%
+maintain cues for every single type of
+spot<00:05:49.860><c> right</c><00:05:50.160><c> so</c><00:05:50.340><c> we</c><00:05:50.460><c> would</c><00:05:50.580><c> have</c><00:05:50.699><c> a</c><00:05:50.820><c> queue</c><00:05:51.060><c> for</c>
+
+00:05:51.230 --> 00:05:51.240 align:start position:0%
+spot right so we would have a queue for
+ 
+
+00:05:51.240 --> 00:05:53.450 align:start position:0%
+spot right so we would have a queue for
+the<00:05:51.479><c> small</c><00:05:51.660><c> spots</c><00:05:52.080><c> a</c><00:05:52.560><c> cue</c><00:05:52.860><c> for</c><00:05:53.039><c> the</c><00:05:53.220><c> medium</c>
+
+00:05:53.450 --> 00:05:53.460 align:start position:0%
+the small spots a cue for the medium
+ 
+
+00:05:53.460 --> 00:05:56.390 align:start position:0%
+the small spots a cue for the medium
+spots<00:05:53.940><c> and</c><00:05:54.240><c> a</c><00:05:54.479><c> q</c><00:05:54.660><c> for</c><00:05:55.080><c> the</c><00:05:55.259><c> large</c><00:05:55.380><c> spots</c><00:05:55.860><c> and</c>
+
+00:05:56.390 --> 00:05:56.400 align:start position:0%
+spots and a q for the large spots and
+ 
+
+00:05:56.400 --> 00:05:58.070 align:start position:0%
+spots and a q for the large spots and
+basically<00:05:56.699><c> as</c><00:05:56.940><c> cars</c><00:05:57.360><c> come</c><00:05:57.539><c> in</c><00:05:57.660><c> and</c><00:05:57.780><c> request</c>
+
+00:05:58.070 --> 00:05:58.080 align:start position:0%
+basically as cars come in and request
+ 
+
+00:05:58.080 --> 00:06:00.110 align:start position:0%
+basically as cars come in and request
+spots<00:05:58.500><c> we</c><00:05:58.919><c> just</c><00:05:59.039><c> go</c><00:05:59.220><c> ahead</c><00:05:59.400><c> and</c><00:05:59.520><c> assign</c><00:05:59.940><c> the</c>
+
+00:06:00.110 --> 00:06:00.120 align:start position:0%
+spots we just go ahead and assign the
+ 
+
+00:06:00.120 --> 00:06:02.270 align:start position:0%
+spots we just go ahead and assign the
+first<00:06:00.300><c> element</c><00:06:00.539><c> of</c><00:06:00.960><c> that</c><00:06:01.139><c> queue</c><00:06:01.500><c> to</c><00:06:01.680><c> them</c><00:06:01.860><c> and</c>
+
+00:06:02.270 --> 00:06:02.280 align:start position:0%
+first element of that queue to them and
+ 
+
+00:06:02.280 --> 00:06:04.189 align:start position:0%
+first element of that queue to them and
+then<00:06:02.400><c> remove</c><00:06:02.580><c> it</c><00:06:02.880><c> from</c><00:06:03.000><c> the</c><00:06:03.180><c> queue</c><00:06:03.479><c> this</c><00:06:04.080><c> is</c>
+
+00:06:04.189 --> 00:06:04.199 align:start position:0%
+then remove it from the queue this is
+ 
+
+00:06:04.199 --> 00:06:05.689 align:start position:0%
+then remove it from the queue this is
+really<00:06:04.440><c> nice</c><00:06:04.620><c> because</c><00:06:04.860><c> this</c><00:06:05.100><c> implementation</c>
+
+00:06:05.689 --> 00:06:05.699 align:start position:0%
+really nice because this implementation
+ 
+
+00:06:05.699 --> 00:06:07.969 align:start position:0%
+really nice because this implementation
+is<00:06:06.060><c> in</c><00:06:06.180><c> O</c><00:06:06.419><c> of</c><00:06:06.600><c> one</c><00:06:06.720><c> time</c><00:06:06.960><c> we</c><00:06:07.380><c> don't</c><00:06:07.560><c> have</c><00:06:07.740><c> to</c><00:06:07.860><c> do</c>
+
+00:06:07.969 --> 00:06:07.979 align:start position:0%
+is in O of one time we don't have to do
+ 
+
+00:06:07.979 --> 00:06:10.010 align:start position:0%
+is in O of one time we don't have to do
+any<00:06:08.220><c> thinking</c><00:06:08.580><c> about</c><00:06:08.759><c> what</c><00:06:09.120><c> the</c><00:06:09.300><c> best</c><00:06:09.479><c> spot</c><00:06:09.720><c> to</c>
+
+00:06:10.010 --> 00:06:10.020 align:start position:0%
+any thinking about what the best spot to
+ 
+
+00:06:10.020 --> 00:06:12.110 align:start position:0%
+any thinking about what the best spot to
+assign<00:06:10.320><c> someone</c><00:06:10.560><c> is</c><00:06:10.800><c> but</c><00:06:11.280><c> rather</c><00:06:11.520><c> we</c><00:06:11.759><c> just</c><00:06:11.940><c> go</c>
+
+00:06:12.110 --> 00:06:12.120 align:start position:0%
+assign someone is but rather we just go
+ 
+
+00:06:12.120 --> 00:06:13.850 align:start position:0%
+assign someone is but rather we just go
+ahead<00:06:12.300><c> and</c><00:06:12.600><c> give</c><00:06:12.780><c> them</c><00:06:12.960><c> one</c><00:06:13.259><c> basically</c>
+
+00:06:13.850 --> 00:06:13.860 align:start position:0%
+ahead and give them one basically
+ 
+
+00:06:13.860 --> 00:06:16.249 align:start position:0%
+ahead and give them one basically
+randomly<00:06:14.340><c> using</c><00:06:14.820><c> something</c><00:06:15.000><c> like</c><00:06:15.300><c> a</c><00:06:15.780><c> queue</c>
+
+00:06:16.249 --> 00:06:16.259 align:start position:0%
+randomly using something like a queue
+ 
+
+00:06:16.259 --> 00:06:18.290 align:start position:0%
+randomly using something like a queue
+which<00:06:16.680><c> is</c><00:06:16.860><c> effectively</c><00:06:17.340><c> just</c><00:06:17.820><c> saying</c><00:06:18.120><c> like</c>
+
+00:06:18.290 --> 00:06:18.300 align:start position:0%
+which is effectively just saying like
+ 
+
+00:06:18.300 --> 00:06:19.969 align:start position:0%
+which is effectively just saying like
+what<00:06:18.600><c> is</c><00:06:18.720><c> the</c><00:06:18.960><c> least</c><00:06:19.020><c> recently</c><00:06:19.500><c> used</c><00:06:19.680><c> spot</c>
+
+00:06:19.969 --> 00:06:19.979 align:start position:0%
+what is the least recently used spot
+ 
+
+00:06:19.979 --> 00:06:22.430 align:start position:0%
+what is the least recently used spot
+let's<00:06:20.220><c> go</c><00:06:20.340><c> ahead</c><00:06:20.580><c> and</c><00:06:21.000><c> give</c><00:06:21.240><c> you</c><00:06:21.360><c> that</c><00:06:21.600><c> so</c><00:06:22.259><c> that</c>
+
+00:06:22.430 --> 00:06:22.440 align:start position:0%
+let's go ahead and give you that so that
+ 
+
+00:06:22.440 --> 00:06:24.409 align:start position:0%
+let's go ahead and give you that so that
+works<00:06:22.740><c> well</c><00:06:22.860><c> and</c><00:06:23.699><c> it'll</c><00:06:24.000><c> definitely</c><00:06:24.240><c> give</c>
+
+00:06:24.409 --> 00:06:24.419 align:start position:0%
+works well and it'll definitely give
+ 
+
+00:06:24.419 --> 00:06:26.510 align:start position:0%
+works well and it'll definitely give
+everyone<00:06:24.660><c> a</c><00:06:24.900><c> spot</c><00:06:25.139><c> but</c><00:06:25.680><c> practically</c><00:06:26.039><c> speaking</c>
+
+00:06:26.510 --> 00:06:26.520 align:start position:0%
+everyone a spot but practically speaking
+ 
+
+00:06:26.520 --> 00:06:28.249 align:start position:0%
+everyone a spot but practically speaking
+that's<00:06:26.880><c> not</c><00:06:27.120><c> that</c><00:06:27.360><c> great</c><00:06:27.539><c> the</c><00:06:27.900><c> reasoning</c>
+
+00:06:28.249 --> 00:06:28.259 align:start position:0%
+that's not that great the reasoning
+ 
+
+00:06:28.259 --> 00:06:30.110 align:start position:0%
+that's not that great the reasoning
+being<00:06:28.440><c> that</c><00:06:28.860><c> these</c><00:06:29.400><c> spots</c><00:06:29.699><c> are</c><00:06:29.819><c> basically</c>
+
+00:06:30.110 --> 00:06:30.120 align:start position:0%
+being that these spots are basically
+ 
+
+00:06:30.120 --> 00:06:31.790 align:start position:0%
+being that these spots are basically
+going<00:06:30.300><c> to</c><00:06:30.479><c> be</c><00:06:30.600><c> put</c><00:06:30.780><c> in</c><00:06:30.960><c> the</c><00:06:31.080><c> queue</c><00:06:31.380><c> randomly</c>
+
+00:06:31.790 --> 00:06:31.800 align:start position:0%
+going to be put in the queue randomly
+ 
+
+00:06:31.800 --> 00:06:34.189 align:start position:0%
+going to be put in the queue randomly
+and<00:06:32.520><c> what</c><00:06:32.880><c> if</c><00:06:33.060><c> I'm</c><00:06:33.300><c> entering</c><00:06:33.660><c> through</c><00:06:33.900><c> a</c>
+
+00:06:34.189 --> 00:06:34.199 align:start position:0%
+and what if I'm entering through a
+ 
+
+00:06:34.199 --> 00:06:36.290 align:start position:0%
+and what if I'm entering through a
+parking<00:06:34.500><c> lot</c><00:06:34.680><c> entrance</c><00:06:35.220><c> that</c><00:06:35.880><c> is</c><00:06:36.060><c> really</c>
+
+00:06:36.290 --> 00:06:36.300 align:start position:0%
+parking lot entrance that is really
+ 
+
+00:06:36.300 --> 00:06:38.210 align:start position:0%
+parking lot entrance that is really
+close<00:06:36.539><c> to</c><00:06:36.780><c> a</c><00:06:36.960><c> few</c><00:06:37.080><c> spots</c><00:06:37.440><c> wouldn't</c><00:06:37.919><c> it</c><00:06:38.100><c> be</c>
+
+00:06:38.210 --> 00:06:38.220 align:start position:0%
+close to a few spots wouldn't it be
+ 
+
+00:06:38.220 --> 00:06:40.370 align:start position:0%
+close to a few spots wouldn't it be
+better<00:06:38.400><c> if</c><00:06:38.699><c> I</c><00:06:38.880><c> assigned</c><00:06:39.300><c> a</c><00:06:39.360><c> user</c><00:06:39.660><c> a</c><00:06:39.900><c> spot</c><00:06:40.080><c> that</c>
+
+00:06:40.370 --> 00:06:40.380 align:start position:0%
+better if I assigned a user a spot that
+ 
+
+00:06:40.380 --> 00:06:42.890 align:start position:0%
+better if I assigned a user a spot that
+was<00:06:40.500><c> actually</c><00:06:40.680><c> closer</c><00:06:41.280><c> to</c><00:06:41.520><c> that</c><00:06:41.699><c> entrance</c><00:06:42.120><c> and</c>
+
+00:06:42.890 --> 00:06:42.900 align:start position:0%
+was actually closer to that entrance and
+ 
+
+00:06:42.900 --> 00:06:44.390 align:start position:0%
+was actually closer to that entrance and
+if<00:06:43.139><c> this</c><00:06:43.319><c> is</c><00:06:43.440><c> kind</c><00:06:43.620><c> of</c><00:06:43.740><c> the</c><00:06:43.860><c> case</c><00:06:44.039><c> that</c><00:06:44.280><c> you</c>
+
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+if this is kind of the case that you
+ 
+
+00:06:44.400 --> 00:06:46.850 align:start position:0%
+if this is kind of the case that you
+want<00:06:44.580><c> what</c><00:06:45.060><c> we</c><00:06:45.300><c> can</c><00:06:45.360><c> instead</c><00:06:45.780><c> do</c><00:06:45.960><c> is</c><00:06:46.319><c> use</c><00:06:46.560><c> a</c>
+
+00:06:46.850 --> 00:06:46.860 align:start position:0%
+want what we can instead do is use a
+ 
+
+00:06:46.860 --> 00:06:49.490 align:start position:0%
+want what we can instead do is use a
+priority<00:06:47.160><c> queue</c><00:06:47.580><c> data</c><00:06:48.000><c> structure</c><00:06:48.720><c> so</c><00:06:49.259><c> this</c><00:06:49.380><c> is</c>
+
+00:06:49.490 --> 00:06:49.500 align:start position:0%
+priority queue data structure so this is
+ 
+
+00:06:49.500 --> 00:06:51.590 align:start position:0%
+priority queue data structure so this is
+really<00:06:49.740><c> useful</c><00:06:50.039><c> in</c><00:06:50.340><c> the</c><00:06:50.460><c> sense</c><00:06:50.580><c> that</c><00:06:50.940><c> using</c><00:06:51.479><c> a</c>
+
+00:06:51.590 --> 00:06:51.600 align:start position:0%
+really useful in the sense that using a
+ 
+
+00:06:51.600 --> 00:06:53.629 align:start position:0%
+really useful in the sense that using a
+priority<00:06:51.960><c> queue</c><00:06:52.380><c> or</c><00:06:52.560><c> basically</c><00:06:52.860><c> A</c><00:06:53.039><c> Min</c><00:06:53.220><c> Heap</c>
+
+00:06:53.629 --> 00:06:53.639 align:start position:0%
+priority queue or basically A Min Heap
+ 
+
+00:06:53.639 --> 00:06:55.670 align:start position:0%
+priority queue or basically A Min Heap
+under<00:06:53.819><c> the</c><00:06:54.000><c> hood</c><00:06:54.120><c> is</c><00:06:54.660><c> going</c><00:06:54.840><c> to</c><00:06:54.960><c> allow</c><00:06:55.319><c> us</c><00:06:55.380><c> to</c>
+
+00:06:55.670 --> 00:06:55.680 align:start position:0%
+under the hood is going to allow us to
+ 
+
+00:06:55.680 --> 00:06:57.650 align:start position:0%
+under the hood is going to allow us to
+quickly<00:06:55.979><c> find</c><00:06:56.220><c> The</c><00:06:56.639><c> Parking</c><00:06:56.940><c> Spot</c><00:06:57.120><c> object</c>
+
+00:06:57.650 --> 00:06:57.660 align:start position:0%
+quickly find The Parking Spot object
+ 
+
+00:06:57.660 --> 00:06:59.749 align:start position:0%
+quickly find The Parking Spot object
+that<00:06:58.199><c> has</c><00:06:58.380><c> the</c><00:06:58.680><c> least</c><00:06:58.800><c> distance</c><00:06:59.100><c> to</c><00:06:59.520><c> that</c>
+
+00:06:59.749 --> 00:06:59.759 align:start position:0%
+that has the least distance to that
+ 
+
+00:06:59.759 --> 00:07:01.969 align:start position:0%
+that has the least distance to that
+entrance<00:07:00.120><c> now</c><00:07:00.780><c> the</c><00:07:00.960><c> issue</c><00:07:01.259><c> here</c><00:07:01.440><c> is</c><00:07:01.680><c> that</c><00:07:01.800><c> I've</c>
+
+00:07:01.969 --> 00:07:01.979 align:start position:0%
+entrance now the issue here is that I've
+ 
+
+00:07:01.979 --> 00:07:03.529 align:start position:0%
+entrance now the issue here is that I've
+mentioned<00:07:02.400><c> that</c><00:07:02.699><c> there</c><00:07:03.000><c> are</c><00:07:03.180><c> multiple</c>
+
+00:07:03.529 --> 00:07:03.539 align:start position:0%
+mentioned that there are multiple
+ 
+
+00:07:03.539 --> 00:07:05.450 align:start position:0%
+mentioned that there are multiple
+possible<00:07:03.960><c> entrances</c><00:07:04.500><c> in</c><00:07:04.860><c> our</c><00:07:04.979><c> parking</c><00:07:05.340><c> garage</c>
+
+00:07:05.450 --> 00:07:05.460 align:start position:0%
+possible entrances in our parking garage
+ 
+
+00:07:05.460 --> 00:07:07.790 align:start position:0%
+possible entrances in our parking garage
+and<00:07:06.180><c> you</c><00:07:06.419><c> know</c><00:07:06.479><c> each</c><00:07:06.780><c> entrance</c><00:07:07.199><c> is</c><00:07:07.440><c> also</c><00:07:07.680><c> going</c>
+
+00:07:07.790 --> 00:07:07.800 align:start position:0%
+and you know each entrance is also going
+ 
+
+00:07:07.800 --> 00:07:09.290 align:start position:0%
+and you know each entrance is also going
+to<00:07:07.919><c> have</c><00:07:08.039><c> a</c><00:07:08.220><c> corresponding</c><00:07:08.639><c> exit</c><00:07:09.000><c> but</c><00:07:09.120><c> let's</c>
+
+00:07:09.290 --> 00:07:09.300 align:start position:0%
+to have a corresponding exit but let's
+ 
+
+00:07:09.300 --> 00:07:11.210 align:start position:0%
+to have a corresponding exit but let's
+not<00:07:09.479><c> worry</c><00:07:09.600><c> about</c><00:07:09.780><c> that</c><00:07:09.960><c> for</c><00:07:10.139><c> the</c><00:07:10.259><c> moment</c><00:07:10.440><c> and</c>
+
+00:07:11.210 --> 00:07:11.220 align:start position:0%
+not worry about that for the moment and
+ 
+
+00:07:11.220 --> 00:07:12.590 align:start position:0%
+not worry about that for the moment and
+as<00:07:11.460><c> a</c><00:07:11.580><c> result</c><00:07:11.699><c> we're</c><00:07:12.060><c> going</c><00:07:12.180><c> to</c><00:07:12.360><c> have</c><00:07:12.419><c> to</c>
+
+00:07:12.590 --> 00:07:12.600 align:start position:0%
+as a result we're going to have to
+ 
+
+00:07:12.600 --> 00:07:15.110 align:start position:0%
+as a result we're going to have to
+maintain<00:07:12.960><c> many</c><00:07:13.319><c> different</c><00:07:13.560><c> cues</c><00:07:14.039><c> or</c><00:07:14.759><c> many</c>
+
+00:07:15.110 --> 00:07:15.120 align:start position:0%
+maintain many different cues or many
+ 
+
+00:07:15.120 --> 00:07:17.090 align:start position:0%
+maintain many different cues or many
+different<00:07:15.300><c> priority</c><00:07:15.720><c> cues</c><00:07:16.139><c> rather</c><00:07:16.440><c> showing</c>
+
+00:07:17.090 --> 00:07:17.100 align:start position:0%
+different priority cues rather showing
+ 
+
+00:07:17.100 --> 00:07:18.590 align:start position:0%
+different priority cues rather showing
+the<00:07:17.340><c> distances</c><00:07:17.699><c> to</c><00:07:18.000><c> each</c><00:07:18.180><c> one</c><00:07:18.360><c> of</c><00:07:18.479><c> those</c>
+
+00:07:18.590 --> 00:07:18.600 align:start position:0%
+the distances to each one of those
+ 
+
+00:07:18.600 --> 00:07:20.930 align:start position:0%
+the distances to each one of those
+entrances<00:07:19.139><c> and</c><00:07:19.860><c> so</c><00:07:19.979><c> every</c><00:07:20.220><c> single</c><00:07:20.520><c> time</c><00:07:20.639><c> that</c>
+
+00:07:20.930 --> 00:07:20.940 align:start position:0%
+entrances and so every single time that
+ 
+
+00:07:20.940 --> 00:07:22.790 align:start position:0%
+entrances and so every single time that
+a<00:07:21.060><c> car</c><00:07:21.240><c> is</c><00:07:21.479><c> entering</c><00:07:21.840><c> from</c><00:07:22.020><c> a</c><00:07:22.199><c> given</c><00:07:22.440><c> entrance</c>
+
+00:07:22.790 --> 00:07:22.800 align:start position:0%
+a car is entering from a given entrance
+ 
+
+00:07:22.800 --> 00:07:24.890 align:start position:0%
+a car is entering from a given entrance
+we<00:07:23.340><c> have</c><00:07:23.460><c> to</c><00:07:23.580><c> pull</c><00:07:23.759><c> up</c><00:07:23.940><c> the</c><00:07:24.180><c> correct</c><00:07:24.419><c> priority</c>
+
+00:07:24.890 --> 00:07:24.900 align:start position:0%
+we have to pull up the correct priority
+ 
+
+00:07:24.900 --> 00:07:27.409 align:start position:0%
+we have to pull up the correct priority
+queue<00:07:25.319><c> both</c><00:07:25.800><c> for</c><00:07:26.099><c> the</c><00:07:26.400><c> corresponding</c><00:07:26.880><c> size</c><00:07:27.180><c> of</c>
+
+00:07:27.409 --> 00:07:27.419 align:start position:0%
+queue both for the corresponding size of
+ 
+
+00:07:27.419 --> 00:07:29.270 align:start position:0%
+queue both for the corresponding size of
+the<00:07:27.599><c> car</c><00:07:27.720><c> and</c><00:07:28.319><c> also</c><00:07:28.500><c> the</c><00:07:28.740><c> corresponding</c>
+
+00:07:29.270 --> 00:07:29.280 align:start position:0%
+the car and also the corresponding
+ 
+
+00:07:29.280 --> 00:07:31.490 align:start position:0%
+the car and also the corresponding
+entrance<00:07:29.699><c> and</c><00:07:30.300><c> once</c><00:07:30.539><c> we</c><00:07:30.660><c> go</c><00:07:30.840><c> ahead</c><00:07:31.020><c> and</c><00:07:31.319><c> figure</c>
+
+00:07:31.490 --> 00:07:31.500 align:start position:0%
+entrance and once we go ahead and figure
+ 
+
+00:07:31.500 --> 00:07:33.409 align:start position:0%
+entrance and once we go ahead and figure
+out<00:07:31.740><c> which</c><00:07:31.979><c> spot</c><00:07:32.220><c> is</c><00:07:32.520><c> being</c><00:07:32.699><c> assigned</c><00:07:33.120><c> to</c><00:07:33.240><c> that</c>
+
+00:07:33.409 --> 00:07:33.419 align:start position:0%
+out which spot is being assigned to that
+ 
+
+00:07:33.419 --> 00:07:35.570 align:start position:0%
+out which spot is being assigned to that
+car<00:07:33.599><c> we</c><00:07:34.199><c> then</c><00:07:34.319><c> have</c><00:07:34.500><c> to</c><00:07:34.620><c> remove</c><00:07:34.800><c> that</c><00:07:35.220><c> parking</c>
+
+00:07:35.570 --> 00:07:35.580 align:start position:0%
+car we then have to remove that parking
+ 
+
+00:07:35.580 --> 00:07:37.909 align:start position:0%
+car we then have to remove that parking
+spot<00:07:35.759><c> not</c><00:07:36.419><c> only</c><00:07:36.599><c> from</c><00:07:36.960><c> the</c><00:07:37.259><c> priority</c><00:07:37.560><c> queue</c>
+
+00:07:37.909 --> 00:07:37.919 align:start position:0%
+spot not only from the priority queue
+ 
+
+00:07:37.919 --> 00:07:39.589 align:start position:0%
+spot not only from the priority queue
+for<00:07:38.039><c> that</c><00:07:38.160><c> entrance</c><00:07:38.520><c> but</c><00:07:39.000><c> also</c><00:07:39.240><c> from</c><00:07:39.479><c> the</c>
+
+00:07:39.589 --> 00:07:39.599 align:start position:0%
+for that entrance but also from the
+ 
+
+00:07:39.599 --> 00:07:41.270 align:start position:0%
+for that entrance but also from the
+priority<00:07:39.960><c> queue</c><00:07:40.380><c> for</c><00:07:40.620><c> all</c><00:07:40.860><c> of</c><00:07:40.979><c> the</c><00:07:41.160><c> other</c>
+
+00:07:41.270 --> 00:07:41.280 align:start position:0%
+priority queue for all of the other
+ 
+
+00:07:41.280 --> 00:07:43.790 align:start position:0%
+priority queue for all of the other
+entrances<00:07:41.880><c> and</c><00:07:42.479><c> for</c><00:07:42.660><c> us</c><00:07:42.780><c> to</c><00:07:42.960><c> do</c><00:07:43.080><c> that</c><00:07:43.259><c> in</c><00:07:43.620><c> a</c>
+
+00:07:43.790 --> 00:07:43.800 align:start position:0%
+entrances and for us to do that in a
+ 
+
+00:07:43.800 --> 00:07:45.589 align:start position:0%
+entrances and for us to do that in a
+relatively<00:07:44.160><c> efficient</c><00:07:44.639><c> way</c><00:07:44.880><c> we</c><00:07:45.360><c> have</c><00:07:45.479><c> to</c>
+
+00:07:45.589 --> 00:07:45.599 align:start position:0%
+relatively efficient way we have to
+ 
+
+00:07:45.599 --> 00:07:47.930 align:start position:0%
+relatively efficient way we have to
+maintain<00:07:45.960><c> a</c><00:07:46.259><c> hash</c><00:07:46.440><c> map</c><00:07:46.620><c> from</c><00:07:47.220><c> a</c><00:07:47.460><c> parking</c><00:07:47.759><c> spot</c>
+
+00:07:47.930 --> 00:07:47.940 align:start position:0%
+maintain a hash map from a parking spot
+ 
+
+00:07:47.940 --> 00:07:50.809 align:start position:0%
+maintain a hash map from a parking spot
+name<00:07:48.300><c> to</c><00:07:48.660><c> basically</c><00:07:49.380><c> its</c><00:07:49.919><c> location</c><00:07:49.979><c> in</c><00:07:50.580><c> all</c><00:07:50.759><c> of</c>
+
+00:07:50.809 --> 00:07:50.819 align:start position:0%
+name to basically its location in all of
+ 
+
+00:07:50.819 --> 00:07:52.490 align:start position:0%
+name to basically its location in all of
+those<00:07:51.000><c> priority</c><00:07:51.419><c> queues</c><00:07:51.840><c> so</c><00:07:52.080><c> that</c><00:07:52.259><c> we</c><00:07:52.380><c> can</c>
+
+00:07:52.490 --> 00:07:52.500 align:start position:0%
+those priority queues so that we can
+ 
+
+00:07:52.500 --> 00:07:54.350 align:start position:0%
+those priority queues so that we can
+relatively<00:07:52.979><c> quickly</c><00:07:53.340><c> remove</c><00:07:53.580><c> that</c><00:07:53.940><c> node</c><00:07:54.120><c> from</c>
+
+00:07:54.350 --> 00:07:54.360 align:start position:0%
+relatively quickly remove that node from
+ 
+
+00:07:54.360 --> 00:07:55.370 align:start position:0%
+relatively quickly remove that node from
+all<00:07:54.539><c> of</c><00:07:54.660><c> them</c>
+
+00:07:55.370 --> 00:07:55.380 align:start position:0%
+all of them
+ 
+
+00:07:55.380 --> 00:07:57.469 align:start position:0%
+all of them
+another<00:07:55.919><c> possibility</c><00:07:56.460><c> that</c><00:07:56.819><c> I</c><00:07:56.940><c> cover</c><00:07:57.060><c> on</c><00:07:57.360><c> this</c>
+
+00:07:57.469 --> 00:07:57.479 align:start position:0%
+another possibility that I cover on this
+ 
+
+00:07:57.479 --> 00:07:58.969 align:start position:0%
+another possibility that I cover on this
+slide<00:07:57.720><c> though</c><00:07:57.900><c> I</c><00:07:58.080><c> won't</c><00:07:58.199><c> touch</c><00:07:58.380><c> upon</c><00:07:58.680><c> it</c><00:07:58.800><c> too</c>
+
+00:07:58.969 --> 00:07:58.979 align:start position:0%
+slide though I won't touch upon it too
+ 
+
+00:07:58.979 --> 00:08:00.770 align:start position:0%
+slide though I won't touch upon it too
+much<00:07:59.160><c> is</c><00:07:59.639><c> that</c><00:07:59.819><c> we</c><00:08:00.000><c> can</c><00:08:00.120><c> actually</c><00:08:00.360><c> kind</c><00:08:00.660><c> of</c>
+
+00:08:00.770 --> 00:08:00.780 align:start position:0%
+much is that we can actually kind of
+ 
+
+00:08:00.780 --> 00:08:02.870 align:start position:0%
+much is that we can actually kind of
+Shard<00:08:01.020><c> up</c><00:08:01.259><c> our</c><00:08:01.500><c> parking</c><00:08:01.860><c> lot</c><00:08:01.979><c> so</c><00:08:02.460><c> if</c><00:08:02.580><c> we</c><00:08:02.759><c> have</c>
+
+00:08:02.870 --> 00:08:02.880 align:start position:0%
+Shard up our parking lot so if we have
+ 
+
+00:08:02.880 --> 00:08:04.550 align:start position:0%
+Shard up our parking lot so if we have
+many<00:08:03.180><c> entrances</c><00:08:03.720><c> throughout</c><00:08:04.139><c> the</c><00:08:04.259><c> parking</c>
+
+00:08:04.550 --> 00:08:04.560 align:start position:0%
+many entrances throughout the parking
+ 
+
+00:08:04.560 --> 00:08:06.290 align:start position:0%
+many entrances throughout the parking
+lot<00:08:04.740><c> and</c><00:08:05.220><c> they're</c><00:08:05.340><c> all</c><00:08:05.580><c> in</c><00:08:05.759><c> different</c><00:08:05.940><c> zones</c>
+
+00:08:06.290 --> 00:08:06.300 align:start position:0%
+lot and they're all in different zones
+ 
+
+00:08:06.300 --> 00:08:08.450 align:start position:0%
+lot and they're all in different zones
+per<00:08:06.599><c> se</c><00:08:06.780><c> we</c><00:08:07.380><c> could</c><00:08:07.560><c> basically</c><00:08:07.860><c> make</c><00:08:08.099><c> it</c><00:08:08.220><c> so</c>
+
+00:08:08.450 --> 00:08:08.460 align:start position:0%
+per se we could basically make it so
+ 
+
+00:08:08.460 --> 00:08:10.790 align:start position:0%
+per se we could basically make it so
+that<00:08:08.699><c> only</c><00:08:09.000><c> a</c><00:08:09.479><c> single</c><00:08:09.900><c> entrance</c><00:08:10.199><c> is</c><00:08:10.500><c> allowed</c>
+
+00:08:10.790 --> 00:08:10.800 align:start position:0%
+that only a single entrance is allowed
+ 
+
+00:08:10.800 --> 00:08:13.129 align:start position:0%
+that only a single entrance is allowed
+to<00:08:11.039><c> assign</c><00:08:11.460><c> spots</c><00:08:11.819><c> from</c><00:08:12.000><c> a</c><00:08:12.120><c> single</c><00:08:12.360><c> zone</c><00:08:12.599><c> so</c>
+
+00:08:13.129 --> 00:08:13.139 align:start position:0%
+to assign spots from a single zone so
+ 
+
+00:08:13.139 --> 00:08:14.689 align:start position:0%
+to assign spots from a single zone so
+let's<00:08:13.319><c> say</c><00:08:13.440><c> I</c><00:08:13.680><c> have</c><00:08:13.860><c> this</c><00:08:14.099><c> massive</c><00:08:14.400><c> parking</c>
+
+00:08:14.689 --> 00:08:14.699 align:start position:0%
+let's say I have this massive parking
+ 
+
+00:08:14.699 --> 00:08:16.550 align:start position:0%
+let's say I have this massive parking
+lot<00:08:14.819><c> it's</c><00:08:15.060><c> a</c><00:08:15.240><c> big</c><00:08:15.300><c> rectangle</c><00:08:15.840><c> and</c><00:08:16.080><c> I</c><00:08:16.259><c> have</c><00:08:16.380><c> an</c>
+
+00:08:16.550 --> 00:08:16.560 align:start position:0%
+lot it's a big rectangle and I have an
+ 
+
+00:08:16.560 --> 00:08:17.870 align:start position:0%
+lot it's a big rectangle and I have an
+entrance<00:08:16.860><c> on</c><00:08:17.099><c> the</c><00:08:17.220><c> left</c><00:08:17.280><c> side</c><00:08:17.460><c> and</c><00:08:17.699><c> an</c>
+
+00:08:17.870 --> 00:08:17.880 align:start position:0%
+entrance on the left side and an
+ 
+
+00:08:17.880 --> 00:08:19.850 align:start position:0%
+entrance on the left side and an
+entrance<00:08:18.180><c> on</c><00:08:18.360><c> the</c><00:08:18.479><c> right</c><00:08:18.599><c> side</c><00:08:18.780><c> I</c><00:08:19.440><c> could</c><00:08:19.560><c> split</c>
+
+00:08:19.850 --> 00:08:19.860 align:start position:0%
+entrance on the right side I could split
+ 
+
+00:08:19.860 --> 00:08:21.469 align:start position:0%
+entrance on the right side I could split
+my<00:08:20.039><c> parking</c><00:08:20.340><c> lot</c><00:08:20.460><c> down</c><00:08:20.759><c> in</c><00:08:20.940><c> the</c><00:08:21.060><c> middle</c><00:08:21.120><c> and</c>
+
+00:08:21.469 --> 00:08:21.479 align:start position:0%
+my parking lot down in the middle and
+ 
+
+00:08:21.479 --> 00:08:23.270 align:start position:0%
+my parking lot down in the middle and
+only<00:08:21.660><c> assign</c><00:08:22.020><c> spots</c><00:08:22.440><c> from</c><00:08:22.560><c> the</c><00:08:22.740><c> left</c><00:08:22.860><c> side</c><00:08:22.979><c> to</c>
+
+00:08:23.270 --> 00:08:23.280 align:start position:0%
+only assign spots from the left side to
+ 
+
+00:08:23.280 --> 00:08:24.830 align:start position:0%
+only assign spots from the left side to
+one<00:08:23.460><c> entrance</c><00:08:23.819><c> and</c><00:08:24.060><c> spots</c><00:08:24.419><c> from</c><00:08:24.539><c> the</c><00:08:24.660><c> right</c>
+
+00:08:24.830 --> 00:08:24.840 align:start position:0%
+one entrance and spots from the right
+ 
+
+00:08:24.840 --> 00:08:26.570 align:start position:0%
+one entrance and spots from the right
+side<00:08:24.960><c> from</c><00:08:25.199><c> the</c><00:08:25.379><c> other</c><00:08:25.500><c> entrance</c><00:08:25.919><c> and</c><00:08:26.400><c> they</c>
+
+00:08:26.570 --> 00:08:26.580 align:start position:0%
+side from the other entrance and they
+ 
+
+00:08:26.580 --> 00:08:29.390 align:start position:0%
+side from the other entrance and they
+won't<00:08:26.759><c> basically</c><00:08:27.180><c> go</c><00:08:27.479><c> ahead</c><00:08:27.720><c> and</c><00:08:28.379><c> you</c><00:08:29.340><c> know</c>
+
+00:08:29.390 --> 00:08:29.400 align:start position:0%
+won't basically go ahead and you know
+ 
+
+00:08:29.400 --> 00:08:31.790 align:start position:0%
+won't basically go ahead and you know
+take<00:08:29.639><c> spots</c><00:08:30.060><c> from</c><00:08:30.180><c> each</c><00:08:30.360><c> other's</c><00:08:30.599><c> Zone</c><00:08:30.900><c> the</c>
+
+00:08:31.790 --> 00:08:31.800 align:start position:0%
+take spots from each other's Zone the
+ 
+
+00:08:31.800 --> 00:08:34.190 align:start position:0%
+take spots from each other's Zone the
+final<00:08:31.979><c> possibility</c><00:08:32.520><c> or</c><00:08:33.360><c> the</c><00:08:33.659><c> final</c><00:08:33.779><c> thing</c><00:08:34.020><c> to</c>
+
+00:08:34.190 --> 00:08:34.200 align:start position:0%
+final possibility or the final thing to
+ 
+
+00:08:34.200 --> 00:08:35.870 align:start position:0%
+final possibility or the final thing to
+think<00:08:34.320><c> about</c><00:08:34.500><c> is</c><00:08:35.099><c> depending</c><00:08:35.399><c> on</c><00:08:35.520><c> how</c><00:08:35.700><c> this</c>
+
+00:08:35.870 --> 00:08:35.880 align:start position:0%
+think about is depending on how this
+ 
+
+00:08:35.880 --> 00:08:38.389 align:start position:0%
+think about is depending on how this
+parking<00:08:36.240><c> lot</c><00:08:36.360><c> is</c><00:08:36.599><c> implemented</c><00:08:37.080><c> and</c><00:08:38.039><c> you</c><00:08:38.339><c> know</c>
+
+00:08:38.389 --> 00:08:38.399 align:start position:0%
+parking lot is implemented and you know
+ 
+
+00:08:38.399 --> 00:08:40.010 align:start position:0%
+parking lot is implemented and you know
+if<00:08:38.520><c> it's</c><00:08:38.700><c> possible</c><00:08:39.000><c> that</c><00:08:39.180><c> multiple</c><00:08:39.599><c> entrances</c>
+
+00:08:40.010 --> 00:08:40.020 align:start position:0%
+if it's possible that multiple entrances
+ 
+
+00:08:40.020 --> 00:08:41.930 align:start position:0%
+if it's possible that multiple entrances
+can<00:08:40.260><c> be</c><00:08:40.320><c> assigning</c><00:08:40.740><c> the</c><00:08:40.860><c> same</c><00:08:40.979><c> spots</c><00:08:41.399><c> we</c><00:08:41.820><c> may</c>
+
+00:08:41.930 --> 00:08:41.940 align:start position:0%
+can be assigning the same spots we may
+ 
+
+00:08:41.940 --> 00:08:43.430 align:start position:0%
+can be assigning the same spots we may
+actually<00:08:42.180><c> have</c><00:08:42.419><c> to</c><00:08:42.539><c> think</c><00:08:42.719><c> about</c><00:08:42.839><c> doing</c><00:08:43.200><c> some</c>
+
+00:08:43.430 --> 00:08:43.440 align:start position:0%
+actually have to think about doing some
+ 
+
+00:08:43.440 --> 00:08:45.410 align:start position:0%
+actually have to think about doing some
+sort<00:08:43.620><c> of</c><00:08:43.740><c> locking</c><00:08:44.159><c> or</c><00:08:44.459><c> dealing</c><00:08:44.880><c> with</c><00:08:45.060><c> thread</c>
+
+00:08:45.410 --> 00:08:45.420 align:start position:0%
+sort of locking or dealing with thread
+ 
+
+00:08:45.420 --> 00:08:47.449 align:start position:0%
+sort of locking or dealing with thread
+safe<00:08:45.540><c> programming</c><00:08:46.140><c> in</c><00:08:46.740><c> the</c><00:08:46.860><c> sense</c><00:08:46.980><c> that</c><00:08:47.279><c> we</c>
+
+00:08:47.449 --> 00:08:47.459 align:start position:0%
+safe programming in the sense that we
+ 
+
+00:08:47.459 --> 00:08:49.310 align:start position:0%
+safe programming in the sense that we
+don't<00:08:47.580><c> want</c><00:08:47.820><c> the</c><00:08:48.060><c> same</c><00:08:48.240><c> spot</c><00:08:48.480><c> to</c><00:08:48.779><c> be</c><00:08:48.899><c> assigned</c>
+
+00:08:49.310 --> 00:08:49.320 align:start position:0%
+don't want the same spot to be assigned
+ 
+
+00:08:49.320 --> 00:08:50.750 align:start position:0%
+don't want the same spot to be assigned
+twice<00:08:49.620><c> there</c><00:08:49.980><c> could</c><00:08:50.100><c> be</c><00:08:50.220><c> a</c><00:08:50.339><c> race</c><00:08:50.519><c> condition</c>
+
+00:08:50.750 --> 00:08:50.760 align:start position:0%
+twice there could be a race condition
+ 
+
+00:08:50.760 --> 00:08:52.970 align:start position:0%
+twice there could be a race condition
+there<00:08:51.180><c> where</c><00:08:51.720><c> if</c><00:08:51.899><c> two</c><00:08:52.080><c> cars</c><00:08:52.500><c> arrive</c><00:08:52.800><c> at</c>
+
+00:08:52.970 --> 00:08:52.980 align:start position:0%
+there where if two cars arrive at
+ 
+
+00:08:52.980 --> 00:08:55.310 align:start position:0%
+there where if two cars arrive at
+basically<00:08:53.339><c> the</c><00:08:53.580><c> same</c><00:08:53.760><c> time</c><00:08:54.019><c> you</c><00:08:55.019><c> know</c><00:08:55.080><c> they</c>
+
+00:08:55.310 --> 00:08:55.320 align:start position:0%
+basically the same time you know they
+ 
+
+00:08:55.320 --> 00:08:57.110 align:start position:0%
+basically the same time you know they
+may<00:08:55.860><c> end</c><00:08:56.040><c> up</c><00:08:56.160><c> being</c><00:08:56.339><c> assigned</c><00:08:56.700><c> the</c><00:08:56.820><c> same</c><00:08:56.940><c> spot</c>
+
+00:08:57.110 --> 00:08:57.120 align:start position:0%
+may end up being assigned the same spot
+ 
+
+00:08:57.120 --> 00:08:58.670 align:start position:0%
+may end up being assigned the same spot
+and<00:08:57.360><c> that</c><00:08:57.540><c> can't</c><00:08:57.720><c> happen</c><00:08:57.899><c> so</c><00:08:58.260><c> it's</c><00:08:58.380><c> possible</c>
+
+00:08:58.670 --> 00:08:58.680 align:start position:0%
+and that can't happen so it's possible
+ 
+
+00:08:58.680 --> 00:09:00.170 align:start position:0%
+and that can't happen so it's possible
+that<00:08:58.980><c> you</c><00:08:59.100><c> would</c><00:08:59.279><c> have</c><00:08:59.459><c> to</c><00:08:59.580><c> actually</c><00:08:59.760><c> do</c><00:09:00.000><c> some</c>
+
+00:09:00.170 --> 00:09:00.180 align:start position:0%
+that you would have to actually do some
+ 
+
+00:09:00.180 --> 00:09:02.150 align:start position:0%
+that you would have to actually do some
+locking<00:09:00.540><c> here</c><00:09:00.720><c> but</c><00:09:01.260><c> for</c><00:09:01.560><c> the</c><00:09:01.680><c> sake</c><00:09:01.800><c> of</c><00:09:01.980><c> this</c>
+
+00:09:02.150 --> 00:09:02.160 align:start position:0%
+locking here but for the sake of this
+ 
+
+00:09:02.160 --> 00:09:03.650 align:start position:0%
+locking here but for the sake of this
+problem<00:09:02.339><c> we're</c><00:09:02.640><c> not</c><00:09:02.820><c> really</c><00:09:03.000><c> focusing</c><00:09:03.420><c> as</c>
+
+00:09:03.650 --> 00:09:03.660 align:start position:0%
+problem we're not really focusing as
+ 
+
+00:09:03.660 --> 00:09:05.090 align:start position:0%
+problem we're not really focusing as
+much<00:09:03.839><c> on</c><00:09:04.080><c> the</c><00:09:04.260><c> concurrent</c><00:09:04.680><c> programming</c>
+
+00:09:05.090 --> 00:09:05.100 align:start position:0%
+much on the concurrent programming
+ 
+
+00:09:05.100 --> 00:09:07.009 align:start position:0%
+much on the concurrent programming
+aspect<00:09:05.459><c> of</c><00:09:05.580><c> things</c><00:09:05.760><c> and</c><00:09:06.360><c> more</c><00:09:06.480><c> so</c><00:09:06.660><c> on</c><00:09:06.899><c> the</c>
+
+00:09:07.009 --> 00:09:07.019 align:start position:0%
+aspect of things and more so on the
+ 
+
+00:09:07.019 --> 00:09:09.230 align:start position:0%
+aspect of things and more so on the
+object-oriented<00:09:07.920><c> design</c>
+
+00:09:09.230 --> 00:09:09.240 align:start position:0%
+object-oriented design
+ 
+
+00:09:09.240 --> 00:09:11.810 align:start position:0%
+object-oriented design
+okay<00:09:09.660><c> so</c><00:09:10.320><c> I'm</c><00:09:10.620><c> actually</c><00:09:10.920><c> going</c><00:09:11.220><c> to</c><00:09:11.399><c> go</c><00:09:11.640><c> ahead</c>
+
+00:09:11.810 --> 00:09:11.820 align:start position:0%
+okay so I'm actually going to go ahead
+ 
+
+00:09:11.820 --> 00:09:13.970 align:start position:0%
+okay so I'm actually going to go ahead
+and<00:09:12.120><c> now</c><00:09:12.300><c> implement</c><00:09:12.720><c> this</c><00:09:13.080><c> concept</c><00:09:13.440><c> of</c><00:09:13.800><c> a</c>
+
+00:09:13.970 --> 00:09:13.980 align:start position:0%
+and now implement this concept of a
+ 
+
+00:09:13.980 --> 00:09:15.590 align:start position:0%
+and now implement this concept of a
+priority<00:09:14.339><c> queue</c><00:09:14.760><c> parking</c><00:09:15.060><c> lot</c><00:09:15.180><c> right</c><00:09:15.420><c> where</c>
+
+00:09:15.590 --> 00:09:15.600 align:start position:0%
+priority queue parking lot right where
+ 
+
+00:09:15.600 --> 00:09:17.329 align:start position:0%
+priority queue parking lot right where
+we're<00:09:15.779><c> trying</c><00:09:15.959><c> to</c><00:09:16.200><c> assign</c><00:09:16.500><c> the</c><00:09:16.800><c> closest</c><00:09:16.920><c> spot</c>
+
+00:09:17.329 --> 00:09:17.339 align:start position:0%
+we're trying to assign the closest spot
+ 
+
+00:09:17.339 --> 00:09:19.690 align:start position:0%
+we're trying to assign the closest spot
+to<00:09:18.000><c> each</c><00:09:18.300><c> entrance</c><00:09:18.660><c> that's</c><00:09:19.080><c> still</c><00:09:19.260><c> available</c>
+
+00:09:19.690 --> 00:09:19.700 align:start position:0%
+to each entrance that's still available
+ 
+
+00:09:19.700 --> 00:09:21.889 align:start position:0%
+to each entrance that's still available
+and<00:09:20.700><c> this</c><00:09:21.120><c> is</c><00:09:21.240><c> going</c><00:09:21.360><c> to</c><00:09:21.420><c> get</c><00:09:21.540><c> a</c><00:09:21.660><c> little</c><00:09:21.720><c> bit</c>
+
+00:09:21.889 --> 00:09:21.899 align:start position:0%
+and this is going to get a little bit
+ 
+
+00:09:21.899 --> 00:09:23.690 align:start position:0%
+and this is going to get a little bit
+confusing<00:09:22.320><c> I</c><00:09:22.620><c> do</c><00:09:22.740><c> use</c><00:09:22.920><c> some</c><00:09:23.160><c> pseudo</c><00:09:23.519><c> code</c>
+
+00:09:23.690 --> 00:09:23.700 align:start position:0%
+confusing I do use some pseudo code
+ 
+
+00:09:23.700 --> 00:09:25.490 align:start position:0%
+confusing I do use some pseudo code
+because<00:09:23.940><c> the</c><00:09:24.300><c> reality</c><00:09:24.600><c> is</c><00:09:24.779><c> coding</c><00:09:25.200><c> this</c><00:09:25.320><c> would</c>
+
+00:09:25.490 --> 00:09:25.500 align:start position:0%
+because the reality is coding this would
+ 
+
+00:09:25.500 --> 00:09:27.350 align:start position:0%
+because the reality is coding this would
+actually<00:09:25.680><c> not</c><00:09:25.920><c> be</c><00:09:26.040><c> that</c><00:09:26.220><c> easy</c><00:09:26.459><c> but</c><00:09:27.120><c> I'm</c><00:09:27.240><c> going</c>
+
+00:09:27.350 --> 00:09:27.360 align:start position:0%
+actually not be that easy but I'm going
+ 
+
+00:09:27.360 --> 00:09:29.269 align:start position:0%
+actually not be that easy but I'm going
+to<00:09:27.480><c> try</c><00:09:27.600><c> and</c><00:09:27.720><c> do</c><00:09:27.899><c> my</c><00:09:28.080><c> best</c><00:09:28.200><c> to</c><00:09:28.440><c> explain</c><00:09:28.620><c> it</c><00:09:28.920><c> in</c><00:09:29.100><c> a</c>
+
+00:09:29.269 --> 00:09:29.279 align:start position:0%
+to try and do my best to explain it in a
+ 
+
+00:09:29.279 --> 00:09:31.070 align:start position:0%
+to try and do my best to explain it in a
+way<00:09:29.339><c> that</c><00:09:29.519><c> makes</c><00:09:29.700><c> sense</c><00:09:29.880><c> to</c><00:09:30.060><c> you</c><00:09:30.240><c> all</c><00:09:30.360><c> so</c>
+
+00:09:31.070 --> 00:09:31.080 align:start position:0%
+way that makes sense to you all so
+ 
+
+00:09:31.080 --> 00:09:32.150 align:start position:0%
+way that makes sense to you all so
+basically<00:09:31.380><c> we're</c><00:09:31.560><c> going</c><00:09:31.740><c> to</c><00:09:31.800><c> have</c><00:09:31.920><c> the</c>
+
+00:09:32.150 --> 00:09:32.160 align:start position:0%
+basically we're going to have the
+ 
+
+00:09:32.160 --> 00:09:33.650 align:start position:0%
+basically we're going to have the
+following<00:09:32.399><c> so</c><00:09:32.580><c> let's</c><00:09:32.760><c> imagine</c><00:09:33.000><c> we</c><00:09:33.360><c> have</c><00:09:33.480><c> our</c>
+
+00:09:33.650 --> 00:09:33.660 align:start position:0%
+following so let's imagine we have our
+ 
+
+00:09:33.660 --> 00:09:35.449 align:start position:0%
+following so let's imagine we have our
+priority<00:09:34.019><c> queue</c><00:09:34.380><c> parking</c><00:09:34.620><c> lot</c><00:09:34.800><c> and</c><00:09:35.339><c> the</c>
+
+00:09:35.449 --> 00:09:35.459 align:start position:0%
+priority queue parking lot and the
+ 
+
+00:09:35.459 --> 00:09:37.250 align:start position:0%
+priority queue parking lot and the
+Constructor<00:09:35.760><c> is</c><00:09:36.060><c> basically</c><00:09:36.420><c> going</c><00:09:36.720><c> to</c><00:09:36.899><c> take</c>
+
+00:09:37.250 --> 00:09:37.260 align:start position:0%
+Constructor is basically going to take
+ 
+
+00:09:37.260 --> 00:09:39.889 align:start position:0%
+Constructor is basically going to take
+in<00:09:37.440><c> a</c><00:09:37.740><c> list</c><00:09:37.860><c> of</c><00:09:38.100><c> parking</c><00:09:38.519><c> spot</c><00:09:38.640><c> objects</c><00:09:39.300><c> and</c>
+
+00:09:39.889 --> 00:09:39.899 align:start position:0%
+in a list of parking spot objects and
+ 
+
+00:09:39.899 --> 00:09:42.290 align:start position:0%
+in a list of parking spot objects and
+also<00:09:40.200><c> a</c><00:09:40.440><c> number</c><00:09:40.620><c> of</c><00:09:40.800><c> entrances</c><00:09:41.279><c> right</c><00:09:41.580><c> so</c><00:09:42.180><c> the</c>
+
+00:09:42.290 --> 00:09:42.300 align:start position:0%
+also a number of entrances right so the
+ 
+
+00:09:42.300 --> 00:09:43.850 align:start position:0%
+also a number of entrances right so the
+first<00:09:42.420><c> thing</c><00:09:42.660><c> that</c><00:09:42.779><c> we</c><00:09:42.959><c> have</c><00:09:43.080><c> is</c><00:09:43.320><c> this</c><00:09:43.620><c> concept</c>
+
+00:09:43.850 --> 00:09:43.860 align:start position:0%
+first thing that we have is this concept
+ 
+
+00:09:43.860 --> 00:09:45.829 align:start position:0%
+first thing that we have is this concept
+of<00:09:44.100><c> a</c><00:09:44.279><c> car</c><00:09:44.399><c> map</c><00:09:44.640><c> for</c><00:09:45.000><c> now</c><00:09:45.180><c> I'm</c><00:09:45.420><c> going</c><00:09:45.540><c> to</c><00:09:45.720><c> say</c>
+
+00:09:45.829 --> 00:09:45.839 align:start position:0%
+of a car map for now I'm going to say
+ 
+
+00:09:45.839 --> 00:09:47.630 align:start position:0%
+of a car map for now I'm going to say
+the<00:09:46.019><c> car</c><00:09:46.200><c> map</c><00:09:46.440><c> is</c><00:09:46.680><c> just</c><00:09:46.860><c> an</c><00:09:47.040><c> internal</c><00:09:47.399><c> field</c>
+
+00:09:47.630 --> 00:09:47.640 align:start position:0%
+the car map is just an internal field
+ 
+
+00:09:47.640 --> 00:09:49.850 align:start position:0%
+the car map is just an internal field
+and<00:09:48.180><c> it's</c><00:09:48.300><c> going</c><00:09:48.480><c> to</c><00:09:48.660><c> maintain</c><00:09:49.140><c> a</c><00:09:49.500><c> mapping</c>
+
+00:09:49.850 --> 00:09:49.860 align:start position:0%
+and it's going to maintain a mapping
+ 
+
+00:09:49.860 --> 00:09:52.190 align:start position:0%
+and it's going to maintain a mapping
+from<00:09:50.519><c> basically</c><00:09:50.940><c> car</c><00:09:51.300><c> license</c><00:09:51.600><c> plate</c><00:09:52.019><c> number</c>
+
+00:09:52.190 --> 00:09:52.200 align:start position:0%
+from basically car license plate number
+ 
+
+00:09:52.200 --> 00:09:54.889 align:start position:0%
+from basically car license plate number
+to<00:09:52.740><c> the</c><00:09:53.100><c> actual</c><00:09:53.339><c> parking</c><00:09:53.820><c> spot</c><00:09:54.000><c> object</c><00:09:54.480><c> that</c>
+
+00:09:54.889 --> 00:09:54.899 align:start position:0%
+to the actual parking spot object that
+ 
+
+00:09:54.899 --> 00:09:56.810 align:start position:0%
+to the actual parking spot object that
+that<00:09:55.080><c> car</c><00:09:55.260><c> is</c><00:09:55.500><c> located</c><00:09:55.740><c> in</c><00:09:56.100><c> but</c><00:09:56.700><c> then</c>
+
+00:09:56.810 --> 00:09:56.820 align:start position:0%
+that car is located in but then
+ 
+
+00:09:56.820 --> 00:09:58.850 align:start position:0%
+that car is located in but then
+furthermore<00:09:57.300><c> we</c><00:09:57.899><c> want</c><00:09:58.019><c> to</c><00:09:58.140><c> make</c><00:09:58.260><c> sure</c><00:09:58.440><c> that</c>
+
+00:09:58.850 --> 00:09:58.860 align:start position:0%
+furthermore we want to make sure that
+ 
+
+00:09:58.860 --> 00:10:00.769 align:start position:0%
+furthermore we want to make sure that
+for<00:09:59.160><c> every</c><00:09:59.580><c> single</c><00:09:59.820><c> parking</c><00:10:00.180><c> spot</c><00:10:00.360><c> in</c><00:10:00.660><c> our</c>
+
+00:10:00.769 --> 00:10:00.779 align:start position:0%
+for every single parking spot in our
+ 
+
+00:10:00.779 --> 00:10:02.930 align:start position:0%
+for every single parking spot in our
+garage<00:10:01.019><c> and</c><00:10:01.740><c> also</c><00:10:01.980><c> for</c><00:10:02.160><c> all</c><00:10:02.399><c> of</c><00:10:02.519><c> the</c><00:10:02.640><c> number</c><00:10:02.760><c> of</c>
+
+00:10:02.930 --> 00:10:02.940 align:start position:0%
+garage and also for all of the number of
+ 
+
+00:10:02.940 --> 00:10:04.730 align:start position:0%
+garage and also for all of the number of
+entrances<00:10:03.480><c> we</c><00:10:04.019><c> want</c><00:10:04.140><c> to</c><00:10:04.260><c> be</c><00:10:04.380><c> basically</c>
+
+00:10:04.730 --> 00:10:04.740 align:start position:0%
+entrances we want to be basically
+ 
+
+00:10:04.740 --> 00:10:06.350 align:start position:0%
+entrances we want to be basically
+putting<00:10:05.160><c> that</c><00:10:05.339><c> parking</c><00:10:05.700><c> spot</c><00:10:05.880><c> in</c><00:10:06.240><c> the</c>
+
+00:10:06.350 --> 00:10:06.360 align:start position:0%
+putting that parking spot in the
+ 
+
+00:10:06.360 --> 00:10:08.329 align:start position:0%
+putting that parking spot in the
+corresponding<00:10:07.019><c> queue</c><00:10:07.380><c> or</c><00:10:07.620><c> priority</c><00:10:07.920><c> queue</c>
+
+00:10:08.329 --> 00:10:08.339 align:start position:0%
+corresponding queue or priority queue
+ 
+
+00:10:08.339 --> 00:10:10.550 align:start position:0%
+corresponding queue or priority queue
+that<00:10:08.519><c> belongs</c><00:10:08.820><c> to</c><00:10:08.880><c> it</c><00:10:09.420><c> so</c><00:10:09.959><c> firstly</c><00:10:10.260><c> what</c><00:10:10.440><c> we're</c>
+
+00:10:10.550 --> 00:10:10.560 align:start position:0%
+that belongs to it so firstly what we're
+ 
+
+00:10:10.560 --> 00:10:12.769 align:start position:0%
+that belongs to it so firstly what we're
+going<00:10:10.680><c> to</c><00:10:10.740><c> do</c><00:10:10.860><c> is</c><00:10:11.160><c> go</c><00:10:11.459><c> ahead</c><00:10:11.700><c> and</c><00:10:12.120><c> add</c><00:10:12.360><c> it</c><00:10:12.540><c> to</c>
+
+00:10:12.769 --> 00:10:12.779 align:start position:0%
+going to do is go ahead and add it to
+ 
+
+00:10:12.779 --> 00:10:14.990 align:start position:0%
+going to do is go ahead and add it to
+the<00:10:12.959><c> priority</c><00:10:13.320><c> queue</c><00:10:13.680><c> and</c><00:10:14.160><c> then</c><00:10:14.220><c> also</c><00:10:14.580><c> once</c><00:10:14.880><c> we</c>
+
+00:10:14.990 --> 00:10:15.000 align:start position:0%
+the priority queue and then also once we
+ 
+
+00:10:15.000 --> 00:10:16.910 align:start position:0%
+the priority queue and then also once we
+have<00:10:15.120><c> the</c><00:10:15.420><c> index</c><00:10:15.779><c> in</c><00:10:16.019><c> that</c><00:10:16.200><c> priority</c><00:10:16.560><c> queue</c>
+
+00:10:16.910 --> 00:10:16.920 align:start position:0%
+have the index in that priority queue
+ 
+
+00:10:16.920 --> 00:10:19.009 align:start position:0%
+have the index in that priority queue
+just<00:10:17.040><c> keep</c><00:10:17.220><c> in</c><00:10:17.339><c> mind</c><00:10:17.459><c> that</c><00:10:17.640><c> priority</c><00:10:18.000><c> cues</c><00:10:18.480><c> are</c>
+
+00:10:19.009 --> 00:10:19.019 align:start position:0%
+just keep in mind that priority cues are
+ 
+
+00:10:19.019 --> 00:10:20.990 align:start position:0%
+just keep in mind that priority cues are
+implemented<00:10:19.560><c> as</c><00:10:19.800><c> Min</c><00:10:20.040><c> heaps</c><00:10:20.519><c> which</c><00:10:20.880><c> are</c>
+
+00:10:20.990 --> 00:10:21.000 align:start position:0%
+implemented as Min heaps which are
+ 
+
+00:10:21.000 --> 00:10:23.449 align:start position:0%
+implemented as Min heaps which are
+basically<00:10:21.300><c> just</c><00:10:21.540><c> arrays</c><00:10:22.019><c> under</c><00:10:22.200><c> the</c><00:10:22.380><c> hood</c><00:10:22.980><c> we</c>
+
+00:10:23.449 --> 00:10:23.459 align:start position:0%
+basically just arrays under the hood we
+ 
+
+00:10:23.459 --> 00:10:25.790 align:start position:0%
+basically just arrays under the hood we
+need<00:10:23.580><c> to</c><00:10:23.760><c> know</c><00:10:23.880><c> the</c><00:10:24.300><c> actual</c><00:10:24.540><c> index</c><00:10:25.080><c> of</c><00:10:25.620><c> the</c>
+
+00:10:25.790 --> 00:10:25.800 align:start position:0%
+need to know the actual index of the
+ 
+
+00:10:25.800 --> 00:10:27.710 align:start position:0%
+need to know the actual index of the
+array<00:10:26.100><c> that</c><00:10:26.459><c> that</c><00:10:26.640><c> parking</c><00:10:27.000><c> spot</c><00:10:27.120><c> was</c><00:10:27.420><c> placed</c>
+
+00:10:27.710 --> 00:10:27.720 align:start position:0%
+array that that parking spot was placed
+ 
+
+00:10:27.720 --> 00:10:29.449 align:start position:0%
+array that that parking spot was placed
+in<00:10:27.779><c> the</c><00:10:28.320><c> reasoning</c><00:10:28.680><c> for</c><00:10:28.800><c> this</c><00:10:28.980><c> being</c><00:10:29.160><c> that</c>
+
+00:10:29.449 --> 00:10:29.459 align:start position:0%
+in the reasoning for this being that
+ 
+
+00:10:29.459 --> 00:10:31.490 align:start position:0%
+in the reasoning for this being that
+we're<00:10:29.700><c> going</c><00:10:30.000><c> to</c><00:10:30.300><c> constantly</c><00:10:30.779><c> be</c><00:10:31.019><c> removing</c>
+
+00:10:31.490 --> 00:10:31.500 align:start position:0%
+we're going to constantly be removing
+ 
+
+00:10:31.500 --> 00:10:34.130 align:start position:0%
+we're going to constantly be removing
+things<00:10:31.800><c> from</c><00:10:32.399><c> multiple</c><00:10:32.760><c> cues</c><00:10:33.180><c> and</c><00:10:33.720><c> when</c><00:10:34.019><c> we're</c>
+
+00:10:34.130 --> 00:10:34.140 align:start position:0%
+things from multiple cues and when we're
+ 
+
+00:10:34.140 --> 00:10:35.930 align:start position:0%
+things from multiple cues and when we're
+removing<00:10:34.560><c> them</c><00:10:34.740><c> from</c><00:10:35.040><c> the</c><00:10:35.220><c> priority</c><00:10:35.519><c> queues</c>
+
+00:10:35.930 --> 00:10:35.940 align:start position:0%
+removing them from the priority queues
+ 
+
+00:10:35.940 --> 00:10:37.790 align:start position:0%
+removing them from the priority queues
+they're<00:10:36.060><c> not</c><00:10:36.300><c> necessarily</c><00:10:36.779><c> at</c><00:10:37.140><c> the</c><00:10:37.260><c> root</c><00:10:37.560><c> node</c>
+
+00:10:37.790 --> 00:10:37.800 align:start position:0%
+they're not necessarily at the root node
+ 
+
+00:10:37.800 --> 00:10:40.670 align:start position:0%
+they're not necessarily at the root node
+of<00:10:38.100><c> that</c><00:10:38.279><c> Heap</c><00:10:38.640><c> and</c><00:10:39.180><c> so</c><00:10:39.360><c> in</c><00:10:39.660><c> order</c><00:10:39.779><c> to</c><00:10:40.260><c> still</c>
+
+00:10:40.670 --> 00:10:40.680 align:start position:0%
+of that Heap and so in order to still
+ 
+
+00:10:40.680 --> 00:10:43.610 align:start position:0%
+of that Heap and so in order to still
+maintain<00:10:41.220><c> a</c><00:10:41.700><c> o</c><00:10:41.940><c> of</c><00:10:42.120><c> log</c><00:10:42.300><c> n</c><00:10:42.540><c> complexity</c><00:10:43.080><c> as</c>
+
+00:10:43.610 --> 00:10:43.620 align:start position:0%
+maintain a o of log n complexity as
+ 
+
+00:10:43.620 --> 00:10:45.290 align:start position:0%
+maintain a o of log n complexity as
+we're<00:10:43.800><c> removing</c><00:10:44.220><c> nodes</c><00:10:44.579><c> from</c><00:10:44.820><c> the</c><00:10:45.000><c> priority</c>
+
+00:10:45.290 --> 00:10:45.300 align:start position:0%
+we're removing nodes from the priority
+ 
+
+00:10:45.300 --> 00:10:47.449 align:start position:0%
+we're removing nodes from the priority
+queue<00:10:45.720><c> we</c><00:10:46.079><c> have</c><00:10:46.200><c> to</c><00:10:46.320><c> actually</c><00:10:46.560><c> know</c><00:10:46.920><c> exactly</c>
+
+00:10:47.449 --> 00:10:47.459 align:start position:0%
+queue we have to actually know exactly
+ 
+
+00:10:47.459 --> 00:10:49.130 align:start position:0%
+queue we have to actually know exactly
+where<00:10:47.700><c> they're</c><00:10:47.820><c> located</c><00:10:48.120><c> in</c><00:10:48.660><c> the</c><00:10:48.779><c> priority</c>
+
+00:10:49.130 --> 00:10:49.140 align:start position:0%
+where they're located in the priority
+ 
+
+00:10:49.140 --> 00:10:51.410 align:start position:0%
+where they're located in the priority
+queue<00:10:49.560><c> before</c><00:10:49.920><c> removing</c><00:10:50.399><c> them</c><00:10:50.579><c> otherwise</c><00:10:51.240><c> we</c>
+
+00:10:51.410 --> 00:10:51.420 align:start position:0%
+queue before removing them otherwise we
+ 
+
+00:10:51.420 --> 00:10:53.389 align:start position:0%
+queue before removing them otherwise we
+would<00:10:51.540><c> have</c><00:10:51.720><c> to</c><00:10:51.839><c> do</c><00:10:51.959><c> a</c><00:10:52.260><c> linear</c><00:10:52.500><c> find</c><00:10:52.800><c> for</c><00:10:53.160><c> that</c>
+
+00:10:53.389 --> 00:10:53.399 align:start position:0%
+would have to do a linear find for that
+ 
+
+00:10:53.399 --> 00:10:55.610 align:start position:0%
+would have to do a linear find for that
+parking<00:10:53.760><c> spot</c><00:10:53.940><c> in</c><00:10:54.360><c> the</c><00:10:54.480><c> priority</c><00:10:54.779><c> queue</c><00:10:55.200><c> and</c>
+
+00:10:55.610 --> 00:10:55.620 align:start position:0%
+parking spot in the priority queue and
+ 
+
+00:10:55.620 --> 00:10:57.170 align:start position:0%
+parking spot in the priority queue and
+then<00:10:55.680><c> we</c><00:10:55.860><c> would</c><00:10:55.980><c> ruin</c><00:10:56.279><c> our</c><00:10:56.459><c> time</c><00:10:56.579><c> complexity</c>
+
+00:10:57.170 --> 00:10:57.180 align:start position:0%
+then we would ruin our time complexity
+ 
+
+00:10:57.180 --> 00:10:59.090 align:start position:0%
+then we would ruin our time complexity
+so<00:10:57.600><c> it's</c><00:10:57.720><c> very</c><00:10:57.959><c> important</c><00:10:58.260><c> that</c><00:10:58.560><c> we</c><00:10:58.740><c> keep</c><00:10:58.860><c> some</c>
+
+00:10:59.090 --> 00:10:59.100 align:start position:0%
+so it's very important that we keep some
+ 
+
+00:10:59.100 --> 00:11:01.069 align:start position:0%
+so it's very important that we keep some
+data<00:10:59.459><c> structure</c><00:10:59.820><c> that</c><00:11:00.240><c> allows</c><00:11:00.540><c> us</c><00:11:00.660><c> to</c><00:11:00.899><c> see</c>
+
+00:11:01.069 --> 00:11:01.079 align:start position:0%
+data structure that allows us to see
+ 
+
+00:11:01.079 --> 00:11:03.829 align:start position:0%
+data structure that allows us to see
+where<00:11:01.680><c> these</c><00:11:02.040><c> parking</c><00:11:02.339><c> spot</c><00:11:02.519><c> nodes</c><00:11:02.940><c> are</c><00:11:03.300><c> in</c>
+
+00:11:03.829 --> 00:11:03.839 align:start position:0%
+where these parking spot nodes are in
+ 
+
+00:11:03.839 --> 00:11:05.329 align:start position:0%
+where these parking spot nodes are in
+every<00:11:04.019><c> single</c><00:11:04.320><c> queue</c><00:11:04.620><c> in</c><00:11:04.860><c> terms</c><00:11:05.040><c> of</c><00:11:05.160><c> their</c>
+
+00:11:05.329 --> 00:11:05.339 align:start position:0%
+every single queue in terms of their
+ 
+
+00:11:05.339 --> 00:11:07.310 align:start position:0%
+every single queue in terms of their
+actual<00:11:05.640><c> index</c><00:11:06.000><c> so</c><00:11:06.480><c> that's</c><00:11:06.600><c> what</c><00:11:06.839><c> the</c><00:11:07.019><c> parking</c>
+
+00:11:07.310 --> 00:11:07.320 align:start position:0%
+actual index so that's what the parking
+ 
+
+00:11:07.320 --> 00:11:09.769 align:start position:0%
+actual index so that's what the parking
+spot<00:11:07.440><c> hashmap</c><00:11:08.160><c> does</c><00:11:08.279><c> it</c><00:11:08.820><c> goes</c><00:11:09.060><c> ahead</c><00:11:09.300><c> and</c><00:11:09.540><c> says</c>
+
+00:11:09.769 --> 00:11:09.779 align:start position:0%
+spot hashmap does it goes ahead and says
+ 
+
+00:11:09.779 --> 00:11:12.170 align:start position:0%
+spot hashmap does it goes ahead and says
+okay<00:11:09.959><c> for</c><00:11:10.320><c> a</c><00:11:10.440><c> given</c><00:11:10.740><c> parking</c><00:11:11.040><c> spot</c><00:11:11.160><c> name</c><00:11:11.579><c> and</c>
+
+00:11:12.170 --> 00:11:12.180 align:start position:0%
+okay for a given parking spot name and
+ 
+
+00:11:12.180 --> 00:11:14.870 align:start position:0%
+okay for a given parking spot name and
+also<00:11:12.480><c> the</c><00:11:12.899><c> actual</c><00:11:13.200><c> entrance</c><00:11:13.680><c> where</c><00:11:14.399><c> is</c><00:11:14.640><c> that</c>
+
+00:11:14.870 --> 00:11:14.880 align:start position:0%
+also the actual entrance where is that
+ 
+
+00:11:14.880 --> 00:11:17.449 align:start position:0%
+also the actual entrance where is that
+location<00:11:15.120><c> in</c><00:11:15.660><c> the</c><00:11:15.779><c> priority</c><00:11:16.079><c> queue</c><00:11:16.740><c> and</c><00:11:17.279><c> then</c>
+
+00:11:17.449 --> 00:11:17.459 align:start position:0%
+location in the priority queue and then
+ 
+
+00:11:17.459 --> 00:11:19.430 align:start position:0%
+location in the priority queue and then
+additionally<00:11:17.880><c> we're</c><00:11:18.480><c> also</c><00:11:18.779><c> just</c><00:11:18.959><c> going</c><00:11:19.140><c> to</c><00:11:19.260><c> go</c>
+
+00:11:19.430 --> 00:11:19.440 align:start position:0%
+additionally we're also just going to go
+ 
+
+00:11:19.440 --> 00:11:22.250 align:start position:0%
+additionally we're also just going to go
+ahead<00:11:19.680><c> and</c><00:11:20.100><c> add</c><00:11:20.420><c> all</c><00:11:21.420><c> of</c><00:11:21.480><c> these</c><00:11:21.720><c> parking</c><00:11:21.959><c> spots</c>
+
+00:11:22.250 --> 00:11:22.260 align:start position:0%
+ahead and add all of these parking spots
+ 
+
+00:11:22.260 --> 00:11:24.410 align:start position:0%
+ahead and add all of these parking spots
+to<00:11:22.500><c> the</c><00:11:22.620><c> proper</c><00:11:22.920><c> priority</c><00:11:23.279><c> queues</c><00:11:23.760><c> and</c><00:11:24.120><c> also</c>
+
+00:11:24.410 --> 00:11:24.420 align:start position:0%
+to the proper priority queues and also
+ 
+
+00:11:24.420 --> 00:11:25.850 align:start position:0%
+to the proper priority queues and also
+making<00:11:24.720><c> sure</c><00:11:24.899><c> to</c><00:11:25.079><c> put</c><00:11:25.200><c> them</c><00:11:25.380><c> in</c><00:11:25.620><c> the</c><00:11:25.740><c> right</c>
+
+00:11:25.850 --> 00:11:25.860 align:start position:0%
+making sure to put them in the right
+ 
+
+00:11:25.860 --> 00:11:28.550 align:start position:0%
+making sure to put them in the right
+size<00:11:26.160><c> queue</c><00:11:26.640><c> right</c><00:11:26.880><c> so</c><00:11:27.240><c> for</c><00:11:27.660><c> example</c><00:11:27.899><c> if</c><00:11:28.320><c> it's</c>
+
+00:11:28.550 --> 00:11:28.560 align:start position:0%
+size queue right so for example if it's
+ 
+
+00:11:28.560 --> 00:11:30.110 align:start position:0%
+size queue right so for example if it's
+a<00:11:28.740><c> small</c><00:11:28.920><c> parking</c><00:11:29.339><c> spot</c><00:11:29.459><c> we</c><00:11:29.760><c> need</c><00:11:29.880><c> to</c><00:11:29.940><c> make</c>
+
+00:11:30.110 --> 00:11:30.120 align:start position:0%
+a small parking spot we need to make
+ 
+
+00:11:30.120 --> 00:11:31.730 align:start position:0%
+a small parking spot we need to make
+sure<00:11:30.240><c> to</c><00:11:30.360><c> put</c><00:11:30.540><c> it</c><00:11:30.660><c> in</c><00:11:30.899><c> the</c><00:11:31.019><c> small</c><00:11:31.260><c> parking</c>
+
+00:11:31.730 --> 00:11:31.740 align:start position:0%
+sure to put it in the small parking
+ 
+
+00:11:31.740 --> 00:11:34.370 align:start position:0%
+sure to put it in the small parking
+queue<00:11:32.100><c> okay</c><00:11:32.880><c> and</c><00:11:33.600><c> we're</c><00:11:33.720><c> doing</c><00:11:33.959><c> that</c><00:11:34.200><c> of</c>
+
+00:11:34.370 --> 00:11:34.380 align:start position:0%
+queue okay and we're doing that of
+ 
+
+00:11:34.380 --> 00:11:35.870 align:start position:0%
+queue okay and we're doing that of
+course<00:11:34.560><c> based</c><00:11:34.980><c> on</c><00:11:35.100><c> the</c><00:11:35.279><c> distance</c><00:11:35.459><c> from</c>
+
+00:11:35.870 --> 00:11:35.880 align:start position:0%
+course based on the distance from
+ 
+
+00:11:35.880 --> 00:11:37.550 align:start position:0%
+course based on the distance from
+entrance<00:11:36.240><c> I</c><00:11:36.480><c> if</c><00:11:36.720><c> you</c><00:11:36.899><c> recall</c><00:11:37.140><c> from</c><00:11:37.380><c> The</c>
+
+00:11:37.550 --> 00:11:37.560 align:start position:0%
+entrance I if you recall from The
+ 
+
+00:11:37.560 --> 00:11:39.530 align:start position:0%
+entrance I if you recall from The
+Parking<00:11:37.860><c> Spot</c><00:11:38.040><c> class</c><00:11:38.339><c> we</c><00:11:38.760><c> have</c><00:11:38.940><c> the</c><00:11:39.120><c> distances</c>
+
+00:11:39.530 --> 00:11:39.540 align:start position:0%
+Parking Spot class we have the distances
+ 
+
+00:11:39.540 --> 00:11:42.170 align:start position:0%
+Parking Spot class we have the distances
+to<00:11:39.839><c> each</c><00:11:40.079><c> entry</c><00:11:40.440><c> and</c><00:11:41.100><c> so</c><00:11:41.339><c> we're</c><00:11:41.820><c> basically</c>
+
+00:11:42.170 --> 00:11:42.180 align:start position:0%
+to each entry and so we're basically
+ 
+
+00:11:42.180 --> 00:11:46.009 align:start position:0%
+to each entry and so we're basically
+using<00:11:42.600><c> that</c><00:11:42.779><c> field</c><00:11:43.040><c> to</c><00:11:44.040><c> assemble</c><00:11:44.399><c> those</c><00:11:44.579><c> cues</c>
+
+00:11:46.009 --> 00:11:46.019 align:start position:0%
+using that field to assemble those cues
+ 
+
+00:11:46.019 --> 00:11:47.930 align:start position:0%
+using that field to assemble those cues
+phew<00:11:46.740><c> so</c><00:11:46.920><c> I</c><00:11:46.980><c> know</c><00:11:47.100><c> that's</c><00:11:47.279><c> a</c><00:11:47.399><c> lot</c><00:11:47.519><c> but</c><00:11:47.760><c> we're</c>
+
+00:11:47.930 --> 00:11:47.940 align:start position:0%
+phew so I know that's a lot but we're
+ 
+
+00:11:47.940 --> 00:11:49.250 align:start position:0%
+phew so I know that's a lot but we're
+still<00:11:48.120><c> going</c><00:11:48.300><c> let's</c><00:11:48.600><c> go</c><00:11:48.839><c> ahead</c><00:11:48.959><c> and</c><00:11:49.079><c> get</c>
+
+00:11:49.250 --> 00:11:49.260 align:start position:0%
+still going let's go ahead and get
+ 
+
+00:11:49.260 --> 00:11:51.350 align:start position:0%
+still going let's go ahead and get
+through<00:11:49.440><c> this</c><00:11:49.620><c> the</c><00:11:50.459><c> easy</c><00:11:50.640><c> method</c><00:11:51.240><c> to</c>
+
+00:11:51.350 --> 00:11:51.360 align:start position:0%
+through this the easy method to
+ 
+
+00:11:51.360 --> 00:11:53.030 align:start position:0%
+through this the easy method to
+implement<00:11:51.660><c> is</c><00:11:52.079><c> actually</c><00:11:52.260><c> getting</c><00:11:52.620><c> the</c><00:11:52.860><c> number</c>
+
+00:11:53.030 --> 00:11:53.040 align:start position:0%
+implement is actually getting the number
+ 
+
+00:11:53.040 --> 00:11:55.490 align:start position:0%
+implement is actually getting the number
+of<00:11:53.220><c> spots</c><00:11:53.640><c> so</c><00:11:54.240><c> basically</c><00:11:54.600><c> we</c><00:11:55.079><c> only</c><00:11:55.200><c> really</c>
+
+00:11:55.490 --> 00:11:55.500 align:start position:0%
+of spots so basically we only really
+ 
+
+00:11:55.500 --> 00:11:58.490 align:start position:0%
+of spots so basically we only really
+need<00:11:55.740><c> to</c><00:11:55.860><c> consider</c><00:11:56.339><c> you</c><00:11:57.300><c> know</c><00:11:57.360><c> one</c><00:11:58.260><c> set</c><00:11:58.380><c> of</c>
+
+00:11:58.490 --> 00:11:58.500 align:start position:0%
+need to consider you know one set of
+ 
+
+00:11:58.500 --> 00:12:00.410 align:start position:0%
+need to consider you know one set of
+cues<00:11:58.800><c> here</c><00:11:58.980><c> so</c><00:11:59.220><c> basically</c><00:11:59.760><c> looking</c><00:12:00.060><c> at</c><00:12:00.240><c> this</c>
+
+00:12:00.410 --> 00:12:00.420 align:start position:0%
+cues here so basically looking at this
+ 
+
+00:12:00.420 --> 00:12:03.290 align:start position:0%
+cues here so basically looking at this
+from<00:12:00.600><c> entrance</c><00:12:01.079><c> zero</c><00:12:01.920><c> we</c><00:12:02.579><c> go</c><00:12:02.700><c> through</c><00:12:02.880><c> all</c><00:12:03.180><c> of</c>
+
+00:12:03.290 --> 00:12:03.300 align:start position:0%
+from entrance zero we go through all of
+ 
+
+00:12:03.300 --> 00:12:05.389 align:start position:0%
+from entrance zero we go through all of
+those<00:12:03.480><c> priority</c><00:12:03.839><c> cues</c><00:12:04.260><c> uh</c><00:12:04.800><c> for</c><00:12:05.040><c> you</c><00:12:05.339><c> know</c>
+
+00:12:05.389 --> 00:12:05.399 align:start position:0%
+those priority cues uh for you know
+ 
+
+00:12:05.399 --> 00:12:07.730 align:start position:0%
+those priority cues uh for you know
+small<00:12:05.760><c> medium</c><00:12:06.180><c> and</c><00:12:06.360><c> big</c><00:12:06.540><c> cars</c><00:12:06.959><c> we</c><00:12:07.440><c> Loop</c>
+
+00:12:07.730 --> 00:12:07.740 align:start position:0%
+small medium and big cars we Loop
+ 
+
+00:12:07.740 --> 00:12:09.230 align:start position:0%
+small medium and big cars we Loop
+through<00:12:07.860><c> those</c><00:12:08.100><c> and</c><00:12:08.399><c> then</c><00:12:08.459><c> we</c><00:12:08.700><c> create</c><00:12:08.880><c> a</c>
+
+00:12:09.230 --> 00:12:09.240 align:start position:0%
+through those and then we create a
+ 
+
+00:12:09.240 --> 00:12:11.630 align:start position:0%
+through those and then we create a
+dictionary<00:12:09.600><c> which</c><00:12:10.019><c> basically</c><00:12:10.320><c> says</c><00:12:11.160><c> um</c><00:12:11.220><c> you</c>
+
+00:12:11.630 --> 00:12:11.640 align:start position:0%
+dictionary which basically says um you
+ 
+
+00:12:11.640 --> 00:12:14.329 align:start position:0%
+dictionary which basically says um you
+know<00:12:11.700><c> dictionary</c><00:12:12.240><c> of</c><00:12:12.899><c> the</c><00:12:13.200><c> small</c><00:12:13.320><c> key</c><00:12:13.620><c> has</c><00:12:14.040><c> 100</c>
+
+00:12:14.329 --> 00:12:14.339 align:start position:0%
+know dictionary of the small key has 100
+ 
+
+00:12:14.339 --> 00:12:16.730 align:start position:0%
+know dictionary of the small key has 100
+spots<00:12:14.880><c> dictionary</c><00:12:15.360><c> of</c><00:12:15.540><c> the</c><00:12:15.660><c> medium</c><00:12:15.899><c> key</c><00:12:16.140><c> has</c>
+
+00:12:16.730 --> 00:12:16.740 align:start position:0%
+spots dictionary of the medium key has
+ 
+
+00:12:16.740 --> 00:12:19.670 align:start position:0%
+spots dictionary of the medium key has
+50<00:12:17.100><c> spots</c><00:12:17.820><c> etc</c><00:12:18.240><c> etc</c><00:12:18.360><c> so</c><00:12:18.959><c> easy</c><00:12:19.200><c> enough</c><00:12:19.380><c> for</c>
+
+00:12:19.670 --> 00:12:19.680 align:start position:0%
+50 spots etc etc so easy enough for
+ 
+
+00:12:19.680 --> 00:12:21.350 align:start position:0%
+50 spots etc etc so easy enough for
+getting<00:12:19.860><c> the</c><00:12:20.040><c> number</c><00:12:20.160><c> of</c><00:12:20.339><c> spots</c><00:12:20.700><c> the</c><00:12:21.180><c> more</c>
+
+00:12:21.350 --> 00:12:21.360 align:start position:0%
+getting the number of spots the more
+ 
+
+00:12:21.360 --> 00:12:23.389 align:start position:0%
+getting the number of spots the more
+complicated<00:12:21.779><c> part</c><00:12:22.079><c> is</c><00:12:22.440><c> the</c><00:12:22.680><c> entry</c><00:12:22.980><c> and</c><00:12:23.279><c> the</c>
+
+00:12:23.389 --> 00:12:23.399 align:start position:0%
+complicated part is the entry and the
+ 
+
+00:12:23.399 --> 00:12:25.069 align:start position:0%
+complicated part is the entry and the
+exit<00:12:23.700><c> methods</c><00:12:24.120><c> and</c><00:12:24.300><c> I'm</c><00:12:24.420><c> going</c><00:12:24.600><c> to</c><00:12:24.779><c> go</c><00:12:24.899><c> through</c>
+
+00:12:25.069 --> 00:12:25.079 align:start position:0%
+exit methods and I'm going to go through
+ 
+
+00:12:25.079 --> 00:12:26.329 align:start position:0%
+exit methods and I'm going to go through
+those<00:12:25.320><c> now</c>
+
+00:12:26.329 --> 00:12:26.339 align:start position:0%
+those now
+ 
+
+00:12:26.339 --> 00:12:28.370 align:start position:0%
+those now
+okay<00:12:26.880><c> so</c><00:12:27.360><c> let's</c><00:12:27.480><c> imagine</c><00:12:27.720><c> we're</c><00:12:28.079><c> calling</c>
+
+00:12:28.370 --> 00:12:28.380 align:start position:0%
+okay so let's imagine we're calling
+ 
+
+00:12:28.380 --> 00:12:30.650 align:start position:0%
+okay so let's imagine we're calling
+enter<00:12:28.560><c> And</c><00:12:29.100><c> We</c><00:12:29.339><c> have</c><00:12:29.579><c> basically</c><00:12:30.000><c> the</c><00:12:30.240><c> size</c><00:12:30.420><c> of</c>
+
+00:12:30.650 --> 00:12:30.660 align:start position:0%
+enter And We have basically the size of
+ 
+
+00:12:30.660 --> 00:12:32.990 align:start position:0%
+enter And We have basically the size of
+the<00:12:30.779><c> incoming</c><00:12:31.200><c> car</c><00:12:31.380><c> we</c><00:12:32.100><c> have</c><00:12:32.279><c> the</c><00:12:32.640><c> entry</c>
+
+00:12:32.990 --> 00:12:33.000 align:start position:0%
+the incoming car we have the entry
+ 
+
+00:12:33.000 --> 00:12:34.490 align:start position:0%
+the incoming car we have the entry
+number<00:12:33.180><c> that</c><00:12:33.480><c> we're</c><00:12:33.600><c> going</c><00:12:33.779><c> through</c><00:12:34.019><c> and</c><00:12:34.320><c> we</c>
+
+00:12:34.490 --> 00:12:34.500 align:start position:0%
+number that we're going through and we
+ 
+
+00:12:34.500 --> 00:12:36.290 align:start position:0%
+number that we're going through and we
+also<00:12:34.680><c> have</c><00:12:34.860><c> the</c><00:12:35.100><c> license</c><00:12:35.279><c> plate</c><00:12:35.700><c> number</c><00:12:35.940><c> of</c>
+
+00:12:36.290 --> 00:12:36.300 align:start position:0%
+also have the license plate number of
+ 
+
+00:12:36.300 --> 00:12:38.210 align:start position:0%
+also have the license plate number of
+the<00:12:36.420><c> incoming</c><00:12:36.899><c> card</c><00:12:37.079><c> so</c><00:12:37.680><c> the</c><00:12:37.920><c> first</c><00:12:38.040><c> thing</c>
+
+00:12:38.210 --> 00:12:38.220 align:start position:0%
+the incoming card so the first thing
+ 
+
+00:12:38.220 --> 00:12:40.130 align:start position:0%
+the incoming card so the first thing
+that<00:12:38.339><c> we're</c><00:12:38.459><c> going</c><00:12:38.579><c> to</c><00:12:38.760><c> do</c><00:12:38.880><c> is</c><00:12:39.240><c> figure</c><00:12:39.540><c> out</c><00:12:39.839><c> the</c>
+
+00:12:40.130 --> 00:12:40.140 align:start position:0%
+that we're going to do is figure out the
+ 
+
+00:12:40.140 --> 00:12:42.829 align:start position:0%
+that we're going to do is figure out the
+proper<00:12:40.500><c> priority</c><00:12:40.920><c> queue</c><00:12:41.399><c> to</c><00:12:41.820><c> go</c><00:12:42.000><c> ahead</c><00:12:42.240><c> and</c>
+
+00:12:42.829 --> 00:12:42.839 align:start position:0%
+proper priority queue to go ahead and
+ 
+
+00:12:42.839 --> 00:12:44.930 align:start position:0%
+proper priority queue to go ahead and
+check<00:12:43.139><c> in</c><00:12:43.500><c> order</c><00:12:43.620><c> to</c><00:12:43.920><c> remove</c><00:12:44.100><c> an</c><00:12:44.459><c> element</c><00:12:44.579><c> from</c>
+
+00:12:44.930 --> 00:12:44.940 align:start position:0%
+check in order to remove an element from
+ 
+
+00:12:44.940 --> 00:12:46.790 align:start position:0%
+check in order to remove an element from
+that<00:12:45.120><c> priority</c><00:12:45.480><c> queue</c><00:12:45.839><c> so</c><00:12:46.260><c> that</c><00:12:46.440><c> priority</c>
+
+00:12:46.790 --> 00:12:46.800 align:start position:0%
+that priority queue so that priority
+ 
+
+00:12:46.800 --> 00:12:47.930 align:start position:0%
+that priority queue so that priority
+queue<00:12:47.160><c> is</c><00:12:47.279><c> going</c><00:12:47.459><c> to</c><00:12:47.519><c> be</c><00:12:47.639><c> the</c><00:12:47.820><c> one</c>
+
+00:12:47.930 --> 00:12:47.940 align:start position:0%
+queue is going to be the one
+ 
+
+00:12:47.940 --> 00:12:49.910 align:start position:0%
+queue is going to be the one
+corresponding<00:12:48.660><c> to</c><00:12:48.839><c> the</c><00:12:49.079><c> entry</c><00:12:49.380><c> number</c><00:12:49.620><c> that</c>
+
+00:12:49.910 --> 00:12:49.920 align:start position:0%
+corresponding to the entry number that
+ 
+
+00:12:49.920 --> 00:12:51.769 align:start position:0%
+corresponding to the entry number that
+we're<00:12:50.040><c> coming</c><00:12:50.220><c> through</c><00:12:50.459><c> also</c><00:12:51.300><c> with</c><00:12:51.600><c> the</c>
+
+00:12:51.769 --> 00:12:51.779 align:start position:0%
+we're coming through also with the
+ 
+
+00:12:51.779 --> 00:12:53.870 align:start position:0%
+we're coming through also with the
+proper<00:12:52.019><c> car</c><00:12:52.260><c> size</c><00:12:52.500><c> then</c><00:12:53.339><c> we're</c><00:12:53.519><c> going</c><00:12:53.639><c> to</c><00:12:53.760><c> go</c>
+
+00:12:53.870 --> 00:12:53.880 align:start position:0%
+proper car size then we're going to go
+ 
+
+00:12:53.880 --> 00:12:56.030 align:start position:0%
+proper car size then we're going to go
+ahead<00:12:54.060><c> and</c><00:12:54.420><c> find</c><00:12:54.660><c> the</c><00:12:55.019><c> top</c><00:12:55.200><c> element</c><00:12:55.500><c> of</c><00:12:55.860><c> that</c>
+
+00:12:56.030 --> 00:12:56.040 align:start position:0%
+ahead and find the top element of that
+ 
+
+00:12:56.040 --> 00:12:57.889 align:start position:0%
+ahead and find the top element of that
+priority<00:12:56.399><c> queue</c><00:12:56.760><c> which</c><00:12:57.000><c> is</c><00:12:57.120><c> the</c><00:12:57.300><c> spot</c><00:12:57.480><c> that</c><00:12:57.720><c> we</c>
+
+00:12:57.889 --> 00:12:57.899 align:start position:0%
+priority queue which is the spot that we
+ 
+
+00:12:57.899 --> 00:12:59.509 align:start position:0%
+priority queue which is the spot that we
+know<00:12:57.959><c> that</c><00:12:58.139><c> we're</c><00:12:58.260><c> going</c><00:12:58.380><c> to</c><00:12:58.440><c> be</c><00:12:58.560><c> taking</c><00:12:58.740><c> so</c><00:12:59.339><c> we</c>
+
+00:12:59.509 --> 00:12:59.519 align:start position:0%
+know that we're going to be taking so we
+ 
+
+00:12:59.519 --> 00:13:01.310 align:start position:0%
+know that we're going to be taking so we
+can<00:12:59.639><c> do</c><00:12:59.760><c> that</c><00:12:59.940><c> by</c><00:13:00.180><c> peaking</c><00:13:00.480><c> at</c><00:13:00.779><c> our</c><00:13:00.959><c> priority</c>
+
+00:13:01.310 --> 00:13:01.320 align:start position:0%
+can do that by peaking at our priority
+ 
+
+00:13:01.320 --> 00:13:03.650 align:start position:0%
+can do that by peaking at our priority
+queue<00:13:01.680><c> we</c><00:13:02.220><c> also</c><00:13:02.459><c> get</c><00:13:02.639><c> the</c><00:13:02.820><c> name</c><00:13:03.000><c> of</c><00:13:03.240><c> that</c><00:13:03.420><c> spot</c>
+
+00:13:03.650 --> 00:13:03.660 align:start position:0%
+queue we also get the name of that spot
+ 
+
+00:13:03.660 --> 00:13:05.750 align:start position:0%
+queue we also get the name of that spot
+so<00:13:03.959><c> that</c><00:13:04.079><c> we</c><00:13:04.200><c> can</c><00:13:04.320><c> use</c><00:13:04.500><c> it</c><00:13:04.620><c> in</c><00:13:04.860><c> our</c><00:13:05.040><c> actual</c><00:13:05.339><c> hash</c>
+
+00:13:05.750 --> 00:13:05.760 align:start position:0%
+so that we can use it in our actual hash
+ 
+
+00:13:05.760 --> 00:13:07.610 align:start position:0%
+so that we can use it in our actual hash
+Maps<00:13:06.060><c> itself</c><00:13:06.300><c> later</c><00:13:06.600><c> when</c><00:13:07.019><c> we're</c><00:13:07.200><c> removing</c>
+
+00:13:07.610 --> 00:13:07.620 align:start position:0%
+Maps itself later when we're removing
+ 
+
+00:13:07.620 --> 00:13:08.930 align:start position:0%
+Maps itself later when we're removing
+that<00:13:07.800><c> element</c><00:13:07.980><c> from</c><00:13:08.339><c> all</c><00:13:08.519><c> the</c><00:13:08.639><c> priority</c>
+
+00:13:08.930 --> 00:13:08.940 align:start position:0%
+that element from all the priority
+ 
+
+00:13:08.940 --> 00:13:11.389 align:start position:0%
+that element from all the priority
+queues<00:13:09.360><c> we</c><00:13:10.079><c> then</c><00:13:10.200><c> go</c><00:13:10.440><c> ahead</c><00:13:10.680><c> and</c><00:13:10.920><c> use</c><00:13:11.100><c> the</c><00:13:11.339><c> car</c>
+
+00:13:11.389 --> 00:13:11.399 align:start position:0%
+queues we then go ahead and use the car
+ 
+
+00:13:11.399 --> 00:13:14.930 align:start position:0%
+queues we then go ahead and use the car
+map<00:13:11.700><c> because</c><00:13:12.120><c> we</c><00:13:12.720><c> know</c><00:13:12.839><c> that</c><00:13:13.279><c> our</c><00:13:14.279><c> car</c><00:13:14.459><c> map</c><00:13:14.700><c> is</c>
+
+00:13:14.930 --> 00:13:14.940 align:start position:0%
+map because we know that our car map is
+ 
+
+00:13:14.940 --> 00:13:16.490 align:start position:0%
+map because we know that our car map is
+basically<00:13:15.180><c> mapping</c><00:13:15.600><c> license</c><00:13:15.839><c> plate</c><00:13:16.260><c> numbers</c>
+
+00:13:16.490 --> 00:13:16.500 align:start position:0%
+basically mapping license plate numbers
+ 
+
+00:13:16.500 --> 00:13:18.230 align:start position:0%
+basically mapping license plate numbers
+to<00:13:16.800><c> the</c><00:13:16.980><c> spot</c><00:13:17.160><c> that</c><00:13:17.339><c> they're</c><00:13:17.519><c> in</c><00:13:17.700><c> so</c><00:13:18.000><c> that</c><00:13:18.120><c> we</c>
+
+00:13:18.230 --> 00:13:18.240 align:start position:0%
+to the spot that they're in so that we
+ 
+
+00:13:18.240 --> 00:13:20.329 align:start position:0%
+to the spot that they're in so that we
+can<00:13:18.360><c> vacate</c><00:13:18.779><c> it</c><00:13:18.899><c> later</c><00:13:19.079><c> and</c><00:13:19.860><c> so</c><00:13:20.040><c> we're</c><00:13:20.160><c> going</c>
+
+00:13:20.329 --> 00:13:20.339 align:start position:0%
+can vacate it later and so we're going
+ 
+
+00:13:20.339 --> 00:13:22.550 align:start position:0%
+can vacate it later and so we're going
+to<00:13:20.519><c> set</c><00:13:20.700><c> that</c><00:13:20.940><c> element</c><00:13:21.120><c> in</c><00:13:21.480><c> the</c><00:13:21.600><c> car</c><00:13:21.720><c> map</c>
+
+00:13:22.550 --> 00:13:22.560 align:start position:0%
+to set that element in the car map
+ 
+
+00:13:22.560 --> 00:13:24.470 align:start position:0%
+to set that element in the car map
+and<00:13:23.100><c> then</c><00:13:23.220><c> finally</c><00:13:23.579><c> for</c><00:13:23.940><c> every</c><00:13:24.180><c> single</c>
+
+00:13:24.470 --> 00:13:24.480 align:start position:0%
+and then finally for every single
+ 
+
+00:13:24.480 --> 00:13:26.329 align:start position:0%
+and then finally for every single
+priority<00:13:24.839><c> queue</c><00:13:25.260><c> we</c><00:13:25.680><c> have</c><00:13:25.740><c> to</c><00:13:25.860><c> now</c><00:13:26.040><c> remove</c>
+
+00:13:26.329 --> 00:13:26.339 align:start position:0%
+priority queue we have to now remove
+ 
+
+00:13:26.339 --> 00:13:28.490 align:start position:0%
+priority queue we have to now remove
+this<00:13:26.700><c> parking</c><00:13:27.060><c> spot</c><00:13:27.240><c> and</c><00:13:27.839><c> so</c><00:13:28.019><c> we</c><00:13:28.200><c> go</c><00:13:28.320><c> through</c>
+
+00:13:28.490 --> 00:13:28.500 align:start position:0%
+this parking spot and so we go through
+ 
+
+00:13:28.500 --> 00:13:30.949 align:start position:0%
+this parking spot and so we go through
+the<00:13:28.740><c> priority</c><00:13:29.040><c> queues</c><00:13:29.519><c> basically</c><00:13:30.420><c> in</c><00:13:30.660><c> code</c>
+
+00:13:30.949 --> 00:13:30.959 align:start position:0%
+the priority queues basically in code
+ 
+
+00:13:30.959 --> 00:13:33.350 align:start position:0%
+the priority queues basically in code
+say<00:13:31.320><c> okay</c><00:13:31.560><c> find</c><00:13:32.040><c> the</c><00:13:32.339><c> element</c>
+
+00:13:33.350 --> 00:13:33.360 align:start position:0%
+say okay find the element
+ 
+
+00:13:33.360 --> 00:13:36.470 align:start position:0%
+say okay find the element
+um<00:13:33.420><c> or</c><00:13:33.660><c> basically</c><00:13:34.019><c> find</c><00:13:34.380><c> the</c><00:13:35.220><c> index</c><00:13:36.000><c> of</c><00:13:36.300><c> the</c>
+
+00:13:36.470 --> 00:13:36.480 align:start position:0%
+um or basically find the index of the
+ 
+
+00:13:36.480 --> 00:13:38.269 align:start position:0%
+um or basically find the index of the
+array<00:13:36.779><c> in</c><00:13:37.079><c> the</c><00:13:37.200><c> priority</c><00:13:37.500><c> queue</c><00:13:37.860><c> that</c><00:13:38.040><c> this</c>
+
+00:13:38.269 --> 00:13:38.279 align:start position:0%
+array in the priority queue that this
+ 
+
+00:13:38.279 --> 00:13:40.129 align:start position:0%
+array in the priority queue that this
+parking<00:13:38.639><c> spot</c><00:13:38.760><c> is</c><00:13:39.060><c> located</c><00:13:39.240><c> at</c><00:13:39.600><c> and</c><00:13:39.839><c> we</c><00:13:40.019><c> have</c>
+
+00:13:40.129 --> 00:13:40.139 align:start position:0%
+parking spot is located at and we have
+ 
+
+00:13:40.139 --> 00:13:42.949 align:start position:0%
+parking spot is located at and we have
+that<00:13:40.380><c> from</c><00:13:40.680><c> our</c><00:13:40.860><c> parking</c><00:13:41.220><c> spot</c><00:13:41.339><c> hashmap</c><00:13:42.420><c> we</c><00:13:42.839><c> go</c>
+
+00:13:42.949 --> 00:13:42.959 align:start position:0%
+that from our parking spot hashmap we go
+ 
+
+00:13:42.959 --> 00:13:45.050 align:start position:0%
+that from our parking spot hashmap we go
+ahead<00:13:43.139><c> and</c><00:13:43.260><c> do</c><00:13:43.440><c> that</c><00:13:43.680><c> remove</c><00:13:44.339><c> those</c><00:13:44.639><c> all</c><00:13:44.880><c> from</c>
+
+00:13:45.050 --> 00:13:45.060 align:start position:0%
+ahead and do that remove those all from
+ 
+
+00:13:45.060 --> 00:13:46.430 align:start position:0%
+ahead and do that remove those all from
+the<00:13:45.180><c> priority</c><00:13:45.480><c> queue</c><00:13:45.839><c> so</c><00:13:45.959><c> those</c><00:13:46.139><c> are</c><00:13:46.320><c> all</c>
+
+00:13:46.430 --> 00:13:46.440 align:start position:0%
+the priority queue so those are all
+ 
+
+00:13:46.440 --> 00:13:48.590 align:start position:0%
+the priority queue so those are all
+going<00:13:46.680><c> to</c><00:13:46.800><c> be</c><00:13:47.040><c> a</c><00:13:47.399><c> logarithmic</c><00:13:48.120><c> time</c>
+
+00:13:48.590 --> 00:13:48.600 align:start position:0%
+going to be a logarithmic time
+ 
+
+00:13:48.600 --> 00:13:50.750 align:start position:0%
+going to be a logarithmic time
+complexity<00:13:49.200><c> operations</c><00:13:49.680><c> and</c><00:13:50.339><c> once</c><00:13:50.519><c> we've</c>
+
+00:13:50.750 --> 00:13:50.760 align:start position:0%
+complexity operations and once we've
+ 
+
+00:13:50.760 --> 00:13:52.970 align:start position:0%
+complexity operations and once we've
+removed<00:13:51.240><c> that</c><00:13:51.959><c> parking</c><00:13:52.260><c> spot</c><00:13:52.440><c> from</c><00:13:52.740><c> every</c>
+
+00:13:52.970 --> 00:13:52.980 align:start position:0%
+removed that parking spot from every
+ 
+
+00:13:52.980 --> 00:13:55.129 align:start position:0%
+removed that parking spot from every
+single<00:13:53.220><c> priority</c><00:13:53.639><c> queue</c><00:13:54.060><c> for</c><00:13:54.480><c> each</c><00:13:54.720><c> entrance</c>
+
+00:13:55.129 --> 00:13:55.139 align:start position:0%
+single priority queue for each entrance
+ 
+
+00:13:55.139 --> 00:13:57.769 align:start position:0%
+single priority queue for each entrance
+we<00:13:55.800><c> can</c><00:13:55.860><c> go</c><00:13:56.100><c> ahead</c><00:13:56.279><c> and</c><00:13:56.639><c> move</c><00:13:56.880><c> on</c><00:13:57.120><c> to</c><00:13:57.480><c> our</c>
+
+00:13:57.769 --> 00:13:57.779 align:start position:0%
+we can go ahead and move on to our
+ 
+
+00:13:57.779 --> 00:13:59.509 align:start position:0%
+we can go ahead and move on to our
+actual<00:13:58.019><c> exit</c><00:13:58.440><c> method</c>
+
+00:13:59.509 --> 00:13:59.519 align:start position:0%
+actual exit method
+ 
+
+00:13:59.519 --> 00:14:02.090 align:start position:0%
+actual exit method
+okay<00:14:00.120><c> so</c><00:14:00.600><c> now</c><00:14:00.720><c> the</c><00:14:01.079><c> exit</c><00:14:01.320><c> method</c><00:14:01.680><c> is</c><00:14:01.920><c> pretty</c>
+
+00:14:02.090 --> 00:14:02.100 align:start position:0%
+okay so now the exit method is pretty
+ 
+
+00:14:02.100 --> 00:14:04.129 align:start position:0%
+okay so now the exit method is pretty
+much<00:14:02.220><c> symmetrical</c><00:14:02.760><c> to</c><00:14:02.940><c> the</c><00:14:03.120><c> entry</c><00:14:03.360><c> method</c><00:14:03.720><c> but</c>
+
+00:14:04.129 --> 00:14:04.139 align:start position:0%
+much symmetrical to the entry method but
+ 
+
+00:14:04.139 --> 00:14:05.629 align:start position:0%
+much symmetrical to the entry method but
+instead<00:14:04.500><c> of</c><00:14:04.560><c> this</c><00:14:04.740><c> time</c><00:14:04.920><c> removing</c><00:14:05.459><c> that</c>
+
+00:14:05.629 --> 00:14:05.639 align:start position:0%
+instead of this time removing that
+ 
+
+00:14:05.639 --> 00:14:07.009 align:start position:0%
+instead of this time removing that
+parking<00:14:06.000><c> spot</c><00:14:06.120><c> from</c><00:14:06.420><c> all</c><00:14:06.600><c> the</c><00:14:06.720><c> priority</c>
+
+00:14:07.009 --> 00:14:07.019 align:start position:0%
+parking spot from all the priority
+ 
+
+00:14:07.019 --> 00:14:08.870 align:start position:0%
+parking spot from all the priority
+queues<00:14:07.500><c> now</c><00:14:07.860><c> we</c><00:14:07.980><c> have</c><00:14:08.100><c> to</c><00:14:08.220><c> go</c><00:14:08.339><c> ahead</c><00:14:08.519><c> and</c><00:14:08.700><c> add</c>
+
+00:14:08.870 --> 00:14:08.880 align:start position:0%
+queues now we have to go ahead and add
+ 
+
+00:14:08.880 --> 00:14:10.730 align:start position:0%
+queues now we have to go ahead and add
+it<00:14:09.060><c> back</c><00:14:09.300><c> to</c><00:14:09.600><c> all</c><00:14:09.720><c> of</c><00:14:09.839><c> the</c><00:14:09.959><c> priority</c><00:14:10.260><c> queues</c>
+
+00:14:10.730 --> 00:14:10.740 align:start position:0%
+it back to all of the priority queues
+ 
+
+00:14:10.740 --> 00:14:12.110 align:start position:0%
+it back to all of the priority queues
+which<00:14:10.980><c> is</c><00:14:11.100><c> pretty</c><00:14:11.220><c> annoying</c><00:14:11.639><c> but</c><00:14:11.820><c> it's</c><00:14:11.940><c> a</c>
+
+00:14:12.110 --> 00:14:12.120 align:start position:0%
+which is pretty annoying but it's a
+ 
+
+00:14:12.120 --> 00:14:13.850 align:start position:0%
+which is pretty annoying but it's a
+similar<00:14:12.420><c> thing</c><00:14:12.600><c> so</c><00:14:13.139><c> the</c><00:14:13.260><c> first</c><00:14:13.440><c> thing</c><00:14:13.560><c> we</c><00:14:13.740><c> do</c>
+
+00:14:13.850 --> 00:14:13.860 align:start position:0%
+similar thing so the first thing we do
+ 
+
+00:14:13.860 --> 00:14:15.710 align:start position:0%
+similar thing so the first thing we do
+is<00:14:14.160><c> we</c><00:14:14.339><c> know</c><00:14:14.459><c> that</c><00:14:14.700><c> we</c><00:14:14.880><c> have</c><00:14:15.000><c> a</c><00:14:15.300><c> given</c><00:14:15.540><c> license</c>
+
+00:14:15.710 --> 00:14:15.720 align:start position:0%
+is we know that we have a given license
+ 
+
+00:14:15.720 --> 00:14:17.509 align:start position:0%
+is we know that we have a given license
+plate<00:14:16.139><c> number</c><00:14:16.380><c> and</c><00:14:16.680><c> as</c><00:14:16.920><c> a</c><00:14:17.040><c> result</c><00:14:17.160><c> we</c><00:14:17.399><c> can</c>
+
+00:14:17.509 --> 00:14:17.519 align:start position:0%
+plate number and as a result we can
+ 
+
+00:14:17.519 --> 00:14:19.370 align:start position:0%
+plate number and as a result we can
+quickly<00:14:17.760><c> go</c><00:14:18.000><c> into</c><00:14:18.180><c> the</c><00:14:18.420><c> car</c><00:14:18.540><c> map</c><00:14:18.779><c> to</c><00:14:19.079><c> find</c><00:14:19.260><c> out</c>
+
+00:14:19.370 --> 00:14:19.380 align:start position:0%
+quickly go into the car map to find out
+ 
+
+00:14:19.380 --> 00:14:21.050 align:start position:0%
+quickly go into the car map to find out
+which<00:14:19.680><c> spot</c><00:14:19.860><c> it</c><00:14:20.100><c> was</c><00:14:20.279><c> that</c><00:14:20.519><c> that</c><00:14:20.700><c> car</c><00:14:20.880><c> was</c>
+
+00:14:21.050 --> 00:14:21.060 align:start position:0%
+which spot it was that that car was
+ 
+
+00:14:21.060 --> 00:14:23.449 align:start position:0%
+which spot it was that that car was
+occupying<00:14:21.660><c> then</c><00:14:22.320><c> we</c><00:14:22.560><c> can</c><00:14:22.620><c> go</c><00:14:22.860><c> through</c><00:14:23.040><c> all</c><00:14:23.339><c> of</c>
+
+00:14:23.449 --> 00:14:23.459 align:start position:0%
+occupying then we can go through all of
+ 
+
+00:14:23.459 --> 00:14:25.670 align:start position:0%
+occupying then we can go through all of
+the<00:14:23.579><c> priority</c><00:14:23.940><c> queues</c><00:14:24.420><c> for</c><00:14:25.019><c> each</c><00:14:25.260><c> entrance</c>
+
+00:14:25.670 --> 00:14:25.680 align:start position:0%
+the priority queues for each entrance
+ 
+
+00:14:25.680 --> 00:14:28.370 align:start position:0%
+the priority queues for each entrance
+and<00:14:26.279><c> basically</c><00:14:26.579><c> say</c><00:14:26.880><c> we're</c><00:14:27.540><c> going</c><00:14:27.779><c> to</c><00:14:28.079><c> figure</c>
+
+00:14:28.370 --> 00:14:28.380 align:start position:0%
+and basically say we're going to figure
+ 
+
+00:14:28.380 --> 00:14:30.590 align:start position:0%
+and basically say we're going to figure
+out<00:14:28.620><c> the</c><00:14:28.920><c> index</c><00:14:29.220><c> number</c><00:14:29.459><c> we're</c><00:14:30.300><c> basically</c>
+
+00:14:30.590 --> 00:14:30.600 align:start position:0%
+out the index number we're basically
+ 
+
+00:14:30.600 --> 00:14:32.629 align:start position:0%
+out the index number we're basically
+going<00:14:30.779><c> to</c><00:14:30.839><c> add</c><00:14:31.079><c> this</c><00:14:31.440><c> spot</c><00:14:31.680><c> back</c><00:14:32.040><c> into</c><00:14:32.279><c> all</c><00:14:32.519><c> of</c>
+
+00:14:32.629 --> 00:14:32.639 align:start position:0%
+going to add this spot back into all of
+ 
+
+00:14:32.639 --> 00:14:34.970 align:start position:0%
+going to add this spot back into all of
+the<00:14:32.760><c> priority</c><00:14:33.060><c> queues</c><00:14:33.480><c> figure</c><00:14:34.079><c> out</c><00:14:34.380><c> the</c><00:14:34.680><c> index</c>
+
+00:14:34.970 --> 00:14:34.980 align:start position:0%
+the priority queues figure out the index
+ 
+
+00:14:34.980 --> 00:14:37.069 align:start position:0%
+the priority queues figure out the index
+in<00:14:35.279><c> the</c><00:14:35.459><c> array</c><00:14:35.760><c> of</c><00:14:36.000><c> the</c><00:14:36.180><c> priority</c><00:14:36.480><c> queue</c><00:14:36.899><c> that</c>
+
+00:14:37.069 --> 00:14:37.079 align:start position:0%
+in the array of the priority queue that
+ 
+
+00:14:37.079 --> 00:14:38.990 align:start position:0%
+in the array of the priority queue that
+they<00:14:37.200><c> were</c><00:14:37.260><c> added</c><00:14:37.560><c> to</c><00:14:37.740><c> and</c><00:14:38.279><c> put</c><00:14:38.459><c> that</c><00:14:38.639><c> back</c><00:14:38.820><c> in</c>
+
+00:14:38.990 --> 00:14:39.000 align:start position:0%
+they were added to and put that back in
+ 
+
+00:14:39.000 --> 00:14:40.490 align:start position:0%
+they were added to and put that back in
+our<00:14:39.120><c> hash</c><00:14:39.360><c> map</c><00:14:39.540><c> in</c><00:14:39.779><c> the</c><00:14:39.899><c> event</c><00:14:40.019><c> that</c><00:14:40.260><c> we</c><00:14:40.380><c> have</c>
+
+00:14:40.490 --> 00:14:40.500 align:start position:0%
+our hash map in the event that we have
+ 
+
+00:14:40.500 --> 00:14:41.870 align:start position:0%
+our hash map in the event that we have
+to<00:14:40.560><c> remove</c><00:14:40.740><c> this</c><00:14:41.100><c> spot</c><00:14:41.339><c> from</c><00:14:41.579><c> all</c><00:14:41.760><c> the</c>
+
+00:14:41.870 --> 00:14:41.880 align:start position:0%
+to remove this spot from all the
+ 
+
+00:14:41.880 --> 00:14:43.910 align:start position:0%
+to remove this spot from all the
+priority<00:14:42.180><c> queues</c><00:14:42.600><c> later</c>
+
+00:14:43.910 --> 00:14:43.920 align:start position:0%
+priority queues later
+ 
+
+00:14:43.920 --> 00:14:46.610 align:start position:0%
+priority queues later
+okay<00:14:44.519><c> well</c><00:14:45.120><c> I</c><00:14:45.360><c> hope</c><00:14:45.480><c> that</c><00:14:45.720><c> makes</c><00:14:45.899><c> sense</c><00:14:46.139><c> guys</c><00:14:46.380><c> I</c>
+
+00:14:46.610 --> 00:14:46.620 align:start position:0%
+okay well I hope that makes sense guys I
+ 
+
+00:14:46.620 --> 00:14:48.230 align:start position:0%
+okay well I hope that makes sense guys I
+understand<00:14:46.860><c> that</c><00:14:47.279><c> this</c><00:14:47.399><c> is</c><00:14:47.579><c> kind</c><00:14:47.760><c> of</c><00:14:47.820><c> abstract</c>
+
+00:14:48.230 --> 00:14:48.240 align:start position:0%
+understand that this is kind of abstract
+ 
+
+00:14:48.240 --> 00:14:50.449 align:start position:0%
+understand that this is kind of abstract
+as<00:14:48.600><c> far</c><00:14:48.779><c> as</c><00:14:48.899><c> algorithms</c><00:14:49.440><c> go</c>
+
+00:14:50.449 --> 00:14:50.459 align:start position:0%
+as far as algorithms go
+ 
+
+00:14:50.459 --> 00:14:51.829 align:start position:0%
+as far as algorithms go
+um<00:14:50.579><c> but</c><00:14:50.940><c> again</c><00:14:51.120><c> there</c><00:14:51.480><c> are</c><00:14:51.600><c> many</c><00:14:51.660><c> many</c>
+
+00:14:51.829 --> 00:14:51.839 align:start position:0%
+um but again there are many many
+ 
+
+00:14:51.839 --> 00:14:52.910 align:start position:0%
+um but again there are many many
+different<00:14:52.139><c> types</c><00:14:52.500><c> of</c><00:14:52.620><c> possible</c>
+
+00:14:52.910 --> 00:14:52.920 align:start position:0%
+different types of possible
+ 
+
+00:14:52.920 --> 00:14:54.769 align:start position:0%
+different types of possible
+implementations<00:14:53.579><c> that</c><00:14:53.820><c> you</c><00:14:53.940><c> can</c><00:14:54.060><c> do</c><00:14:54.240><c> and</c>
+
+00:14:54.769 --> 00:14:54.779 align:start position:0%
+implementations that you can do and
+ 
+
+00:14:54.779 --> 00:14:56.389 align:start position:0%
+implementations that you can do and
+frankly<00:14:55.079><c> kind</c><00:14:55.440><c> of</c><00:14:55.560><c> the</c><00:14:55.680><c> concept</c><00:14:55.980><c> of</c><00:14:56.160><c> having</c>
+
+00:14:56.389 --> 00:14:56.399 align:start position:0%
+frankly kind of the concept of having
+ 
+
+00:14:56.399 --> 00:14:58.430 align:start position:0%
+frankly kind of the concept of having
+multiple<00:14:56.820><c> entrances</c><00:14:57.300><c> and</c><00:14:57.540><c> exits</c><00:14:58.019><c> with</c>
+
+00:14:58.430 --> 00:14:58.440 align:start position:0%
+multiple entrances and exits with
+ 
+
+00:14:58.440 --> 00:15:00.170 align:start position:0%
+multiple entrances and exits with
+priority<00:14:58.800><c> cues</c><00:14:59.220><c> like</c><00:14:59.339><c> that</c><00:14:59.459><c> is</c><00:14:59.699><c> not</c><00:14:59.880><c> a</c><00:15:00.060><c> simple</c>
+
+00:15:00.170 --> 00:15:00.180 align:start position:0%
+priority cues like that is not a simple
+ 
+
+00:15:00.180 --> 00:15:01.550 align:start position:0%
+priority cues like that is not a simple
+thing<00:15:00.420><c> and</c><00:15:00.660><c> I</c><00:15:00.779><c> don't</c><00:15:00.839><c> think</c><00:15:01.019><c> anyone</c><00:15:01.380><c> would</c>
+
+00:15:01.550 --> 00:15:01.560 align:start position:0%
+thing and I don't think anyone would
+ 
+
+00:15:01.560 --> 00:15:03.170 align:start position:0%
+thing and I don't think anyone would
+expect<00:15:01.740><c> you</c><00:15:02.040><c> to</c><00:15:02.220><c> code</c><00:15:02.339><c> that</c><00:15:02.579><c> out</c><00:15:02.760><c> in</c><00:15:03.060><c> an</c>
+
+00:15:03.170 --> 00:15:03.180 align:start position:0%
+expect you to code that out in an
+ 
+
+00:15:03.180 --> 00:15:04.430 align:start position:0%
+expect you to code that out in an
+interview
+
+00:15:04.430 --> 00:15:04.440 align:start position:0%
+interview
+ 
+
+00:15:04.440 --> 00:15:06.290 align:start position:0%
+interview
+um but<00:15:04.740><c> the</c><00:15:04.860><c> general</c><00:15:04.980><c> gist</c><00:15:05.399><c> of</c><00:15:05.579><c> this</c><00:15:05.760><c> video</c><00:15:05.880><c> is</c>
+
+00:15:06.290 --> 00:15:06.300 align:start position:0%
+um but the general gist of this video is
+ 
+
+00:15:06.300 --> 00:15:08.269 align:start position:0%
+um but the general gist of this video is
+you<00:15:06.480><c> know</c><00:15:06.540><c> thinking</c><00:15:06.899><c> about</c><00:15:07.019><c> what</c><00:15:07.920><c> parts</c><00:15:08.100><c> of</c>
+
+00:15:08.269 --> 00:15:08.279 align:start position:0%
+you know thinking about what parts of
+ 
+
+00:15:08.279 --> 00:15:09.590 align:start position:0%
+you know thinking about what parts of
+the<00:15:08.339><c> parking</c><00:15:08.639><c> garage</c><00:15:08.820><c> actually</c><00:15:09.240><c> need</c><00:15:09.480><c> to</c>
+
+00:15:09.590 --> 00:15:09.600 align:start position:0%
+the parking garage actually need to
+ 
+
+00:15:09.600 --> 00:15:11.569 align:start position:0%
+the parking garage actually need to
+store<00:15:09.779><c> State</c><00:15:10.139><c> and</c><00:15:10.620><c> which</c><00:15:10.800><c> don't</c><00:15:11.040><c> and</c><00:15:11.279><c> in</c><00:15:11.459><c> this</c>
+
+00:15:11.569 --> 00:15:11.579 align:start position:0%
+store State and which don't and in this
+ 
+
+00:15:11.579 --> 00:15:13.129 align:start position:0%
+store State and which don't and in this
+case<00:15:11.699><c> you</c><00:15:12.060><c> know</c><00:15:12.120><c> you</c><00:15:12.360><c> don't</c><00:15:12.480><c> need</c><00:15:12.660><c> an</c><00:15:12.899><c> entry</c>
+
+00:15:13.129 --> 00:15:13.139 align:start position:0%
+case you know you don't need an entry
+ 
+
+00:15:13.139 --> 00:15:14.930 align:start position:0%
+case you know you don't need an entry
+class<00:15:13.380><c> you</c><00:15:13.680><c> don't</c><00:15:13.800><c> need</c><00:15:13.980><c> an</c><00:15:14.160><c> exit</c><00:15:14.459><c> class</c><00:15:14.639><c> you</c>
+
+00:15:14.930 --> 00:15:14.940 align:start position:0%
+class you don't need an exit class you
+ 
+
+00:15:14.940 --> 00:15:16.910 align:start position:0%
+class you don't need an exit class you
+don't<00:15:15.060><c> need</c><00:15:15.240><c> vehicle</c><00:15:15.660><c> classes</c><00:15:16.079><c> just</c><00:15:16.680><c> having</c>
+
+00:15:16.910 --> 00:15:16.920 align:start position:0%
+don't need vehicle classes just having
+ 
+
+00:15:16.920 --> 00:15:18.650 align:start position:0%
+don't need vehicle classes just having
+an<00:15:17.160><c> implementation</c><00:15:17.699><c> of</c><00:15:18.060><c> a</c><00:15:18.240><c> parking</c><00:15:18.540><c> garage</c>
+
+00:15:18.650 --> 00:15:18.660 align:start position:0%
+an implementation of a parking garage
+ 
+
+00:15:18.660 --> 00:15:20.569 align:start position:0%
+an implementation of a parking garage
+for<00:15:19.019><c> the</c><00:15:19.199><c> logic</c><00:15:19.500><c> surrounding</c><00:15:19.920><c> which</c><00:15:20.100><c> spot</c><00:15:20.339><c> to</c>
+
+00:15:20.569 --> 00:15:20.579 align:start position:0%
+for the logic surrounding which spot to
+ 
+
+00:15:20.579 --> 00:15:22.610 align:start position:0%
+for the logic surrounding which spot to
+give<00:15:20.760><c> as</c><00:15:21.480><c> well</c><00:15:21.660><c> as</c><00:15:21.899><c> actually</c><00:15:22.199><c> having</c>
+
+00:15:22.610 --> 00:15:22.620 align:start position:0%
+give as well as actually having
+ 
+
+00:15:22.620 --> 00:15:24.889 align:start position:0%
+give as well as actually having
+implementations<00:15:23.399><c> for</c><00:15:23.760><c> parking</c><00:15:24.120><c> spot</c><00:15:24.300><c> objects</c>
+
+00:15:24.889 --> 00:15:24.899 align:start position:0%
+implementations for parking spot objects
+ 
+
+00:15:24.899 --> 00:15:26.629 align:start position:0%
+implementations for parking spot objects
+in<00:15:25.380><c> order</c><00:15:25.440><c> to</c><00:15:25.680><c> store</c><00:15:25.800><c> the</c><00:15:26.040><c> state</c><00:15:26.220><c> of</c><00:15:26.399><c> whether</c>
+
+00:15:26.629 --> 00:15:26.639 align:start position:0%
+in order to store the state of whether
+ 
+
+00:15:26.639 --> 00:15:28.370 align:start position:0%
+in order to store the state of whether
+or<00:15:26.820><c> not</c><00:15:26.820><c> they're</c><00:15:27.060><c> occupied</c><00:15:27.540><c> should</c><00:15:28.199><c> be</c>
+
+00:15:28.370 --> 00:15:28.380 align:start position:0%
+or not they're occupied should be
+ 
+
+00:15:28.380 --> 00:15:30.050 align:start position:0%
+or not they're occupied should be
+sufficient<00:15:28.800><c> for</c><00:15:29.040><c> this</c><00:15:29.220><c> problem</c>
+
+00:15:30.050 --> 00:15:30.060 align:start position:0%
+sufficient for this problem
+ 
+
+00:15:30.060 --> 00:15:32.449 align:start position:0%
+sufficient for this problem
+alrighty<00:15:31.019><c> everyone</c><00:15:31.139><c> I</c><00:15:31.560><c> hope</c><00:15:31.740><c> you</c><00:15:31.860><c> all</c><00:15:32.040><c> enjoyed</c>
+
+00:15:32.449 --> 00:15:32.459 align:start position:0%
+alrighty everyone I hope you all enjoyed
+ 
+
+00:15:32.459 --> 00:15:35.030 align:start position:0%
+alrighty everyone I hope you all enjoyed
+uh<00:15:33.060><c> shout</c><00:15:33.360><c> out</c><00:15:33.420><c> Xavier</c><00:15:33.899><c> Zhao</c><00:15:34.440><c> who</c><00:15:34.620><c> has</c><00:15:34.740><c> asked</c>
+
+00:15:35.030 --> 00:15:35.040 align:start position:0%
+uh shout out Xavier Zhao who has asked
+ 
+
+00:15:35.040 --> 00:15:37.189 align:start position:0%
+uh shout out Xavier Zhao who has asked
+me<00:15:35.100><c> to</c><00:15:35.339><c> make</c><00:15:35.579><c> this</c><00:15:35.820><c> video</c><00:15:36.060><c> and</c><00:15:36.660><c> I'm</c><00:15:36.959><c> coming</c>
+
+00:15:37.189 --> 00:15:37.199 align:start position:0%
+me to make this video and I'm coming
+ 
+
+00:15:37.199 --> 00:15:39.350 align:start position:0%
+me to make this video and I'm coming
+through<00:15:37.440><c> on</c><00:15:37.560><c> my</c><00:15:37.740><c> promise</c><00:15:38.040><c> buddy</c>
+
+00:15:39.350 --> 00:15:39.360 align:start position:0%
+through on my promise buddy
+ 
+
+00:15:39.360 --> 00:15:41.269 align:start position:0%
+through on my promise buddy
+um<00:15:39.420><c> yeah</c><00:15:39.660><c> but</c><00:15:40.019><c> uh</c><00:15:40.199><c> do</c><00:15:40.440><c> expect</c><00:15:40.620><c> me</c><00:15:40.860><c> to</c><00:15:41.040><c> sell</c><00:15:41.160><c> out</c>
+
+00:15:41.269 --> 00:15:41.279 align:start position:0%
+um yeah but uh do expect me to sell out
+ 
+
+00:15:41.279 --> 00:15:43.069 align:start position:0%
+um yeah but uh do expect me to sell out
+in<00:15:41.519><c> the</c><00:15:41.579><c> near</c><00:15:41.699><c> future</c><00:15:41.940><c> as</c><00:15:42.300><c> I</c><00:15:42.540><c> continue</c><00:15:42.660><c> to</c><00:15:42.959><c> run</c>
+
+00:15:43.069 --> 00:15:43.079 align:start position:0%
+in the near future as I continue to run
+ 
+
+00:15:43.079 --> 00:15:45.110 align:start position:0%
+in the near future as I continue to run
+out<00:15:43.260><c> of</c><00:15:43.380><c> video</c><00:15:43.560><c> ideas</c><00:15:43.800><c> but</c><00:15:44.339><c> for</c><00:15:44.760><c> now</c><00:15:44.880><c> let's</c>
+
+00:15:45.110 --> 00:15:45.120 align:start position:0%
+out of video ideas but for now let's
+ 
+
+00:15:45.120 --> 00:15:48.560 align:start position:0%
+out of video ideas but for now let's
+keep<00:15:45.300><c> busting</c><00:15:45.779><c> through</c><00:15:45.899><c> low-level</c><00:15:46.380><c> design</c>
+

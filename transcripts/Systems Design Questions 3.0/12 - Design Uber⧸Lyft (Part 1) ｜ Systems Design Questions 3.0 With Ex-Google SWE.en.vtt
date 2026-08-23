@@ -1,0 +1,3192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.790 align:start position:0%
+ 
+Hello<00:00:00.400><c> everybody</c><00:00:00.960><c> and</c><00:00:01.360><c> welcome</c><00:00:02.000><c> back</c><00:00:02.320><c> to</c><00:00:02.560><c> the</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+Hello everybody and welcome back to the
+ 
+
+00:00:02.800 --> 00:00:04.710 align:start position:0%
+Hello everybody and welcome back to the
+channel.<00:00:03.360><c> Today</c><00:00:03.600><c> we'll</c><00:00:03.919><c> be</c><00:00:04.080><c> talking</c><00:00:04.400><c> about</c>
+
+00:00:04.710 --> 00:00:04.720 align:start position:0%
+channel. Today we'll be talking about
+ 
+
+00:00:04.720 --> 00:00:06.470 align:start position:0%
+channel. Today we'll be talking about
+Uber.<00:00:05.200><c> Now</c><00:00:05.440><c> some</c><00:00:05.600><c> of</c><00:00:05.680><c> my</c><00:00:05.839><c> friends</c><00:00:06.160><c> like</c><00:00:06.319><c> to</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+Uber. Now some of my friends like to
+ 
+
+00:00:06.480 --> 00:00:07.909 align:start position:0%
+Uber. Now some of my friends like to
+call<00:00:06.560><c> me</c><00:00:06.720><c> an</c><00:00:06.879><c> Uber</c><00:00:07.200><c> driver</c><00:00:07.440><c> because</c><00:00:07.600><c> I</c><00:00:07.759><c> can</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+call me an Uber driver because I can
+ 
+
+00:00:07.919 --> 00:00:09.750 align:start position:0%
+call me an Uber driver because I can
+comfortably<00:00:08.320><c> fit</c><00:00:08.639><c> three</c><00:00:08.880><c> riders</c><00:00:09.200><c> in</c><00:00:09.440><c> my</c><00:00:09.519><c> back</c>
+
+00:00:09.750 --> 00:00:09.760 align:start position:0%
+comfortably fit three riders in my back
+ 
+
+00:00:09.760 --> 00:00:11.910 align:start position:0%
+comfortably fit three riders in my back
+seat.<00:00:10.480><c> But</c><00:00:10.639><c> nonetheless,</c><00:00:11.280><c> today</c><00:00:11.519><c> we'll</c><00:00:11.759><c> be</c>
+
+00:00:11.910 --> 00:00:11.920 align:start position:0%
+seat. But nonetheless, today we'll be
+ 
+
+00:00:11.920 --> 00:00:13.430 align:start position:0%
+seat. But nonetheless, today we'll be
+talking<00:00:12.080><c> about</c><00:00:12.240><c> the</c><00:00:12.480><c> architecture</c><00:00:12.960><c> of</c><00:00:13.200><c> the</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+talking about the architecture of the
+ 
+
+00:00:13.440 --> 00:00:15.190 align:start position:0%
+talking about the architecture of the
+application<00:00:13.840><c> itself.</c><00:00:14.400><c> So</c><00:00:14.639><c> let's</c><00:00:14.799><c> go</c><00:00:14.960><c> ahead</c>
+
+00:00:15.190 --> 00:00:15.200 align:start position:0%
+application itself. So let's go ahead
+ 
+
+00:00:15.200 --> 00:00:17.590 align:start position:0%
+application itself. So let's go ahead
+and<00:00:15.440><c> get</c><00:00:15.599><c> into</c><00:00:15.839><c> it.</c><00:00:16.320><c> Uber</c><00:00:16.720><c> is</c><00:00:16.800><c> a</c><00:00:16.960><c> ride</c><00:00:17.279><c> hailing</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+and get into it. Uber is a ride hailing
+ 
+
+00:00:17.600 --> 00:00:19.750 align:start position:0%
+and get into it. Uber is a ride hailing
+app.<00:00:18.160><c> When</c><00:00:18.320><c> I</c><00:00:18.480><c> want</c><00:00:18.640><c> to</c><00:00:18.800><c> ride,</c><00:00:19.119><c> I</c><00:00:19.279><c> enter</c><00:00:19.520><c> my</c>
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+app. When I want to ride, I enter my
+ 
+
+00:00:19.760 --> 00:00:21.830 align:start position:0%
+app. When I want to ride, I enter my
+pickup<00:00:20.080><c> and</c><00:00:20.320><c> drop</c><00:00:20.560><c> off</c><00:00:20.800><c> location.</c><00:00:21.600><c> From</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+pickup and drop off location. From
+ 
+
+00:00:21.840 --> 00:00:23.830 align:start position:0%
+pickup and drop off location. From
+there,<00:00:22.160><c> the</c><00:00:22.320><c> app</c><00:00:22.560><c> asks</c><00:00:22.880><c> drivers</c><00:00:23.199><c> around</c><00:00:23.519><c> me</c><00:00:23.680><c> if</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+there, the app asks drivers around me if
+ 
+
+00:00:23.840 --> 00:00:25.509 align:start position:0%
+there, the app asks drivers around me if
+they're<00:00:24.080><c> interested</c><00:00:24.320><c> in</c><00:00:24.480><c> participating.</c>
+
+00:00:25.509 --> 00:00:25.519 align:start position:0%
+they're interested in participating.
+ 
+
+00:00:25.519 --> 00:00:27.189 align:start position:0%
+they're interested in participating.
+Once<00:00:25.760><c> I'm</c><00:00:25.920><c> matched</c><00:00:26.240><c> with</c><00:00:26.320><c> a</c><00:00:26.560><c> driver,</c><00:00:26.880><c> I</c><00:00:27.119><c> can</c>
+
+00:00:27.189 --> 00:00:27.199 align:start position:0%
+Once I'm matched with a driver, I can
+ 
+
+00:00:27.199 --> 00:00:29.509 align:start position:0%
+Once I'm matched with a driver, I can
+see<00:00:27.359><c> the</c><00:00:27.519><c> driver's</c><00:00:28.000><c> location.</c><00:00:28.800><c> Once</c><00:00:29.119><c> I</c><00:00:29.279><c> enter</c>
+
+00:00:29.509 --> 00:00:29.519 align:start position:0%
+see the driver's location. Once I enter
+ 
+
+00:00:29.519 --> 00:00:31.269 align:start position:0%
+see the driver's location. Once I enter
+the<00:00:29.679><c> driver's</c><00:00:30.080><c> car,</c><00:00:30.480><c> he'll</c><00:00:30.720><c> take</c><00:00:30.880><c> me</c><00:00:31.039><c> the</c><00:00:31.199><c> rest</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+the driver's car, he'll take me the rest
+ 
+
+00:00:31.279 --> 00:00:33.510 align:start position:0%
+the driver's car, he'll take me the rest
+of<00:00:31.359><c> the</c><00:00:31.519><c> way.</c><00:00:32.320><c> Personally,</c><00:00:32.880><c> I</c><00:00:33.040><c> always</c><00:00:33.280><c> try</c><00:00:33.440><c> to</c>
+
+00:00:33.510 --> 00:00:33.520 align:start position:0%
+of the way. Personally, I always try to
+ 
+
+00:00:33.520 --> 00:00:35.750 align:start position:0%
+of the way. Personally, I always try to
+get<00:00:33.680><c> myself</c><00:00:34.000><c> in</c><00:00:34.160><c> a</c><00:00:34.320><c> comfortable</c><00:00:34.640><c> white</c><00:00:34.960><c> van.</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+get myself in a comfortable white van.
+ 
+
+00:00:35.760 --> 00:00:37.430 align:start position:0%
+get myself in a comfortable white van.
+For<00:00:35.920><c> the</c><00:00:36.079><c> sake</c><00:00:36.239><c> of</c><00:00:36.399><c> this</c><00:00:36.559><c> video,</c><00:00:36.880><c> we're</c><00:00:37.120><c> mainly</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+For the sake of this video, we're mainly
+ 
+
+00:00:37.440 --> 00:00:39.030 align:start position:0%
+For the sake of this video, we're mainly
+going<00:00:37.520><c> to</c><00:00:37.600><c> focus</c><00:00:37.840><c> on</c><00:00:38.000><c> a</c><00:00:38.160><c> small</c><00:00:38.399><c> subset</c><00:00:38.800><c> of</c><00:00:38.879><c> the</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+going to focus on a small subset of the
+ 
+
+00:00:39.040 --> 00:00:40.869 align:start position:0%
+going to focus on a small subset of the
+functionality<00:00:39.520><c> that's</c><00:00:39.680><c> in</c><00:00:39.840><c> the</c><00:00:39.920><c> Uber</c><00:00:40.239><c> app.</c>
+
+00:00:40.869 --> 00:00:40.879 align:start position:0%
+functionality that's in the Uber app.
+ 
+
+00:00:40.879 --> 00:00:42.549 align:start position:0%
+functionality that's in the Uber app.
+Firstly,<00:00:41.280><c> we</c><00:00:41.520><c> want</c><00:00:41.600><c> a</c><00:00:41.840><c> potential</c><00:00:42.160><c> passenger</c>
+
+00:00:42.549 --> 00:00:42.559 align:start position:0%
+Firstly, we want a potential passenger
+ 
+
+00:00:42.559 --> 00:00:44.950 align:start position:0%
+Firstly, we want a potential passenger
+to<00:00:42.719><c> be</c><00:00:42.879><c> able</c><00:00:43.040><c> to</c><00:00:43.200><c> request</c><00:00:43.440><c> a</c><00:00:43.680><c> ride.</c><00:00:44.480><c> Next,</c><00:00:44.800><c> we</c>
+
+00:00:44.950 --> 00:00:44.960 align:start position:0%
+to be able to request a ride. Next, we
+ 
+
+00:00:44.960 --> 00:00:46.709 align:start position:0%
+to be able to request a ride. Next, we
+want<00:00:45.040><c> to</c><00:00:45.200><c> send</c><00:00:45.360><c> this</c><00:00:45.600><c> ride</c><00:00:45.840><c> request</c><00:00:46.160><c> to</c><00:00:46.320><c> nearby</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+want to send this ride request to nearby
+ 
+
+00:00:46.719 --> 00:00:48.630 align:start position:0%
+want to send this ride request to nearby
+drivers<00:00:47.200><c> with</c><00:00:47.440><c> the</c><00:00:47.600><c> purpose</c><00:00:47.920><c> of</c><00:00:48.239><c> ultimately</c>
+
+00:00:48.630 --> 00:00:48.640 align:start position:0%
+drivers with the purpose of ultimately
+ 
+
+00:00:48.640 --> 00:00:50.229 align:start position:0%
+drivers with the purpose of ultimately
+generating<00:00:48.960><c> a</c><00:00:49.200><c> match</c><00:00:49.440><c> between</c><00:00:49.760><c> rider</c><00:00:50.079><c> and</c>
+
+00:00:50.229 --> 00:00:50.239 align:start position:0%
+generating a match between rider and
+ 
+
+00:00:50.239 --> 00:00:52.310 align:start position:0%
+generating a match between rider and
+driver.<00:00:51.039><c> Finally,</c><00:00:51.520><c> we'll</c><00:00:51.760><c> need</c><00:00:51.920><c> to</c><00:00:52.000><c> show</c><00:00:52.160><c> the</c>
+
+00:00:52.310 --> 00:00:52.320 align:start position:0%
+driver. Finally, we'll need to show the
+ 
+
+00:00:52.320 --> 00:00:54.069 align:start position:0%
+driver. Finally, we'll need to show the
+rider<00:00:52.640><c> and</c><00:00:52.879><c> driver</c><00:00:53.280><c> each</c><00:00:53.520><c> each</c><00:00:53.680><c> other's</c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+rider and driver each each other's
+ 
+
+00:00:54.079 --> 00:00:56.869 align:start position:0%
+rider and driver each each other's
+locations<00:00:54.879><c> until</c><00:00:55.199><c> the</c><00:00:55.440><c> ride</c><00:00:55.680><c> commences.</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+locations until the ride commences.
+ 
+
+00:00:56.879 --> 00:00:58.549 align:start position:0%
+locations until the ride commences.
+Let's<00:00:57.199><c> add</c><00:00:57.360><c> in</c><00:00:57.520><c> one</c><00:00:57.680><c> more</c><00:00:57.840><c> non-functional</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+Let's add in one more non-functional
+ 
+
+00:00:58.559 --> 00:01:00.549 align:start position:0%
+Let's add in one more non-functional
+requirement.<00:00:59.359><c> A</c><00:00:59.600><c> user</c><00:00:59.920><c> should</c><00:01:00.079><c> not</c><00:01:00.320><c> be</c><00:01:00.480><c> able</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+requirement. A user should not be able
+ 
+
+00:01:00.559 --> 00:01:02.950 align:start position:0%
+requirement. A user should not be able
+to<00:01:00.719><c> request</c><00:01:01.039><c> multiple</c><00:01:01.440><c> rides</c><00:01:01.760><c> at</c><00:01:02.000><c> a</c><00:01:02.160><c> time.</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+to request multiple rides at a time.
+ 
+
+00:01:02.960 --> 00:01:04.469 align:start position:0%
+to request multiple rides at a time.
+There<00:01:03.120><c> are</c><00:01:03.199><c> a</c><00:01:03.359><c> lot</c><00:01:03.440><c> of</c><00:01:03.520><c> aspects</c><00:01:03.840><c> of</c><00:01:04.000><c> Uber</c><00:01:04.320><c> that</c>
+
+00:01:04.469 --> 00:01:04.479 align:start position:0%
+There are a lot of aspects of Uber that
+ 
+
+00:01:04.479 --> 00:01:06.149 align:start position:0%
+There are a lot of aspects of Uber that
+we're<00:01:04.640><c> not</c><00:01:04.799><c> going</c><00:01:04.879><c> to</c><00:01:04.960><c> cover</c><00:01:05.199><c> in</c><00:01:05.360><c> this</c><00:01:05.519><c> video.</c>
+
+00:01:06.149 --> 00:01:06.159 align:start position:0%
+we're not going to cover in this video.
+ 
+
+00:01:06.159 --> 00:01:07.990 align:start position:0%
+we're not going to cover in this video.
+These<00:01:06.400><c> include</c><00:01:06.720><c> route</c><00:01:07.040><c> generation,</c><00:01:07.680><c> ride</c>
+
+00:01:07.990 --> 00:01:08.000 align:start position:0%
+These include route generation, ride
+ 
+
+00:01:08.000 --> 00:01:09.830 align:start position:0%
+These include route generation, ride
+pricing,<00:01:08.320><c> algorithms,</c><00:01:08.960><c> reviews,</c><00:01:09.439><c> and</c><00:01:09.600><c> much</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+pricing, algorithms, reviews, and much
+ 
+
+00:01:09.840 --> 00:01:11.910 align:start position:0%
+pricing, algorithms, reviews, and much
+more.<00:01:10.880><c> According</c><00:01:11.280><c> to</c><00:01:11.360><c> some</c><00:01:11.600><c> online</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+more. According to some online
+ 
+
+00:01:11.920 --> 00:01:13.830 align:start position:0%
+more. According to some online
+estimates,<00:01:12.560><c> Uber</c><00:01:12.960><c> has</c><00:01:13.200><c> 200</c><00:01:13.520><c> million</c>
+
+00:01:13.830 --> 00:01:13.840 align:start position:0%
+estimates, Uber has 200 million
+ 
+
+00:01:13.840 --> 00:01:15.910 align:start position:0%
+estimates, Uber has 200 million
+potential<00:01:14.240><c> riders</c><00:01:14.799><c> and</c><00:01:15.040><c> 10</c><00:01:15.280><c> million</c><00:01:15.600><c> active</c>
+
+00:01:15.910 --> 00:01:15.920 align:start position:0%
+potential riders and 10 million active
+ 
+
+00:01:15.920 --> 00:01:17.910 align:start position:0%
+potential riders and 10 million active
+drivers<00:01:16.240><c> in</c><00:01:16.400><c> their</c><00:01:16.560><c> force.</c><00:01:17.439><c> Keep</c><00:01:17.680><c> in</c><00:01:17.840><c> mind</c>
+
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+drivers in their force. Keep in mind
+ 
+
+00:01:17.920 --> 00:01:19.910 align:start position:0%
+drivers in their force. Keep in mind
+that<00:01:18.080><c> Uber</c><00:01:18.479><c> basically</c><00:01:19.040><c> always</c><00:01:19.360><c> needs</c><00:01:19.600><c> to</c><00:01:19.759><c> keep</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+that Uber basically always needs to keep
+ 
+
+00:01:19.920 --> 00:01:21.670 align:start position:0%
+that Uber basically always needs to keep
+track<00:01:20.080><c> of</c><00:01:20.240><c> the</c><00:01:20.400><c> location</c><00:01:20.640><c> of</c><00:01:20.880><c> drivers</c><00:01:21.280><c> so</c><00:01:21.439><c> they</c>
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+track of the location of drivers so they
+ 
+
+00:01:21.680 --> 00:01:23.910 align:start position:0%
+track of the location of drivers so they
+can<00:01:21.840><c> be</c><00:01:22.000><c> matched</c><00:01:22.320><c> to</c><00:01:22.479><c> nearby</c><00:01:22.880><c> riders.</c><00:01:23.680><c> Since</c>
+
+00:01:23.910 --> 00:01:23.920 align:start position:0%
+can be matched to nearby riders. Since
+ 
+
+00:01:23.920 --> 00:01:25.670 align:start position:0%
+can be matched to nearby riders. Since
+these<00:01:24.240><c> are</c><00:01:24.320><c> cars,</c><00:01:24.720><c> their</c><00:01:24.960><c> location</c><00:01:25.360><c> can</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+these are cars, their location can
+ 
+
+00:01:25.680 --> 00:01:27.510 align:start position:0%
+these are cars, their location can
+actually<00:01:26.000><c> change</c><00:01:26.240><c> pretty</c><00:01:26.479><c> quickly.</c><00:01:27.360><c> That</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+actually change pretty quickly. That
+ 
+
+00:01:27.520 --> 00:01:28.950 align:start position:0%
+actually change pretty quickly. That
+means<00:01:27.759><c> we</c><00:01:27.920><c> should</c><00:01:28.080><c> be</c><00:01:28.240><c> having</c><00:01:28.400><c> these</c><00:01:28.640><c> drivers</c>
+
+00:01:28.950 --> 00:01:28.960 align:start position:0%
+means we should be having these drivers
+ 
+
+00:01:28.960 --> 00:01:30.630 align:start position:0%
+means we should be having these drivers
+pinging<00:01:29.280><c> our</c><00:01:29.439><c> servers</c><00:01:29.759><c> with</c><00:01:30.000><c> their</c><00:01:30.159><c> location</c>
+
+00:01:30.630 --> 00:01:30.640 align:start position:0%
+pinging our servers with their location
+ 
+
+00:01:30.640 --> 00:01:33.109 align:start position:0%
+pinging our servers with their location
+every<00:01:30.960><c> few</c><00:01:31.200><c> seconds.</c><00:01:32.400><c> Even</c><00:01:32.560><c> if</c><00:01:32.720><c> it</c><00:01:32.960><c> doesn't</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+every few seconds. Even if it doesn't
+ 
+
+00:01:33.119 --> 00:01:34.950 align:start position:0%
+every few seconds. Even if it doesn't
+take<00:01:33.360><c> us</c><00:01:33.520><c> too</c><00:01:33.759><c> much</c><00:01:34.000><c> storage</c><00:01:34.320><c> to</c><00:01:34.560><c> store</c><00:01:34.720><c> the</c>
+
+00:01:34.950 --> 00:01:34.960 align:start position:0%
+take us too much storage to store the
+ 
+
+00:01:34.960 --> 00:01:37.109 align:start position:0%
+take us too much storage to store the
+location<00:01:35.200><c> of</c><00:01:35.439><c> each</c><00:01:35.680><c> driver,</c><00:01:36.320><c> the</c><00:01:36.640><c> actual</c><00:01:36.880><c> load</c>
+
+00:01:37.109 --> 00:01:37.119 align:start position:0%
+location of each driver, the actual load
+ 
+
+00:01:37.119 --> 00:01:38.789 align:start position:0%
+location of each driver, the actual load
+for<00:01:37.360><c> millions</c><00:01:37.680><c> of</c><00:01:37.840><c> pings</c><00:01:38.079><c> per</c><00:01:38.320><c> second</c><00:01:38.479><c> to</c><00:01:38.640><c> a</c>
+
+00:01:38.789 --> 00:01:38.799 align:start position:0%
+for millions of pings per second to a
+ 
+
+00:01:38.799 --> 00:01:40.469 align:start position:0%
+for millions of pings per second to a
+server<00:01:39.040><c> is</c><00:01:39.280><c> likely</c><00:01:39.520><c> too</c><00:01:39.680><c> much</c><00:01:39.840><c> for</c><00:01:40.000><c> a</c><00:01:40.159><c> single</c>
+
+00:01:40.469 --> 00:01:40.479 align:start position:0%
+server is likely too much for a single
+ 
+
+00:01:40.479 --> 00:01:42.390 align:start position:0%
+server is likely too much for a single
+box.<00:01:41.200><c> We're</c><00:01:41.439><c> going</c><00:01:41.520><c> to</c><00:01:41.680><c> have</c><00:01:41.840><c> to</c><00:01:41.920><c> do</c><00:01:42.079><c> some</c><00:01:42.240><c> work</c>
+
+00:01:42.390 --> 00:01:42.400 align:start position:0%
+box. We're going to have to do some work
+ 
+
+00:01:42.400 --> 00:01:44.230 align:start position:0%
+box. We're going to have to do some work
+to<00:01:42.560><c> scale</c><00:01:42.799><c> this</c><00:01:42.960><c> out</c><00:01:43.119><c> horizontally.</c><00:01:44.079><c> The</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+to scale this out horizontally. The
+ 
+
+00:01:44.240 --> 00:01:45.429 align:start position:0%
+to scale this out horizontally. The
+first<00:01:44.400><c> thing</c><00:01:44.479><c> that</c><00:01:44.720><c> we'll</c><00:01:44.880><c> discuss</c><00:01:45.200><c> when</c>
+
+00:01:45.429 --> 00:01:45.439 align:start position:0%
+first thing that we'll discuss when
+ 
+
+00:01:45.439 --> 00:01:47.190 align:start position:0%
+first thing that we'll discuss when
+talking<00:01:45.680><c> about</c><00:01:45.840><c> Uber</c><00:01:46.240><c> is</c><00:01:46.399><c> how</c><00:01:46.560><c> to</c><00:01:46.720><c> request</c><00:01:46.960><c> a</c>
+
+00:01:47.190 --> 00:01:47.200 align:start position:0%
+talking about Uber is how to request a
+ 
+
+00:01:47.200 --> 00:01:49.510 align:start position:0%
+talking about Uber is how to request a
+ride.<00:01:47.920><c> At</c><00:01:48.079><c> a</c><00:01:48.240><c> high</c><00:01:48.399><c> level,</c><00:01:48.720><c> the</c><00:01:48.880><c> passenger</c><00:01:49.280><c> is</c>
+
+00:01:49.510 --> 00:01:49.520 align:start position:0%
+ride. At a high level, the passenger is
+ 
+
+00:01:49.520 --> 00:01:50.950 align:start position:0%
+ride. At a high level, the passenger is
+going<00:01:49.680><c> to</c><00:01:49.759><c> pass</c><00:01:50.000><c> in</c><00:01:50.159><c> an</c><00:01:50.320><c> address</c><00:01:50.560><c> for</c><00:01:50.720><c> their</c>
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+going to pass in an address for their
+ 
+
+00:01:50.960 --> 00:01:52.789 align:start position:0%
+going to pass in an address for their
+starting<00:01:51.280><c> location</c><00:01:51.920><c> and</c><00:01:52.159><c> an</c><00:01:52.399><c> address</c><00:01:52.640><c> for</c>
+
+00:01:52.789 --> 00:01:52.799 align:start position:0%
+starting location and an address for
+ 
+
+00:01:52.799 --> 00:01:54.950 align:start position:0%
+starting location and an address for
+their<00:01:53.040><c> destination.</c><00:01:54.079><c> As</c><00:01:54.320><c> we</c><00:01:54.479><c> discussed</c><00:01:54.799><c> in</c>
+
+00:01:54.950 --> 00:01:54.960 align:start position:0%
+their destination. As we discussed in
+ 
+
+00:01:54.960 --> 00:01:56.389 align:start position:0%
+their destination. As we discussed in
+our<00:01:55.119><c> previous</c><00:01:55.439><c> video,</c><00:01:55.840><c> there</c><00:01:56.000><c> are</c><00:01:56.159><c> many</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+our previous video, there are many
+ 
+
+00:01:56.399 --> 00:01:57.990 align:start position:0%
+our previous video, there are many
+different<00:01:56.560><c> APIs</c><00:01:57.040><c> that</c><00:01:57.280><c> can</c><00:01:57.439><c> help</c><00:01:57.520><c> us</c><00:01:57.759><c> convert</c>
+
+00:01:57.990 --> 00:01:58.000 align:start position:0%
+different APIs that can help us convert
+ 
+
+00:01:58.000 --> 00:02:00.310 align:start position:0%
+different APIs that can help us convert
+these<00:01:58.240><c> two</c><00:01:58.479><c> coordinates</c><00:01:59.600><c> separately.</c><00:02:00.159><c> There</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+these two coordinates separately. There
+ 
+
+00:02:00.320 --> 00:02:02.069 align:start position:0%
+these two coordinates separately. There
+are<00:02:00.479><c> many</c><00:02:00.640><c> APIs</c><00:02:01.040><c> to</c><00:02:01.200><c> figure</c><00:02:01.360><c> out</c><00:02:01.520><c> the</c><00:02:01.680><c> path</c><00:02:01.840><c> to</c>
+
+00:02:02.069 --> 00:02:02.079 align:start position:0%
+are many APIs to figure out the path to
+ 
+
+00:02:02.079 --> 00:02:03.910 align:start position:0%
+are many APIs to figure out the path to
+get<00:02:02.159><c> from</c><00:02:02.399><c> point</c><00:02:02.560><c> A</c><00:02:02.799><c> to</c><00:02:02.880><c> point</c><00:02:03.119><c> B,</c><00:02:03.439><c> notably</c>
+
+00:02:03.910 --> 00:02:03.920 align:start position:0%
+get from point A to point B, notably
+ 
+
+00:02:03.920 --> 00:02:06.230 align:start position:0%
+get from point A to point B, notably
+Google<00:02:04.159><c> Maps.</c><00:02:05.040><c> We</c><00:02:05.280><c> could</c><00:02:05.360><c> use</c><00:02:05.520><c> a</c><00:02:05.759><c> very</c><00:02:05.920><c> simple</c>
+
+00:02:06.230 --> 00:02:06.240 align:start position:0%
+Google Maps. We could use a very simple
+ 
+
+00:02:06.240 --> 00:02:07.830 align:start position:0%
+Google Maps. We could use a very simple
+calculation<00:02:06.719><c> on</c><00:02:07.040><c> route</c><00:02:07.280><c> distance</c><00:02:07.600><c> and</c>
+
+00:02:07.830 --> 00:02:07.840 align:start position:0%
+calculation on route distance and
+ 
+
+00:02:07.840 --> 00:02:09.669 align:start position:0%
+calculation on route distance and
+estimated<00:02:08.399><c> time</c><00:02:08.640><c> to</c><00:02:08.879><c> provide</c><00:02:09.119><c> the</c><00:02:09.280><c> user</c><00:02:09.520><c> with</c>
+
+00:02:09.669 --> 00:02:09.679 align:start position:0%
+estimated time to provide the user with
+ 
+
+00:02:09.679 --> 00:02:11.990 align:start position:0%
+estimated time to provide the user with
+a<00:02:09.840><c> price</c><00:02:10.080><c> quote.</c><00:02:10.800><c> In</c><00:02:11.039><c> reality,</c><00:02:11.440><c> Uber</c><00:02:11.760><c> is</c><00:02:11.920><c> going</c>
+
+00:02:11.990 --> 00:02:12.000 align:start position:0%
+a price quote. In reality, Uber is going
+ 
+
+00:02:12.000 --> 00:02:13.430 align:start position:0%
+a price quote. In reality, Uber is going
+to<00:02:12.080><c> be</c><00:02:12.160><c> looking</c><00:02:12.319><c> at</c><00:02:12.480><c> supply</c><00:02:12.720><c> and</c><00:02:12.959><c> demand</c><00:02:13.280><c> in</c>
+
+00:02:13.430 --> 00:02:13.440 align:start position:0%
+to be looking at supply and demand in
+ 
+
+00:02:13.440 --> 00:02:15.589 align:start position:0%
+to be looking at supply and demand in
+order<00:02:13.599><c> to</c><00:02:13.760><c> generate</c><00:02:14.080><c> a</c><00:02:14.239><c> ride</c><00:02:14.560><c> price.</c><00:02:15.200><c> Once</c><00:02:15.440><c> a</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+order to generate a ride price. Once a
+ 
+
+00:02:15.599 --> 00:02:17.430 align:start position:0%
+order to generate a ride price. Once a
+user<00:02:15.840><c> asks</c><00:02:16.160><c> for</c><00:02:16.239><c> a</c><00:02:16.400><c> ride,</c><00:02:16.800><c> we</c><00:02:16.959><c> should</c><00:02:17.040><c> persist</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+user asks for a ride, we should persist
+ 
+
+00:02:17.440 --> 00:02:19.670 align:start position:0%
+user asks for a ride, we should persist
+that<00:02:17.680><c> information</c><00:02:18.000><c> to</c><00:02:18.239><c> a</c><00:02:18.480><c> database.</c><00:02:19.280><c> If</c><00:02:19.520><c> we</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+that information to a database. If we
+ 
+
+00:02:19.680 --> 00:02:21.030 align:start position:0%
+that information to a database. If we
+instead<00:02:20.000><c> decided</c><00:02:20.400><c> to</c><00:02:20.480><c> cache</c><00:02:20.800><c> this</c>
+
+00:02:21.030 --> 00:02:21.040 align:start position:0%
+instead decided to cache this
+ 
+
+00:02:21.040 --> 00:02:22.790 align:start position:0%
+instead decided to cache this
+information<00:02:21.360><c> on</c><00:02:21.599><c> a</c><00:02:21.760><c> server,</c><00:02:22.239><c> we'd</c><00:02:22.560><c> expose</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+information on a server, we'd expose
+ 
+
+00:02:22.800 --> 00:02:25.030 align:start position:0%
+information on a server, we'd expose
+ourselves<00:02:23.120><c> to</c><00:02:23.360><c> two</c><00:02:23.520><c> failure</c><00:02:23.920><c> scenarios.</c><00:02:24.879><c> The</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+ourselves to two failure scenarios. The
+ 
+
+00:02:25.040 --> 00:02:26.550 align:start position:0%
+ourselves to two failure scenarios. The
+first<00:02:25.200><c> is</c><00:02:25.440><c> that</c><00:02:25.599><c> a</c><00:02:25.760><c> user</c><00:02:26.000><c> could</c><00:02:26.160><c> request</c>
+
+00:02:26.550 --> 00:02:26.560 align:start position:0%
+first is that a user could request
+ 
+
+00:02:26.560 --> 00:02:28.790 align:start position:0%
+first is that a user could request
+another<00:02:26.879><c> ride</c><00:02:27.200><c> on</c><00:02:27.360><c> a</c><00:02:27.520><c> separate</c><00:02:27.840><c> server.</c><00:02:28.560><c> The</c>
+
+00:02:28.790 --> 00:02:28.800 align:start position:0%
+another ride on a separate server. The
+ 
+
+00:02:28.800 --> 00:02:30.550 align:start position:0%
+another ride on a separate server. The
+other<00:02:28.959><c> is</c><00:02:29.200><c> that</c><00:02:29.360><c> the</c><00:02:29.520><c> server</c><00:02:29.760><c> could</c><00:02:30.000><c> fail</c><00:02:30.319><c> and</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+other is that the server could fail and
+ 
+
+00:02:30.560 --> 00:02:32.150 align:start position:0%
+other is that the server could fail and
+the<00:02:30.720><c> user's</c><00:02:31.040><c> ride</c><00:02:31.280><c> requests</c><00:02:31.680><c> would</c><00:02:31.840><c> just</c><00:02:32.000><c> be</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+the user's ride requests would just be
+ 
+
+00:02:32.160 --> 00:02:34.390 align:start position:0%
+the user's ride requests would just be
+lost.<00:02:33.200><c> While</c><00:02:33.440><c> you</c><00:02:33.599><c> could</c><00:02:33.840><c> choose</c><00:02:34.000><c> to</c><00:02:34.160><c> attempt</c>
+
+00:02:34.390 --> 00:02:34.400 align:start position:0%
+lost. While you could choose to attempt
+ 
+
+00:02:34.400 --> 00:02:36.309 align:start position:0%
+lost. While you could choose to attempt
+to<00:02:34.560><c> map</c><00:02:34.800><c> a</c><00:02:34.959><c> user</c><00:02:35.200><c> to</c><00:02:35.360><c> a</c><00:02:35.519><c> single</c><00:02:35.760><c> server,</c><00:02:36.160><c> it</c>
+
+00:02:36.309 --> 00:02:36.319 align:start position:0%
+to map a user to a single server, it
+ 
+
+00:02:36.319 --> 00:02:37.830 align:start position:0%
+to map a user to a single server, it
+adds<00:02:36.560><c> a</c><00:02:36.720><c> bunch</c><00:02:36.800><c> of</c><00:02:36.959><c> complexity</c><00:02:37.360><c> in</c><00:02:37.519><c> the</c><00:02:37.680><c> face</c>
+
+00:02:37.830 --> 00:02:37.840 align:start position:0%
+adds a bunch of complexity in the face
+ 
+
+00:02:37.840 --> 00:02:39.670 align:start position:0%
+adds a bunch of complexity in the face
+of<00:02:38.000><c> server</c><00:02:38.319><c> failures.</c><00:02:38.879><c> And</c><00:02:39.040><c> it</c><00:02:39.200><c> feels</c><00:02:39.360><c> like</c><00:02:39.519><c> we</c>
+
+00:02:39.670 --> 00:02:39.680 align:start position:0%
+of server failures. And it feels like we
+ 
+
+00:02:39.680 --> 00:02:40.949 align:start position:0%
+of server failures. And it feels like we
+should<00:02:39.760><c> just</c><00:02:39.920><c> put</c><00:02:40.080><c> this</c><00:02:40.319><c> application</c><00:02:40.720><c> state</c>
+
+00:02:40.949 --> 00:02:40.959 align:start position:0%
+should just put this application state
+ 
+
+00:02:40.959 --> 00:02:42.790 align:start position:0%
+should just put this application state
+in<00:02:41.120><c> a</c><00:02:41.280><c> persistent</c><00:02:41.680><c> database</c><00:02:42.239><c> where</c><00:02:42.480><c> we</c><00:02:42.640><c> don't</c>
+
+00:02:42.790 --> 00:02:42.800 align:start position:0%
+in a persistent database where we don't
+ 
+
+00:02:42.800 --> 00:02:44.949 align:start position:0%
+in a persistent database where we don't
+have<00:02:42.959><c> to</c><00:02:43.040><c> worry</c><00:02:43.280><c> about</c><00:02:43.440><c> losing</c><00:02:43.760><c> it.</c><00:02:44.720><c> Let's</c>
+
+00:02:44.949 --> 00:02:44.959 align:start position:0%
+have to worry about losing it. Let's
+ 
+
+00:02:44.959 --> 00:02:47.430 align:start position:0%
+have to worry about losing it. Let's
+consider<00:02:45.280><c> the</c><00:02:45.519><c> schema</c><00:02:45.840><c> of</c><00:02:46.000><c> the</c><00:02:46.160><c> rides</c><00:02:46.560><c> table.</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+consider the schema of the rides table.
+ 
+
+00:02:47.440 --> 00:02:49.350 align:start position:0%
+consider the schema of the rides table.
+It<00:02:47.599><c> should</c><00:02:47.840><c> have</c><00:02:48.000><c> a</c><00:02:48.239><c> ride</c><00:02:48.560><c> ID,</c><00:02:48.879><c> a</c><00:02:49.120><c> start</c>
+
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+It should have a ride ID, a start
+ 
+
+00:02:49.360 --> 00:02:51.509 align:start position:0%
+It should have a ride ID, a start
+location,<00:02:49.920><c> an</c><00:02:50.160><c> end</c><00:02:50.400><c> location,</c><00:02:50.959><c> a</c><00:02:51.120><c> creation</c>
+
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+location, an end location, a creation
+ 
+
+00:02:51.519 --> 00:02:53.830 align:start position:0%
+location, an end location, a creation
+timestamp,<00:02:52.160><c> a</c><00:02:52.400><c> status,</c><00:02:53.040><c> which</c><00:02:53.280><c> could</c><00:02:53.519><c> be</c>
+
+00:02:53.830 --> 00:02:53.840 align:start position:0%
+timestamp, a status, which could be
+ 
+
+00:02:53.840 --> 00:02:55.910 align:start position:0%
+timestamp, a status, which could be
+requested,<00:02:54.400><c> claimed,</c><00:02:54.879><c> active,</c><00:02:55.280><c> complete,</c><00:02:55.599><c> or</c>
+
+00:02:55.910 --> 00:02:55.920 align:start position:0%
+requested, claimed, active, complete, or
+ 
+
+00:02:55.920 --> 00:02:57.990 align:start position:0%
+requested, claimed, active, complete, or
+canceled.<00:02:56.800><c> We</c><00:02:57.040><c> probably</c><00:02:57.360><c> also</c><00:02:57.599><c> need</c><00:02:57.760><c> a</c>
+
+00:02:57.990 --> 00:02:58.000 align:start position:0%
+canceled. We probably also need a
+ 
+
+00:02:58.000 --> 00:02:59.750 align:start position:0%
+canceled. We probably also need a
+passenger<00:02:58.319><c> ID</c><00:02:58.640><c> here,</c><00:02:58.879><c> as</c><00:02:59.040><c> well</c><00:02:59.120><c> as</c><00:02:59.280><c> a</c><00:02:59.440><c> driver</c>
+
+00:02:59.750 --> 00:02:59.760 align:start position:0%
+passenger ID here, as well as a driver
+ 
+
+00:02:59.760 --> 00:03:01.350 align:start position:0%
+passenger ID here, as well as a driver
+ID,<00:03:00.239><c> which</c><00:03:00.480><c> can</c><00:03:00.640><c> be</c><00:03:00.720><c> filled</c><00:03:00.959><c> out</c><00:03:01.040><c> when</c><00:03:01.200><c> the</c>
+
+00:03:01.350 --> 00:03:01.360 align:start position:0%
+ID, which can be filled out when the
+ 
+
+00:03:01.360 --> 00:03:03.830 align:start position:0%
+ID, which can be filled out when the
+ride<00:03:01.519><c> is</c><00:03:01.680><c> claimed.</c><00:03:02.560><c> We</c><00:03:02.800><c> also</c><00:03:03.120><c> likely</c><00:03:03.519><c> want</c><00:03:03.680><c> an</c>
+
+00:03:03.830 --> 00:03:03.840 align:start position:0%
+ride is claimed. We also likely want an
+ 
+
+00:03:03.840 --> 00:03:05.830 align:start position:0%
+ride is claimed. We also likely want an
+auxiliary<00:03:04.480><c> table</c><00:03:05.040><c> known</c><00:03:05.280><c> as</c><00:03:05.440><c> active</c>
+
+00:03:05.830 --> 00:03:05.840 align:start position:0%
+auxiliary table known as active
+ 
+
+00:03:05.840 --> 00:03:07.750 align:start position:0%
+auxiliary table known as active
+passenger<00:03:06.319><c> ride,</c><00:03:06.720><c> which</c><00:03:07.040><c> allows</c><00:03:07.280><c> us</c><00:03:07.440><c> to</c><00:03:07.599><c> track</c>
+
+00:03:07.750 --> 00:03:07.760 align:start position:0%
+passenger ride, which allows us to track
+ 
+
+00:03:07.760 --> 00:03:09.270 align:start position:0%
+passenger ride, which allows us to track
+the<00:03:07.920><c> current</c><00:03:08.159><c> ride</c><00:03:08.400><c> that</c><00:03:08.560><c> a</c><00:03:08.720><c> passenger</c><00:03:09.040><c> is</c><00:03:09.200><c> a</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+the current ride that a passenger is a
+ 
+
+00:03:09.280 --> 00:03:11.270 align:start position:0%
+the current ride that a passenger is a
+part<00:03:09.440><c> of.</c><00:03:10.080><c> This</c><00:03:10.319><c> will</c><00:03:10.480><c> just</c><00:03:10.640><c> point</c><00:03:10.879><c> to</c><00:03:11.040><c> a</c>
+
+00:03:11.270 --> 00:03:11.280 align:start position:0%
+part of. This will just point to a
+ 
+
+00:03:11.280 --> 00:03:13.270 align:start position:0%
+part of. This will just point to a
+single<00:03:11.519><c> object</c><00:03:11.760><c> in</c><00:03:11.920><c> the</c><00:03:12.080><c> rides</c><00:03:12.400><c> table.</c><00:03:13.120><c> The</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+single object in the rides table. The
+ 
+
+00:03:13.280 --> 00:03:14.550 align:start position:0%
+single object in the rides table. The
+reason<00:03:13.440><c> that</c><00:03:13.599><c> it's</c><00:03:13.840><c> useful</c><00:03:14.080><c> to</c><00:03:14.239><c> have</c><00:03:14.400><c> this</c>
+
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+reason that it's useful to have this
+ 
+
+00:03:14.560 --> 00:03:16.309 align:start position:0%
+reason that it's useful to have this
+denormalization<00:03:15.360><c> is</c><00:03:15.599><c> that</c><00:03:15.840><c> we'll</c><00:03:16.080><c> also</c>
+
+00:03:16.309 --> 00:03:16.319 align:start position:0%
+denormalization is that we'll also
+ 
+
+00:03:16.319 --> 00:03:17.750 align:start position:0%
+denormalization is that we'll also
+eventually<00:03:16.720><c> need</c><00:03:16.959><c> drivers</c><00:03:17.280><c> to</c><00:03:17.440><c> be</c><00:03:17.519><c> able</c><00:03:17.599><c> to</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+eventually need drivers to be able to
+ 
+
+00:03:17.760 --> 00:03:19.589 align:start position:0%
+eventually need drivers to be able to
+track<00:03:17.920><c> the</c><00:03:18.080><c> rides</c><00:03:18.319><c> that</c><00:03:18.480><c> they're</c><00:03:18.640><c> linked</c><00:03:18.879><c> to.</c>
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+track the rides that they're linked to.
+ 
+
+00:03:19.599 --> 00:03:21.190 align:start position:0%
+track the rides that they're linked to.
+It<00:03:19.760><c> would</c><00:03:19.920><c> be</c><00:03:20.080><c> very</c><00:03:20.319><c> hard</c><00:03:20.480><c> to</c><00:03:20.720><c> maintain</c><00:03:20.959><c> an</c>
+
+00:03:21.190 --> 00:03:21.200 align:start position:0%
+It would be very hard to maintain an
+ 
+
+00:03:21.200 --> 00:03:23.589 align:start position:0%
+It would be very hard to maintain an
+index<00:03:21.519><c> on</c><00:03:21.680><c> driver</c><00:03:22.080><c> ID</c><00:03:22.319><c> and</c><00:03:22.560><c> rider</c><00:03:22.959><c> ID</c><00:03:23.280><c> on</c><00:03:23.440><c> the</c>
+
+00:03:23.589 --> 00:03:23.599 align:start position:0%
+index on driver ID and rider ID on the
+ 
+
+00:03:23.599 --> 00:03:24.949 align:start position:0%
+index on driver ID and rider ID on the
+same<00:03:23.760><c> table,</c><00:03:24.000><c> which</c><00:03:24.239><c> is</c><00:03:24.400><c> horizontally</c>
+
+00:03:24.949 --> 00:03:24.959 align:start position:0%
+same table, which is horizontally
+ 
+
+00:03:24.959 --> 00:03:26.790 align:start position:0%
+same table, which is horizontally
+scaled.<00:03:25.840><c> We</c><00:03:26.080><c> could</c><00:03:26.239><c> use</c><00:03:26.400><c> something</c><00:03:26.640><c> like</c>
+
+00:03:26.790 --> 00:03:26.800 align:start position:0%
+scaled. We could use something like
+ 
+
+00:03:26.800 --> 00:03:28.470 align:start position:0%
+scaled. We could use something like
+change<00:03:27.120><c> data</c><00:03:27.440><c> capture,</c><00:03:27.680><c> but</c><00:03:27.920><c> that</c><00:03:28.080><c> introduces</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+change data capture, but that introduces
+ 
+
+00:03:28.480 --> 00:03:30.070 align:start position:0%
+change data capture, but that introduces
+a<00:03:28.640><c> bit</c><00:03:28.720><c> of</c><00:03:28.800><c> latency,</c><00:03:29.200><c> which</c><00:03:29.440><c> we</c><00:03:29.599><c> likely</c><00:03:29.840><c> don't</c>
+
+00:03:30.070 --> 00:03:30.080 align:start position:0%
+a bit of latency, which we likely don't
+ 
+
+00:03:30.080 --> 00:03:32.149 align:start position:0%
+a bit of latency, which we likely don't
+want<00:03:30.319><c> here.</c><00:03:31.040><c> Let's</c><00:03:31.280><c> summarize</c><00:03:31.680><c> our</c><00:03:31.920><c> ride</c>
+
+00:03:32.149 --> 00:03:32.159 align:start position:0%
+want here. Let's summarize our ride
+ 
+
+00:03:32.159 --> 00:03:34.869 align:start position:0%
+want here. Let's summarize our ride
+requesting<00:03:32.640><c> flow.</c><00:03:33.519><c> A</c><00:03:33.680><c> user</c><00:03:34.000><c> gets</c><00:03:34.159><c> a</c><00:03:34.319><c> ride</c><00:03:34.640><c> and</c>
+
+00:03:34.869 --> 00:03:34.879 align:start position:0%
+requesting flow. A user gets a ride and
+ 
+
+00:03:34.879 --> 00:03:36.630 align:start position:0%
+requesting flow. A user gets a ride and
+passes<00:03:35.200><c> in</c><00:03:35.280><c> a</c><00:03:35.440><c> latitude</c><00:03:35.840><c> and</c><00:03:36.000><c> longitude</c><00:03:36.480><c> for</c>
+
+00:03:36.630 --> 00:03:36.640 align:start position:0%
+passes in a latitude and longitude for
+ 
+
+00:03:36.640 --> 00:03:38.550 align:start position:0%
+passes in a latitude and longitude for
+their<00:03:36.720><c> pickup</c><00:03:37.120><c> point.</c><00:03:37.840><c> The</c><00:03:38.080><c> first</c><00:03:38.239><c> thing</c><00:03:38.319><c> we</c>
+
+00:03:38.550 --> 00:03:38.560 align:start position:0%
+their pickup point. The first thing we
+ 
+
+00:03:38.560 --> 00:03:40.149 align:start position:0%
+their pickup point. The first thing we
+do<00:03:38.720><c> is</c><00:03:38.879><c> check</c><00:03:39.120><c> whether</c><00:03:39.360><c> they</c><00:03:39.599><c> already</c><00:03:39.840><c> have</c><00:03:40.000><c> a</c>
+
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+do is check whether they already have a
+ 
+
+00:03:40.159 --> 00:03:42.470 align:start position:0%
+do is check whether they already have a
+ride<00:03:40.400><c> request</c><00:03:40.720><c> out</c><00:03:40.959><c> there.</c><00:03:41.760><c> If</c><00:03:41.920><c> so,</c><00:03:42.239><c> the</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+ride request out there. If so, the
+ 
+
+00:03:42.480 --> 00:03:44.309 align:start position:0%
+ride request out there. If so, the
+application<00:03:43.040><c> server</c><00:03:43.440><c> acts</c><00:03:43.760><c> based</c><00:03:44.000><c> on</c><00:03:44.159><c> the</c>
+
+00:03:44.309 --> 00:03:44.319 align:start position:0%
+application server acts based on the
+ 
+
+00:03:44.319 --> 00:03:46.390 align:start position:0%
+application server acts based on the
+state<00:03:44.480><c> of</c><00:03:44.640><c> the</c><00:03:44.799><c> existing</c><00:03:45.200><c> ride</c><00:03:45.440><c> object.</c><00:03:46.159><c> Maybe</c>
+
+00:03:46.390 --> 00:03:46.400 align:start position:0%
+state of the existing ride object. Maybe
+ 
+
+00:03:46.400 --> 00:03:47.830 align:start position:0%
+state of the existing ride object. Maybe
+we<00:03:46.560><c> have</c><00:03:46.640><c> to</c><00:03:46.799><c> keep</c><00:03:46.959><c> searching</c><00:03:47.280><c> for</c><00:03:47.440><c> a</c><00:03:47.599><c> driver</c>
+
+00:03:47.830 --> 00:03:47.840 align:start position:0%
+we have to keep searching for a driver
+ 
+
+00:03:47.840 --> 00:03:49.910 align:start position:0%
+we have to keep searching for a driver
+for<00:03:48.000><c> the</c><00:03:48.159><c> ride</c><00:03:48.720><c> or</c><00:03:49.120><c> maybe</c><00:03:49.360><c> we</c><00:03:49.519><c> have</c><00:03:49.599><c> to</c><00:03:49.760><c> start</c>
+
+00:03:49.910 --> 00:03:49.920 align:start position:0%
+for the ride or maybe we have to start
+ 
+
+00:03:49.920 --> 00:03:51.750 align:start position:0%
+for the ride or maybe we have to start
+sending<00:03:50.159><c> the</c><00:03:50.319><c> user's</c><00:03:50.720><c> location</c><00:03:51.040><c> to</c><00:03:51.280><c> a</c><00:03:51.440><c> paired</c>
+
+00:03:51.750 --> 00:03:51.760 align:start position:0%
+sending the user's location to a paired
+ 
+
+00:03:51.760 --> 00:03:54.149 align:start position:0%
+sending the user's location to a paired
+driver.<00:03:52.640><c> If</c><00:03:52.879><c> not,</c><00:03:53.120><c> we</c><00:03:53.360><c> create</c><00:03:53.519><c> it</c><00:03:53.760><c> by</c><00:03:53.920><c> first</c>
+
+00:03:54.149 --> 00:03:54.159 align:start position:0%
+driver. If not, we create it by first
+ 
+
+00:03:54.159 --> 00:03:55.910 align:start position:0%
+driver. If not, we create it by first
+adding<00:03:54.400><c> an</c><00:03:54.560><c> entry</c><00:03:54.799><c> to</c><00:03:54.959><c> the</c><00:03:55.120><c> active</c><00:03:55.519><c> passenger</c>
+
+00:03:55.910 --> 00:03:55.920 align:start position:0%
+adding an entry to the active passenger
+ 
+
+00:03:55.920 --> 00:03:57.990 align:start position:0%
+adding an entry to the active passenger
+ride<00:03:56.239><c> table</c><00:03:56.720><c> and</c><00:03:56.959><c> then</c><00:03:57.200><c> adding</c><00:03:57.439><c> one</c><00:03:57.680><c> to</c><00:03:57.840><c> the</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+ride table and then adding one to the
+ 
+
+00:03:58.000 --> 00:04:00.229 align:start position:0%
+ride table and then adding one to the
+rid's<00:03:58.400><c> table</c><00:03:58.640><c> itself.</c><00:03:59.439><c> At</c><00:03:59.680><c> this</c><00:03:59.840><c> point,</c><00:04:00.080><c> we</c>
+
+00:04:00.229 --> 00:04:00.239 align:start position:0%
+rid's table itself. At this point, we
+ 
+
+00:04:00.239 --> 00:04:02.470 align:start position:0%
+rid's table itself. At this point, we
+can<00:04:00.400><c> now</c><00:04:00.560><c> start</c><00:04:00.799><c> searching</c><00:04:01.120><c> for</c><00:04:01.360><c> a</c><00:04:01.519><c> driver.</c>
+
+00:04:02.470 --> 00:04:02.480 align:start position:0%
+can now start searching for a driver.
+ 
+
+00:04:02.480 --> 00:04:03.830 align:start position:0%
+can now start searching for a driver.
+Notice<00:04:02.720><c> how</c><00:04:02.879><c> we're</c><00:04:03.120><c> performing</c><00:04:03.439><c> our</c><00:04:03.680><c> two</c>
+
+00:04:03.830 --> 00:04:03.840 align:start position:0%
+Notice how we're performing our two
+ 
+
+00:04:03.840 --> 00:04:05.990 align:start position:0%
+Notice how we're performing our two
+rights<00:04:04.159><c> sequentially.</c><00:04:05.120><c> Doing</c><00:04:05.360><c> so</c><00:04:05.599><c> allows</c><00:04:05.920><c> us</c>
+
+00:04:05.990 --> 00:04:06.000 align:start position:0%
+rights sequentially. Doing so allows us
+ 
+
+00:04:06.000 --> 00:04:07.910 align:start position:0%
+rights sequentially. Doing so allows us
+to<00:04:06.159><c> avoid</c><00:04:06.480><c> a</c><00:04:06.640><c> potentially</c><00:04:07.120><c> slow</c><00:04:07.439><c> distributed</c>
+
+00:04:07.910 --> 00:04:07.920 align:start position:0%
+to avoid a potentially slow distributed
+ 
+
+00:04:07.920 --> 00:04:10.229 align:start position:0%
+to avoid a potentially slow distributed
+transaction.<00:04:09.040><c> That</c><00:04:09.280><c> being</c><00:04:09.519><c> said,</c><00:04:09.840><c> we</c><00:04:10.000><c> want</c><00:04:10.080><c> to</c>
+
+00:04:10.229 --> 00:04:10.239 align:start position:0%
+transaction. That being said, we want to
+ 
+
+00:04:10.239 --> 00:04:11.589 align:start position:0%
+transaction. That being said, we want to
+be<00:04:10.319><c> pretty</c><00:04:10.560><c> careful</c><00:04:10.799><c> about</c><00:04:10.959><c> the</c><00:04:11.200><c> ordering</c>
+
+00:04:11.589 --> 00:04:11.599 align:start position:0%
+be pretty careful about the ordering
+ 
+
+00:04:11.599 --> 00:04:13.509 align:start position:0%
+be pretty careful about the ordering
+here.<00:04:12.159><c> If</c><00:04:12.319><c> we</c><00:04:12.480><c> write</c><00:04:12.640><c> to</c><00:04:12.799><c> the</c><00:04:12.879><c> rid's</c><00:04:13.280><c> table</c>
+
+00:04:13.509 --> 00:04:13.519 align:start position:0%
+here. If we write to the rid's table
+ 
+
+00:04:13.519 --> 00:04:15.110 align:start position:0%
+here. If we write to the rid's table
+first,<00:04:13.920><c> we</c><00:04:14.080><c> could</c><00:04:14.159><c> have</c><00:04:14.319><c> a</c><00:04:14.480><c> situation</c><00:04:14.720><c> where</c><00:04:14.879><c> a</c>
+
+00:04:15.110 --> 00:04:15.120 align:start position:0%
+first, we could have a situation where a
+ 
+
+00:04:15.120 --> 00:04:16.870 align:start position:0%
+first, we could have a situation where a
+row<00:04:15.280><c> is</c><00:04:15.439><c> added</c><00:04:15.680><c> to</c><00:04:15.760><c> the</c><00:04:15.920><c> rides</c><00:04:16.239><c> table,</c><00:04:16.560><c> but</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+row is added to the rides table, but
+ 
+
+00:04:16.880 --> 00:04:18.949 align:start position:0%
+row is added to the rides table, but
+never<00:04:17.040><c> to</c><00:04:17.280><c> the</c><00:04:17.440><c> active</c><00:04:17.759><c> passenger</c><00:04:18.160><c> table.</c>
+
+00:04:18.949 --> 00:04:18.959 align:start position:0%
+never to the active passenger table.
+ 
+
+00:04:18.959 --> 00:04:20.629 align:start position:0%
+never to the active passenger table.
+Then,<00:04:19.280><c> we</c><00:04:19.440><c> could</c><00:04:19.600><c> match</c><00:04:19.840><c> our</c><00:04:20.000><c> passenger</c><00:04:20.400><c> with</c>
+
+00:04:20.629 --> 00:04:20.639 align:start position:0%
+Then, we could match our passenger with
+ 
+
+00:04:20.639 --> 00:04:22.390 align:start position:0%
+Then, we could match our passenger with
+the<00:04:20.880><c> driver,</c><00:04:21.359><c> and</c><00:04:21.519><c> if</c><00:04:21.680><c> the</c><00:04:21.840><c> passenger</c><00:04:22.240><c> all</c><00:04:22.320><c> of</c>
+
+00:04:22.390 --> 00:04:22.400 align:start position:0%
+the driver, and if the passenger all of
+ 
+
+00:04:22.400 --> 00:04:24.230 align:start position:0%
+the driver, and if the passenger all of
+a<00:04:22.560><c> sudden</c><00:04:22.720><c> connects</c><00:04:23.040><c> to</c><00:04:23.120><c> a</c><00:04:23.280><c> new</c><00:04:23.440><c> server,</c><00:04:24.000><c> they</c>
+
+00:04:24.230 --> 00:04:24.240 align:start position:0%
+a sudden connects to a new server, they
+ 
+
+00:04:24.240 --> 00:04:26.150 align:start position:0%
+a sudden connects to a new server, they
+wouldn't<00:04:24.479><c> know</c><00:04:24.639><c> about</c><00:04:24.800><c> their</c><00:04:24.960><c> claimed</c><00:04:25.360><c> ride.</c>
+
+00:04:26.150 --> 00:04:26.160 align:start position:0%
+wouldn't know about their claimed ride.
+ 
+
+00:04:26.160 --> 00:04:27.909 align:start position:0%
+wouldn't know about their claimed ride.
+Using<00:04:26.479><c> the</c><00:04:26.639><c> order</c><00:04:26.960><c> shown</c><00:04:27.199><c> in</c><00:04:27.360><c> the</c><00:04:27.520><c> diagram</c>
+
+00:04:27.909 --> 00:04:27.919 align:start position:0%
+Using the order shown in the diagram
+ 
+
+00:04:27.919 --> 00:04:29.270 align:start position:0%
+Using the order shown in the diagram
+ensures<00:04:28.320><c> that</c><00:04:28.400><c> a</c><00:04:28.560><c> passenger</c><00:04:28.960><c> will</c><00:04:29.120><c> be</c>
+
+00:04:29.270 --> 00:04:29.280 align:start position:0%
+ensures that a passenger will be
+ 
+
+00:04:29.280 --> 00:04:31.030 align:start position:0%
+ensures that a passenger will be
+guaranteed<00:04:29.680><c> to</c><00:04:29.919><c> track</c><00:04:30.160><c> any</c><00:04:30.400><c> ride</c><00:04:30.639><c> that</c><00:04:30.880><c> is</c>
+
+00:04:31.030 --> 00:04:31.040 align:start position:0%
+guaranteed to track any ride that is
+ 
+
+00:04:31.040 --> 00:04:33.430 align:start position:0%
+guaranteed to track any ride that is
+created<00:04:31.360><c> for</c><00:04:31.520><c> them.</c><00:04:32.639><c> Even</c><00:04:32.800><c> if</c><00:04:32.960><c> the</c><00:04:33.120><c> right</c><00:04:33.360><c> to</c>
+
+00:04:33.430 --> 00:04:33.440 align:start position:0%
+created for them. Even if the right to
+ 
+
+00:04:33.440 --> 00:04:35.350 align:start position:0%
+created for them. Even if the right to
+the<00:04:33.600><c> rides</c><00:04:33.919><c> table</c><00:04:34.160><c> fails,</c><00:04:34.720><c> it's</c><00:04:34.960><c> totally</c>
+
+00:04:35.350 --> 00:04:35.360 align:start position:0%
+the rides table fails, it's totally
+ 
+
+00:04:35.360 --> 00:04:36.950 align:start position:0%
+the rides table fails, it's totally
+fine.<00:04:35.840><c> The</c><00:04:36.000><c> passenger</c><00:04:36.400><c> will</c><00:04:36.560><c> see</c><00:04:36.720><c> that</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+fine. The passenger will see that
+ 
+
+00:04:36.960 --> 00:04:38.870 align:start position:0%
+fine. The passenger will see that
+there's<00:04:37.120><c> no</c><00:04:37.360><c> corresponding</c><00:04:38.000><c> ride</c><00:04:38.320><c> object</c><00:04:38.639><c> for</c>
+
+00:04:38.870 --> 00:04:38.880 align:start position:0%
+there's no corresponding ride object for
+ 
+
+00:04:38.880 --> 00:04:40.710 align:start position:0%
+there's no corresponding ride object for
+their<00:04:39.199><c> row</c><00:04:39.360><c> in</c><00:04:39.520><c> the</c><00:04:39.680><c> active</c><00:04:40.000><c> passenger</c><00:04:40.400><c> ride</c>
+
+00:04:40.710 --> 00:04:40.720 align:start position:0%
+their row in the active passenger ride
+ 
+
+00:04:40.720 --> 00:04:43.430 align:start position:0%
+their row in the active passenger ride
+table<00:04:41.120><c> and</c><00:04:41.360><c> realize</c><00:04:41.759><c> there's</c><00:04:42.000><c> been</c><00:04:42.160><c> an</c><00:04:42.400><c> error.</c>
+
+00:04:43.430 --> 00:04:43.440 align:start position:0%
+table and realize there's been an error.
+ 
+
+00:04:43.440 --> 00:04:45.590 align:start position:0%
+table and realize there's been an error.
+When<00:04:43.759><c> looking</c><00:04:44.000><c> for</c><00:04:44.160><c> a</c><00:04:44.320><c> potential</c><00:04:44.720><c> driver,</c><00:04:45.360><c> we</c>
+
+00:04:45.590 --> 00:04:45.600 align:start position:0%
+When looking for a potential driver, we
+ 
+
+00:04:45.600 --> 00:04:47.510 align:start position:0%
+When looking for a potential driver, we
+basically<00:04:46.000><c> need</c><00:04:46.160><c> to</c><00:04:46.320><c> do</c><00:04:46.400><c> the</c><00:04:46.639><c> following.</c>
+
+00:04:47.510 --> 00:04:47.520 align:start position:0%
+basically need to do the following.
+ 
+
+00:04:47.520 --> 00:04:49.270 align:start position:0%
+basically need to do the following.
+First,<00:04:48.080><c> consider</c><00:04:48.479><c> all</c><00:04:48.720><c> drivers</c><00:04:49.040><c> in</c><00:04:49.199><c> the</c>
+
+00:04:49.270 --> 00:04:49.280 align:start position:0%
+First, consider all drivers in the
+ 
+
+00:04:49.280 --> 00:04:51.430 align:start position:0%
+First, consider all drivers in the
+vicinity<00:04:49.680><c> of</c><00:04:49.759><c> the</c><00:04:49.919><c> pickup</c><00:04:50.240><c> point.</c><00:04:51.040><c> Then</c>
+
+00:04:51.430 --> 00:04:51.440 align:start position:0%
+vicinity of the pickup point. Then
+ 
+
+00:04:51.440 --> 00:04:53.270 align:start position:0%
+vicinity of the pickup point. Then
+prioritize<00:04:52.080><c> a</c><00:04:52.320><c> couple</c><00:04:52.400><c> of</c><00:04:52.560><c> the</c><00:04:52.720><c> closest</c><00:04:53.040><c> ones</c>
+
+00:04:53.270 --> 00:04:53.280 align:start position:0%
+prioritize a couple of the closest ones
+ 
+
+00:04:53.280 --> 00:04:55.590 align:start position:0%
+prioritize a couple of the closest ones
+and<00:04:53.600><c> notify</c><00:04:54.000><c> them</c><00:04:54.240><c> about</c><00:04:54.479><c> the</c><00:04:54.639><c> ride</c><00:04:54.880><c> request.</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+and notify them about the ride request.
+ 
+
+00:04:55.600 --> 00:04:57.270 align:start position:0%
+and notify them about the ride request.
+If<00:04:55.840><c> nobody</c><00:04:56.160><c> accepts,</c><00:04:56.720><c> keep</c><00:04:56.960><c> sending</c>
+
+00:04:57.270 --> 00:04:57.280 align:start position:0%
+If nobody accepts, keep sending
+ 
+
+00:04:57.280 --> 00:04:59.830 align:start position:0%
+If nobody accepts, keep sending
+notifications<00:04:57.840><c> to</c><00:04:58.000><c> more</c><00:04:58.240><c> drivers.</c><00:04:59.120><c> Finally,</c>
+
+00:04:59.830 --> 00:04:59.840 align:start position:0%
+notifications to more drivers. Finally,
+ 
+
+00:04:59.840 --> 00:05:01.830 align:start position:0%
+notifications to more drivers. Finally,
+when<00:05:00.080><c> one</c><00:05:00.320><c> driver</c><00:05:00.720><c> accepts,</c><00:05:01.280><c> match</c><00:05:01.600><c> them</c><00:05:01.759><c> to</c>
+
+00:05:01.830 --> 00:05:01.840 align:start position:0%
+when one driver accepts, match them to
+ 
+
+00:05:01.840 --> 00:05:03.590 align:start position:0%
+when one driver accepts, match them to
+the<00:05:02.000><c> ride</c><00:05:02.320><c> and</c><00:05:02.479><c> ensure</c><00:05:02.800><c> that</c><00:05:02.960><c> nobody</c><00:05:03.280><c> else</c><00:05:03.440><c> can</c>
+
+00:05:03.590 --> 00:05:03.600 align:start position:0%
+the ride and ensure that nobody else can
+ 
+
+00:05:03.600 --> 00:05:05.749 align:start position:0%
+the ride and ensure that nobody else can
+claim<00:05:03.840><c> it.</c><00:05:04.479><c> These</c><00:05:04.800><c> steps</c><00:05:05.040><c> imply</c><00:05:05.360><c> that</c><00:05:05.520><c> we</c><00:05:05.680><c> need</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+claim it. These steps imply that we need
+ 
+
+00:05:05.759 --> 00:05:07.270 align:start position:0%
+claim it. These steps imply that we need
+to<00:05:05.919><c> know</c><00:05:06.080><c> a</c><00:05:06.320><c> pretty</c><00:05:06.560><c> critical</c><00:05:06.880><c> piece</c><00:05:07.120><c> of</c>
+
+00:05:07.270 --> 00:05:07.280 align:start position:0%
+to know a pretty critical piece of
+ 
+
+00:05:07.280 --> 00:05:09.110 align:start position:0%
+to know a pretty critical piece of
+information,<00:05:08.080><c> the</c><00:05:08.320><c> locations</c><00:05:08.639><c> of</c><00:05:08.800><c> all</c><00:05:08.960><c> the</c>
+
+00:05:09.110 --> 00:05:09.120 align:start position:0%
+information, the locations of all the
+ 
+
+00:05:09.120 --> 00:05:11.590 align:start position:0%
+information, the locations of all the
+drivers.<00:05:10.000><c> As</c><00:05:10.320><c> drivers</c><00:05:10.720><c> have</c><00:05:10.880><c> their</c><00:05:11.039><c> Uber</c><00:05:11.360><c> app</c>
+
+00:05:11.590 --> 00:05:11.600 align:start position:0%
+drivers. As drivers have their Uber app
+ 
+
+00:05:11.600 --> 00:05:13.029 align:start position:0%
+drivers. As drivers have their Uber app
+open,<00:05:12.080><c> they</c><00:05:12.240><c> should</c><00:05:12.400><c> be</c><00:05:12.560><c> sending</c><00:05:12.800><c> their</c>
+
+00:05:13.029 --> 00:05:13.039 align:start position:0%
+open, they should be sending their
+ 
+
+00:05:13.039 --> 00:05:14.710 align:start position:0%
+open, they should be sending their
+location<00:05:13.360><c> to</c><00:05:13.520><c> our</c><00:05:13.680><c> back</c><00:05:13.919><c> end</c><00:05:14.240><c> every</c><00:05:14.560><c> few</c>
+
+00:05:14.710 --> 00:05:14.720 align:start position:0%
+location to our back end every few
+ 
+
+00:05:14.720 --> 00:05:17.189 align:start position:0%
+location to our back end every few
+seconds.<00:05:15.600><c> Fortunately,</c><00:05:16.400><c> cellular</c><00:05:16.880><c> devices</c>
+
+00:05:17.189 --> 00:05:17.199 align:start position:0%
+seconds. Fortunately, cellular devices
+ 
+
+00:05:17.199 --> 00:05:19.029 align:start position:0%
+seconds. Fortunately, cellular devices
+have<00:05:17.360><c> a</c><00:05:17.520><c> GPS</c><00:05:17.919><c> inside</c><00:05:18.240><c> of</c><00:05:18.320><c> them,</c><00:05:18.560><c> and</c><00:05:18.720><c> we</c><00:05:18.880><c> can</c>
+
+00:05:19.029 --> 00:05:19.039 align:start position:0%
+have a GPS inside of them, and we can
+ 
+
+00:05:19.039 --> 00:05:20.230 align:start position:0%
+have a GPS inside of them, and we can
+take<00:05:19.120><c> advantage</c><00:05:19.440><c> of</c><00:05:19.520><c> that</c><00:05:19.680><c> to</c><00:05:19.840><c> send</c><00:05:20.000><c> their</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+take advantage of that to send their
+ 
+
+00:05:20.240 --> 00:05:22.710 align:start position:0%
+take advantage of that to send their
+latitude<00:05:20.639><c> and</c><00:05:20.880><c> longitude</c><00:05:21.360><c> to</c><00:05:21.600><c> our</c><00:05:21.759><c> servers.</c>
+
+00:05:22.710 --> 00:05:22.720 align:start position:0%
+latitude and longitude to our servers.
+ 
+
+00:05:22.720 --> 00:05:24.629 align:start position:0%
+latitude and longitude to our servers.
+That<00:05:22.960><c> being</c><00:05:23.199><c> said,</c><00:05:23.600><c> we</c><00:05:23.840><c> also</c><00:05:24.080><c> need</c><00:05:24.240><c> to</c><00:05:24.400><c> store</c>
+
+00:05:24.629 --> 00:05:24.639 align:start position:0%
+That being said, we also need to store
+ 
+
+00:05:24.639 --> 00:05:26.469 align:start position:0%
+That being said, we also need to store
+their<00:05:24.880><c> locations</c><00:05:25.360><c> in</c><00:05:25.520><c> a</c><00:05:25.680><c> manner</c><00:05:25.919><c> such</c><00:05:26.160><c> that</c><00:05:26.320><c> we</c>
+
+00:05:26.469 --> 00:05:26.479 align:start position:0%
+their locations in a manner such that we
+ 
+
+00:05:26.479 --> 00:05:27.990 align:start position:0%
+their locations in a manner such that we
+can<00:05:26.560><c> quickly</c><00:05:26.880><c> find</c><00:05:27.039><c> a</c><00:05:27.280><c> set</c><00:05:27.440><c> of</c><00:05:27.520><c> the</c><00:05:27.680><c> closest</c>
+
+00:05:27.990 --> 00:05:28.000 align:start position:0%
+can quickly find a set of the closest
+ 
+
+00:05:28.000 --> 00:05:30.230 align:start position:0%
+can quickly find a set of the closest
+drivers<00:05:28.400><c> to</c><00:05:28.639><c> our</c><00:05:28.800><c> potential</c><00:05:29.199><c> rider.</c>
+
+00:05:30.230 --> 00:05:30.240 align:start position:0%
+drivers to our potential rider.
+ 
+
+00:05:30.240 --> 00:05:31.830 align:start position:0%
+drivers to our potential rider.
+Fortunately,<00:05:30.800><c> we</c><00:05:31.039><c> discussed</c><00:05:31.360><c> how</c><00:05:31.440><c> to</c><00:05:31.600><c> do</c><00:05:31.680><c> this</c>
+
+00:05:31.830 --> 00:05:31.840 align:start position:0%
+Fortunately, we discussed how to do this
+ 
+
+00:05:31.840 --> 00:05:34.070 align:start position:0%
+Fortunately, we discussed how to do this
+in<00:05:32.080><c> our</c><00:05:32.240><c> previous</c><00:05:32.560><c> video</c><00:05:32.800><c> about</c><00:05:33.039><c> Yelp.</c><00:05:33.840><c> Just</c>
+
+00:05:34.070 --> 00:05:34.080 align:start position:0%
+in our previous video about Yelp. Just
+ 
+
+00:05:34.080 --> 00:05:35.670 align:start position:0%
+in our previous video about Yelp. Just
+watch<00:05:34.240><c> that</c><00:05:34.479><c> if</c><00:05:34.720><c> you</c><00:05:34.800><c> want</c><00:05:34.960><c> more</c><00:05:35.120><c> details</c><00:05:35.520><c> on</c>
+
+00:05:35.670 --> 00:05:35.680 align:start position:0%
+watch that if you want more details on
+ 
+
+00:05:35.680 --> 00:05:37.909 align:start position:0%
+watch that if you want more details on
+this<00:05:35.919><c> section.</c><00:05:36.720><c> To</c><00:05:36.960><c> summarize,</c><00:05:37.440><c> we</c><00:05:37.600><c> can</c><00:05:37.680><c> use</c><00:05:37.759><c> a</c>
+
+00:05:37.909 --> 00:05:37.919 align:start position:0%
+this section. To summarize, we can use a
+ 
+
+00:05:37.919 --> 00:05:40.390 align:start position:0%
+this section. To summarize, we can use a
+geospatial<00:05:38.560><c> index.</c><00:05:39.600><c> This</c><00:05:39.759><c> allows</c><00:05:40.080><c> us</c><00:05:40.240><c> to</c>
+
+00:05:40.390 --> 00:05:40.400 align:start position:0%
+geospatial index. This allows us to
+ 
+
+00:05:40.400 --> 00:05:42.230 align:start position:0%
+geospatial index. This allows us to
+easily<00:05:40.800><c> find</c><00:05:41.039><c> all</c><00:05:41.280><c> points</c><00:05:41.600><c> within</c><00:05:41.840><c> a</c><00:05:42.000><c> fixed</c>
+
+00:05:42.230 --> 00:05:42.240 align:start position:0%
+easily find all points within a fixed
+ 
+
+00:05:42.240 --> 00:05:44.469 align:start position:0%
+easily find all points within a fixed
+distance<00:05:42.560><c> of</c><00:05:42.720><c> our</c><00:05:42.880><c> rider.</c><00:05:43.680><c> For</c><00:05:43.840><c> example,</c><00:05:44.240><c> when</c>
+
+00:05:44.469 --> 00:05:44.479 align:start position:0%
+distance of our rider. For example, when
+ 
+
+00:05:44.479 --> 00:05:46.310 align:start position:0%
+distance of our rider. For example, when
+Pornhub<00:05:45.039><c> tells</c><00:05:45.199><c> me</c><00:05:45.280><c> that</c><00:05:45.440><c> there</c><00:05:45.600><c> are</c><00:05:45.680><c> 100</c><00:05:45.919><c> mils</c>
+
+00:05:46.310 --> 00:05:46.320 align:start position:0%
+Pornhub tells me that there are 100 mils
+ 
+
+00:05:46.320 --> 00:05:47.830 align:start position:0%
+Pornhub tells me that there are 100 mils
+who<00:05:46.400><c> are</c><00:05:46.479><c> interested</c><00:05:46.720><c> in</c><00:05:46.800><c> me</c><00:05:46.960><c> within</c><00:05:47.199><c> a</c><00:05:47.360><c> 5</c><00:05:47.600><c> mile</c>
+
+00:05:47.830 --> 00:05:47.840 align:start position:0%
+who are interested in me within a 5 mile
+ 
+
+00:05:47.840 --> 00:05:49.510 align:start position:0%
+who are interested in me within a 5 mile
+radius,<00:05:48.400><c> they're</c><00:05:48.720><c> clearly</c><00:05:49.039><c> using</c><00:05:49.280><c> one</c><00:05:49.440><c> of</c>
+
+00:05:49.510 --> 00:05:49.520 align:start position:0%
+radius, they're clearly using one of
+ 
+
+00:05:49.520 --> 00:05:51.590 align:start position:0%
+radius, they're clearly using one of
+these.<00:05:50.479><c> Now</c><00:05:50.639><c> that</c><00:05:50.880><c> we're</c><00:05:51.120><c> employing</c><00:05:51.440><c> a</c>
+
+00:05:51.590 --> 00:05:51.600 align:start position:0%
+these. Now that we're employing a
+ 
+
+00:05:51.600 --> 00:05:53.270 align:start position:0%
+these. Now that we're employing a
+geospatial<00:05:52.240><c> index,</c><00:05:52.639><c> we</c><00:05:52.800><c> have</c><00:05:52.880><c> a</c><00:05:53.039><c> list</c><00:05:53.120><c> of</c>
+
+00:05:53.270 --> 00:05:53.280 align:start position:0%
+geospatial index, we have a list of
+ 
+
+00:05:53.280 --> 00:05:54.870 align:start position:0%
+geospatial index, we have a list of
+potential<00:05:53.680><c> candidate</c><00:05:54.080><c> drivers</c><00:05:54.479><c> for</c><00:05:54.720><c> our</c>
+
+00:05:54.870 --> 00:05:54.880 align:start position:0%
+potential candidate drivers for our
+ 
+
+00:05:54.880 --> 00:05:57.510 align:start position:0%
+potential candidate drivers for our
+ride.<00:05:55.680><c> We</c><00:05:55.919><c> can</c><00:05:56.000><c> use</c><00:05:56.160><c> a</c><00:05:56.320><c> short</c><00:05:56.560><c> TTL</c><00:05:57.120><c> for</c><00:05:57.280><c> each</c>
+
+00:05:57.510 --> 00:05:57.520 align:start position:0%
+ride. We can use a short TTL for each
+ 
+
+00:05:57.520 --> 00:05:59.510 align:start position:0%
+ride. We can use a short TTL for each
+location<00:05:57.919><c> update.</c><00:05:58.639><c> This</c><00:05:58.880><c> way,</c><00:05:59.039><c> we</c><00:05:59.280><c> don't</c><00:05:59.440><c> have</c>
+
+00:05:59.510 --> 00:05:59.520 align:start position:0%
+location update. This way, we don't have
+ 
+
+00:05:59.520 --> 00:06:01.189 align:start position:0%
+location update. This way, we don't have
+to<00:05:59.680><c> manually</c><00:06:00.080><c> expire</c><00:06:00.479><c> the</c><00:06:00.639><c> prior</c><00:06:00.960><c> known</c>
+
+00:06:01.189 --> 00:06:01.199 align:start position:0%
+to manually expire the prior known
+ 
+
+00:06:01.199 --> 00:06:03.350 align:start position:0%
+to manually expire the prior known
+location<00:06:01.600><c> for</c><00:06:01.759><c> each</c><00:06:02.000><c> driver.</c><00:06:02.800><c> This</c><00:06:03.039><c> becomes</c>
+
+00:06:03.350 --> 00:06:03.360 align:start position:0%
+location for each driver. This becomes
+ 
+
+00:06:03.360 --> 00:06:05.110 align:start position:0%
+location for each driver. This becomes
+especially<00:06:03.840><c> useful</c><00:06:04.160><c> when</c><00:06:04.319><c> the</c><00:06:04.479><c> driver</c><00:06:04.800><c> may</c><00:06:04.960><c> be</c>
+
+00:06:05.110 --> 00:06:05.120 align:start position:0%
+especially useful when the driver may be
+ 
+
+00:06:05.120 --> 00:06:06.309 align:start position:0%
+especially useful when the driver may be
+switching<00:06:05.360><c> between</c><00:06:05.680><c> partitions</c><00:06:06.080><c> of</c><00:06:06.160><c> our</c>
+
+00:06:06.309 --> 00:06:06.319 align:start position:0%
+switching between partitions of our
+ 
+
+00:06:06.319 --> 00:06:08.870 align:start position:0%
+switching between partitions of our
+geospatial<00:06:06.960><c> index,</c><00:06:07.680><c> allowing</c><00:06:08.080><c> us</c><00:06:08.240><c> to</c><00:06:08.319><c> avoid</c><00:06:08.639><c> a</c>
+
+00:06:08.870 --> 00:06:08.880 align:start position:0%
+geospatial index, allowing us to avoid a
+ 
+
+00:06:08.880 --> 00:06:11.110 align:start position:0%
+geospatial index, allowing us to avoid a
+distributed<00:06:09.440><c> transaction.</c><00:06:10.560><c> Uber</c><00:06:10.960><c> could</c>
+
+00:06:11.110 --> 00:06:11.120 align:start position:0%
+distributed transaction. Uber could
+ 
+
+00:06:11.120 --> 00:06:12.710 align:start position:0%
+distributed transaction. Uber could
+choose<00:06:11.360><c> to</c><00:06:11.520><c> contact</c><00:06:11.840><c> potential</c><00:06:12.319><c> drivers</c>
+
+00:06:12.710 --> 00:06:12.720 align:start position:0%
+choose to contact potential drivers
+ 
+
+00:06:12.720 --> 00:06:14.790 align:start position:0%
+choose to contact potential drivers
+using<00:06:13.039><c> many</c><00:06:13.360><c> different</c><00:06:13.520><c> strategies.</c><00:06:14.560><c> They</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+using many different strategies. They
+ 
+
+00:06:14.800 --> 00:06:16.070 align:start position:0%
+using many different strategies. They
+could<00:06:14.880><c> send</c><00:06:15.039><c> the</c><00:06:15.199><c> ride</c><00:06:15.440><c> request</c><00:06:15.680><c> to</c><00:06:15.919><c> one</c>
+
+00:06:16.070 --> 00:06:16.080 align:start position:0%
+could send the ride request to one
+ 
+
+00:06:16.080 --> 00:06:18.629 align:start position:0%
+could send the ride request to one
+driver<00:06:16.560><c> or</c><00:06:16.800><c> all</c><00:06:16.960><c> of</c><00:06:17.120><c> them.</c><00:06:17.759><c> In</c><00:06:18.000><c> reality,</c><00:06:18.400><c> it's</c>
+
+00:06:18.629 --> 00:06:18.639 align:start position:0%
+driver or all of them. In reality, it's
+ 
+
+00:06:18.639 --> 00:06:19.990 align:start position:0%
+driver or all of them. In reality, it's
+probably<00:06:18.880><c> somewhere</c><00:06:19.199><c> between</c><00:06:19.520><c> those</c><00:06:19.759><c> two</c>
+
+00:06:19.990 --> 00:06:20.000 align:start position:0%
+probably somewhere between those two
+ 
+
+00:06:20.000 --> 00:06:21.510 align:start position:0%
+probably somewhere between those two
+with<00:06:20.160><c> our</c><00:06:20.319><c> backend</c><00:06:20.639><c> server</c><00:06:20.960><c> doing</c><00:06:21.120><c> a</c><00:06:21.280><c> bit</c><00:06:21.360><c> of</c>
+
+00:06:21.510 --> 00:06:21.520 align:start position:0%
+with our backend server doing a bit of
+ 
+
+00:06:21.520 --> 00:06:23.350 align:start position:0%
+with our backend server doing a bit of
+additional<00:06:21.840><c> logic</c><00:06:22.160><c> to</c><00:06:22.319><c> notify</c><00:06:22.720><c> a</c><00:06:22.880><c> few</c><00:06:23.039><c> top</c>
+
+00:06:23.350 --> 00:06:23.360 align:start position:0%
+additional logic to notify a few top
+ 
+
+00:06:23.360 --> 00:06:25.430 align:start position:0%
+additional logic to notify a few top
+candidates.<00:06:24.479><c> We</c><00:06:24.720><c> probably</c><00:06:24.960><c> also</c><00:06:25.199><c> want</c><00:06:25.360><c> to</c>
+
+00:06:25.430 --> 00:06:25.440 align:start position:0%
+candidates. We probably also want to
+ 
+
+00:06:25.440 --> 00:06:26.870 align:start position:0%
+candidates. We probably also want to
+check<00:06:25.600><c> if</c><00:06:25.759><c> our</c><00:06:25.919><c> candidate</c><00:06:26.319><c> is</c><00:06:26.560><c> currently</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+check if our candidate is currently
+ 
+
+00:06:26.880 --> 00:06:29.189 align:start position:0%
+check if our candidate is currently
+serving<00:06:27.199><c> rides</c><00:06:27.759><c> since</c><00:06:28.080><c> that</c><00:06:28.319><c> means</c><00:06:28.800><c> they</c><00:06:29.039><c> have</c>
+
+00:06:29.189 --> 00:06:29.199 align:start position:0%
+serving rides since that means they have
+ 
+
+00:06:29.199 --> 00:06:30.870 align:start position:0%
+serving rides since that means they have
+to<00:06:29.360><c> get</c><00:06:29.440><c> to</c><00:06:29.600><c> their</c><00:06:29.759><c> destination</c><00:06:30.319><c> point</c><00:06:30.560><c> before</c>
+
+00:06:30.870 --> 00:06:30.880 align:start position:0%
+to get to their destination point before
+ 
+
+00:06:30.880 --> 00:06:33.350 align:start position:0%
+to get to their destination point before
+picking<00:06:31.199><c> up</c><00:06:31.280><c> the</c><00:06:31.520><c> next</c><00:06:31.680><c> passenger.</c>
+
+00:06:33.350 --> 00:06:33.360 align:start position:0%
+picking up the next passenger.
+ 
+
+00:06:33.360 --> 00:06:34.790 align:start position:0%
+picking up the next passenger.
+If<00:06:33.520><c> we</c><00:06:33.680><c> don't</c><00:06:33.840><c> hear</c><00:06:34.080><c> back</c><00:06:34.240><c> within</c><00:06:34.479><c> a</c><00:06:34.639><c> few</c>
+
+00:06:34.790 --> 00:06:34.800 align:start position:0%
+If we don't hear back within a few
+ 
+
+00:06:34.800 --> 00:06:36.629 align:start position:0%
+If we don't hear back within a few
+seconds,<00:06:35.360><c> we</c><00:06:35.600><c> can</c><00:06:35.680><c> send</c><00:06:35.840><c> the</c><00:06:36.000><c> ride</c><00:06:36.240><c> requests</c>
+
+00:06:36.629 --> 00:06:36.639 align:start position:0%
+seconds, we can send the ride requests
+ 
+
+00:06:36.639 --> 00:06:38.790 align:start position:0%
+seconds, we can send the ride requests
+to<00:06:36.800><c> even</c><00:06:37.039><c> more</c><00:06:37.280><c> candidates.</c>
+
+00:06:38.790 --> 00:06:38.800 align:start position:0%
+to even more candidates.
+ 
+
+00:06:38.800 --> 00:06:40.550 align:start position:0%
+to even more candidates.
+Sending<00:06:39.120><c> these</c><00:06:39.440><c> actual</c><00:06:39.759><c> notifications</c><00:06:40.319><c> to</c>
+
+00:06:40.550 --> 00:06:40.560 align:start position:0%
+Sending these actual notifications to
+ 
+
+00:06:40.560 --> 00:06:42.309 align:start position:0%
+Sending these actual notifications to
+the<00:06:40.720><c> drivers</c><00:06:41.120><c> isn't</c><00:06:41.360><c> a</c><00:06:41.520><c> trivial</c><00:06:41.919><c> detail</c>
+
+00:06:42.309 --> 00:06:42.319 align:start position:0%
+the drivers isn't a trivial detail
+ 
+
+00:06:42.319 --> 00:06:44.390 align:start position:0%
+the drivers isn't a trivial detail
+either.<00:06:43.039><c> Each</c><00:06:43.360><c> driver</c><00:06:43.759><c> doesn't</c><00:06:44.000><c> know</c><00:06:44.160><c> in</c>
+
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+either. Each driver doesn't know in
+ 
+
+00:06:44.400 --> 00:06:45.749 align:start position:0%
+either. Each driver doesn't know in
+advance<00:06:44.639><c> that</c><00:06:44.880><c> it's</c><00:06:45.039><c> going</c><00:06:45.199><c> to</c><00:06:45.360><c> receive</c><00:06:45.600><c> a</c>
+
+00:06:45.749 --> 00:06:45.759 align:start position:0%
+advance that it's going to receive a
+ 
+
+00:06:45.759 --> 00:06:47.670 align:start position:0%
+advance that it's going to receive a
+ride<00:06:46.000><c> offer</c><00:06:46.240><c> at</c><00:06:46.400><c> a</c><00:06:46.560><c> given</c><00:06:46.720><c> time,</c><00:06:47.199><c> so</c><00:06:47.440><c> its</c>
+
+00:06:47.670 --> 00:06:47.680 align:start position:0%
+ride offer at a given time, so its
+ 
+
+00:06:47.680 --> 00:06:49.350 align:start position:0%
+ride offer at a given time, so its
+device<00:06:47.919><c> isn't</c><00:06:48.240><c> proactively</c><00:06:48.880><c> requesting</c>
+
+00:06:49.350 --> 00:06:49.360 align:start position:0%
+device isn't proactively requesting
+ 
+
+00:06:49.360 --> 00:06:51.670 align:start position:0%
+device isn't proactively requesting
+them.<00:06:50.000><c> Instead,</c><00:06:50.479><c> we</c><00:06:50.720><c> need</c><00:06:50.800><c> a</c><00:06:50.960><c> way</c><00:06:51.120><c> to</c><00:06:51.280><c> notify</c>
+
+00:06:51.670 --> 00:06:51.680 align:start position:0%
+them. Instead, we need a way to notify
+ 
+
+00:06:51.680 --> 00:06:53.590 align:start position:0%
+them. Instead, we need a way to notify
+our<00:06:51.919><c> driver.</c><00:06:52.720><c> When</c><00:06:52.960><c> it</c><00:06:53.039><c> comes</c><00:06:53.199><c> to</c><00:06:53.360><c> doing</c>
+
+00:06:53.590 --> 00:06:53.600 align:start position:0%
+our driver. When it comes to doing
+ 
+
+00:06:53.600 --> 00:06:55.350 align:start position:0%
+our driver. When it comes to doing
+real-time<00:06:54.080><c> communication</c><00:06:54.639><c> between</c><00:06:54.960><c> a</c><00:06:55.120><c> server</c>
+
+00:06:55.350 --> 00:06:55.360 align:start position:0%
+real-time communication between a server
+ 
+
+00:06:55.360 --> 00:06:57.749 align:start position:0%
+real-time communication between a server
+and<00:06:55.520><c> a</c><00:06:55.680><c> client,</c><00:06:56.160><c> we've</c><00:06:56.479><c> got</c><00:06:56.560><c> a</c><00:06:56.720><c> few</c><00:06:56.880><c> options.</c>
+
+00:06:57.749 --> 00:06:57.759 align:start position:0%
+and a client, we've got a few options.
+ 
+
+00:06:57.759 --> 00:06:59.430 align:start position:0%
+and a client, we've got a few options.
+The<00:06:57.919><c> first</c><00:06:58.080><c> is</c><00:06:58.319><c> to</c><00:06:58.479><c> have</c><00:06:58.560><c> the</c><00:06:58.800><c> client</c><00:06:59.039><c> pull</c><00:06:59.280><c> the</c>
+
+00:06:59.430 --> 00:06:59.440 align:start position:0%
+The first is to have the client pull the
+ 
+
+00:06:59.440 --> 00:07:01.589 align:start position:0%
+The first is to have the client pull the
+server<00:06:59.680><c> on</c><00:06:59.840><c> a</c><00:07:00.000><c> loop.</c><00:07:00.639><c> This</c><00:07:00.880><c> works</c><00:07:01.199><c> nicely</c>
+
+00:07:01.589 --> 00:07:01.599 align:start position:0%
+server on a loop. This works nicely
+ 
+
+00:07:01.599 --> 00:07:03.510 align:start position:0%
+server on a loop. This works nicely
+sometimes<00:07:02.080><c> because</c><00:07:02.400><c> polling</c><00:07:02.800><c> is</c><00:07:02.960><c> inherently</c>
+
+00:07:03.510 --> 00:07:03.520 align:start position:0%
+sometimes because polling is inherently
+ 
+
+00:07:03.520 --> 00:07:05.350 align:start position:0%
+sometimes because polling is inherently
+stateless<00:07:04.080><c> and</c><00:07:04.319><c> the</c><00:07:04.560><c> client</c><00:07:04.800><c> can</c><00:07:04.960><c> easily</c>
+
+00:07:05.350 --> 00:07:05.360 align:start position:0%
+stateless and the client can easily
+ 
+
+00:07:05.360 --> 00:07:07.029 align:start position:0%
+stateless and the client can easily
+switch<00:07:05.520><c> over</c><00:07:05.759><c> to</c><00:07:05.919><c> another</c><00:07:06.240><c> server</c><00:07:06.560><c> if</c><00:07:06.720><c> the</c><00:07:06.880><c> one</c>
+
+00:07:07.029 --> 00:07:07.039 align:start position:0%
+switch over to another server if the one
+ 
+
+00:07:07.039 --> 00:07:09.029 align:start position:0%
+switch over to another server if the one
+that<00:07:07.120><c> they're</c><00:07:07.360><c> connected</c><00:07:07.599><c> to</c><00:07:07.919><c> goes</c><00:07:08.240><c> down.</c>
+
+00:07:09.029 --> 00:07:09.039 align:start position:0%
+that they're connected to goes down.
+ 
+
+00:07:09.039 --> 00:07:10.550 align:start position:0%
+that they're connected to goes down.
+That<00:07:09.280><c> being</c><00:07:09.440><c> said,</c><00:07:09.840><c> polling</c><00:07:10.240><c> has</c><00:07:10.400><c> the</c>
+
+00:07:10.550 --> 00:07:10.560 align:start position:0%
+That being said, polling has the
+ 
+
+00:07:10.560 --> 00:07:12.070 align:start position:0%
+That being said, polling has the
+disadvantage<00:07:11.039><c> of</c><00:07:11.199><c> having</c><00:07:11.360><c> to</c><00:07:11.520><c> add</c><00:07:11.680><c> a</c><00:07:11.840><c> bunch</c><00:07:11.919><c> of</c>
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+disadvantage of having to add a bunch of
+ 
+
+00:07:12.080 --> 00:07:14.309 align:start position:0%
+disadvantage of having to add a bunch of
+request<00:07:12.400><c> headers</c><00:07:12.720><c> to</c><00:07:12.880><c> every</c><00:07:13.120><c> single</c><00:07:13.360><c> request.</c>
+
+00:07:14.309 --> 00:07:14.319 align:start position:0%
+request headers to every single request.
+ 
+
+00:07:14.319 --> 00:07:15.990 align:start position:0%
+request headers to every single request.
+Given<00:07:14.639><c> the</c><00:07:14.800><c> frequency</c><00:07:15.199><c> of</c><00:07:15.360><c> requests</c><00:07:15.759><c> with</c>
+
+00:07:15.990 --> 00:07:16.000 align:start position:0%
+Given the frequency of requests with
+ 
+
+00:07:16.000 --> 00:07:17.589 align:start position:0%
+Given the frequency of requests with
+which<00:07:16.160><c> drivers</c><00:07:16.560><c> send</c><00:07:16.720><c> their</c><00:07:16.960><c> location</c><00:07:17.280><c> to</c><00:07:17.440><c> our</c>
+
+00:07:17.589 --> 00:07:17.599 align:start position:0%
+which drivers send their location to our
+ 
+
+00:07:17.599 --> 00:07:19.909 align:start position:0%
+which drivers send their location to our
+servers,<00:07:18.240><c> this</c><00:07:18.479><c> could</c><00:07:18.720><c> be</c><00:07:18.880><c> significant.</c>
+
+00:07:19.909 --> 00:07:19.919 align:start position:0%
+servers, this could be significant.
+ 
+
+00:07:19.919 --> 00:07:21.749 align:start position:0%
+servers, this could be significant.
+Instead,<00:07:20.319><c> a</c><00:07:20.560><c> persistent</c><00:07:21.039><c> connection</c><00:07:21.360><c> may</c><00:07:21.599><c> be</c>
+
+00:07:21.749 --> 00:07:21.759 align:start position:0%
+Instead, a persistent connection may be
+ 
+
+00:07:21.759 --> 00:07:23.430 align:start position:0%
+Instead, a persistent connection may be
+better<00:07:21.919><c> for</c><00:07:22.080><c> us,</c><00:07:22.319><c> which</c><00:07:22.560><c> can</c><00:07:22.720><c> be</c><00:07:22.880><c> established</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+better for us, which can be established
+ 
+
+00:07:23.440 --> 00:07:24.950 align:start position:0%
+better for us, which can be established
+once.
+
+00:07:24.950 --> 00:07:24.960 align:start position:0%
+once.
+ 
+
+00:07:24.960 --> 00:07:27.350 align:start position:0%
+once.
+We<00:07:25.199><c> now</c><00:07:25.360><c> have</c><00:07:25.520><c> two</c><00:07:25.759><c> options,</c><00:07:26.479><c> websockets</c><00:07:27.120><c> and</c>
+
+00:07:27.350 --> 00:07:27.360 align:start position:0%
+We now have two options, websockets and
+ 
+
+00:07:27.360 --> 00:07:29.189 align:start position:0%
+We now have two options, websockets and
+service<00:07:27.759><c> and</c><00:07:27.919><c> events.</c><00:07:28.560><c> The</c><00:07:28.720><c> former</c><00:07:29.039><c> is</c>
+
+00:07:29.189 --> 00:07:29.199 align:start position:0%
+service and events. The former is
+ 
+
+00:07:29.199 --> 00:07:30.790 align:start position:0%
+service and events. The former is
+birectional,<00:07:29.919><c> which</c><00:07:30.160><c> is</c><00:07:30.240><c> actually</c><00:07:30.479><c> really</c>
+
+00:07:30.790 --> 00:07:30.800 align:start position:0%
+birectional, which is actually really
+ 
+
+00:07:30.800 --> 00:07:32.550 align:start position:0%
+birectional, which is actually really
+nice<00:07:30.960><c> for</c><00:07:31.120><c> our</c><00:07:31.360><c> use</c><00:07:31.520><c> case</c><00:07:31.759><c> of</c><00:07:32.000><c> drivers</c><00:07:32.319><c> and</c>
+
+00:07:32.550 --> 00:07:32.560 align:start position:0%
+nice for our use case of drivers and
+ 
+
+00:07:32.560 --> 00:07:34.870 align:start position:0%
+nice for our use case of drivers and
+passengers<00:07:33.039><c> sending</c><00:07:33.280><c> and</c><00:07:33.599><c> receiving</c><00:07:34.000><c> data.</c>
+
+00:07:34.870 --> 00:07:34.880 align:start position:0%
+passengers sending and receiving data.
+ 
+
+00:07:34.880 --> 00:07:36.790 align:start position:0%
+passengers sending and receiving data.
+If<00:07:35.039><c> my</c><00:07:35.280><c> backend</c><00:07:35.759><c> actually</c><00:07:36.160><c> wants</c><00:07:36.400><c> to</c><00:07:36.560><c> send</c>
+
+00:07:36.790 --> 00:07:36.800 align:start position:0%
+If my backend actually wants to send
+ 
+
+00:07:36.800 --> 00:07:39.189 align:start position:0%
+If my backend actually wants to send
+data<00:07:37.039><c> to</c><00:07:37.199><c> a</c><00:07:37.360><c> driver,</c><00:07:38.000><c> it</c><00:07:38.240><c> needs</c><00:07:38.479><c> to</c><00:07:38.639><c> know</c><00:07:38.880><c> which</c>
+
+00:07:39.189 --> 00:07:39.199 align:start position:0%
+data to a driver, it needs to know which
+ 
+
+00:07:39.199 --> 00:07:41.189 align:start position:0%
+data to a driver, it needs to know which
+server<00:07:39.520><c> that</c><00:07:39.759><c> driver</c><00:07:40.000><c> is</c><00:07:40.240><c> connected</c><00:07:40.560><c> to.</c>
+
+00:07:41.189 --> 00:07:41.199 align:start position:0%
+server that driver is connected to.
+ 
+
+00:07:41.199 --> 00:07:42.870 align:start position:0%
+server that driver is connected to.
+It'll<00:07:41.520><c> then</c><00:07:41.759><c> first</c><00:07:42.000><c> route</c><00:07:42.240><c> the</c><00:07:42.400><c> data</c><00:07:42.560><c> to</c><00:07:42.720><c> the</c>
+
+00:07:42.870 --> 00:07:42.880 align:start position:0%
+It'll then first route the data to the
+ 
+
+00:07:42.880 --> 00:07:44.710 align:start position:0%
+It'll then first route the data to the
+server<00:07:43.280><c> which</c><00:07:43.440><c> forwards</c><00:07:43.840><c> it</c><00:07:44.000><c> to</c><00:07:44.160><c> the</c><00:07:44.400><c> driver</c>
+
+00:07:44.710 --> 00:07:44.720 align:start position:0%
+server which forwards it to the driver
+ 
+
+00:07:44.720 --> 00:07:47.110 align:start position:0%
+server which forwards it to the driver
+over<00:07:44.880><c> the</c><00:07:45.120><c> websocket.</c><00:07:46.400><c> We</c><00:07:46.560><c> need</c><00:07:46.720><c> to</c><00:07:46.880><c> maintain</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+over the websocket. We need to maintain
+ 
+
+00:07:47.120 --> 00:07:49.110 align:start position:0%
+over the websocket. We need to maintain
+a<00:07:47.280><c> mapping</c><00:07:47.599><c> of</c><00:07:47.759><c> this</c><00:07:47.919><c> information</c><00:07:48.319><c> somewhere.</c>
+
+00:07:49.110 --> 00:07:49.120 align:start position:0%
+a mapping of this information somewhere.
+ 
+
+00:07:49.120 --> 00:07:50.790 align:start position:0%
+a mapping of this information somewhere.
+We<00:07:49.360><c> can</c><00:07:49.440><c> use</c><00:07:49.599><c> another</c><00:07:49.919><c> database</c><00:07:50.319><c> for</c><00:07:50.560><c> this</c>
+
+00:07:50.790 --> 00:07:50.800 align:start position:0%
+We can use another database for this
+ 
+
+00:07:50.800 --> 00:07:53.110 align:start position:0%
+We can use another database for this
+with<00:07:50.960><c> a</c><00:07:51.199><c> table</c><00:07:51.440><c> called</c><00:07:51.680><c> driver</c><00:07:52.080><c> sessions.</c>
+
+00:07:53.110 --> 00:07:53.120 align:start position:0%
+with a table called driver sessions.
+ 
+
+00:07:53.120 --> 00:07:55.430 align:start position:0%
+with a table called driver sessions.
+This<00:07:53.360><c> guy</c><00:07:53.599><c> has</c><00:07:53.680><c> a</c><00:07:53.919><c> schema</c><00:07:54.240><c> of</c><00:07:54.479><c> driver</c><00:07:54.879><c> ID</c><00:07:55.120><c> and</c>
+
+00:07:55.430 --> 00:07:55.440 align:start position:0%
+This guy has a schema of driver ID and
+ 
+
+00:07:55.440 --> 00:07:57.670 align:start position:0%
+This guy has a schema of driver ID and
+server<00:07:55.759><c> IP</c><00:07:56.080><c> address</c><00:07:56.560><c> with</c><00:07:56.800><c> the</c><00:07:56.960><c> driver</c><00:07:57.280><c> ID</c>
+
+00:07:57.670 --> 00:07:57.680 align:start position:0%
+server IP address with the driver ID
+ 
+
+00:07:57.680 --> 00:08:00.390 align:start position:0%
+server IP address with the driver ID
+being<00:07:58.160><c> the</c><00:07:58.639><c> primary</c><00:07:59.039><c> key.</c><00:07:59.680><c> If</c><00:07:59.919><c> the</c><00:08:00.080><c> driver</c>
+
+00:08:00.390 --> 00:08:00.400 align:start position:0%
+being the primary key. If the driver
+ 
+
+00:08:00.400 --> 00:08:01.990 align:start position:0%
+being the primary key. If the driver
+connection<00:08:00.720><c> gets</c><00:08:00.960><c> broken</c><00:08:01.199><c> and</c><00:08:01.440><c> reestablished</c>
+
+00:08:01.990 --> 00:08:02.000 align:start position:0%
+connection gets broken and reestablished
+ 
+
+00:08:02.000 --> 00:08:03.670 align:start position:0%
+connection gets broken and reestablished
+on<00:08:02.160><c> another</c><00:08:02.479><c> server,</c><00:08:02.800><c> we'll</c><00:08:03.039><c> overwrite</c><00:08:03.440><c> the</c>
+
+00:08:03.670 --> 00:08:03.680 align:start position:0%
+on another server, we'll overwrite the
+ 
+
+00:08:03.680 --> 00:08:06.390 align:start position:0%
+on another server, we'll overwrite the
+previous<00:08:03.919><c> session.</c><00:08:05.280><c> When</c><00:08:05.520><c> a</c><00:08:05.759><c> driver</c><00:08:06.000><c> accepts</c>
+
+00:08:06.390 --> 00:08:06.400 align:start position:0%
+previous session. When a driver accepts
+ 
+
+00:08:06.400 --> 00:08:08.390 align:start position:0%
+previous session. When a driver accepts
+a<00:08:06.560><c> ride,</c><00:08:06.960><c> two</c><00:08:07.199><c> things</c><00:08:07.440><c> need</c><00:08:07.599><c> to</c><00:08:07.759><c> happen.</c>
+
+00:08:08.390 --> 00:08:08.400 align:start position:0%
+a ride, two things need to happen.
+ 
+
+00:08:08.400 --> 00:08:10.309 align:start position:0%
+a ride, two things need to happen.
+First,<00:08:08.879><c> the</c><00:08:09.039><c> driver</c><00:08:09.360><c> needs</c><00:08:09.599><c> to</c><00:08:09.680><c> note</c><00:08:09.919><c> down</c><00:08:10.080><c> the</c>
+
+00:08:10.309 --> 00:08:10.319 align:start position:0%
+First, the driver needs to note down the
+ 
+
+00:08:10.319 --> 00:08:12.150 align:start position:0%
+First, the driver needs to note down the
+fact<00:08:10.400><c> that</c><00:08:10.639><c> they've</c><00:08:10.879><c> accepted</c><00:08:11.199><c> it.</c><00:08:11.759><c> Second,</c>
+
+00:08:12.150 --> 00:08:12.160 align:start position:0%
+fact that they've accepted it. Second,
+ 
+
+00:08:12.160 --> 00:08:13.749 align:start position:0%
+fact that they've accepted it. Second,
+we<00:08:12.319><c> need</c><00:08:12.479><c> to</c><00:08:12.560><c> prohibit</c><00:08:12.960><c> anybody</c><00:08:13.360><c> else</c><00:08:13.520><c> from</c>
+
+00:08:13.749 --> 00:08:13.759 align:start position:0%
+we need to prohibit anybody else from
+ 
+
+00:08:13.759 --> 00:08:15.909 align:start position:0%
+we need to prohibit anybody else from
+claiming<00:08:14.080><c> this</c><00:08:14.240><c> ride.</c><00:08:15.120><c> We</c><00:08:15.360><c> accomplish</c><00:08:15.680><c> the</c>
+
+00:08:15.909 --> 00:08:15.919 align:start position:0%
+claiming this ride. We accomplish the
+ 
+
+00:08:15.919 --> 00:08:17.589 align:start position:0%
+claiming this ride. We accomplish the
+first<00:08:16.080><c> by</c><00:08:16.319><c> introducing</c><00:08:16.800><c> the</c><00:08:16.960><c> driver</c><00:08:17.280><c> active</c>
+
+00:08:17.589 --> 00:08:17.599 align:start position:0%
+first by introducing the driver active
+ 
+
+00:08:17.599 --> 00:08:19.830 align:start position:0%
+first by introducing the driver active
+rides<00:08:18.000><c> table.</c><00:08:18.720><c> It</c><00:08:18.960><c> looks</c><00:08:19.199><c> very</c><00:08:19.440><c> similar</c><00:08:19.680><c> to</c>
+
+00:08:19.830 --> 00:08:19.840 align:start position:0%
+rides table. It looks very similar to
+ 
+
+00:08:19.840 --> 00:08:21.670 align:start position:0%
+rides table. It looks very similar to
+the<00:08:20.000><c> passenger</c><00:08:20.400><c> active</c><00:08:20.800><c> ride</c><00:08:21.039><c> table,</c><00:08:21.360><c> except</c>
+
+00:08:21.670 --> 00:08:21.680 align:start position:0%
+the passenger active ride table, except
+ 
+
+00:08:21.680 --> 00:08:23.029 align:start position:0%
+the passenger active ride table, except
+a<00:08:21.840><c> driver</c><00:08:22.080><c> can</c><00:08:22.240><c> be</c><00:08:22.319><c> matched</c><00:08:22.639><c> to</c><00:08:22.800><c> many</c>
+
+00:08:23.029 --> 00:08:23.039 align:start position:0%
+a driver can be matched to many
+ 
+
+00:08:23.039 --> 00:08:25.430 align:start position:0%
+a driver can be matched to many
+different<00:08:23.199><c> rides</c><00:08:23.440><c> at</c><00:08:23.680><c> once.</c><00:08:24.479><c> After</c><00:08:24.800><c> we</c><00:08:24.960><c> add</c><00:08:25.120><c> a</c>
+
+00:08:25.430 --> 00:08:25.440 align:start position:0%
+different rides at once. After we add a
+ 
+
+00:08:25.440 --> 00:08:26.550 align:start position:0%
+different rides at once. After we add a
+row<00:08:25.520><c> there,</c><00:08:25.840><c> we'll</c><00:08:26.080><c> update</c><00:08:26.400><c> the</c>
+
+00:08:26.550 --> 00:08:26.560 align:start position:0%
+row there, we'll update the
+ 
+
+00:08:26.560 --> 00:08:28.629 align:start position:0%
+row there, we'll update the
+corresponding<00:08:27.120><c> row</c><00:08:27.199><c> in</c><00:08:27.360><c> the</c><00:08:27.520><c> rides</c><00:08:27.840><c> table</c><00:08:28.400><c> as</c>
+
+00:08:28.629 --> 00:08:28.639 align:start position:0%
+corresponding row in the rides table as
+ 
+
+00:08:28.639 --> 00:08:30.950 align:start position:0%
+corresponding row in the rides table as
+long<00:08:28.720><c> as</c><00:08:28.800><c> it</c><00:08:29.039><c> has</c><00:08:29.120><c> a</c><00:08:29.280><c> null</c><00:08:29.599><c> driver</c><00:08:30.000><c> ID.</c><00:08:30.720><c> Like</c>
+
+00:08:30.950 --> 00:08:30.960 align:start position:0%
+long as it has a null driver ID. Like
+ 
+
+00:08:30.960 --> 00:08:32.870 align:start position:0%
+long as it has a null driver ID. Like
+before,<00:08:31.360><c> we</c><00:08:31.599><c> can</c><00:08:31.680><c> update</c><00:08:32.000><c> our</c><00:08:32.240><c> driver</c><00:08:32.560><c> active</c>
+
+00:08:32.870 --> 00:08:32.880 align:start position:0%
+before, we can update our driver active
+ 
+
+00:08:32.880 --> 00:08:34.949 align:start position:0%
+before, we can update our driver active
+rides<00:08:33.200><c> table</c><00:08:33.519><c> before</c><00:08:33.919><c> the</c><00:08:34.080><c> main</c><00:08:34.320><c> rides</c><00:08:34.719><c> table</c>
+
+00:08:34.949 --> 00:08:34.959 align:start position:0%
+rides table before the main rides table
+ 
+
+00:08:34.959 --> 00:08:37.190 align:start position:0%
+rides table before the main rides table
+to<00:08:35.120><c> avoid</c><00:08:35.360><c> a</c><00:08:35.519><c> costly</c><00:08:35.839><c> two-phase</c><00:08:36.320><c> commit.</c>
+
+00:08:37.190 --> 00:08:37.200 align:start position:0%
+to avoid a costly two-phase commit.
+ 
+
+00:08:37.200 --> 00:08:38.550 align:start position:0%
+to avoid a costly two-phase commit.
+We've<00:08:37.519><c> already</c><00:08:37.680><c> gone</c><00:08:37.919><c> through</c><00:08:38.159><c> how</c><00:08:38.320><c> the</c>
+
+00:08:38.550 --> 00:08:38.560 align:start position:0%
+We've already gone through how the
+ 
+
+00:08:38.560 --> 00:08:40.149 align:start position:0%
+We've already gone through how the
+driver<00:08:38.959><c> likely</c><00:08:39.279><c> wants</c><00:08:39.519><c> to</c><00:08:39.680><c> be</c><00:08:39.760><c> connected</c><00:08:40.000><c> to</c>
+
+00:08:40.149 --> 00:08:40.159 align:start position:0%
+driver likely wants to be connected to
+ 
+
+00:08:40.159 --> 00:08:42.469 align:start position:0%
+driver likely wants to be connected to
+our<00:08:40.320><c> backend</c><00:08:40.719><c> via</c><00:08:41.039><c> websocket.</c><00:08:42.000><c> That</c><00:08:42.240><c> being</c>
+
+00:08:42.469 --> 00:08:42.479 align:start position:0%
+our backend via websocket. That being
+ 
+
+00:08:42.479 --> 00:08:44.790 align:start position:0%
+our backend via websocket. That being
+said,<00:08:42.959><c> passengers</c><00:08:43.440><c> should</c><00:08:43.680><c> do</c><00:08:43.760><c> the</c><00:08:44.000><c> same.</c>
+
+00:08:44.790 --> 00:08:44.800 align:start position:0%
+said, passengers should do the same.
+ 
+
+00:08:44.800 --> 00:08:46.389 align:start position:0%
+said, passengers should do the same.
+This<00:08:45.040><c> is</c><00:08:45.200><c> because</c><00:08:45.519><c> after</c><00:08:45.760><c> a</c><00:08:46.000><c> passenger</c>
+
+00:08:46.389 --> 00:08:46.399 align:start position:0%
+This is because after a passenger
+ 
+
+00:08:46.399 --> 00:08:48.230 align:start position:0%
+This is because after a passenger
+requests<00:08:46.800><c> a</c><00:08:46.959><c> ride,</c><00:08:47.440><c> it</c><00:08:47.680><c> needs</c><00:08:47.839><c> to</c><00:08:48.000><c> both</c>
+
+00:08:48.230 --> 00:08:48.240 align:start position:0%
+requests a ride, it needs to both
+ 
+
+00:08:48.240 --> 00:08:50.230 align:start position:0%
+requests a ride, it needs to both
+receive<00:08:48.560><c> and</c><00:08:48.800><c> request</c><00:08:49.200><c> a</c><00:08:49.360><c> ton</c><00:08:49.519><c> of</c><00:08:49.680><c> information</c>
+
+00:08:50.230 --> 00:08:50.240 align:start position:0%
+receive and request a ton of information
+ 
+
+00:08:50.240 --> 00:08:52.230 align:start position:0%
+receive and request a ton of information
+back<00:08:50.480><c> from</c><00:08:50.640><c> the</c><00:08:50.800><c> server,</c><00:08:51.440><c> such</c><00:08:51.680><c> as</c><00:08:51.839><c> fetching</c>
+
+00:08:52.230 --> 00:08:52.240 align:start position:0%
+back from the server, such as fetching
+ 
+
+00:08:52.240 --> 00:08:53.829 align:start position:0%
+back from the server, such as fetching
+the<00:08:52.399><c> status</c><00:08:52.560><c> of</c><00:08:52.720><c> their</c><00:08:52.880><c> ride</c><00:08:53.120><c> requests</c><00:08:53.519><c> and</c>
+
+00:08:53.829 --> 00:08:53.839 align:start position:0%
+the status of their ride requests and
+ 
+
+00:08:53.839 --> 00:08:56.310 align:start position:0%
+the status of their ride requests and
+sending<00:08:54.160><c> their</c><00:08:54.320><c> location</c><00:08:54.640><c> to</c><00:08:54.880><c> the</c><00:08:55.040><c> driver.</c>
+
+00:08:56.310 --> 00:08:56.320 align:start position:0%
+sending their location to the driver.
+ 
+
+00:08:56.320 --> 00:08:58.070 align:start position:0%
+sending their location to the driver.
+For<00:08:56.560><c> passengers</c><00:08:57.040><c> to</c><00:08:57.279><c> receive</c><00:08:57.600><c> information</c>
+
+00:08:58.070 --> 00:08:58.080 align:start position:0%
+For passengers to receive information
+ 
+
+00:08:58.080 --> 00:08:59.990 align:start position:0%
+For passengers to receive information
+from<00:08:58.320><c> other</c><00:08:58.560><c> servers,</c><00:08:59.279><c> we</c><00:08:59.440><c> can</c><00:08:59.600><c> do</c><00:08:59.760><c> something</c>
+
+00:08:59.990 --> 00:09:00.000 align:start position:0%
+from other servers, we can do something
+ 
+
+00:09:00.000 --> 00:09:01.910 align:start position:0%
+from other servers, we can do something
+similar<00:09:00.240><c> to</c><00:09:00.399><c> what</c><00:09:00.560><c> we</c><00:09:00.720><c> did</c><00:09:00.880><c> for</c><00:09:01.040><c> drivers</c><00:09:01.600><c> and</c>
+
+00:09:01.910 --> 00:09:01.920 align:start position:0%
+similar to what we did for drivers and
+ 
+
+00:09:01.920 --> 00:09:04.230 align:start position:0%
+similar to what we did for drivers and
+introduce<00:09:02.320><c> a</c><00:09:02.560><c> passenger</c><00:09:03.040><c> sessions</c><00:09:03.440><c> table.</c>
+
+00:09:04.230 --> 00:09:04.240 align:start position:0%
+introduce a passenger sessions table.
+ 
+
+00:09:04.240 --> 00:09:05.829 align:start position:0%
+introduce a passenger sessions table.
+This<00:09:04.480><c> will</c><00:09:04.640><c> be</c><00:09:04.720><c> updated</c><00:09:05.120><c> when</c><00:09:05.279><c> a</c><00:09:05.440><c> passenger</c>
+
+00:09:05.829 --> 00:09:05.839 align:start position:0%
+This will be updated when a passenger
+ 
+
+00:09:05.839 --> 00:09:07.829 align:start position:0%
+This will be updated when a passenger
+establishes<00:09:06.320><c> a</c><00:09:06.560><c> websocket</c><00:09:07.120><c> connection</c><00:09:07.600><c> and</c>
+
+00:09:07.829 --> 00:09:07.839 align:start position:0%
+establishes a websocket connection and
+ 
+
+00:09:07.839 --> 00:09:09.350 align:start position:0%
+establishes a websocket connection and
+can<00:09:08.080><c> be</c><00:09:08.160><c> referenced</c><00:09:08.560><c> when</c><00:09:08.800><c> trying</c><00:09:08.959><c> to</c><00:09:09.120><c> send</c>
+
+00:09:09.350 --> 00:09:09.360 align:start position:0%
+can be referenced when trying to send
+ 
+
+00:09:09.360 --> 00:09:11.670 align:start position:0%
+can be referenced when trying to send
+data<00:09:09.600><c> to</c><00:09:09.760><c> a</c><00:09:10.000><c> particular</c><00:09:10.399><c> passenger</c><00:09:10.800><c> ID.</c><00:09:11.440><c> When</c>
+
+00:09:11.670 --> 00:09:11.680 align:start position:0%
+data to a particular passenger ID. When
+ 
+
+00:09:11.680 --> 00:09:13.509 align:start position:0%
+data to a particular passenger ID. When
+a<00:09:11.839><c> passenger</c><00:09:12.240><c> and</c><00:09:12.480><c> driver</c><00:09:12.720><c> are</c><00:09:12.880><c> matched,</c><00:09:13.360><c> they</c>
+
+00:09:13.509 --> 00:09:13.519 align:start position:0%
+a passenger and driver are matched, they
+ 
+
+00:09:13.519 --> 00:09:15.030 align:start position:0%
+a passenger and driver are matched, they
+need<00:09:13.600><c> to</c><00:09:13.760><c> begin</c><00:09:14.000><c> sending</c><00:09:14.320><c> their</c><00:09:14.480><c> location</c><00:09:14.880><c> to</c>
+
+00:09:15.030 --> 00:09:15.040 align:start position:0%
+need to begin sending their location to
+ 
+
+00:09:15.040 --> 00:09:17.110 align:start position:0%
+need to begin sending their location to
+one<00:09:15.279><c> another.</c><00:09:16.080><c> The</c><00:09:16.240><c> rider</c><00:09:16.640><c> can</c><00:09:16.800><c> see</c><00:09:16.959><c> the</c>
+
+00:09:17.110 --> 00:09:17.120 align:start position:0%
+one another. The rider can see the
+ 
+
+00:09:17.120 --> 00:09:19.350 align:start position:0%
+one another. The rider can see the
+driver's<00:09:17.519><c> ID</c><00:09:17.839><c> in</c><00:09:18.000><c> the</c><00:09:18.160><c> ride</c><00:09:18.399><c> table</c><00:09:18.880><c> and</c><00:09:19.120><c> from</c>
+
+00:09:19.350 --> 00:09:19.360 align:start position:0%
+driver's ID in the ride table and from
+ 
+
+00:09:19.360 --> 00:09:21.110 align:start position:0%
+driver's ID in the ride table and from
+there<00:09:19.680><c> use</c><00:09:19.920><c> the</c><00:09:20.080><c> driver</c><00:09:20.320><c> session</c><00:09:20.640><c> table</c><00:09:20.880><c> to</c>
+
+00:09:21.110 --> 00:09:21.120 align:start position:0%
+there use the driver session table to
+ 
+
+00:09:21.120 --> 00:09:22.550 align:start position:0%
+there use the driver session table to
+figure<00:09:21.279><c> out</c><00:09:21.440><c> which</c><00:09:21.680><c> server</c><00:09:21.920><c> to</c><00:09:22.080><c> forward</c><00:09:22.399><c> their</c>
+
+00:09:22.550 --> 00:09:22.560 align:start position:0%
+figure out which server to forward their
+ 
+
+00:09:22.560 --> 00:09:25.190 align:start position:0%
+figure out which server to forward their
+location<00:09:22.880><c> to.</c><00:09:23.920><c> On</c><00:09:24.080><c> the</c><00:09:24.240><c> driver</c><00:09:24.560><c> side,</c><00:09:24.959><c> things</c>
+
+00:09:25.190 --> 00:09:25.200 align:start position:0%
+location to. On the driver side, things
+ 
+
+00:09:25.200 --> 00:09:27.670 align:start position:0%
+location to. On the driver side, things
+are<00:09:25.360><c> basically</c><00:09:25.760><c> the</c><00:09:26.000><c> same</c><00:09:26.240><c> but</c><00:09:26.560><c> opposite.</c><00:09:27.440><c> We</c>
+
+00:09:27.670 --> 00:09:27.680 align:start position:0%
+are basically the same but opposite. We
+ 
+
+00:09:27.680 --> 00:09:29.350 align:start position:0%
+are basically the same but opposite. We
+first<00:09:27.920><c> pull</c><00:09:28.080><c> in</c><00:09:28.320><c> any</c><00:09:28.640><c> rides</c><00:09:28.959><c> that</c><00:09:29.200><c> they're</c>
+
+00:09:29.350 --> 00:09:29.360 align:start position:0%
+first pull in any rides that they're
+ 
+
+00:09:29.360 --> 00:09:31.269 align:start position:0%
+first pull in any rides that they're
+actively<00:09:29.760><c> serving</c><00:09:30.080><c> or</c><00:09:30.320><c> have</c><00:09:30.560><c> claimed</c><00:09:31.040><c> and</c>
+
+00:09:31.269 --> 00:09:31.279 align:start position:0%
+actively serving or have claimed and
+ 
+
+00:09:31.279 --> 00:09:33.430 align:start position:0%
+actively serving or have claimed and
+send<00:09:31.519><c> their</c><00:09:31.760><c> location</c><00:09:32.080><c> to</c><00:09:32.320><c> those</c><00:09:32.560><c> servers.</c>
+
+00:09:33.430 --> 00:09:33.440 align:start position:0%
+send their location to those servers.
+ 
+
+00:09:33.440 --> 00:09:35.110 align:start position:0%
+send their location to those servers.
+While<00:09:33.680><c> it</c><00:09:33.839><c> isn't</c><00:09:34.080><c> pictured</c><00:09:34.320><c> in</c><00:09:34.480><c> the</c><00:09:34.640><c> diagram,</c>
+
+00:09:35.110 --> 00:09:35.120 align:start position:0%
+While it isn't pictured in the diagram,
+ 
+
+00:09:35.120 --> 00:09:36.630 align:start position:0%
+While it isn't pictured in the diagram,
+it's<00:09:35.360><c> also</c><00:09:35.519><c> the</c><00:09:35.760><c> case</c><00:09:35.839><c> that</c><00:09:36.080><c> the</c><00:09:36.240><c> driver</c><00:09:36.480><c> is</c>
+
+00:09:36.630 --> 00:09:36.640 align:start position:0%
+it's also the case that the driver is
+ 
+
+00:09:36.640 --> 00:09:37.990 align:start position:0%
+it's also the case that the driver is
+still<00:09:36.880><c> sending</c><00:09:37.120><c> their</c><00:09:37.360><c> location</c><00:09:37.680><c> to</c><00:09:37.839><c> the</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+still sending their location to the
+ 
+
+00:09:38.000 --> 00:09:39.990 align:start position:0%
+still sending their location to the
+driver<00:09:38.320><c> location</c><00:09:38.720><c> index</c><00:09:39.360><c> since</c><00:09:39.600><c> they</c><00:09:39.839><c> may</c>
+
+00:09:39.990 --> 00:09:40.000 align:start position:0%
+driver location index since they may
+ 
+
+00:09:40.000 --> 00:09:41.990 align:start position:0%
+driver location index since they may
+continue<00:09:40.320><c> to</c><00:09:40.480><c> claim</c><00:09:40.720><c> requested</c><00:09:41.200><c> rides.</c><00:09:41.839><c> When</c>
+
+00:09:41.990 --> 00:09:42.000 align:start position:0%
+continue to claim requested rides. When
+ 
+
+00:09:42.000 --> 00:09:43.829 align:start position:0%
+continue to claim requested rides. When
+a<00:09:42.240><c> driver</c><00:09:42.480><c> completes</c><00:09:42.880><c> a</c><00:09:43.040><c> ride,</c><00:09:43.360><c> we</c><00:09:43.519><c> can</c><00:09:43.600><c> first</c>
+
+00:09:43.829 --> 00:09:43.839 align:start position:0%
+a driver completes a ride, we can first
+ 
+
+00:09:43.839 --> 00:09:45.750 align:start position:0%
+a driver completes a ride, we can first
+mark<00:09:44.080><c> it</c><00:09:44.240><c> as</c><00:09:44.480><c> complete</c><00:09:44.720><c> in</c><00:09:44.880><c> the</c><00:09:44.959><c> rides</c><00:09:45.279><c> table</c>
+
+00:09:45.750 --> 00:09:45.760 align:start position:0%
+mark it as complete in the rides table
+ 
+
+00:09:45.760 --> 00:09:47.350 align:start position:0%
+mark it as complete in the rides table
+and<00:09:46.000><c> then</c><00:09:46.160><c> mark</c><00:09:46.399><c> it</c><00:09:46.560><c> complete</c><00:09:46.800><c> in</c><00:09:46.959><c> the</c><00:09:47.120><c> driver</c>
+
+00:09:47.350 --> 00:09:47.360 align:start position:0%
+and then mark it complete in the driver
+ 
+
+00:09:47.360 --> 00:09:49.350 align:start position:0%
+and then mark it complete in the driver
+rides<00:09:47.760><c> table.</c><00:09:48.560><c> This</c><00:09:48.720><c> way,</c><00:09:48.959><c> both</c><00:09:49.200><c> the</c>
+
+00:09:49.350 --> 00:09:49.360 align:start position:0%
+rides table. This way, both the
+ 
+
+00:09:49.360 --> 00:09:51.190 align:start position:0%
+rides table. This way, both the
+passenger<00:09:49.760><c> and</c><00:09:50.080><c> driver</c><00:09:50.399><c> will</c><00:09:50.640><c> know</c><00:09:50.880><c> to</c><00:09:51.040><c> stop</c>
+
+00:09:51.190 --> 00:09:51.200 align:start position:0%
+passenger and driver will know to stop
+ 
+
+00:09:51.200 --> 00:09:53.509 align:start position:0%
+passenger and driver will know to stop
+sending<00:09:51.519><c> location</c><00:09:51.839><c> updates</c><00:09:52.240><c> to</c><00:09:52.399><c> one</c><00:09:52.560><c> another.</c>
+
+00:09:53.509 --> 00:09:53.519 align:start position:0%
+sending location updates to one another.
+ 
+
+00:09:53.519 --> 00:09:54.949 align:start position:0%
+sending location updates to one another.
+It's<00:09:53.760><c> time</c><00:09:53.920><c> to</c><00:09:54.080><c> go</c><00:09:54.160><c> through</c><00:09:54.320><c> our</c><00:09:54.560><c> highle</c>
+
+00:09:54.949 --> 00:09:54.959 align:start position:0%
+It's time to go through our highle
+ 
+
+00:09:54.959 --> 00:09:57.269 align:start position:0%
+It's time to go through our highle
+design<00:09:55.360><c> one</c><00:09:55.600><c> step</c><00:09:55.760><c> at</c><00:09:56.000><c> a</c><00:09:56.160><c> time.</c><00:09:56.880><c> One</c><00:09:57.120><c> key</c>
+
+00:09:57.269 --> 00:09:57.279 align:start position:0%
+design one step at a time. One key
+ 
+
+00:09:57.279 --> 00:09:58.870 align:start position:0%
+design one step at a time. One key
+tenant<00:09:57.680><c> I</c><00:09:57.839><c> want</c><00:09:57.920><c> to</c><00:09:58.080><c> emphasize</c><00:09:58.480><c> here</c><00:09:58.640><c> is</c>
+
+00:09:58.870 --> 00:09:58.880 align:start position:0%
+tenant I want to emphasize here is
+ 
+
+00:09:58.880 --> 00:10:01.190 align:start position:0%
+tenant I want to emphasize here is
+trying<00:09:59.040><c> to</c><00:09:59.200><c> make</c><00:09:59.279><c> this</c><00:09:59.519><c> a</c><00:09:59.760><c> state</c><00:10:00.080><c> machine.</c><00:10:00.959><c> In</c>
+
+00:10:01.190 --> 00:10:01.200 align:start position:0%
+trying to make this a state machine. In
+ 
+
+00:10:01.200 --> 00:10:02.790 align:start position:0%
+trying to make this a state machine. In
+this<00:10:01.360><c> case,</c><00:10:01.680><c> that</c><00:10:01.920><c> means</c><00:10:02.080><c> I</c><00:10:02.320><c> don't</c><00:10:02.480><c> want</c><00:10:02.640><c> any</c>
+
+00:10:02.790 --> 00:10:02.800 align:start position:0%
+this case, that means I don't want any
+ 
+
+00:10:02.800 --> 00:10:04.389 align:start position:0%
+this case, that means I don't want any
+of<00:10:02.880><c> our</c><00:10:03.040><c> backend</c><00:10:03.440><c> servers</c><00:10:03.760><c> to</c><00:10:03.920><c> be</c><00:10:04.000><c> the</c><00:10:04.160><c> source</c>
+
+00:10:04.389 --> 00:10:04.399 align:start position:0%
+of our backend servers to be the source
+ 
+
+00:10:04.399 --> 00:10:06.790 align:start position:0%
+of our backend servers to be the source
+of<00:10:04.560><c> truth.</c><00:10:05.200><c> If</c><00:10:05.360><c> they</c><00:10:05.600><c> are,</c><00:10:05.920><c> they</c><00:10:06.160><c> can</c><00:10:06.320><c> fail</c><00:10:06.560><c> and</c>
+
+00:10:06.790 --> 00:10:06.800 align:start position:0%
+of truth. If they are, they can fail and
+ 
+
+00:10:06.800 --> 00:10:08.310 align:start position:0%
+of truth. If they are, they can fail and
+things<00:10:06.959><c> will</c><00:10:07.120><c> be</c><00:10:07.279><c> left</c><00:10:07.440><c> in</c><00:10:07.600><c> an</c><00:10:07.760><c> inconsistent</c>
+
+00:10:08.310 --> 00:10:08.320 align:start position:0%
+things will be left in an inconsistent
+ 
+
+00:10:08.320 --> 00:10:10.790 align:start position:0%
+things will be left in an inconsistent
+state.<00:10:09.200><c> Instead,</c><00:10:09.839><c> by</c><00:10:10.080><c> persisting</c><00:10:10.560><c> every</c>
+
+00:10:10.790 --> 00:10:10.800 align:start position:0%
+state. Instead, by persisting every
+ 
+
+00:10:10.800 --> 00:10:13.269 align:start position:0%
+state. Instead, by persisting every
+state<00:10:11.120><c> change</c><00:10:11.360><c> to</c><00:10:11.600><c> a</c><00:10:11.839><c> database,</c><00:10:12.640><c> any</c><00:10:12.880><c> random</c>
+
+00:10:13.269 --> 00:10:13.279 align:start position:0%
+state change to a database, any random
+ 
+
+00:10:13.279 --> 00:10:14.550 align:start position:0%
+state change to a database, any random
+server<00:10:13.519><c> can</c><00:10:13.680><c> pick</c><00:10:13.839><c> up</c><00:10:14.000><c> right</c><00:10:14.160><c> where</c><00:10:14.320><c> another</c>
+
+00:10:14.550 --> 00:10:14.560 align:start position:0%
+server can pick up right where another
+ 
+
+00:10:14.560 --> 00:10:16.150 align:start position:0%
+server can pick up right where another
+one<00:10:14.800><c> left</c><00:10:14.959><c> off</c><00:10:15.200><c> and</c><00:10:15.440><c> start</c><00:10:15.600><c> doing</c><00:10:15.839><c> the</c><00:10:16.000><c> same</c>
+
+00:10:16.150 --> 00:10:16.160 align:start position:0%
+one left off and start doing the same
+ 
+
+00:10:16.160 --> 00:10:17.829 align:start position:0%
+one left off and start doing the same
+exact<00:10:16.480><c> thing.</c><00:10:16.880><c> Let's</c><00:10:17.120><c> now</c><00:10:17.360><c> go</c><00:10:17.519><c> through</c><00:10:17.680><c> our</c>
+
+00:10:17.829 --> 00:10:17.839 align:start position:0%
+exact thing. Let's now go through our
+ 
+
+00:10:17.839 --> 00:10:19.590 align:start position:0%
+exact thing. Let's now go through our
+full<00:10:18.079><c> user</c><00:10:18.320><c> flow</c><00:10:18.800><c> beginning</c><00:10:19.120><c> from</c><00:10:19.279><c> when</c><00:10:19.440><c> a</c>
+
+00:10:19.590 --> 00:10:19.600 align:start position:0%
+full user flow beginning from when a
+ 
+
+00:10:19.600 --> 00:10:21.590 align:start position:0%
+full user flow beginning from when a
+user<00:10:19.839><c> makes</c><00:10:20.000><c> a</c><00:10:20.240><c> ride</c><00:10:20.560><c> request.</c><00:10:21.279><c> The</c><00:10:21.519><c> first</c>
+
+00:10:21.590 --> 00:10:21.600 align:start position:0%
+user makes a ride request. The first
+ 
+
+00:10:21.600 --> 00:10:23.030 align:start position:0%
+user makes a ride request. The first
+thing<00:10:21.760><c> that</c><00:10:22.000><c> they'll</c><00:10:22.160><c> do</c><00:10:22.320><c> is</c><00:10:22.480><c> establish</c><00:10:22.880><c> a</c>
+
+00:10:23.030 --> 00:10:23.040 align:start position:0%
+thing that they'll do is establish a
+ 
+
+00:10:23.040 --> 00:10:24.470 align:start position:0%
+thing that they'll do is establish a
+websocket<00:10:23.600><c> with</c><00:10:23.680><c> one</c><00:10:23.839><c> of</c><00:10:23.920><c> our</c><00:10:24.079><c> backend</c>
+
+00:10:24.470 --> 00:10:24.480 align:start position:0%
+websocket with one of our backend
+ 
+
+00:10:24.480 --> 00:10:26.150 align:start position:0%
+websocket with one of our backend
+servers.<00:10:25.200><c> From</c><00:10:25.360><c> there,</c><00:10:25.600><c> we'll</c><00:10:25.839><c> add</c><00:10:26.000><c> the</c>
+
+00:10:26.150 --> 00:10:26.160 align:start position:0%
+servers. From there, we'll add the
+ 
+
+00:10:26.160 --> 00:10:28.310 align:start position:0%
+servers. From there, we'll add the
+connection<00:10:26.480><c> into</c><00:10:26.800><c> the</c><00:10:26.959><c> user</c><00:10:27.200><c> sessions</c><00:10:27.600><c> table.</c>
+
+00:10:28.310 --> 00:10:28.320 align:start position:0%
+connection into the user sessions table.
+ 
+
+00:10:28.320 --> 00:10:30.310 align:start position:0%
+connection into the user sessions table.
+The<00:10:28.560><c> server</c><00:10:28.880><c> will</c><00:10:29.120><c> then</c><00:10:29.279><c> check</c><00:10:29.519><c> if</c><00:10:29.760><c> that</c><00:10:30.000><c> user</c>
+
+00:10:30.310 --> 00:10:30.320 align:start position:0%
+The server will then check if that user
+ 
+
+00:10:30.320 --> 00:10:31.990 align:start position:0%
+The server will then check if that user
+has<00:10:30.480><c> any</c><00:10:30.640><c> outgoing</c><00:10:31.120><c> ride</c><00:10:31.360><c> requests</c><00:10:31.760><c> by</c>
+
+00:10:31.990 --> 00:10:32.000 align:start position:0%
+has any outgoing ride requests by
+ 
+
+00:10:32.000 --> 00:10:33.990 align:start position:0%
+has any outgoing ride requests by
+joining<00:10:32.320><c> the</c><00:10:32.480><c> passenger</c><00:10:32.959><c> active</c><00:10:33.279><c> ride</c><00:10:33.519><c> table</c>
+
+00:10:33.990 --> 00:10:34.000 align:start position:0%
+joining the passenger active ride table
+ 
+
+00:10:34.000 --> 00:10:35.990 align:start position:0%
+joining the passenger active ride table
+with<00:10:34.240><c> the</c><00:10:34.399><c> rides</c><00:10:34.720><c> table.</c><00:10:35.360><c> If</c><00:10:35.519><c> there's</c><00:10:35.680><c> a</c><00:10:35.839><c> ride</c>
+
+00:10:35.990 --> 00:10:36.000 align:start position:0%
+with the rides table. If there's a ride
+ 
+
+00:10:36.000 --> 00:10:37.590 align:start position:0%
+with the rides table. If there's a ride
+in<00:10:36.240><c> progress</c><00:10:36.560><c> or</c><00:10:36.800><c> one</c><00:10:36.959><c> that</c><00:10:37.200><c> needs</c><00:10:37.360><c> to</c><00:10:37.440><c> be</c>
+
+00:10:37.590 --> 00:10:37.600 align:start position:0%
+in progress or one that needs to be
+ 
+
+00:10:37.600 --> 00:10:39.430 align:start position:0%
+in progress or one that needs to be
+claimed<00:10:37.920><c> by</c><00:10:38.000><c> a</c><00:10:38.240><c> driver,</c><00:10:38.720><c> it</c><00:10:38.880><c> can</c><00:10:39.040><c> just</c><00:10:39.200><c> resume</c>
+
+00:10:39.430 --> 00:10:39.440 align:start position:0%
+claimed by a driver, it can just resume
+ 
+
+00:10:39.440 --> 00:10:41.590 align:start position:0%
+claimed by a driver, it can just resume
+where<00:10:39.760><c> things</c><00:10:39.920><c> left</c><00:10:40.160><c> off.</c><00:10:40.800><c> If</c><00:10:41.040><c> there</c><00:10:41.200><c> are</c><00:10:41.440><c> no</c>
+
+00:10:41.590 --> 00:10:41.600 align:start position:0%
+where things left off. If there are no
+ 
+
+00:10:41.600 --> 00:10:43.750 align:start position:0%
+where things left off. If there are no
+inrogress<00:10:42.160><c> rides</c><00:10:42.480><c> for</c><00:10:42.640><c> the</c><00:10:42.800><c> user,</c><00:10:43.279><c> the</c><00:10:43.519><c> server</c>
+
+00:10:43.750 --> 00:10:43.760 align:start position:0%
+inrogress rides for the user, the server
+ 
+
+00:10:43.760 --> 00:10:45.350 align:start position:0%
+inrogress rides for the user, the server
+creates<00:10:44.079><c> one</c><00:10:44.320><c> and</c><00:10:44.560><c> then</c><00:10:44.720><c> begins</c><00:10:45.040><c> to</c><00:10:45.200><c> search</c>
+
+00:10:45.350 --> 00:10:45.360 align:start position:0%
+creates one and then begins to search
+ 
+
+00:10:45.360 --> 00:10:47.509 align:start position:0%
+creates one and then begins to search
+for<00:10:45.519><c> nearby</c><00:10:45.920><c> drivers.</c><00:10:46.800><c> First,</c><00:10:47.040><c> the</c><00:10:47.279><c> server</c>
+
+00:10:47.509 --> 00:10:47.519 align:start position:0%
+for nearby drivers. First, the server
+ 
+
+00:10:47.519 --> 00:10:49.430 align:start position:0%
+for nearby drivers. First, the server
+fetches<00:10:47.920><c> a</c><00:10:48.079><c> list</c><00:10:48.160><c> of</c><00:10:48.320><c> close</c><00:10:48.640><c> drivers</c><00:10:49.040><c> and</c><00:10:49.279><c> then</c>
+
+00:10:49.430 --> 00:10:49.440 align:start position:0%
+fetches a list of close drivers and then
+ 
+
+00:10:49.440 --> 00:10:51.190 align:start position:0%
+fetches a list of close drivers and then
+picks<00:10:49.680><c> a</c><00:10:49.839><c> few</c><00:10:50.000><c> to</c><00:10:50.160><c> notify</c><00:10:50.560><c> about</c><00:10:50.800><c> the</c><00:10:50.959><c> ride</c>
+
+00:10:51.190 --> 00:10:51.200 align:start position:0%
+picks a few to notify about the ride
+ 
+
+00:10:51.200 --> 00:10:53.269 align:start position:0%
+picks a few to notify about the ride
+request.<00:10:51.920><c> If</c><00:10:52.160><c> nobody</c><00:10:52.480><c> accepts</c><00:10:52.800><c> the</c><00:10:52.959><c> request</c>
+
+00:10:53.269 --> 00:10:53.279 align:start position:0%
+request. If nobody accepts the request
+ 
+
+00:10:53.279 --> 00:10:54.949 align:start position:0%
+request. If nobody accepts the request
+for<00:10:53.440><c> some</c><00:10:53.680><c> time,</c><00:10:53.920><c> our</c><00:10:54.160><c> server</c><00:10:54.399><c> will</c><00:10:54.640><c> send</c><00:10:54.800><c> the</c>
+
+00:10:54.949 --> 00:10:54.959 align:start position:0%
+for some time, our server will send the
+ 
+
+00:10:54.959 --> 00:10:57.269 align:start position:0%
+for some time, our server will send the
+notification<00:10:55.440><c> to</c><00:10:55.680><c> more</c><00:10:55.920><c> drivers.</c><00:10:56.880><c> In</c><00:10:57.120><c> order</c>
+
+00:10:57.269 --> 00:10:57.279 align:start position:0%
+notification to more drivers. In order
+ 
+
+00:10:57.279 --> 00:10:58.870 align:start position:0%
+notification to more drivers. In order
+for<00:10:57.519><c> servers</c><00:10:57.839><c> to</c><00:10:58.000><c> know</c><00:10:58.079><c> how</c><00:10:58.240><c> to</c><00:10:58.399><c> route</c><00:10:58.640><c> these</c>
+
+00:10:58.870 --> 00:10:58.880 align:start position:0%
+for servers to know how to route these
+ 
+
+00:10:58.880 --> 00:11:00.870 align:start position:0%
+for servers to know how to route these
+messages<00:10:59.200><c> to</c><00:10:59.519><c> drivers,</c><00:11:00.079><c> we</c><00:11:00.320><c> need</c><00:11:00.399><c> a</c><00:11:00.560><c> driver</c>
+
+00:11:00.870 --> 00:11:00.880 align:start position:0%
+messages to drivers, we need a driver
+ 
+
+00:11:00.880 --> 00:11:03.110 align:start position:0%
+messages to drivers, we need a driver
+sessions<00:11:01.279><c> table.</c><00:11:02.000><c> This</c><00:11:02.160><c> gets</c><00:11:02.480><c> populated</c><00:11:02.880><c> when</c>
+
+00:11:03.110 --> 00:11:03.120 align:start position:0%
+sessions table. This gets populated when
+ 
+
+00:11:03.120 --> 00:11:04.870 align:start position:0%
+sessions table. This gets populated when
+drivers<00:11:03.519><c> establish</c><00:11:04.000><c> connection</c><00:11:04.399><c> to</c><00:11:04.640><c> our</c>
+
+00:11:04.870 --> 00:11:04.880 align:start position:0%
+drivers establish connection to our
+ 
+
+00:11:04.880 --> 00:11:07.190 align:start position:0%
+drivers establish connection to our
+backend.<00:11:06.000><c> From</c><00:11:06.240><c> there,</c><00:11:06.480><c> the</c><00:11:06.720><c> passenger</c>
+
+00:11:07.190 --> 00:11:07.200 align:start position:0%
+backend. From there, the passenger
+ 
+
+00:11:07.200 --> 00:11:08.949 align:start position:0%
+backend. From there, the passenger
+server<00:11:07.519><c> reads</c><00:11:07.760><c> the</c><00:11:08.000><c> driver</c><00:11:08.240><c> sessions</c><00:11:08.640><c> table</c>
+
+00:11:08.949 --> 00:11:08.959 align:start position:0%
+server reads the driver sessions table
+ 
+
+00:11:08.959 --> 00:11:10.949 align:start position:0%
+server reads the driver sessions table
+and<00:11:09.200><c> routes</c><00:11:09.600><c> messages</c><00:11:09.920><c> to</c><00:11:10.160><c> drivers</c><00:11:10.480><c> through</c><00:11:10.800><c> a</c>
+
+00:11:10.949 --> 00:11:10.959 align:start position:0%
+and routes messages to drivers through a
+ 
+
+00:11:10.959 --> 00:11:13.590 align:start position:0%
+and routes messages to drivers through a
+websocket.<00:11:12.079><c> This</c><00:11:12.320><c> entire</c><00:11:12.720><c> time,</c><00:11:13.040><c> a</c><00:11:13.200><c> driver's</c>
+
+00:11:13.590 --> 00:11:13.600 align:start position:0%
+websocket. This entire time, a driver's
+ 
+
+00:11:13.600 --> 00:11:15.269 align:start position:0%
+websocket. This entire time, a driver's
+device<00:11:13.839><c> sends</c><00:11:14.160><c> its</c><00:11:14.399><c> location</c><00:11:14.720><c> every</c><00:11:15.120><c> few</c>
+
+00:11:15.269 --> 00:11:15.279 align:start position:0%
+device sends its location every few
+ 
+
+00:11:15.279 --> 00:11:17.430 align:start position:0%
+device sends its location every few
+seconds<00:11:15.600><c> to</c><00:11:15.760><c> the</c><00:11:15.920><c> driver</c><00:11:16.240><c> location</c><00:11:16.560><c> index.</c>
+
+00:11:17.430 --> 00:11:17.440 align:start position:0%
+seconds to the driver location index.
+ 
+
+00:11:17.440 --> 00:11:18.949 align:start position:0%
+seconds to the driver location index.
+This<00:11:17.680><c> ping</c><00:11:18.000><c> should</c><00:11:18.160><c> expire</c><00:11:18.480><c> on</c><00:11:18.640><c> its</c><00:11:18.800><c> own</c>
+
+00:11:18.949 --> 00:11:18.959 align:start position:0%
+This ping should expire on its own
+ 
+
+00:11:18.959 --> 00:11:21.030 align:start position:0%
+This ping should expire on its own
+fairly<00:11:19.360><c> quickly.</c><00:11:20.000><c> Otherwise,</c><00:11:20.399><c> a</c><00:11:20.640><c> driver</c><00:11:20.880><c> that</c>
+
+00:11:21.030 --> 00:11:21.040 align:start position:0%
+fairly quickly. Otherwise, a driver that
+ 
+
+00:11:21.040 --> 00:11:22.710 align:start position:0%
+fairly quickly. Otherwise, a driver that
+closes<00:11:21.360><c> their</c><00:11:21.519><c> app</c><00:11:21.760><c> may</c><00:11:22.000><c> still</c><00:11:22.160><c> be</c><00:11:22.240><c> pinged</c><00:11:22.560><c> for</c>
+
+00:11:22.710 --> 00:11:22.720 align:start position:0%
+closes their app may still be pinged for
+ 
+
+00:11:22.720 --> 00:11:25.110 align:start position:0%
+closes their app may still be pinged for
+potential<00:11:23.120><c> rides.</c><00:11:24.000><c> Let's</c><00:11:24.320><c> now</c><00:11:24.480><c> imagine</c><00:11:24.880><c> that</c>
+
+00:11:25.110 --> 00:11:25.120 align:start position:0%
+potential rides. Let's now imagine that
+ 
+
+00:11:25.120 --> 00:11:26.790 align:start position:0%
+potential rides. Let's now imagine that
+one<00:11:25.279><c> of</c><00:11:25.360><c> the</c><00:11:25.519><c> drivers</c><00:11:25.839><c> chooses</c><00:11:26.240><c> to</c><00:11:26.399><c> accept</c><00:11:26.640><c> a</c>
+
+00:11:26.790 --> 00:11:26.800 align:start position:0%
+one of the drivers chooses to accept a
+ 
+
+00:11:26.800 --> 00:11:28.710 align:start position:0%
+one of the drivers chooses to accept a
+ride<00:11:27.040><c> proposal.</c><00:11:27.920><c> The</c><00:11:28.160><c> first</c><00:11:28.320><c> thing</c><00:11:28.399><c> it</c><00:11:28.560><c> will</c>
+
+00:11:28.710 --> 00:11:28.720 align:start position:0%
+ride proposal. The first thing it will
+ 
+
+00:11:28.720 --> 00:11:30.470 align:start position:0%
+ride proposal. The first thing it will
+do<00:11:28.880><c> is</c><00:11:29.040><c> add</c><00:11:29.200><c> a</c><00:11:29.440><c> row</c><00:11:29.519><c> to</c><00:11:29.680><c> the</c><00:11:29.839><c> driver</c><00:11:30.079><c> rides</c>
+
+00:11:30.470 --> 00:11:30.480 align:start position:0%
+do is add a row to the driver rides
+ 
+
+00:11:30.480 --> 00:11:31.829 align:start position:0%
+do is add a row to the driver rides
+table<00:11:30.800><c> which</c><00:11:30.959><c> should</c><00:11:31.120><c> point</c><00:11:31.360><c> to</c><00:11:31.440><c> the</c><00:11:31.600><c> ride</c>
+
+00:11:31.829 --> 00:11:31.839 align:start position:0%
+table which should point to the ride
+ 
+
+00:11:31.839 --> 00:11:34.069 align:start position:0%
+table which should point to the ride
+object.<00:11:32.880><c> From</c><00:11:33.120><c> there,</c><00:11:33.360><c> we'll</c><00:11:33.600><c> update</c><00:11:33.920><c> the</c>
+
+00:11:34.069 --> 00:11:34.079 align:start position:0%
+object. From there, we'll update the
+ 
+
+00:11:34.079 --> 00:11:36.550 align:start position:0%
+object. From there, we'll update the
+ride<00:11:34.480><c> row</c><00:11:34.560><c> itself,</c><00:11:35.040><c> adding</c><00:11:35.360><c> the</c><00:11:35.519><c> driver</c><00:11:35.839><c> ID.</c>
+
+00:11:36.550 --> 00:11:36.560 align:start position:0%
+ride row itself, adding the driver ID.
+ 
+
+00:11:36.560 --> 00:11:38.470 align:start position:0%
+ride row itself, adding the driver ID.
+At<00:11:36.800><c> this</c><00:11:36.959><c> point,</c><00:11:37.279><c> no</c><00:11:37.519><c> other</c><00:11:37.680><c> driver</c><00:11:38.000><c> can</c><00:11:38.240><c> claim</c>
+
+00:11:38.470 --> 00:11:38.480 align:start position:0%
+At this point, no other driver can claim
+ 
+
+00:11:38.480 --> 00:11:40.630 align:start position:0%
+At this point, no other driver can claim
+the<00:11:38.640><c> ride.</c><00:11:39.360><c> Our</c><00:11:39.600><c> user</c><00:11:39.920><c> server</c><00:11:40.160><c> should</c><00:11:40.399><c> start</c>
+
+00:11:40.630 --> 00:11:40.640 align:start position:0%
+the ride. Our user server should start
+ 
+
+00:11:40.640 --> 00:11:42.150 align:start position:0%
+the ride. Our user server should start
+getting<00:11:40.880><c> location</c><00:11:41.279><c> pings</c><00:11:41.600><c> from</c><00:11:41.760><c> the</c><00:11:41.920><c> driver</c>
+
+00:11:42.150 --> 00:11:42.160 align:start position:0%
+getting location pings from the driver
+ 
+
+00:11:42.160 --> 00:11:44.150 align:start position:0%
+getting location pings from the driver
+shortly<00:11:42.560><c> after,</c><00:11:43.120><c> letting</c><00:11:43.360><c> it</c><00:11:43.600><c> know</c><00:11:43.760><c> to</c><00:11:43.920><c> stop</c>
+
+00:11:44.150 --> 00:11:44.160 align:start position:0%
+shortly after, letting it know to stop
+ 
+
+00:11:44.160 --> 00:11:46.389 align:start position:0%
+shortly after, letting it know to stop
+looking<00:11:44.399><c> for</c><00:11:44.560><c> suitable</c><00:11:45.040><c> drivers.</c><00:11:45.920><c> Drivers</c>
+
+00:11:46.389 --> 00:11:46.399 align:start position:0%
+looking for suitable drivers. Drivers
+ 
+
+00:11:46.399 --> 00:11:47.990 align:start position:0%
+looking for suitable drivers. Drivers
+need<00:11:46.560><c> to</c><00:11:46.640><c> forward</c><00:11:47.040><c> their</c><00:11:47.200><c> location</c><00:11:47.600><c> to</c><00:11:47.760><c> all</c>
+
+00:11:47.990 --> 00:11:48.000 align:start position:0%
+need to forward their location to all
+ 
+
+00:11:48.000 --> 00:11:50.310 align:start position:0%
+need to forward their location to all
+match<00:11:48.320><c> passengers.</c><00:11:49.279><c> As</c><00:11:49.519><c> a</c><00:11:49.760><c> reminder</c><00:11:50.000><c> though,</c>
+
+00:11:50.310 --> 00:11:50.320 align:start position:0%
+match passengers. As a reminder though,
+ 
+
+00:11:50.320 --> 00:11:51.670 align:start position:0%
+match passengers. As a reminder though,
+even<00:11:50.560><c> when</c><00:11:50.720><c> they're</c><00:11:50.880><c> doing</c><00:11:51.040><c> this,</c><00:11:51.360><c> they</c><00:11:51.519><c> must</c>
+
+00:11:51.670 --> 00:11:51.680 align:start position:0%
+even when they're doing this, they must
+ 
+
+00:11:51.680 --> 00:11:53.910 align:start position:0%
+even when they're doing this, they must
+still<00:11:51.920><c> ping</c><00:11:52.160><c> the</c><00:11:52.320><c> location</c><00:11:52.640><c> index.</c><00:11:53.519><c> To</c><00:11:53.680><c> ping</c>
+
+00:11:53.910 --> 00:11:53.920 align:start position:0%
+still ping the location index. To ping
+ 
+
+00:11:53.920 --> 00:11:55.750 align:start position:0%
+still ping the location index. To ping
+their<00:11:54.160><c> passengers,</c><00:11:54.720><c> we</c><00:11:54.880><c> can</c><00:11:55.040><c> join</c><00:11:55.279><c> the</c><00:11:55.440><c> driver</c>
+
+00:11:55.750 --> 00:11:55.760 align:start position:0%
+their passengers, we can join the driver
+ 
+
+00:11:55.760 --> 00:11:57.750 align:start position:0%
+their passengers, we can join the driver
+rides<00:11:56.079><c> with</c><00:11:56.320><c> the</c><00:11:56.480><c> rides</c><00:11:56.880><c> table</c><00:11:57.279><c> to</c><00:11:57.440><c> get</c><00:11:57.600><c> the</c>
+
+00:11:57.750 --> 00:11:57.760 align:start position:0%
+rides with the rides table to get the
+ 
+
+00:11:57.760 --> 00:11:59.670 align:start position:0%
+rides with the rides table to get the
+user<00:11:58.079><c> IDs</c><00:11:58.399><c> in</c><00:11:58.560><c> question</c><00:11:58.959><c> and</c><00:11:59.200><c> then</c><00:11:59.360><c> consult</c>
+
+00:11:59.670 --> 00:11:59.680 align:start position:0%
+user IDs in question and then consult
+ 
+
+00:11:59.680 --> 00:12:01.350 align:start position:0%
+user IDs in question and then consult
+the<00:11:59.839><c> user</c><00:12:00.160><c> sessions</c><00:12:00.560><c> table</c><00:12:00.880><c> to</c><00:12:01.040><c> figure</c><00:12:01.200><c> out</c>
+
+00:12:01.350 --> 00:12:01.360 align:start position:0%
+the user sessions table to figure out
+ 
+
+00:12:01.360 --> 00:12:02.870 align:start position:0%
+the user sessions table to figure out
+which<00:12:01.600><c> servers</c><00:12:02.000><c> those</c><00:12:02.240><c> passengers</c><00:12:02.720><c> are</c>
+
+00:12:02.870 --> 00:12:02.880 align:start position:0%
+which servers those passengers are
+ 
+
+00:12:02.880 --> 00:12:05.269 align:start position:0%
+which servers those passengers are
+connected<00:12:03.200><c> to.</c><00:12:04.000><c> The</c><00:12:04.240><c> passenger</c><00:12:04.720><c> server</c><00:12:05.040><c> will</c>
+
+00:12:05.269 --> 00:12:05.279 align:start position:0%
+connected to. The passenger server will
+ 
+
+00:12:05.279 --> 00:12:06.790 align:start position:0%
+connected to. The passenger server will
+also<00:12:05.600><c> have</c><00:12:05.680><c> to</c><00:12:05.839><c> forward</c><00:12:06.079><c> the</c><00:12:06.320><c> passengers</c>
+
+00:12:06.790 --> 00:12:06.800 align:start position:0%
+also have to forward the passengers
+ 
+
+00:12:06.800 --> 00:12:08.949 align:start position:0%
+also have to forward the passengers
+location<00:12:07.200><c> to</c><00:12:07.440><c> their</c><00:12:07.680><c> driver.</c><00:12:08.320><c> It</c><00:12:08.560><c> can</c><00:12:08.639><c> do</c><00:12:08.800><c> so</c>
+
+00:12:08.949 --> 00:12:08.959 align:start position:0%
+location to their driver. It can do so
+ 
+
+00:12:08.959 --> 00:12:10.710 align:start position:0%
+location to their driver. It can do so
+by<00:12:09.200><c> consulting</c><00:12:09.600><c> the</c><00:12:09.760><c> driver</c><00:12:10.000><c> sessions</c><00:12:10.399><c> table</c>
+
+00:12:10.710 --> 00:12:10.720 align:start position:0%
+by consulting the driver sessions table
+ 
+
+00:12:10.720 --> 00:12:13.030 align:start position:0%
+by consulting the driver sessions table
+and<00:12:10.959><c> routing</c><00:12:11.279><c> that</c><00:12:11.519><c> message</c><00:12:11.839><c> accordingly.</c><00:12:12.800><c> In</c>
+
+00:12:13.030 --> 00:12:13.040 align:start position:0%
+and routing that message accordingly. In
+ 
+
+00:12:13.040 --> 00:12:14.790 align:start position:0%
+and routing that message accordingly. In
+my<00:12:13.279><c> opinion,</c><00:12:13.760><c> this</c><00:12:14.000><c> video</c><00:12:14.160><c> was</c><00:12:14.399><c> long</c><00:12:14.560><c> enough</c>
+
+00:12:14.790 --> 00:12:14.800 align:start position:0%
+my opinion, this video was long enough
+ 
+
+00:12:14.800 --> 00:12:16.230 align:start position:0%
+my opinion, this video was long enough
+and<00:12:15.040><c> complex</c><00:12:15.360><c> enough</c><00:12:15.600><c> that</c><00:12:15.760><c> we</c><00:12:15.920><c> should</c><00:12:16.079><c> leave</c>
+
+00:12:16.230 --> 00:12:16.240 align:start position:0%
+and complex enough that we should leave
+ 
+
+00:12:16.240 --> 00:12:17.670 align:start position:0%
+and complex enough that we should leave
+the<00:12:16.399><c> discussion</c><00:12:16.639><c> of</c><00:12:16.800><c> our</c><00:12:16.959><c> driver</c><00:12:17.360><c> location</c>
+
+00:12:17.670 --> 00:12:17.680 align:start position:0%
+the discussion of our driver location
+ 
+
+00:12:17.680 --> 00:12:19.750 align:start position:0%
+the discussion of our driver location
+index<00:12:18.000><c> to</c><00:12:18.160><c> a</c><00:12:18.320><c> separate</c><00:12:18.560><c> one.</c><00:12:19.279><c> We</c><00:12:19.440><c> know</c><00:12:19.600><c> that</c>
+
+00:12:19.750 --> 00:12:19.760 align:start position:0%
+index to a separate one. We know that
+ 
+
+00:12:19.760 --> 00:12:21.110 align:start position:0%
+index to a separate one. We know that
+we're<00:12:19.920><c> sending</c><00:12:20.160><c> this</c><00:12:20.320><c> guy</c><00:12:20.639><c> millions</c><00:12:20.959><c> of</c>
+
+00:12:21.110 --> 00:12:21.120 align:start position:0%
+we're sending this guy millions of
+ 
+
+00:12:21.120 --> 00:12:23.030 align:start position:0%
+we're sending this guy millions of
+updates<00:12:21.440><c> per</c><00:12:21.680><c> second,</c><00:12:22.320><c> but</c><00:12:22.480><c> what's</c><00:12:22.720><c> the</c><00:12:22.880><c> most</c>
+
+00:12:23.030 --> 00:12:23.040 align:start position:0%
+updates per second, but what's the most
+ 
+
+00:12:23.040 --> 00:12:24.790 align:start position:0%
+updates per second, but what's the most
+intelligent<00:12:23.519><c> way</c><00:12:23.600><c> to</c><00:12:23.839><c> horizontally</c><00:12:24.399><c> scale</c><00:12:24.639><c> it</c>
+
+00:12:24.790 --> 00:12:24.800 align:start position:0%
+intelligent way to horizontally scale it
+ 
+
+00:12:24.800 --> 00:12:26.710 align:start position:0%
+intelligent way to horizontally scale it
+out?<00:12:25.440><c> In</c><00:12:25.680><c> our</c><00:12:25.839><c> next</c><00:12:26.000><c> video,</c><00:12:26.320><c> we're</c><00:12:26.560><c> going</c><00:12:26.639><c> to</c>
+
+00:12:26.710 --> 00:12:26.720 align:start position:0%
+out? In our next video, we're going to
+ 
+
+00:12:26.720 --> 00:12:29.430 align:start position:0%
+out? In our next video, we're going to
+introduce<00:12:27.120><c> a</c><00:12:27.360><c> new</c><00:12:27.600><c> concept,</c><00:12:28.160><c> geosharting.</c>
+
+00:12:29.430 --> 00:12:29.440 align:start position:0%
+introduce a new concept, geosharting.
+ 
+
+00:12:29.440 --> 00:12:31.030 align:start position:0%
+introduce a new concept, geosharting.
+Thanks<00:12:29.680><c> for</c><00:12:29.839><c> sticking</c><00:12:30.079><c> around</c><00:12:30.399><c> this</c><00:12:30.639><c> long,</c>
+
+00:12:31.030 --> 00:12:31.040 align:start position:0%
+Thanks for sticking around this long,
+ 
+
+00:12:31.040 --> 00:12:32.949 align:start position:0%
+Thanks for sticking around this long,
+everybody.<00:12:31.680><c> Uh,</c><00:12:32.079><c> next</c><00:12:32.320><c> week</c><00:12:32.639><c> we'll</c><00:12:32.880><c> be</c>
+
+00:12:32.949 --> 00:12:32.959 align:start position:0%
+everybody. Uh, next week we'll be
+ 
+
+00:12:32.959 --> 00:12:34.710 align:start position:0%
+everybody. Uh, next week we'll be
+talking<00:12:33.200><c> about</c><00:12:33.360><c> how</c><00:12:33.600><c> to</c><00:12:33.760><c> split</c><00:12:34.000><c> that</c><00:12:34.320><c> location</c>
+
+00:12:34.710 --> 00:12:34.720 align:start position:0%
+talking about how to split that location
+ 
+
+00:12:34.720 --> 00:12:36.870 align:start position:0%
+talking about how to split that location
+index<00:12:35.200><c> right</c><00:12:35.440><c> in</c><00:12:35.680><c> two.</c><00:12:36.320><c> Wish</c><00:12:36.480><c> someone</c><00:12:36.720><c> would</c>
+
+00:12:36.870 --> 00:12:36.880 align:start position:0%
+index right in two. Wish someone would
+ 
+
+00:12:36.880 --> 00:12:38.470 align:start position:0%
+index right in two. Wish someone would
+come<00:12:37.040><c> along</c><00:12:37.279><c> and</c><00:12:37.440><c> split</c><00:12:37.760><c> me</c><00:12:37.920><c> right</c><00:12:38.079><c> in</c><00:12:38.240><c> two,</c>
+
+00:12:38.470 --> 00:12:38.480 align:start position:0%
+come along and split me right in two,
+ 
+
+00:12:38.480 --> 00:12:39.670 align:start position:0%
+come along and split me right in two,
+but<00:12:38.639><c> I</c><00:12:38.800><c> guess</c><00:12:38.880><c> we'll</c><00:12:39.120><c> have</c><00:12:39.200><c> to</c><00:12:39.360><c> wait</c><00:12:39.519><c> for</c>
+
+00:12:39.670 --> 00:12:39.680 align:start position:0%
+but I guess we'll have to wait for
+ 
+
+00:12:39.680 --> 00:12:43.519 align:start position:0%
+but I guess we'll have to wait for
+another<00:12:40.000><c> week.</c><00:12:40.560><c> See</c><00:12:40.800><c> you</c><00:12:40.959><c> all</c><00:12:41.120><c> in</c><00:12:41.279><c> the</c><00:12:41.360><c> next</c>
+

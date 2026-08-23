@@ -1,0 +1,2976 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.629 align:start position:0%
+ 
+Hello<00:00:00.480><c> everyone</c><00:00:01.040><c> and</c><00:00:01.439><c> welcome</c><00:00:02.000><c> back</c><00:00:02.240><c> to</c><00:00:02.480><c> the</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+Hello everyone and welcome back to the
+ 
+
+00:00:02.639 --> 00:00:04.550 align:start position:0%
+Hello everyone and welcome back to the
+channel.<00:00:02.960><c> I</c><00:00:03.200><c> appreciate</c><00:00:03.600><c> all</c><00:00:03.760><c> the</c><00:00:04.000><c> support</c><00:00:04.240><c> on</c>
+
+00:00:04.550 --> 00:00:04.560 align:start position:0%
+channel. I appreciate all the support on
+ 
+
+00:00:04.560 --> 00:00:07.030 align:start position:0%
+channel. I appreciate all the support on
+last<00:00:04.880><c> week's</c><00:00:05.279><c> video.</c><00:00:06.000><c> Uh</c><00:00:06.319><c> but</c><00:00:06.640><c> we're</c><00:00:06.799><c> going</c><00:00:06.879><c> to</c>
+
+00:00:07.030 --> 00:00:07.040 align:start position:0%
+last week's video. Uh but we're going to
+ 
+
+00:00:07.040 --> 00:00:09.030 align:start position:0%
+last week's video. Uh but we're going to
+get<00:00:07.120><c> back</c><00:00:07.279><c> into</c><00:00:07.600><c> systems</c><00:00:08.080><c> design</c><00:00:08.559><c> for</c><00:00:08.800><c> the</c>
+
+00:00:09.030 --> 00:00:09.040 align:start position:0%
+get back into systems design for the
+ 
+
+00:00:09.040 --> 00:00:11.589 align:start position:0%
+get back into systems design for the
+time<00:00:09.280><c> being.</c><00:00:10.160><c> So,</c><00:00:10.559><c> uh</c><00:00:10.719><c> that</c><00:00:10.960><c> means</c><00:00:11.200><c> I've</c><00:00:11.440><c> got</c>
+
+00:00:11.589 --> 00:00:11.599 align:start position:0%
+time being. So, uh that means I've got
+ 
+
+00:00:11.599 --> 00:00:14.310 align:start position:0%
+time being. So, uh that means I've got
+about<00:00:12.000><c> six</c><00:00:12.320><c> more</c><00:00:12.639><c> weeks</c><00:00:13.040><c> or</c><00:00:13.280><c> so</c><00:00:13.519><c> of</c><00:00:13.840><c> retaining</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+about six more weeks or so of retaining
+ 
+
+00:00:14.320 --> 00:00:16.870 align:start position:0%
+about six more weeks or so of retaining
+your<00:00:14.559><c> guys</c><00:00:14.880><c> respect</c><00:00:15.759><c> uh</c><00:00:16.000><c> until</c><00:00:16.240><c> I</c><00:00:16.480><c> actually</c>
+
+00:00:16.870 --> 00:00:16.880 align:start position:0%
+your guys respect uh until I actually
+ 
+
+00:00:16.880 --> 00:00:18.550 align:start position:0%
+your guys respect uh until I actually
+code<00:00:17.199><c> for</c><00:00:17.359><c> the</c><00:00:17.520><c> first</c><00:00:17.760><c> time</c><00:00:17.840><c> on</c><00:00:18.080><c> this</c><00:00:18.320><c> channel</c>
+
+00:00:18.550 --> 00:00:18.560 align:start position:0%
+code for the first time on this channel
+ 
+
+00:00:18.560 --> 00:00:20.070 align:start position:0%
+code for the first time on this channel
+and<00:00:18.800><c> everyone</c><00:00:19.119><c> realizes</c><00:00:19.600><c> that</c><00:00:19.760><c> I'm</c><00:00:19.920><c> a</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+and everyone realizes that I'm a
+ 
+
+00:00:20.080 --> 00:00:22.390 align:start position:0%
+and everyone realizes that I'm a
+terrible<00:00:20.400><c> engineer.</c><00:00:21.359><c> So,</c><00:00:21.600><c> while</c><00:00:21.840><c> I</c><00:00:22.080><c> have</c><00:00:22.160><c> your</c>
+
+00:00:22.390 --> 00:00:22.400 align:start position:0%
+terrible engineer. So, while I have your
+ 
+
+00:00:22.400 --> 00:00:24.070 align:start position:0%
+terrible engineer. So, while I have your
+attention,<00:00:22.800><c> in</c><00:00:23.039><c> the</c><00:00:23.119><c> meantime,</c><00:00:23.600><c> let's</c><00:00:23.920><c> go</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+attention, in the meantime, let's go
+ 
+
+00:00:24.080 --> 00:00:26.630 align:start position:0%
+attention, in the meantime, let's go
+ahead<00:00:24.320><c> and</c><00:00:24.640><c> talk</c><00:00:24.880><c> about</c><00:00:25.119><c> Yelp.</c><00:00:26.000><c> Yelp</c><00:00:26.400><c> is</c><00:00:26.480><c> an</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+ahead and talk about Yelp. Yelp is an
+ 
+
+00:00:26.640 --> 00:00:28.230 align:start position:0%
+ahead and talk about Yelp. Yelp is an
+app<00:00:26.800><c> that</c><00:00:26.960><c> allows</c><00:00:27.199><c> you</c><00:00:27.359><c> to</c><00:00:27.519><c> review</c><00:00:27.920><c> local</c>
+
+00:00:28.230 --> 00:00:28.240 align:start position:0%
+app that allows you to review local
+ 
+
+00:00:28.240 --> 00:00:30.310 align:start position:0%
+app that allows you to review local
+businesses.<00:00:29.279><c> This</c><00:00:29.519><c> way,</c><00:00:29.760><c> you</c><00:00:30.000><c> can</c><00:00:30.080><c> see</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+businesses. This way, you can see
+ 
+
+00:00:30.320 --> 00:00:31.910 align:start position:0%
+businesses. This way, you can see
+ratings<00:00:30.720><c> of</c><00:00:30.960><c> various</c><00:00:31.279><c> stores</c><00:00:31.519><c> in</c><00:00:31.760><c> your</c>
+
+00:00:31.910 --> 00:00:31.920 align:start position:0%
+ratings of various stores in your
+ 
+
+00:00:31.920 --> 00:00:33.910 align:start position:0%
+ratings of various stores in your
+neighborhood.<00:00:32.800><c> For</c><00:00:32.960><c> example,</c><00:00:33.440><c> I</c><00:00:33.680><c> run</c><00:00:33.760><c> a</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+neighborhood. For example, I run a
+ 
+
+00:00:33.920 --> 00:00:35.750 align:start position:0%
+neighborhood. For example, I run a
+massage<00:00:34.239><c> parlor,</c><00:00:34.800><c> and</c><00:00:34.960><c> it</c><00:00:35.200><c> has</c><00:00:35.360><c> many</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+massage parlor, and it has many
+ 
+
+00:00:35.760 --> 00:00:37.990 align:start position:0%
+massage parlor, and it has many
+five-star<00:00:36.239><c> reviews.</c><00:00:37.200><c> Yelp</c><00:00:37.600><c> typically</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+five-star reviews. Yelp typically
+ 
+
+00:00:38.000 --> 00:00:40.389 align:start position:0%
+five-star reviews. Yelp typically
+operates<00:00:38.399><c> on</c><00:00:38.559><c> a</c><00:00:38.800><c> location</c><00:00:39.280><c> basis.</c><00:00:40.000><c> When</c><00:00:40.239><c> you</c>
+
+00:00:40.389 --> 00:00:40.399 align:start position:0%
+operates on a location basis. When you
+ 
+
+00:00:40.399 --> 00:00:42.229 align:start position:0%
+operates on a location basis. When you
+enter<00:00:40.559><c> the</c><00:00:40.800><c> website,</c><00:00:41.280><c> it'll</c><00:00:41.600><c> show</c><00:00:41.680><c> you</c><00:00:41.920><c> places</c>
+
+00:00:42.229 --> 00:00:42.239 align:start position:0%
+enter the website, it'll show you places
+ 
+
+00:00:42.239 --> 00:00:44.630 align:start position:0%
+enter the website, it'll show you places
+within<00:00:42.559><c> a</c><00:00:42.719><c> certain</c><00:00:42.960><c> radius</c><00:00:43.280><c> of</c><00:00:43.440><c> a</c><00:00:43.680><c> point.</c><00:00:44.399><c> That</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+within a certain radius of a point. That
+ 
+
+00:00:44.640 --> 00:00:46.630 align:start position:0%
+within a certain radius of a point. That
+being<00:00:44.879><c> said,</c><00:00:45.280><c> it</c><00:00:45.520><c> also</c><00:00:45.760><c> exposes</c><00:00:46.160><c> the</c><00:00:46.399><c> ability</c>
+
+00:00:46.630 --> 00:00:46.640 align:start position:0%
+being said, it also exposes the ability
+ 
+
+00:00:46.640 --> 00:00:48.630 align:start position:0%
+being said, it also exposes the ability
+to<00:00:46.800><c> perform</c><00:00:47.280><c> searches</c><00:00:47.600><c> for</c><00:00:47.840><c> businesses</c><00:00:48.399><c> by</c>
+
+00:00:48.630 --> 00:00:48.640 align:start position:0%
+to perform searches for businesses by
+ 
+
+00:00:48.640 --> 00:00:50.950 align:start position:0%
+to perform searches for businesses by
+their<00:00:48.879><c> name.</c><00:00:49.600><c> Let's</c><00:00:49.840><c> formally</c><00:00:50.320><c> outline</c><00:00:50.719><c> these</c>
+
+00:00:50.950 --> 00:00:50.960 align:start position:0%
+their name. Let's formally outline these
+ 
+
+00:00:50.960 --> 00:00:53.510 align:start position:0%
+their name. Let's formally outline these
+requirements.<00:00:51.920><c> This</c><00:00:52.079><c> problem</c><00:00:52.559><c> is</c><00:00:52.960><c> relatively</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+requirements. This problem is relatively
+ 
+
+00:00:53.520 --> 00:00:55.510 align:start position:0%
+requirements. This problem is relatively
+simple<00:00:53.840><c> in</c><00:00:54.000><c> terms</c><00:00:54.160><c> of</c><00:00:54.239><c> its</c><00:00:54.480><c> main</c><00:00:54.640><c> objectives.</c>
+
+00:00:55.510 --> 00:00:55.520 align:start position:0%
+simple in terms of its main objectives.
+ 
+
+00:00:55.520 --> 00:00:57.029 align:start position:0%
+simple in terms of its main objectives.
+The<00:00:55.760><c> first</c><00:00:55.920><c> one</c><00:00:56.079><c> is</c><00:00:56.160><c> that</c><00:00:56.320><c> we</c><00:00:56.480><c> can</c><00:00:56.640><c> create</c><00:00:56.800><c> an</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+The first one is that we can create an
+ 
+
+00:00:57.039 --> 00:00:59.270 align:start position:0%
+The first one is that we can create an
+entry<00:00:57.360><c> for</c><00:00:57.520><c> a</c><00:00:57.680><c> local</c><00:00:58.000><c> business.</c><00:00:58.719><c> We</c><00:00:58.960><c> just</c><00:00:59.120><c> need</c>
+
+00:00:59.270 --> 00:00:59.280 align:start position:0%
+entry for a local business. We just need
+ 
+
+00:00:59.280 --> 00:01:01.029 align:start position:0%
+entry for a local business. We just need
+to<00:00:59.359><c> provide</c><00:00:59.680><c> that</c><00:00:59.920><c> business's</c><00:01:00.399><c> name,</c>
+
+00:01:01.029 --> 00:01:01.039 align:start position:0%
+to provide that business's name,
+ 
+
+00:01:01.039 --> 00:01:03.750 align:start position:0%
+to provide that business's name,
+address,<00:01:01.520><c> and</c><00:01:01.760><c> a</c><00:01:01.920><c> photo</c><00:01:02.160><c> of</c><00:01:02.320><c> it.</c><00:01:03.039><c> From</c><00:01:03.280><c> there,</c>
+
+00:01:03.750 --> 00:01:03.760 align:start position:0%
+address, and a photo of it. From there,
+ 
+
+00:01:03.760 --> 00:01:05.109 align:start position:0%
+address, and a photo of it. From there,
+other<00:01:04.000><c> users</c><00:01:04.320><c> should</c><00:01:04.559><c> be</c><00:01:04.640><c> able</c><00:01:04.720><c> to</c><00:01:04.879><c> leave</c>
+
+00:01:05.109 --> 00:01:05.119 align:start position:0%
+other users should be able to leave
+ 
+
+00:01:05.119 --> 00:01:07.190 align:start position:0%
+other users should be able to leave
+reviews<00:01:05.439><c> for</c><00:01:05.600><c> that</c><00:01:05.840><c> business.</c><00:01:06.640><c> Each</c><00:01:06.880><c> review</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+reviews for that business. Each review
+ 
+
+00:01:07.200 --> 00:01:08.950 align:start position:0%
+reviews for that business. Each review
+can<00:01:07.360><c> leave</c><00:01:07.600><c> a</c><00:01:07.760><c> rating</c><00:01:08.000><c> number</c><00:01:08.240><c> out</c><00:01:08.479><c> of</c><00:01:08.640><c> five</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+can leave a rating number out of five
+ 
+
+00:01:08.960 --> 00:01:10.870 align:start position:0%
+can leave a rating number out of five
+and<00:01:09.200><c> a</c><00:01:09.360><c> text</c><00:01:09.600><c> body</c><00:01:09.920><c> expressing</c><00:01:10.320><c> how</c><00:01:10.479><c> they</c><00:01:10.640><c> felt</c>
+
+00:01:10.870 --> 00:01:10.880 align:start position:0%
+and a text body expressing how they felt
+ 
+
+00:01:10.880 --> 00:01:12.789 align:start position:0%
+and a text body expressing how they felt
+about<00:01:11.119><c> the</c><00:01:11.280><c> service</c><00:01:11.520><c> they</c><00:01:11.760><c> received.</c><00:01:12.640><c> It</c>
+
+00:01:12.789 --> 00:01:12.799 align:start position:0%
+about the service they received. It
+ 
+
+00:01:12.799 --> 00:01:14.310 align:start position:0%
+about the service they received. It
+should<00:01:12.960><c> also</c><00:01:13.200><c> be</c><00:01:13.280><c> the</c><00:01:13.439><c> case</c><00:01:13.600><c> that</c><00:01:13.760><c> when</c><00:01:13.920><c> a</c><00:01:14.080><c> user</c>
+
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+should also be the case that when a user
+ 
+
+00:01:14.320 --> 00:01:16.149 align:start position:0%
+should also be the case that when a user
+selects<00:01:14.640><c> a</c><00:01:14.880><c> given</c><00:01:15.119><c> business,</c><00:01:15.680><c> they</c><00:01:15.920><c> should</c><00:01:16.080><c> be</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+selects a given business, they should be
+ 
+
+00:01:16.159 --> 00:01:17.670 align:start position:0%
+selects a given business, they should be
+able<00:01:16.320><c> to</c><00:01:16.400><c> load</c><00:01:16.640><c> all</c><00:01:16.880><c> of</c><00:01:16.960><c> the</c><00:01:17.119><c> reviews</c><00:01:17.439><c> people</c>
+
+00:01:17.670 --> 00:01:17.680 align:start position:0%
+able to load all of the reviews people
+ 
+
+00:01:17.680 --> 00:01:20.070 align:start position:0%
+able to load all of the reviews people
+have<00:01:17.920><c> left</c><00:01:18.080><c> on</c><00:01:18.240><c> it.</c><00:01:19.040><c> Finally,</c><00:01:19.520><c> we</c><00:01:19.759><c> need</c><00:01:19.840><c> to</c><00:01:20.000><c> be</c>
+
+00:01:20.070 --> 00:01:20.080 align:start position:0%
+have left on it. Finally, we need to be
+ 
+
+00:01:20.080 --> 00:01:22.390 align:start position:0%
+have left on it. Finally, we need to be
+able<00:01:20.240><c> to</c><00:01:20.400><c> search</c><00:01:20.720><c> for</c><00:01:21.040><c> businesses.</c><00:01:22.000><c> The</c><00:01:22.159><c> first</c>
+
+00:01:22.390 --> 00:01:22.400 align:start position:0%
+able to search for businesses. The first
+ 
+
+00:01:22.400 --> 00:01:24.870 align:start position:0%
+able to search for businesses. The first
+search<00:01:22.720><c> functionality</c><00:01:23.200><c> is</c><00:01:23.439><c> locationbased.</c><00:01:24.640><c> A</c>
+
+00:01:24.870 --> 00:01:24.880 align:start position:0%
+search functionality is locationbased. A
+ 
+
+00:01:24.880 --> 00:01:26.789 align:start position:0%
+search functionality is locationbased. A
+user<00:01:25.200><c> can</c><00:01:25.360><c> enter</c><00:01:25.600><c> an</c><00:01:25.840><c> address</c><00:01:26.159><c> and</c><00:01:26.479><c> see</c><00:01:26.640><c> all</c>
+
+00:01:26.789 --> 00:01:26.799 align:start position:0%
+user can enter an address and see all
+ 
+
+00:01:26.799 --> 00:01:28.390 align:start position:0%
+user can enter an address and see all
+the<00:01:27.040><c> places</c><00:01:27.280><c> within</c><00:01:27.600><c> a</c><00:01:27.840><c> certain</c><00:01:28.080><c> number</c><00:01:28.240><c> of</c>
+
+00:01:28.390 --> 00:01:28.400 align:start position:0%
+the places within a certain number of
+ 
+
+00:01:28.400 --> 00:01:31.030 align:start position:0%
+the places within a certain number of
+miles<00:01:28.720><c> from</c><00:01:28.960><c> their</c><00:01:29.200><c> location.</c><00:01:30.560><c> The</c><00:01:30.799><c> second</c>
+
+00:01:31.030 --> 00:01:31.040 align:start position:0%
+miles from their location. The second
+ 
+
+00:01:31.040 --> 00:01:33.510 align:start position:0%
+miles from their location. The second
+way<00:01:31.200><c> of</c><00:01:31.439><c> searching</c><00:01:31.759><c> is</c><00:01:32.000><c> textbased.</c><00:01:33.040><c> A</c><00:01:33.200><c> user</c>
+
+00:01:33.510 --> 00:01:33.520 align:start position:0%
+way of searching is textbased. A user
+ 
+
+00:01:33.520 --> 00:01:35.350 align:start position:0%
+way of searching is textbased. A user
+enters<00:01:33.840><c> a</c><00:01:34.000><c> search</c><00:01:34.240><c> term</c><00:01:34.560><c> and</c><00:01:34.799><c> sees</c><00:01:35.119><c> all</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+enters a search term and sees all
+ 
+
+00:01:35.360 --> 00:01:37.590 align:start position:0%
+enters a search term and sees all
+relevant<00:01:35.759><c> businesses</c><00:01:36.159><c> on</c><00:01:36.400><c> the</c><00:01:36.560><c> site.</c>
+
+00:01:37.590 --> 00:01:37.600 align:start position:0%
+relevant businesses on the site.
+ 
+
+00:01:37.600 --> 00:01:39.190 align:start position:0%
+relevant businesses on the site.
+According<00:01:38.000><c> to</c><00:01:38.159><c> some</c><00:01:38.320><c> estimates</c><00:01:38.720><c> that</c><00:01:38.880><c> I</c><00:01:39.040><c> see</c>
+
+00:01:39.190 --> 00:01:39.200 align:start position:0%
+According to some estimates that I see
+ 
+
+00:01:39.200 --> 00:01:41.109 align:start position:0%
+According to some estimates that I see
+on<00:01:39.360><c> the</c><00:01:39.520><c> internet,</c><00:01:39.920><c> Yelp</c><00:01:40.320><c> contains</c><00:01:40.720><c> listings</c>
+
+00:01:41.109 --> 00:01:41.119 align:start position:0%
+on the internet, Yelp contains listings
+ 
+
+00:01:41.119 --> 00:01:42.630 align:start position:0%
+on the internet, Yelp contains listings
+for<00:01:41.280><c> tens</c><00:01:41.600><c> of</c><00:01:41.759><c> millions</c><00:01:42.159><c> of</c><00:01:42.320><c> local</c>
+
+00:01:42.630 --> 00:01:42.640 align:start position:0%
+for tens of millions of local
+ 
+
+00:01:42.640 --> 00:01:44.710 align:start position:0%
+for tens of millions of local
+businesses.<00:01:43.600><c> Just</c><00:01:43.759><c> to</c><00:01:43.920><c> be</c><00:01:44.079><c> conservative,</c>
+
+00:01:44.710 --> 00:01:44.720 align:start position:0%
+businesses. Just to be conservative,
+ 
+
+00:01:44.720 --> 00:01:46.630 align:start position:0%
+businesses. Just to be conservative,
+let's<00:01:44.960><c> have</c><00:01:45.119><c> our</c><00:01:45.280><c> site</c><00:01:45.520><c> support</c><00:01:46.079><c> 100</c><00:01:46.320><c> million</c>
+
+00:01:46.630 --> 00:01:46.640 align:start position:0%
+let's have our site support 100 million
+ 
+
+00:01:46.640 --> 00:01:49.030 align:start position:0%
+let's have our site support 100 million
+of<00:01:46.799><c> them.</c><00:01:47.520><c> To</c><00:01:47.840><c> actually</c><00:01:48.159><c> store</c><00:01:48.399><c> the</c><00:01:48.640><c> data</c><00:01:48.880><c> for</c>
+
+00:01:49.030 --> 00:01:49.040 align:start position:0%
+of them. To actually store the data for
+ 
+
+00:01:49.040 --> 00:01:50.789 align:start position:0%
+of them. To actually store the data for
+a<00:01:49.200><c> listing,</c><00:01:49.759><c> we</c><00:01:50.000><c> need</c><00:01:50.079><c> to</c><00:01:50.240><c> store</c><00:01:50.479><c> some</c>
+
+00:01:50.789 --> 00:01:50.799 align:start position:0%
+a listing, we need to store some
+ 
+
+00:01:50.799 --> 00:01:53.350 align:start position:0%
+a listing, we need to store some
+location<00:01:51.280><c> information,</c><00:01:52.079><c> a</c><00:01:52.399><c> name,</c><00:01:52.799><c> a</c><00:01:53.040><c> link</c><00:01:53.200><c> to</c>
+
+00:01:53.350 --> 00:01:53.360 align:start position:0%
+location information, a name, a link to
+ 
+
+00:01:53.360 --> 00:01:55.990 align:start position:0%
+location information, a name, a link to
+a<00:01:53.520><c> photo,</c><00:01:54.000><c> and</c><00:01:54.240><c> maybe</c><00:01:54.479><c> a</c><00:01:54.640><c> bit</c><00:01:54.799><c> of</c><00:01:54.880><c> metadata.</c><00:01:55.840><c> We</c>
+
+00:01:55.990 --> 00:01:56.000 align:start position:0%
+a photo, and maybe a bit of metadata. We
+ 
+
+00:01:56.000 --> 00:01:58.230 align:start position:0%
+a photo, and maybe a bit of metadata. We
+can<00:01:56.159><c> conservatively</c><00:01:56.799><c> call</c><00:01:57.040><c> this</c><00:01:57.280><c> 1</c><00:01:57.520><c> kilob</c><00:01:58.000><c> of</c>
+
+00:01:58.230 --> 00:01:58.240 align:start position:0%
+can conservatively call this 1 kilob of
+ 
+
+00:01:58.240 --> 00:02:00.550 align:start position:0%
+can conservatively call this 1 kilob of
+information.<00:01:59.360><c> That</c><00:01:59.520><c> means</c><00:01:59.759><c> that</c><00:01:59.920><c> our</c><00:02:00.159><c> entire</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+information. That means that our entire
+ 
+
+00:02:00.560 --> 00:02:03.190 align:start position:0%
+information. That means that our entire
+table<00:02:00.799><c> of</c><00:02:00.960><c> listings</c><00:02:01.360><c> is</c><00:02:01.600><c> just</c><00:02:01.840><c> 100</c><00:02:02.079><c> GB</c><00:02:02.560><c> in</c><00:02:02.799><c> size</c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+table of listings is just 100 GB in size
+ 
+
+00:02:03.200 --> 00:02:04.870 align:start position:0%
+table of listings is just 100 GB in size
+and<00:02:03.439><c> can</c><00:02:03.680><c> comfortably</c><00:02:04.159><c> fit</c><00:02:04.399><c> on</c><00:02:04.479><c> a</c><00:02:04.719><c> single</c>
+
+00:02:04.870 --> 00:02:04.880 align:start position:0%
+and can comfortably fit on a single
+ 
+
+00:02:04.880 --> 00:02:07.350 align:start position:0%
+and can comfortably fit on a single
+server.<00:02:05.920><c> Additionally,</c><00:02:06.560><c> Yelp</c><00:02:06.960><c> has</c><00:02:07.119><c> reported</c>
+
+00:02:07.350 --> 00:02:07.360 align:start position:0%
+server. Additionally, Yelp has reported
+ 
+
+00:02:07.360 --> 00:02:09.270 align:start position:0%
+server. Additionally, Yelp has reported
+that<00:02:07.520><c> they</c><00:02:07.680><c> have</c><00:02:07.920><c> 30</c><00:02:08.239><c> million</c><00:02:08.560><c> monthly</c><00:02:08.959><c> active</c>
+
+00:02:09.270 --> 00:02:09.280 align:start position:0%
+that they have 30 million monthly active
+ 
+
+00:02:09.280 --> 00:02:11.430 align:start position:0%
+that they have 30 million monthly active
+users.<00:02:10.080><c> If</c><00:02:10.319><c> all</c><00:02:10.560><c> of</c><00:02:10.640><c> those</c><00:02:10.879><c> happen</c><00:02:11.039><c> to</c><00:02:11.200><c> make</c>
+
+00:02:11.430 --> 00:02:11.440 align:start position:0%
+users. If all of those happen to make
+ 
+
+00:02:11.440 --> 00:02:13.830 align:start position:0%
+users. If all of those happen to make
+one<00:02:11.680><c> query</c><00:02:11.920><c> a</c><00:02:12.160><c> day</c><00:02:12.319><c> on</c><00:02:12.480><c> average,</c><00:02:13.200><c> that's</c><00:02:13.599><c> 30</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+one query a day on average, that's 30
+ 
+
+00:02:13.840 --> 00:02:16.150 align:start position:0%
+one query a day on average, that's 30
+million<00:02:14.160><c> queries</c><00:02:14.480><c> per</c><00:02:14.720><c> day</c><00:02:14.879><c> and</c><00:02:15.120><c> around</c><00:02:15.520><c> 350</c>
+
+00:02:16.150 --> 00:02:16.160 align:start position:0%
+million queries per day and around 350
+ 
+
+00:02:16.160 --> 00:02:18.390 align:start position:0%
+million queries per day and around 350
+per<00:02:16.400><c> second.</c><00:02:17.360><c> Depending</c><00:02:17.680><c> on</c><00:02:17.840><c> the</c><00:02:18.000><c> complexity</c>
+
+00:02:18.390 --> 00:02:18.400 align:start position:0%
+per second. Depending on the complexity
+ 
+
+00:02:18.400 --> 00:02:19.830 align:start position:0%
+per second. Depending on the complexity
+of<00:02:18.480><c> the</c><00:02:18.640><c> query,</c><00:02:18.959><c> it's</c><00:02:19.200><c> possible</c><00:02:19.440><c> that</c><00:02:19.599><c> a</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+of the query, it's possible that a
+ 
+
+00:02:19.840 --> 00:02:21.670 align:start position:0%
+of the query, it's possible that a
+particularly<00:02:20.400><c> beefy</c><00:02:20.800><c> single</c><00:02:21.040><c> database</c><00:02:21.440><c> could</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+particularly beefy single database could
+ 
+
+00:02:21.680 --> 00:02:23.589 align:start position:0%
+particularly beefy single database could
+handle<00:02:21.920><c> this</c><00:02:22.080><c> throughput.</c><00:02:23.040><c> But</c><00:02:23.200><c> in</c><00:02:23.360><c> the</c><00:02:23.520><c> event</c>
+
+00:02:23.589 --> 00:02:23.599 align:start position:0%
+handle this throughput. But in the event
+ 
+
+00:02:23.599 --> 00:02:25.270 align:start position:0%
+handle this throughput. But in the event
+that<00:02:23.760><c> it</c><00:02:24.000><c> can't,</c><00:02:24.239><c> we'll</c><00:02:24.480><c> also</c><00:02:24.720><c> discuss</c><00:02:25.040><c> ways</c>
+
+00:02:25.270 --> 00:02:25.280 align:start position:0%
+that it can't, we'll also discuss ways
+ 
+
+00:02:25.280 --> 00:02:26.869 align:start position:0%
+that it can't, we'll also discuss ways
+to<00:02:25.520><c> increase</c><00:02:25.760><c> the</c><00:02:26.000><c> amount</c><00:02:26.160><c> of</c><00:02:26.239><c> throughput</c><00:02:26.640><c> we</c>
+
+00:02:26.869 --> 00:02:26.879 align:start position:0%
+to increase the amount of throughput we
+ 
+
+00:02:26.879 --> 00:02:28.869 align:start position:0%
+to increase the amount of throughput we
+can<00:02:26.959><c> handle.</c><00:02:27.840><c> As</c><00:02:28.080><c> we</c><00:02:28.319><c> mentioned,</c><00:02:28.640><c> the</c>
+
+00:02:28.869 --> 00:02:28.879 align:start position:0%
+can handle. As we mentioned, the
+ 
+
+00:02:28.879 --> 00:02:30.550 align:start position:0%
+can handle. As we mentioned, the
+entirety<00:02:29.280><c> of</c><00:02:29.440><c> our</c><00:02:29.680><c> small</c><00:02:29.920><c> business</c><00:02:30.239><c> listing</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+entirety of our small business listing
+ 
+
+00:02:30.560 --> 00:02:32.949 align:start position:0%
+entirety of our small business listing
+database<00:02:31.040><c> can</c><00:02:31.200><c> fit</c><00:02:31.440><c> on</c><00:02:31.599><c> a</c><00:02:31.760><c> single</c><00:02:31.920><c> node.</c><00:02:32.720><c> Let's</c>
+
+00:02:32.949 --> 00:02:32.959 align:start position:0%
+database can fit on a single node. Let's
+ 
+
+00:02:32.959 --> 00:02:34.790 align:start position:0%
+database can fit on a single node. Let's
+map<00:02:33.120><c> out</c><00:02:33.280><c> an</c><00:02:33.440><c> initial</c><00:02:33.760><c> schema</c><00:02:34.080><c> and</c><00:02:34.319><c> update</c><00:02:34.640><c> it</c>
+
+00:02:34.790 --> 00:02:34.800 align:start position:0%
+map out an initial schema and update it
+ 
+
+00:02:34.800 --> 00:02:37.350 align:start position:0%
+map out an initial schema and update it
+as<00:02:34.959><c> we</c><00:02:35.120><c> go.</c><00:02:35.760><c> A</c><00:02:36.000><c> first</c><00:02:36.239><c> pass</c><00:02:36.480><c> at</c><00:02:36.640><c> a</c><00:02:36.800><c> table</c><00:02:36.959><c> schema</c>
+
+00:02:37.350 --> 00:02:37.360 align:start position:0%
+as we go. A first pass at a table schema
+ 
+
+00:02:37.360 --> 00:02:40.630 align:start position:0%
+as we go. A first pass at a table schema
+could<00:02:37.599><c> be</c><00:02:37.840><c> ID,</c><00:02:38.640><c> name,</c><00:02:39.200><c> latitude,</c><00:02:39.920><c> longitude,</c>
+
+00:02:40.630 --> 00:02:40.640 align:start position:0%
+could be ID, name, latitude, longitude,
+ 
+
+00:02:40.640 --> 00:02:43.190 align:start position:0%
+could be ID, name, latitude, longitude,
+thumbnail<00:02:41.040><c> URL.</c><00:02:42.160><c> We</c><00:02:42.400><c> also</c><00:02:42.640><c> need</c><00:02:42.720><c> to</c><00:02:42.879><c> create</c><00:02:43.040><c> a</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+thumbnail URL. We also need to create a
+ 
+
+00:02:43.200 --> 00:02:45.430 align:start position:0%
+thumbnail URL. We also need to create a
+schema<00:02:43.599><c> for</c><00:02:43.680><c> a</c><00:02:43.840><c> reviews</c><00:02:44.239><c> table.</c><00:02:45.040><c> This</c><00:02:45.200><c> could</c>
+
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+schema for a reviews table. This could
+ 
+
+00:02:45.440 --> 00:02:48.150 align:start position:0%
+schema for a reviews table. This could
+be<00:02:45.680><c> ID,</c><00:02:46.160><c> listing</c><00:02:46.560><c> ID,</c><00:02:46.959><c> poster</c><00:02:47.360><c> ID,</c><00:02:47.840><c> post</c>
+
+00:02:48.150 --> 00:02:48.160 align:start position:0%
+be ID, listing ID, poster ID, post
+ 
+
+00:02:48.160 --> 00:02:50.470 align:start position:0%
+be ID, listing ID, poster ID, post
+creation<00:02:48.560><c> timestamp,</c><00:02:49.200><c> number</c><00:02:49.440><c> of</c><00:02:49.599><c> stars,</c><00:02:50.160><c> and</c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+creation timestamp, number of stars, and
+ 
+
+00:02:50.480 --> 00:02:52.550 align:start position:0%
+creation timestamp, number of stars, and
+text<00:02:50.720><c> content.</c><00:02:51.680><c> It</c><00:02:51.920><c> seems</c><00:02:52.080><c> like</c><00:02:52.239><c> for</c><00:02:52.400><c> our</c>
+
+00:02:52.550 --> 00:02:52.560 align:start position:0%
+text content. It seems like for our
+ 
+
+00:02:52.560 --> 00:02:54.790 align:start position:0%
+text content. It seems like for our
+listings<00:02:53.040><c> table,</c><00:02:53.440><c> we</c><00:02:53.680><c> want</c><00:02:53.920><c> an</c><00:02:54.080><c> index</c><00:02:54.480><c> on</c><00:02:54.640><c> the</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+listings table, we want an index on the
+ 
+
+00:02:54.800 --> 00:02:57.030 align:start position:0%
+listings table, we want an index on the
+ID.<00:02:55.599><c> For</c><00:02:55.760><c> our</c><00:02:56.000><c> reviews</c><00:02:56.400><c> table,</c><00:02:56.800><c> it's</c>
+
+00:02:57.030 --> 00:02:57.040 align:start position:0%
+ID. For our reviews table, it's
+ 
+
+00:02:57.040 --> 00:02:57.990 align:start position:0%
+ID. For our reviews table, it's
+important<00:02:57.200><c> that</c><00:02:57.360><c> we're</c><00:02:57.519><c> able</c><00:02:57.680><c> to</c><00:02:57.840><c> find</c>
+
+00:02:57.990 --> 00:02:58.000 align:start position:0%
+important that we're able to find
+ 
+
+00:02:58.000 --> 00:03:00.470 align:start position:0%
+important that we're able to find
+reviews<00:02:58.400><c> by</c><00:02:58.560><c> their</c><00:02:58.800><c> listing</c><00:02:59.120><c> ID</c><00:02:59.360><c> quickly.</c><00:03:00.239><c> In</c>
+
+00:03:00.470 --> 00:03:00.480 align:start position:0%
+reviews by their listing ID quickly. In
+ 
+
+00:03:00.480 --> 00:03:02.309 align:start position:0%
+reviews by their listing ID quickly. In
+this<00:03:00.640><c> case,</c><00:03:00.959><c> we</c><00:03:01.200><c> likely</c><00:03:01.519><c> want</c><00:03:01.680><c> an</c><00:03:01.840><c> index</c><00:03:02.159><c> on</c>
+
+00:03:02.309 --> 00:03:02.319 align:start position:0%
+this case, we likely want an index on
+ 
+
+00:03:02.319 --> 00:03:04.390 align:start position:0%
+this case, we likely want an index on
+the<00:03:02.480><c> listing</c><00:03:02.800><c> ID</c><00:03:03.120><c> and</c><00:03:03.360><c> within</c><00:03:03.680><c> each</c><00:03:03.920><c> listing,</c>
+
+00:03:04.390 --> 00:03:04.400 align:start position:0%
+the listing ID and within each listing,
+ 
+
+00:03:04.400 --> 00:03:06.229 align:start position:0%
+the listing ID and within each listing,
+an<00:03:04.640><c> internal</c><00:03:05.040><c> sort</c><00:03:05.280><c> on</c><00:03:05.440><c> the</c><00:03:05.599><c> postcreation</c>
+
+00:03:06.229 --> 00:03:06.239 align:start position:0%
+an internal sort on the postcreation
+ 
+
+00:03:06.239 --> 00:03:08.630 align:start position:0%
+an internal sort on the postcreation
+timestamp.<00:03:07.360><c> In</c><00:03:07.599><c> the</c><00:03:07.760><c> event</c><00:03:07.920><c> that</c><00:03:08.080><c> our</c><00:03:08.239><c> reviews</c>
+
+00:03:08.630 --> 00:03:08.640 align:start position:0%
+timestamp. In the event that our reviews
+ 
+
+00:03:08.640 --> 00:03:11.110 align:start position:0%
+timestamp. In the event that our reviews
+table<00:03:08.959><c> gets</c><00:03:09.200><c> too</c><00:03:09.440><c> large,</c><00:03:09.760><c> we</c><00:03:09.920><c> can</c><00:03:10.080><c> shard</c><00:03:10.400><c> it.</c>
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+table gets too large, we can shard it.
+ 
+
+00:03:11.120 --> 00:03:13.270 align:start position:0%
+table gets too large, we can shard it.
+We<00:03:11.360><c> just</c><00:03:11.519><c> want</c><00:03:11.760><c> to</c><00:03:11.920><c> ensure</c><00:03:12.319><c> that</c><00:03:12.640><c> all</c><00:03:12.879><c> reviews</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+We just want to ensure that all reviews
+ 
+
+00:03:13.280 --> 00:03:15.350 align:start position:0%
+We just want to ensure that all reviews
+from<00:03:13.440><c> each</c><00:03:13.680><c> listing</c><00:03:14.159><c> stay</c><00:03:14.400><c> on</c><00:03:14.560><c> the</c><00:03:14.640><c> same</c><00:03:14.879><c> shard</c>
+
+00:03:15.350 --> 00:03:15.360 align:start position:0%
+from each listing stay on the same shard
+ 
+
+00:03:15.360 --> 00:03:17.509 align:start position:0%
+from each listing stay on the same shard
+for<00:03:15.680><c> fast</c><00:03:15.920><c> lookups</c><00:03:16.400><c> when</c><00:03:16.640><c> looking</c><00:03:16.879><c> at</c><00:03:17.120><c> a</c><00:03:17.280><c> given</c>
+
+00:03:17.509 --> 00:03:17.519 align:start position:0%
+for fast lookups when looking at a given
+ 
+
+00:03:17.519 --> 00:03:19.830 align:start position:0%
+for fast lookups when looking at a given
+listing.<00:03:18.400><c> We</c><00:03:18.560><c> can</c><00:03:18.720><c> use</c><00:03:18.879><c> the</c><00:03:19.040><c> listing</c><00:03:19.440><c> ID</c><00:03:19.680><c> as</c>
+
+00:03:19.830 --> 00:03:19.840 align:start position:0%
+listing. We can use the listing ID as
+ 
+
+00:03:19.840 --> 00:03:22.070 align:start position:0%
+listing. We can use the listing ID as
+the<00:03:20.000><c> shard</c><00:03:20.319><c> key.</c><00:03:21.120><c> Recall</c><00:03:21.440><c> that</c><00:03:21.599><c> we</c><00:03:21.760><c> want</c><00:03:21.840><c> to</c><00:03:22.000><c> be</c>
+
+00:03:22.070 --> 00:03:22.080 align:start position:0%
+the shard key. Recall that we want to be
+ 
+
+00:03:22.080 --> 00:03:23.830 align:start position:0%
+the shard key. Recall that we want to be
+able<00:03:22.239><c> to</c><00:03:22.400><c> perform</c><00:03:22.800><c> searches</c><00:03:23.280><c> based</c><00:03:23.519><c> on</c><00:03:23.680><c> a</c>
+
+00:03:23.830 --> 00:03:23.840 align:start position:0%
+able to perform searches based on a
+ 
+
+00:03:23.840 --> 00:03:26.309 align:start position:0%
+able to perform searches based on a
+listing<00:03:24.239><c> name.</c><00:03:25.040><c> A</c><00:03:25.360><c> really</c><00:03:25.519><c> naive</c><00:03:26.000><c> approach</c>
+
+00:03:26.309 --> 00:03:26.319 align:start position:0%
+listing name. A really naive approach
+ 
+
+00:03:26.319 --> 00:03:28.070 align:start position:0%
+listing name. A really naive approach
+here<00:03:26.640><c> would</c><00:03:26.800><c> be</c><00:03:26.959><c> to</c><00:03:27.200><c> create</c><00:03:27.360><c> a</c><00:03:27.599><c> secondary</c>
+
+00:03:28.070 --> 00:03:28.080 align:start position:0%
+here would be to create a secondary
+ 
+
+00:03:28.080 --> 00:03:30.789 align:start position:0%
+here would be to create a secondary
+index<00:03:28.560><c> based</c><00:03:28.879><c> on</c><00:03:29.120><c> those</c><00:03:29.360><c> names.</c><00:03:30.400><c> The</c><00:03:30.640><c> problem</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+index based on those names. The problem
+ 
+
+00:03:30.799 --> 00:03:32.470 align:start position:0%
+index based on those names. The problem
+with<00:03:30.959><c> this</c><00:03:31.120><c> is</c><00:03:31.200><c> that</c><00:03:31.360><c> if</c><00:03:31.519><c> we</c><00:03:31.680><c> want</c><00:03:31.840><c> fuzzy</c><00:03:32.159><c> text</c>
+
+00:03:32.470 --> 00:03:32.480 align:start position:0%
+with this is that if we want fuzzy text
+ 
+
+00:03:32.480 --> 00:03:34.149 align:start position:0%
+with this is that if we want fuzzy text
+matching<00:03:32.879><c> or</c><00:03:33.120><c> to</c><00:03:33.280><c> allow</c><00:03:33.599><c> searching</c><00:03:33.840><c> for</c><00:03:34.000><c> a</c>
+
+00:03:34.149 --> 00:03:34.159 align:start position:0%
+matching or to allow searching for a
+ 
+
+00:03:34.159 --> 00:03:35.990 align:start position:0%
+matching or to allow searching for a
+term<00:03:34.319><c> that</c><00:03:34.480><c> is</c><00:03:34.640><c> just</c><00:03:34.799><c> one</c><00:03:35.040><c> word</c><00:03:35.440><c> in</c><00:03:35.680><c> the</c><00:03:35.840><c> whole</c>
+
+00:03:35.990 --> 00:03:36.000 align:start position:0%
+term that is just one word in the whole
+ 
+
+00:03:36.000 --> 00:03:37.910 align:start position:0%
+term that is just one word in the whole
+name<00:03:36.159><c> of</c><00:03:36.239><c> a</c><00:03:36.480><c> listing,</c><00:03:37.040><c> we</c><00:03:37.200><c> wouldn't</c><00:03:37.440><c> gain</c><00:03:37.680><c> any</c>
+
+00:03:37.910 --> 00:03:37.920 align:start position:0%
+name of a listing, we wouldn't gain any
+ 
+
+00:03:37.920 --> 00:03:40.070 align:start position:0%
+name of a listing, we wouldn't gain any
+efficiency<00:03:38.400><c> improvements.</c><00:03:39.519><c> The</c><00:03:39.760><c> proper</c>
+
+00:03:40.070 --> 00:03:40.080 align:start position:0%
+efficiency improvements. The proper
+ 
+
+00:03:40.080 --> 00:03:41.750 align:start position:0%
+efficiency improvements. The proper
+technique<00:03:40.400><c> for</c><00:03:40.640><c> performing</c><00:03:41.040><c> text</c><00:03:41.360><c> search</c><00:03:41.599><c> is</c>
+
+00:03:41.750 --> 00:03:41.760 align:start position:0%
+technique for performing text search is
+ 
+
+00:03:41.760 --> 00:03:43.830 align:start position:0%
+technique for performing text search is
+to<00:03:41.920><c> use</c><00:03:42.080><c> a</c><00:03:42.239><c> search</c><00:03:42.480><c> engine</c><00:03:43.120><c> which</c><00:03:43.280><c> is</c><00:03:43.440><c> based</c><00:03:43.680><c> on</c>
+
+00:03:43.830 --> 00:03:43.840 align:start position:0%
+to use a search engine which is based on
+ 
+
+00:03:43.840 --> 00:03:46.470 align:start position:0%
+to use a search engine which is based on
+an<00:03:44.000><c> inverted</c><00:03:44.480><c> index.</c><00:03:45.280><c> An</c><00:03:45.519><c> inverted</c><00:03:46.000><c> index</c>
+
+00:03:46.470 --> 00:03:46.480 align:start position:0%
+an inverted index. An inverted index
+ 
+
+00:03:46.480 --> 00:03:48.390 align:start position:0%
+an inverted index. An inverted index
+allows<00:03:46.799><c> us</c><00:03:46.959><c> to</c><00:03:47.120><c> map</c><00:03:47.360><c> the</c><00:03:47.519><c> tokens</c><00:03:47.840><c> in</c><00:03:48.080><c> the</c><00:03:48.239><c> text</c>
+
+00:03:48.390 --> 00:03:48.400 align:start position:0%
+allows us to map the tokens in the text
+ 
+
+00:03:48.400 --> 00:03:51.190 align:start position:0%
+allows us to map the tokens in the text
+of<00:03:48.560><c> each</c><00:03:48.799><c> listing</c><00:03:49.440><c> back</c><00:03:49.680><c> to</c><00:03:49.840><c> a</c><00:03:50.000><c> listing</c><00:03:50.400><c> ID.</c>
+
+00:03:51.190 --> 00:03:51.200 align:start position:0%
+of each listing back to a listing ID.
+ 
+
+00:03:51.200 --> 00:03:52.869 align:start position:0%
+of each listing back to a listing ID.
+This<00:03:51.360><c> way,</c><00:03:51.599><c> if</c><00:03:51.760><c> a</c><00:03:51.920><c> search</c><00:03:52.159><c> matches</c><00:03:52.560><c> any</c><00:03:52.720><c> of</c>
+
+00:03:52.869 --> 00:03:52.879 align:start position:0%
+This way, if a search matches any of
+ 
+
+00:03:52.879 --> 00:03:54.470 align:start position:0%
+This way, if a search matches any of
+those<00:03:53.120><c> terms,</c><00:03:53.519><c> we</c><00:03:53.680><c> can</c><00:03:53.760><c> quickly</c><00:03:54.080><c> figure</c><00:03:54.319><c> out</c>
+
+00:03:54.470 --> 00:03:54.480 align:start position:0%
+those terms, we can quickly figure out
+ 
+
+00:03:54.480 --> 00:03:56.710 align:start position:0%
+those terms, we can quickly figure out
+all<00:03:54.720><c> of</c><00:03:54.799><c> the</c><00:03:54.959><c> relevant</c><00:03:55.360><c> listings.</c><00:03:56.319><c> We</c><00:03:56.560><c> can</c>
+
+00:03:56.710 --> 00:03:56.720 align:start position:0%
+all of the relevant listings. We can
+ 
+
+00:03:56.720 --> 00:03:58.470 align:start position:0%
+all of the relevant listings. We can
+even<00:03:56.959><c> go</c><00:03:57.120><c> beyond</c><00:03:57.519><c> creating</c><00:03:57.840><c> an</c><00:03:58.080><c> inverted</c>
+
+00:03:58.470 --> 00:03:58.480 align:start position:0%
+even go beyond creating an inverted
+ 
+
+00:03:58.480 --> 00:04:00.789 align:start position:0%
+even go beyond creating an inverted
+index<00:03:58.799><c> on</c><00:03:58.959><c> just</c><00:03:59.120><c> the</c><00:03:59.280><c> listing</c><00:03:59.680><c> names.</c><00:04:00.400><c> Perhaps</c>
+
+00:04:00.789 --> 00:04:00.799 align:start position:0%
+index on just the listing names. Perhaps
+ 
+
+00:04:00.799 --> 00:04:02.550 align:start position:0%
+index on just the listing names. Perhaps
+there<00:04:00.959><c> are</c><00:04:01.040><c> additional</c><00:04:01.439><c> descriptors</c><00:04:02.000><c> or</c><00:04:02.159><c> tags</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+there are additional descriptors or tags
+ 
+
+00:04:02.560 --> 00:04:04.550 align:start position:0%
+there are additional descriptors or tags
+we<00:04:02.720><c> can</c><00:04:02.799><c> add</c><00:04:02.879><c> to</c><00:04:03.040><c> the</c><00:04:03.200><c> listings</c><00:04:03.599><c> like</c><00:04:04.159><c> Mexican</c>
+
+00:04:04.550 --> 00:04:04.560 align:start position:0%
+we can add to the listings like Mexican
+ 
+
+00:04:04.560 --> 00:04:07.110 align:start position:0%
+we can add to the listings like Mexican
+food<00:04:04.879><c> or</c><00:04:05.280><c> footrev</c><00:04:05.840><c> from</c><00:04:06.000><c> Jordan.</c>
+
+00:04:07.110 --> 00:04:07.120 align:start position:0%
+food or footrev from Jordan.
+ 
+
+00:04:07.120 --> 00:04:08.710 align:start position:0%
+food or footrev from Jordan.
+Fortunately,<00:04:07.599><c> this</c><00:04:07.760><c> is</c><00:04:07.920><c> functionality</c><00:04:08.480><c> that</c>
+
+00:04:08.710 --> 00:04:08.720 align:start position:0%
+Fortunately, this is functionality that
+ 
+
+00:04:08.720 --> 00:04:11.110 align:start position:0%
+Fortunately, this is functionality that
+certain<00:04:08.959><c> databases</c><00:04:09.519><c> natively</c><00:04:10.080><c> support.</c><00:04:10.879><c> In</c>
+
+00:04:11.110 --> 00:04:11.120 align:start position:0%
+certain databases natively support. In
+ 
+
+00:04:11.120 --> 00:04:13.030 align:start position:0%
+certain databases natively support. In
+Postgress,<00:04:11.680><c> for</c><00:04:11.760><c> example,</c><00:04:12.239><c> you</c><00:04:12.400><c> can</c><00:04:12.480><c> tokenize</c>
+
+00:04:13.030 --> 00:04:13.040 align:start position:0%
+Postgress, for example, you can tokenize
+ 
+
+00:04:13.040 --> 00:04:15.429 align:start position:0%
+Postgress, for example, you can tokenize
+text<00:04:13.360><c> columns</c><00:04:13.680><c> with</c><00:04:13.840><c> a</c><00:04:14.000><c> TS</c><00:04:14.480><c> vector</c><00:04:14.959><c> and</c><00:04:15.200><c> then</c>
+
+00:04:15.429 --> 00:04:15.439 align:start position:0%
+text columns with a TS vector and then
+ 
+
+00:04:15.439 --> 00:04:17.990 align:start position:0%
+text columns with a TS vector and then
+create<00:04:15.680><c> a</c><00:04:15.920><c> GIN</c><00:04:16.639><c> or</c><00:04:16.799><c> generalizable</c><00:04:17.519><c> inverted</c>
+
+00:04:17.990 --> 00:04:18.000 align:start position:0%
+create a GIN or generalizable inverted
+ 
+
+00:04:18.000 --> 00:04:20.550 align:start position:0%
+create a GIN or generalizable inverted
+index<00:04:18.400><c> on</c><00:04:18.639><c> top</c><00:04:18.799><c> of</c><00:04:18.880><c> that.</c><00:04:19.680><c> Now</c><00:04:19.919><c> you</c><00:04:20.079><c> can</c><00:04:20.239><c> easily</c>
+
+00:04:20.550 --> 00:04:20.560 align:start position:0%
+index on top of that. Now you can easily
+ 
+
+00:04:20.560 --> 00:04:22.150 align:start position:0%
+index on top of that. Now you can easily
+perform<00:04:20.880><c> text</c><00:04:21.199><c> search</c><00:04:21.519><c> matching</c><00:04:21.840><c> on</c><00:04:22.000><c> the</c>
+
+00:04:22.150 --> 00:04:22.160 align:start position:0%
+perform text search matching on the
+ 
+
+00:04:22.160 --> 00:04:24.310 align:start position:0%
+perform text search matching on the
+data.<00:04:22.720><c> Often</c><00:04:23.120><c> times</c><00:04:23.440><c> developers</c><00:04:23.919><c> will</c><00:04:24.160><c> choose</c>
+
+00:04:24.310 --> 00:04:24.320 align:start position:0%
+data. Often times developers will choose
+ 
+
+00:04:24.320 --> 00:04:25.990 align:start position:0%
+data. Often times developers will choose
+to<00:04:24.479><c> use</c><00:04:24.720><c> separate</c><00:04:25.040><c> systems</c><00:04:25.360><c> for</c><00:04:25.520><c> their</c><00:04:25.759><c> text</c>
+
+00:04:25.990 --> 00:04:26.000 align:start position:0%
+to use separate systems for their text
+ 
+
+00:04:26.000 --> 00:04:28.310 align:start position:0%
+to use separate systems for their text
+searching<00:04:26.320><c> needs.</c><00:04:27.120><c> One</c><00:04:27.360><c> common</c><00:04:27.680><c> example</c><00:04:28.000><c> here</c>
+
+00:04:28.310 --> 00:04:28.320 align:start position:0%
+searching needs. One common example here
+ 
+
+00:04:28.320 --> 00:04:30.710 align:start position:0%
+searching needs. One common example here
+is<00:04:28.560><c> elastic</c><00:04:29.040><c> search.</c><00:04:29.840><c> However,</c><00:04:30.320><c> given</c><00:04:30.560><c> that</c>
+
+00:04:30.710 --> 00:04:30.720 align:start position:0%
+is elastic search. However, given that
+ 
+
+00:04:30.720 --> 00:04:32.390 align:start position:0%
+is elastic search. However, given that
+we're<00:04:30.880><c> just</c><00:04:31.120><c> using</c><00:04:31.280><c> a</c><00:04:31.520><c> single</c><00:04:31.759><c> node</c><00:04:32.000><c> for</c><00:04:32.160><c> our</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+we're just using a single node for our
+ 
+
+00:04:32.400 --> 00:04:34.469 align:start position:0%
+we're just using a single node for our
+system,<00:04:32.960><c> we</c><00:04:33.120><c> can</c><00:04:33.280><c> keep</c><00:04:33.520><c> things</c><00:04:33.759><c> simple</c><00:04:34.160><c> and</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+system, we can keep things simple and
+ 
+
+00:04:34.479 --> 00:04:36.790 align:start position:0%
+system, we can keep things simple and
+keep<00:04:34.720><c> it</c><00:04:34.880><c> all</c><00:04:34.960><c> in</c><00:04:35.120><c> a</c><00:04:35.280><c> Postgress</c><00:04:35.840><c> table.</c>
+
+00:04:36.790 --> 00:04:36.800 align:start position:0%
+keep it all in a Postgress table.
+ 
+
+00:04:36.800 --> 00:04:38.390 align:start position:0%
+keep it all in a Postgress table.
+Elastic<00:04:37.280><c> search</c><00:04:37.440><c> is</c><00:04:37.680><c> built</c><00:04:37.840><c> on</c><00:04:38.000><c> top</c><00:04:38.160><c> of</c><00:04:38.240><c> a</c>
+
+00:04:38.390 --> 00:04:38.400 align:start position:0%
+Elastic search is built on top of a
+ 
+
+00:04:38.400 --> 00:04:40.150 align:start position:0%
+Elastic search is built on top of a
+search<00:04:38.639><c> engine</c><00:04:39.040><c> called</c><00:04:39.199><c> Lucine,</c><00:04:39.759><c> which</c><00:04:39.919><c> I've</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+search engine called Lucine, which I've
+ 
+
+00:04:40.160 --> 00:04:42.230 align:start position:0%
+search engine called Lucine, which I've
+spoken<00:04:40.400><c> about</c><00:04:40.560><c> more</c><00:04:40.800><c> in</c><00:04:40.960><c> my</c><00:04:41.120><c> concept</c><00:04:41.520><c> series.</c>
+
+00:04:42.230 --> 00:04:42.240 align:start position:0%
+spoken about more in my concept series.
+ 
+
+00:04:42.240 --> 00:04:43.590 align:start position:0%
+spoken about more in my concept series.
+I'll<00:04:42.400><c> link</c><00:04:42.560><c> a</c><00:04:42.720><c> video</c><00:04:42.880><c> about</c><00:04:43.120><c> that</c><00:04:43.280><c> in</c><00:04:43.520><c> the</c>
+
+00:04:43.590 --> 00:04:43.600 align:start position:0%
+I'll link a video about that in the
+ 
+
+00:04:43.600 --> 00:04:45.670 align:start position:0%
+I'll link a video about that in the
+description.<00:04:44.639><c> Let's</c><00:04:44.880><c> move</c><00:04:45.040><c> on</c><00:04:45.199><c> to</c><00:04:45.440><c> talking</c>
+
+00:04:45.670 --> 00:04:45.680 align:start position:0%
+description. Let's move on to talking
+ 
+
+00:04:45.680 --> 00:04:47.749 align:start position:0%
+description. Let's move on to talking
+about<00:04:45.919><c> geographic</c><00:04:46.560><c> search.</c><00:04:47.199><c> How</c><00:04:47.440><c> can</c><00:04:47.600><c> we</c>
+
+00:04:47.749 --> 00:04:47.759 align:start position:0%
+about geographic search. How can we
+ 
+
+00:04:47.759 --> 00:04:49.350 align:start position:0%
+about geographic search. How can we
+figure<00:04:47.919><c> out</c><00:04:48.080><c> all</c><00:04:48.400><c> locations</c><00:04:48.800><c> that</c><00:04:48.960><c> are</c><00:04:49.120><c> within</c>
+
+00:04:49.350 --> 00:04:49.360 align:start position:0%
+figure out all locations that are within
+ 
+
+00:04:49.360 --> 00:04:51.590 align:start position:0%
+figure out all locations that are within
+a<00:04:49.520><c> certain</c><00:04:49.759><c> distance</c><00:04:50.000><c> from</c><00:04:50.160><c> a</c><00:04:50.320><c> given</c><00:04:50.560><c> address?</c>
+
+00:04:51.590 --> 00:04:51.600 align:start position:0%
+a certain distance from a given address?
+ 
+
+00:04:51.600 --> 00:04:53.030 align:start position:0%
+a certain distance from a given address?
+To<00:04:51.840><c> start,</c><00:04:52.080><c> we</c><00:04:52.240><c> first</c><00:04:52.479><c> need</c><00:04:52.560><c> a</c><00:04:52.800><c> way</c><00:04:52.880><c> of</c>
+
+00:04:53.030 --> 00:04:53.040 align:start position:0%
+To start, we first need a way of
+ 
+
+00:04:53.040 --> 00:04:54.790 align:start position:0%
+To start, we first need a way of
+translating<00:04:53.440><c> an</c><00:04:53.680><c> address</c><00:04:53.919><c> to</c><00:04:54.080><c> a</c><00:04:54.240><c> latitude</c><00:04:54.639><c> and</c>
+
+00:04:54.790 --> 00:04:54.800 align:start position:0%
+translating an address to a latitude and
+ 
+
+00:04:54.800 --> 00:04:57.189 align:start position:0%
+translating an address to a latitude and
+longitude<00:04:55.280><c> pair.</c><00:04:56.320><c> Fortunately,</c><00:04:56.880><c> there</c><00:04:57.040><c> are</c>
+
+00:04:57.189 --> 00:04:57.199 align:start position:0%
+longitude pair. Fortunately, there are
+ 
+
+00:04:57.199 --> 00:04:59.590 align:start position:0%
+longitude pair. Fortunately, there are
+many<00:04:57.440><c> services</c><00:04:57.840><c> that</c><00:04:58.080><c> do</c><00:04:58.240><c> this</c><00:04:58.479><c> for</c><00:04:58.720><c> us.</c><00:04:59.360><c> One</c>
+
+00:04:59.590 --> 00:04:59.600 align:start position:0%
+many services that do this for us. One
+ 
+
+00:04:59.600 --> 00:05:01.430 align:start position:0%
+many services that do this for us. One
+example<00:04:59.919><c> is</c><00:05:00.080><c> the</c><00:05:00.240><c> Google</c><00:05:00.479><c> Maps</c><00:05:00.800><c> geocoding</c>
+
+00:05:01.430 --> 00:05:01.440 align:start position:0%
+example is the Google Maps geocoding
+ 
+
+00:05:01.440 --> 00:05:03.990 align:start position:0%
+example is the Google Maps geocoding
+API.<00:05:02.639><c> Once</c><00:05:02.960><c> we</c><00:05:03.120><c> have</c><00:05:03.199><c> our</c><00:05:03.440><c> latitude</c><00:05:03.840><c> and</c>
+
+00:05:03.990 --> 00:05:04.000 align:start position:0%
+API. Once we have our latitude and
+ 
+
+00:05:04.000 --> 00:05:05.749 align:start position:0%
+API. Once we have our latitude and
+longitude<00:05:04.479><c> pair</c><00:05:04.720><c> for</c><00:05:04.880><c> a</c><00:05:05.040><c> user,</c><00:05:05.360><c> we</c><00:05:05.520><c> need</c><00:05:05.600><c> to</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+longitude pair for a user, we need to
+ 
+
+00:05:05.759 --> 00:05:07.749 align:start position:0%
+longitude pair for a user, we need to
+find<00:05:05.919><c> the</c><00:05:06.080><c> listings</c><00:05:06.479><c> near</c><00:05:06.720><c> them.</c><00:05:07.360><c> The</c><00:05:07.600><c> most</c>
+
+00:05:07.749 --> 00:05:07.759 align:start position:0%
+find the listings near them. The most
+ 
+
+00:05:07.759 --> 00:05:09.990 align:start position:0%
+find the listings near them. The most
+naive<00:05:08.240><c> option</c><00:05:08.639><c> would</c><00:05:08.880><c> be</c><00:05:09.039><c> to</c><00:05:09.199><c> run</c><00:05:09.440><c> a</c><00:05:09.600><c> linear</c>
+
+00:05:09.990 --> 00:05:10.000 align:start position:0%
+naive option would be to run a linear
+ 
+
+00:05:10.000 --> 00:05:12.070 align:start position:0%
+naive option would be to run a linear
+scan<00:05:10.240><c> through</c><00:05:10.479><c> our</c><00:05:10.639><c> database</c><00:05:11.280><c> and</c><00:05:11.600><c> manually</c>
+
+00:05:12.070 --> 00:05:12.080 align:start position:0%
+scan through our database and manually
+ 
+
+00:05:12.080 --> 00:05:13.749 align:start position:0%
+scan through our database and manually
+check<00:05:12.320><c> whether</c><00:05:12.560><c> the</c><00:05:12.720><c> latitude</c><00:05:13.120><c> and</c><00:05:13.280><c> longitude</c>
+
+00:05:13.749 --> 00:05:13.759 align:start position:0%
+check whether the latitude and longitude
+ 
+
+00:05:13.759 --> 00:05:16.310 align:start position:0%
+check whether the latitude and longitude
+values<00:05:14.080><c> are</c><00:05:14.240><c> close</c><00:05:14.479><c> enough</c><00:05:14.800><c> in</c><00:05:15.120><c> each</c><00:05:15.440><c> row.</c>
+
+00:05:16.310 --> 00:05:16.320 align:start position:0%
+values are close enough in each row.
+ 
+
+00:05:16.320 --> 00:05:18.070 align:start position:0%
+values are close enough in each row.
+That's<00:05:16.560><c> silly</c><00:05:16.960><c> though,</c><00:05:17.199><c> as</c><00:05:17.360><c> it's</c><00:05:17.600><c> linear</c><00:05:17.919><c> to</c>
+
+00:05:18.070 --> 00:05:18.080 align:start position:0%
+That's silly though, as it's linear to
+ 
+
+00:05:18.080 --> 00:05:19.990 align:start position:0%
+That's silly though, as it's linear to
+the<00:05:18.160><c> size</c><00:05:18.320><c> of</c><00:05:18.479><c> the</c><00:05:18.639><c> table.</c><00:05:19.360><c> Even</c><00:05:19.600><c> though</c><00:05:19.759><c> it's</c>
+
+00:05:19.990 --> 00:05:20.000 align:start position:0%
+the size of the table. Even though it's
+ 
+
+00:05:20.000 --> 00:05:21.909 align:start position:0%
+the size of the table. Even though it's
+not<00:05:20.160><c> a</c><00:05:20.400><c> gigantic</c><00:05:20.880><c> table,</c><00:05:21.280><c> you</c><00:05:21.520><c> don't</c><00:05:21.680><c> want</c><00:05:21.759><c> to</c>
+
+00:05:21.909 --> 00:05:21.919 align:start position:0%
+not a gigantic table, you don't want to
+ 
+
+00:05:21.919 --> 00:05:23.350 align:start position:0%
+not a gigantic table, you don't want to
+have<00:05:22.000><c> to</c><00:05:22.160><c> read</c><00:05:22.320><c> hundreds</c><00:05:22.639><c> of</c><00:05:22.800><c> gigabytes</c><00:05:23.199><c> of</c>
+
+00:05:23.350 --> 00:05:23.360 align:start position:0%
+have to read hundreds of gigabytes of
+ 
+
+00:05:23.360 --> 00:05:25.270 align:start position:0%
+have to read hundreds of gigabytes of
+data<00:05:23.600><c> for</c><00:05:23.840><c> every</c><00:05:24.000><c> one</c><00:05:24.160><c> of</c><00:05:24.240><c> these</c><00:05:24.400><c> queries.</c>
+
+00:05:25.270 --> 00:05:25.280 align:start position:0%
+data for every one of these queries.
+ 
+
+00:05:25.280 --> 00:05:27.189 align:start position:0%
+data for every one of these queries.
+What<00:05:25.440><c> if</c><00:05:25.600><c> instead</c><00:05:26.080><c> we</c><00:05:26.240><c> put</c><00:05:26.400><c> an</c><00:05:26.560><c> index</c><00:05:26.880><c> on</c><00:05:27.039><c> our</c>
+
+00:05:27.189 --> 00:05:27.199 align:start position:0%
+What if instead we put an index on our
+ 
+
+00:05:27.199 --> 00:05:29.430 align:start position:0%
+What if instead we put an index on our
+latitude<00:05:27.759><c> value</c><00:05:28.240><c> and</c><00:05:28.479><c> then</c><00:05:28.720><c> our</c><00:05:28.880><c> longitude</c>
+
+00:05:29.430 --> 00:05:29.440 align:start position:0%
+latitude value and then our longitude
+ 
+
+00:05:29.440 --> 00:05:31.270 align:start position:0%
+latitude value and then our longitude
+value<00:05:29.680><c> within</c><00:05:30.000><c> that?</c><00:05:30.639><c> You</c><00:05:30.800><c> may</c><00:05:30.960><c> think</c><00:05:31.120><c> that</c>
+
+00:05:31.270 --> 00:05:31.280 align:start position:0%
+value within that? You may think that
+ 
+
+00:05:31.280 --> 00:05:32.870 align:start position:0%
+value within that? You may think that
+this<00:05:31.440><c> would</c><00:05:31.600><c> allow</c><00:05:31.840><c> us</c><00:05:32.000><c> to</c><00:05:32.160><c> efficiently</c><00:05:32.639><c> find</c>
+
+00:05:32.870 --> 00:05:32.880 align:start position:0%
+this would allow us to efficiently find
+ 
+
+00:05:32.880 --> 00:05:34.150 align:start position:0%
+this would allow us to efficiently find
+all<00:05:33.039><c> points</c><00:05:33.360><c> within</c><00:05:33.600><c> a</c><00:05:33.759><c> boundary</c><00:05:34.000><c> of</c>
+
+00:05:34.150 --> 00:05:34.160 align:start position:0%
+all points within a boundary of
+ 
+
+00:05:34.160 --> 00:05:36.310 align:start position:0%
+all points within a boundary of
+latitudes<00:05:34.639><c> and</c><00:05:34.800><c> longitudes.</c><00:05:35.759><c> But</c><00:05:35.919><c> it</c><00:05:36.080><c> doesn't</c>
+
+00:05:36.310 --> 00:05:36.320 align:start position:0%
+latitudes and longitudes. But it doesn't
+ 
+
+00:05:36.320 --> 00:05:38.150 align:start position:0%
+latitudes and longitudes. But it doesn't
+really.<00:05:37.120><c> Consider</c><00:05:37.440><c> the</c><00:05:37.680><c> fact</c><00:05:37.759><c> that</c><00:05:37.919><c> when</c><00:05:38.080><c> you</c>
+
+00:05:38.150 --> 00:05:38.160 align:start position:0%
+really. Consider the fact that when you
+ 
+
+00:05:38.160 --> 00:05:40.070 align:start position:0%
+really. Consider the fact that when you
+make<00:05:38.320><c> an</c><00:05:38.479><c> index</c><00:05:38.800><c> with</c><00:05:38.960><c> two</c><00:05:39.199><c> fields,</c><00:05:39.600><c> you</c><00:05:39.840><c> sort</c>
+
+00:05:40.070 --> 00:05:40.080 align:start position:0%
+make an index with two fields, you sort
+ 
+
+00:05:40.080 --> 00:05:41.830 align:start position:0%
+make an index with two fields, you sort
+by<00:05:40.240><c> the</c><00:05:40.400><c> first</c><00:05:40.639><c> and</c><00:05:40.880><c> then</c><00:05:41.039><c> within</c><00:05:41.360><c> each</c><00:05:41.600><c> value</c>
+
+00:05:41.830 --> 00:05:41.840 align:start position:0%
+by the first and then within each value
+ 
+
+00:05:41.840 --> 00:05:44.310 align:start position:0%
+by the first and then within each value
+for<00:05:42.000><c> the</c><00:05:42.160><c> first,</c><00:05:42.639><c> you</c><00:05:42.800><c> sort</c><00:05:43.120><c> by</c><00:05:43.280><c> the</c><00:05:43.440><c> second.</c>
+
+00:05:44.310 --> 00:05:44.320 align:start position:0%
+for the first, you sort by the second.
+ 
+
+00:05:44.320 --> 00:05:45.990 align:start position:0%
+for the first, you sort by the second.
+For<00:05:44.479><c> example,</c><00:05:44.880><c> if</c><00:05:45.039><c> we</c><00:05:45.280><c> want</c><00:05:45.360><c> to</c><00:05:45.520><c> find</c><00:05:45.759><c> all</c>
+
+00:05:45.990 --> 00:05:46.000 align:start position:0%
+For example, if we want to find all
+ 
+
+00:05:46.000 --> 00:05:48.150 align:start position:0%
+For example, if we want to find all
+locations<00:05:46.560><c> close</c><00:05:46.800><c> to</c><00:05:47.039><c> latitude</c><00:05:47.520><c> value</c><00:05:47.840><c> 100</c>
+
+00:05:48.150 --> 00:05:48.160 align:start position:0%
+locations close to latitude value 100
+ 
+
+00:05:48.160 --> 00:05:50.469 align:start position:0%
+locations close to latitude value 100
+and<00:05:48.400><c> longitude</c><00:05:48.960><c> value</c><00:05:49.280><c> 100,</c><00:05:50.000><c> we'll</c><00:05:50.240><c> first</c>
+
+00:05:50.469 --> 00:05:50.479 align:start position:0%
+and longitude value 100, we'll first
+ 
+
+00:05:50.479 --> 00:05:54.150 align:start position:0%
+and longitude value 100, we'll first
+find<00:05:50.720><c> all</c><00:05:51.120><c> rows</c><00:05:51.280><c> with</c><00:05:51.520><c> latitude</c><00:05:52.080><c> 95</c><00:05:52.560><c> to</c><00:05:52.880><c> 105.</c>
+
+00:05:54.150 --> 00:05:54.160 align:start position:0%
+find all rows with latitude 95 to 105.
+ 
+
+00:05:54.160 --> 00:05:55.830 align:start position:0%
+find all rows with latitude 95 to 105.
+However,<00:05:54.560><c> when</c><00:05:54.720><c> it</c><00:05:54.880><c> comes</c><00:05:55.120><c> time</c><00:05:55.280><c> to</c><00:05:55.440><c> filter</c>
+
+00:05:55.830 --> 00:05:55.840 align:start position:0%
+However, when it comes time to filter
+ 
+
+00:05:55.840 --> 00:05:57.670 align:start position:0%
+However, when it comes time to filter
+down<00:05:56.000><c> our</c><00:05:56.240><c> remaining</c><00:05:56.639><c> values,</c><00:05:57.280><c> we</c><00:05:57.520><c> can't</c>
+
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+down our remaining values, we can't
+ 
+
+00:05:57.680 --> 00:05:59.749 align:start position:0%
+down our remaining values, we can't
+really<00:05:57.919><c> do</c><00:05:58.080><c> this</c><00:05:58.240><c> very</c><00:05:58.560><c> efficiently.</c><00:05:59.440><c> This</c><00:05:59.600><c> is</c>
+
+00:05:59.749 --> 00:05:59.759 align:start position:0%
+really do this very efficiently. This is
+ 
+
+00:05:59.759 --> 00:06:01.189 align:start position:0%
+really do this very efficiently. This is
+because<00:06:00.000><c> latitudes</c><00:06:00.479><c> are</c><00:06:00.639><c> a</c><00:06:00.800><c> continuous</c>
+
+00:06:01.189 --> 00:06:01.199 align:start position:0%
+because latitudes are a continuous
+ 
+
+00:06:01.199 --> 00:06:03.029 align:start position:0%
+because latitudes are a continuous
+numeric<00:06:01.680><c> value</c><00:06:02.160><c> and</c><00:06:02.400><c> there</c><00:06:02.560><c> are</c><00:06:02.639><c> going</c><00:06:02.720><c> to</c><00:06:02.880><c> be</c>
+
+00:06:03.029 --> 00:06:03.039 align:start position:0%
+numeric value and there are going to be
+ 
+
+00:06:03.039 --> 00:06:04.870 align:start position:0%
+numeric value and there are going to be
+very<00:06:03.360><c> few</c><00:06:03.600><c> points</c><00:06:03.919><c> that</c><00:06:04.160><c> share</c><00:06:04.560><c> identical</c>
+
+00:06:04.870 --> 00:06:04.880 align:start position:0%
+very few points that share identical
+ 
+
+00:06:04.880 --> 00:06:07.029 align:start position:0%
+very few points that share identical
+latitudes.<00:06:05.919><c> Instead,</c><00:06:06.400><c> we'll</c><00:06:06.720><c> end</c><00:06:06.880><c> up</c>
+
+00:06:07.029 --> 00:06:07.039 align:start position:0%
+latitudes. Instead, we'll end up
+ 
+
+00:06:07.039 --> 00:06:08.950 align:start position:0%
+latitudes. Instead, we'll end up
+basically<00:06:07.440><c> doing</c><00:06:07.680><c> a</c><00:06:07.840><c> linear</c><00:06:08.160><c> scan</c><00:06:08.560><c> over</c><00:06:08.800><c> all</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+basically doing a linear scan over all
+ 
+
+00:06:08.960 --> 00:06:10.790 align:start position:0%
+basically doing a linear scan over all
+the<00:06:09.120><c> points</c><00:06:09.360><c> within</c><00:06:09.680><c> our</c><00:06:09.840><c> latitude</c><00:06:10.319><c> range,</c>
+
+00:06:10.790 --> 00:06:10.800 align:start position:0%
+the points within our latitude range,
+ 
+
+00:06:10.800 --> 00:06:13.110 align:start position:0%
+the points within our latitude range,
+which<00:06:11.039><c> is</c><00:06:11.199><c> expensive.</c><00:06:12.240><c> The</c><00:06:12.479><c> common</c><00:06:12.800><c> way</c><00:06:12.960><c> to</c>
+
+00:06:13.110 --> 00:06:13.120 align:start position:0%
+which is expensive. The common way to
+ 
+
+00:06:13.120 --> 00:06:14.710 align:start position:0%
+which is expensive. The common way to
+solve<00:06:13.360><c> a</c><00:06:13.520><c> problem</c><00:06:13.759><c> like</c><00:06:14.000><c> this</c><00:06:14.240><c> is</c><00:06:14.479><c> with</c>
+
+00:06:14.710 --> 00:06:14.720 align:start position:0%
+solve a problem like this is with
+ 
+
+00:06:14.720 --> 00:06:17.110 align:start position:0%
+solve a problem like this is with
+something<00:06:14.960><c> known</c><00:06:15.199><c> as</c><00:06:15.440><c> geospatial</c><00:06:16.160><c> indexing.</c>
+
+00:06:17.110 --> 00:06:17.120 align:start position:0%
+something known as geospatial indexing.
+ 
+
+00:06:17.120 --> 00:06:19.430 align:start position:0%
+something known as geospatial indexing.
+A<00:06:17.360><c> geospatial</c><00:06:18.000><c> index</c><00:06:18.400><c> typically</c><00:06:18.720><c> attaches</c><00:06:19.199><c> a</c>
+
+00:06:19.430 --> 00:06:19.440 align:start position:0%
+A geospatial index typically attaches a
+ 
+
+00:06:19.440 --> 00:06:21.430 align:start position:0%
+A geospatial index typically attaches a
+single<00:06:19.680><c> value</c><00:06:20.000><c> to</c><00:06:20.160><c> each</c><00:06:20.560><c> row</c><00:06:20.880><c> which</c><00:06:21.039><c> is</c><00:06:21.199><c> called</c>
+
+00:06:21.430 --> 00:06:21.440 align:start position:0%
+single value to each row which is called
+ 
+
+00:06:21.440 --> 00:06:24.230 align:start position:0%
+single value to each row which is called
+a<00:06:21.680><c> geohash.</c><00:06:22.800><c> The</c><00:06:23.039><c> idea</c><00:06:23.280><c> behind</c><00:06:23.520><c> the</c><00:06:23.680><c> geohash</c>
+
+00:06:24.230 --> 00:06:24.240 align:start position:0%
+a geohash. The idea behind the geohash
+ 
+
+00:06:24.240 --> 00:06:25.830 align:start position:0%
+a geohash. The idea behind the geohash
+is<00:06:24.400><c> that</c><00:06:24.560><c> all</c><00:06:24.800><c> points</c><00:06:25.039><c> that</c><00:06:25.199><c> are</c><00:06:25.360><c> close</c><00:06:25.520><c> to</c><00:06:25.680><c> one</c>
+
+00:06:25.830 --> 00:06:25.840 align:start position:0%
+is that all points that are close to one
+ 
+
+00:06:25.840 --> 00:06:28.309 align:start position:0%
+is that all points that are close to one
+another<00:06:26.240><c> have</c><00:06:26.479><c> very</c><00:06:26.720><c> similar</c><00:06:27.039><c> hashes.</c><00:06:28.080><c> This</c>
+
+00:06:28.309 --> 00:06:28.319 align:start position:0%
+another have very similar hashes. This
+ 
+
+00:06:28.319 --> 00:06:30.150 align:start position:0%
+another have very similar hashes. This
+way<00:06:28.560><c> if</c><00:06:28.720><c> we</c><00:06:28.880><c> want</c><00:06:29.039><c> to</c><00:06:29.199><c> find</c><00:06:29.440><c> all</c><00:06:29.680><c> locations</c>
+
+00:06:30.150 --> 00:06:30.160 align:start position:0%
+way if we want to find all locations
+ 
+
+00:06:30.160 --> 00:06:32.309 align:start position:0%
+way if we want to find all locations
+near<00:06:30.400><c> a</c><00:06:30.560><c> given</c><00:06:30.800><c> point,</c><00:06:31.440><c> we</c><00:06:31.680><c> just</c><00:06:31.840><c> look</c><00:06:32.000><c> at</c><00:06:32.080><c> the</c>
+
+00:06:32.309 --> 00:06:32.319 align:start position:0%
+near a given point, we just look at the
+ 
+
+00:06:32.319 --> 00:06:34.790 align:start position:0%
+near a given point, we just look at the
+closest<00:06:32.560><c> geohash</c><00:06:33.199><c> values</c><00:06:33.520><c> to</c><00:06:33.680><c> it.</c><00:06:34.400><c> If</c><00:06:34.639><c> we</c>
+
+00:06:34.790 --> 00:06:34.800 align:start position:0%
+closest geohash values to it. If we
+ 
+
+00:06:34.800 --> 00:06:37.110 align:start position:0%
+closest geohash values to it. If we
+index<00:06:35.199><c> the</c><00:06:35.440><c> data</c><00:06:35.680><c> by</c><00:06:35.919><c> the</c><00:06:36.080><c> geohash</c><00:06:36.720><c> value,</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+index the data by the geohash value,
+ 
+
+00:06:37.120 --> 00:06:38.870 align:start position:0%
+index the data by the geohash value,
+this<00:06:37.280><c> becomes</c><00:06:37.520><c> a</c><00:06:37.680><c> very</c><00:06:37.919><c> efficient</c><00:06:38.319><c> search</c>
+
+00:06:38.870 --> 00:06:38.880 align:start position:0%
+this becomes a very efficient search
+ 
+
+00:06:38.880 --> 00:06:40.629 align:start position:0%
+this becomes a very efficient search
+since<00:06:39.199><c> geohash</c><00:06:39.840><c> values</c><00:06:40.080><c> that</c><00:06:40.240><c> are</c><00:06:40.319><c> next</c><00:06:40.479><c> to</c>
+
+00:06:40.629 --> 00:06:40.639 align:start position:0%
+since geohash values that are next to
+ 
+
+00:06:40.639 --> 00:06:42.629 align:start position:0%
+since geohash values that are next to
+one<00:06:40.800><c> another</c><00:06:40.960><c> in</c><00:06:41.199><c> sorted</c><00:06:41.520><c> order</c><00:06:42.000><c> are</c><00:06:42.160><c> in</c><00:06:42.400><c> very</c>
+
+00:06:42.629 --> 00:06:42.639 align:start position:0%
+one another in sorted order are in very
+ 
+
+00:06:42.639 --> 00:06:45.110 align:start position:0%
+one another in sorted order are in very
+similar<00:06:43.039><c> locations.</c><00:06:44.240><c> Under</c><00:06:44.479><c> the</c><00:06:44.639><c> hood,</c><00:06:44.960><c> this</c>
+
+00:06:45.110 --> 00:06:45.120 align:start position:0%
+similar locations. Under the hood, this
+ 
+
+00:06:45.120 --> 00:06:46.550 align:start position:0%
+similar locations. Under the hood, this
+can<00:06:45.280><c> be</c><00:06:45.440><c> implemented</c><00:06:45.840><c> in</c><00:06:46.080><c> many</c><00:06:46.319><c> different</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+can be implemented in many different
+ 
+
+00:06:46.560 --> 00:06:48.629 align:start position:0%
+can be implemented in many different
+ways.<00:06:47.280><c> One</c><00:06:47.600><c> common</c><00:06:47.919><c> implementation</c><00:06:48.479><c> is</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+ways. One common implementation is
+ 
+
+00:06:48.639 --> 00:06:50.309 align:start position:0%
+ways. One common implementation is
+something<00:06:48.880><c> known</c><00:06:49.039><c> as</c><00:06:49.120><c> a</c><00:06:49.280><c> quad</c><00:06:49.600><c> tree,</c><00:06:50.080><c> which</c>
+
+00:06:50.309 --> 00:06:50.319 align:start position:0%
+something known as a quad tree, which
+ 
+
+00:06:50.319 --> 00:06:52.629 align:start position:0%
+something known as a quad tree, which
+recursively<00:06:50.880><c> divides</c><00:06:51.199><c> a</c><00:06:51.440><c> 2D</c><00:06:51.759><c> plane</c><00:06:52.080><c> into</c><00:06:52.319><c> four</c>
+
+00:06:52.629 --> 00:06:52.639 align:start position:0%
+recursively divides a 2D plane into four
+ 
+
+00:06:52.639 --> 00:06:55.350 align:start position:0%
+recursively divides a 2D plane into four
+boxes.<00:06:53.680><c> Each</c><00:06:54.000><c> child</c><00:06:54.400><c> box</c><00:06:54.800><c> has</c><00:06:54.960><c> the</c><00:06:55.199><c> same</c>
+
+00:06:55.350 --> 00:06:55.360 align:start position:0%
+boxes. Each child box has the same
+ 
+
+00:06:55.360 --> 00:06:57.909 align:start position:0%
+boxes. Each child box has the same
+geohash<00:06:56.000><c> as</c><00:06:56.160><c> its</c><00:06:56.319><c> parent</c><00:06:56.960><c> plus</c><00:06:57.280><c> an</c><00:06:57.520><c> additional</c>
+
+00:06:57.909 --> 00:06:57.919 align:start position:0%
+geohash as its parent plus an additional
+ 
+
+00:06:57.919 --> 00:07:00.550 align:start position:0%
+geohash as its parent plus an additional
+number<00:06:58.240><c> between</c><00:06:58.560><c> 0</c><00:06:58.800><c> and</c><00:06:59.120><c> three.</c><00:06:59.840><c> The</c><00:07:00.080><c> image</c><00:07:00.319><c> on</c>
+
+00:07:00.550 --> 00:07:00.560 align:start position:0%
+number between 0 and three. The image on
+ 
+
+00:07:00.560 --> 00:07:03.350 align:start position:0%
+number between 0 and three. The image on
+screen<00:07:00.800><c> represents</c><00:07:01.280><c> these</c><00:07:01.520><c> in</c><00:07:01.759><c> binary.</c><00:07:03.120><c> This</c>
+
+00:07:03.350 --> 00:07:03.360 align:start position:0%
+screen represents these in binary. This
+ 
+
+00:07:03.360 --> 00:07:05.270 align:start position:0%
+screen represents these in binary. This
+way,<00:07:03.759><c> very</c><00:07:04.080><c> small</c><00:07:04.319><c> boxes</c><00:07:04.720><c> that</c><00:07:04.880><c> are</c><00:07:05.039><c> next</c><00:07:05.199><c> to</c>
+
+00:07:05.270 --> 00:07:05.280 align:start position:0%
+way, very small boxes that are next to
+ 
+
+00:07:05.280 --> 00:07:06.790 align:start position:0%
+way, very small boxes that are next to
+one<00:07:05.520><c> another</c><00:07:05.840><c> have</c><00:07:06.080><c> super</c><00:07:06.400><c> similar</c>
+
+00:07:06.790 --> 00:07:06.800 align:start position:0%
+one another have super similar
+ 
+
+00:07:06.800 --> 00:07:09.110 align:start position:0%
+one another have super similar
+geohashes.<00:07:07.919><c> This</c><00:07:08.160><c> property</c><00:07:08.479><c> is</c><00:07:08.639><c> retained</c>
+
+00:07:09.110 --> 00:07:09.120 align:start position:0%
+geohashes. This property is retained
+ 
+
+00:07:09.120 --> 00:07:11.189 align:start position:0%
+geohashes. This property is retained
+even<00:07:09.360><c> when</c><00:07:09.520><c> these</c><00:07:09.840><c> boxes</c><00:07:10.240><c> only</c><00:07:10.479><c> encompass</c><00:07:10.960><c> a</c>
+
+00:07:11.189 --> 00:07:11.199 align:start position:0%
+even when these boxes only encompass a
+ 
+
+00:07:11.199 --> 00:07:13.670 align:start position:0%
+even when these boxes only encompass a
+few<00:07:11.360><c> meters</c><00:07:11.680><c> in</c><00:07:11.919><c> size.</c><00:07:12.800><c> In</c><00:07:13.039><c> practice,</c><00:07:13.520><c> this</c>
+
+00:07:13.670 --> 00:07:13.680 align:start position:0%
+few meters in size. In practice, this
+ 
+
+00:07:13.680 --> 00:07:14.790 align:start position:0%
+few meters in size. In practice, this
+isn't<00:07:14.000><c> something</c><00:07:14.160><c> that</c><00:07:14.319><c> we</c><00:07:14.560><c> want</c><00:07:14.639><c> to</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+isn't something that we want to
+ 
+
+00:07:14.800 --> 00:07:16.870 align:start position:0%
+isn't something that we want to
+implement<00:07:15.199><c> ourselves.</c><00:07:16.240><c> Yet</c><00:07:16.479><c> again,</c>
+
+00:07:16.870 --> 00:07:16.880 align:start position:0%
+implement ourselves. Yet again,
+ 
+
+00:07:16.880 --> 00:07:18.629 align:start position:0%
+implement ourselves. Yet again,
+Postgress<00:07:17.440><c> has</c><00:07:17.520><c> an</c><00:07:17.680><c> extension</c><00:07:18.000><c> for</c><00:07:18.160><c> it</c><00:07:18.400><c> known</c>
+
+00:07:18.629 --> 00:07:18.639 align:start position:0%
+Postgress has an extension for it known
+ 
+
+00:07:18.639 --> 00:07:20.309 align:start position:0%
+Postgress has an extension for it known
+as<00:07:18.800><c> PostGis.</c>
+
+00:07:20.309 --> 00:07:20.319 align:start position:0%
+as PostGis.
+ 
+
+00:07:20.319 --> 00:07:22.550 align:start position:0%
+as PostGis.
+We<00:07:20.560><c> can</c><00:07:20.639><c> now</c><00:07:20.880><c> use</c><00:07:21.199><c> geography</c><00:07:21.840><c> points</c><00:07:22.160><c> in</c><00:07:22.400><c> each</c>
+
+00:07:22.550 --> 00:07:22.560 align:start position:0%
+We can now use geography points in each
+ 
+
+00:07:22.560 --> 00:07:23.990 align:start position:0%
+We can now use geography points in each
+of<00:07:22.639><c> our</c><00:07:22.800><c> listings</c><00:07:23.199><c> and</c><00:07:23.440><c> then</c><00:07:23.599><c> create</c><00:07:23.759><c> a</c>
+
+00:07:23.990 --> 00:07:24.000 align:start position:0%
+of our listings and then create a
+ 
+
+00:07:24.000 --> 00:07:26.629 align:start position:0%
+of our listings and then create a
+secondary<00:07:24.479><c> index</c><00:07:24.880><c> on</c><00:07:25.039><c> them.</c><00:07:25.759><c> Now,</c><00:07:26.080><c> we</c><00:07:26.319><c> can</c><00:07:26.400><c> run</c>
+
+00:07:26.629 --> 00:07:26.639 align:start position:0%
+secondary index on them. Now, we can run
+ 
+
+00:07:26.639 --> 00:07:28.230 align:start position:0%
+secondary index on them. Now, we can run
+really<00:07:26.880><c> fast</c><00:07:27.120><c> queries</c><00:07:27.440><c> to</c><00:07:27.599><c> determine</c><00:07:28.000><c> all</c><00:07:28.160><c> of</c>
+
+00:07:28.230 --> 00:07:28.240 align:start position:0%
+really fast queries to determine all of
+ 
+
+00:07:28.240 --> 00:07:30.629 align:start position:0%
+really fast queries to determine all of
+the<00:07:28.400><c> places</c><00:07:28.800><c> closest</c><00:07:29.199><c> to</c><00:07:29.360><c> a</c><00:07:29.599><c> given</c><00:07:29.759><c> user.</c>
+
+00:07:30.629 --> 00:07:30.639 align:start position:0%
+the places closest to a given user.
+ 
+
+00:07:30.639 --> 00:07:32.629 align:start position:0%
+the places closest to a given user.
+Behind<00:07:30.960><c> the</c><00:07:31.120><c> scenes,</c><00:07:31.520><c> Postgress</c><00:07:32.080><c> chooses</c><00:07:32.400><c> an</c>
+
+00:07:32.629 --> 00:07:32.639 align:start position:0%
+Behind the scenes, Postgress chooses an
+ 
+
+00:07:32.639 --> 00:07:34.870 align:start position:0%
+Behind the scenes, Postgress chooses an
+appropriately<00:07:33.199><c> sized</c><00:07:33.599><c> outer</c><00:07:34.000><c> bounding</c><00:07:34.400><c> box</c>
+
+00:07:34.870 --> 00:07:34.880 align:start position:0%
+appropriately sized outer bounding box
+ 
+
+00:07:34.880 --> 00:07:36.550 align:start position:0%
+appropriately sized outer bounding box
+to<00:07:35.120><c> begin</c><00:07:35.360><c> filtering</c><00:07:35.840><c> down</c><00:07:36.080><c> points</c><00:07:36.400><c> to</c>
+
+00:07:36.550 --> 00:07:36.560 align:start position:0%
+to begin filtering down points to
+ 
+
+00:07:36.560 --> 00:07:38.469 align:start position:0%
+to begin filtering down points to
+consider<00:07:37.199><c> and</c><00:07:37.440><c> then</c><00:07:37.680><c> checks</c><00:07:37.919><c> the</c><00:07:38.160><c> exact</c>
+
+00:07:38.469 --> 00:07:38.479 align:start position:0%
+consider and then checks the exact
+ 
+
+00:07:38.479 --> 00:07:40.309 align:start position:0%
+consider and then checks the exact
+latitudes<00:07:38.960><c> and</c><00:07:39.199><c> longitudes</c><00:07:39.840><c> to</c><00:07:40.080><c> see</c><00:07:40.160><c> if</c>
+
+00:07:40.309 --> 00:07:40.319 align:start position:0%
+latitudes and longitudes to see if
+ 
+
+00:07:40.319 --> 00:07:41.749 align:start position:0%
+latitudes and longitudes to see if
+they're<00:07:40.560><c> actually</c><00:07:40.800><c> within</c><00:07:41.120><c> the</c><00:07:41.280><c> distance</c><00:07:41.520><c> we</c>
+
+00:07:41.749 --> 00:07:41.759 align:start position:0%
+they're actually within the distance we
+ 
+
+00:07:41.759 --> 00:07:44.150 align:start position:0%
+they're actually within the distance we
+specified<00:07:42.160><c> in</c><00:07:42.319><c> our</c><00:07:42.560><c> query.</c><00:07:43.440><c> Note</c><00:07:43.759><c> that</c><00:07:43.919><c> all</c>
+
+00:07:44.150 --> 00:07:44.160 align:start position:0%
+specified in our query. Note that all
+ 
+
+00:07:44.160 --> 00:07:45.909 align:start position:0%
+specified in our query. Note that all
+points<00:07:44.479><c> within</c><00:07:44.720><c> a</c><00:07:44.960><c> bounding</c><00:07:45.280><c> box</c><00:07:45.599><c> have</c><00:07:45.759><c> a</c>
+
+00:07:45.909 --> 00:07:45.919 align:start position:0%
+points within a bounding box have a
+ 
+
+00:07:45.919 --> 00:07:48.150 align:start position:0%
+points within a bounding box have a
+geohash<00:07:46.560><c> that</c><00:07:46.800><c> starts</c><00:07:47.039><c> with</c><00:07:47.199><c> the</c><00:07:47.440><c> ID</c><00:07:47.759><c> of</c><00:07:47.919><c> that</c>
+
+00:07:48.150 --> 00:07:48.160 align:start position:0%
+geohash that starts with the ID of that
+ 
+
+00:07:48.160 --> 00:07:50.629 align:start position:0%
+geohash that starts with the ID of that
+outer<00:07:48.479><c> box.</c><00:07:49.199><c> So</c><00:07:49.360><c> to</c><00:07:49.599><c> find</c><00:07:49.840><c> those,</c><00:07:50.160><c> we</c><00:07:50.319><c> can</c><00:07:50.479><c> run</c>
+
+00:07:50.629 --> 00:07:50.639 align:start position:0%
+outer box. So to find those, we can run
+ 
+
+00:07:50.639 --> 00:07:52.550 align:start position:0%
+outer box. So to find those, we can run
+a<00:07:50.800><c> range</c><00:07:51.120><c> query</c><00:07:51.360><c> from</c><00:07:51.520><c> the</c><00:07:51.680><c> geohash</c><00:07:52.240><c> of</c><00:07:52.400><c> the</c>
+
+00:07:52.550 --> 00:07:52.560 align:start position:0%
+a range query from the geohash of the
+ 
+
+00:07:52.560 --> 00:07:54.710 align:start position:0%
+a range query from the geohash of the
+box<00:07:52.720><c> that</c><00:07:52.960><c> we</c><00:07:53.120><c> care</c><00:07:53.280><c> about</c><00:07:53.680><c> until</c><00:07:54.000><c> the</c><00:07:54.160><c> geohash</c>
+
+00:07:54.710 --> 00:07:54.720 align:start position:0%
+box that we care about until the geohash
+ 
+
+00:07:54.720 --> 00:07:56.790 align:start position:0%
+box that we care about until the geohash
+of<00:07:54.879><c> the</c><00:07:54.960><c> next</c><00:07:55.199><c> box.</c><00:07:55.840><c> Having</c><00:07:56.160><c> an</c><00:07:56.319><c> index</c><00:07:56.639><c> on</c>
+
+00:07:56.790 --> 00:07:56.800 align:start position:0%
+of the next box. Having an index on
+ 
+
+00:07:56.800 --> 00:07:58.710 align:start position:0%
+of the next box. Having an index on
+these<00:07:56.960><c> geohash</c><00:07:57.520><c> values</c><00:07:57.919><c> makes</c><00:07:58.240><c> this</c><00:07:58.400><c> very</c>
+
+00:07:58.710 --> 00:07:58.720 align:start position:0%
+these geohash values makes this very
+ 
+
+00:07:58.720 --> 00:08:01.029 align:start position:0%
+these geohash values makes this very
+efficient.<00:07:59.840><c> Keep</c><00:08:00.080><c> in</c><00:08:00.240><c> mind</c><00:08:00.319><c> that</c><00:08:00.560><c> up</c><00:08:00.720><c> to</c><00:08:00.879><c> this</c>
+
+00:08:01.029 --> 00:08:01.039 align:start position:0%
+efficient. Keep in mind that up to this
+ 
+
+00:08:01.039 --> 00:08:02.469 align:start position:0%
+efficient. Keep in mind that up to this
+point<00:08:01.280><c> we've</c><00:08:01.599><c> basically</c><00:08:01.919><c> said</c><00:08:02.080><c> that</c><00:08:02.319><c> our</c>
+
+00:08:02.469 --> 00:08:02.479 align:start position:0%
+point we've basically said that our
+ 
+
+00:08:02.479 --> 00:08:04.629 align:start position:0%
+point we've basically said that our
+listings<00:08:02.879><c> table</c><00:08:03.120><c> wouldn't</c><00:08:03.440><c> be</c><00:08:03.599><c> sharted.</c><00:08:04.400><c> That</c>
+
+00:08:04.629 --> 00:08:04.639 align:start position:0%
+listings table wouldn't be sharted. That
+ 
+
+00:08:04.639 --> 00:08:07.029 align:start position:0%
+listings table wouldn't be sharted. That
+makes<00:08:04.879><c> life</c><00:08:05.199><c> very</c><00:08:05.520><c> easy</c><00:08:05.759><c> for</c><00:08:06.000><c> us.</c><00:08:06.479><c> But</c><00:08:06.639><c> if</c><00:08:06.879><c> we</c>
+
+00:08:07.029 --> 00:08:07.039 align:start position:0%
+makes life very easy for us. But if we
+ 
+
+00:08:07.039 --> 00:08:08.550 align:start position:0%
+makes life very easy for us. But if we
+don't<00:08:07.199><c> partition</c><00:08:07.520><c> it,</c><00:08:07.759><c> our</c><00:08:07.919><c> single</c><00:08:08.160><c> node</c><00:08:08.479><c> has</c>
+
+00:08:08.550 --> 00:08:08.560 align:start position:0%
+don't partition it, our single node has
+ 
+
+00:08:08.560 --> 00:08:10.390 align:start position:0%
+don't partition it, our single node has
+to<00:08:08.800><c> bear</c><00:08:08.960><c> the</c><00:08:09.120><c> entirety</c><00:08:09.440><c> of</c><00:08:09.599><c> the</c><00:08:09.759><c> workload</c><00:08:10.160><c> for</c>
+
+00:08:10.390 --> 00:08:10.400 align:start position:0%
+to bear the entirety of the workload for
+ 
+
+00:08:10.400 --> 00:08:12.950 align:start position:0%
+to bear the entirety of the workload for
+our<00:08:10.639><c> application.</c><00:08:11.840><c> Besides</c><00:08:12.319><c> that,</c><00:08:12.560><c> we</c><00:08:12.800><c> do</c>
+
+00:08:12.950 --> 00:08:12.960 align:start position:0%
+our application. Besides that, we do
+ 
+
+00:08:12.960 --> 00:08:14.790 align:start position:0%
+our application. Besides that, we do
+need<00:08:13.120><c> to</c><00:08:13.280><c> ensure</c><00:08:13.599><c> some</c><00:08:13.840><c> fault</c><00:08:14.160><c> tolerance</c><00:08:14.639><c> if</c>
+
+00:08:14.790 --> 00:08:14.800 align:start position:0%
+need to ensure some fault tolerance if
+ 
+
+00:08:14.800 --> 00:08:16.869 align:start position:0%
+need to ensure some fault tolerance if
+our<00:08:14.960><c> node</c><00:08:15.199><c> goes</c><00:08:15.440><c> down.</c><00:08:16.240><c> We</c><00:08:16.479><c> can</c><00:08:16.639><c> run</c><00:08:16.720><c> our</c>
+
+00:08:16.869 --> 00:08:16.879 align:start position:0%
+our node goes down. We can run our
+ 
+
+00:08:16.879 --> 00:08:18.869 align:start position:0%
+our node goes down. We can run our
+Postgress<00:08:17.440><c> database</c><00:08:17.840><c> with</c><00:08:18.080><c> many</c><00:08:18.319><c> readonly</c>
+
+00:08:18.869 --> 00:08:18.879 align:start position:0%
+Postgress database with many readonly
+ 
+
+00:08:18.879 --> 00:08:20.869 align:start position:0%
+Postgress database with many readonly
+replicas.<00:08:19.840><c> Since</c><00:08:20.080><c> we</c><00:08:20.319><c> don't</c><00:08:20.479><c> really</c><00:08:20.720><c> care</c>
+
+00:08:20.869 --> 00:08:20.879 align:start position:0%
+replicas. Since we don't really care
+ 
+
+00:08:20.879 --> 00:08:22.550 align:start position:0%
+replicas. Since we don't really care
+about<00:08:21.120><c> data</c><00:08:21.440><c> steness</c><00:08:21.919><c> for</c><00:08:22.000><c> the</c><00:08:22.160><c> listings</c>
+
+00:08:22.550 --> 00:08:22.560 align:start position:0%
+about data steness for the listings
+ 
+
+00:08:22.560 --> 00:08:24.710 align:start position:0%
+about data steness for the listings
+table,<00:08:23.039><c> this</c><00:08:23.199><c> should</c><00:08:23.360><c> be</c><00:08:23.520><c> totally</c><00:08:23.919><c> okay.</c>
+
+00:08:24.710 --> 00:08:24.720 align:start position:0%
+table, this should be totally okay.
+ 
+
+00:08:24.720 --> 00:08:26.629 align:start position:0%
+table, this should be totally okay.
+Since<00:08:25.039><c> the</c><00:08:25.280><c> amount</c><00:08:25.440><c> of</c><00:08:25.680><c> new</c><00:08:25.919><c> listings</c><00:08:26.319><c> being</c>
+
+00:08:26.629 --> 00:08:26.639 align:start position:0%
+Since the amount of new listings being
+ 
+
+00:08:26.639 --> 00:08:29.029 align:start position:0%
+Since the amount of new listings being
+added<00:08:26.960><c> is</c><00:08:27.199><c> fairly</c><00:08:27.520><c> small,</c><00:08:28.240><c> we</c><00:08:28.479><c> should</c><00:08:28.639><c> be</c><00:08:28.800><c> fine</c>
+
+00:08:29.029 --> 00:08:29.039 align:start position:0%
+added is fairly small, we should be fine
+ 
+
+00:08:29.039 --> 00:08:30.869 align:start position:0%
+added is fairly small, we should be fine
+to<00:08:29.199><c> have</c><00:08:29.360><c> our</c><00:08:29.520><c> primary</c><00:08:29.919><c> node</c><00:08:30.240><c> replicating</c><00:08:30.639><c> the</c>
+
+00:08:30.869 --> 00:08:30.879 align:start position:0%
+to have our primary node replicating the
+ 
+
+00:08:30.879 --> 00:08:33.190 align:start position:0%
+to have our primary node replicating the
+data<00:08:31.120><c> to</c><00:08:31.280><c> many</c><00:08:31.599><c> places</c><00:08:31.840><c> at</c><00:08:32.080><c> a</c><00:08:32.240><c> time.</c><00:08:33.039><c> The</c>
+
+00:08:33.190 --> 00:08:33.200 align:start position:0%
+data to many places at a time. The
+ 
+
+00:08:33.200 --> 00:08:35.110 align:start position:0%
+data to many places at a time. The
+majority<00:08:33.519><c> of</c><00:08:33.680><c> Yelp</c><00:08:34.080><c> users</c><00:08:34.479><c> are</c><00:08:34.640><c> just</c><00:08:34.800><c> going</c><00:08:34.959><c> to</c>
+
+00:08:35.110 --> 00:08:35.120 align:start position:0%
+majority of Yelp users are just going to
+ 
+
+00:08:35.120 --> 00:08:36.790 align:start position:0%
+majority of Yelp users are just going to
+be<00:08:35.279><c> lurking</c><00:08:35.760><c> and</c><00:08:36.080><c> looking</c><00:08:36.240><c> at</c><00:08:36.479><c> business</c>
+
+00:08:36.790 --> 00:08:36.800 align:start position:0%
+be lurking and looking at business
+ 
+
+00:08:36.800 --> 00:08:38.709 align:start position:0%
+be lurking and looking at business
+reviews<00:08:37.279><c> without</c><00:08:37.680><c> actually</c><00:08:38.000><c> leaving</c><00:08:38.320><c> any</c><00:08:38.560><c> of</c>
+
+00:08:38.709 --> 00:08:38.719 align:start position:0%
+reviews without actually leaving any of
+ 
+
+00:08:38.719 --> 00:08:40.949 align:start position:0%
+reviews without actually leaving any of
+their<00:08:38.880><c> own.</c><00:08:39.680><c> The</c><00:08:39.919><c> number</c><00:08:40.080><c> of</c><00:08:40.240><c> reads</c><00:08:40.479><c> on</c><00:08:40.640><c> a</c><00:08:40.800><c> site</c>
+
+00:08:40.949 --> 00:08:40.959 align:start position:0%
+their own. The number of reads on a site
+ 
+
+00:08:40.959 --> 00:08:42.790 align:start position:0%
+their own. The number of reads on a site
+like<00:08:41.120><c> Yelp</c><00:08:41.519><c> should</c><00:08:41.680><c> largely</c><00:08:42.080><c> outnumber</c><00:08:42.560><c> the</c>
+
+00:08:42.790 --> 00:08:42.800 align:start position:0%
+like Yelp should largely outnumber the
+ 
+
+00:08:42.800 --> 00:08:44.949 align:start position:0%
+like Yelp should largely outnumber the
+number<00:08:42.959><c> of</c><00:08:43.120><c> writes.</c><00:08:44.159><c> Therefore,</c><00:08:44.640><c> we</c><00:08:44.880><c> want</c>
+
+00:08:44.949 --> 00:08:44.959 align:start position:0%
+number of writes. Therefore, we want
+ 
+
+00:08:44.959 --> 00:08:47.350 align:start position:0%
+number of writes. Therefore, we want
+these<00:08:45.200><c> to</c><00:08:45.360><c> be</c><00:08:45.519><c> as</c><00:08:45.760><c> fast</c><00:08:46.000><c> as</c><00:08:46.160><c> possible.</c><00:08:47.040><c> We</c><00:08:47.200><c> can</c>
+
+00:08:47.350 --> 00:08:47.360 align:start position:0%
+these to be as fast as possible. We can
+ 
+
+00:08:47.360 --> 00:08:48.949 align:start position:0%
+these to be as fast as possible. We can
+help<00:08:47.600><c> achieve</c><00:08:47.920><c> this,</c><00:08:48.320><c> especially</c><00:08:48.640><c> for</c>
+
+00:08:48.949 --> 00:08:48.959 align:start position:0%
+help achieve this, especially for
+ 
+
+00:08:48.959 --> 00:08:51.269 align:start position:0%
+help achieve this, especially for
+popular<00:08:49.360><c> searches,</c><00:08:49.920><c> with</c><00:08:50.080><c> caching.</c><00:08:50.959><c> we</c><00:08:51.200><c> can</c>
+
+00:08:51.269 --> 00:08:51.279 align:start position:0%
+popular searches, with caching. we can
+ 
+
+00:08:51.279 --> 00:08:53.430 align:start position:0%
+popular searches, with caching. we can
+cache<00:08:51.680><c> both</c><00:08:51.920><c> our</c><00:08:52.160><c> search</c><00:08:52.480><c> term</c><00:08:52.720><c> results</c><00:08:53.120><c> as</c>
+
+00:08:53.430 --> 00:08:53.440 align:start position:0%
+cache both our search term results as
+ 
+
+00:08:53.440 --> 00:08:55.910 align:start position:0%
+cache both our search term results as
+well<00:08:53.519><c> as</c><00:08:53.680><c> our</c><00:08:54.000><c> location-based</c><00:08:54.720><c> results.</c><00:08:55.680><c> On</c>
+
+00:08:55.910 --> 00:08:55.920 align:start position:0%
+well as our location-based results. On
+ 
+
+00:08:55.920 --> 00:08:57.750 align:start position:0%
+well as our location-based results. On
+the<00:08:56.080><c> location-based</c><00:08:56.800><c> results</c><00:08:57.120><c> side,</c><00:08:57.519><c> every</c>
+
+00:08:57.750 --> 00:08:57.760 align:start position:0%
+the location-based results side, every
+ 
+
+00:08:57.760 --> 00:08:59.110 align:start position:0%
+the location-based results side, every
+client<00:08:58.080><c> is</c><00:08:58.240><c> in</c><00:08:58.399><c> a</c><00:08:58.560><c> slightly</c><00:08:58.880><c> different</c>
+
+00:08:59.110 --> 00:08:59.120 align:start position:0%
+client is in a slightly different
+ 
+
+00:08:59.120 --> 00:09:01.190 align:start position:0%
+client is in a slightly different
+position.<00:08:59.839><c> So,</c><00:09:00.080><c> in</c><00:09:00.240><c> theory,</c><00:09:00.560><c> we'd</c><00:09:00.880><c> probably</c>
+
+00:09:01.190 --> 00:09:01.200 align:start position:0%
+position. So, in theory, we'd probably
+ 
+
+00:09:01.200 --> 00:09:03.269 align:start position:0%
+position. So, in theory, we'd probably
+never<00:09:01.360><c> get</c><00:09:01.519><c> a</c><00:09:01.680><c> cache</c><00:09:01.920><c> hit.</c><00:09:02.640><c> Perhaps</c><00:09:02.959><c> what</c><00:09:03.120><c> we</c>
+
+00:09:03.269 --> 00:09:03.279 align:start position:0%
+never get a cache hit. Perhaps what we
+ 
+
+00:09:03.279 --> 00:09:04.870 align:start position:0%
+never get a cache hit. Perhaps what we
+could<00:09:03.360><c> do</c><00:09:03.519><c> instead</c><00:09:03.839><c> is</c><00:09:04.080><c> have</c><00:09:04.320><c> each</c><00:09:04.560><c> client</c>
+
+00:09:04.870 --> 00:09:04.880 align:start position:0%
+could do instead is have each client
+ 
+
+00:09:04.880 --> 00:09:06.630 align:start position:0%
+could do instead is have each client
+that's<00:09:05.120><c> in</c><00:09:05.279><c> the</c><00:09:05.440><c> same</c><00:09:05.519><c> zip</c><00:09:05.839><c> code</c><00:09:06.160><c> search</c><00:09:06.399><c> for</c>
+
+00:09:06.630 --> 00:09:06.640 align:start position:0%
+that's in the same zip code search for
+ 
+
+00:09:06.640 --> 00:09:08.310 align:start position:0%
+that's in the same zip code search for
+results<00:09:06.880><c> from</c><00:09:07.120><c> the</c><00:09:07.279><c> same</c><00:09:07.440><c> starting</c><00:09:07.920><c> latitude</c>
+
+00:09:08.310 --> 00:09:08.320 align:start position:0%
+results from the same starting latitude
+ 
+
+00:09:08.320 --> 00:09:10.870 align:start position:0%
+results from the same starting latitude
+and<00:09:08.560><c> longitude.</c><00:09:09.680><c> This</c><00:09:09.920><c> way,</c><00:09:10.160><c> a</c><00:09:10.399><c> user</c><00:09:10.640><c> in</c><00:09:10.800><c> the</c>
+
+00:09:10.870 --> 00:09:10.880 align:start position:0%
+and longitude. This way, a user in the
+ 
+
+00:09:10.880 --> 00:09:12.310 align:start position:0%
+and longitude. This way, a user in the
+same<00:09:11.040><c> zip</c><00:09:11.279><c> code</c><00:09:11.519><c> would</c><00:09:11.680><c> be</c><00:09:11.760><c> able</c><00:09:11.920><c> to</c><00:09:12.000><c> fetch</c>
+
+00:09:12.310 --> 00:09:12.320 align:start position:0%
+same zip code would be able to fetch
+ 
+
+00:09:12.320 --> 00:09:13.990 align:start position:0%
+same zip code would be able to fetch
+results<00:09:12.640><c> from</c><00:09:12.880><c> the</c><00:09:13.040><c> cache</c><00:09:13.279><c> if</c><00:09:13.519><c> somebody</c><00:09:13.760><c> else</c>
+
+00:09:13.990 --> 00:09:14.000 align:start position:0%
+results from the cache if somebody else
+ 
+
+00:09:14.000 --> 00:09:15.750 align:start position:0%
+results from the cache if somebody else
+made<00:09:14.160><c> a</c><00:09:14.320><c> search</c><00:09:14.640><c> just</c><00:09:14.800><c> before</c><00:09:15.200><c> from</c><00:09:15.440><c> the</c><00:09:15.600><c> same</c>
+
+00:09:15.750 --> 00:09:15.760 align:start position:0%
+made a search just before from the same
+ 
+
+00:09:15.760 --> 00:09:18.070 align:start position:0%
+made a search just before from the same
+zip<00:09:16.080><c> code.</c><00:09:16.800><c> Like</c><00:09:17.040><c> with</c><00:09:17.200><c> many</c><00:09:17.440><c> of</c><00:09:17.600><c> our</c><00:09:17.839><c> other</c>
+
+00:09:18.070 --> 00:09:18.080 align:start position:0%
+zip code. Like with many of our other
+ 
+
+00:09:18.080 --> 00:09:20.150 align:start position:0%
+zip code. Like with many of our other
+caches,<00:09:18.640><c> we</c><00:09:18.800><c> can</c><00:09:18.880><c> use</c><00:09:19.040><c> an</c><00:09:19.279><c> LRU</c><00:09:19.760><c> replacement</c>
+
+00:09:20.150 --> 00:09:20.160 align:start position:0%
+caches, we can use an LRU replacement
+ 
+
+00:09:20.160 --> 00:09:21.990 align:start position:0%
+caches, we can use an LRU replacement
+policy<00:09:20.640><c> here</c><00:09:21.040><c> since</c><00:09:21.360><c> we</c><00:09:21.519><c> don't</c><00:09:21.680><c> know</c><00:09:21.839><c> what</c>
+
+00:09:21.990 --> 00:09:22.000 align:start position:0%
+policy here since we don't know what
+ 
+
+00:09:22.000 --> 00:09:24.310 align:start position:0%
+policy here since we don't know what
+will<00:09:22.160><c> be</c><00:09:22.320><c> useful</c><00:09:22.560><c> to</c><00:09:22.720><c> cache</c><00:09:23.040><c> in</c><00:09:23.279><c> advance.</c><00:09:24.160><c> We</c>
+
+00:09:24.310 --> 00:09:24.320 align:start position:0%
+will be useful to cache in advance. We
+ 
+
+00:09:24.320 --> 00:09:26.070 align:start position:0%
+will be useful to cache in advance. We
+can<00:09:24.480><c> cache</c><00:09:24.800><c> reviews</c><00:09:25.120><c> for</c><00:09:25.279><c> popular</c><00:09:25.600><c> listings.</c>
+
+00:09:26.070 --> 00:09:26.080 align:start position:0%
+can cache reviews for popular listings.
+ 
+
+00:09:26.080 --> 00:09:28.790 align:start position:0%
+can cache reviews for popular listings.
+Also,<00:09:27.200><c> the</c><00:09:27.440><c> first</c><00:09:27.680><c> piece</c><00:09:27.920><c> of</c><00:09:28.080><c> all</c><00:09:28.240><c> of</c><00:09:28.399><c> this</c><00:09:28.560><c> is</c>
+
+00:09:28.790 --> 00:09:28.800 align:start position:0%
+Also, the first piece of all of this is
+ 
+
+00:09:28.800 --> 00:09:30.389 align:start position:0%
+Also, the first piece of all of this is
+being<00:09:28.959><c> able</c><00:09:29.120><c> to</c><00:09:29.279><c> create</c><00:09:29.519><c> a</c><00:09:29.680><c> listing</c><00:09:30.080><c> from</c><00:09:30.240><c> the</c>
+
+00:09:30.389 --> 00:09:30.399 align:start position:0%
+being able to create a listing from the
+ 
+
+00:09:30.399 --> 00:09:32.389 align:start position:0%
+being able to create a listing from the
+administrative<00:09:30.959><c> side</c><00:09:31.120><c> of</c><00:09:31.279><c> the</c><00:09:31.440><c> application.</c>
+
+00:09:32.389 --> 00:09:32.399 align:start position:0%
+administrative side of the application.
+ 
+
+00:09:32.399 --> 00:09:34.470 align:start position:0%
+administrative side of the application.
+To<00:09:32.640><c> do</c><00:09:32.800><c> so,</c><00:09:33.120><c> a</c><00:09:33.279><c> user</c><00:09:33.519><c> hits</c><00:09:33.760><c> an</c><00:09:33.920><c> endpoint</c><00:09:34.240><c> that</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+To do so, a user hits an endpoint that
+ 
+
+00:09:34.480 --> 00:09:36.710 align:start position:0%
+To do so, a user hits an endpoint that
+processes<00:09:34.959><c> all</c><00:09:35.279><c> relevant</c><00:09:35.680><c> information</c><00:09:36.399><c> and</c>
+
+00:09:36.710 --> 00:09:36.720 align:start position:0%
+processes all relevant information and
+ 
+
+00:09:36.720 --> 00:09:39.030 align:start position:0%
+processes all relevant information and
+creates<00:09:36.959><c> an</c><00:09:37.200><c> entry</c><00:09:37.440><c> in</c><00:09:37.600><c> the</c><00:09:37.760><c> listings</c><00:09:38.160><c> table.</c>
+
+00:09:39.030 --> 00:09:39.040 align:start position:0%
+creates an entry in the listings table.
+ 
+
+00:09:39.040 --> 00:09:40.630 align:start position:0%
+creates an entry in the listings table.
+From<00:09:39.279><c> there,</c><00:09:39.600><c> our</c><00:09:39.839><c> listings</c><00:09:40.240><c> database</c>
+
+00:09:40.630 --> 00:09:40.640 align:start position:0%
+From there, our listings database
+ 
+
+00:09:40.640 --> 00:09:42.470 align:start position:0%
+From there, our listings database
+creates<00:09:40.959><c> a</c><00:09:41.120><c> primary</c><00:09:41.519><c> index</c><00:09:41.839><c> on</c><00:09:42.000><c> the</c><00:09:42.160><c> listing</c>
+
+00:09:42.470 --> 00:09:42.480 align:start position:0%
+creates a primary index on the listing
+ 
+
+00:09:42.480 --> 00:09:45.110 align:start position:0%
+creates a primary index on the listing
+ID,<00:09:43.040><c> a</c><00:09:43.279><c> secondary</c><00:09:43.760><c> index</c><00:09:44.160><c> on</c><00:09:44.320><c> a</c><00:09:44.480><c> geohash</c><00:09:44.959><c> of</c>
+
+00:09:45.110 --> 00:09:45.120 align:start position:0%
+ID, a secondary index on a geohash of
+ 
+
+00:09:45.120 --> 00:09:47.269 align:start position:0%
+ID, a secondary index on a geohash of
+the<00:09:45.279><c> listing,</c><00:09:45.760><c> and</c><00:09:46.000><c> another</c><00:09:46.399><c> local</c><00:09:46.800><c> secondary</c>
+
+00:09:47.269 --> 00:09:47.279 align:start position:0%
+the listing, and another local secondary
+ 
+
+00:09:47.279 --> 00:09:49.110 align:start position:0%
+the listing, and another local secondary
+inverted<00:09:47.760><c> index</c><00:09:48.160><c> on</c><00:09:48.399><c> the</c><00:09:48.560><c> relevant</c><00:09:48.880><c> search</c>
+
+00:09:49.110 --> 00:09:49.120 align:start position:0%
+inverted index on the relevant search
+ 
+
+00:09:49.120 --> 00:09:51.350 align:start position:0%
+inverted index on the relevant search
+terms.<00:09:50.000><c> When</c><00:09:50.160><c> a</c><00:09:50.320><c> user</c><00:09:50.640><c> wants</c><00:09:50.800><c> to</c><00:09:50.959><c> add</c><00:09:51.120><c> a</c>
+
+00:09:51.350 --> 00:09:51.360 align:start position:0%
+terms. When a user wants to add a
+ 
+
+00:09:51.360 --> 00:09:53.190 align:start position:0%
+terms. When a user wants to add a
+review,<00:09:51.680><c> it</c><00:09:51.920><c> gets</c><00:09:52.080><c> sent</c><00:09:52.240><c> to</c><00:09:52.399><c> the</c><00:09:52.560><c> database.</c>
+
+00:09:53.190 --> 00:09:53.200 align:start position:0%
+review, it gets sent to the database.
+ 
+
+00:09:53.200 --> 00:09:54.949 align:start position:0%
+review, it gets sent to the database.
+The<00:09:53.440><c> reviews</c><00:09:53.839><c> table</c><00:09:54.080><c> is</c><00:09:54.320><c> sharded</c><00:09:54.640><c> on</c><00:09:54.800><c> the</c>
+
+00:09:54.949 --> 00:09:54.959 align:start position:0%
+The reviews table is sharded on the
+ 
+
+00:09:54.959 --> 00:09:56.790 align:start position:0%
+The reviews table is sharded on the
+listing<00:09:55.279><c> ID</c><00:09:55.519><c> to</c><00:09:55.680><c> quickly</c><00:09:56.000><c> fetch</c><00:09:56.320><c> all</c><00:09:56.480><c> reviews</c>
+
+00:09:56.790 --> 00:09:56.800 align:start position:0%
+listing ID to quickly fetch all reviews
+ 
+
+00:09:56.800 --> 00:09:59.110 align:start position:0%
+listing ID to quickly fetch all reviews
+for<00:09:56.959><c> a</c><00:09:57.120><c> given</c><00:09:57.360><c> listing.</c><00:09:58.000><c> If</c><00:09:58.240><c> a</c><00:09:58.399><c> user</c><00:09:58.720><c> wants</c><00:09:58.880><c> to</c>
+
+00:09:59.110 --> 00:09:59.120 align:start position:0%
+for a given listing. If a user wants to
+ 
+
+00:09:59.120 --> 00:10:01.110 align:start position:0%
+for a given listing. If a user wants to
+see<00:09:59.360><c> businesses</c><00:09:59.839><c> near</c><00:10:00.160><c> them</c><00:10:00.480><c> or</c><00:10:00.800><c> find</c>
+
+00:10:01.110 --> 00:10:01.120 align:start position:0%
+see businesses near them or find
+ 
+
+00:10:01.120 --> 00:10:03.030 align:start position:0%
+see businesses near them or find
+businesses<00:10:01.600><c> with</c><00:10:01.839><c> search</c><00:10:02.080><c> terms,</c><00:10:02.720><c> they'll</c>
+
+00:10:03.030 --> 00:10:03.040 align:start position:0%
+businesses with search terms, they'll
+ 
+
+00:10:03.040 --> 00:10:04.870 align:start position:0%
+businesses with search terms, they'll
+once<00:10:03.279><c> again</c><00:10:03.519><c> hit</c><00:10:03.680><c> the</c><00:10:03.839><c> listing</c><00:10:04.240><c> database</c><00:10:04.640><c> or</c>
+
+00:10:04.870 --> 00:10:04.880 align:start position:0%
+once again hit the listing database or
+ 
+
+00:10:04.880 --> 00:10:07.829 align:start position:0%
+once again hit the listing database or
+one<00:10:05.040><c> of</c><00:10:05.200><c> its</c><00:10:05.360><c> replicas.</c><00:10:06.640><c> Ideally</c><00:10:07.200><c> though,</c><00:10:07.600><c> the</c>
+
+00:10:07.829 --> 00:10:07.839 align:start position:0%
+one of its replicas. Ideally though, the
+ 
+
+00:10:07.839 --> 00:10:09.750 align:start position:0%
+one of its replicas. Ideally though, the
+result<00:10:08.080><c> is</c><00:10:08.320><c> stored</c><00:10:08.480><c> in</c><00:10:08.640><c> a</c><00:10:08.800><c> cache.</c><00:10:09.360><c> To</c><00:10:09.600><c> keep</c>
+
+00:10:09.750 --> 00:10:09.760 align:start position:0%
+result is stored in a cache. To keep
+ 
+
+00:10:09.760 --> 00:10:11.509 align:start position:0%
+result is stored in a cache. To keep
+things<00:10:10.000><c> simple,</c><00:10:10.399><c> we</c><00:10:10.560><c> can</c><00:10:10.720><c> use</c><00:10:10.880><c> look</c><00:10:11.120><c> aside</c>
+
+00:10:11.509 --> 00:10:11.519 align:start position:0%
+things simple, we can use look aside
+ 
+
+00:10:11.519 --> 00:10:13.590 align:start position:0%
+things simple, we can use look aside
+caching<00:10:11.920><c> here.</c><00:10:12.399><c> If</c><00:10:12.560><c> the</c><00:10:12.800><c> result</c><00:10:12.959><c> is</c><00:10:13.200><c> cached,</c>
+
+00:10:13.590 --> 00:10:13.600 align:start position:0%
+caching here. If the result is cached,
+ 
+
+00:10:13.600 --> 00:10:15.269 align:start position:0%
+caching here. If the result is cached,
+we'll<00:10:13.839><c> return</c><00:10:14.079><c> it</c><00:10:14.240><c> back</c><00:10:14.399><c> to</c><00:10:14.480><c> the</c><00:10:14.720><c> user.</c>
+
+00:10:15.269 --> 00:10:15.279 align:start position:0%
+we'll return it back to the user.
+ 
+
+00:10:15.279 --> 00:10:16.790 align:start position:0%
+we'll return it back to the user.
+Otherwise,<00:10:15.680><c> we</c><00:10:15.839><c> fetch</c><00:10:16.160><c> the</c><00:10:16.320><c> result</c><00:10:16.480><c> from</c><00:10:16.640><c> the</c>
+
+00:10:16.790 --> 00:10:16.800 align:start position:0%
+Otherwise, we fetch the result from the
+ 
+
+00:10:16.800 --> 00:10:18.550 align:start position:0%
+Otherwise, we fetch the result from the
+database,<00:10:17.360><c> place</c><00:10:17.519><c> it</c><00:10:17.680><c> in</c><00:10:17.839><c> the</c><00:10:18.000><c> cache,</c><00:10:18.320><c> and</c>
+
+00:10:18.550 --> 00:10:18.560 align:start position:0%
+database, place it in the cache, and
+ 
+
+00:10:18.560 --> 00:10:21.030 align:start position:0%
+database, place it in the cache, and
+return<00:10:18.880><c> back</c><00:10:19.040><c> to</c><00:10:19.120><c> the</c><00:10:19.279><c> user.</c><00:10:20.240><c> Ultimately,</c><00:10:20.800><c> the</c>
+
+00:10:21.030 --> 00:10:21.040 align:start position:0%
+return back to the user. Ultimately, the
+ 
+
+00:10:21.040 --> 00:10:22.710 align:start position:0%
+return back to the user. Ultimately, the
+design<00:10:21.279><c> for</c><00:10:21.440><c> this</c><00:10:21.680><c> video</c><00:10:21.920><c> is</c><00:10:22.160><c> pretty</c><00:10:22.399><c> simple</c>
+
+00:10:22.710 --> 00:10:22.720 align:start position:0%
+design for this video is pretty simple
+ 
+
+00:10:22.720 --> 00:10:24.310 align:start position:0%
+design for this video is pretty simple
+because<00:10:22.959><c> we</c><00:10:23.120><c> get</c><00:10:23.279><c> to</c><00:10:23.440><c> rely</c><00:10:23.680><c> on</c><00:10:23.920><c> having</c><00:10:24.160><c> a</c>
+
+00:10:24.310 --> 00:10:24.320 align:start position:0%
+because we get to rely on having a
+ 
+
+00:10:24.320 --> 00:10:26.630 align:start position:0%
+because we get to rely on having a
+single<00:10:24.640><c> listings</c><00:10:25.120><c> database</c><00:10:25.600><c> node.</c><00:10:26.240><c> If</c><00:10:26.480><c> we</c>
+
+00:10:26.630 --> 00:10:26.640 align:start position:0%
+single listings database node. If we
+ 
+
+00:10:26.640 --> 00:10:27.910 align:start position:0%
+single listings database node. If we
+couldn't<00:10:26.880><c> do</c><00:10:26.959><c> this,</c><00:10:27.200><c> we'd</c><00:10:27.519><c> have</c><00:10:27.600><c> to</c><00:10:27.760><c> worry</c>
+
+00:10:27.910 --> 00:10:27.920 align:start position:0%
+couldn't do this, we'd have to worry
+ 
+
+00:10:27.920 --> 00:10:29.670 align:start position:0%
+couldn't do this, we'd have to worry
+about<00:10:28.079><c> sharding</c><00:10:28.480><c> out</c><00:10:28.640><c> both</c><00:10:28.880><c> a</c><00:10:29.040><c> geospatial</c>
+
+00:10:29.670 --> 00:10:29.680 align:start position:0%
+about sharding out both a geospatial
+ 
+
+00:10:29.680 --> 00:10:32.069 align:start position:0%
+about sharding out both a geospatial
+index<00:10:30.079><c> as</c><00:10:30.320><c> well</c><00:10:30.480><c> as</c><00:10:30.640><c> a</c><00:10:30.800><c> search</c><00:10:31.040><c> index.</c><00:10:31.839><c> These</c>
+
+00:10:32.069 --> 00:10:32.079 align:start position:0%
+index as well as a search index. These
+ 
+
+00:10:32.079 --> 00:10:33.670 align:start position:0%
+index as well as a search index. These
+are<00:10:32.240><c> topics</c><00:10:32.560><c> that</c><00:10:32.720><c> are</c><00:10:32.880><c> worthy</c><00:10:33.200><c> of</c><00:10:33.279><c> their</c><00:10:33.519><c> own</c>
+
+00:10:33.670 --> 00:10:33.680 align:start position:0%
+are topics that are worthy of their own
+ 
+
+00:10:33.680 --> 00:10:35.990 align:start position:0%
+are topics that are worthy of their own
+videos.<00:10:34.720><c> For</c><00:10:34.880><c> the</c><00:10:35.040><c> sake</c><00:10:35.200><c> of</c><00:10:35.279><c> Yelp,</c><00:10:35.760><c> let's</c>
+
+00:10:35.990 --> 00:10:36.000 align:start position:0%
+videos. For the sake of Yelp, let's
+ 
+
+00:10:36.000 --> 00:10:37.750 align:start position:0%
+videos. For the sake of Yelp, let's
+consider<00:10:36.320><c> a</c><00:10:36.640><c> different</c><00:10:36.880><c> challenge.</c><00:10:37.519><c> When</c>
+
+00:10:37.750 --> 00:10:37.760 align:start position:0%
+consider a different challenge. When
+ 
+
+00:10:37.760 --> 00:10:39.590 align:start position:0%
+consider a different challenge. When
+showing<00:10:38.079><c> listing</c><00:10:38.480><c> previews,</c><00:10:38.959><c> either</c><00:10:39.200><c> from</c><00:10:39.360><c> a</c>
+
+00:10:39.590 --> 00:10:39.600 align:start position:0%
+showing listing previews, either from a
+ 
+
+00:10:39.600 --> 00:10:41.829 align:start position:0%
+showing listing previews, either from a
+location-based<00:10:40.240><c> search</c><00:10:40.640><c> or</c><00:10:40.959><c> a</c><00:10:41.200><c> term-based</c>
+
+00:10:41.829 --> 00:10:41.839 align:start position:0%
+location-based search or a term-based
+ 
+
+00:10:41.839 --> 00:10:43.670 align:start position:0%
+location-based search or a term-based
+search,<00:10:42.399><c> we</c><00:10:42.640><c> want</c><00:10:42.800><c> to</c><00:10:42.880><c> show</c><00:10:43.120><c> an</c><00:10:43.360><c> average</c>
+
+00:10:43.670 --> 00:10:43.680 align:start position:0%
+search, we want to show an average
+ 
+
+00:10:43.680 --> 00:10:45.269 align:start position:0%
+search, we want to show an average
+number<00:10:43.839><c> of</c><00:10:44.000><c> stars</c><00:10:44.320><c> that</c><00:10:44.480><c> they've</c><00:10:44.720><c> received</c><00:10:45.040><c> in</c>
+
+00:10:45.269 --> 00:10:45.279 align:start position:0%
+number of stars that they've received in
+ 
+
+00:10:45.279 --> 00:10:47.430 align:start position:0%
+number of stars that they've received in
+their<00:10:45.440><c> reviews.</c><00:10:46.320><c> Let's</c><00:10:46.640><c> discuss</c><00:10:46.959><c> how</c><00:10:47.120><c> to</c><00:10:47.279><c> do</c>
+
+00:10:47.430 --> 00:10:47.440 align:start position:0%
+their reviews. Let's discuss how to do
+ 
+
+00:10:47.440 --> 00:10:50.069 align:start position:0%
+their reviews. Let's discuss how to do
+that.<00:10:48.320><c> To</c><00:10:48.560><c> compute</c><00:10:48.880><c> a</c><00:10:49.040><c> business's</c><00:10:49.519><c> score,</c><00:10:49.920><c> we</c>
+
+00:10:50.069 --> 00:10:50.079 align:start position:0%
+that. To compute a business's score, we
+ 
+
+00:10:50.079 --> 00:10:51.430 align:start position:0%
+that. To compute a business's score, we
+can<00:10:50.160><c> take</c><00:10:50.320><c> the</c><00:10:50.560><c> average</c><00:10:50.800><c> of</c><00:10:50.959><c> the</c><00:10:51.120><c> scores</c><00:10:51.279><c> that</c>
+
+00:10:51.430 --> 00:10:51.440 align:start position:0%
+can take the average of the scores that
+ 
+
+00:10:51.440 --> 00:10:53.590 align:start position:0%
+can take the average of the scores that
+it<00:10:51.600><c> received</c><00:10:51.920><c> during</c><00:10:52.160><c> its</c><00:10:52.399><c> reviews.</c><00:10:53.279><c> This</c><00:10:53.440><c> is</c>
+
+00:10:53.590 --> 00:10:53.600 align:start position:0%
+it received during its reviews. This is
+ 
+
+00:10:53.600 --> 00:10:55.670 align:start position:0%
+it received during its reviews. This is
+super<00:10:53.839><c> easy</c><00:10:54.079><c> to</c><00:10:54.240><c> do</c><00:10:54.399><c> by</c><00:10:54.640><c> just</c><00:10:54.800><c> storing</c><00:10:55.120><c> a</c><00:10:55.360><c> total</c>
+
+00:10:55.670 --> 00:10:55.680 align:start position:0%
+super easy to do by just storing a total
+ 
+
+00:10:55.680 --> 00:10:57.910 align:start position:0%
+super easy to do by just storing a total
+number<00:10:55.839><c> of</c><00:10:56.079><c> reviews</c><00:10:56.560><c> and</c><00:10:56.800><c> total</c><00:10:57.120><c> sum</c><00:10:57.440><c> of</c><00:10:57.600><c> all</c>
+
+00:10:57.910 --> 00:10:57.920 align:start position:0%
+number of reviews and total sum of all
+ 
+
+00:10:57.920 --> 00:11:00.310 align:start position:0%
+number of reviews and total sum of all
+scores<00:10:58.320><c> per</c><00:10:58.640><c> listing.</c><00:10:59.600><c> When</c><00:10:59.839><c> showing</c><00:11:00.160><c> the</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+scores per listing. When showing the
+ 
+
+00:11:00.320 --> 00:11:02.310 align:start position:0%
+scores per listing. When showing the
+average<00:11:00.640><c> score,</c><00:11:01.040><c> we</c><00:11:01.279><c> just</c><00:11:01.440><c> divide</c><00:11:01.760><c> the</c><00:11:01.920><c> sum</c><00:11:02.160><c> of</c>
+
+00:11:02.310 --> 00:11:02.320 align:start position:0%
+average score, we just divide the sum of
+ 
+
+00:11:02.320 --> 00:11:04.470 align:start position:0%
+average score, we just divide the sum of
+all<00:11:02.560><c> review</c><00:11:02.959><c> scores</c><00:11:03.519><c> by</c><00:11:03.839><c> the</c><00:11:04.079><c> number</c><00:11:04.240><c> of</c>
+
+00:11:04.470 --> 00:11:04.480 align:start position:0%
+all review scores by the number of
+ 
+
+00:11:04.480 --> 00:11:06.870 align:start position:0%
+all review scores by the number of
+reviews.<00:11:05.600><c> As</c><00:11:05.839><c> we've</c><00:11:06.079><c> discussed</c><00:11:06.399><c> in</c><00:11:06.640><c> many</c>
+
+00:11:06.870 --> 00:11:06.880 align:start position:0%
+reviews. As we've discussed in many
+ 
+
+00:11:06.880 --> 00:11:08.630 align:start position:0%
+reviews. As we've discussed in many
+other<00:11:07.040><c> videos,</c><00:11:07.440><c> the</c><00:11:07.600><c> naive</c><00:11:08.000><c> way</c><00:11:08.079><c> to</c><00:11:08.320><c> implement</c>
+
+00:11:08.630 --> 00:11:08.640 align:start position:0%
+other videos, the naive way to implement
+ 
+
+00:11:08.640 --> 00:11:10.310 align:start position:0%
+other videos, the naive way to implement
+this<00:11:08.880><c> would</c><00:11:09.040><c> be</c><00:11:09.200><c> to</c><00:11:09.360><c> do</c><00:11:09.519><c> a</c><00:11:09.680><c> transactional</c>
+
+00:11:10.310 --> 00:11:10.320 align:start position:0%
+this would be to do a transactional
+ 
+
+00:11:10.320 --> 00:11:12.550 align:start position:0%
+this would be to do a transactional
+write<00:11:10.640><c> when</c><00:11:10.880><c> creating</c><00:11:11.200><c> each</c><00:11:11.440><c> review.</c><00:11:12.320><c> While</c>
+
+00:11:12.550 --> 00:11:12.560 align:start position:0%
+write when creating each review. While
+ 
+
+00:11:12.560 --> 00:11:14.069 align:start position:0%
+write when creating each review. While
+this<00:11:12.720><c> may</c><00:11:12.880><c> be</c><00:11:13.040><c> good</c><00:11:13.279><c> enough,</c><00:11:13.680><c> it</c><00:11:13.839><c> could</c>
+
+00:11:14.069 --> 00:11:14.079 align:start position:0%
+this may be good enough, it could
+ 
+
+00:11:14.079 --> 00:11:15.990 align:start position:0%
+this may be good enough, it could
+require<00:11:14.399><c> a</c><00:11:14.560><c> distributed</c><00:11:15.040><c> transaction</c><00:11:15.600><c> if</c><00:11:15.839><c> we</c>
+
+00:11:15.990 --> 00:11:16.000 align:start position:0%
+require a distributed transaction if we
+ 
+
+00:11:16.000 --> 00:11:17.990 align:start position:0%
+require a distributed transaction if we
+have<00:11:16.079><c> to</c><00:11:16.240><c> shard</c><00:11:16.560><c> out</c><00:11:16.720><c> our</c><00:11:16.880><c> reviews</c><00:11:17.279><c> table</c><00:11:17.760><c> to</c>
+
+00:11:17.990 --> 00:11:18.000 align:start position:0%
+have to shard out our reviews table to
+ 
+
+00:11:18.000 --> 00:11:19.670 align:start position:0%
+have to shard out our reviews table to
+be<00:11:18.160><c> on</c><00:11:18.320><c> a</c><00:11:18.480><c> different</c><00:11:18.720><c> node</c><00:11:18.959><c> than</c><00:11:19.120><c> our</c><00:11:19.279><c> listings</c>
+
+00:11:19.670 --> 00:11:19.680 align:start position:0%
+be on a different node than our listings
+ 
+
+00:11:19.680 --> 00:11:21.910 align:start position:0%
+be on a different node than our listings
+table.<00:11:20.399><c> We've</c><00:11:20.640><c> discussed</c><00:11:20.959><c> in</c><00:11:21.200><c> depth</c><00:11:21.519><c> why</c><00:11:21.680><c> we</c>
+
+00:11:21.910 --> 00:11:21.920 align:start position:0%
+table. We've discussed in depth why we
+ 
+
+00:11:21.920 --> 00:11:24.230 align:start position:0%
+table. We've discussed in depth why we
+don't<00:11:22.079><c> like</c><00:11:22.240><c> these.</c><00:11:23.120><c> The</c><00:11:23.360><c> next</c><00:11:23.600><c> option</c><00:11:24.000><c> would</c>
+
+00:11:24.230 --> 00:11:24.240 align:start position:0%
+don't like these. The next option would
+ 
+
+00:11:24.240 --> 00:11:26.230 align:start position:0%
+don't like these. The next option would
+be<00:11:24.399><c> to</c><00:11:24.640><c> run</c><00:11:24.880><c> a</c><00:11:25.120><c> nightly</c><00:11:25.440><c> batch</c><00:11:25.760><c> job</c><00:11:26.000><c> on</c><00:11:26.160><c> the</c>
+
+00:11:26.230 --> 00:11:26.240 align:start position:0%
+be to run a nightly batch job on the
+ 
+
+00:11:26.240 --> 00:11:28.150 align:start position:0%
+be to run a nightly batch job on the
+reviews<00:11:26.640><c> table</c><00:11:27.120><c> to</c><00:11:27.360><c> compute</c><00:11:27.680><c> the</c><00:11:27.839><c> average</c>
+
+00:11:28.150 --> 00:11:28.160 align:start position:0%
+reviews table to compute the average
+ 
+
+00:11:28.160 --> 00:11:30.069 align:start position:0%
+reviews table to compute the average
+score<00:11:28.399><c> of</c><00:11:28.560><c> each</c><00:11:28.720><c> listing</c><00:11:29.360><c> and</c><00:11:29.519><c> then</c><00:11:29.760><c> update</c>
+
+00:11:30.069 --> 00:11:30.079 align:start position:0%
+score of each listing and then update
+ 
+
+00:11:30.079 --> 00:11:32.230 align:start position:0%
+score of each listing and then update
+the<00:11:30.240><c> listing</c><00:11:30.560><c> table</c><00:11:30.880><c> with</c><00:11:31.120><c> those</c><00:11:31.279><c> results.</c>
+
+00:11:32.230 --> 00:11:32.240 align:start position:0%
+the listing table with those results.
+ 
+
+00:11:32.240 --> 00:11:33.670 align:start position:0%
+the listing table with those results.
+This<00:11:32.480><c> works</c><00:11:32.800><c> too,</c><00:11:32.959><c> but</c><00:11:33.200><c> can</c><00:11:33.360><c> be</c><00:11:33.519><c> pretty</c>
+
+00:11:33.670 --> 00:11:33.680 align:start position:0%
+This works too, but can be pretty
+ 
+
+00:11:33.680 --> 00:11:35.430 align:start position:0%
+This works too, but can be pretty
+wasteful<00:11:34.160><c> from</c><00:11:34.320><c> a</c><00:11:34.480><c> compute</c><00:11:34.800><c> perspective</c><00:11:35.200><c> if</c>
+
+00:11:35.430 --> 00:11:35.440 align:start position:0%
+wasteful from a compute perspective if
+ 
+
+00:11:35.440 --> 00:11:37.110 align:start position:0%
+wasteful from a compute perspective if
+the<00:11:35.600><c> majority</c><00:11:35.839><c> of</c><00:11:36.079><c> listings</c><00:11:36.560><c> don't</c><00:11:36.800><c> receive</c>
+
+00:11:37.110 --> 00:11:37.120 align:start position:0%
+the majority of listings don't receive
+ 
+
+00:11:37.120 --> 00:11:39.750 align:start position:0%
+the majority of listings don't receive
+new<00:11:37.360><c> reviews</c><00:11:37.600><c> in</c><00:11:37.839><c> a</c><00:11:37.920><c> given</c><00:11:38.160><c> day.</c><00:11:38.959><c> Instead,</c><00:11:39.600><c> we</c>
+
+00:11:39.750 --> 00:11:39.760 align:start position:0%
+new reviews in a given day. Instead, we
+ 
+
+00:11:39.760 --> 00:11:41.670 align:start position:0%
+new reviews in a given day. Instead, we
+can<00:11:39.920><c> use</c><00:11:40.079><c> our</c><00:11:40.320><c> typical</c><00:11:40.640><c> workflow</c><00:11:41.120><c> of</c><00:11:41.360><c> change</c>
+
+00:11:41.670 --> 00:11:41.680 align:start position:0%
+can use our typical workflow of change
+ 
+
+00:11:41.680 --> 00:11:44.150 align:start position:0%
+can use our typical workflow of change
+data<00:11:42.000><c> capture.</c><00:11:42.880><c> When</c><00:11:43.040><c> a</c><00:11:43.279><c> review</c><00:11:43.519><c> is</c><00:11:43.760><c> created,</c>
+
+00:11:44.150 --> 00:11:44.160 align:start position:0%
+data capture. When a review is created,
+ 
+
+00:11:44.160 --> 00:11:45.910 align:start position:0%
+data capture. When a review is created,
+we'll<00:11:44.320><c> place</c><00:11:44.560><c> it</c><00:11:44.640><c> in</c><00:11:44.800><c> Kafka</c><00:11:45.519><c> and</c><00:11:45.680><c> then</c>
+
+00:11:45.910 --> 00:11:45.920 align:start position:0%
+we'll place it in Kafka and then
+ 
+
+00:11:45.920 --> 00:11:47.590 align:start position:0%
+we'll place it in Kafka and then
+eventually<00:11:46.399><c> incorporate</c><00:11:46.959><c> it</c><00:11:47.120><c> into</c><00:11:47.440><c> our</c>
+
+00:11:47.590 --> 00:11:47.600 align:start position:0%
+eventually incorporate it into our
+ 
+
+00:11:47.600 --> 00:11:49.670 align:start position:0%
+eventually incorporate it into our
+listing<00:11:48.000><c> preview.</c><00:11:48.880><c> Given</c><00:11:49.279><c> we're</c><00:11:49.440><c> talking</c>
+
+00:11:49.670 --> 00:11:49.680 align:start position:0%
+listing preview. Given we're talking
+ 
+
+00:11:49.680 --> 00:11:51.430 align:start position:0%
+listing preview. Given we're talking
+about<00:11:49.839><c> Kafka</c><00:11:50.399><c> here,</c><00:11:50.640><c> there's</c><00:11:50.880><c> a</c><00:11:51.040><c> possibility</c>
+
+00:11:51.430 --> 00:11:51.440 align:start position:0%
+about Kafka here, there's a possibility
+ 
+
+00:11:51.440 --> 00:11:53.829 align:start position:0%
+about Kafka here, there's a possibility
+that<00:11:51.680><c> we</c><00:11:51.839><c> end</c><00:11:52.000><c> up</c><00:11:52.240><c> replaying</c><00:11:52.560><c> a</c><00:11:52.800><c> review</c><00:11:53.519><c> and</c>
+
+00:11:53.829 --> 00:11:53.839 align:start position:0%
+that we end up replaying a review and
+ 
+
+00:11:53.839 --> 00:11:55.910 align:start position:0%
+that we end up replaying a review and
+accidentally<00:11:54.399><c> counting</c><00:11:54.720><c> it</c><00:11:54.959><c> twice.</c><00:11:55.760><c> While</c>
+
+00:11:55.910 --> 00:11:55.920 align:start position:0%
+accidentally counting it twice. While
+ 
+
+00:11:55.920 --> 00:11:57.590 align:start position:0%
+accidentally counting it twice. While
+this<00:11:56.079><c> isn't</c><00:11:56.320><c> the</c><00:11:56.560><c> end</c><00:11:56.640><c> of</c><00:11:56.720><c> the</c><00:11:56.880><c> world,</c><00:11:57.200><c> we</c><00:11:57.440><c> can</c>
+
+00:11:57.590 --> 00:11:57.600 align:start position:0%
+this isn't the end of the world, we can
+ 
+
+00:11:57.600 --> 00:11:59.350 align:start position:0%
+this isn't the end of the world, we can
+protect<00:11:57.920><c> against</c><00:11:58.160><c> it</c><00:11:58.399><c> by</c><00:11:58.640><c> storing</c><00:11:58.959><c> the</c><00:11:59.120><c> last</c>
+
+00:11:59.350 --> 00:11:59.360 align:start position:0%
+protect against it by storing the last
+ 
+
+00:11:59.360 --> 00:12:01.430 align:start position:0%
+protect against it by storing the last
+scene<00:11:59.760><c> review</c><00:12:00.079><c> creation</c><00:12:00.480><c> timestamp</c><00:12:01.120><c> in</c><00:12:01.279><c> the</c>
+
+00:12:01.430 --> 00:12:01.440 align:start position:0%
+scene review creation timestamp in the
+ 
+
+00:12:01.440 --> 00:12:03.670 align:start position:0%
+scene review creation timestamp in the
+listing<00:12:01.920><c> row</c><00:12:02.000><c> itself</c><00:12:02.720><c> and</c><00:12:03.040><c> checking</c><00:12:03.279><c> if</c><00:12:03.519><c> the</c>
+
+00:12:03.670 --> 00:12:03.680 align:start position:0%
+listing row itself and checking if the
+ 
+
+00:12:03.680 --> 00:12:05.750 align:start position:0%
+listing row itself and checking if the
+incoming<00:12:04.240><c> reviews</c><00:12:04.640><c> creation</c><00:12:04.959><c> timestamp</c><00:12:05.519><c> is</c>
+
+00:12:05.750 --> 00:12:05.760 align:start position:0%
+incoming reviews creation timestamp is
+ 
+
+00:12:05.760 --> 00:12:07.910 align:start position:0%
+incoming reviews creation timestamp is
+larger<00:12:06.000><c> than</c><00:12:06.240><c> that.</c><00:12:07.120><c> This</c><00:12:07.360><c> works</c><00:12:07.600><c> because</c>
+
+00:12:07.910 --> 00:12:07.920 align:start position:0%
+larger than that. This works because
+ 
+
+00:12:07.920 --> 00:12:09.509 align:start position:0%
+larger than that. This works because
+Kafka<00:12:08.399><c> should</c><00:12:08.560><c> be</c><00:12:08.720><c> delivering</c><00:12:09.040><c> us</c><00:12:09.279><c> the</c>
+
+00:12:09.509 --> 00:12:09.519 align:start position:0%
+Kafka should be delivering us the
+ 
+
+00:12:09.519 --> 00:12:11.829 align:start position:0%
+Kafka should be delivering us the
+reviews<00:12:09.920><c> in</c><00:12:10.160><c> order</c><00:12:10.399><c> of</c><00:12:10.639><c> their</c><00:12:10.800><c> creation</c><00:12:11.200><c> time.</c>
+
+00:12:11.829 --> 00:12:11.839 align:start position:0%
+reviews in order of their creation time.
+ 
+
+00:12:11.839 --> 00:12:13.269 align:start position:0%
+reviews in order of their creation time.
+Though,<00:12:12.000><c> it</c><00:12:12.160><c> is</c><00:12:12.320><c> notable</c><00:12:12.639><c> that</c><00:12:12.800><c> this</c><00:12:13.040><c> may</c><00:12:13.200><c> be</c>
+
+00:12:13.269 --> 00:12:13.279 align:start position:0%
+Though, it is notable that this may be
+ 
+
+00:12:13.279 --> 00:12:14.790 align:start position:0%
+Though, it is notable that this may be
+buggy<00:12:13.680><c> in</c><00:12:13.920><c> the</c><00:12:14.000><c> event</c><00:12:14.160><c> that</c><00:12:14.320><c> the</c><00:12:14.480><c> review</c>
+
+00:12:14.790 --> 00:12:14.800 align:start position:0%
+buggy in the event that the review
+ 
+
+00:12:14.800 --> 00:12:16.790 align:start position:0%
+buggy in the event that the review
+creation<00:12:15.279><c> timestamps</c><00:12:15.839><c> are</c><00:12:16.000><c> skewed</c><00:12:16.399><c> for</c><00:12:16.560><c> some</c>
+
+00:12:16.790 --> 00:12:16.800 align:start position:0%
+creation timestamps are skewed for some
+ 
+
+00:12:16.800 --> 00:12:18.870 align:start position:0%
+creation timestamps are skewed for some
+reason.<00:12:17.680><c> Since</c><00:12:18.000><c> there</c><00:12:18.160><c> aren't</c><00:12:18.480><c> that</c><00:12:18.720><c> many</c>
+
+00:12:18.870 --> 00:12:18.880 align:start position:0%
+reason. Since there aren't that many
+ 
+
+00:12:18.880 --> 00:12:20.550 align:start position:0%
+reason. Since there aren't that many
+reviews<00:12:19.200><c> incoming,</c><00:12:19.839><c> this</c><00:12:20.079><c> system</c><00:12:20.399><c> should</c>
+
+00:12:20.550 --> 00:12:20.560 align:start position:0%
+reviews incoming, this system should
+ 
+
+00:12:20.560 --> 00:12:22.629 align:start position:0%
+reviews incoming, this system should
+save<00:12:20.800><c> us</c><00:12:20.959><c> in</c><00:12:21.120><c> the</c><00:12:21.279><c> majority</c><00:12:21.600><c> of</c><00:12:21.839><c> cases.</c><00:12:22.480><c> Thank</c>
+
+00:12:22.629 --> 00:12:22.639 align:start position:0%
+save us in the majority of cases. Thank
+ 
+
+00:12:22.639 --> 00:12:24.310 align:start position:0%
+save us in the majority of cases. Thank
+you<00:12:22.800><c> all</c><00:12:23.040><c> for</c><00:12:23.279><c> sticking</c><00:12:23.519><c> around</c><00:12:23.760><c> the</c><00:12:24.000><c> video.</c>
+
+00:12:24.310 --> 00:12:24.320 align:start position:0%
+you all for sticking around the video.
+ 
+
+00:12:24.320 --> 00:12:26.150 align:start position:0%
+you all for sticking around the video.
+Hopefully,<00:12:24.639><c> a</c><00:12:24.880><c> nice</c><00:12:25.040><c> little</c><00:12:25.279><c> introduction</c><00:12:25.920><c> to</c>
+
+00:12:26.150 --> 00:12:26.160 align:start position:0%
+Hopefully, a nice little introduction to
+ 
+
+00:12:26.160 --> 00:12:29.030 align:start position:0%
+Hopefully, a nice little introduction to
+how<00:12:26.639><c> location-based</c><00:12:27.600><c> indexing</c><00:12:28.160><c> works,</c><00:12:28.800><c> as</c>
+
+00:12:29.030 --> 00:12:29.040 align:start position:0%
+how location-based indexing works, as
+ 
+
+00:12:29.040 --> 00:12:30.629 align:start position:0%
+how location-based indexing works, as
+well<00:12:29.120><c> as</c><00:12:29.279><c> a</c><00:12:29.440><c> little</c><00:12:29.519><c> bit</c><00:12:29.600><c> of</c><00:12:29.839><c> search</c><00:12:30.079><c> indexing</c>
+
+00:12:30.629 --> 00:12:30.639 align:start position:0%
+well as a little bit of search indexing
+ 
+
+00:12:30.639 --> 00:12:32.470 align:start position:0%
+well as a little bit of search indexing
+as<00:12:30.800><c> well.</c><00:12:31.279><c> Uh</c><00:12:31.519><c> we're</c><00:12:31.760><c> going</c><00:12:31.839><c> to</c><00:12:31.920><c> expand</c><00:12:32.240><c> upon</c>
+
+00:12:32.470 --> 00:12:32.480 align:start position:0%
+as well. Uh we're going to expand upon
+ 
+
+00:12:32.480 --> 00:12:34.310 align:start position:0%
+as well. Uh we're going to expand upon
+this<00:12:32.720><c> a</c><00:12:32.880><c> little</c><00:12:32.959><c> bit</c><00:12:33.120><c> next</c><00:12:33.440><c> week</c><00:12:33.600><c> when</c><00:12:33.839><c> we</c><00:12:34.079><c> talk</c>
+
+00:12:34.310 --> 00:12:34.320 align:start position:0%
+this a little bit next week when we talk
+ 
+
+00:12:34.320 --> 00:12:36.720 align:start position:0%
+this a little bit next week when we talk
+about<00:12:34.560><c> Uber.</c>
+

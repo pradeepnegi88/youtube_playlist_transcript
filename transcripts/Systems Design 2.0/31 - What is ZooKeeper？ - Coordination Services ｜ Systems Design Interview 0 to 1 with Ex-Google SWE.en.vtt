@@ -1,0 +1,1752 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:01.949 align:start position:0%
+ 
+hey<00:00:00.320><c> guys</c><00:00:00.560><c> welcome</c><00:00:00.960><c> back</c><00:00:01.120><c> to</c><00:00:01.240><c> the</c><00:00:01.400><c> channel</c><00:00:01.800><c> So</c>
+
+00:00:01.949 --> 00:00:01.959 align:start position:0%
+hey guys welcome back to the channel So
+ 
+
+00:00:01.959 --> 00:00:03.189 align:start position:0%
+hey guys welcome back to the channel So
+today<00:00:02.159><c> we're</c><00:00:02.280><c> going</c><00:00:02.399><c> to</c><00:00:02.480><c> be</c><00:00:02.600><c> talking</c><00:00:02.879><c> about</c>
+
+00:00:03.189 --> 00:00:03.199 align:start position:0%
+today we're going to be talking about
+ 
+
+00:00:03.199 --> 00:00:05.269 align:start position:0%
+today we're going to be talking about
+coordination<00:00:03.920><c> Services</c><00:00:04.920><c> which</c><00:00:05.080><c> should</c>
+
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+coordination Services which should
+ 
+
+00:00:05.279 --> 00:00:06.869 align:start position:0%
+coordination Services which should
+really<00:00:05.480><c> wrap</c><00:00:05.759><c> up</c><00:00:05.960><c> this</c><00:00:06.120><c> whole</c><00:00:06.359><c> concept</c><00:00:06.720><c> of</c>
+
+00:00:06.869 --> 00:00:06.879 align:start position:0%
+really wrap up this whole concept of
+ 
+
+00:00:06.879 --> 00:00:08.430 align:start position:0%
+really wrap up this whole concept of
+consensus<00:00:07.520><c> and</c><00:00:07.640><c> once</c><00:00:07.759><c> we're</c><00:00:08.000><c> done</c><00:00:08.160><c> with</c><00:00:08.280><c> this</c>
+
+00:00:08.430 --> 00:00:08.440 align:start position:0%
+consensus and once we're done with this
+ 
+
+00:00:08.440 --> 00:00:10.509 align:start position:0%
+consensus and once we're done with this
+video<00:00:08.760><c> allow</c><00:00:09.080><c> us</c><00:00:09.280><c> to</c><00:00:09.559><c> compare</c><00:00:09.880><c> and</c><00:00:10.040><c> contrast</c><00:00:10.440><c> a</c>
+
+00:00:10.509 --> 00:00:10.519 align:start position:0%
+video allow us to compare and contrast a
+ 
+
+00:00:10.519 --> 00:00:12.749 align:start position:0%
+video allow us to compare and contrast a
+bunch<00:00:10.719><c> of</c><00:00:10.840><c> different</c><00:00:11.080><c> database</c><00:00:11.759><c> Technologies</c>
+
+00:00:12.749 --> 00:00:12.759 align:start position:0%
+bunch of different database Technologies
+ 
+
+00:00:12.759 --> 00:00:14.549 align:start position:0%
+bunch of different database Technologies
+and<00:00:12.960><c> you</c><00:00:13.080><c> know</c><00:00:13.320><c> just</c><00:00:13.519><c> really</c><00:00:14.080><c> understand</c><00:00:14.400><c> why</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+and you know just really understand why
+ 
+
+00:00:14.559 --> 00:00:15.789 align:start position:0%
+and you know just really understand why
+it<00:00:14.679><c> is</c><00:00:14.799><c> that</c><00:00:14.960><c> they</c><00:00:15.120><c> perform</c><00:00:15.480><c> the</c><00:00:15.559><c> way</c><00:00:15.679><c> that</c>
+
+00:00:15.789 --> 00:00:15.799 align:start position:0%
+it is that they perform the way that
+ 
+
+00:00:15.799 --> 00:00:17.429 align:start position:0%
+it is that they perform the way that
+they<00:00:16.000><c> perform</c><00:00:16.680><c> I</c><00:00:16.760><c> don't</c><00:00:16.920><c> think</c><00:00:17.080><c> the</c><00:00:17.199><c> video</c>
+
+00:00:17.429 --> 00:00:17.439 align:start position:0%
+they perform I don't think the video
+ 
+
+00:00:17.439 --> 00:00:18.670 align:start position:0%
+they perform I don't think the video
+should<00:00:17.600><c> be</c><00:00:17.720><c> more</c><00:00:17.880><c> than</c><00:00:18.039><c> a</c><00:00:18.119><c> couple</c><00:00:18.400><c> minutes</c>
+
+00:00:18.670 --> 00:00:18.680 align:start position:0%
+should be more than a couple minutes
+ 
+
+00:00:18.680 --> 00:00:20.910 align:start position:0%
+should be more than a couple minutes
+long<00:00:19.080><c> which</c><00:00:19.800><c> you</c><00:00:19.920><c> know</c><00:00:20.080><c> if</c><00:00:20.199><c> you</c><00:00:20.359><c> ask</c><00:00:20.600><c> me</c>
+
+00:00:20.910 --> 00:00:20.920 align:start position:0%
+long which you know if you ask me
+ 
+
+00:00:20.920 --> 00:00:22.509 align:start position:0%
+long which you know if you ask me
+personally<00:00:21.359><c> is</c><00:00:21.480><c> a</c><00:00:21.600><c> pretty</c><00:00:21.840><c> long</c><00:00:22.080><c> time</c><00:00:22.320><c> I</c><00:00:22.400><c> don't</c>
+
+00:00:22.509 --> 00:00:22.519 align:start position:0%
+personally is a pretty long time I don't
+ 
+
+00:00:22.519 --> 00:00:24.150 align:start position:0%
+personally is a pretty long time I don't
+know<00:00:22.680><c> my</c><00:00:22.920><c> ex-girlfriend</c><00:00:23.519><c> might</c><00:00:23.640><c> not</c><00:00:23.800><c> agree</c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+know my ex-girlfriend might not agree
+ 
+
+00:00:24.160 --> 00:00:25.509 align:start position:0%
+know my ex-girlfriend might not agree
+but<00:00:24.279><c> that</c><00:00:24.400><c> is</c><00:00:24.519><c> an</c><00:00:24.640><c> argument</c><00:00:24.960><c> for</c><00:00:25.119><c> a</c><00:00:25.240><c> different</c>
+
+00:00:25.509 --> 00:00:25.519 align:start position:0%
+but that is an argument for a different
+ 
+
+00:00:25.519 --> 00:00:28.189 align:start position:0%
+but that is an argument for a different
+day<00:00:26.000><c> so</c><00:00:26.160><c> let's</c><00:00:26.359><c> go</c><00:00:26.480><c> ahead</c><00:00:26.880><c> and</c><00:00:27.160><c> get</c><00:00:27.359><c> into</c><00:00:27.640><c> it</c>
+
+00:00:28.189 --> 00:00:28.199 align:start position:0%
+day so let's go ahead and get into it
+ 
+
+00:00:28.199 --> 00:00:29.429 align:start position:0%
+day so let's go ahead and get into it
+all<00:00:28.320><c> right</c><00:00:28.480><c> so</c><00:00:28.640><c> like</c><00:00:28.760><c> I</c><00:00:28.880><c> mentioned</c><00:00:29.240><c> today</c>
+
+00:00:29.429 --> 00:00:29.439 align:start position:0%
+all right so like I mentioned today
+ 
+
+00:00:29.439 --> 00:00:30.429 align:start position:0%
+all right so like I mentioned today
+we're<00:00:29.560><c> going</c><00:00:29.640><c> to</c><00:00:29.679><c> be</c><00:00:30.000><c> talking</c><00:00:30.199><c> about</c>
+
+00:00:30.429 --> 00:00:30.439 align:start position:0%
+we're going to be talking about
+ 
+
+00:00:30.439 --> 00:00:32.549 align:start position:0%
+we're going to be talking about
+coordination<00:00:31.080><c> services</c><00:00:31.960><c> so</c><00:00:32.119><c> there's</c><00:00:32.279><c> not</c><00:00:32.439><c> a</c>
+
+00:00:32.549 --> 00:00:32.559 align:start position:0%
+coordination services so there's not a
+ 
+
+00:00:32.559 --> 00:00:34.150 align:start position:0%
+coordination services so there's not a
+ton<00:00:32.719><c> of</c><00:00:32.880><c> technical</c><00:00:33.320><c> content</c><00:00:33.640><c> to</c><00:00:33.800><c> cover</c><00:00:34.000><c> in</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+ton of technical content to cover in
+ 
+
+00:00:34.160 --> 00:00:35.750 align:start position:0%
+ton of technical content to cover in
+this<00:00:34.320><c> video</c><00:00:34.719><c> the</c><00:00:34.840><c> reasoning</c><00:00:35.239><c> being</c><00:00:35.480><c> that</c><00:00:35.600><c> we</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+this video the reasoning being that we
+ 
+
+00:00:35.760 --> 00:00:37.110 align:start position:0%
+this video the reasoning being that we
+just<00:00:35.879><c> did</c><00:00:36.040><c> it</c><00:00:36.120><c> in</c><00:00:36.239><c> the</c><00:00:36.399><c> last</c>
+
+00:00:37.110 --> 00:00:37.120 align:start position:0%
+just did it in the last
+ 
+
+00:00:37.120 --> 00:00:39.790 align:start position:0%
+just did it in the last
+two<00:00:38.120><c> coordination</c><00:00:38.680><c> services</c><00:00:39.239><c> are</c><00:00:39.399><c> basically</c>
+
+00:00:39.790 --> 00:00:39.800 align:start position:0%
+two coordination services are basically
+ 
+
+00:00:39.800 --> 00:00:42.150 align:start position:0%
+two coordination services are basically
+just<00:00:40.000><c> thin</c><00:00:40.239><c> layers</c><00:00:40.840><c> that</c><00:00:41.039><c> are</c><00:00:41.239><c> built</c><00:00:41.600><c> on</c><00:00:41.920><c> top</c>
+
+00:00:42.150 --> 00:00:42.160 align:start position:0%
+just thin layers that are built on top
+ 
+
+00:00:42.160 --> 00:00:44.310 align:start position:0%
+just thin layers that are built on top
+of<00:00:42.320><c> some</c><00:00:42.559><c> distributed</c><00:00:43.079><c> consensus</c><00:00:43.600><c> algorithm</c>
+
+00:00:44.310 --> 00:00:44.320 align:start position:0%
+of some distributed consensus algorithm
+ 
+
+00:00:44.320 --> 00:00:46.790 align:start position:0%
+of some distributed consensus algorithm
+like<00:00:44.520><c> raft</c><00:00:45.280><c> in</c><00:00:45.399><c> order</c><00:00:45.680><c> to</c><00:00:46.000><c> basically</c><00:00:46.399><c> help</c><00:00:46.600><c> us</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+like raft in order to basically help us
+ 
+
+00:00:46.800 --> 00:00:48.470 align:start position:0%
+like raft in order to basically help us
+with<00:00:46.960><c> all</c><00:00:47.079><c> of</c><00:00:47.239><c> this</c><00:00:47.440><c> configuration</c><00:00:48.199><c> that</c><00:00:48.320><c> we</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+with all of this configuration that we
+ 
+
+00:00:48.480 --> 00:00:51.189 align:start position:0%
+with all of this configuration that we
+need<00:00:48.760><c> within</c><00:00:49.160><c> our</c><00:00:49.680><c> distributed</c><00:00:50.280><c> backend</c><00:00:51.000><c> so</c>
+
+00:00:51.189 --> 00:00:51.199 align:start position:0%
+need within our distributed backend so
+ 
+
+00:00:51.199 --> 00:00:53.430 align:start position:0%
+need within our distributed backend so
+what<00:00:51.320><c> type</c><00:00:51.480><c> of</c><00:00:51.680><c> configuration</c><00:00:52.359><c> could</c><00:00:52.559><c> that</c><00:00:52.760><c> be</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+what type of configuration could that be
+ 
+
+00:00:53.440 --> 00:00:55.590 align:start position:0%
+what type of configuration could that be
+well<00:00:53.640><c> we</c><00:00:53.760><c> have</c><00:00:54.039><c> IP</c><00:00:54.399><c> addresses</c><00:00:55.120><c> for</c><00:00:55.359><c> things</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+well we have IP addresses for things
+ 
+
+00:00:55.600 --> 00:00:57.709 align:start position:0%
+well we have IP addresses for things
+like<00:00:55.760><c> our</c><00:00:55.960><c> servers</c><00:00:56.480><c> our</c><00:00:56.719><c> databases</c><00:00:57.320><c> our</c><00:00:57.480><c> load</c>
+
+00:00:57.709 --> 00:00:57.719 align:start position:0%
+like our servers our databases our load
+ 
+
+00:00:57.719 --> 00:01:00.590 align:start position:0%
+like our servers our databases our load
+balancers<00:00:58.239><c> our</c><00:00:58.399><c> CDN</c><00:00:59.120><c> anything</c><00:00:59.399><c> along</c><00:00:59.640><c> those</c><00:01:00.039><c> L</c>
+
+00:01:00.590 --> 00:01:00.600 align:start position:0%
+balancers our CDN anything along those L
+ 
+
+00:01:00.600 --> 00:01:02.830 align:start position:0%
+balancers our CDN anything along those L
+are<00:01:00.879><c> replication</c><00:01:01.480><c> schema</c><00:01:02.039><c> what</c><00:01:02.199><c> database</c><00:01:02.719><c> is</c>
+
+00:01:02.830 --> 00:01:02.840 align:start position:0%
+are replication schema what database is
+ 
+
+00:01:02.840 --> 00:01:05.070 align:start position:0%
+are replication schema what database is
+sending<00:01:03.280><c> rights</c><00:01:03.519><c> to</c><00:01:03.800><c> which</c><00:01:04.439><c> where</c><00:01:04.640><c> are</c><00:01:04.879><c> those</c>
+
+00:01:05.070 --> 00:01:05.080 align:start position:0%
+sending rights to which where are those
+ 
+
+00:01:05.080 --> 00:01:07.270 align:start position:0%
+sending rights to which where are those
+databases<00:01:05.680><c> located</c><00:01:06.479><c> who</c><00:01:06.640><c> is</c><00:01:06.760><c> the</c><00:01:06.880><c> leader</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+databases located who is the leader
+ 
+
+00:01:07.280 --> 00:01:10.149 align:start position:0%
+databases located who is the leader
+currently<00:01:08.240><c> all</c><00:01:08.520><c> super</c><00:01:08.880><c> important</c><00:01:09.360><c> stuff</c><00:01:10.080><c> and</c>
+
+00:01:10.149 --> 00:01:10.159 align:start position:0%
+currently all super important stuff and
+ 
+
+00:01:10.159 --> 00:01:12.390 align:start position:0%
+currently all super important stuff and
+then<00:01:10.400><c> also</c><00:01:11.080><c> something</c><00:01:11.479><c> like</c><00:01:11.680><c> a</c><00:01:11.880><c> partitioning</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+then also something like a partitioning
+ 
+
+00:01:12.400 --> 00:01:14.749 align:start position:0%
+then also something like a partitioning
+breakdown<00:01:13.280><c> what</c><00:01:13.520><c> partitions</c><00:01:14.000><c> are</c><00:01:14.159><c> located</c><00:01:14.560><c> on</c>
+
+00:01:14.749 --> 00:01:14.759 align:start position:0%
+breakdown what partitions are located on
+ 
+
+00:01:14.759 --> 00:01:16.590 align:start position:0%
+breakdown what partitions are located on
+which<00:01:14.920><c> node</c><00:01:15.320><c> what</c><00:01:15.479><c> range</c><00:01:15.759><c> of</c><00:01:16.000><c> keys</c><00:01:16.280><c> does</c><00:01:16.479><c> that</c>
+
+00:01:16.590 --> 00:01:16.600 align:start position:0%
+which node what range of keys does that
+ 
+
+00:01:16.600 --> 00:01:18.390 align:start position:0%
+which node what range of keys does that
+include<00:01:16.920><c> or</c><00:01:17.080><c> what</c><00:01:17.280><c> hash</c><00:01:17.520><c> range</c><00:01:17.799><c> of</c><00:01:17.960><c> keys</c><00:01:18.240><c> does</c>
+
+00:01:18.390 --> 00:01:18.400 align:start position:0%
+include or what hash range of keys does
+ 
+
+00:01:18.400 --> 00:01:19.910 align:start position:0%
+include or what hash range of keys does
+that<00:01:18.560><c> include</c><00:01:19.240><c> we</c><00:01:19.360><c> have</c><00:01:19.479><c> tons</c><00:01:19.720><c> of</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+that include we have tons of
+ 
+
+00:01:19.920 --> 00:01:22.109 align:start position:0%
+that include we have tons of
+configuration<00:01:20.759><c> that</c><00:01:21.159><c> if</c><00:01:21.280><c> we</c><00:01:21.400><c> were</c><00:01:21.600><c> to</c><00:01:21.759><c> mess</c><00:01:21.960><c> it</c>
+
+00:01:22.109 --> 00:01:22.119 align:start position:0%
+configuration that if we were to mess it
+ 
+
+00:01:22.119 --> 00:01:24.350 align:start position:0%
+configuration that if we were to mess it
+up<00:01:22.479><c> via</c><00:01:22.920><c> you</c><00:01:23.040><c> know</c><00:01:23.360><c> something</c><00:01:23.759><c> that</c><00:01:24.040><c> allowed</c>
+
+00:01:24.350 --> 00:01:24.360 align:start position:0%
+up via you know something that allowed
+ 
+
+00:01:24.360 --> 00:01:26.350 align:start position:0%
+up via you know something that allowed
+us<00:01:24.479><c> to</c><00:01:24.680><c> have</c><00:01:24.920><c> right</c><00:01:25.240><c> conflicts</c><00:01:25.720><c> or</c><00:01:25.880><c> race</c>
+
+00:01:26.350 --> 00:01:26.360 align:start position:0%
+us to have right conflicts or race
+ 
+
+00:01:26.360 --> 00:01:28.510 align:start position:0%
+us to have right conflicts or race
+conditions<00:01:27.040><c> or</c><00:01:27.560><c> just</c><00:01:27.680><c> stale</c><00:01:28.040><c> reads</c><00:01:28.360><c> in</c>
+
+00:01:28.510 --> 00:01:28.520 align:start position:0%
+conditions or just stale reads in
+ 
+
+00:01:28.520 --> 00:01:30.670 align:start position:0%
+conditions or just stale reads in
+general<00:01:29.360><c> then</c><00:01:29.560><c> obviously</c><00:01:29.920><c> viously</c><00:01:30.400><c> the</c>
+
+00:01:30.670 --> 00:01:30.680 align:start position:0%
+general then obviously viously the
+ 
+
+00:01:30.680 --> 00:01:32.310 align:start position:0%
+general then obviously viously the
+basically<00:01:31.119><c> correctness</c><00:01:31.640><c> of</c><00:01:31.759><c> our</c><00:01:31.960><c> service</c>
+
+00:01:32.310 --> 00:01:32.320 align:start position:0%
+basically correctness of our service
+ 
+
+00:01:32.320 --> 00:01:34.310 align:start position:0%
+basically correctness of our service
+would<00:01:32.479><c> be</c><00:01:32.640><c> hugely</c><00:01:33.079><c> jeopardized</c><00:01:34.040><c> and</c><00:01:34.200><c> this</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+would be hugely jeopardized and this
+ 
+
+00:01:34.320 --> 00:01:36.429 align:start position:0%
+would be hugely jeopardized and this
+would<00:01:34.479><c> be</c><00:01:34.880><c> way</c><00:01:35.119><c> more</c><00:01:35.799><c> you</c><00:01:35.920><c> know</c><00:01:36.119><c> kind</c><00:01:36.240><c> of</c>
+
+00:01:36.429 --> 00:01:36.439 align:start position:0%
+would be way more you know kind of
+ 
+
+00:01:36.439 --> 00:01:37.910 align:start position:0%
+would be way more you know kind of
+damaging<00:01:36.840><c> to</c><00:01:37.000><c> our</c><00:01:37.159><c> user</c><00:01:37.439><c> base</c><00:01:37.680><c> than</c>
+
+00:01:37.910 --> 00:01:37.920 align:start position:0%
+damaging to our user base than
+ 
+
+00:01:37.920 --> 00:01:41.069 align:start position:0%
+damaging to our user base than
+potentially<00:01:38.399><c> one</c><00:01:38.600><c> single</c><00:01:39.000><c> lost</c><00:01:39.399><c> comment</c><00:01:40.320><c> so</c>
+
+00:01:41.069 --> 00:01:41.079 align:start position:0%
+potentially one single lost comment so
+ 
+
+00:01:41.079 --> 00:01:43.069 align:start position:0%
+potentially one single lost comment so
+kind<00:01:41.240><c> of</c><00:01:41.439><c> the</c><00:01:41.600><c> the</c><00:01:41.720><c> logic</c><00:01:42.159><c> here</c><00:01:42.439><c> is</c><00:01:42.640><c> that</c><00:01:42.840><c> even</c>
+
+00:01:43.069 --> 00:01:43.079 align:start position:0%
+kind of the the logic here is that even
+ 
+
+00:01:43.079 --> 00:01:45.950 align:start position:0%
+kind of the the logic here is that even
+though<00:01:43.280><c> consensus</c><00:01:43.799><c> is</c><00:01:43.960><c> slow</c><00:01:44.640><c> for</c><00:01:45.000><c> things</c><00:01:45.399><c> like</c>
+
+00:01:45.950 --> 00:01:45.960 align:start position:0%
+though consensus is slow for things like
+ 
+
+00:01:45.960 --> 00:01:48.230 align:start position:0%
+though consensus is slow for things like
+uh<00:01:46.280><c> the</c><00:01:46.439><c> configuration</c><00:01:47.040><c> of</c><00:01:47.200><c> our</c><00:01:47.439><c> application</c>
+
+00:01:48.230 --> 00:01:48.240 align:start position:0%
+uh the configuration of our application
+ 
+
+00:01:48.240 --> 00:01:49.789 align:start position:0%
+uh the configuration of our application
+we're<00:01:48.439><c> willing</c><00:01:48.719><c> to</c><00:01:48.880><c> make</c><00:01:49.119><c> that</c><00:01:49.280><c> trade-off</c>
+
+00:01:49.789 --> 00:01:49.799 align:start position:0%
+we're willing to make that trade-off
+ 
+
+00:01:49.799 --> 00:01:51.350 align:start position:0%
+we're willing to make that trade-off
+because<00:01:50.000><c> it's</c><00:01:50.200><c> extremely</c><00:01:50.719><c> important</c><00:01:51.079><c> to</c><00:01:51.240><c> get</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+because it's extremely important to get
+ 
+
+00:01:51.360 --> 00:01:53.190 align:start position:0%
+because it's extremely important to get
+it<00:01:51.560><c> right</c><00:01:52.040><c> so</c><00:01:52.200><c> the</c><00:01:52.320><c> typical</c><00:01:52.680><c> pattern</c><00:01:53.000><c> that</c><00:01:53.119><c> you</c>
+
+00:01:53.190 --> 00:01:53.200 align:start position:0%
+it right so the typical pattern that you
+ 
+
+00:01:53.200 --> 00:01:54.429 align:start position:0%
+it right so the typical pattern that you
+would<00:01:53.360><c> use</c><00:01:53.600><c> is</c><00:01:53.719><c> you</c><00:01:53.880><c> would</c><00:01:54.040><c> put</c><00:01:54.240><c> this</c>
+
+00:01:54.429 --> 00:01:54.439 align:start position:0%
+would use is you would put this
+ 
+
+00:01:54.439 --> 00:01:56.429 align:start position:0%
+would use is you would put this
+configuration<00:01:55.360><c> in</c><00:01:55.600><c> something</c><00:01:56.079><c> like</c><00:01:56.240><c> a</c>
+
+00:01:56.429 --> 00:01:56.439 align:start position:0%
+configuration in something like a
+ 
+
+00:01:56.439 --> 00:01:58.630 align:start position:0%
+configuration in something like a
+coordination<00:01:57.119><c> service</c><00:01:57.880><c> which</c><00:01:58.079><c> again</c><00:01:58.320><c> is</c><00:01:58.479><c> just</c>
+
+00:01:58.630 --> 00:01:58.640 align:start position:0%
+coordination service which again is just
+ 
+
+00:01:58.640 --> 00:02:00.870 align:start position:0%
+coordination service which again is just
+a<00:01:58.799><c> small</c><00:01:59.119><c> key</c><00:01:59.360><c> value</c><00:01:59.920><c> store</c><00:02:00.479><c> and</c><00:02:00.600><c> then</c><00:02:00.719><c> for</c>
+
+00:02:00.870 --> 00:02:00.880 align:start position:0%
+a small key value store and then for
+ 
+
+00:02:00.880 --> 00:02:02.950 align:start position:0%
+a small key value store and then for
+your<00:02:01.119><c> actual</c><00:02:01.520><c> application</c><00:02:02.119><c> data</c><00:02:02.600><c> you</c><00:02:02.719><c> know</c>
+
+00:02:02.950 --> 00:02:02.960 align:start position:0%
+your actual application data you know
+ 
+
+00:02:02.960 --> 00:02:05.109 align:start position:0%
+your actual application data you know
+user<00:02:03.360><c> Post</c><00:02:03.640><c> history</c><00:02:04.079><c> comments</c><00:02:04.560><c> anything</c><00:02:04.920><c> like</c>
+
+00:02:05.109 --> 00:02:05.119 align:start position:0%
+user Post history comments anything like
+ 
+
+00:02:05.119 --> 00:02:06.870 align:start position:0%
+user Post history comments anything like
+that<00:02:05.560><c> you</c><00:02:05.640><c> would</c><00:02:05.840><c> use</c><00:02:06.079><c> a</c><00:02:06.280><c> different</c><00:02:06.560><c> type</c><00:02:06.719><c> of</c>
+
+00:02:06.870 --> 00:02:06.880 align:start position:0%
+that you would use a different type of
+ 
+
+00:02:06.880 --> 00:02:09.229 align:start position:0%
+that you would use a different type of
+database<00:02:07.479><c> that</c><00:02:07.640><c> itself</c><00:02:08.280><c> may</c><00:02:08.440><c> be</c><00:02:08.640><c> relying</c><00:02:09.080><c> on</c>
+
+00:02:09.229 --> 00:02:09.239 align:start position:0%
+database that itself may be relying on
+ 
+
+00:02:09.239 --> 00:02:11.990 align:start position:0%
+database that itself may be relying on
+the<00:02:09.399><c> coordination</c><00:02:10.000><c> service</c><00:02:10.599><c> to</c><00:02:10.759><c> be</c><00:02:11.000><c> correct</c>
+
+00:02:11.990 --> 00:02:12.000 align:start position:0%
+the coordination service to be correct
+ 
+
+00:02:12.000 --> 00:02:13.710 align:start position:0%
+the coordination service to be correct
+so<00:02:12.160><c> what</c><00:02:12.280><c> are</c><00:02:12.440><c> some</c><00:02:12.640><c> examples</c><00:02:13.040><c> of</c><00:02:13.200><c> modern-day</c>
+
+00:02:13.710 --> 00:02:13.720 align:start position:0%
+so what are some examples of modern-day
+ 
+
+00:02:13.720 --> 00:02:15.589 align:start position:0%
+so what are some examples of modern-day
+coordination<00:02:14.239><c> Services</c><00:02:15.000><c> well</c><00:02:15.160><c> the</c><00:02:15.280><c> two</c><00:02:15.519><c> that</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+coordination Services well the two that
+ 
+
+00:02:15.599 --> 00:02:17.589 align:start position:0%
+coordination Services well the two that
+you've<00:02:15.920><c> probably</c><00:02:16.280><c> heard</c><00:02:16.519><c> of</c><00:02:16.840><c> or</c><00:02:17.040><c> at</c><00:02:17.160><c> least</c><00:02:17.400><c> may</c>
+
+00:02:17.589 --> 00:02:17.599 align:start position:0%
+you've probably heard of or at least may
+ 
+
+00:02:17.599 --> 00:02:20.110 align:start position:0%
+you've probably heard of or at least may
+sound<00:02:17.920><c> familiar</c><00:02:18.599><c> would</c><00:02:18.760><c> be</c><00:02:18.920><c> zookeeper</c><00:02:19.680><c> or</c>
+
+00:02:20.110 --> 00:02:20.120 align:start position:0%
+sound familiar would be zookeeper or
+ 
+
+00:02:20.120 --> 00:02:23.270 align:start position:0%
+sound familiar would be zookeeper or
+etcd<00:02:21.120><c> uh</c><00:02:21.280><c> etcd</c><00:02:22.120><c> or</c><00:02:22.280><c> whatever</c><00:02:22.560><c> it's</c><00:02:22.720><c> pronounced</c>
+
+00:02:23.270 --> 00:02:23.280 align:start position:0%
+etcd uh etcd or whatever it's pronounced
+ 
+
+00:02:23.280 --> 00:02:25.190 align:start position:0%
+etcd uh etcd or whatever it's pronounced
+uh<00:02:23.400><c> runs</c><00:02:23.640><c> on</c><00:02:23.879><c> raft</c><00:02:24.160><c> zookeeper</c><00:02:24.680><c> runs</c><00:02:24.920><c> on</c><00:02:25.040><c> its</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+uh runs on raft zookeeper runs on its
+ 
+
+00:02:25.200 --> 00:02:26.750 align:start position:0%
+uh runs on raft zookeeper runs on its
+own<00:02:25.400><c> thing</c><00:02:25.560><c> called</c><00:02:25.800><c> Zab</c><00:02:26.160><c> that's</c><00:02:26.319><c> similar</c><00:02:26.599><c> to</c>
+
+00:02:26.750 --> 00:02:26.760 align:start position:0%
+own thing called Zab that's similar to
+ 
+
+00:02:26.760 --> 00:02:28.589 align:start position:0%
+own thing called Zab that's similar to
+Raft<00:02:27.160><c> but</c><00:02:27.319><c> the</c><00:02:27.440><c> point</c><00:02:27.680><c> is</c><00:02:28.120><c> they're</c><00:02:28.280><c> using</c>
+
+00:02:28.589 --> 00:02:28.599 align:start position:0%
+Raft but the point is they're using
+ 
+
+00:02:28.599 --> 00:02:31.470 align:start position:0%
+Raft but the point is they're using
+distributed<00:02:29.120><c> consensus</c><00:02:30.200><c> so</c><00:02:30.480><c> if</c><00:02:30.720><c> there</c><00:02:30.920><c> is</c><00:02:31.200><c> any</c>
+
+00:02:31.470 --> 00:02:31.480 align:start position:0%
+distributed consensus so if there is any
+ 
+
+00:02:31.480 --> 00:02:33.509 align:start position:0%
+distributed consensus so if there is any
+technical<00:02:31.959><c> content</c><00:02:32.400><c> in</c><00:02:32.599><c> this</c><00:02:32.800><c> video</c><00:02:33.200><c> it</c><00:02:33.280><c> would</c>
+
+00:02:33.509 --> 00:02:33.519 align:start position:0%
+technical content in this video it would
+ 
+
+00:02:33.519 --> 00:02:35.630 align:start position:0%
+technical content in this video it would
+basically<00:02:33.959><c> just</c><00:02:34.160><c> be</c><00:02:34.480><c> how</c><00:02:34.680><c> reads</c><00:02:35.080><c> work</c><00:02:35.440><c> because</c>
+
+00:02:35.630 --> 00:02:35.640 align:start position:0%
+basically just be how reads work because
+ 
+
+00:02:35.640 --> 00:02:37.150 align:start position:0%
+basically just be how reads work because
+we've<00:02:35.840><c> covered</c><00:02:36.200><c> how</c><00:02:36.360><c> wrs</c><00:02:36.680><c> and</c><00:02:36.800><c> leader</c>
+
+00:02:37.150 --> 00:02:37.160 align:start position:0%
+we've covered how wrs and leader
+ 
+
+00:02:37.160 --> 00:02:39.509 align:start position:0%
+we've covered how wrs and leader
+election<00:02:37.560><c> work</c><00:02:37.920><c> in</c><00:02:38.120><c> consensus</c><00:02:39.080><c> but</c><00:02:39.239><c> how</c><00:02:39.360><c> will</c>
+
+00:02:39.509 --> 00:02:39.519 align:start position:0%
+election work in consensus but how will
+ 
+
+00:02:39.519 --> 00:02:41.229 align:start position:0%
+election work in consensus but how will
+we<00:02:39.720><c> actually</c><00:02:39.959><c> read</c><00:02:40.280><c> the</c><00:02:40.440><c> data</c><00:02:40.760><c> to</c><00:02:40.879><c> make</c><00:02:41.040><c> sure</c>
+
+00:02:41.229 --> 00:02:41.239 align:start position:0%
+we actually read the data to make sure
+ 
+
+00:02:41.239 --> 00:02:43.149 align:start position:0%
+we actually read the data to make sure
+that<00:02:41.360><c> we're</c><00:02:41.519><c> getting</c><00:02:41.760><c> linearizable</c><00:02:42.480><c> reads</c>
+
+00:02:43.149 --> 00:02:43.159 align:start position:0%
+that we're getting linearizable reads
+ 
+
+00:02:43.159 --> 00:02:44.509 align:start position:0%
+that we're getting linearizable reads
+because<00:02:43.400><c> if</c><00:02:43.480><c> I</c><00:02:43.560><c> were</c><00:02:43.720><c> to</c><00:02:43.840><c> write</c><00:02:44.040><c> a</c><00:02:44.159><c> piece</c><00:02:44.319><c> of</c>
+
+00:02:44.509 --> 00:02:44.519 align:start position:0%
+because if I were to write a piece of
+ 
+
+00:02:44.519 --> 00:02:46.390 align:start position:0%
+because if I were to write a piece of
+data<00:02:45.040><c> and</c><00:02:45.159><c> then</c><00:02:45.319><c> not</c><00:02:45.480><c> be</c><00:02:45.599><c> able</c><00:02:45.879><c> to</c><00:02:46.000><c> read</c><00:02:46.159><c> it</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+data and then not be able to read it
+ 
+
+00:02:46.400 --> 00:02:48.390 align:start position:0%
+data and then not be able to read it
+right<00:02:46.599><c> after</c><00:02:46.920><c> from</c><00:02:47.120><c> some</c><00:02:47.360><c> replica</c><00:02:48.159><c> that</c><00:02:48.280><c> would</c>
+
+00:02:48.390 --> 00:02:48.400 align:start position:0%
+right after from some replica that would
+ 
+
+00:02:48.400 --> 00:02:50.149 align:start position:0%
+right after from some replica that would
+be<00:02:48.640><c> problematic</c><00:02:49.400><c> that</c><00:02:49.519><c> would</c><00:02:49.720><c> make</c><00:02:49.879><c> our</c>
+
+00:02:50.149 --> 00:02:50.159 align:start position:0%
+be problematic that would make our
+ 
+
+00:02:50.159 --> 00:02:52.149 align:start position:0%
+be problematic that would make our
+application<00:02:50.720><c> prone</c><00:02:51.000><c> to</c><00:02:51.200><c> incorrectness</c><00:02:51.959><c> and</c>
+
+00:02:52.149 --> 00:02:52.159 align:start position:0%
+application prone to incorrectness and
+ 
+
+00:02:52.159 --> 00:02:53.990 align:start position:0%
+application prone to incorrectness and
+cause<00:02:52.519><c> problems</c><00:02:52.840><c> down</c><00:02:53.040><c> the</c><00:02:53.200><c> line</c><00:02:53.640><c> so</c><00:02:53.879><c> like</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+cause problems down the line so like
+ 
+
+00:02:54.000 --> 00:02:55.390 align:start position:0%
+cause problems down the line so like
+I've<00:02:54.159><c> mentioned</c><00:02:54.480><c> multiple</c><00:02:54.840><c> times</c><00:02:55.120><c> now</c><00:02:55.280><c> we</c>
+
+00:02:55.390 --> 00:02:55.400 align:start position:0%
+I've mentioned multiple times now we
+ 
+
+00:02:55.400 --> 00:02:56.949 align:start position:0%
+I've mentioned multiple times now we
+were<00:02:55.560><c> built</c><00:02:55.800><c> on</c><00:02:56.000><c> top</c><00:02:56.159><c> of</c><00:02:56.280><c> some</c><00:02:56.480><c> distributed</c>
+
+00:02:56.949 --> 00:02:56.959 align:start position:0%
+were built on top of some distributed
+ 
+
+00:02:56.959 --> 00:02:59.350 align:start position:0%
+were built on top of some distributed
+consensus<00:02:57.440><c> layer</c><00:02:58.239><c> and</c><00:02:58.519><c> if</c><00:02:58.599><c> you</c><00:02:58.800><c> remember</c><00:02:59.200><c> from</c>
+
+00:02:59.350 --> 00:02:59.360 align:start position:0%
+consensus layer and if you remember from
+ 
+
+00:02:59.360 --> 00:03:00.670 align:start position:0%
+consensus layer and if you remember from
+me<00:02:59.519><c> drawing</c><00:02:59.840><c> drawing</c><00:03:00.080><c> this</c><00:03:00.239><c> pretty</c><00:03:00.400><c> much</c><00:03:00.560><c> for</c>
+
+00:03:00.670 --> 00:03:00.680 align:start position:0%
+me drawing drawing this pretty much for
+ 
+
+00:03:00.680 --> 00:03:02.350 align:start position:0%
+me drawing drawing this pretty much for
+the<00:03:00.840><c> last</c><00:03:01.000><c> three</c><00:03:01.200><c> or</c><00:03:01.319><c> four</c><00:03:01.560><c> videos</c><00:03:02.200><c> that</c>
+
+00:03:02.350 --> 00:03:02.360 align:start position:0%
+the last three or four videos that
+ 
+
+00:03:02.360 --> 00:03:03.830 align:start position:0%
+the last three or four videos that
+basically<00:03:02.720><c> means</c><00:03:02.959><c> that</c><00:03:03.120><c> we've</c><00:03:03.280><c> got</c><00:03:03.480><c> some</c><00:03:03.640><c> sort</c>
+
+00:03:03.830 --> 00:03:03.840 align:start position:0%
+basically means that we've got some sort
+ 
+
+00:03:03.840 --> 00:03:05.670 align:start position:0%
+basically means that we've got some sort
+of<00:03:03.959><c> leader</c><00:03:04.480><c> and</c><00:03:04.599><c> then</c><00:03:04.799><c> a</c><00:03:04.920><c> couple</c><00:03:05.159><c> of</c><00:03:05.319><c> follower</c>
+
+00:03:05.670 --> 00:03:05.680 align:start position:0%
+of leader and then a couple of follower
+ 
+
+00:03:05.680 --> 00:03:08.630 align:start position:0%
+of leader and then a couple of follower
+nodes<00:03:06.400><c> and</c><00:03:06.480><c> the</c><00:03:06.599><c> follower</c><00:03:07.000><c> nodes</c><00:03:08.000><c> are</c><00:03:08.200><c> not</c>
+
+00:03:08.630 --> 00:03:08.640 align:start position:0%
+nodes and the follower nodes are not
+ 
+
+00:03:08.640 --> 00:03:10.949 align:start position:0%
+nodes and the follower nodes are not
+necessarily<00:03:09.640><c> completely</c><00:03:10.080><c> up</c><00:03:10.280><c> to</c><00:03:10.440><c> date</c><00:03:10.760><c> right</c>
+
+00:03:10.949 --> 00:03:10.959 align:start position:0%
+necessarily completely up to date right
+ 
+
+00:03:10.959 --> 00:03:12.589 align:start position:0%
+necessarily completely up to date right
+as<00:03:11.040><c> you</c><00:03:11.120><c> can</c><00:03:11.239><c> see</c><00:03:11.440><c> on</c><00:03:11.560><c> the</c><00:03:11.720><c> bottom</c><00:03:12.080><c> here</c><00:03:12.440><c> this</c>
+
+00:03:12.589 --> 00:03:12.599 align:start position:0%
+as you can see on the bottom here this
+ 
+
+00:03:12.599 --> 00:03:15.910 align:start position:0%
+as you can see on the bottom here this
+follower<00:03:13.040><c> node</c><00:03:13.400><c> is</c><00:03:13.519><c> a</c><00:03:13.640><c> bit</c><00:03:13.879><c> behind</c><00:03:14.879><c> so</c><00:03:15.440><c> that</c><00:03:15.599><c> is</c>
+
+00:03:15.910 --> 00:03:15.920 align:start position:0%
+follower node is a bit behind so that is
+ 
+
+00:03:15.920 --> 00:03:17.910 align:start position:0%
+follower node is a bit behind so that is
+a<00:03:16.120><c> possibility</c><00:03:16.840><c> in</c><00:03:17.000><c> all</c><00:03:17.159><c> of</c><00:03:17.280><c> our</c><00:03:17.440><c> distributed</c>
+
+00:03:17.910 --> 00:03:17.920 align:start position:0%
+a possibility in all of our distributed
+ 
+
+00:03:17.920 --> 00:03:19.710 align:start position:0%
+a possibility in all of our distributed
+consensus<00:03:18.400><c> algorithms</c><00:03:19.000><c> but</c><00:03:19.120><c> there</c><00:03:19.239><c> are</c><00:03:19.440><c> still</c>
+
+00:03:19.710 --> 00:03:19.720 align:start position:0%
+consensus algorithms but there are still
+ 
+
+00:03:19.720 --> 00:03:21.270 align:start position:0%
+consensus algorithms but there are still
+ways<00:03:19.959><c> to</c><00:03:20.120><c> make</c><00:03:20.280><c> sure</c><00:03:20.519><c> that</c><00:03:20.640><c> your</c><00:03:20.760><c> reads</c><00:03:21.040><c> are</c>
+
+00:03:21.270 --> 00:03:21.280 align:start position:0%
+ways to make sure that your reads are
+ 
+
+00:03:21.280 --> 00:03:23.470 align:start position:0%
+ways to make sure that your reads are
+linearizable<00:03:22.280><c> what</c><00:03:22.440><c> we</c><00:03:22.560><c> don't</c><00:03:22.840><c> want</c><00:03:23.200><c> is</c><00:03:23.319><c> a</c>
+
+00:03:23.470 --> 00:03:23.480 align:start position:0%
+linearizable what we don't want is a
+ 
+
+00:03:23.480 --> 00:03:25.509 align:start position:0%
+linearizable what we don't want is a
+client<00:03:23.920><c> making</c><00:03:24.200><c> a</c><00:03:24.360><c> read</c><00:03:24.879><c> right</c><00:03:25.040><c> here</c><00:03:25.200><c> so</c><00:03:25.400><c> this</c>
+
+00:03:25.509 --> 00:03:25.519 align:start position:0%
+client making a read right here so this
+ 
+
+00:03:25.519 --> 00:03:28.750 align:start position:0%
+client making a read right here so this
+would<00:03:25.640><c> be</c><00:03:25.799><c> read</c><00:03:26.080><c> one</c><00:03:26.519><c> where</c><00:03:26.680><c> we</c><00:03:26.799><c> see</c><00:03:27.319><c> xal</c><00:03:27.959><c> 5</c><00:03:28.599><c> and</c>
+
+00:03:28.750 --> 00:03:28.760 align:start position:0%
+would be read one where we see xal 5 and
+ 
+
+00:03:28.760 --> 00:03:31.390 align:start position:0%
+would be read one where we see xal 5 and
+then<00:03:29.319><c> that</c><00:03:29.480><c> X</c><00:03:29.840><c> equal</c><00:03:30.120><c> 5</c><00:03:30.319><c> is</c><00:03:30.439><c> it</c><00:03:30.640><c> index</c><00:03:31.040><c> one</c><00:03:31.280><c> in</c>
+
+00:03:31.390 --> 00:03:31.400 align:start position:0%
+then that X equal 5 is it index one in
+ 
+
+00:03:31.400 --> 00:03:34.670 align:start position:0%
+then that X equal 5 is it index one in
+the<00:03:31.519><c> log</c><00:03:32.080><c> right</c><00:03:32.280><c> because</c><00:03:32.480><c> we</c><00:03:32.599><c> go</c><00:03:32.799><c> 0</c><00:03:33.200><c> 1</c><00:03:33.560><c> 2</c><00:03:34.560><c> and</c>
+
+00:03:34.670 --> 00:03:34.680 align:start position:0%
+the log right because we go 0 1 2 and
+ 
+
+00:03:34.680 --> 00:03:36.509 align:start position:0%
+the log right because we go 0 1 2 and
+what<00:03:34.799><c> we</c><00:03:34.920><c> don't</c><00:03:35.159><c> want</c><00:03:35.439><c> is</c><00:03:35.560><c> for</c><00:03:35.720><c> our</c><00:03:35.959><c> client</c><00:03:36.280><c> to</c>
+
+00:03:36.509 --> 00:03:36.519 align:start position:0%
+what we don't want is for our client to
+ 
+
+00:03:36.519 --> 00:03:39.110 align:start position:0%
+what we don't want is for our client to
+then<00:03:37.000><c> go</c><00:03:37.280><c> ahead</c><00:03:37.799><c> and</c><00:03:38.040><c> read</c><00:03:38.400><c> from</c><00:03:38.599><c> the</c><00:03:38.760><c> node</c>
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+then go ahead and read from the node
+ 
+
+00:03:39.120 --> 00:03:43.110 align:start position:0%
+then go ahead and read from the node
+that's<00:03:39.840><c> behind</c><00:03:40.840><c> over</c><00:03:41.200><c> here</c><00:03:41.760><c> and</c><00:03:41.959><c> then</c><00:03:42.120><c> see</c><00:03:42.519><c> xal</c>
+
+00:03:43.110 --> 00:03:43.120 align:start position:0%
+that's behind over here and then see xal
+ 
+
+00:03:43.120 --> 00:03:45.190 align:start position:0%
+that's behind over here and then see xal
+3<00:03:43.840><c> because</c><00:03:44.159><c> then</c><00:03:44.360><c> our</c><00:03:44.519><c> reads</c><00:03:44.799><c> would</c><00:03:44.959><c> not</c><00:03:45.080><c> be</c>
+
+00:03:45.190 --> 00:03:45.200 align:start position:0%
+3 because then our reads would not be
+ 
+
+00:03:45.200 --> 00:03:48.390 align:start position:0%
+3 because then our reads would not be
+linearizable<00:03:46.000><c> we</c><00:03:46.120><c> can't</c><00:03:46.319><c> be</c><00:03:46.519><c> having</c><00:03:46.840><c> that</c><00:03:47.519><c> so</c>
+
+00:03:48.390 --> 00:03:48.400 align:start position:0%
+linearizable we can't be having that so
+ 
+
+00:03:48.400 --> 00:03:50.149 align:start position:0%
+linearizable we can't be having that so
+what<00:03:48.519><c> can</c><00:03:48.640><c> we</c><00:03:48.760><c> do</c><00:03:48.920><c> to</c><00:03:49.120><c> avoid</c><00:03:49.439><c> this</c><00:03:49.599><c> situation</c>
+
+00:03:50.149 --> 00:03:50.159 align:start position:0%
+what can we do to avoid this situation
+ 
+
+00:03:50.159 --> 00:03:52.429 align:start position:0%
+what can we do to avoid this situation
+well<00:03:50.280><c> we've</c><00:03:50.480><c> got</c><00:03:50.680><c> two</c><00:03:50.879><c> easy</c><00:03:51.239><c> options</c><00:03:51.920><c> one</c><00:03:52.319><c> we</c>
+
+00:03:52.429 --> 00:03:52.439 align:start position:0%
+well we've got two easy options one we
+ 
+
+00:03:52.439 --> 00:03:54.350 align:start position:0%
+well we've got two easy options one we
+can<00:03:52.599><c> always</c><00:03:52.879><c> just</c><00:03:53.000><c> read</c><00:03:53.239><c> from</c><00:03:53.400><c> the</c><00:03:53.519><c> leader</c>
+
+00:03:54.350 --> 00:03:54.360 align:start position:0%
+can always just read from the leader
+ 
+
+00:03:54.360 --> 00:03:56.710 align:start position:0%
+can always just read from the leader
+that's<00:03:54.560><c> a</c><00:03:54.760><c> super</c><00:03:55.079><c> easy</c><00:03:55.439><c> option</c><00:03:56.000><c> however</c><00:03:56.560><c> it</c>
+
+00:03:56.710 --> 00:03:56.720 align:start position:0%
+that's a super easy option however it
+ 
+
+00:03:56.720 --> 00:03:58.670 align:start position:0%
+that's a super easy option however it
+comes<00:03:56.920><c> at</c><00:03:57.079><c> the</c><00:03:57.280><c> price</c><00:03:57.720><c> of</c><00:03:58.159><c> well</c><00:03:58.400><c> if</c><00:03:58.480><c> we're</c>
+
+00:03:58.670 --> 00:03:58.680 align:start position:0%
+comes at the price of well if we're
+ 
+
+00:03:58.680 --> 00:03:59.990 align:start position:0%
+comes at the price of well if we're
+always<00:03:58.959><c> reading</c><00:03:59.239><c> from</c><00:03:59.360><c> the</c><00:03:59.480><c> leader</c><00:03:59.920><c> that</c>
+
+00:03:59.990 --> 00:04:00.000 align:start position:0%
+always reading from the leader that
+ 
+
+00:04:00.000 --> 00:04:01.990 align:start position:0%
+always reading from the leader that
+means<00:04:00.239><c> that</c><00:04:00.400><c> all</c><00:04:00.599><c> writes</c><00:04:01.040><c> and</c><00:04:01.360><c> all</c><00:04:01.519><c> reads</c><00:04:01.840><c> are</c>
+
+00:04:01.990 --> 00:04:02.000 align:start position:0%
+means that all writes and all reads are
+ 
+
+00:04:02.000 --> 00:04:03.550 align:start position:0%
+means that all writes and all reads are
+going<00:04:02.200><c> through</c><00:04:02.319><c> the</c><00:04:02.439><c> leader</c><00:04:03.040><c> and</c><00:04:03.239><c> that</c><00:04:03.400><c> is</c>
+
+00:04:03.550 --> 00:04:03.560 align:start position:0%
+going through the leader and that is
+ 
+
+00:04:03.560 --> 00:04:06.990 align:start position:0%
+going through the leader and that is
+going<00:04:03.760><c> to</c><00:04:03.920><c> be</c><00:04:04.599><c> slow</c><00:04:05.599><c> another</c><00:04:06.000><c> option</c><00:04:06.480><c> is</c><00:04:06.640><c> that</c>
+
+00:04:06.990 --> 00:04:07.000 align:start position:0%
+going to be slow another option is that
+ 
+
+00:04:07.000 --> 00:04:08.509 align:start position:0%
+going to be slow another option is that
+sometimes<00:04:07.280><c> we</c><00:04:07.360><c> can</c><00:04:07.519><c> actually</c><00:04:07.920><c> read</c><00:04:08.239><c> from</c>
+
+00:04:08.509 --> 00:04:08.519 align:start position:0%
+sometimes we can actually read from
+ 
+
+00:04:08.519 --> 00:04:10.429 align:start position:0%
+sometimes we can actually read from
+different<00:04:08.760><c> follower</c><00:04:09.159><c> nodes</c><00:04:09.840><c> the</c><00:04:10.040><c> key</c><00:04:10.280><c> thing</c>
+
+00:04:10.429 --> 00:04:10.439 align:start position:0%
+different follower nodes the key thing
+ 
+
+00:04:10.439 --> 00:04:12.229 align:start position:0%
+different follower nodes the key thing
+to<00:04:10.640><c> note</c><00:04:11.000><c> is</c><00:04:11.159><c> that</c><00:04:11.480><c> again</c><00:04:11.680><c> we</c><00:04:11.840><c> want</c><00:04:12.040><c> those</c>
+
+00:04:12.229 --> 00:04:12.239 align:start position:0%
+to note is that again we want those
+ 
+
+00:04:12.239 --> 00:04:14.390 align:start position:0%
+to note is that again we want those
+reads<00:04:12.519><c> to</c><00:04:12.640><c> be</c><00:04:12.760><c> linearizable</c><00:04:13.760><c> so</c><00:04:13.959><c> how</c><00:04:14.120><c> can</c><00:04:14.239><c> we</c>
+
+00:04:14.390 --> 00:04:14.400 align:start position:0%
+reads to be linearizable so how can we
+ 
+
+00:04:14.400 --> 00:04:16.310 align:start position:0%
+reads to be linearizable so how can we
+ensure<00:04:14.760><c> that</c><00:04:14.920><c> they</c><00:04:15.120><c> actually</c><00:04:15.360><c> are</c><00:04:16.000><c> well</c><00:04:16.199><c> at</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+ensure that they actually are well at
+ 
+
+00:04:16.320 --> 00:04:17.789 align:start position:0%
+ensure that they actually are well at
+least<00:04:16.479><c> in</c><00:04:16.639><c> Zookeeper</c><00:04:17.320><c> there's</c><00:04:17.519><c> some</c>
+
+00:04:17.789 --> 00:04:17.799 align:start position:0%
+least in Zookeeper there's some
+ 
+
+00:04:17.799 --> 00:04:20.670 align:start position:0%
+least in Zookeeper there's some
+functionality<00:04:18.519><c> called</c><00:04:18.720><c> the</c><00:04:18.840><c> sync</c><00:04:19.199><c> keyword</c><00:04:20.120><c> so</c>
+
+00:04:20.670 --> 00:04:20.680 align:start position:0%
+functionality called the sync keyword so
+ 
+
+00:04:20.680 --> 00:04:22.110 align:start position:0%
+functionality called the sync keyword so
+again<00:04:20.880><c> we</c><00:04:20.959><c> have</c><00:04:21.079><c> our</c><00:04:21.280><c> client</c><00:04:21.680><c> here</c><00:04:21.919><c> let's</c>
+
+00:04:22.110 --> 00:04:22.120 align:start position:0%
+again we have our client here let's
+ 
+
+00:04:22.120 --> 00:04:23.990 align:start position:0%
+again we have our client here let's
+imagine<00:04:22.520><c> that</c><00:04:22.639><c> we</c><00:04:22.800><c> read</c><00:04:23.080><c> from</c><00:04:23.240><c> the</c><00:04:23.400><c> leader</c><00:04:23.880><c> and</c>
+
+00:04:23.990 --> 00:04:24.000 align:start position:0%
+imagine that we read from the leader and
+ 
+
+00:04:24.000 --> 00:04:26.030 align:start position:0%
+imagine that we read from the leader and
+the<00:04:24.199><c> re</c><00:04:24.440><c> the</c><00:04:24.520><c> leader</c><00:04:24.919><c> is</c><00:04:25.040><c> going</c><00:04:25.240><c> to</c><00:04:25.919><c> uh</c>
+
+00:04:26.030 --> 00:04:26.040 align:start position:0%
+the re the leader is going to uh
+ 
+
+00:04:26.040 --> 00:04:27.909 align:start position:0%
+the re the leader is going to uh
+basically<00:04:26.440><c> report</c><00:04:26.840><c> back</c><00:04:27.040><c> that</c><00:04:27.160><c> X</c><00:04:27.360><c> is</c><00:04:27.479><c> equal</c><00:04:27.720><c> to</c>
+
+00:04:27.909 --> 00:04:27.919 align:start position:0%
+basically report back that X is equal to
+ 
+
+00:04:27.919 --> 00:04:30.990 align:start position:0%
+basically report back that X is equal to
+5<00:04:28.520><c> and</c><00:04:28.720><c> that</c><00:04:28.919><c> is</c><00:04:29.039><c> an</c><00:04:29.240><c> index</c><00:04:29.880><c> one</c><00:04:30.120><c> of</c><00:04:30.240><c> the</c><00:04:30.400><c> log</c>
+
+00:04:30.990 --> 00:04:31.000 align:start position:0%
+5 and that is an index one of the log
+ 
+
+00:04:31.000 --> 00:04:33.350 align:start position:0%
+5 and that is an index one of the log
+right<00:04:31.240><c> like</c><00:04:31.479><c> you're</c><00:04:31.759><c> updated</c><00:04:32.199><c> to</c><00:04:32.360><c> index</c><00:04:32.759><c> one</c>
+
+00:04:33.350 --> 00:04:33.360 align:start position:0%
+right like you're updated to index one
+ 
+
+00:04:33.360 --> 00:04:35.110 align:start position:0%
+right like you're updated to index one
+so<00:04:33.520><c> what</c><00:04:33.639><c> the</c><00:04:33.759><c> leader</c><00:04:34.199><c> or</c><00:04:34.400><c> basically</c><00:04:34.840><c> what</c><00:04:34.960><c> the</c>
+
+00:04:35.110 --> 00:04:35.120 align:start position:0%
+so what the leader or basically what the
+ 
+
+00:04:35.120 --> 00:04:37.550 align:start position:0%
+so what the leader or basically what the
+client<00:04:35.479><c> would</c><00:04:35.680><c> then</c><00:04:35.840><c> go</c><00:04:36.000><c> ahead</c><00:04:36.160><c> and</c><00:04:36.360><c> do</c><00:04:37.240><c> is</c>
+
+00:04:37.550 --> 00:04:37.560 align:start position:0%
+client would then go ahead and do is
+ 
+
+00:04:37.560 --> 00:04:39.390 align:start position:0%
+client would then go ahead and do is
+they<00:04:37.800><c> say</c><00:04:38.240><c> okay</c><00:04:38.440><c> well</c><00:04:38.560><c> I</c><00:04:38.639><c> want</c><00:04:38.759><c> a</c><00:04:38.880><c> read</c><00:04:39.160><c> from</c>
+
+00:04:39.390 --> 00:04:39.400 align:start position:0%
+they say okay well I want a read from
+ 
+
+00:04:39.400 --> 00:04:41.430 align:start position:0%
+they say okay well I want a read from
+this<00:04:39.600><c> guy</c><00:04:39.759><c> but</c><00:04:39.880><c> I'm</c><00:04:40.039><c> afraid</c><00:04:40.479><c> that</c><00:04:40.919><c> the</c><00:04:41.160><c> data</c>
+
+00:04:41.430 --> 00:04:41.440 align:start position:0%
+this guy but I'm afraid that the data
+ 
+
+00:04:41.440 --> 00:04:43.150 align:start position:0%
+this guy but I'm afraid that the data
+there<00:04:41.600><c> is</c><00:04:41.720><c> stale</c><00:04:42.160><c> and</c><00:04:42.280><c> my</c><00:04:42.400><c> read</c><00:04:42.680><c> is</c><00:04:42.800><c> not</c><00:04:43.000><c> going</c>
+
+00:04:43.150 --> 00:04:43.160 align:start position:0%
+there is stale and my read is not going
+ 
+
+00:04:43.160 --> 00:04:45.510 align:start position:0%
+there is stale and my read is not going
+to<00:04:43.280><c> be</c><00:04:43.479><c> linearizable</c><00:04:44.479><c> so</c><00:04:44.720><c> I'm</c><00:04:44.919><c> going</c><00:04:45.080><c> to</c><00:04:45.280><c> write</c>
+
+00:04:45.510 --> 00:04:45.520 align:start position:0%
+to be linearizable so I'm going to write
+ 
+
+00:04:45.520 --> 00:04:47.790 align:start position:0%
+to be linearizable so I'm going to write
+a<00:04:45.720><c> keyword</c><00:04:46.160><c> sync</c><00:04:46.720><c> into</c><00:04:46.960><c> the</c><00:04:47.080><c> log</c><00:04:47.440><c> and</c><00:04:47.560><c> you</c><00:04:47.639><c> can</c>
+
+00:04:47.790 --> 00:04:47.800 align:start position:0%
+a keyword sync into the log and you can
+ 
+
+00:04:47.800 --> 00:04:51.070 align:start position:0%
+a keyword sync into the log and you can
+see<00:04:48.280><c> that</c><00:04:48.479><c> goes</c><00:04:48.800><c> over</c><00:04:49.120><c> here</c><00:04:49.479><c> at</c><00:04:49.639><c> index</c><00:04:50.080><c> 2</c><00:04:50.960><c> and</c>
+
+00:04:51.070 --> 00:04:51.080 align:start position:0%
+see that goes over here at index 2 and
+ 
+
+00:04:51.080 --> 00:04:53.469 align:start position:0%
+see that goes over here at index 2 and
+so<00:04:51.280><c> sync</c><00:04:51.720><c> is</c><00:04:51.880><c> now</c><00:04:52.080><c> going</c><00:04:52.280><c> to</c><00:04:52.479><c> get</c>
+
+00:04:53.469 --> 00:04:53.479 align:start position:0%
+so sync is now going to get
+ 
+
+00:04:53.479 --> 00:04:55.990 align:start position:0%
+so sync is now going to get
+propagated<00:04:54.479><c> to</c><00:04:54.800><c> these</c>
+
+00:04:55.990 --> 00:04:56.000 align:start position:0%
+propagated to these
+ 
+
+00:04:56.000 --> 00:04:59.029 align:start position:0%
+propagated to these
+nodes<00:04:57.000><c> and</c><00:04:57.160><c> so</c><00:04:57.440><c> now</c><00:04:57.880><c> since</c><00:04:58.160><c> the</c><00:04:58.360><c> client</c><00:04:58.680><c> knows</c>
+
+00:04:59.029 --> 00:04:59.039 align:start position:0%
+nodes and so now since the client knows
+ 
+
+00:04:59.039 --> 00:05:01.590 align:start position:0%
+nodes and so now since the client knows
+that<00:04:59.160><c> it's</c><00:04:59.280><c> seen</c><00:04:59.800><c> index</c><00:05:00.160><c> one</c><00:05:01.000><c> until</c><00:05:01.360><c> it</c>
+
+00:05:01.590 --> 00:05:01.600 align:start position:0%
+that it's seen index one until it
+ 
+
+00:05:01.600 --> 00:05:03.670 align:start position:0%
+that it's seen index one until it
+actually<00:05:01.919><c> reads</c><00:05:02.440><c> back</c><00:05:02.919><c> and</c><00:05:03.080><c> now</c><00:05:03.320><c> you</c><00:05:03.440><c> know</c>
+
+00:05:03.670 --> 00:05:03.680 align:start position:0%
+actually reads back and now you know
+ 
+
+00:05:03.680 --> 00:05:05.430 align:start position:0%
+actually reads back and now you know
+eventually<00:05:04.080><c> some</c><00:05:04.240><c> more</c><00:05:04.520><c> time</c><00:05:04.840><c> passes</c><00:05:05.280><c> and</c>
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+eventually some more time passes and
+ 
+
+00:05:05.440 --> 00:05:07.469 align:start position:0%
+eventually some more time passes and
+this<00:05:05.639><c> guy</c><00:05:05.800><c> gets</c><00:05:05.960><c> filled</c><00:05:06.280><c> up</c><00:05:06.440><c> to</c><00:05:06.639><c> date</c><00:05:07.240><c> blah</c>
+
+00:05:07.469 --> 00:05:07.479 align:start position:0%
+this guy gets filled up to date blah
+ 
+
+00:05:07.479 --> 00:05:08.590 align:start position:0%
+this guy gets filled up to date blah
+blah<00:05:07.680><c> blah</c><00:05:07.880><c> blah</c>
+
+00:05:08.590 --> 00:05:08.600 align:start position:0%
+blah blah blah
+ 
+
+00:05:08.600 --> 00:05:12.469 align:start position:0%
+blah blah blah
+blah<00:05:09.600><c> and</c><00:05:09.800><c> until</c><00:05:10.039><c> it</c><00:05:10.199><c> reads</c><00:05:10.680><c> back</c><00:05:11.039><c> and</c><00:05:11.240><c> sees</c>
+
+00:05:12.469 --> 00:05:12.479 align:start position:0%
+blah and until it reads back and sees
+ 
+
+00:05:12.479 --> 00:05:15.510 align:start position:0%
+blah and until it reads back and sees
+sync<00:05:13.479><c> at</c><00:05:13.720><c> index</c>
+
+00:05:15.510 --> 00:05:15.520 align:start position:0%
+sync at index
+ 
+
+00:05:15.520 --> 00:05:18.510 align:start position:0%
+sync at index
+2<00:05:16.520><c> it</c><00:05:16.639><c> knows</c><00:05:17.039><c> that</c><00:05:17.199><c> the</c><00:05:17.360><c> data</c><00:05:17.840><c> on</c><00:05:18.000><c> the</c><00:05:18.120><c> follower</c>
+
+00:05:18.510 --> 00:05:18.520 align:start position:0%
+2 it knows that the data on the follower
+ 
+
+00:05:18.520 --> 00:05:20.189 align:start position:0%
+2 it knows that the data on the follower
+node<00:05:18.759><c> that</c><00:05:18.880><c> it</c><00:05:18.960><c> wants</c><00:05:19.120><c> to</c><00:05:19.240><c> read</c><00:05:19.440><c> from</c><00:05:19.639><c> is</c><00:05:19.759><c> stale</c>
+
+00:05:20.189 --> 00:05:20.199 align:start position:0%
+node that it wants to read from is stale
+ 
+
+00:05:20.199 --> 00:05:22.230 align:start position:0%
+node that it wants to read from is stale
+once<00:05:20.319><c> it</c><00:05:20.440><c> does</c><00:05:20.639><c> see</c><00:05:20.919><c> sync</c><00:05:21.600><c> then</c><00:05:21.720><c> it</c><00:05:21.840><c> can</c><00:05:22.000><c> start</c>
+
+00:05:22.230 --> 00:05:22.240 align:start position:0%
+once it does see sync then it can start
+ 
+
+00:05:22.240 --> 00:05:23.990 align:start position:0%
+once it does see sync then it can start
+reading<00:05:22.600><c> from</c><00:05:22.800><c> that</c><00:05:22.960><c> follower</c><00:05:23.560><c> and</c><00:05:23.720><c> you</c><00:05:23.840><c> can</c>
+
+00:05:23.990 --> 00:05:24.000 align:start position:0%
+reading from that follower and you can
+ 
+
+00:05:24.000 --> 00:05:25.270 align:start position:0%
+reading from that follower and you can
+basically<00:05:24.400><c> keep</c><00:05:24.560><c> reading</c><00:05:24.919><c> from</c><00:05:25.120><c> that</c>
+
+00:05:25.270 --> 00:05:25.280 align:start position:0%
+basically keep reading from that
+ 
+
+00:05:25.280 --> 00:05:27.390 align:start position:0%
+basically keep reading from that
+follower<00:05:25.880><c> until</c><00:05:26.319><c> you</c><00:05:26.560><c> either</c><00:05:26.800><c> make</c><00:05:27.039><c> another</c>
+
+00:05:27.390 --> 00:05:27.400 align:start position:0%
+follower until you either make another
+ 
+
+00:05:27.400 --> 00:05:30.230 align:start position:0%
+follower until you either make another
+right<00:05:28.240><c> or</c><00:05:28.680><c> until</c><00:05:29.120><c> you</c><00:05:29.360><c> BAS</c><00:05:29.680><c> basically</c><00:05:30.080><c> go</c>
+
+00:05:30.230 --> 00:05:30.240 align:start position:0%
+right or until you BAS basically go
+ 
+
+00:05:30.240 --> 00:05:31.790 align:start position:0%
+right or until you BAS basically go
+ahead<00:05:30.440><c> and</c><00:05:30.600><c> switch</c><00:05:30.919><c> reading</c><00:05:31.360><c> from</c><00:05:31.600><c> a</c>
+
+00:05:31.790 --> 00:05:31.800 align:start position:0%
+ahead and switch reading from a
+ 
+
+00:05:31.800 --> 00:05:34.469 align:start position:0%
+ahead and switch reading from a
+different<00:05:32.240><c> follower</c><00:05:33.240><c> so</c><00:05:33.479><c> yeah</c><00:05:34.039><c> the</c><00:05:34.160><c> fact</c><00:05:34.360><c> that</c>
+
+00:05:34.469 --> 00:05:34.479 align:start position:0%
+different follower so yeah the fact that
+ 
+
+00:05:34.479 --> 00:05:36.350 align:start position:0%
+different follower so yeah the fact that
+you<00:05:34.560><c> can</c><00:05:34.720><c> do</c><00:05:34.960><c> this</c><00:05:35.319><c> means</c><00:05:35.680><c> that</c><00:05:35.840><c> we</c><00:05:35.960><c> can</c><00:05:36.160><c> have</c>
+
+00:05:36.350 --> 00:05:36.360 align:start position:0%
+you can do this means that we can have
+ 
+
+00:05:36.360 --> 00:05:38.189 align:start position:0%
+you can do this means that we can have
+greater<00:05:36.680><c> read</c><00:05:37.039><c> through</c><00:05:37.280><c> put</c><00:05:37.520><c> because</c><00:05:37.880><c> once</c><00:05:38.039><c> we</c>
+
+00:05:38.189 --> 00:05:38.199 align:start position:0%
+greater read through put because once we
+ 
+
+00:05:38.199 --> 00:05:39.950 align:start position:0%
+greater read through put because once we
+sync<00:05:38.560><c> once</c><00:05:39.199><c> we're</c><00:05:39.360><c> going</c><00:05:39.440><c> to</c><00:05:39.560><c> start</c><00:05:39.800><c> being</c>
+
+00:05:39.950 --> 00:05:39.960 align:start position:0%
+sync once we're going to start being
+ 
+
+00:05:39.960 --> 00:05:41.670 align:start position:0%
+sync once we're going to start being
+able<00:05:40.160><c> to</c><00:05:40.240><c> make</c><00:05:40.440><c> linearizable</c><00:05:41.120><c> reads</c><00:05:41.440><c> from</c>
+
+00:05:41.670 --> 00:05:41.680 align:start position:0%
+able to make linearizable reads from
+ 
+
+00:05:41.680 --> 00:05:43.710 align:start position:0%
+able to make linearizable reads from
+that<00:05:41.800><c> follower</c><00:05:42.240><c> node</c><00:05:42.840><c> and</c><00:05:43.039><c> as</c><00:05:43.120><c> a</c><00:05:43.280><c> result</c><00:05:43.560><c> of</c>
+
+00:05:43.710 --> 00:05:43.720 align:start position:0%
+that follower node and as a result of
+ 
+
+00:05:43.720 --> 00:05:45.270 align:start position:0%
+that follower node and as a result of
+being<00:05:43.919><c> able</c><00:05:44.080><c> to</c><00:05:44.199><c> do</c><00:05:44.400><c> that</c><00:05:44.600><c> we</c><00:05:44.759><c> take</c><00:05:45.039><c> some</c><00:05:45.160><c> of</c>
+
+00:05:45.270 --> 00:05:45.280 align:start position:0%
+being able to do that we take some of
+ 
+
+00:05:45.280 --> 00:05:47.390 align:start position:0%
+being able to do that we take some of
+the<00:05:45.400><c> stress</c><00:05:45.919><c> off</c><00:05:46.039><c> of</c><00:05:46.160><c> our</c><00:05:46.319><c> leader</c><00:05:47.000><c> so</c><00:05:47.240><c> this</c>
+
+00:05:47.390 --> 00:05:47.400 align:start position:0%
+the stress off of our leader so this
+ 
+
+00:05:47.400 --> 00:05:49.029 align:start position:0%
+the stress off of our leader so this
+does<00:05:47.639><c> allow</c><00:05:47.919><c> us</c><00:05:48.039><c> to</c><00:05:48.240><c> have</c><00:05:48.440><c> a</c><00:05:48.600><c> little</c><00:05:48.840><c> bit</c>
+
+00:05:49.029 --> 00:05:49.039 align:start position:0%
+does allow us to have a little bit
+ 
+
+00:05:49.039 --> 00:05:51.469 align:start position:0%
+does allow us to have a little bit
+greater<00:05:49.400><c> of</c><00:05:49.560><c> a</c><00:05:49.720><c> read</c><00:05:50.039><c> through</c><00:05:50.280><c> put</c><00:05:51.120><c> so</c><00:05:51.280><c> let's</c>
+
+00:05:51.469 --> 00:05:51.479 align:start position:0%
+greater of a read through put so let's
+ 
+
+00:05:51.479 --> 00:05:53.909 align:start position:0%
+greater of a read through put so let's
+quickly<00:05:51.800><c> do</c><00:05:52.120><c> a</c><00:05:52.360><c> conclusion</c><00:05:52.880><c> for</c><00:05:53.199><c> coordination</c>
+
+00:05:53.909 --> 00:05:53.919 align:start position:0%
+quickly do a conclusion for coordination
+ 
+
+00:05:53.919 --> 00:05:56.350 align:start position:0%
+quickly do a conclusion for coordination
+Services<00:05:54.919><c> basically</c><00:05:55.560><c> they're</c><00:05:55.759><c> too</c><00:05:55.919><c> slow</c><00:05:56.240><c> to</c>
+
+00:05:56.350 --> 00:05:56.360 align:start position:0%
+Services basically they're too slow to
+ 
+
+00:05:56.360 --> 00:05:58.270 align:start position:0%
+Services basically they're too slow to
+be<00:05:56.479><c> used</c><00:05:56.720><c> for</c><00:05:56.880><c> most</c><00:05:57.039><c> of</c><00:05:57.160><c> our</c><00:05:57.360><c> application</c><00:05:57.880><c> data</c>
+
+00:05:58.270 --> 00:05:58.280 align:start position:0%
+be used for most of our application data
+ 
+
+00:05:58.280 --> 00:06:00.550 align:start position:0%
+be used for most of our application data
+in<00:05:58.400><c> a</c><00:05:58.520><c> real</c><00:05:58.800><c> massive</c><00:05:59.199><c> service</c><00:05:59.840><c> like</c><00:06:00.080><c> Facebook</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+in a real massive service like Facebook
+ 
+
+00:06:00.560 --> 00:06:02.430 align:start position:0%
+in a real massive service like Facebook
+or<00:06:00.720><c> Twitter</c><00:06:01.120><c> or</c><00:06:01.319><c> anything</c><00:06:01.680><c> like</c><00:06:01.880><c> that</c><00:06:02.360><c> if</c>
+
+00:06:02.430 --> 00:06:02.440 align:start position:0%
+or Twitter or anything like that if
+ 
+
+00:06:02.440 --> 00:06:03.950 align:start position:0%
+or Twitter or anything like that if
+you're<00:06:02.600><c> sending</c><00:06:03.000><c> all</c><00:06:03.199><c> the</c><00:06:03.400><c> rights</c><00:06:03.639><c> through</c><00:06:03.840><c> a</c>
+
+00:06:03.950 --> 00:06:03.960 align:start position:0%
+you're sending all the rights through a
+ 
+
+00:06:03.960 --> 00:06:06.430 align:start position:0%
+you're sending all the rights through a
+single<00:06:04.199><c> leader</c><00:06:05.000><c> and</c><00:06:05.280><c> basically</c><00:06:05.720><c> that</c><00:06:05.919><c> has</c><00:06:06.080><c> to</c>
+
+00:06:06.430 --> 00:06:06.440 align:start position:0%
+single leader and basically that has to
+ 
+
+00:06:06.440 --> 00:06:07.670 align:start position:0%
+single leader and basically that has to
+effectively<00:06:06.880><c> go</c><00:06:07.039><c> through</c><00:06:07.199><c> some</c><00:06:07.360><c> sort</c><00:06:07.560><c> of</c>
+
+00:06:07.670 --> 00:06:07.680 align:start position:0%
+effectively go through some sort of
+ 
+
+00:06:07.680 --> 00:06:09.870 align:start position:0%
+effectively go through some sort of
+two-phase<00:06:08.120><c> commit</c><00:06:08.800><c> we're</c><00:06:09.000><c> running</c><00:06:09.360><c> into</c><00:06:09.680><c> some</c>
+
+00:06:09.870 --> 00:06:09.880 align:start position:0%
+two-phase commit we're running into some
+ 
+
+00:06:09.880 --> 00:06:11.550 align:start position:0%
+two-phase commit we're running into some
+serious<00:06:10.319><c> performance</c><00:06:10.880><c> problems</c><00:06:11.319><c> that</c>
+
+00:06:11.550 --> 00:06:11.560 align:start position:0%
+serious performance problems that
+ 
+
+00:06:11.560 --> 00:06:13.309 align:start position:0%
+serious performance problems that
+probably<00:06:11.880><c> are</c><00:06:12.039><c> not</c><00:06:12.199><c> going</c><00:06:12.360><c> to</c><00:06:12.479><c> be</c><00:06:12.639><c> feasible</c>
+
+00:06:13.309 --> 00:06:13.319 align:start position:0%
+probably are not going to be feasible
+ 
+
+00:06:13.319 --> 00:06:15.589 align:start position:0%
+probably are not going to be feasible
+for<00:06:13.520><c> the</c><00:06:13.639><c> scale</c><00:06:13.919><c> of</c><00:06:14.000><c> our</c><00:06:14.280><c> application</c><00:06:15.280><c> at</c><00:06:15.440><c> the</c>
+
+00:06:15.589 --> 00:06:15.599 align:start position:0%
+for the scale of our application at the
+ 
+
+00:06:15.599 --> 00:06:17.909 align:start position:0%
+for the scale of our application at the
+same<00:06:15.880><c> time</c><00:06:16.240><c> all</c><00:06:16.400><c> of</c><00:06:16.599><c> these</c><00:06:16.840><c> apps</c><00:06:17.240><c> have</c><00:06:17.639><c> key</c>
+
+00:06:17.909 --> 00:06:17.919 align:start position:0%
+same time all of these apps have key
+ 
+
+00:06:17.919 --> 00:06:20.029 align:start position:0%
+same time all of these apps have key
+pieces<00:06:18.360><c> of</c><00:06:18.720><c> configuration</c><00:06:19.720><c> which</c><00:06:19.880><c> we</c>
+
+00:06:20.029 --> 00:06:20.039 align:start position:0%
+pieces of configuration which we
+ 
+
+00:06:20.039 --> 00:06:22.430 align:start position:0%
+pieces of configuration which we
+mentioned<00:06:20.440><c> before</c><00:06:20.919><c> are</c><00:06:21.199><c> backend</c><00:06:21.759><c> needs</c><00:06:22.319><c> in</c>
+
+00:06:22.430 --> 00:06:22.440 align:start position:0%
+mentioned before are backend needs in
+ 
+
+00:06:22.440 --> 00:06:24.150 align:start position:0%
+mentioned before are backend needs in
+order<00:06:22.639><c> to</c><00:06:22.800><c> be</c><00:06:22.919><c> able</c><00:06:23.120><c> to</c><00:06:23.240><c> run</c><00:06:23.599><c> we</c><00:06:23.720><c> need</c><00:06:23.880><c> to</c><00:06:24.000><c> know</c>
+
+00:06:24.150 --> 00:06:24.160 align:start position:0%
+order to be able to run we need to know
+ 
+
+00:06:24.160 --> 00:06:26.070 align:start position:0%
+order to be able to run we need to know
+the<00:06:24.319><c> location</c><00:06:24.800><c> of</c><00:06:25.000><c> all</c><00:06:25.120><c> of</c><00:06:25.240><c> our</c><00:06:25.360><c> nodes</c><00:06:25.759><c> in</c><00:06:25.880><c> our</c>
+
+00:06:26.070 --> 00:06:26.080 align:start position:0%
+the location of all of our nodes in our
+ 
+
+00:06:26.080 --> 00:06:28.029 align:start position:0%
+the location of all of our nodes in our
+cluster<00:06:26.680><c> we</c><00:06:26.800><c> need</c><00:06:26.919><c> to</c><00:06:27.039><c> be</c><00:06:27.120><c> able</c><00:06:27.319><c> to</c><00:06:27.400><c> know</c><00:06:27.840><c> what</c>
+
+00:06:28.029 --> 00:06:28.039 align:start position:0%
+cluster we need to be able to know what
+ 
+
+00:06:28.039 --> 00:06:29.870 align:start position:0%
+cluster we need to be able to know what
+data<00:06:28.319><c> is</c><00:06:28.440><c> stored</c><00:06:28.720><c> on</c><00:06:28.880><c> what</c><00:06:29.080><c> partition</c><00:06:29.680><c> things</c>
+
+00:06:29.870 --> 00:06:29.880 align:start position:0%
+data is stored on what partition things
+ 
+
+00:06:29.880 --> 00:06:31.870 align:start position:0%
+data is stored on what partition things
+like<00:06:30.080><c> that</c><00:06:30.479><c> and</c><00:06:30.599><c> if</c><00:06:30.720><c> we</c><00:06:30.840><c> don't</c><00:06:31.160><c> have</c><00:06:31.400><c> that</c><00:06:31.560><c> in</c><00:06:31.680><c> a</c>
+
+00:06:31.870 --> 00:06:31.880 align:start position:0%
+like that and if we don't have that in a
+ 
+
+00:06:31.880 --> 00:06:34.270 align:start position:0%
+like that and if we don't have that in a
+reliable<00:06:32.479><c> setting</c><00:06:33.120><c> in</c><00:06:33.240><c> a</c><00:06:33.440><c> way</c><00:06:33.720><c> that</c><00:06:33.919><c> you</c><00:06:34.039><c> know</c>
+
+00:06:34.270 --> 00:06:34.280 align:start position:0%
+reliable setting in a way that you know
+ 
+
+00:06:34.280 --> 00:06:35.990 align:start position:0%
+reliable setting in a way that you know
+we<00:06:34.400><c> can</c><00:06:34.720><c> access</c><00:06:35.039><c> it</c><00:06:35.160><c> and</c><00:06:35.319><c> be</c><00:06:35.440><c> sure</c><00:06:35.680><c> that</c><00:06:35.800><c> it's</c>
+
+00:06:35.990 --> 00:06:36.000 align:start position:0%
+we can access it and be sure that it's
+ 
+
+00:06:36.000 --> 00:06:37.749 align:start position:0%
+we can access it and be sure that it's
+correct<00:06:36.680><c> then</c><00:06:36.800><c> we're</c><00:06:36.960><c> running</c><00:06:37.280><c> into</c><00:06:37.560><c> some</c>
+
+00:06:37.749 --> 00:06:37.759 align:start position:0%
+correct then we're running into some
+ 
+
+00:06:37.759 --> 00:06:40.430 align:start position:0%
+correct then we're running into some
+serious<00:06:38.120><c> issues</c><00:06:38.520><c> as</c><00:06:38.720><c> well</c><00:06:39.280><c> so</c><00:06:39.599><c> typically</c><00:06:40.280><c> the</c>
+
+00:06:40.430 --> 00:06:40.440 align:start position:0%
+serious issues as well so typically the
+ 
+
+00:06:40.440 --> 00:06:42.189 align:start position:0%
+serious issues as well so typically the
+solution<00:06:40.800><c> would</c><00:06:40.919><c> be</c><00:06:41.080><c> to</c><00:06:41.199><c> use</c><00:06:41.520><c> something</c><00:06:42.039><c> that</c>
+
+00:06:42.189 --> 00:06:42.199 align:start position:0%
+solution would be to use something that
+ 
+
+00:06:42.199 --> 00:06:44.390 align:start position:0%
+solution would be to use something that
+is<00:06:42.319><c> a</c><00:06:42.440><c> bit</c><00:06:42.599><c> more</c><00:06:42.800><c> scalable</c><00:06:43.479><c> for</c><00:06:43.880><c> application</c>
+
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+is a bit more scalable for application
+ 
+
+00:06:44.400 --> 00:06:45.870 align:start position:0%
+is a bit more scalable for application
+data<00:06:44.880><c> but</c><00:06:45.039><c> then</c><00:06:45.199><c> something</c><00:06:45.599><c> like</c>
+
+00:06:45.870 --> 00:06:45.880 align:start position:0%
+data but then something like
+ 
+
+00:06:45.880 --> 00:06:47.830 align:start position:0%
+data but then something like
+coordination<00:06:46.479><c> service</c><00:06:47.160><c> for</c><00:06:47.400><c> this</c>
+
+00:06:47.830 --> 00:06:47.840 align:start position:0%
+coordination service for this
+ 
+
+00:06:47.840 --> 00:06:50.070 align:start position:0%
+coordination service for this
+configuration<00:06:48.840><c> and</c><00:06:49.000><c> of</c><00:06:49.160><c> course</c><00:06:49.479><c> the</c><00:06:49.639><c> reason</c>
+
+00:06:50.070 --> 00:06:50.080 align:start position:0%
+configuration and of course the reason
+ 
+
+00:06:50.080 --> 00:06:51.950 align:start position:0%
+configuration and of course the reason
+why<00:06:50.400><c> we</c><00:06:50.479><c> can</c><00:06:50.639><c> rely</c><00:06:50.960><c> on</c><00:06:51.120><c> it</c><00:06:51.360><c> is</c><00:06:51.520><c> because</c><00:06:51.720><c> it</c><00:06:51.840><c> is</c>
+
+00:06:51.950 --> 00:06:51.960 align:start position:0%
+why we can rely on it is because it is
+ 
+
+00:06:51.960 --> 00:06:54.430 align:start position:0%
+why we can rely on it is because it is
+built<00:06:52.280><c> on</c><00:06:52.520><c> top</c><00:06:52.759><c> of</c><00:06:52.960><c> consensus</c><00:06:53.560><c> algorithms</c>
+
+00:06:54.430 --> 00:06:54.440 align:start position:0%
+built on top of consensus algorithms
+ 
+
+00:06:54.440 --> 00:06:56.749 align:start position:0%
+built on top of consensus algorithms
+being<00:06:54.680><c> able</c><00:06:54.880><c> to</c><00:06:55.080><c> read</c><00:06:55.520><c> in</c><00:06:55.599><c> a</c><00:06:55.759><c> linearizable</c><00:06:56.560><c> way</c>
+
+00:06:56.749 --> 00:06:56.759 align:start position:0%
+being able to read in a linearizable way
+ 
+
+00:06:56.759 --> 00:06:58.510 align:start position:0%
+being able to read in a linearizable way
+means<00:06:57.000><c> that</c><00:06:57.160><c> we</c><00:06:57.240><c> can</c><00:06:57.400><c> be</c><00:06:57.520><c> sure</c><00:06:57.960><c> that</c><00:06:58.120><c> the</c><00:06:58.280><c> data</c>
+
+00:06:58.510 --> 00:06:58.520 align:start position:0%
+means that we can be sure that the data
+ 
+
+00:06:58.520 --> 00:07:00.350 align:start position:0%
+means that we can be sure that the data
+that<00:06:58.639><c> we're</c><00:06:58.800><c> reading</c><00:06:59.639><c> even</c><00:06:59.840><c> though</c><00:07:00.000><c> it</c><00:07:00.120><c> could</c>
+
+00:07:00.350 --> 00:07:00.360 align:start position:0%
+that we're reading even though it could
+ 
+
+00:07:00.360 --> 00:07:02.430 align:start position:0%
+that we're reading even though it could
+technically<00:07:00.800><c> be</c><00:07:01.120><c> a</c><00:07:01.319><c> little</c><00:07:01.560><c> bit</c><00:07:01.800><c> outdated</c>
+
+00:07:02.430 --> 00:07:02.440 align:start position:0%
+technically be a little bit outdated
+ 
+
+00:07:02.440 --> 00:07:03.790 align:start position:0%
+technically be a little bit outdated
+either<00:07:02.680><c> a</c><00:07:02.879><c> we</c><00:07:03.000><c> could</c><00:07:03.120><c> always</c><00:07:03.319><c> read</c><00:07:03.560><c> from</c><00:07:03.680><c> the</c>
+
+00:07:03.790 --> 00:07:03.800 align:start position:0%
+either a we could always read from the
+ 
+
+00:07:03.800 --> 00:07:06.150 align:start position:0%
+either a we could always read from the
+leader<00:07:04.400><c> or</c><00:07:04.639><c> B</c><00:07:04.919><c> at</c><00:07:05.120><c> minimum</c><00:07:05.599><c> our</c><00:07:05.759><c> reads</c><00:07:06.000><c> are</c>
+
+00:07:06.150 --> 00:07:06.160 align:start position:0%
+leader or B at minimum our reads are
+ 
+
+00:07:06.160 --> 00:07:07.790 align:start position:0%
+leader or B at minimum our reads are
+going<00:07:06.319><c> to</c><00:07:06.400><c> be</c><00:07:06.520><c> linearizable</c><00:07:07.280><c> so</c><00:07:07.400><c> we're</c><00:07:07.560><c> never</c>
+
+00:07:07.790 --> 00:07:07.800 align:start position:0%
+going to be linearizable so we're never
+ 
+
+00:07:07.800 --> 00:07:09.790 align:start position:0%
+going to be linearizable so we're never
+just<00:07:07.919><c> going</c><00:07:08.160><c> to</c><00:07:08.440><c> like</c><00:07:08.639><c> be</c><00:07:08.840><c> jumping</c><00:07:09.319><c> backwards</c>
+
+00:07:09.790 --> 00:07:09.800 align:start position:0%
+just going to like be jumping backwards
+ 
+
+00:07:09.800 --> 00:07:11.629 align:start position:0%
+just going to like be jumping backwards
+all<00:07:09.919><c> of</c><00:07:10.039><c> a</c><00:07:10.160><c> sudden</c><00:07:10.520><c> and</c><00:07:10.639><c> seeing</c><00:07:10.960><c> some</c><00:07:11.240><c> previous</c>
+
+00:07:11.629 --> 00:07:11.639 align:start position:0%
+all of a sudden and seeing some previous
+ 
+
+00:07:11.639 --> 00:07:13.790 align:start position:0%
+all of a sudden and seeing some previous
+state<00:07:12.240><c> that</c><00:07:12.360><c> we</c><00:07:12.479><c> weren't</c><00:07:12.840><c> already</c><00:07:13.199><c> aware</c><00:07:13.520><c> of</c>
+
+00:07:13.790 --> 00:07:13.800 align:start position:0%
+state that we weren't already aware of
+ 
+
+00:07:13.800 --> 00:07:15.869 align:start position:0%
+state that we weren't already aware of
+and<00:07:14.000><c> thinking</c><00:07:14.440><c> it</c><00:07:14.599><c> was</c><00:07:14.960><c> more</c><00:07:15.199><c> up</c><00:07:15.400><c> to</c><00:07:15.560><c> date</c><00:07:15.759><c> than</c>
+
+00:07:15.869 --> 00:07:15.879 align:start position:0%
+and thinking it was more up to date than
+ 
+
+00:07:15.879 --> 00:07:18.070 align:start position:0%
+and thinking it was more up to date than
+our<00:07:16.039><c> current</c><00:07:16.360><c> state</c><00:07:17.120><c> anyways</c><00:07:17.599><c> guys</c><00:07:17.800><c> I</c><00:07:17.919><c> hope</c>
+
+00:07:18.070 --> 00:07:18.080 align:start position:0%
+our current state anyways guys I hope
+ 
+
+00:07:18.080 --> 00:07:19.510 align:start position:0%
+our current state anyways guys I hope
+that<00:07:18.280><c> this</c><00:07:18.479><c> helps</c><00:07:19.160><c> understand</c><00:07:19.360><c> what</c>
+
+00:07:19.510 --> 00:07:19.520 align:start position:0%
+that this helps understand what
+ 
+
+00:07:19.520 --> 00:07:21.390 align:start position:0%
+that this helps understand what
+coordination<00:07:20.120><c> services</c><00:07:20.560><c> are</c><00:07:20.840><c> actually</c><00:07:21.120><c> used</c>
+
+00:07:21.390 --> 00:07:21.400 align:start position:0%
+coordination services are actually used
+ 
+
+00:07:21.400 --> 00:07:23.830 align:start position:0%
+coordination services are actually used
+for<00:07:22.080><c> only</c><00:07:22.360><c> just</c><00:07:22.479><c> a</c><00:07:22.599><c> little</c><00:07:22.759><c> bit</c><00:07:22.919><c> of</c><00:07:23.000><c> a</c><00:07:23.160><c> pit</c><00:07:23.400><c> stop</c>
+
+00:07:23.830 --> 00:07:23.840 align:start position:0%
+for only just a little bit of a pit stop
+ 
+
+00:07:23.840 --> 00:07:25.790 align:start position:0%
+for only just a little bit of a pit stop
+from<00:07:24.599><c> you</c><00:07:24.720><c> know</c><00:07:24.879><c> continuing</c><00:07:25.280><c> to</c><00:07:25.440><c> talk</c><00:07:25.599><c> about</c>
+
+00:07:25.790 --> 00:07:25.800 align:start position:0%
+from you know continuing to talk about
+ 
+
+00:07:25.800 --> 00:07:27.830 align:start position:0%
+from you know continuing to talk about
+databases<00:07:26.560><c> and</c><00:07:26.680><c> then</c><00:07:26.840><c> in</c><00:07:26.960><c> the</c><00:07:27.120><c> next</c><00:07:27.360><c> video</c><00:07:27.720><c> we</c>
+
+00:07:27.830 --> 00:07:27.840 align:start position:0%
+databases and then in the next video we
+ 
+
+00:07:27.840 --> 00:07:30.230 align:start position:0%
+databases and then in the next video we
+will<00:07:28.000><c> do</c><00:07:28.280><c> just</c><00:07:28.560><c> that</c><00:07:28.800><c> yet</c><00:07:29.039><c> again</c><00:07:29.639><c> see</c><00:07:29.840><c> you</c><00:07:30.000><c> guys</c>
+
+00:07:30.230 --> 00:07:30.240 align:start position:0%
+will do just that yet again see you guys
+ 
+
+00:07:30.240 --> 00:07:33.000 align:start position:0%
+will do just that yet again see you guys
+then
+

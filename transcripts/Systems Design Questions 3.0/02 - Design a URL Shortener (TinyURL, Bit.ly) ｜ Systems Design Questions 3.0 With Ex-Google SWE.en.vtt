@@ -1,0 +1,4056 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:03.429 align:start position:0%
+ 
+Hello<00:00:00.719><c> everybody</c><00:00:01.439><c> and</c><00:00:01.839><c> welcome</c><00:00:02.399><c> back.</c><00:00:03.120><c> Today</c>
+
+00:00:03.429 --> 00:00:03.439 align:start position:0%
+Hello everybody and welcome back. Today
+ 
+
+00:00:03.439 --> 00:00:05.749 align:start position:0%
+Hello everybody and welcome back. Today
+I'm<00:00:03.679><c> excited</c><00:00:04.080><c> to</c><00:00:04.319><c> introduce</c><00:00:04.880><c> the</c><00:00:05.279><c> first</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+I'm excited to introduce the first
+ 
+
+00:00:05.759 --> 00:00:08.950 align:start position:0%
+I'm excited to introduce the first
+episode<00:00:06.319><c> of</c><00:00:06.560><c> the</c><00:00:06.799><c> systems</c><00:00:07.359><c> design</c><00:00:08.000><c> 3.0</c>
+
+00:00:08.950 --> 00:00:08.960 align:start position:0%
+episode of the systems design 3.0
+ 
+
+00:00:08.960 --> 00:00:11.430 align:start position:0%
+episode of the systems design 3.0
+question<00:00:09.519><c> series.</c><00:00:10.400><c> While</c><00:00:10.639><c> I</c><00:00:10.800><c> spend</c><00:00:11.040><c> a</c><00:00:11.200><c> lot</c><00:00:11.280><c> of</c>
+
+00:00:11.430 --> 00:00:11.440 align:start position:0%
+question series. While I spend a lot of
+ 
+
+00:00:11.440 --> 00:00:13.270 align:start position:0%
+question series. While I spend a lot of
+time<00:00:11.599><c> on</c><00:00:11.840><c> this</c><00:00:12.000><c> channel</c><00:00:12.400><c> talking</c><00:00:12.639><c> about</c><00:00:12.880><c> tiny</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+time on this channel talking about tiny
+ 
+
+00:00:13.280 --> 00:00:15.430 align:start position:0%
+time on this channel talking about tiny
+things,<00:00:14.080><c> today</c><00:00:14.480><c> we</c><00:00:14.719><c> will</c><00:00:14.880><c> just</c><00:00:15.040><c> be</c><00:00:15.200><c> talking</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+things, today we will just be talking
+ 
+
+00:00:15.440 --> 00:00:19.429 align:start position:0%
+things, today we will just be talking
+about<00:00:15.759><c> tiny</c><00:00:16.160><c> URL,</c><00:00:16.960><c> not</c><00:00:17.199><c> my</c><00:00:17.440><c> Chad.</c><00:00:18.320><c> So</c><00:00:18.960><c> let's</c><00:00:19.279><c> go</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+about tiny URL, not my Chad. So let's go
+ 
+
+00:00:19.439 --> 00:00:21.429 align:start position:0%
+about tiny URL, not my Chad. So let's go
+ahead<00:00:19.760><c> and</c><00:00:20.000><c> get</c><00:00:20.160><c> into</c><00:00:20.400><c> it.</c><00:00:20.720><c> I'm</c><00:00:20.880><c> trying</c><00:00:21.119><c> out</c><00:00:21.279><c> a</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+ahead and get into it. I'm trying out a
+ 
+
+00:00:21.439 --> 00:00:23.349 align:start position:0%
+ahead and get into it. I'm trying out a
+new<00:00:21.600><c> format</c><00:00:22.000><c> today.</c><00:00:22.480><c> Please</c><00:00:22.720><c> give</c><00:00:22.880><c> me</c><00:00:23.039><c> all</c><00:00:23.199><c> the</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+new format today. Please give me all the
+ 
+
+00:00:23.359 --> 00:00:24.870 align:start position:0%
+new format today. Please give me all the
+feedback<00:00:23.680><c> that</c><00:00:23.920><c> you</c><00:00:24.080><c> want</c><00:00:24.240><c> in</c><00:00:24.400><c> the</c><00:00:24.560><c> comments</c>
+
+00:00:24.870 --> 00:00:24.880 align:start position:0%
+feedback that you want in the comments
+ 
+
+00:00:24.880 --> 00:00:26.710 align:start position:0%
+feedback that you want in the comments
+section.<00:00:25.439><c> I've</c><00:00:25.760><c> tried</c><00:00:25.920><c> to</c><00:00:26.080><c> incorporate</c>
+
+00:00:26.710 --> 00:00:26.720 align:start position:0%
+section. I've tried to incorporate
+ 
+
+00:00:26.720 --> 00:00:28.470 align:start position:0%
+section. I've tried to incorporate
+literally<00:00:27.199><c> years</c><00:00:27.519><c> of</c><00:00:27.760><c> feedback</c><00:00:28.080><c> that</c><00:00:28.240><c> I've</c>
+
+00:00:28.470 --> 00:00:28.480 align:start position:0%
+literally years of feedback that I've
+ 
+
+00:00:28.480 --> 00:00:30.230 align:start position:0%
+literally years of feedback that I've
+gotten<00:00:28.640><c> from</c><00:00:28.800><c> a</c><00:00:28.960><c> lot</c><00:00:29.119><c> of</c><00:00:29.199><c> people</c><00:00:29.599><c> to</c><00:00:29.840><c> make</c><00:00:30.000><c> this</c>
+
+00:00:30.230 --> 00:00:30.240 align:start position:0%
+gotten from a lot of people to make this
+ 
+
+00:00:30.240 --> 00:00:32.870 align:start position:0%
+gotten from a lot of people to make this
+as<00:00:30.480><c> clear</c><00:00:30.720><c> and</c><00:00:31.039><c> concise</c><00:00:31.439><c> as</c><00:00:31.760><c> possible.</c><00:00:32.640><c> I</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+as clear and concise as possible. I
+ 
+
+00:00:32.880 --> 00:00:34.790 align:start position:0%
+as clear and concise as possible. I
+don't<00:00:33.040><c> want</c><00:00:33.200><c> to</c><00:00:33.280><c> go</c><00:00:33.520><c> overboard,</c><00:00:34.239><c> but</c><00:00:34.480><c> I</c><00:00:34.640><c> will</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+don't want to go overboard, but I will
+ 
+
+00:00:34.800 --> 00:00:37.030 align:start position:0%
+don't want to go overboard, but I will
+explain<00:00:35.120><c> things</c><00:00:35.360><c> as</c><00:00:35.600><c> we</c><00:00:35.840><c> go.</c><00:00:36.320><c> And</c><00:00:36.559><c> please</c><00:00:36.800><c> bear</c>
+
+00:00:37.030 --> 00:00:37.040 align:start position:0%
+explain things as we go. And please bear
+ 
+
+00:00:37.040 --> 00:00:39.670 align:start position:0%
+explain things as we go. And please bear
+with<00:00:37.280><c> me.</c><00:00:37.760><c> Let's</c><00:00:38.079><c> get</c><00:00:38.239><c> into</c><00:00:38.480><c> it.</c><00:00:39.200><c> For</c><00:00:39.520><c> this</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+with me. Let's get into it. For this
+ 
+
+00:00:39.680 --> 00:00:41.190 align:start position:0%
+with me. Let's get into it. For this
+video,<00:00:40.160><c> we're</c><00:00:40.399><c> going</c><00:00:40.559><c> to</c><00:00:40.719><c> stick</c><00:00:40.879><c> with</c><00:00:41.040><c> the</c>
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+video, we're going to stick with the
+ 
+
+00:00:41.200 --> 00:00:43.270 align:start position:0%
+video, we're going to stick with the
+minimum<00:00:41.600><c> possible</c><00:00:42.079><c> set</c><00:00:42.320><c> of</c><00:00:42.480><c> requirements</c><00:00:43.040><c> for</c>
+
+00:00:43.270 --> 00:00:43.280 align:start position:0%
+minimum possible set of requirements for
+ 
+
+00:00:43.280 --> 00:00:46.470 align:start position:0%
+minimum possible set of requirements for
+a<00:00:43.520><c> service</c><00:00:43.840><c> like</c><00:00:44.079><c> Tiny</c><00:00:44.480><c> URL.</c><00:00:45.600><c> In</c><00:00:45.840><c> practice,</c>
+
+00:00:46.470 --> 00:00:46.480 align:start position:0%
+a service like Tiny URL. In practice,
+ 
+
+00:00:46.480 --> 00:00:48.150 align:start position:0%
+a service like Tiny URL. In practice,
+this<00:00:46.719><c> means</c><00:00:46.960><c> we</c><00:00:47.200><c> need</c><00:00:47.280><c> to</c><00:00:47.440><c> support</c><00:00:47.840><c> two</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+this means we need to support two
+ 
+
+00:00:48.160 --> 00:00:50.709 align:start position:0%
+this means we need to support two
+features.<00:00:49.280><c> First,</c><00:00:49.840><c> we</c><00:00:50.000><c> need</c><00:00:50.160><c> to</c><00:00:50.320><c> be</c><00:00:50.399><c> able</c><00:00:50.559><c> to</c>
+
+00:00:50.709 --> 00:00:50.719 align:start position:0%
+features. First, we need to be able to
+ 
+
+00:00:50.719 --> 00:00:52.790 align:start position:0%
+features. First, we need to be able to
+have<00:00:50.800><c> a</c><00:00:51.039><c> client</c><00:00:51.280><c> provide</c><00:00:51.600><c> a</c><00:00:51.760><c> URL</c><00:00:52.399><c> and</c><00:00:52.559><c> then</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+have a client provide a URL and then
+ 
+
+00:00:52.800 --> 00:00:55.670 align:start position:0%
+have a client provide a URL and then
+pass<00:00:53.039><c> them</c><00:00:53.280><c> back</c><00:00:53.520><c> a</c><00:00:53.760><c> short</c><00:00:54.000><c> URL.</c><00:00:54.960><c> These</c><00:00:55.280><c> return</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+pass them back a short URL. These return
+ 
+
+00:00:55.680 --> 00:00:57.430 align:start position:0%
+pass them back a short URL. These return
+short<00:00:55.920><c> URLs</c><00:00:56.399><c> can</c><00:00:56.559><c> be</c><00:00:56.719><c> configured</c><00:00:57.039><c> with</c><00:00:57.280><c> an</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+short URLs can be configured with an
+ 
+
+00:00:57.440 --> 00:00:59.670 align:start position:0%
+short URLs can be configured with an
+expiration<00:00:58.000><c> time</c><00:00:58.719><c> after</c><00:00:58.960><c> which</c><00:00:59.280><c> point</c><00:00:59.440><c> they</c>
+
+00:00:59.670 --> 00:00:59.680 align:start position:0%
+expiration time after which point they
+ 
+
+00:00:59.680 --> 00:01:02.229 align:start position:0%
+expiration time after which point they
+can<00:00:59.840><c> be</c><00:00:59.920><c> reused</c><00:01:00.399><c> with</c><00:01:00.559><c> another</c><00:01:00.879><c> long</c><00:01:01.199><c> URL.</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+can be reused with another long URL.
+ 
+
+00:01:02.239 --> 00:01:04.469 align:start position:0%
+can be reused with another long URL.
+Next,<00:01:02.800><c> if</c><00:01:03.039><c> another</c><00:01:03.440><c> client</c><00:01:03.840><c> provides</c><00:01:04.159><c> us</c><00:01:04.320><c> with</c>
+
+00:01:04.469 --> 00:01:04.479 align:start position:0%
+Next, if another client provides us with
+ 
+
+00:01:04.479 --> 00:01:06.789 align:start position:0%
+Next, if another client provides us with
+a<00:01:04.640><c> given</c><00:01:04.879><c> short</c><00:01:05.199><c> URL,</c><00:01:05.840><c> we</c><00:01:06.080><c> need</c><00:01:06.240><c> to</c><00:01:06.400><c> be</c><00:01:06.479><c> able</c><00:01:06.640><c> to</c>
+
+00:01:06.789 --> 00:01:06.799 align:start position:0%
+a given short URL, we need to be able to
+ 
+
+00:01:06.799 --> 00:01:08.950 align:start position:0%
+a given short URL, we need to be able to
+redirect<00:01:07.280><c> them</c><00:01:07.520><c> to</c><00:01:07.680><c> the</c><00:01:07.840><c> original</c><00:01:08.159><c> longer</c><00:01:08.560><c> URL</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+redirect them to the original longer URL
+ 
+
+00:01:08.960 --> 00:01:11.670 align:start position:0%
+redirect them to the original longer URL
+that<00:01:09.119><c> it</c><00:01:09.280><c> maps</c><00:01:09.520><c> to.</c><00:01:10.320><c> Notably,</c><00:01:11.119><c> we</c><00:01:11.280><c> will</c><00:01:11.439><c> not</c>
+
+00:01:11.670 --> 00:01:11.680 align:start position:0%
+that it maps to. Notably, we will not
+ 
+
+00:01:11.680 --> 00:01:13.270 align:start position:0%
+that it maps to. Notably, we will not
+cover<00:01:11.920><c> a</c><00:01:12.159><c> couple</c><00:01:12.240><c> of</c><00:01:12.479><c> other</c><00:01:12.640><c> problems</c><00:01:13.119><c> which</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+cover a couple of other problems which
+ 
+
+00:01:13.280 --> 00:01:15.429 align:start position:0%
+cover a couple of other problems which
+we<00:01:13.520><c> will</c><00:01:13.600><c> leave</c><00:01:13.760><c> for</c><00:01:14.000><c> subsequent</c><00:01:14.479><c> videos.</c><00:01:15.200><c> The</c>
+
+00:01:15.429 --> 00:01:15.439 align:start position:0%
+we will leave for subsequent videos. The
+ 
+
+00:01:15.439 --> 00:01:17.109 align:start position:0%
+we will leave for subsequent videos. The
+first<00:01:15.600><c> is</c><00:01:15.840><c> going</c><00:01:16.000><c> to</c><00:01:16.080><c> be</c><00:01:16.240><c> the</c><00:01:16.400><c> paste</c><00:01:16.720><c> bin</c><00:01:16.960><c> type</c>
+
+00:01:17.109 --> 00:01:17.119 align:start position:0%
+first is going to be the paste bin type
+ 
+
+00:01:17.119 --> 00:01:19.190 align:start position:0%
+first is going to be the paste bin type
+of<00:01:17.280><c> functionality</c><00:01:18.080><c> in</c><00:01:18.240><c> which</c><00:01:18.400><c> we</c><00:01:18.640><c> allow</c><00:01:18.880><c> users</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+of functionality in which we allow users
+ 
+
+00:01:19.200 --> 00:01:21.670 align:start position:0%
+of functionality in which we allow users
+to<00:01:19.439><c> provide</c><00:01:19.759><c> long</c><00:01:20.080><c> text</c><00:01:20.400><c> content</c><00:01:20.720><c> to</c><00:01:20.960><c> store</c><00:01:21.439><c> as</c>
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+to provide long text content to store as
+ 
+
+00:01:21.680 --> 00:01:24.310 align:start position:0%
+to provide long text content to store as
+opposed<00:01:22.000><c> to</c><00:01:22.159><c> URLs.</c><00:01:23.200><c> The</c><00:01:23.439><c> latter</c><00:01:23.759><c> is</c><00:01:24.000><c> actually</c>
+
+00:01:24.310 --> 00:01:24.320 align:start position:0%
+opposed to URLs. The latter is actually
+ 
+
+00:01:24.320 --> 00:01:25.910 align:start position:0%
+opposed to URLs. The latter is actually
+counting<00:01:24.720><c> how</c><00:01:24.960><c> many</c><00:01:25.119><c> times</c><00:01:25.360><c> that</c><00:01:25.520><c> a</c><00:01:25.680><c> given</c>
+
+00:01:25.910 --> 00:01:25.920 align:start position:0%
+counting how many times that a given
+ 
+
+00:01:25.920 --> 00:01:28.710 align:start position:0%
+counting how many times that a given
+short<00:01:26.159><c> URL</c><00:01:26.560><c> has</c><00:01:26.799><c> been</c><00:01:26.960><c> clicked.</c><00:01:28.000><c> Fortunately,</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+short URL has been clicked. Fortunately,
+ 
+
+00:01:28.720 --> 00:01:30.630 align:start position:0%
+short URL has been clicked. Fortunately,
+for<00:01:28.960><c> this</c><00:01:29.200><c> problem,</c><00:01:29.759><c> I've</c><00:01:30.000><c> been</c><00:01:30.159><c> able</c><00:01:30.320><c> to</c><00:01:30.479><c> find</c>
+
+00:01:30.630 --> 00:01:30.640 align:start position:0%
+for this problem, I've been able to find
+ 
+
+00:01:30.640 --> 00:01:32.630 align:start position:0%
+for this problem, I've been able to find
+some<00:01:30.880><c> accurate</c><00:01:31.280><c> usage</c><00:01:31.680><c> metrics</c><00:01:32.079><c> for</c><00:01:32.240><c> the</c><00:01:32.400><c> site</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+some accurate usage metrics for the site
+ 
+
+00:01:32.640 --> 00:01:36.069 align:start position:0%
+some accurate usage metrics for the site
+bit.<00:01:33.920><c> Wikipedia</c><00:01:34.560><c> and</c><00:01:34.720><c> their</c><00:01:34.880><c> official</c><00:01:35.280><c> blog.</c>
+
+00:01:36.069 --> 00:01:36.079 align:start position:0%
+bit. Wikipedia and their official blog.
+ 
+
+00:01:36.079 --> 00:01:38.550 align:start position:0%
+bit. Wikipedia and their official blog.
+In<00:01:36.320><c> their</c><00:01:36.560><c> case,</c><00:01:36.960><c> users</c><00:01:37.360><c> create</c><00:01:37.759><c> 600</c><00:01:38.159><c> million</c>
+
+00:01:38.550 --> 00:01:38.560 align:start position:0%
+In their case, users create 600 million
+ 
+
+00:01:38.560 --> 00:01:40.550 align:start position:0%
+In their case, users create 600 million
+short<00:01:38.799><c> URLs</c><00:01:39.280><c> per</c><00:01:39.520><c> month,</c><00:01:39.920><c> and</c><00:01:40.079><c> the</c><00:01:40.320><c> site</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+short URLs per month, and the site
+ 
+
+00:01:40.560 --> 00:01:42.469 align:start position:0%
+short URLs per month, and the site
+processes<00:01:41.119><c> 10</c><00:01:41.439><c> billion</c><00:01:41.759><c> clicks</c><00:01:42.079><c> of</c><00:01:42.240><c> their</c>
+
+00:01:42.469 --> 00:01:42.479 align:start position:0%
+processes 10 billion clicks of their
+ 
+
+00:01:42.479 --> 00:01:45.030 align:start position:0%
+processes 10 billion clicks of their
+short<00:01:42.640><c> URLs</c><00:01:43.119><c> per</c><00:01:43.360><c> month.</c><00:01:43.920><c> Converting</c><00:01:44.799><c> these</c>
+
+00:01:45.030 --> 00:01:45.040 align:start position:0%
+short URLs per month. Converting these
+ 
+
+00:01:45.040 --> 00:01:46.870 align:start position:0%
+short URLs per month. Converting these
+metrics<00:01:45.360><c> to</c><00:01:45.600><c> get</c><00:01:45.759><c> operation</c><00:01:46.240><c> counts</c><00:01:46.560><c> per</c>
+
+00:01:46.870 --> 00:01:46.880 align:start position:0%
+metrics to get operation counts per
+ 
+
+00:01:46.880 --> 00:01:49.350 align:start position:0%
+metrics to get operation counts per
+second,<00:01:47.439><c> this</c><00:01:47.680><c> means</c><00:01:47.840><c> that</c><00:01:48.000><c> we'd</c><00:01:48.240><c> have</c><00:01:48.479><c> 228</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+second, this means that we'd have 228
+ 
+
+00:01:49.360 --> 00:01:52.630 align:start position:0%
+second, this means that we'd have 228
+creations<00:01:49.759><c> per</c><00:01:50.000><c> second</c><00:01:50.560><c> with</c><00:01:50.960><c> 3,85</c>
+
+00:01:52.630 --> 00:01:52.640 align:start position:0%
+creations per second with 3,85
+ 
+
+00:01:52.640 --> 00:01:54.789 align:start position:0%
+creations per second with 3,85
+redirects<00:01:53.119><c> per</c><00:01:53.360><c> second.</c><00:01:54.000><c> We've</c><00:01:54.240><c> mentioned</c><00:01:54.560><c> so</c>
+
+00:01:54.789 --> 00:01:54.799 align:start position:0%
+redirects per second. We've mentioned so
+ 
+
+00:01:54.799 --> 00:01:56.310 align:start position:0%
+redirects per second. We've mentioned so
+far<00:01:54.960><c> that</c><00:01:55.200><c> we</c><00:01:55.360><c> want</c><00:01:55.520><c> to</c><00:01:55.680><c> be</c><00:01:55.759><c> able</c><00:01:55.920><c> to</c><00:01:56.079><c> support</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+far that we want to be able to support
+ 
+
+00:01:56.320 --> 00:01:58.870 align:start position:0%
+far that we want to be able to support
+the<00:01:56.560><c> creation</c><00:01:56.880><c> of</c><00:01:57.280><c> 600</c><00:01:57.759><c> million</c><00:01:58.079><c> short</c><00:01:58.399><c> URLs</c>
+
+00:01:58.870 --> 00:01:58.880 align:start position:0%
+the creation of 600 million short URLs
+ 
+
+00:01:58.880 --> 00:02:01.109 align:start position:0%
+the creation of 600 million short URLs
+per<00:01:59.119><c> month.</c><00:01:59.840><c> While</c><00:02:00.079><c> these</c><00:02:00.320><c> may</c><00:02:00.560><c> be</c><00:02:00.719><c> configured</c>
+
+00:02:01.109 --> 00:02:01.119 align:start position:0%
+per month. While these may be configured
+ 
+
+00:02:01.119 --> 00:02:03.190 align:start position:0%
+per month. While these may be configured
+with<00:02:01.360><c> expiration</c><00:02:01.920><c> dates,</c><00:02:02.479><c> let's</c><00:02:02.799><c> go</c><00:02:02.960><c> above</c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+with expiration dates, let's go above
+ 
+
+00:02:03.200 --> 00:02:05.109 align:start position:0%
+with expiration dates, let's go above
+and<00:02:03.439><c> beyond</c><00:02:03.759><c> and</c><00:02:04.000><c> make</c><00:02:04.159><c> sure</c><00:02:04.240><c> that</c><00:02:04.479><c> our</c><00:02:04.640><c> URLs</c>
+
+00:02:05.109 --> 00:02:05.119 align:start position:0%
+and beyond and make sure that our URLs
+ 
+
+00:02:05.119 --> 00:02:06.550 align:start position:0%
+and beyond and make sure that our URLs
+are<00:02:05.200><c> configured</c><00:02:05.520><c> in</c><00:02:05.680><c> a</c><00:02:05.840><c> way</c><00:02:06.000><c> such</c><00:02:06.159><c> that</c><00:02:06.320><c> we've</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+are configured in a way such that we've
+ 
+
+00:02:06.560 --> 00:02:08.229 align:start position:0%
+are configured in a way such that we've
+got<00:02:06.719><c> plenty</c><00:02:06.960><c> of</c><00:02:07.119><c> capacity</c><00:02:07.600><c> to</c><00:02:07.840><c> make</c><00:02:08.000><c> short</c>
+
+00:02:08.229 --> 00:02:08.239 align:start position:0%
+got plenty of capacity to make short
+ 
+
+00:02:08.239 --> 00:02:11.750 align:start position:0%
+got plenty of capacity to make short
+URLs.<00:02:09.599><c> 600</c><00:02:10.080><c> million</c><00:02:10.399><c> URLs</c><00:02:10.879><c> per</c><00:02:11.120><c> month</c><00:02:11.520><c> comes</c>
+
+00:02:11.750 --> 00:02:11.760 align:start position:0%
+URLs. 600 million URLs per month comes
+ 
+
+00:02:11.760 --> 00:02:14.390 align:start position:0%
+URLs. 600 million URLs per month comes
+out<00:02:11.920><c> to</c><00:02:12.239><c> 7.2</c><00:02:12.800><c> 2</c><00:02:13.040><c> billion</c><00:02:13.360><c> per</c><00:02:13.599><c> year,</c><00:02:14.160><c> meaning</c>
+
+00:02:14.390 --> 00:02:14.400 align:start position:0%
+out to 7.2 2 billion per year, meaning
+ 
+
+00:02:14.400 --> 00:02:16.550 align:start position:0%
+out to 7.2 2 billion per year, meaning
+that<00:02:14.640><c> over</c><00:02:14.879><c> a</c><00:02:15.040><c> 100</c><00:02:15.280><c> years,</c><00:02:15.680><c> we</c><00:02:15.920><c> might</c><00:02:16.160><c> store</c>
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+that over a 100 years, we might store
+ 
+
+00:02:16.560 --> 00:02:19.670 align:start position:0%
+that over a 100 years, we might store
+720<00:02:17.440><c> billion</c><00:02:17.840><c> unique</c><00:02:18.160><c> short</c><00:02:18.400><c> URLs,</c><00:02:19.280><c> assuming</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+720 billion unique short URLs, assuming
+ 
+
+00:02:19.680 --> 00:02:21.750 align:start position:0%
+720 billion unique short URLs, assuming
+no<00:02:19.920><c> purging</c><00:02:20.319><c> of</c><00:02:20.480><c> expired</c><00:02:20.959><c> URLs</c><00:02:21.360><c> from</c><00:02:21.520><c> our</c>
+
+00:02:21.750 --> 00:02:21.760 align:start position:0%
+no purging of expired URLs from our
+ 
+
+00:02:21.760 --> 00:02:24.390 align:start position:0%
+no purging of expired URLs from our
+storage.<00:02:22.800><c> If</c><00:02:22.959><c> we</c><00:02:23.120><c> configure</c><00:02:23.520><c> our</c><00:02:23.680><c> short</c><00:02:23.920><c> URLs</c>
+
+00:02:24.390 --> 00:02:24.400 align:start position:0%
+storage. If we configure our short URLs
+ 
+
+00:02:24.400 --> 00:02:27.270 align:start position:0%
+storage. If we configure our short URLs
+to<00:02:24.560><c> use</c><00:02:24.879><c> 8</c><00:02:25.120><c> characters</c><00:02:25.599><c> from</c><00:02:25.840><c> A</c><00:02:26.080><c> to</c><00:02:26.239><c> Z</c><00:02:26.480><c> and</c><00:02:26.720><c> 0</c><00:02:27.040><c> to</c>
+
+00:02:27.270 --> 00:02:27.280 align:start position:0%
+to use 8 characters from A to Z and 0 to
+ 
+
+00:02:27.280 --> 00:02:29.990 align:start position:0%
+to use 8 characters from A to Z and 0 to
+9,<00:02:27.840><c> that</c><00:02:28.080><c> leaves</c><00:02:28.319><c> us</c><00:02:28.560><c> with</c><00:02:28.800><c> 36</c><00:02:29.360><c> characters</c><00:02:29.840><c> to</c>
+
+00:02:29.990 --> 00:02:30.000 align:start position:0%
+9, that leaves us with 36 characters to
+ 
+
+00:02:30.000 --> 00:02:32.150 align:start position:0%
+9, that leaves us with 36 characters to
+the<00:02:30.160><c> power</c><00:02:30.319><c> of</c><00:02:30.560><c> 8,</c><00:02:31.120><c> which</c><00:02:31.360><c> is</c><00:02:31.520><c> almost</c><00:02:31.920><c> 3</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+the power of 8, which is almost 3
+ 
+
+00:02:32.160 --> 00:02:33.990 align:start position:0%
+the power of 8, which is almost 3
+trillion.<00:02:33.040><c> This</c><00:02:33.280><c> seems</c><00:02:33.599><c> more</c><00:02:33.760><c> than</c>
+
+00:02:33.990 --> 00:02:34.000 align:start position:0%
+trillion. This seems more than
+ 
+
+00:02:34.000 --> 00:02:36.390 align:start position:0%
+trillion. This seems more than
+sufficient<00:02:34.400><c> for</c><00:02:34.560><c> our</c><00:02:34.720><c> short</c><00:02:34.959><c> URL</c><00:02:35.440><c> suffixes.</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+sufficient for our short URL suffixes.
+ 
+
+00:02:36.400 --> 00:02:38.390 align:start position:0%
+sufficient for our short URL suffixes.
+At<00:02:36.640><c> a</c><00:02:36.800><c> high</c><00:02:36.959><c> level,</c><00:02:37.280><c> we</c><00:02:37.519><c> need</c><00:02:37.680><c> to</c><00:02:37.840><c> maintain</c><00:02:38.160><c> a</c>
+
+00:02:38.390 --> 00:02:38.400 align:start position:0%
+At a high level, we need to maintain a
+ 
+
+00:02:38.400 --> 00:02:41.030 align:start position:0%
+At a high level, we need to maintain a
+mapping<00:02:38.720><c> between</c><00:02:38.959><c> our</c><00:02:39.200><c> long</c><00:02:39.440><c> and</c><00:02:39.680><c> short</c><00:02:39.920><c> URLs.</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+mapping between our long and short URLs.
+ 
+
+00:02:41.040 --> 00:02:43.190 align:start position:0%
+mapping between our long and short URLs.
+This<00:02:41.280><c> mapping</c><00:02:41.680><c> gets</c><00:02:41.920><c> updated</c><00:02:42.319><c> over</c><00:02:42.640><c> time</c><00:02:42.879><c> as</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+This mapping gets updated over time as
+ 
+
+00:02:43.200 --> 00:02:45.670 align:start position:0%
+This mapping gets updated over time as
+users<00:02:43.519><c> create</c><00:02:43.840><c> new</c><00:02:44.080><c> URLs</c><00:02:44.720><c> and</c><00:02:45.040><c> queried</c><00:02:45.440><c> as</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+users create new URLs and queried as
+ 
+
+00:02:45.680 --> 00:02:47.670 align:start position:0%
+users create new URLs and queried as
+users<00:02:46.000><c> provide</c><00:02:46.239><c> a</c><00:02:46.480><c> short</c><00:02:46.640><c> URL</c><00:02:47.120><c> to</c><00:02:47.360><c> figure</c><00:02:47.519><c> out</c>
+
+00:02:47.670 --> 00:02:47.680 align:start position:0%
+users provide a short URL to figure out
+ 
+
+00:02:47.680 --> 00:02:50.390 align:start position:0%
+users provide a short URL to figure out
+the<00:02:47.920><c> associated</c><00:02:48.480><c> longer</c><00:02:48.800><c> one.</c><00:02:49.920><c> While</c><00:02:50.160><c> we</c>
+
+00:02:50.390 --> 00:02:50.400 align:start position:0%
+the associated longer one. While we
+ 
+
+00:02:50.400 --> 00:02:51.670 align:start position:0%
+the associated longer one. While we
+could<00:02:50.560><c> keep</c><00:02:50.720><c> a</c><00:02:50.959><c> mapping</c><00:02:51.280><c> like</c><00:02:51.440><c> this</c>
+
+00:02:51.670 --> 00:02:51.680 align:start position:0%
+could keep a mapping like this
+ 
+
+00:02:51.680 --> 00:02:53.670 align:start position:0%
+could keep a mapping like this
+completely<00:02:52.080><c> in</c><00:02:52.319><c> memory</c><00:02:52.560><c> with</c><00:02:52.720><c> a</c><00:02:52.879><c> hashmap,</c>
+
+00:02:53.670 --> 00:02:53.680 align:start position:0%
+completely in memory with a hashmap,
+ 
+
+00:02:53.680 --> 00:02:55.190 align:start position:0%
+completely in memory with a hashmap,
+that<00:02:53.920><c> would</c><00:02:54.080><c> mean</c><00:02:54.239><c> that</c><00:02:54.400><c> the</c><00:02:54.560><c> data</c><00:02:54.879><c> wouldn't</c>
+
+00:02:55.190 --> 00:02:55.200 align:start position:0%
+that would mean that the data wouldn't
+ 
+
+00:02:55.200 --> 00:02:56.790 align:start position:0%
+that would mean that the data wouldn't
+be<00:02:55.280><c> very</c><00:02:55.599><c> durable</c><00:02:56.080><c> in</c><00:02:56.319><c> the</c><00:02:56.400><c> event</c><00:02:56.640><c> of</c>
+
+00:02:56.790 --> 00:02:56.800 align:start position:0%
+be very durable in the event of
+ 
+
+00:02:56.800 --> 00:02:59.270 align:start position:0%
+be very durable in the event of
+component<00:02:57.280><c> failures</c><00:02:57.680><c> or</c><00:02:57.920><c> restarts,</c><00:02:58.959><c> given</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+component failures or restarts, given
+ 
+
+00:02:59.280 --> 00:03:00.949 align:start position:0%
+component failures or restarts, given
+we're<00:02:59.599><c> only</c><00:02:59.840><c> handling</c><00:03:00.160><c> a</c><00:03:00.400><c> few</c><00:03:00.480><c> thousand</c>
+
+00:03:00.949 --> 00:03:00.959 align:start position:0%
+we're only handling a few thousand
+ 
+
+00:03:00.959 --> 00:03:03.030 align:start position:0%
+we're only handling a few thousand
+operations<00:03:01.440><c> per</c><00:03:01.680><c> second</c><00:03:02.000><c> here.</c><00:03:02.560><c> Using</c><00:03:02.800><c> a</c>
+
+00:03:03.030 --> 00:03:03.040 align:start position:0%
+operations per second here. Using a
+ 
+
+00:03:03.040 --> 00:03:04.550 align:start position:0%
+operations per second here. Using a
+database<00:03:03.440><c> in</c><00:03:03.599><c> order</c><00:03:03.760><c> to</c><00:03:04.000><c> maintain</c><00:03:04.319><c> this</c>
+
+00:03:04.550 --> 00:03:04.560 align:start position:0%
+database in order to maintain this
+ 
+
+00:03:04.560 --> 00:03:07.190 align:start position:0%
+database in order to maintain this
+mapping<00:03:04.959><c> seems</c><00:03:05.280><c> like</c><00:03:05.440><c> a</c><00:03:05.599><c> natural</c><00:03:05.920><c> choice.</c>
+
+00:03:07.190 --> 00:03:07.200 align:start position:0%
+mapping seems like a natural choice.
+ 
+
+00:03:07.200 --> 00:03:09.190 align:start position:0%
+mapping seems like a natural choice.
+Let's<00:03:07.519><c> think</c><00:03:07.680><c> about</c><00:03:07.840><c> an</c><00:03:08.080><c> example</c><00:03:08.400><c> schema</c><00:03:08.800><c> here</c>
+
+00:03:09.190 --> 00:03:09.200 align:start position:0%
+Let's think about an example schema here
+ 
+
+00:03:09.200 --> 00:03:10.710 align:start position:0%
+Let's think about an example schema here
+since<00:03:09.519><c> we'll</c><00:03:09.680><c> need</c><00:03:09.840><c> this</c><00:03:10.000><c> in</c><00:03:10.159><c> the</c><00:03:10.319><c> following</c>
+
+00:03:10.710 --> 00:03:10.720 align:start position:0%
+since we'll need this in the following
+ 
+
+00:03:10.720 --> 00:03:12.390 align:start position:0%
+since we'll need this in the following
+section<00:03:11.040><c> for</c><00:03:11.280><c> some</c><00:03:11.440><c> back</c><00:03:11.599><c> of</c><00:03:11.760><c> the</c><00:03:11.920><c> envelope</c>
+
+00:03:12.390 --> 00:03:12.400 align:start position:0%
+section for some back of the envelope
+ 
+
+00:03:12.400 --> 00:03:15.110 align:start position:0%
+section for some back of the envelope
+capacity<00:03:12.879><c> estimates</c><00:03:13.840><c> in</c><00:03:14.080><c> our</c><00:03:14.319><c> schema.</c><00:03:14.879><c> We'll</c>
+
+00:03:15.110 --> 00:03:15.120 align:start position:0%
+capacity estimates in our schema. We'll
+ 
+
+00:03:15.120 --> 00:03:17.430 align:start position:0%
+capacity estimates in our schema. We'll
+need<00:03:15.280><c> the</c><00:03:15.519><c> following</c><00:03:15.920><c> fields.</c><00:03:16.720><c> The</c><00:03:16.959><c> suffix</c><00:03:17.280><c> of</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+need the following fields. The suffix of
+ 
+
+00:03:17.440 --> 00:03:20.710 align:start position:0%
+need the following fields. The suffix of
+the<00:03:17.599><c> short</c><00:03:17.840><c> URL,</c><00:03:18.560><c> the</c><00:03:18.879><c> entire</c><00:03:19.280><c> long</c><00:03:19.519><c> URL,</c><00:03:20.400><c> some</c>
+
+00:03:20.710 --> 00:03:20.720 align:start position:0%
+the short URL, the entire long URL, some
+ 
+
+00:03:20.720 --> 00:03:23.030 align:start position:0%
+the short URL, the entire long URL, some
+sort<00:03:20.959><c> of</c><00:03:21.120><c> user</c><00:03:21.519><c> ID</c><00:03:21.760><c> field</c><00:03:22.080><c> for</c><00:03:22.239><c> the</c><00:03:22.400><c> creator</c>
+
+00:03:23.030 --> 00:03:23.040 align:start position:0%
+sort of user ID field for the creator
+ 
+
+00:03:23.040 --> 00:03:25.509 align:start position:0%
+sort of user ID field for the creator
+and<00:03:23.280><c> an</c><00:03:23.440><c> expiry</c><00:03:23.920><c> time</c><00:03:24.560><c> using</c><00:03:24.879><c> millie</c><00:03:25.280><c> since</c>
+
+00:03:25.509 --> 00:03:25.519 align:start position:0%
+and an expiry time using millie since
+ 
+
+00:03:25.519 --> 00:03:27.750 align:start position:0%
+and an expiry time using millie since
+epoch<00:03:26.000><c> should</c><00:03:26.159><c> suffice</c><00:03:26.560><c> here.</c><00:03:27.440><c> If</c><00:03:27.599><c> we</c>
+
+00:03:27.750 --> 00:03:27.760 align:start position:0%
+epoch should suffice here. If we
+ 
+
+00:03:27.760 --> 00:03:29.990 align:start position:0%
+epoch should suffice here. If we
+estimate<00:03:28.159><c> that</c><00:03:28.319><c> a</c><00:03:28.480><c> long</c><00:03:28.720><c> URL</c><00:03:29.200><c> is</c><00:03:29.440><c> on</c><00:03:29.599><c> average</c>
+
+00:03:29.990 --> 00:03:30.000 align:start position:0%
+estimate that a long URL is on average
+ 
+
+00:03:30.000 --> 00:03:32.149 align:start position:0%
+estimate that a long URL is on average
+50<00:03:30.319><c> characters,</c><00:03:31.040><c> we</c><00:03:31.280><c> can</c><00:03:31.360><c> say</c><00:03:31.519><c> that</c><00:03:31.680><c> it</c><00:03:31.920><c> takes</c>
+
+00:03:32.149 --> 00:03:32.159 align:start position:0%
+50 characters, we can say that it takes
+ 
+
+00:03:32.159 --> 00:03:34.949 align:start position:0%
+50 characters, we can say that it takes
+74<00:03:32.720><c> bytes</c><00:03:33.040><c> per</c><00:03:33.360><c> row</c><00:03:33.440><c> of</c><00:03:33.599><c> data.</c><00:03:34.239><c> The</c><00:03:34.560><c> breakdown</c>
+
+00:03:34.949 --> 00:03:34.959 align:start position:0%
+74 bytes per row of data. The breakdown
+ 
+
+00:03:34.959 --> 00:03:36.869 align:start position:0%
+74 bytes per row of data. The breakdown
+here<00:03:35.120><c> is</c><00:03:35.280><c> a</c><00:03:35.440><c> bite</c><00:03:35.680><c> per</c><00:03:35.920><c> character,</c><00:03:36.640><c> eight</c>
+
+00:03:36.869 --> 00:03:36.879 align:start position:0%
+here is a bite per character, eight
+ 
+
+00:03:36.879 --> 00:03:39.110 align:start position:0%
+here is a bite per character, eight
+characters<00:03:37.280><c> in</c><00:03:37.440><c> the</c><00:03:37.599><c> short</c><00:03:37.760><c> URL,</c><00:03:38.480><c> 50</c><00:03:38.799><c> in</c><00:03:38.959><c> the</c>
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+characters in the short URL, 50 in the
+ 
+
+00:03:39.120 --> 00:03:41.030 align:start position:0%
+characters in the short URL, 50 in the
+long<00:03:39.280><c> one,</c><00:03:39.680><c> and</c><00:03:39.920><c> eight</c><00:03:40.159><c> bytes</c><00:03:40.480><c> for</c><00:03:40.640><c> the</c><00:03:40.720><c> user</c>
+
+00:03:41.030 --> 00:03:41.040 align:start position:0%
+long one, and eight bytes for the user
+ 
+
+00:03:41.040 --> 00:03:43.910 align:start position:0%
+long one, and eight bytes for the user
+ID<00:03:41.280><c> and</c><00:03:41.519><c> the</c><00:03:41.599><c> expiry</c><00:03:42.080><c> time.</c><00:03:42.799><c> Using</c><00:03:43.120><c> our</c><00:03:43.360><c> 74</c>
+
+00:03:43.910 --> 00:03:43.920 align:start position:0%
+ID and the expiry time. Using our 74
+ 
+
+00:03:43.920 --> 00:03:45.750 align:start position:0%
+ID and the expiry time. Using our 74
+bytes<00:03:44.239><c> per</c><00:03:44.560><c> row</c><00:03:44.640><c> estimate</c><00:03:45.120><c> in</c><00:03:45.360><c> conjunction</c>
+
+00:03:45.750 --> 00:03:45.760 align:start position:0%
+bytes per row estimate in conjunction
+ 
+
+00:03:45.760 --> 00:03:48.869 align:start position:0%
+bytes per row estimate in conjunction
+with<00:03:45.920><c> our</c><00:03:46.159><c> maximum</c><00:03:46.720><c> 720</c><00:03:47.599><c> billion</c><00:03:48.159><c> rows,</c><00:03:48.640><c> we</c>
+
+00:03:48.869 --> 00:03:48.879 align:start position:0%
+with our maximum 720 billion rows, we
+ 
+
+00:03:48.879 --> 00:03:51.270 align:start position:0%
+with our maximum 720 billion rows, we
+can<00:03:49.040><c> see</c><00:03:49.120><c> that</c><00:03:49.360><c> at</c><00:03:49.599><c> most</c><00:03:49.920><c> we'd</c><00:03:50.159><c> be</c><00:03:50.319><c> storing</c><00:03:50.720><c> 48</c>
+
+00:03:51.270 --> 00:03:51.280 align:start position:0%
+can see that at most we'd be storing 48
+ 
+
+00:03:51.280 --> 00:03:53.830 align:start position:0%
+can see that at most we'd be storing 48
+tab<00:03:51.840><c> of</c><00:03:52.000><c> data.</c><00:03:52.799><c> The</c><00:03:53.040><c> actual</c><00:03:53.360><c> volume</c><00:03:53.680><c> of</c>
+
+00:03:53.830 --> 00:03:53.840 align:start position:0%
+tab of data. The actual volume of
+ 
+
+00:03:53.840 --> 00:03:55.430 align:start position:0%
+tab of data. The actual volume of
+requests<00:03:54.239><c> that</c><00:03:54.400><c> we're</c><00:03:54.560><c> handling</c><00:03:54.879><c> here</c><00:03:55.040><c> is</c><00:03:55.280><c> not</c>
+
+00:03:55.430 --> 00:03:55.440 align:start position:0%
+requests that we're handling here is not
+ 
+
+00:03:55.440 --> 00:03:57.910 align:start position:0%
+requests that we're handling here is not
+super<00:03:55.760><c> large.</c><00:03:56.480><c> Databases</c><00:03:57.120><c> can</c><00:03:57.280><c> often</c><00:03:57.599><c> handle</c>
+
+00:03:57.910 --> 00:03:57.920 align:start position:0%
+super large. Databases can often handle
+ 
+
+00:03:57.920 --> 00:03:59.830 align:start position:0%
+super large. Databases can often handle
+multiple<00:03:58.319><c> thousands</c><00:03:58.640><c> of</c><00:03:58.720><c> reads</c><00:03:59.040><c> per</c><00:03:59.200><c> second,</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+multiple thousands of reads per second,
+ 
+
+00:03:59.840 --> 00:04:01.670 align:start position:0%
+multiple thousands of reads per second,
+especially<00:04:00.159><c> if</c><00:04:00.319><c> they're</c><00:04:00.640><c> fairly</c><00:04:00.959><c> simple,</c><00:04:01.439><c> as</c>
+
+00:04:01.670 --> 00:04:01.680 align:start position:0%
+especially if they're fairly simple, as
+ 
+
+00:04:01.680 --> 00:04:03.509 align:start position:0%
+especially if they're fairly simple, as
+they<00:04:01.840><c> are</c><00:04:02.080><c> in</c><00:04:02.239><c> this</c><00:04:02.400><c> case.</c><00:04:03.040><c> the</c><00:04:03.280><c> right</c>
+
+00:04:03.509 --> 00:04:03.519 align:start position:0%
+they are in this case. the right
+ 
+
+00:04:03.519 --> 00:04:05.350 align:start position:0%
+they are in this case. the right
+operations<00:04:04.000><c> become</c><00:04:04.319><c> a</c><00:04:04.480><c> bit</c><00:04:04.640><c> less</c><00:04:04.879><c> clear</c><00:04:05.120><c> and</c>
+
+00:04:05.350 --> 00:04:05.360 align:start position:0%
+operations become a bit less clear and
+ 
+
+00:04:05.360 --> 00:04:06.949 align:start position:0%
+operations become a bit less clear and
+we'll<00:04:05.599><c> cover</c><00:04:05.760><c> them</c><00:04:05.840><c> in</c><00:04:06.080><c> more</c><00:04:06.239><c> depth</c><00:04:06.480><c> later</c><00:04:06.720><c> in</c>
+
+00:04:06.949 --> 00:04:06.959 align:start position:0%
+we'll cover them in more depth later in
+ 
+
+00:04:06.959 --> 00:04:09.350 align:start position:0%
+we'll cover them in more depth later in
+this<00:04:07.120><c> video.</c><00:04:08.080><c> Is</c><00:04:08.239><c> it</c><00:04:08.480><c> possible</c><00:04:08.720><c> to</c><00:04:08.959><c> handle</c><00:04:09.200><c> all</c>
+
+00:04:09.350 --> 00:04:09.360 align:start position:0%
+this video. Is it possible to handle all
+ 
+
+00:04:09.360 --> 00:04:11.110 align:start position:0%
+this video. Is it possible to handle all
+of<00:04:09.519><c> these</c><00:04:09.760><c> operations</c><00:04:10.159><c> on</c><00:04:10.319><c> a</c><00:04:10.480><c> single</c><00:04:10.720><c> beefy</c>
+
+00:04:11.110 --> 00:04:11.120 align:start position:0%
+of these operations on a single beefy
+ 
+
+00:04:11.120 --> 00:04:14.070 align:start position:0%
+of these operations on a single beefy
+machine?<00:04:11.920><c> Honestly,</c><00:04:12.640><c> maybe.</c><00:04:13.519><c> That</c><00:04:13.760><c> being</c>
+
+00:04:14.070 --> 00:04:14.080 align:start position:0%
+machine? Honestly, maybe. That being
+ 
+
+00:04:14.080 --> 00:04:15.830 align:start position:0%
+machine? Honestly, maybe. That being
+said,<00:04:14.400><c> we'll</c><00:04:14.640><c> discuss</c><00:04:14.959><c> scaling</c><00:04:15.360><c> this</c><00:04:15.599><c> problem</c>
+
+00:04:15.830 --> 00:04:15.840 align:start position:0%
+said, we'll discuss scaling this problem
+ 
+
+00:04:15.840 --> 00:04:17.509 align:start position:0%
+said, we'll discuss scaling this problem
+out<00:04:16.000><c> a</c><00:04:16.239><c> bit</c><00:04:16.479><c> because</c><00:04:16.720><c> we'd</c><00:04:17.040><c> certainly</c><00:04:17.359><c> be</c>
+
+00:04:17.509 --> 00:04:17.519 align:start position:0%
+out a bit because we'd certainly be
+ 
+
+00:04:17.519 --> 00:04:19.670 align:start position:0%
+out a bit because we'd certainly be
+pushing<00:04:17.759><c> the</c><00:04:18.000><c> limits</c><00:04:18.239><c> here.</c><00:04:18.959><c> If</c><00:04:19.120><c> we</c><00:04:19.280><c> wanted</c><00:04:19.519><c> to</c>
+
+00:04:19.670 --> 00:04:19.680 align:start position:0%
+pushing the limits here. If we wanted to
+ 
+
+00:04:19.680 --> 00:04:21.830 align:start position:0%
+pushing the limits here. If we wanted to
+use<00:04:19.919><c> more</c><00:04:20.160><c> commodity</c><00:04:20.720><c> hardware,</c><00:04:21.359><c> it</c><00:04:21.600><c> feels</c>
+
+00:04:21.830 --> 00:04:21.840 align:start position:0%
+use more commodity hardware, it feels
+ 
+
+00:04:21.840 --> 00:04:23.510 align:start position:0%
+use more commodity hardware, it feels
+like<00:04:21.919><c> a</c><00:04:22.160><c> singledigit</c><00:04:22.720><c> number</c><00:04:22.960><c> of</c><00:04:23.120><c> database</c>
+
+00:04:23.510 --> 00:04:23.520 align:start position:0%
+like a singledigit number of database
+ 
+
+00:04:23.520 --> 00:04:25.749 align:start position:0%
+like a singledigit number of database
+nodes<00:04:23.919><c> should</c><00:04:24.160><c> be</c><00:04:24.320><c> able</c><00:04:24.479><c> to</c><00:04:24.560><c> do</c><00:04:24.720><c> the</c><00:04:24.880><c> trick.</c>
+
+00:04:25.749 --> 00:04:25.759 align:start position:0%
+nodes should be able to do the trick.
+ 
+
+00:04:25.759 --> 00:04:28.230 align:start position:0%
+nodes should be able to do the trick.
+Now,<00:04:26.080><c> let's</c><00:04:26.400><c> take</c><00:04:26.560><c> a</c><00:04:26.720><c> look</c><00:04:26.880><c> into</c><00:04:27.120><c> our</c><00:04:27.440><c> design.</c>
+
+00:04:28.230 --> 00:04:28.240 align:start position:0%
+Now, let's take a look into our design.
+ 
+
+00:04:28.240 --> 00:04:29.590 align:start position:0%
+Now, let's take a look into our design.
+You<00:04:28.479><c> can</c><00:04:28.560><c> see</c><00:04:28.639><c> that</c><00:04:28.880><c> we've</c><00:04:29.120><c> got</c><00:04:29.199><c> a</c><00:04:29.440><c> few</c>
+
+00:04:29.590 --> 00:04:29.600 align:start position:0%
+You can see that we've got a few
+ 
+
+00:04:29.600 --> 00:04:31.670 align:start position:0%
+You can see that we've got a few
+different<00:04:29.840><c> components</c><00:04:30.320><c> here.</c><00:04:31.120><c> First,</c><00:04:31.520><c> we</c>
+
+00:04:31.670 --> 00:04:31.680 align:start position:0%
+different components here. First, we
+ 
+
+00:04:31.680 --> 00:04:33.430 align:start position:0%
+different components here. First, we
+have<00:04:31.840><c> a</c><00:04:32.000><c> few</c><00:04:32.160><c> application</c><00:04:32.720><c> servers</c><00:04:33.199><c> sitting</c>
+
+00:04:33.430 --> 00:04:33.440 align:start position:0%
+have a few application servers sitting
+ 
+
+00:04:33.440 --> 00:04:35.189 align:start position:0%
+have a few application servers sitting
+behind<00:04:33.680><c> a</c><00:04:33.840><c> load</c><00:04:34.080><c> balancer</c><00:04:34.800><c> which</c><00:04:35.040><c> can</c>
+
+00:04:35.189 --> 00:04:35.199 align:start position:0%
+behind a load balancer which can
+ 
+
+00:04:35.199 --> 00:04:37.909 align:start position:0%
+behind a load balancer which can
+roundroin<00:04:36.000><c> requests</c><00:04:36.320><c> to</c><00:04:36.479><c> them.</c><00:04:37.199><c> Next,</c><00:04:37.600><c> we've</c>
+
+00:04:37.909 --> 00:04:37.919 align:start position:0%
+roundroin requests to them. Next, we've
+ 
+
+00:04:37.919 --> 00:04:39.510 align:start position:0%
+roundroin requests to them. Next, we've
+got<00:04:38.000><c> our</c><00:04:38.240><c> distributed</c><00:04:38.720><c> database</c><00:04:39.280><c> which</c>
+
+00:04:39.510 --> 00:04:39.520 align:start position:0%
+got our distributed database which
+ 
+
+00:04:39.520 --> 00:04:41.189 align:start position:0%
+got our distributed database which
+contains<00:04:39.919><c> the</c><00:04:40.080><c> affformentioned</c><00:04:40.800><c> URL</c>
+
+00:04:41.189 --> 00:04:41.199 align:start position:0%
+contains the affformentioned URL
+ 
+
+00:04:41.199 --> 00:04:43.990 align:start position:0%
+contains the affformentioned URL
+mappings<00:04:41.600><c> table.</c><00:04:42.479><c> In</c><00:04:42.720><c> terms</c><00:04:42.960><c> of</c><00:04:43.120><c> APIs,</c><00:04:43.759><c> it's</c>
+
+00:04:43.990 --> 00:04:44.000 align:start position:0%
+mappings table. In terms of APIs, it's
+ 
+
+00:04:44.000 --> 00:04:46.390 align:start position:0%
+mappings table. In terms of APIs, it's
+pretty<00:04:44.240><c> simple.</c><00:04:44.880><c> When</c><00:04:45.120><c> creating</c><00:04:45.440><c> a</c><00:04:45.600><c> URL,</c><00:04:46.160><c> we</c>
+
+00:04:46.390 --> 00:04:46.400 align:start position:0%
+pretty simple. When creating a URL, we
+ 
+
+00:04:46.400 --> 00:04:48.710 align:start position:0%
+pretty simple. When creating a URL, we
+go<00:04:46.560><c> to</c><00:04:46.639><c> the</c><00:04:46.880><c> table</c><00:04:47.120><c> and</c><00:04:47.360><c> add</c><00:04:47.600><c> an</c><00:04:47.759><c> entry.</c><00:04:48.479><c> When</c>
+
+00:04:48.710 --> 00:04:48.720 align:start position:0%
+go to the table and add an entry. When
+ 
+
+00:04:48.720 --> 00:04:50.469 align:start position:0%
+go to the table and add an entry. When
+we're<00:04:48.880><c> looking</c><00:04:49.040><c> to</c><00:04:49.199><c> be</c><00:04:49.360><c> directed,</c><00:04:50.000><c> we</c><00:04:50.240><c> simply</c>
+
+00:04:50.469 --> 00:04:50.479 align:start position:0%
+we're looking to be directed, we simply
+ 
+
+00:04:50.479 --> 00:04:52.230 align:start position:0%
+we're looking to be directed, we simply
+find<00:04:50.720><c> the</c><00:04:50.960><c> corresponding</c><00:04:51.520><c> entry</c><00:04:51.840><c> for</c><00:04:52.000><c> our</c>
+
+00:04:52.230 --> 00:04:52.240 align:start position:0%
+find the corresponding entry for our
+ 
+
+00:04:52.240 --> 00:04:55.189 align:start position:0%
+find the corresponding entry for our
+short<00:04:52.479><c> URL</c><00:04:53.120><c> and</c><00:04:53.360><c> issue</c><00:04:53.600><c> an</c><00:04:53.840><c> HTTP</c><00:04:54.479><c> redirect</c><00:04:54.960><c> to</c>
+
+00:04:55.189 --> 00:04:55.199 align:start position:0%
+short URL and issue an HTTP redirect to
+ 
+
+00:04:55.199 --> 00:04:57.749 align:start position:0%
+short URL and issue an HTTP redirect to
+send<00:04:55.440><c> the</c><00:04:55.600><c> user</c><00:04:55.840><c> to</c><00:04:55.919><c> the</c><00:04:56.080><c> long</c><00:04:56.320><c> URL.</c><00:04:57.280><c> Note</c><00:04:57.600><c> that</c>
+
+00:04:57.749 --> 00:04:57.759 align:start position:0%
+send the user to the long URL. Note that
+ 
+
+00:04:57.759 --> 00:04:59.590 align:start position:0%
+send the user to the long URL. Note that
+read<00:04:58.080><c> operations</c><00:04:58.560><c> on</c><00:04:58.720><c> these</c><00:04:58.960><c> tables</c><00:04:59.199><c> are</c><00:04:59.360><c> an</c>
+
+00:04:59.590 --> 00:04:59.600 align:start position:0%
+read operations on these tables are an
+ 
+
+00:04:59.600 --> 00:05:01.189 align:start position:0%
+read operations on these tables are an
+order<00:04:59.759><c> of</c><00:04:59.919><c> magnitude</c><00:05:00.479><c> more</c><00:05:00.720><c> common</c><00:05:00.960><c> than</c>
+
+00:05:01.189 --> 00:05:01.199 align:start position:0%
+order of magnitude more common than
+ 
+
+00:05:01.199 --> 00:05:03.189 align:start position:0%
+order of magnitude more common than
+writes<00:05:01.759><c> based</c><00:05:02.000><c> on</c><00:05:02.160><c> the</c><00:05:02.320><c> calculations</c><00:05:02.800><c> that</c><00:05:03.040><c> we</c>
+
+00:05:03.189 --> 00:05:03.199 align:start position:0%
+writes based on the calculations that we
+ 
+
+00:05:03.199 --> 00:05:05.430 align:start position:0%
+writes based on the calculations that we
+did<00:05:03.360><c> before.</c><00:05:04.160><c> Hence,</c><00:05:04.479><c> we</c><00:05:04.720><c> want</c><00:05:04.880><c> to</c><00:05:05.040><c> optimize</c>
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+did before. Hence, we want to optimize
+ 
+
+00:05:05.440 --> 00:05:07.670 align:start position:0%
+did before. Hence, we want to optimize
+for<00:05:05.680><c> those.</c><00:05:06.479><c> Finally,</c><00:05:07.039><c> we've</c><00:05:07.280><c> got</c><00:05:07.360><c> a</c><00:05:07.520><c> look</c>
+
+00:05:07.670 --> 00:05:07.680 align:start position:0%
+for those. Finally, we've got a look
+ 
+
+00:05:07.680 --> 00:05:09.830 align:start position:0%
+for those. Finally, we've got a look
+aside<00:05:08.080><c> caching</c><00:05:08.639><c> layer</c><00:05:08.800><c> here</c><00:05:09.280><c> which</c><00:05:09.520><c> enables</c>
+
+00:05:09.830 --> 00:05:09.840 align:start position:0%
+aside caching layer here which enables
+ 
+
+00:05:09.840 --> 00:05:11.670 align:start position:0%
+aside caching layer here which enables
+us<00:05:10.000><c> to</c><00:05:10.160><c> avoid</c><00:05:10.560><c> hotspots</c><00:05:11.120><c> across</c><00:05:11.440><c> our</c>
+
+00:05:11.670 --> 00:05:11.680 align:start position:0%
+us to avoid hotspots across our
+ 
+
+00:05:11.680 --> 00:05:13.510 align:start position:0%
+us to avoid hotspots across our
+different<00:05:11.840><c> Postgress</c><00:05:12.400><c> instances</c><00:05:13.199><c> by</c>
+
+00:05:13.510 --> 00:05:13.520 align:start position:0%
+different Postgress instances by
+ 
+
+00:05:13.520 --> 00:05:15.189 align:start position:0%
+different Postgress instances by
+speeding<00:05:13.840><c> up</c><00:05:14.000><c> certain</c><00:05:14.320><c> reads</c><00:05:14.639><c> for</c><00:05:14.800><c> popular</c>
+
+00:05:15.189 --> 00:05:15.199 align:start position:0%
+speeding up certain reads for popular
+ 
+
+00:05:15.199 --> 00:05:17.670 align:start position:0%
+speeding up certain reads for popular
+short<00:05:15.440><c> URLs.</c><00:05:16.479><c> The</c><00:05:16.720><c> central</c><00:05:17.039><c> piece</c><00:05:17.280><c> of</c><00:05:17.440><c> our</c>
+
+00:05:17.670 --> 00:05:17.680 align:start position:0%
+short URLs. The central piece of our
+ 
+
+00:05:17.680 --> 00:05:19.270 align:start position:0%
+short URLs. The central piece of our
+problem<00:05:17.919><c> here</c><00:05:18.160><c> is</c><00:05:18.320><c> the</c><00:05:18.479><c> key</c><00:05:18.800><c> generation</c>
+
+00:05:19.270 --> 00:05:19.280 align:start position:0%
+problem here is the key generation
+ 
+
+00:05:19.280 --> 00:05:21.110 align:start position:0%
+problem here is the key generation
+service<00:05:20.000><c> which</c><00:05:20.240><c> is</c><00:05:20.400><c> responsible</c><00:05:20.880><c> for</c>
+
+00:05:21.110 --> 00:05:21.120 align:start position:0%
+service which is responsible for
+ 
+
+00:05:21.120 --> 00:05:22.950 align:start position:0%
+service which is responsible for
+maintaining<00:05:21.520><c> mappings</c><00:05:21.919><c> from</c><00:05:22.160><c> short</c><00:05:22.400><c> URL</c><00:05:22.800><c> to</c>
+
+00:05:22.950 --> 00:05:22.960 align:start position:0%
+maintaining mappings from short URL to
+ 
+
+00:05:22.960 --> 00:05:25.670 align:start position:0%
+maintaining mappings from short URL to
+long<00:05:23.199><c> URL.</c><00:05:24.080><c> For</c><00:05:24.320><c> now,</c><00:05:24.639><c> we've</c><00:05:24.880><c> opted</c><00:05:25.199><c> to</c><00:05:25.360><c> use</c><00:05:25.440><c> a</c>
+
+00:05:25.670 --> 00:05:25.680 align:start position:0%
+long URL. For now, we've opted to use a
+ 
+
+00:05:25.680 --> 00:05:27.510 align:start position:0%
+long URL. For now, we've opted to use a
+standard<00:05:26.000><c> Postgress</c><00:05:26.639><c> relational</c><00:05:27.120><c> database</c>
+
+00:05:27.510 --> 00:05:27.520 align:start position:0%
+standard Postgress relational database
+ 
+
+00:05:27.520 --> 00:05:29.510 align:start position:0%
+standard Postgress relational database
+here,<00:05:28.000><c> which</c><00:05:28.240><c> we'll</c><00:05:28.479><c> cover</c><00:05:28.720><c> more</c><00:05:28.880><c> in</c><00:05:29.120><c> depth</c><00:05:29.360><c> in</c>
+
+00:05:29.510 --> 00:05:29.520 align:start position:0%
+here, which we'll cover more in depth in
+ 
+
+00:05:29.520 --> 00:05:31.670 align:start position:0%
+here, which we'll cover more in depth in
+the<00:05:29.680><c> deep</c><00:05:29.919><c> dive</c><00:05:30.240><c> section</c><00:05:30.479><c> of</c><00:05:30.639><c> the</c><00:05:30.880><c> video.</c>
+
+00:05:31.670 --> 00:05:31.680 align:start position:0%
+the deep dive section of the video.
+ 
+
+00:05:31.680 --> 00:05:33.270 align:start position:0%
+the deep dive section of the video.
+Because<00:05:31.919><c> we</c><00:05:32.160><c> want</c><00:05:32.320><c> this</c><00:05:32.560><c> to</c><00:05:32.720><c> be</c><00:05:32.800><c> distributed</c>
+
+00:05:33.270 --> 00:05:33.280 align:start position:0%
+Because we want this to be distributed
+ 
+
+00:05:33.280 --> 00:05:35.590 align:start position:0%
+Because we want this to be distributed
+across<00:05:33.600><c> many</c><00:05:33.919><c> database</c><00:05:34.400><c> nodes,</c><00:05:34.960><c> we</c><00:05:35.199><c> can</c><00:05:35.280><c> do</c><00:05:35.440><c> so</c>
+
+00:05:35.590 --> 00:05:35.600 align:start position:0%
+across many database nodes, we can do so
+ 
+
+00:05:35.600 --> 00:05:37.749 align:start position:0%
+across many database nodes, we can do so
+by<00:05:35.840><c> assigning</c><00:05:36.240><c> each</c><00:05:36.560><c> a</c><00:05:36.800><c> contiguous</c><00:05:37.360><c> range</c><00:05:37.600><c> of</c>
+
+00:05:37.749 --> 00:05:37.759 align:start position:0%
+by assigning each a contiguous range of
+ 
+
+00:05:37.759 --> 00:05:40.310 align:start position:0%
+by assigning each a contiguous range of
+the<00:05:37.919><c> short</c><00:05:38.160><c> URL</c><00:05:38.560><c> space.</c><00:05:39.440><c> We</c><00:05:39.680><c> can</c><00:05:39.759><c> seed</c><00:05:40.080><c> these</c>
+
+00:05:40.310 --> 00:05:40.320 align:start position:0%
+the short URL space. We can seed these
+ 
+
+00:05:40.320 --> 00:05:42.310 align:start position:0%
+the short URL space. We can seed these
+by<00:05:40.560><c> creating</c><00:05:40.800><c> a</c><00:05:41.120><c> row</c><00:05:41.199><c> for</c><00:05:41.440><c> all</c><00:05:41.680><c> possible</c><00:05:42.080><c> short</c>
+
+00:05:42.310 --> 00:05:42.320 align:start position:0%
+by creating a row for all possible short
+ 
+
+00:05:42.320 --> 00:05:44.870 align:start position:0%
+by creating a row for all possible short
+URLs<00:05:43.039><c> and</c><00:05:43.280><c> an</c><00:05:43.520><c> initial</c><00:05:43.919><c> expiration</c><00:05:44.479><c> time</c><00:05:44.720><c> of</c>
+
+00:05:44.870 --> 00:05:44.880 align:start position:0%
+URLs and an initial expiration time of
+ 
+
+00:05:44.880 --> 00:05:47.189 align:start position:0%
+URLs and an initial expiration time of
+zero<00:05:45.520><c> so</c><00:05:45.600><c> that</c><00:05:45.840><c> any</c><00:05:46.080><c> new</c><00:05:46.320><c> attempts</c><00:05:46.800><c> to</c><00:05:46.960><c> create</c>
+
+00:05:47.189 --> 00:05:47.199 align:start position:0%
+zero so that any new attempts to create
+ 
+
+00:05:47.199 --> 00:05:49.990 align:start position:0%
+zero so that any new attempts to create
+a<00:05:47.360><c> short</c><00:05:47.680><c> URL</c><00:05:48.160><c> will</c><00:05:48.479><c> succeed.</c><00:05:49.360><c> The</c><00:05:49.600><c> following</c>
+
+00:05:49.990 --> 00:05:50.000 align:start position:0%
+a short URL will succeed. The following
+ 
+
+00:05:50.000 --> 00:05:51.749 align:start position:0%
+a short URL will succeed. The following
+code<00:05:50.320><c> represents</c><00:05:50.720><c> the</c><00:05:50.880><c> SQL</c><00:05:51.280><c> statement</c><00:05:51.520><c> that</c>
+
+00:05:51.749 --> 00:05:51.759 align:start position:0%
+code represents the SQL statement that
+ 
+
+00:05:51.759 --> 00:05:53.510 align:start position:0%
+code represents the SQL statement that
+our<00:05:52.000><c> application</c><00:05:52.479><c> might</c><00:05:52.720><c> run</c><00:05:52.960><c> in</c><00:05:53.199><c> order</c><00:05:53.360><c> to</c>
+
+00:05:53.510 --> 00:05:53.520 align:start position:0%
+our application might run in order to
+ 
+
+00:05:53.520 --> 00:05:56.310 align:start position:0%
+our application might run in order to
+generate<00:05:53.840><c> a</c><00:05:54.000><c> new</c><00:05:54.160><c> short</c><00:05:54.479><c> URL.</c><00:05:55.360><c> Simply</c><00:05:55.759><c> put,</c><00:05:56.080><c> we</c>
+
+00:05:56.310 --> 00:05:56.320 align:start position:0%
+generate a new short URL. Simply put, we
+ 
+
+00:05:56.320 --> 00:05:57.830 align:start position:0%
+generate a new short URL. Simply put, we
+look<00:05:56.479><c> for</c><00:05:56.560><c> the</c><00:05:56.800><c> first</c><00:05:57.120><c> row</c><00:05:57.199><c> that</c><00:05:57.360><c> we</c><00:05:57.520><c> can</c><00:05:57.600><c> find</c>
+
+00:05:57.830 --> 00:05:57.840 align:start position:0%
+look for the first row that we can find
+ 
+
+00:05:57.840 --> 00:05:59.909 align:start position:0%
+look for the first row that we can find
+that<00:05:58.000><c> has</c><00:05:58.160><c> passed</c><00:05:58.400><c> its</c><00:05:58.639><c> expiration</c><00:05:59.199><c> time</c><00:05:59.680><c> and</c>
+
+00:05:59.909 --> 00:05:59.919 align:start position:0%
+that has passed its expiration time and
+ 
+
+00:05:59.919 --> 00:06:02.150 align:start position:0%
+that has passed its expiration time and
+claim<00:06:00.160><c> it</c><00:06:00.320><c> for</c><00:06:00.479><c> ourselves.</c><00:06:01.520><c> How</c><00:06:01.680><c> do</c><00:06:01.840><c> we</c><00:06:01.919><c> ensure</c>
+
+00:06:02.150 --> 00:06:02.160 align:start position:0%
+claim it for ourselves. How do we ensure
+ 
+
+00:06:02.160 --> 00:06:03.670 align:start position:0%
+claim it for ourselves. How do we ensure
+that<00:06:02.400><c> all</c><00:06:02.560><c> of</c><00:06:02.639><c> our</c><00:06:02.800><c> database</c><00:06:03.199><c> nodes</c><00:06:03.520><c> have</c>
+
+00:06:03.670 --> 00:06:03.680 align:start position:0%
+that all of our database nodes have
+ 
+
+00:06:03.680 --> 00:06:05.670 align:start position:0%
+that all of our database nodes have
+balanced<00:06:04.080><c> load?</c><00:06:04.720><c> When</c><00:06:04.960><c> creating</c><00:06:05.280><c> a</c><00:06:05.440><c> short</c>
+
+00:06:05.670 --> 00:06:05.680 align:start position:0%
+balanced load? When creating a short
+ 
+
+00:06:05.680 --> 00:06:07.749 align:start position:0%
+balanced load? When creating a short
+URL,<00:06:06.240><c> our</c><00:06:06.479><c> application</c><00:06:06.960><c> servers</c><00:06:07.440><c> can</c><00:06:07.600><c> just</c>
+
+00:06:07.749 --> 00:06:07.759 align:start position:0%
+URL, our application servers can just
+ 
+
+00:06:07.759 --> 00:06:10.150 align:start position:0%
+URL, our application servers can just
+randomly<00:06:08.240><c> select</c><00:06:08.560><c> one</c><00:06:08.800><c> of</c><00:06:08.880><c> them.</c><00:06:09.759><c> Retrieving</c>
+
+00:06:10.150 --> 00:06:10.160 align:start position:0%
+randomly select one of them. Retrieving
+ 
+
+00:06:10.160 --> 00:06:12.629 align:start position:0%
+randomly select one of them. Retrieving
+a<00:06:10.400><c> URL</c><00:06:10.800><c> should</c><00:06:11.039><c> be</c><00:06:11.199><c> pretty</c><00:06:11.440><c> easy.</c><00:06:12.160><c> All</c><00:06:12.319><c> we</c><00:06:12.560><c> need</c>
+
+00:06:12.629 --> 00:06:12.639 align:start position:0%
+a URL should be pretty easy. All we need
+ 
+
+00:06:12.639 --> 00:06:14.469 align:start position:0%
+a URL should be pretty easy. All we need
+to<00:06:12.800><c> do</c><00:06:12.960><c> is</c><00:06:13.199><c> find</c><00:06:13.360><c> the</c><00:06:13.520><c> short</c><00:06:13.759><c> URL</c><00:06:14.160><c> in</c><00:06:14.319><c> our</c>
+
+00:06:14.469 --> 00:06:14.479 align:start position:0%
+to do is find the short URL in our
+ 
+
+00:06:14.479 --> 00:06:16.390 align:start position:0%
+to do is find the short URL in our
+database<00:06:14.960><c> and</c><00:06:15.280><c> return</c><00:06:15.600><c> the</c><00:06:15.840><c> corresponding</c>
+
+00:06:16.390 --> 00:06:16.400 align:start position:0%
+database and return the corresponding
+ 
+
+00:06:16.400 --> 00:06:18.309 align:start position:0%
+database and return the corresponding
+long<00:06:16.639><c> URL</c><00:06:17.120><c> if</c><00:06:17.360><c> it's</c><00:06:17.520><c> present</c><00:06:17.840><c> and</c><00:06:18.080><c> not</c>
+
+00:06:18.309 --> 00:06:18.319 align:start position:0%
+long URL if it's present and not
+ 
+
+00:06:18.319 --> 00:06:20.710 align:start position:0%
+long URL if it's present and not
+expired.<00:06:19.520><c> How</c><00:06:19.680><c> do</c><00:06:19.840><c> we</c><00:06:19.919><c> know</c><00:06:20.080><c> which</c><00:06:20.319><c> database</c>
+
+00:06:20.710 --> 00:06:20.720 align:start position:0%
+expired. How do we know which database
+ 
+
+00:06:20.720 --> 00:06:22.790 align:start position:0%
+expired. How do we know which database
+node<00:06:20.960><c> to</c><00:06:21.120><c> reach</c><00:06:21.360><c> out</c><00:06:21.520><c> to?</c><00:06:22.160><c> We</c><00:06:22.319><c> should</c><00:06:22.479><c> probably</c>
+
+00:06:22.790 --> 00:06:22.800 align:start position:0%
+node to reach out to? We should probably
+ 
+
+00:06:22.800 --> 00:06:24.790 align:start position:0%
+node to reach out to? We should probably
+keep<00:06:23.039><c> a</c><00:06:23.280><c> static</c><00:06:23.600><c> mapping</c><00:06:23.919><c> of</c><00:06:24.080><c> the</c><00:06:24.240><c> key</c><00:06:24.400><c> ranges</c>
+
+00:06:24.790 --> 00:06:24.800 align:start position:0%
+keep a static mapping of the key ranges
+ 
+
+00:06:24.800 --> 00:06:26.550 align:start position:0%
+keep a static mapping of the key ranges
+per<00:06:25.039><c> database</c><00:06:25.440><c> node</c><00:06:25.840><c> cached</c><00:06:26.240><c> on</c><00:06:26.319><c> our</c>
+
+00:06:26.550 --> 00:06:26.560 align:start position:0%
+per database node cached on our
+ 
+
+00:06:26.560 --> 00:06:28.870 align:start position:0%
+per database node cached on our
+application<00:06:27.039><c> servers.</c><00:06:27.919><c> We</c><00:06:28.160><c> don't</c><00:06:28.400><c> anticipate</c>
+
+00:06:28.870 --> 00:06:28.880 align:start position:0%
+application servers. We don't anticipate
+ 
+
+00:06:28.880 --> 00:06:30.790 align:start position:0%
+application servers. We don't anticipate
+this<00:06:29.120><c> mapping</c><00:06:29.520><c> changing,</c><00:06:30.160><c> but</c><00:06:30.319><c> in</c><00:06:30.479><c> the</c><00:06:30.560><c> deep</c>
+
+00:06:30.790 --> 00:06:30.800 align:start position:0%
+this mapping changing, but in the deep
+ 
+
+00:06:30.800 --> 00:06:32.629 align:start position:0%
+this mapping changing, but in the deep
+dive<00:06:31.120><c> section,</c><00:06:31.440><c> we</c><00:06:31.680><c> can</c><00:06:31.840><c> discuss</c><00:06:32.240><c> what</c><00:06:32.479><c> we</c>
+
+00:06:32.629 --> 00:06:32.639 align:start position:0%
+dive section, we can discuss what we
+ 
+
+00:06:32.639 --> 00:06:34.070 align:start position:0%
+dive section, we can discuss what we
+might<00:06:32.880><c> do</c><00:06:33.039><c> if</c><00:06:33.280><c> we</c><00:06:33.440><c> wanted</c><00:06:33.600><c> to</c><00:06:33.759><c> make</c><00:06:33.919><c> our</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+might do if we wanted to make our
+ 
+
+00:06:34.080 --> 00:06:36.230 align:start position:0%
+might do if we wanted to make our
+service<00:06:34.400><c> more</c><00:06:34.639><c> adaptable.</c><00:06:35.680><c> Creating</c><00:06:36.080><c> an</c>
+
+00:06:36.230 --> 00:06:36.240 align:start position:0%
+service more adaptable. Creating an
+ 
+
+00:06:36.240 --> 00:06:38.230 align:start position:0%
+service more adaptable. Creating an
+index<00:06:36.639><c> on</c><00:06:36.800><c> our</c><00:06:36.960><c> database</c><00:06:37.360><c> table</c><00:06:37.680><c> is</c><00:06:37.919><c> a</c><00:06:38.080><c> great</c>
+
+00:06:38.230 --> 00:06:38.240 align:start position:0%
+index on our database table is a great
+ 
+
+00:06:38.240 --> 00:06:40.309 align:start position:0%
+index on our database table is a great
+way<00:06:38.400><c> to</c><00:06:38.639><c> ensure</c><00:06:38.960><c> that</c><00:06:39.120><c> we</c><00:06:39.360><c> maximize</c><00:06:39.759><c> our</c><00:06:40.000><c> query</c>
+
+00:06:40.309 --> 00:06:40.319 align:start position:0%
+way to ensure that we maximize our query
+ 
+
+00:06:40.319 --> 00:06:42.469 align:start position:0%
+way to ensure that we maximize our query
+performance<00:06:40.960><c> in</c><00:06:41.199><c> anticipation</c><00:06:41.919><c> of</c><00:06:42.160><c> common</c>
+
+00:06:42.469 --> 00:06:42.479 align:start position:0%
+performance in anticipation of common
+ 
+
+00:06:42.479 --> 00:06:44.629 align:start position:0%
+performance in anticipation of common
+query<00:06:42.800><c> patterns.</c><00:06:43.840><c> Since</c><00:06:44.080><c> we</c><00:06:44.319><c> know</c><00:06:44.400><c> that</c>
+
+00:06:44.629 --> 00:06:44.639 align:start position:0%
+query patterns. Since we know that
+ 
+
+00:06:44.639 --> 00:06:46.469 align:start position:0%
+query patterns. Since we know that
+database<00:06:45.120><c> reads</c><00:06:45.440><c> will</c><00:06:45.600><c> greatly</c><00:06:46.000><c> outnumber</c>
+
+00:06:46.469 --> 00:06:46.479 align:start position:0%
+database reads will greatly outnumber
+ 
+
+00:06:46.479 --> 00:06:48.629 align:start position:0%
+database reads will greatly outnumber
+database<00:06:46.960><c> writes,</c><00:06:47.600><c> we</c><00:06:47.840><c> probably</c><00:06:48.319><c> want</c><00:06:48.479><c> to</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+database writes, we probably want to
+ 
+
+00:06:48.639 --> 00:06:51.029 align:start position:0%
+database writes, we probably want to
+optimize<00:06:49.120><c> for</c><00:06:49.280><c> these.</c><00:06:50.080><c> In</c><00:06:50.319><c> our</c><00:06:50.479><c> case,</c><00:06:50.800><c> the</c>
+
+00:06:51.029 --> 00:06:51.039 align:start position:0%
+optimize for these. In our case, the
+ 
+
+00:06:51.039 --> 00:06:52.629 align:start position:0%
+optimize for these. In our case, the
+most<00:06:51.280><c> common</c><00:06:51.520><c> query</c><00:06:51.919><c> is</c><00:06:52.080><c> to</c><00:06:52.240><c> find</c><00:06:52.400><c> a</c>
+
+00:06:52.629 --> 00:06:52.639 align:start position:0%
+most common query is to find a
+ 
+
+00:06:52.639 --> 00:06:54.550 align:start position:0%
+most common query is to find a
+particular<00:06:53.039><c> long</c><00:06:53.360><c> URL</c><00:06:53.759><c> for</c><00:06:53.919><c> a</c><00:06:54.080><c> known</c><00:06:54.319><c> short</c>
+
+00:06:54.550 --> 00:06:54.560 align:start position:0%
+particular long URL for a known short
+ 
+
+00:06:54.560 --> 00:06:56.790 align:start position:0%
+particular long URL for a known short
+URL.<00:06:55.440><c> This</c><00:06:55.680><c> means</c><00:06:55.840><c> that</c><00:06:56.000><c> we</c><00:06:56.240><c> should</c><00:06:56.400><c> probably</c>
+
+00:06:56.790 --> 00:06:56.800 align:start position:0%
+URL. This means that we should probably
+ 
+
+00:06:56.800 --> 00:06:58.950 align:start position:0%
+URL. This means that we should probably
+create<00:06:57.039><c> a</c><00:06:57.199><c> database</c><00:06:57.680><c> index</c><00:06:58.319><c> based</c><00:06:58.639><c> on</c><00:06:58.720><c> the</c>
+
+00:06:58.950 --> 00:06:58.960 align:start position:0%
+create a database index based on the
+ 
+
+00:06:58.960 --> 00:07:01.749 align:start position:0%
+create a database index based on the
+short<00:06:59.199><c> URL</c><00:06:59.680><c> value.</c><00:07:00.639><c> Internally,</c><00:07:01.360><c> this</c><00:07:01.520><c> means</c>
+
+00:07:01.749 --> 00:07:01.759 align:start position:0%
+short URL value. Internally, this means
+ 
+
+00:07:01.759 --> 00:07:03.510 align:start position:0%
+short URL value. Internally, this means
+that<00:07:01.919><c> the</c><00:07:02.080><c> database</c><00:07:02.479><c> sorts</c><00:07:02.800><c> the</c><00:07:03.039><c> rows</c><00:07:03.280><c> based</c>
+
+00:07:03.510 --> 00:07:03.520 align:start position:0%
+that the database sorts the rows based
+ 
+
+00:07:03.520 --> 00:07:05.510 align:start position:0%
+that the database sorts the rows based
+on<00:07:03.599><c> the</c><00:07:03.759><c> short</c><00:07:04.000><c> URL</c><00:07:04.639><c> so</c><00:07:04.800><c> that</c><00:07:04.960><c> we</c><00:07:05.120><c> can</c><00:07:05.199><c> use</c><00:07:05.360><c> a</c>
+
+00:07:05.510 --> 00:07:05.520 align:start position:0%
+on the short URL so that we can use a
+ 
+
+00:07:05.520 --> 00:07:07.350 align:start position:0%
+on the short URL so that we can use a
+binary<00:07:05.919><c> search</c><00:07:06.240><c> to</c><00:07:06.479><c> speed</c><00:07:06.720><c> up</c><00:07:06.880><c> our</c><00:07:07.039><c> queries</c>
+
+00:07:07.350 --> 00:07:07.360 align:start position:0%
+binary search to speed up our queries
+ 
+
+00:07:07.360 --> 00:07:09.589 align:start position:0%
+binary search to speed up our queries
+that<00:07:07.599><c> filter</c><00:07:07.919><c> on</c><00:07:08.080><c> this</c><00:07:08.319><c> value.</c><00:07:09.039><c> Postgress</c>
+
+00:07:09.589 --> 00:07:09.599 align:start position:0%
+that filter on this value. Postgress
+ 
+
+00:07:09.599 --> 00:07:11.270 align:start position:0%
+that filter on this value. Postgress
+uses<00:07:10.000><c> single</c><00:07:10.319><c> leader</c><00:07:10.639><c> asynchronous</c>
+
+00:07:11.270 --> 00:07:11.280 align:start position:0%
+uses single leader asynchronous
+ 
+
+00:07:11.280 --> 00:07:13.670 align:start position:0%
+uses single leader asynchronous
+replication.<00:07:12.319><c> For</c><00:07:12.560><c> each</c><00:07:12.800><c> shard,</c><00:07:13.280><c> there</c><00:07:13.440><c> is</c>
+
+00:07:13.670 --> 00:07:13.680 align:start position:0%
+replication. For each shard, there is
+ 
+
+00:07:13.680 --> 00:07:15.830 align:start position:0%
+replication. For each shard, there is
+one<00:07:13.919><c> leader.</c><00:07:14.560><c> All</c><00:07:14.800><c> rights</c><00:07:15.199><c> must</c><00:07:15.440><c> go</c><00:07:15.520><c> to</c><00:07:15.680><c> the</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+one leader. All rights must go to the
+ 
+
+00:07:15.840 --> 00:07:17.189 align:start position:0%
+one leader. All rights must go to the
+leader<00:07:16.160><c> and</c><00:07:16.400><c> from</c><00:07:16.560><c> there</c><00:07:16.880><c> they</c><00:07:17.039><c> are</c>
+
+00:07:17.189 --> 00:07:17.199 align:start position:0%
+leader and from there they are
+ 
+
+00:07:17.199 --> 00:07:19.029 align:start position:0%
+leader and from there they are
+propagated<00:07:17.759><c> asynchronously</c><00:07:18.479><c> over</c><00:07:18.720><c> to</c><00:07:18.880><c> the</c>
+
+00:07:19.029 --> 00:07:19.039 align:start position:0%
+propagated asynchronously over to the
+ 
+
+00:07:19.039 --> 00:07:21.350 align:start position:0%
+propagated asynchronously over to the
+replicas.<00:07:20.000><c> Replicas</c><00:07:20.560><c> serve</c><00:07:20.720><c> the</c><00:07:20.960><c> purpose</c><00:07:21.120><c> of</c>
+
+00:07:21.350 --> 00:07:21.360 align:start position:0%
+replicas. Replicas serve the purpose of
+ 
+
+00:07:21.360 --> 00:07:23.430 align:start position:0%
+replicas. Replicas serve the purpose of
+making<00:07:21.599><c> data</c><00:07:22.000><c> durable</c><00:07:22.639><c> as</c><00:07:22.800><c> well</c><00:07:22.960><c> as</c><00:07:23.199><c> being</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+making data durable as well as being
+ 
+
+00:07:23.440 --> 00:07:25.270 align:start position:0%
+making data durable as well as being
+able<00:07:23.599><c> to</c><00:07:23.680><c> serve</c><00:07:24.000><c> read</c><00:07:24.240><c> requests</c><00:07:24.639><c> and</c><00:07:25.039><c> increase</c>
+
+00:07:25.270 --> 00:07:25.280 align:start position:0%
+able to serve read requests and increase
+ 
+
+00:07:25.280 --> 00:07:27.589 align:start position:0%
+able to serve read requests and increase
+the<00:07:25.520><c> read</c><00:07:25.759><c> throughput</c><00:07:26.160><c> of</c><00:07:26.319><c> our</c><00:07:26.560><c> system.</c><00:07:27.360><c> In</c>
+
+00:07:27.589 --> 00:07:27.599 align:start position:0%
+the read throughput of our system. In
+ 
+
+00:07:27.599 --> 00:07:29.670 align:start position:0%
+the read throughput of our system. In
+the<00:07:27.759><c> event</c><00:07:27.919><c> of</c><00:07:28.080><c> a</c><00:07:28.240><c> leader</c><00:07:28.560><c> failure,</c><00:07:29.120><c> Postgress</c>
+
+00:07:29.670 --> 00:07:29.680 align:start position:0%
+the event of a leader failure, Postgress
+ 
+
+00:07:29.680 --> 00:07:31.350 align:start position:0%
+the event of a leader failure, Postgress
+is<00:07:29.840><c> able</c><00:07:30.000><c> to</c><00:07:30.160><c> promote</c><00:07:30.479><c> one</c><00:07:30.639><c> of</c><00:07:30.720><c> the</c><00:07:30.880><c> replicas</c>
+
+00:07:31.350 --> 00:07:31.360 align:start position:0%
+is able to promote one of the replicas
+ 
+
+00:07:31.360 --> 00:07:33.510 align:start position:0%
+is able to promote one of the replicas
+to<00:07:31.520><c> take</c><00:07:31.680><c> over</c><00:07:31.840><c> as</c><00:07:32.080><c> the</c><00:07:32.240><c> new</c><00:07:32.400><c> leader.</c><00:07:33.199><c> Note</c>
+
+00:07:33.510 --> 00:07:33.520 align:start position:0%
+to take over as the new leader. Note
+ 
+
+00:07:33.520 --> 00:07:35.029 align:start position:0%
+to take over as the new leader. Note
+that<00:07:33.680><c> because</c><00:07:33.919><c> the</c><00:07:34.080><c> leader</c><00:07:34.400><c> is</c><00:07:34.560><c> not</c><00:07:34.800><c> waiting</c>
+
+00:07:35.029 --> 00:07:35.039 align:start position:0%
+that because the leader is not waiting
+ 
+
+00:07:35.039 --> 00:07:36.950 align:start position:0%
+that because the leader is not waiting
+for<00:07:35.280><c> responses</c><00:07:35.759><c> from</c><00:07:36.000><c> its</c><00:07:36.160><c> replicas</c><00:07:36.720><c> before</c>
+
+00:07:36.950 --> 00:07:36.960 align:start position:0%
+for responses from its replicas before
+ 
+
+00:07:36.960 --> 00:07:39.189 align:start position:0%
+for responses from its replicas before
+accepting<00:07:37.360><c> a</c><00:07:37.520><c> right,</c><00:07:38.160><c> it</c><00:07:38.319><c> is</c><00:07:38.479><c> possible</c><00:07:38.800><c> that</c><00:07:38.960><c> a</c>
+
+00:07:39.189 --> 00:07:39.199 align:start position:0%
+accepting a right, it is possible that a
+ 
+
+00:07:39.199 --> 00:07:41.189 align:start position:0%
+accepting a right, it is possible that a
+leader<00:07:39.520><c> fails</c><00:07:39.840><c> before</c><00:07:40.240><c> all</c><00:07:40.400><c> of</c><00:07:40.560><c> its</c><00:07:40.720><c> data</c><00:07:40.960><c> has</c>
+
+00:07:41.189 --> 00:07:41.199 align:start position:0%
+leader fails before all of its data has
+ 
+
+00:07:41.199 --> 00:07:43.589 align:start position:0%
+leader fails before all of its data has
+been<00:07:41.280><c> durably</c><00:07:41.759><c> replicated.</c><00:07:42.800><c> In</c><00:07:43.039><c> this</c><00:07:43.280><c> event,</c>
+
+00:07:43.589 --> 00:07:43.599 align:start position:0%
+been durably replicated. In this event,
+ 
+
+00:07:43.599 --> 00:07:45.510 align:start position:0%
+been durably replicated. In this event,
+we<00:07:43.840><c> may</c><00:07:44.000><c> lose</c><00:07:44.240><c> some</c><00:07:44.479><c> data</c><00:07:44.720><c> when</c><00:07:44.880><c> a</c><00:07:45.039><c> replica</c><00:07:45.440><c> is</c>
+
+00:07:45.510 --> 00:07:45.520 align:start position:0%
+we may lose some data when a replica is
+ 
+
+00:07:45.520 --> 00:07:47.830 align:start position:0%
+we may lose some data when a replica is
+promoted<00:07:45.919><c> to</c><00:07:46.080><c> be</c><00:07:46.160><c> the</c><00:07:46.319><c> new</c><00:07:46.479><c> leader.</c><00:07:47.520><c> At</c><00:07:47.759><c> the</c>
+
+00:07:47.830 --> 00:07:47.840 align:start position:0%
+promoted to be the new leader. At the
+ 
+
+00:07:47.840 --> 00:07:49.589 align:start position:0%
+promoted to be the new leader. At the
+end<00:07:47.919><c> of</c><00:07:48.000><c> the</c><00:07:48.160><c> day,</c><00:07:48.560><c> this</c><00:07:48.720><c> is</c><00:07:48.800><c> just</c><00:07:49.039><c> a</c><00:07:49.199><c> URL</c>
+
+00:07:49.589 --> 00:07:49.599 align:start position:0%
+end of the day, this is just a URL
+ 
+
+00:07:49.599 --> 00:07:51.589 align:start position:0%
+end of the day, this is just a URL
+shortener,<00:07:50.080><c> and</c><00:07:50.240><c> data</c><00:07:50.560><c> durability</c><00:07:51.039><c> is</c><00:07:51.360><c> best</c>
+
+00:07:51.589 --> 00:07:51.599 align:start position:0%
+shortener, and data durability is best
+ 
+
+00:07:51.599 --> 00:07:54.070 align:start position:0%
+shortener, and data durability is best
+efforts.<00:07:52.639><c> While</c><00:07:52.880><c> the</c><00:07:53.120><c> majority</c><00:07:53.440><c> of</c><00:07:53.599><c> generated</c>
+
+00:07:54.070 --> 00:07:54.080 align:start position:0%
+efforts. While the majority of generated
+ 
+
+00:07:54.080 --> 00:07:55.990 align:start position:0%
+efforts. While the majority of generated
+URLs<00:07:54.560><c> are</c><00:07:54.800><c> probably</c><00:07:55.199><c> only</c><00:07:55.520><c> going</c><00:07:55.680><c> to</c><00:07:55.840><c> be</c>
+
+00:07:55.990 --> 00:07:56.000 align:start position:0%
+URLs are probably only going to be
+ 
+
+00:07:56.000 --> 00:07:58.070 align:start position:0%
+URLs are probably only going to be
+clicked<00:07:56.240><c> a</c><00:07:56.479><c> few</c><00:07:56.639><c> times,</c><00:07:57.199><c> a</c><00:07:57.520><c> small</c><00:07:57.759><c> number</c><00:07:57.919><c> of</c>
+
+00:07:58.070 --> 00:07:58.080 align:start position:0%
+clicked a few times, a small number of
+ 
+
+00:07:58.080 --> 00:07:59.830 align:start position:0%
+clicked a few times, a small number of
+them<00:07:58.319><c> may</c><00:07:58.479><c> be</c><00:07:58.639><c> used</c><00:07:58.960><c> thousands</c><00:07:59.360><c> or</c><00:07:59.599><c> even</c>
+
+00:07:59.830 --> 00:07:59.840 align:start position:0%
+them may be used thousands or even
+ 
+
+00:07:59.840 --> 00:08:02.150 align:start position:0%
+them may be used thousands or even
+millions<00:08:00.240><c> of</c><00:08:00.400><c> times.</c><00:08:01.199><c> For</c><00:08:01.280><c> example,</c><00:08:01.840><c> imagine</c>
+
+00:08:02.150 --> 00:08:02.160 align:start position:0%
+millions of times. For example, imagine
+ 
+
+00:08:02.160 --> 00:08:04.550 align:start position:0%
+millions of times. For example, imagine
+that<00:08:02.319><c> Mr.</c><00:08:02.639><c> Beast</c><00:08:02.960><c> uses</c><00:08:03.280><c> a</c><00:08:03.440><c> short</c><00:08:03.680><c> URL</c><00:08:04.080><c> to</c><00:08:04.240><c> allow</c>
+
+00:08:04.550 --> 00:08:04.560 align:start position:0%
+that Mr. Beast uses a short URL to allow
+ 
+
+00:08:04.560 --> 00:08:06.629 align:start position:0%
+that Mr. Beast uses a short URL to allow
+others<00:08:04.879><c> to</c><00:08:05.039><c> sign</c><00:08:05.199><c> up</c><00:08:05.360><c> for</c><00:08:05.520><c> some</c><00:08:05.680><c> giveaway.</c>
+
+00:08:06.629 --> 00:08:06.639 align:start position:0%
+others to sign up for some giveaway.
+ 
+
+00:08:06.639 --> 00:08:08.309 align:start position:0%
+others to sign up for some giveaway.
+There's<00:08:06.879><c> no</c><00:08:07.039><c> way</c><00:08:07.199><c> for</c><00:08:07.360><c> us</c><00:08:07.520><c> to</c><00:08:07.759><c> anticipate</c>
+
+00:08:08.309 --> 00:08:08.319 align:start position:0%
+There's no way for us to anticipate
+ 
+
+00:08:08.319 --> 00:08:09.990 align:start position:0%
+There's no way for us to anticipate
+which<00:08:08.560><c> one</c><00:08:08.720><c> of</c><00:08:08.800><c> these</c><00:08:09.039><c> short</c><00:08:09.280><c> URLs</c><00:08:09.759><c> are</c><00:08:09.919><c> going</c>
+
+00:08:09.990 --> 00:08:10.000 align:start position:0%
+which one of these short URLs are going
+ 
+
+00:08:10.000 --> 00:08:12.390 align:start position:0%
+which one of these short URLs are going
+to<00:08:10.160><c> receive</c><00:08:10.479><c> tons</c><00:08:10.720><c> of</c><00:08:10.879><c> traffic</c><00:08:11.199><c> in</c><00:08:11.440><c> advance.</c>
+
+00:08:12.390 --> 00:08:12.400 align:start position:0%
+to receive tons of traffic in advance.
+ 
+
+00:08:12.400 --> 00:08:14.390 align:start position:0%
+to receive tons of traffic in advance.
+If<00:08:12.639><c> we</c><00:08:12.800><c> could,</c><00:08:13.360><c> perhaps</c><00:08:13.680><c> we</c><00:08:13.840><c> could</c><00:08:14.000><c> somehow</c>
+
+00:08:14.390 --> 00:08:14.400 align:start position:0%
+If we could, perhaps we could somehow
+ 
+
+00:08:14.400 --> 00:08:15.749 align:start position:0%
+If we could, perhaps we could somehow
+put<00:08:14.560><c> them</c><00:08:14.720><c> all</c><00:08:14.879><c> on</c><00:08:15.039><c> their</c><00:08:15.280><c> own</c><00:08:15.440><c> separate</c>
+
+00:08:15.749 --> 00:08:15.759 align:start position:0%
+put them all on their own separate
+ 
+
+00:08:15.759 --> 00:08:18.230 align:start position:0%
+put them all on their own separate
+database<00:08:16.240><c> node.</c><00:08:16.960><c> Since</c><00:08:17.199><c> we</c><00:08:17.440><c> can't,</c><00:08:17.759><c> a</c><00:08:18.000><c> better</c>
+
+00:08:18.230 --> 00:08:18.240 align:start position:0%
+database node. Since we can't, a better
+ 
+
+00:08:18.240 --> 00:08:20.390 align:start position:0%
+database node. Since we can't, a better
+alternative<00:08:18.639><c> is</c><00:08:18.879><c> to</c><00:08:19.039><c> use</c><00:08:19.120><c> a</c><00:08:19.360><c> cache.</c><00:08:20.080><c> Because</c>
+
+00:08:20.390 --> 00:08:20.400 align:start position:0%
+alternative is to use a cache. Because
+ 
+
+00:08:20.400 --> 00:08:22.469 align:start position:0%
+alternative is to use a cache. Because
+caches<00:08:20.879><c> store</c><00:08:21.120><c> data</c><00:08:21.360><c> in</c><00:08:21.599><c> memory,</c><00:08:22.080><c> they</c><00:08:22.319><c> can</c>
+
+00:08:22.469 --> 00:08:22.479 align:start position:0%
+caches store data in memory, they can
+ 
+
+00:08:22.479 --> 00:08:23.990 align:start position:0%
+caches store data in memory, they can
+often<00:08:22.800><c> handle</c><00:08:23.039><c> more</c><00:08:23.280><c> than</c><00:08:23.440><c> an</c><00:08:23.599><c> order</c><00:08:23.759><c> of</c>
+
+00:08:23.990 --> 00:08:24.000 align:start position:0%
+often handle more than an order of
+ 
+
+00:08:24.000 --> 00:08:25.670 align:start position:0%
+often handle more than an order of
+magnitude<00:08:24.479><c> more</c><00:08:24.720><c> requests</c><00:08:25.039><c> than</c><00:08:25.199><c> a</c><00:08:25.360><c> typical</c>
+
+00:08:25.670 --> 00:08:25.680 align:start position:0%
+magnitude more requests than a typical
+ 
+
+00:08:25.680 --> 00:08:28.150 align:start position:0%
+magnitude more requests than a typical
+diskbased<00:08:26.319><c> database.</c><00:08:27.199><c> While</c><00:08:27.440><c> the</c><00:08:27.680><c> data</c><00:08:27.919><c> here</c>
+
+00:08:28.150 --> 00:08:28.160 align:start position:0%
+diskbased database. While the data here
+ 
+
+00:08:28.160 --> 00:08:30.469 align:start position:0%
+diskbased database. While the data here
+isn't<00:08:28.479><c> as</c><00:08:28.800><c> durable,</c><00:08:29.520><c> it</c><00:08:29.759><c> doesn't</c><00:08:29.919><c> matter</c><00:08:30.240><c> much</c>
+
+00:08:30.469 --> 00:08:30.479 align:start position:0%
+isn't as durable, it doesn't matter much
+ 
+
+00:08:30.479 --> 00:08:32.149 align:start position:0%
+isn't as durable, it doesn't matter much
+since<00:08:30.800><c> the</c><00:08:30.960><c> database</c><00:08:31.360><c> is</c><00:08:31.599><c> our</c><00:08:31.759><c> source</c><00:08:32.000><c> of</c>
+
+00:08:32.149 --> 00:08:32.159 align:start position:0%
+since the database is our source of
+ 
+
+00:08:32.159 --> 00:08:34.389 align:start position:0%
+since the database is our source of
+truth.<00:08:32.800><c> In</c><00:08:33.039><c> our</c><00:08:33.200><c> case,</c><00:08:33.519><c> we</c><00:08:33.680><c> can</c><00:08:33.839><c> use</c><00:08:34.000><c> a</c><00:08:34.159><c> very</c>
+
+00:08:34.389 --> 00:08:34.399 align:start position:0%
+truth. In our case, we can use a very
+ 
+
+00:08:34.399 --> 00:08:36.469 align:start position:0%
+truth. In our case, we can use a very
+simple<00:08:34.719><c> and</c><00:08:35.039><c> easy</c><00:08:35.279><c> to</c><00:08:35.440><c> implement</c><00:08:35.839><c> look</c><00:08:36.080><c> aside</c>
+
+00:08:36.469 --> 00:08:36.479 align:start position:0%
+simple and easy to implement look aside
+ 
+
+00:08:36.479 --> 00:08:38.230 align:start position:0%
+simple and easy to implement look aside
+caching<00:08:36.959><c> strategy</c><00:08:37.440><c> in</c><00:08:37.680><c> conjunction</c><00:08:38.080><c> with</c>
+
+00:08:38.230 --> 00:08:38.240 align:start position:0%
+caching strategy in conjunction with
+ 
+
+00:08:38.240 --> 00:08:40.949 align:start position:0%
+caching strategy in conjunction with
+Reddus,<00:08:38.959><c> an</c><00:08:39.200><c> open-source</c><00:08:39.839><c> memory</c><00:08:40.320><c> based</c><00:08:40.640><c> key</c>
+
+00:08:40.949 --> 00:08:40.959 align:start position:0%
+Reddus, an open-source memory based key
+ 
+
+00:08:40.959 --> 00:08:43.750 align:start position:0%
+Reddus, an open-source memory based key
+value<00:08:41.360><c> store.</c><00:08:42.240><c> When</c><00:08:42.399><c> a</c><00:08:42.640><c> request</c><00:08:42.959><c> comes</c><00:08:43.200><c> in,</c><00:08:43.519><c> we</c>
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+value store. When a request comes in, we
+ 
+
+00:08:43.760 --> 00:08:45.750 align:start position:0%
+value store. When a request comes in, we
+first<00:08:44.000><c> check</c><00:08:44.159><c> our</c><00:08:44.399><c> cache</c><00:08:44.640><c> for</c><00:08:44.800><c> it.</c><00:08:45.360><c> If</c><00:08:45.519><c> it's</c>
+
+00:08:45.750 --> 00:08:45.760 align:start position:0%
+first check our cache for it. If it's
+ 
+
+00:08:45.760 --> 00:08:48.310 align:start position:0%
+first check our cache for it. If it's
+there,<00:08:46.320><c> great.</c><00:08:47.120><c> Otherwise,</c><00:08:47.680><c> we</c><00:08:47.920><c> fetch</c><00:08:48.160><c> from</c>
+
+00:08:48.310 --> 00:08:48.320 align:start position:0%
+there, great. Otherwise, we fetch from
+ 
+
+00:08:48.320 --> 00:08:50.070 align:start position:0%
+there, great. Otherwise, we fetch from
+the<00:08:48.480><c> database</c><00:08:48.880><c> and</c><00:08:49.120><c> have</c><00:08:49.279><c> the</c><00:08:49.519><c> application</c>
+
+00:08:50.070 --> 00:08:50.080 align:start position:0%
+the database and have the application
+ 
+
+00:08:50.080 --> 00:08:52.389 align:start position:0%
+the database and have the application
+server<00:08:50.399><c> place</c><00:08:50.640><c> the</c><00:08:50.880><c> value</c><00:08:51.120><c> in</c><00:08:51.279><c> the</c><00:08:51.440><c> cache.</c>
+
+00:08:52.389 --> 00:08:52.399 align:start position:0%
+server place the value in the cache.
+ 
+
+00:08:52.399 --> 00:08:54.150 align:start position:0%
+server place the value in the cache.
+Since<00:08:52.640><c> we</c><00:08:52.880><c> don't</c><00:08:53.040><c> know</c><00:08:53.279><c> in</c><00:08:53.519><c> advance</c><00:08:53.839><c> which</c>
+
+00:08:54.150 --> 00:08:54.160 align:start position:0%
+Since we don't know in advance which
+ 
+
+00:08:54.160 --> 00:08:56.870 align:start position:0%
+Since we don't know in advance which
+short<00:08:54.480><c> URLs</c><00:08:54.959><c> will</c><00:08:55.120><c> be</c><00:08:55.200><c> hot,</c><00:08:55.920><c> using</c><00:08:56.240><c> a</c><00:08:56.480><c> simple</c>
+
+00:08:56.870 --> 00:08:56.880 align:start position:0%
+short URLs will be hot, using a simple
+ 
+
+00:08:56.880 --> 00:08:59.269 align:start position:0%
+short URLs will be hot, using a simple
+least<00:08:57.279><c> recently</c><00:08:57.760><c> used</c><00:08:58.160><c> replacement</c><00:08:58.640><c> policy</c>
+
+00:08:59.269 --> 00:08:59.279 align:start position:0%
+least recently used replacement policy
+ 
+
+00:08:59.279 --> 00:09:01.110 align:start position:0%
+least recently used replacement policy
+should<00:08:59.600><c> help</c><00:08:59.760><c> ensure</c><00:09:00.080><c> that</c><00:09:00.240><c> we</c><00:09:00.399><c> maximize</c><00:09:00.880><c> hit</c>
+
+00:09:01.110 --> 00:09:01.120 align:start position:0%
+should help ensure that we maximize hit
+ 
+
+00:09:01.120 --> 00:09:02.949 align:start position:0%
+should help ensure that we maximize hit
+rates<00:09:01.519><c> while</c><00:09:01.760><c> constraining</c><00:09:02.240><c> how</c><00:09:02.480><c> much</c><00:09:02.640><c> memory</c>
+
+00:09:02.949 --> 00:09:02.959 align:start position:0%
+rates while constraining how much memory
+ 
+
+00:09:02.959 --> 00:09:05.269 align:start position:0%
+rates while constraining how much memory
+we<00:09:03.200><c> need</c><00:09:03.360><c> to</c><00:09:03.519><c> use.</c><00:09:04.320><c> If</c><00:09:04.560><c> we</c><00:09:04.720><c> make</c><00:09:04.800><c> a</c><00:09:05.040><c> very</c>
+
+00:09:05.269 --> 00:09:05.279 align:start position:0%
+we need to use. If we make a very
+ 
+
+00:09:05.279 --> 00:09:07.670 align:start position:0%
+we need to use. If we make a very
+handwavy<00:09:05.920><c> estimate</c><00:09:06.240><c> that</c><00:09:06.560><c> 1%</c><00:09:06.959><c> of</c><00:09:07.120><c> keys</c><00:09:07.519><c> are</c>
+
+00:09:07.670 --> 00:09:07.680 align:start position:0%
+handwavy estimate that 1% of keys are
+ 
+
+00:09:07.680 --> 00:09:09.829 align:start position:0%
+handwavy estimate that 1% of keys are
+responsible<00:09:08.080><c> for</c><00:09:08.399><c> 50%</c><00:09:08.880><c> of</c><00:09:09.040><c> the</c><00:09:09.279><c> load</c><00:09:09.440><c> in</c><00:09:09.680><c> our</c>
+
+00:09:09.829 --> 00:09:09.839 align:start position:0%
+responsible for 50% of the load in our
+ 
+
+00:09:09.839 --> 00:09:11.509 align:start position:0%
+responsible for 50% of the load in our
+system,<00:09:10.560><c> this</c><00:09:10.720><c> would</c><00:09:10.880><c> mean</c><00:09:11.040><c> that</c><00:09:11.200><c> we</c><00:09:11.360><c> would</c>
+
+00:09:11.509 --> 00:09:11.519 align:start position:0%
+system, this would mean that we would
+ 
+
+00:09:11.519 --> 00:09:14.630 align:start position:0%
+system, this would mean that we would
+need<00:09:11.760><c> around</c><00:09:12.160><c> 480</c><00:09:12.880><c> GB</c><00:09:13.360><c> of</c><00:09:13.519><c> memory</c><00:09:14.000><c> to</c><00:09:14.320><c> serve</c>
+
+00:09:14.630 --> 00:09:14.640 align:start position:0%
+need around 480 GB of memory to serve
+ 
+
+00:09:14.640 --> 00:09:17.269 align:start position:0%
+need around 480 GB of memory to serve
+2,000<00:09:15.120><c> requests</c><00:09:15.519><c> per</c><00:09:15.760><c> second.</c><00:09:16.560><c> Once</c><00:09:16.880><c> again,</c>
+
+00:09:17.269 --> 00:09:17.279 align:start position:0%
+2,000 requests per second. Once again,
+ 
+
+00:09:17.279 --> 00:09:18.949 align:start position:0%
+2,000 requests per second. Once again,
+this<00:09:17.519><c> could</c><00:09:17.760><c> probably</c><00:09:18.160><c> be</c><00:09:18.320><c> handled</c><00:09:18.640><c> by</c><00:09:18.800><c> a</c>
+
+00:09:18.949 --> 00:09:18.959 align:start position:0%
+this could probably be handled by a
+ 
+
+00:09:18.959 --> 00:09:21.350 align:start position:0%
+this could probably be handled by a
+single<00:09:19.200><c> beefy</c><00:09:19.600><c> server.</c><00:09:20.480><c> If</c><00:09:20.720><c> we</c><00:09:20.880><c> want</c><00:09:21.040><c> a</c><00:09:21.200><c> bit</c>
+
+00:09:21.350 --> 00:09:21.360 align:start position:0%
+single beefy server. If we want a bit
+ 
+
+00:09:21.360 --> 00:09:22.790 align:start position:0%
+single beefy server. If we want a bit
+more<00:09:21.519><c> breathing</c><00:09:21.839><c> room,</c><00:09:22.160><c> we</c><00:09:22.399><c> could</c><00:09:22.480><c> instead</c>
+
+00:09:22.790 --> 00:09:22.800 align:start position:0%
+more breathing room, we could instead
+ 
+
+00:09:22.800 --> 00:09:24.949 align:start position:0%
+more breathing room, we could instead
+use<00:09:22.959><c> a</c><00:09:23.120><c> Reddus</c><00:09:23.519><c> cluster,</c><00:09:24.080><c> which</c><00:09:24.320><c> helps</c><00:09:24.640><c> do</c><00:09:24.800><c> the</c>
+
+00:09:24.949 --> 00:09:24.959 align:start position:0%
+use a Reddus cluster, which helps do the
+ 
+
+00:09:24.959 --> 00:09:26.870 align:start position:0%
+use a Reddus cluster, which helps do the
+distribution<00:09:25.440><c> and</c><00:09:25.760><c> load</c><00:09:26.000><c> balancing</c><00:09:26.399><c> of</c><00:09:26.560><c> keys</c>
+
+00:09:26.870 --> 00:09:26.880 align:start position:0%
+distribution and load balancing of keys
+ 
+
+00:09:26.880 --> 00:09:29.829 align:start position:0%
+distribution and load balancing of keys
+for<00:09:27.120><c> us.</c><00:09:28.399><c> In</c><00:09:28.640><c> this</c><00:09:28.800><c> case,</c><00:09:29.279><c> Reddus</c><00:09:29.680><c> could</c>
+
+00:09:29.829 --> 00:09:29.839 align:start position:0%
+for us. In this case, Reddus could
+ 
+
+00:09:29.839 --> 00:09:31.990 align:start position:0%
+for us. In this case, Reddus could
+choose<00:09:30.000><c> a</c><00:09:30.240><c> partition</c><00:09:30.560><c> for</c><00:09:30.800><c> each</c><00:09:31.040><c> database</c><00:09:31.760><c> row</c>
+
+00:09:31.990 --> 00:09:32.000 align:start position:0%
+choose a partition for each database row
+ 
+
+00:09:32.000 --> 00:09:34.310 align:start position:0%
+choose a partition for each database row
+based<00:09:32.320><c> on</c><00:09:32.560><c> taking</c><00:09:32.800><c> a</c><00:09:32.959><c> hash</c><00:09:33.279><c> of</c><00:09:33.440><c> its</c><00:09:33.600><c> short</c><00:09:33.839><c> URL</c>
+
+00:09:34.310 --> 00:09:34.320 align:start position:0%
+based on taking a hash of its short URL
+ 
+
+00:09:34.320 --> 00:09:35.750 align:start position:0%
+based on taking a hash of its short URL
+value<00:09:34.800><c> so</c><00:09:34.959><c> that</c><00:09:35.120><c> they're</c><00:09:35.360><c> evenly</c>
+
+00:09:35.750 --> 00:09:35.760 align:start position:0%
+value so that they're evenly
+ 
+
+00:09:35.760 --> 00:09:37.990 align:start position:0%
+value so that they're evenly
+distributed.<00:09:36.880><c> We're</c><00:09:37.120><c> now</c><00:09:37.360><c> going</c><00:09:37.519><c> to</c><00:09:37.680><c> enter</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+distributed. We're now going to enter
+ 
+
+00:09:38.000 --> 00:09:40.230 align:start position:0%
+distributed. We're now going to enter
+our<00:09:38.240><c> deep</c><00:09:38.560><c> dive</c><00:09:38.880><c> section.</c><00:09:39.680><c> Do</c><00:09:39.920><c> you</c><00:09:40.000><c> need</c><00:09:40.080><c> to</c>
+
+00:09:40.230 --> 00:09:40.240 align:start position:0%
+our deep dive section. Do you need to
+ 
+
+00:09:40.240 --> 00:09:42.310 align:start position:0%
+our deep dive section. Do you need to
+watch<00:09:40.480><c> this</c><00:09:40.640><c> to</c><00:09:40.800><c> have</c><00:09:40.880><c> a</c><00:09:41.120><c> solid</c><00:09:41.360><c> solution?</c><00:09:42.000><c> I'd</c>
+
+00:09:42.310 --> 00:09:42.320 align:start position:0%
+watch this to have a solid solution? I'd
+ 
+
+00:09:42.320 --> 00:09:44.710 align:start position:0%
+watch this to have a solid solution? I'd
+say<00:09:42.480><c> no.</c><00:09:43.200><c> That</c><00:09:43.519><c> being</c><00:09:43.760><c> said,</c><00:09:44.000><c> for</c><00:09:44.240><c> engineers</c>
+
+00:09:44.710 --> 00:09:44.720 align:start position:0%
+say no. That being said, for engineers
+ 
+
+00:09:44.720 --> 00:09:46.230 align:start position:0%
+say no. That being said, for engineers
+who<00:09:44.959><c> actually</c><00:09:45.279><c> want</c><00:09:45.519><c> to</c><00:09:45.680><c> understand</c><00:09:46.000><c> the</c>
+
+00:09:46.230 --> 00:09:46.240 align:start position:0%
+who actually want to understand the
+ 
+
+00:09:46.240 --> 00:09:47.750 align:start position:0%
+who actually want to understand the
+rationale<00:09:46.720><c> behind</c><00:09:46.959><c> the</c><00:09:47.200><c> solution</c><00:09:47.360><c> that</c><00:09:47.600><c> I</c>
+
+00:09:47.750 --> 00:09:47.760 align:start position:0%
+rationale behind the solution that I
+ 
+
+00:09:47.760 --> 00:09:49.990 align:start position:0%
+rationale behind the solution that I
+provided,<00:09:48.480><c> as</c><00:09:48.720><c> well</c><00:09:48.800><c> as</c><00:09:49.040><c> be</c><00:09:49.200><c> able</c><00:09:49.360><c> to</c><00:09:49.440><c> justify</c>
+
+00:09:49.990 --> 00:09:50.000 align:start position:0%
+provided, as well as be able to justify
+ 
+
+00:09:50.000 --> 00:09:52.230 align:start position:0%
+provided, as well as be able to justify
+their<00:09:50.160><c> own</c><00:09:50.399><c> in</c><00:09:50.640><c> a</c><00:09:50.800><c> systems</c><00:09:51.120><c> design</c><00:09:51.440><c> interview,</c>
+
+00:09:52.230 --> 00:09:52.240 align:start position:0%
+their own in a systems design interview,
+ 
+
+00:09:52.240 --> 00:09:54.630 align:start position:0%
+their own in a systems design interview,
+this<00:09:52.399><c> section</c><00:09:52.800><c> may</c><00:09:52.959><c> be</c><00:09:53.120><c> quite</c><00:09:53.440><c> useful.</c><00:09:54.240><c> In</c><00:09:54.480><c> the</c>
+
+00:09:54.630 --> 00:09:54.640 align:start position:0%
+this section may be quite useful. In the
+ 
+
+00:09:54.640 --> 00:09:55.910 align:start position:0%
+this section may be quite useful. In the
+event<00:09:54.800><c> that</c><00:09:54.959><c> some</c><00:09:55.120><c> of</c><00:09:55.200><c> the</c><00:09:55.360><c> terms</c><00:09:55.600><c> that</c><00:09:55.760><c> I'm</c>
+
+00:09:55.910 --> 00:09:55.920 align:start position:0%
+event that some of the terms that I'm
+ 
+
+00:09:55.920 --> 00:09:57.910 align:start position:0%
+event that some of the terms that I'm
+using<00:09:56.160><c> aren't</c><00:09:56.480><c> entirely</c><00:09:57.040><c> familiar</c><00:09:57.360><c> to</c><00:09:57.519><c> you,</c>
+
+00:09:57.910 --> 00:09:57.920 align:start position:0%
+using aren't entirely familiar to you,
+ 
+
+00:09:57.920 --> 00:09:59.509 align:start position:0%
+using aren't entirely familiar to you,
+I'd<00:09:58.160><c> highly</c><00:09:58.480><c> recommend</c><00:09:58.880><c> going</c><00:09:59.120><c> through</c><00:09:59.279><c> the</c>
+
+00:09:59.509 --> 00:09:59.519 align:start position:0%
+I'd highly recommend going through the
+ 
+
+00:09:59.519 --> 00:10:01.509 align:start position:0%
+I'd highly recommend going through the
+systems<00:09:59.839><c> design</c><00:10:00.240><c> concepts</c><00:10:00.800><c> videos</c><00:10:01.120><c> on</c><00:10:01.360><c> this</c>
+
+00:10:01.509 --> 00:10:01.519 align:start position:0%
+systems design concepts videos on this
+ 
+
+00:10:01.519 --> 00:10:04.230 align:start position:0%
+systems design concepts videos on this
+channel.<00:10:02.560><c> Recall</c><00:10:02.880><c> our</c><00:10:03.200><c> URL</c><00:10:03.600><c> claiming</c><00:10:04.080><c> code</c>
+
+00:10:04.230 --> 00:10:04.240 align:start position:0%
+channel. Recall our URL claiming code
+ 
+
+00:10:04.240 --> 00:10:06.230 align:start position:0%
+channel. Recall our URL claiming code
+from<00:10:04.480><c> earlier</c><00:10:04.880><c> in</c><00:10:05.120><c> order</c><00:10:05.279><c> to</c><00:10:05.519><c> assign</c><00:10:05.760><c> a</c><00:10:06.000><c> short</c>
+
+00:10:06.230 --> 00:10:06.240 align:start position:0%
+from earlier in order to assign a short
+ 
+
+00:10:06.240 --> 00:10:08.870 align:start position:0%
+from earlier in order to assign a short
+URL<00:10:06.640><c> to</c><00:10:06.800><c> a</c><00:10:07.040><c> particular</c><00:10:07.440><c> client.</c><00:10:08.320><c> Note</c><00:10:08.640><c> that</c>
+
+00:10:08.870 --> 00:10:08.880 align:start position:0%
+URL to a particular client. Note that
+ 
+
+00:10:08.880 --> 00:10:10.949 align:start position:0%
+URL to a particular client. Note that
+databases<00:10:09.440><c> are</c><00:10:09.600><c> concurrent</c><00:10:10.080><c> and</c><00:10:10.320><c> as</c><00:10:10.480><c> a</c><00:10:10.640><c> result</c>
+
+00:10:10.949 --> 00:10:10.959 align:start position:0%
+databases are concurrent and as a result
+ 
+
+00:10:10.959 --> 00:10:12.630 align:start position:0%
+databases are concurrent and as a result
+each<00:10:11.200><c> database</c><00:10:11.680><c> node</c><00:10:12.000><c> may</c><00:10:12.240><c> have</c><00:10:12.399><c> many</c>
+
+00:10:12.630 --> 00:10:12.640 align:start position:0%
+each database node may have many
+ 
+
+00:10:12.640 --> 00:10:14.949 align:start position:0%
+each database node may have many
+simultaneous<00:10:13.360><c> requests</c><00:10:13.760><c> to</c><00:10:13.920><c> it</c><00:10:14.320><c> in</c><00:10:14.640><c> order</c><00:10:14.800><c> to</c>
+
+00:10:14.949 --> 00:10:14.959 align:start position:0%
+simultaneous requests to it in order to
+ 
+
+00:10:14.959 --> 00:10:17.990 align:start position:0%
+simultaneous requests to it in order to
+claim<00:10:15.200><c> a</c><00:10:15.440><c> URL.</c><00:10:16.480><c> Internally</c><00:10:17.279><c> each</c><00:10:17.519><c> query</c><00:10:17.839><c> will</c>
+
+00:10:17.990 --> 00:10:18.000 align:start position:0%
+claim a URL. Internally each query will
+ 
+
+00:10:18.000 --> 00:10:19.990 align:start position:0%
+claim a URL. Internally each query will
+be<00:10:18.160><c> looping</c><00:10:18.480><c> through</c><00:10:18.959><c> rows</c><00:10:19.120><c> and</c><00:10:19.440><c> locking</c><00:10:19.839><c> the</c>
+
+00:10:19.990 --> 00:10:20.000 align:start position:0%
+be looping through rows and locking the
+ 
+
+00:10:20.000 --> 00:10:21.990 align:start position:0%
+be looping through rows and locking the
+first<00:10:20.240><c> available</c><00:10:20.720><c> one</c><00:10:21.040><c> in</c><00:10:21.360><c> order</c><00:10:21.519><c> to</c><00:10:21.680><c> update</c>
+
+00:10:21.990 --> 00:10:22.000 align:start position:0%
+first available one in order to update
+ 
+
+00:10:22.000 --> 00:10:24.790 align:start position:0%
+first available one in order to update
+it.<00:10:22.880><c> If</c><00:10:23.200><c> one</c><00:10:23.440><c> query</c><00:10:23.760><c> is</c><00:10:24.000><c> grabbing</c><00:10:24.320><c> the</c><00:10:24.480><c> lock</c><00:10:24.640><c> on</c>
+
+00:10:24.790 --> 00:10:24.800 align:start position:0%
+it. If one query is grabbing the lock on
+ 
+
+00:10:24.800 --> 00:10:27.030 align:start position:0%
+it. If one query is grabbing the lock on
+a<00:10:25.120><c> row,</c><00:10:25.519><c> another</c><00:10:25.839><c> query</c><00:10:26.160><c> will</c><00:10:26.399><c> not</c><00:10:26.640><c> be</c><00:10:26.720><c> able</c><00:10:26.880><c> to</c>
+
+00:10:27.030 --> 00:10:27.040 align:start position:0%
+a row, another query will not be able to
+ 
+
+00:10:27.040 --> 00:10:29.030 align:start position:0%
+a row, another query will not be able to
+move<00:10:27.279><c> past</c><00:10:27.600><c> that</c><00:10:28.000><c> row</c><00:10:28.160><c> until</c><00:10:28.480><c> the</c><00:10:28.640><c> first</c><00:10:28.800><c> one</c>
+
+00:10:29.030 --> 00:10:29.040 align:start position:0%
+move past that row until the first one
+ 
+
+00:10:29.040 --> 00:10:31.910 align:start position:0%
+move past that row until the first one
+relinquishes<00:10:29.600><c> the</c><00:10:29.760><c> lock.</c><00:10:30.640><c> Using</c><00:10:31.200><c> skip</c><00:10:31.600><c> locked</c>
+
+00:10:31.910 --> 00:10:31.920 align:start position:0%
+relinquishes the lock. Using skip locked
+ 
+
+00:10:31.920 --> 00:10:34.069 align:start position:0%
+relinquishes the lock. Using skip locked
+in<00:10:32.160><c> Postgress</c><00:10:32.800><c> is</c><00:10:32.959><c> a</c><00:10:33.200><c> way</c><00:10:33.279><c> to</c><00:10:33.519><c> simply</c><00:10:33.839><c> jump</c>
+
+00:10:34.069 --> 00:10:34.079 align:start position:0%
+in Postgress is a way to simply jump
+ 
+
+00:10:34.079 --> 00:10:36.550 align:start position:0%
+in Postgress is a way to simply jump
+past<00:10:34.399><c> any</c><00:10:34.800><c> row</c><00:10:34.880><c> that</c><00:10:35.040><c> is</c><00:10:35.200><c> actively</c><00:10:35.680><c> locked</c><00:10:36.240><c> and</c>
+
+00:10:36.550 --> 00:10:36.560 align:start position:0%
+past any row that is actively locked and
+ 
+
+00:10:36.560 --> 00:10:39.030 align:start position:0%
+past any row that is actively locked and
+only<00:10:36.880><c> consider</c><00:10:37.360><c> subsequent</c><00:10:37.760><c> ones.</c><00:10:38.480><c> Since</c><00:10:38.800><c> we</c>
+
+00:10:39.030 --> 00:10:39.040 align:start position:0%
+only consider subsequent ones. Since we
+ 
+
+00:10:39.040 --> 00:10:40.710 align:start position:0%
+only consider subsequent ones. Since we
+don't<00:10:39.200><c> care</c><00:10:39.440><c> about</c><00:10:39.600><c> which</c><00:10:39.920><c> short</c><00:10:40.160><c> URL</c><00:10:40.560><c> we</c>
+
+00:10:40.710 --> 00:10:40.720 align:start position:0%
+don't care about which short URL we
+ 
+
+00:10:40.720 --> 00:10:43.110 align:start position:0%
+don't care about which short URL we
+claim,<00:10:41.200><c> this</c><00:10:41.360><c> is</c><00:10:41.519><c> totally</c><00:10:41.920><c> fine.</c><00:10:42.640><c> Recall</c><00:10:42.880><c> that</c>
+
+00:10:43.110 --> 00:10:43.120 align:start position:0%
+claim, this is totally fine. Recall that
+ 
+
+00:10:43.120 --> 00:10:45.190 align:start position:0%
+claim, this is totally fine. Recall that
+in<00:10:43.279><c> our</c><00:10:43.360><c> Postgress</c><00:10:44.000><c> table,</c><00:10:44.399><c> we</c><00:10:44.640><c> are</c><00:10:44.720><c> manually</c>
+
+00:10:45.190 --> 00:10:45.200 align:start position:0%
+in our Postgress table, we are manually
+ 
+
+00:10:45.200 --> 00:10:47.430 align:start position:0%
+in our Postgress table, we are manually
+performing<00:10:45.760><c> random</c><00:10:46.240><c> request</c><00:10:46.640><c> routing</c><00:10:47.200><c> from</c>
+
+00:10:47.430 --> 00:10:47.440 align:start position:0%
+performing random request routing from
+ 
+
+00:10:47.440 --> 00:10:49.670 align:start position:0%
+performing random request routing from
+our<00:10:47.680><c> application</c><00:10:48.240><c> servers</c><00:10:48.720><c> to</c><00:10:48.959><c> our</c><00:10:49.200><c> database</c>
+
+00:10:49.670 --> 00:10:49.680 align:start position:0%
+our application servers to our database
+ 
+
+00:10:49.680 --> 00:10:53.030 align:start position:0%
+our application servers to our database
+nodes<00:10:50.079><c> when</c><00:10:50.399><c> claiming</c><00:10:50.800><c> a</c><00:10:50.959><c> URL.</c><00:10:52.000><c> Instead,</c><00:10:52.800><c> what</c>
+
+00:10:53.030 --> 00:10:53.040 align:start position:0%
+nodes when claiming a URL. Instead, what
+ 
+
+00:10:53.040 --> 00:10:55.110 align:start position:0%
+nodes when claiming a URL. Instead, what
+we<00:10:53.200><c> could</c><00:10:53.440><c> do</c><00:10:53.600><c> is</c><00:10:53.839><c> use</c><00:10:54.079><c> some</c><00:10:54.320><c> sort</c><00:10:54.480><c> of</c><00:10:54.640><c> database</c>
+
+00:10:55.110 --> 00:10:55.120 align:start position:0%
+we could do is use some sort of database
+ 
+
+00:10:55.120 --> 00:10:57.030 align:start position:0%
+we could do is use some sort of database
+that<00:10:55.440><c> manages</c><00:10:55.920><c> partitioning</c><00:10:56.399><c> and</c><00:10:56.640><c> routing</c>
+
+00:10:57.030 --> 00:10:57.040 align:start position:0%
+that manages partitioning and routing
+ 
+
+00:10:57.040 --> 00:10:59.990 align:start position:0%
+that manages partitioning and routing
+for<00:10:57.279><c> us</c><00:10:57.519><c> automatically.</c><00:10:58.880><c> Performing</c><00:10:59.519><c> manual</c>
+
+00:10:59.990 --> 00:11:00.000 align:start position:0%
+for us automatically. Performing manual
+ 
+
+00:11:00.000 --> 00:11:02.230 align:start position:0%
+for us automatically. Performing manual
+request<00:11:00.399><c> routing</c><00:11:00.800><c> seems</c><00:11:01.120><c> silly</c><00:11:01.680><c> as</c><00:11:02.000><c> it</c>
+
+00:11:02.230 --> 00:11:02.240 align:start position:0%
+request routing seems silly as it
+ 
+
+00:11:02.240 --> 00:11:04.230 align:start position:0%
+request routing seems silly as it
+probably<00:11:02.640><c> adds</c><00:11:02.959><c> a</c><00:11:03.120><c> considerable</c><00:11:03.680><c> amount</c><00:11:04.000><c> of</c>
+
+00:11:04.230 --> 00:11:04.240 align:start position:0%
+probably adds a considerable amount of
+ 
+
+00:11:04.240 --> 00:11:07.350 align:start position:0%
+probably adds a considerable amount of
+complexity<00:11:04.800><c> to</c><00:11:05.040><c> our</c><00:11:05.200><c> application</c><00:11:05.760><c> code.</c><00:11:07.120><c> In</c>
+
+00:11:07.350 --> 00:11:07.360 align:start position:0%
+complexity to our application code. In
+ 
+
+00:11:07.360 --> 00:11:08.870 align:start position:0%
+complexity to our application code. In
+the<00:11:07.519><c> event</c><00:11:07.680><c> that</c><00:11:07.839><c> we</c><00:11:08.079><c> needed</c><00:11:08.240><c> to</c><00:11:08.399><c> rebalance</c>
+
+00:11:08.870 --> 00:11:08.880 align:start position:0%
+the event that we needed to rebalance
+ 
+
+00:11:08.880 --> 00:11:10.949 align:start position:0%
+the event that we needed to rebalance
+the<00:11:09.120><c> key</c><00:11:09.279><c> ranges</c><00:11:09.680><c> that</c><00:11:09.920><c> each</c><00:11:10.160><c> database</c><00:11:10.640><c> node</c>
+
+00:11:10.949 --> 00:11:10.959 align:start position:0%
+the key ranges that each database node
+ 
+
+00:11:10.959 --> 00:11:13.829 align:start position:0%
+the key ranges that each database node
+holds,<00:11:11.600><c> things</c><00:11:11.920><c> could</c><00:11:12.160><c> become</c><00:11:12.480><c> very</c><00:11:12.800><c> complex.</c>
+
+00:11:13.829 --> 00:11:13.839 align:start position:0%
+holds, things could become very complex.
+ 
+
+00:11:13.839 --> 00:11:15.750 align:start position:0%
+holds, things could become very complex.
+Since<00:11:14.079><c> we</c><00:11:14.320><c> need</c><00:11:14.399><c> to</c><00:11:14.560><c> notify</c><00:11:15.120><c> application</c>
+
+00:11:15.750 --> 00:11:15.760 align:start position:0%
+Since we need to notify application
+ 
+
+00:11:15.760 --> 00:11:17.910 align:start position:0%
+Since we need to notify application
+servers<00:11:16.079><c> of</c><00:11:16.240><c> the</c><00:11:16.399><c> rebalance,</c><00:11:17.279><c> there</c><00:11:17.519><c> may</c><00:11:17.680><c> be</c><00:11:17.760><c> a</c>
+
+00:11:17.910 --> 00:11:17.920 align:start position:0%
+servers of the rebalance, there may be a
+ 
+
+00:11:17.920 --> 00:11:19.269 align:start position:0%
+servers of the rebalance, there may be a
+period<00:11:18.160><c> of</c><00:11:18.399><c> time</c><00:11:18.560><c> where</c><00:11:18.800><c> they're</c><00:11:19.040><c> reaching</c>
+
+00:11:19.269 --> 00:11:19.279 align:start position:0%
+period of time where they're reaching
+ 
+
+00:11:19.279 --> 00:11:20.870 align:start position:0%
+period of time where they're reaching
+out<00:11:19.440><c> to</c><00:11:19.600><c> the</c><00:11:19.760><c> wrong</c><00:11:20.000><c> server</c><00:11:20.320><c> to</c><00:11:20.560><c> find</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+out to the wrong server to find
+ 
+
+00:11:20.880 --> 00:11:23.269 align:start position:0%
+out to the wrong server to find
+information<00:11:21.279><c> for</c><00:11:21.440><c> a</c><00:11:21.600><c> given</c><00:11:21.839><c> short</c><00:11:22.079><c> URL.</c><00:11:23.040><c> These</c>
+
+00:11:23.269 --> 00:11:23.279 align:start position:0%
+information for a given short URL. These
+ 
+
+00:11:23.279 --> 00:11:25.190 align:start position:0%
+information for a given short URL. These
+types<00:11:23.519><c> of</c><00:11:23.680><c> edge</c><00:11:24.000><c> cases</c><00:11:24.320><c> are</c><00:11:24.480><c> not</c><00:11:24.640><c> trivial</c><00:11:25.040><c> to</c>
+
+00:11:25.190 --> 00:11:25.200 align:start position:0%
+types of edge cases are not trivial to
+ 
+
+00:11:25.200 --> 00:11:27.030 align:start position:0%
+types of edge cases are not trivial to
+deal<00:11:25.360><c> with.</c><00:11:26.079><c> Even</c><00:11:26.320><c> though</c><00:11:26.480><c> we're</c><00:11:26.720><c> operating</c>
+
+00:11:27.030 --> 00:11:27.040 align:start position:0%
+deal with. Even though we're operating
+ 
+
+00:11:27.040 --> 00:11:28.389 align:start position:0%
+deal with. Even though we're operating
+under<00:11:27.279><c> the</c><00:11:27.519><c> assumption</c><00:11:27.839><c> that</c><00:11:28.000><c> we're</c><00:11:28.240><c> never</c>
+
+00:11:28.389 --> 00:11:28.399 align:start position:0%
+under the assumption that we're never
+ 
+
+00:11:28.399 --> 00:11:30.470 align:start position:0%
+under the assumption that we're never
+rebalancing<00:11:28.959><c> our</c><00:11:29.120><c> key</c><00:11:29.360><c> range,</c><00:11:29.920><c> let's</c><00:11:30.160><c> imagine</c>
+
+00:11:30.470 --> 00:11:30.480 align:start position:0%
+rebalancing our key range, let's imagine
+ 
+
+00:11:30.480 --> 00:11:32.710 align:start position:0%
+rebalancing our key range, let's imagine
+that<00:11:30.640><c> this</c><00:11:30.880><c> was</c><00:11:31.040><c> possible.</c><00:11:32.000><c> Why</c><00:11:32.160><c> don't</c><00:11:32.320><c> we</c><00:11:32.480><c> use</c>
+
+00:11:32.710 --> 00:11:32.720 align:start position:0%
+that this was possible. Why don't we use
+ 
+
+00:11:32.720 --> 00:11:34.389 align:start position:0%
+that this was possible. Why don't we use
+some<00:11:32.880><c> sort</c><00:11:33.040><c> of</c><00:11:33.200><c> extension</c><00:11:33.600><c> for</c><00:11:33.839><c> Postgress</c>
+
+00:11:34.389 --> 00:11:34.399 align:start position:0%
+some sort of extension for Postgress
+ 
+
+00:11:34.399 --> 00:11:36.470 align:start position:0%
+some sort of extension for Postgress
+that<00:11:34.560><c> allows</c><00:11:34.800><c> it</c><00:11:34.959><c> to</c><00:11:35.040><c> be</c><00:11:35.200><c> horizontally</c><00:11:35.839><c> scaled</c>
+
+00:11:36.470 --> 00:11:36.480 align:start position:0%
+that allows it to be horizontally scaled
+ 
+
+00:11:36.480 --> 00:11:37.910 align:start position:0%
+that allows it to be horizontally scaled
+so<00:11:36.640><c> that</c><00:11:36.800><c> we</c><00:11:36.959><c> don't</c><00:11:37.120><c> have</c><00:11:37.279><c> to</c><00:11:37.440><c> manage</c><00:11:37.680><c> this</c>
+
+00:11:37.910 --> 00:11:37.920 align:start position:0%
+so that we don't have to manage this
+ 
+
+00:11:37.920 --> 00:11:40.310 align:start position:0%
+so that we don't have to manage this
+ourselves?<00:11:39.040><c> What</c><00:11:39.279><c> about</c><00:11:39.440><c> a</c><00:11:39.680><c> database</c><00:11:40.079><c> that</c>
+
+00:11:40.310 --> 00:11:40.320 align:start position:0%
+ourselves? What about a database that
+ 
+
+00:11:40.320 --> 00:11:42.710 align:start position:0%
+ourselves? What about a database that
+not<00:11:40.560><c> only</c><00:11:40.720><c> performs</c><00:11:41.200><c> request</c><00:11:41.600><c> routing</c><00:11:42.240><c> but</c>
+
+00:11:42.710 --> 00:11:42.720 align:start position:0%
+not only performs request routing but
+ 
+
+00:11:42.720 --> 00:11:44.870 align:start position:0%
+not only performs request routing but
+even<00:11:43.040><c> automatically</c><00:11:43.680><c> rebalances</c><00:11:44.399><c> partitions</c>
+
+00:11:44.870 --> 00:11:44.880 align:start position:0%
+even automatically rebalances partitions
+ 
+
+00:11:44.880 --> 00:11:47.350 align:start position:0%
+even automatically rebalances partitions
+like<00:11:45.120><c> Cockroach</c><00:11:45.760><c> DB?</c><00:11:46.640><c> While</c><00:11:46.800><c> we</c><00:11:47.040><c> could</c><00:11:47.200><c> do</c>
+
+00:11:47.350 --> 00:11:47.360 align:start position:0%
+like Cockroach DB? While we could do
+ 
+
+00:11:47.360 --> 00:11:49.269 align:start position:0%
+like Cockroach DB? While we could do
+these<00:11:47.600><c> things,</c><00:11:48.079><c> there's</c><00:11:48.320><c> some</c><00:11:48.480><c> nuance</c><00:11:48.880><c> to</c><00:11:49.040><c> it</c>
+
+00:11:49.269 --> 00:11:49.279 align:start position:0%
+these things, there's some nuance to it
+ 
+
+00:11:49.279 --> 00:11:50.870 align:start position:0%
+these things, there's some nuance to it
+which<00:11:49.519><c> depends</c><00:11:49.839><c> on</c><00:11:50.000><c> the</c><00:11:50.160><c> implementation</c><00:11:50.720><c> of</c>
+
+00:11:50.870 --> 00:11:50.880 align:start position:0%
+which depends on the implementation of
+ 
+
+00:11:50.880 --> 00:11:52.389 align:start position:0%
+which depends on the implementation of
+the<00:11:51.120><c> request</c><00:11:51.440><c> routing</c><00:11:51.839><c> and</c><00:11:51.920><c> the</c><00:11:52.079><c> software</c>
+
+00:11:52.389 --> 00:11:52.399 align:start position:0%
+the request routing and the software
+ 
+
+00:11:52.399 --> 00:11:54.470 align:start position:0%
+the request routing and the software
+that<00:11:52.560><c> we</c><00:11:52.720><c> choose.</c><00:11:53.600><c> Note</c><00:11:53.920><c> that</c><00:11:54.079><c> we're</c><00:11:54.320><c> just</c>
+
+00:11:54.470 --> 00:11:54.480 align:start position:0%
+that we choose. Note that we're just
+ 
+
+00:11:54.480 --> 00:11:57.110 align:start position:0%
+that we choose. Note that we're just
+doing<00:11:54.720><c> a</c><00:11:54.959><c> select</c><00:11:55.360><c> star</c><00:11:55.680><c> limit</c><00:11:56.000><c> one</c><00:11:56.560><c> in</c><00:11:56.720><c> the</c><00:11:56.880><c> key</c>
+
+00:11:57.110 --> 00:11:57.120 align:start position:0%
+doing a select star limit one in the key
+ 
+
+00:11:57.120 --> 00:11:59.110 align:start position:0%
+doing a select star limit one in the key
+claiming<00:11:57.600><c> query</c><00:11:57.839><c> that</c><00:11:58.000><c> I</c><00:11:58.240><c> provided.</c>
+
+00:11:59.110 --> 00:11:59.120 align:start position:0%
+claiming query that I provided.
+ 
+
+00:11:59.120 --> 00:12:00.710 align:start position:0%
+claiming query that I provided.
+Depending<00:11:59.440><c> on</c><00:11:59.600><c> the</c><00:11:59.839><c> implementation</c><00:12:00.399><c> of</c><00:12:00.560><c> the</c>
+
+00:12:00.710 --> 00:12:00.720 align:start position:0%
+Depending on the implementation of the
+ 
+
+00:12:00.720 --> 00:12:02.949 align:start position:0%
+Depending on the implementation of the
+request<00:12:01.120><c> routing,</c><00:12:01.760><c> we</c><00:12:02.000><c> may</c><00:12:02.160><c> always</c><00:12:02.480><c> send</c><00:12:02.720><c> our</c>
+
+00:12:02.949 --> 00:12:02.959 align:start position:0%
+request routing, we may always send our
+ 
+
+00:12:02.959 --> 00:12:05.190 align:start position:0%
+request routing, we may always send our
+requests<00:12:03.279><c> to</c><00:12:03.440><c> the</c><00:12:03.600><c> first</c><00:12:03.839><c> shard.</c><00:12:04.720><c> If</c><00:12:04.880><c> you</c><00:12:05.040><c> look</c>
+
+00:12:05.190 --> 00:12:05.200 align:start position:0%
+requests to the first shard. If you look
+ 
+
+00:12:05.200 --> 00:12:06.870 align:start position:0%
+requests to the first shard. If you look
+at<00:12:05.279><c> the</c><00:12:05.440><c> APIs</c><00:12:05.920><c> of</c><00:12:06.160><c> many</c><00:12:06.399><c> distributed</c>
+
+00:12:06.870 --> 00:12:06.880 align:start position:0%
+at the APIs of many distributed
+ 
+
+00:12:06.880 --> 00:12:09.190 align:start position:0%
+at the APIs of many distributed
+databases,<00:12:07.920><c> very</c><00:12:08.160><c> few</c><00:12:08.320><c> of</c><00:12:08.480><c> them</c><00:12:08.720><c> provide</c><00:12:09.040><c> a</c>
+
+00:12:09.190 --> 00:12:09.200 align:start position:0%
+databases, very few of them provide a
+ 
+
+00:12:09.200 --> 00:12:11.110 align:start position:0%
+databases, very few of them provide a
+way<00:12:09.360><c> to</c><00:12:09.519><c> explicitly</c><00:12:10.160><c> select</c><00:12:10.560><c> which</c><00:12:10.800><c> node</c>
+
+00:12:11.110 --> 00:12:11.120 align:start position:0%
+way to explicitly select which node
+ 
+
+00:12:11.120 --> 00:12:13.190 align:start position:0%
+way to explicitly select which node
+you're<00:12:11.279><c> sending</c><00:12:11.519><c> a</c><00:12:11.680><c> query</c><00:12:12.000><c> to.</c><00:12:12.639><c> We</c><00:12:12.880><c> want</c><00:12:13.040><c> to</c>
+
+00:12:13.190 --> 00:12:13.200 align:start position:0%
+you're sending a query to. We want to
+ 
+
+00:12:13.200 --> 00:12:15.110 align:start position:0%
+you're sending a query to. We want to
+spread<00:12:13.440><c> the</c><00:12:13.600><c> load</c><00:12:13.760><c> of</c><00:12:13.920><c> these</c><00:12:14.160><c> URL</c><00:12:14.639><c> creations</c>
+
+00:12:15.110 --> 00:12:15.120 align:start position:0%
+spread the load of these URL creations
+ 
+
+00:12:15.120 --> 00:12:16.790 align:start position:0%
+spread the load of these URL creations
+in<00:12:15.360><c> order</c><00:12:15.519><c> to</c><00:12:15.680><c> avoid</c><00:12:16.079><c> contention</c><00:12:16.480><c> on</c><00:12:16.639><c> the</c>
+
+00:12:16.790 --> 00:12:16.800 align:start position:0%
+in order to avoid contention on the
+ 
+
+00:12:16.800 --> 00:12:18.710 align:start position:0%
+in order to avoid contention on the
+database<00:12:17.200><c> nodes.</c><00:12:17.839><c> So,</c><00:12:18.000><c> we</c><00:12:18.240><c> need</c><00:12:18.320><c> to</c><00:12:18.399><c> be</c><00:12:18.560><c> sure</c>
+
+00:12:18.710 --> 00:12:18.720 align:start position:0%
+database nodes. So, we need to be sure
+ 
+
+00:12:18.720 --> 00:12:19.990 align:start position:0%
+database nodes. So, we need to be sure
+that<00:12:18.880><c> we're</c><00:12:19.040><c> routing</c><00:12:19.360><c> these</c><00:12:19.600><c> requests</c>
+
+00:12:19.990 --> 00:12:20.000 align:start position:0%
+that we're routing these requests
+ 
+
+00:12:20.000 --> 00:12:22.629 align:start position:0%
+that we're routing these requests
+properly.<00:12:21.200><c> It's</c><00:12:21.600><c> probably</c><00:12:22.000><c> much</c><00:12:22.240><c> better</c><00:12:22.399><c> to</c>
+
+00:12:22.629 --> 00:12:22.639 align:start position:0%
+properly. It's probably much better to
+ 
+
+00:12:22.639 --> 00:12:24.310 align:start position:0%
+properly. It's probably much better to
+use<00:12:22.800><c> a</c><00:12:22.959><c> database</c><00:12:23.360><c> that</c><00:12:23.519><c> performs</c><00:12:23.920><c> request</c>
+
+00:12:24.310 --> 00:12:24.320 align:start position:0%
+use a database that performs request
+ 
+
+00:12:24.320 --> 00:12:26.389 align:start position:0%
+use a database that performs request
+routing<00:12:24.639><c> for</c><00:12:24.880><c> you,</c><00:12:25.440><c> but</c><00:12:25.600><c> you</c><00:12:25.839><c> need</c><00:12:25.920><c> to</c><00:12:26.079><c> ensure</c>
+
+00:12:26.389 --> 00:12:26.399 align:start position:0%
+routing for you, but you need to ensure
+ 
+
+00:12:26.399 --> 00:12:27.990 align:start position:0%
+routing for you, but you need to ensure
+that<00:12:26.560><c> your</c><00:12:26.720><c> requests</c><00:12:27.120><c> are</c><00:12:27.360><c> actually</c><00:12:27.680><c> being</c>
+
+00:12:27.990 --> 00:12:28.000 align:start position:0%
+that your requests are actually being
+ 
+
+00:12:28.000 --> 00:12:30.310 align:start position:0%
+that your requests are actually being
+evenly<00:12:28.480><c> distributed</c><00:12:28.880><c> to</c><00:12:29.040><c> nodes.</c><00:12:29.839><c> If</c><00:12:30.000><c> we</c><00:12:30.160><c> had</c>
+
+00:12:30.310 --> 00:12:30.320 align:start position:0%
+evenly distributed to nodes. If we had
+ 
+
+00:12:30.320 --> 00:12:32.310 align:start position:0%
+evenly distributed to nodes. If we had
+to<00:12:30.480><c> build</c><00:12:30.720><c> request</c><00:12:31.120><c> routing</c><00:12:31.519><c> ourselves</c><00:12:31.920><c> in</c><00:12:32.160><c> a</c>
+
+00:12:32.310 --> 00:12:32.320 align:start position:0%
+to build request routing ourselves in a
+ 
+
+00:12:32.320 --> 00:12:34.150 align:start position:0%
+to build request routing ourselves in a
+world<00:12:32.480><c> where</c><00:12:32.720><c> keys</c><00:12:33.040><c> could</c><00:12:33.200><c> be</c><00:12:33.279><c> rebalanced,</c>
+
+00:12:34.150 --> 00:12:34.160 align:start position:0%
+world where keys could be rebalanced,
+ 
+
+00:12:34.160 --> 00:12:36.470 align:start position:0%
+world where keys could be rebalanced,
+that<00:12:34.399><c> would</c><00:12:34.560><c> be</c><00:12:34.639><c> very</c><00:12:34.959><c> tough.</c><00:12:35.839><c> One</c><00:12:36.160><c> example</c>
+
+00:12:36.470 --> 00:12:36.480 align:start position:0%
+that would be very tough. One example
+ 
+
+00:12:36.480 --> 00:12:38.470 align:start position:0%
+that would be very tough. One example
+where<00:12:36.720><c> we</c><00:12:36.880><c> could</c><00:12:37.040><c> use</c><00:12:37.360><c> existing</c><00:12:37.760><c> software</c><00:12:38.240><c> to</c>
+
+00:12:38.470 --> 00:12:38.480 align:start position:0%
+where we could use existing software to
+ 
+
+00:12:38.480 --> 00:12:40.790 align:start position:0%
+where we could use existing software to
+perform<00:12:38.800><c> request</c><00:12:39.200><c> routing</c><00:12:39.680><c> is</c><00:12:39.839><c> Citus,</c><00:12:40.560><c> a</c>
+
+00:12:40.790 --> 00:12:40.800 align:start position:0%
+perform request routing is Citus, a
+ 
+
+00:12:40.800 --> 00:12:43.190 align:start position:0%
+perform request routing is Citus, a
+sharding<00:12:41.200><c> extension</c><00:12:41.600><c> for</c><00:12:41.760><c> Postgress.</c><00:12:42.800><c> Since</c>
+
+00:12:43.190 --> 00:12:43.200 align:start position:0%
+sharding extension for Postgress. Since
+ 
+
+00:12:43.200 --> 00:12:45.190 align:start position:0%
+sharding extension for Postgress. Since
+each<00:12:43.440><c> shard</c><00:12:43.760><c> itself</c><00:12:44.160><c> is</c><00:12:44.399><c> represented</c><00:12:44.800><c> as</c><00:12:45.040><c> a</c>
+
+00:12:45.190 --> 00:12:45.200 align:start position:0%
+each shard itself is represented as a
+ 
+
+00:12:45.200 --> 00:12:47.269 align:start position:0%
+each shard itself is represented as a
+Postgress<00:12:45.760><c> table,</c><00:12:46.320><c> you</c><00:12:46.560><c> can</c><00:12:46.639><c> create</c><00:12:46.959><c> many</c>
+
+00:12:47.269 --> 00:12:47.279 align:start position:0%
+Postgress table, you can create many
+ 
+
+00:12:47.279 --> 00:12:49.030 align:start position:0%
+Postgress table, you can create many
+small<00:12:47.519><c> shards</c><00:12:48.000><c> relative</c><00:12:48.320><c> to</c><00:12:48.480><c> the</c><00:12:48.720><c> number</c><00:12:48.800><c> of</c>
+
+00:12:49.030 --> 00:12:49.040 align:start position:0%
+small shards relative to the number of
+ 
+
+00:12:49.040 --> 00:12:51.110 align:start position:0%
+small shards relative to the number of
+database<00:12:49.440><c> nodes.</c><00:12:50.240><c> This</c><00:12:50.480><c> means</c><00:12:50.720><c> that</c><00:12:50.880><c> your</c>
+
+00:12:51.110 --> 00:12:51.120 align:start position:0%
+database nodes. This means that your
+ 
+
+00:12:51.120 --> 00:12:53.030 align:start position:0%
+database nodes. This means that your
+application<00:12:51.600><c> server</c><00:12:52.000><c> can</c><00:12:52.160><c> request</c><00:12:52.480><c> a</c><00:12:52.720><c> list</c><00:12:52.880><c> of</c>
+
+00:12:53.030 --> 00:12:53.040 align:start position:0%
+application server can request a list of
+ 
+
+00:12:53.040 --> 00:12:54.949 align:start position:0%
+application server can request a list of
+all<00:12:53.120><c> the</c><00:12:53.279><c> shard</c><00:12:53.600><c> tables</c><00:12:54.160><c> and</c><00:12:54.399><c> then</c><00:12:54.560><c> choose</c><00:12:54.800><c> one</c>
+
+00:12:54.949 --> 00:12:54.959 align:start position:0%
+all the shard tables and then choose one
+ 
+
+00:12:54.959 --> 00:12:57.110 align:start position:0%
+all the shard tables and then choose one
+of<00:12:55.040><c> them</c><00:12:55.200><c> to</c><00:12:55.360><c> query</c><00:12:55.680><c> at</c><00:12:55.839><c> random.</c><00:12:56.720><c> Situs</c>
+
+00:12:57.110 --> 00:12:57.120 align:start position:0%
+of them to query at random. Situs
+ 
+
+00:12:57.120 --> 00:12:58.949 align:start position:0%
+of them to query at random. Situs
+delegates<00:12:57.680><c> one</c><00:12:57.920><c> postgress</c><00:12:58.399><c> node</c><00:12:58.639><c> as</c><00:12:58.800><c> the</c>
+
+00:12:58.949 --> 00:12:58.959 align:start position:0%
+delegates one postgress node as the
+ 
+
+00:12:58.959 --> 00:13:00.790 align:start position:0%
+delegates one postgress node as the
+coordinator<00:12:59.760><c> which</c><00:13:00.000><c> knows</c><00:13:00.240><c> where</c><00:13:00.399><c> to</c><00:13:00.560><c> route</c>
+
+00:13:00.790 --> 00:13:00.800 align:start position:0%
+coordinator which knows where to route
+ 
+
+00:13:00.800 --> 00:13:02.629 align:start position:0%
+coordinator which knows where to route
+the<00:13:00.959><c> request</c><00:13:01.200><c> for</c><00:13:01.360><c> the</c><00:13:01.519><c> shard</c><00:13:01.839><c> table.</c>
+
+00:13:02.629 --> 00:13:02.639 align:start position:0%
+the request for the shard table.
+ 
+
+00:13:02.639 --> 00:13:03.910 align:start position:0%
+the request for the shard table.
+Therefore,<00:13:03.200><c> you</c><00:13:03.360><c> wouldn't</c><00:13:03.680><c> have</c><00:13:03.839><c> to</c>
+
+00:13:03.910 --> 00:13:03.920 align:start position:0%
+Therefore, you wouldn't have to
+ 
+
+00:13:03.920 --> 00:13:05.590 align:start position:0%
+Therefore, you wouldn't have to
+implement<00:13:04.320><c> any</c><00:13:04.560><c> manual</c><00:13:04.959><c> routing</c><00:13:05.279><c> in</c><00:13:05.440><c> your</c>
+
+00:13:05.590 --> 00:13:05.600 align:start position:0%
+implement any manual routing in your
+ 
+
+00:13:05.600 --> 00:13:07.430 align:start position:0%
+implement any manual routing in your
+application.<00:13:06.639><c> If</c><00:13:06.880><c> we</c><00:13:07.040><c> needed</c><00:13:07.279><c> to</c>
+
+00:13:07.430 --> 00:13:07.440 align:start position:0%
+application. If we needed to
+ 
+
+00:13:07.440 --> 00:13:09.269 align:start position:0%
+application. If we needed to
+redistribute<00:13:08.079><c> load</c><00:13:08.399><c> between</c><00:13:08.639><c> the</c><00:13:08.800><c> Postgress</c>
+
+00:13:09.269 --> 00:13:09.279 align:start position:0%
+redistribute load between the Postgress
+ 
+
+00:13:09.279 --> 00:13:11.750 align:start position:0%
+redistribute load between the Postgress
+nodes,<00:13:09.920><c> we</c><00:13:10.160><c> can</c><00:13:10.240><c> manually</c><00:13:10.720><c> invoke</c><00:13:11.120><c> Situs'</c>
+
+00:13:11.750 --> 00:13:11.760 align:start position:0%
+nodes, we can manually invoke Situs'
+ 
+
+00:13:11.760 --> 00:13:13.670 align:start position:0%
+nodes, we can manually invoke Situs'
+functionality<00:13:12.399><c> to</c><00:13:12.639><c> move</c><00:13:12.800><c> a</c><00:13:12.959><c> shard</c><00:13:13.279><c> from</c><00:13:13.519><c> one</c>
+
+00:13:13.670 --> 00:13:13.680 align:start position:0%
+functionality to move a shard from one
+ 
+
+00:13:13.680 --> 00:13:15.670 align:start position:0%
+functionality to move a shard from one
+worker<00:13:14.000><c> to</c><00:13:14.240><c> another</c><00:13:14.800><c> without</c><00:13:15.200><c> needing</c><00:13:15.440><c> to</c>
+
+00:13:15.670 --> 00:13:15.680 align:start position:0%
+worker to another without needing to
+ 
+
+00:13:15.680 --> 00:13:17.269 align:start position:0%
+worker to another without needing to
+make<00:13:15.839><c> any</c><00:13:16.079><c> changes</c><00:13:16.399><c> on</c><00:13:16.639><c> our</c><00:13:16.880><c> application</c>
+
+00:13:17.269 --> 00:13:17.279 align:start position:0%
+make any changes on our application
+ 
+
+00:13:17.279 --> 00:13:19.430 align:start position:0%
+make any changes on our application
+servers.<00:13:18.079><c> In</c><00:13:18.320><c> the</c><00:13:18.480><c> past,</c><00:13:18.800><c> I've</c><00:13:19.040><c> covered</c><00:13:19.200><c> an</c>
+
+00:13:19.430 --> 00:13:19.440 align:start position:0%
+servers. In the past, I've covered an
+ 
+
+00:13:19.440 --> 00:13:21.110 align:start position:0%
+servers. In the past, I've covered an
+approach<00:13:19.680><c> to</c><00:13:19.920><c> this</c><00:13:20.079><c> problem</c><00:13:20.399><c> in</c><00:13:20.720><c> which</c><00:13:20.800><c> we</c><00:13:21.040><c> use</c>
+
+00:13:21.110 --> 00:13:21.120 align:start position:0%
+approach to this problem in which we use
+ 
+
+00:13:21.120 --> 00:13:23.350 align:start position:0%
+approach to this problem in which we use
+a<00:13:21.279><c> hashing</c><00:13:21.680><c> or</c><00:13:21.920><c> randomized</c><00:13:22.560><c> approach</c><00:13:23.120><c> to</c>
+
+00:13:23.350 --> 00:13:23.360 align:start position:0%
+a hashing or randomized approach to
+ 
+
+00:13:23.360 --> 00:13:25.190 align:start position:0%
+a hashing or randomized approach to
+choose<00:13:23.600><c> the</c><00:13:23.760><c> short</c><00:13:24.000><c> URL</c><00:13:24.399><c> for</c><00:13:24.560><c> a</c><00:13:24.720><c> given</c><00:13:24.959><c> long</c>
+
+00:13:25.190 --> 00:13:25.200 align:start position:0%
+choose the short URL for a given long
+ 
+
+00:13:25.200 --> 00:13:27.509 align:start position:0%
+choose the short URL for a given long
+URL.<00:13:26.000><c> For</c><00:13:26.240><c> databases</c><00:13:26.800><c> where</c><00:13:27.040><c> we</c><00:13:27.279><c> can't</c>
+
+00:13:27.509 --> 00:13:27.519 align:start position:0%
+URL. For databases where we can't
+ 
+
+00:13:27.519 --> 00:13:29.750 align:start position:0%
+URL. For databases where we can't
+explicitly<00:13:28.160><c> select</c><00:13:28.399><c> a</c><00:13:28.560><c> node</c><00:13:28.800><c> at</c><00:13:28.959><c> random</c><00:13:29.519><c> to</c>
+
+00:13:29.750 --> 00:13:29.760 align:start position:0%
+explicitly select a node at random to
+ 
+
+00:13:29.760 --> 00:13:32.150 align:start position:0%
+explicitly select a node at random to
+run<00:13:29.920><c> our</c><00:13:30.320><c> URL</c><00:13:30.800><c> claiming</c><00:13:31.200><c> query</c><00:13:31.519><c> on,</c>
+
+00:13:32.150 --> 00:13:32.160 align:start position:0%
+run our URL claiming query on,
+ 
+
+00:13:32.160 --> 00:13:34.310 align:start position:0%
+run our URL claiming query on,
+attempting<00:13:32.639><c> to</c><00:13:32.800><c> claim</c><00:13:33.040><c> a</c><00:13:33.200><c> random</c><00:13:33.519><c> short</c><00:13:33.760><c> URL</c>
+
+00:13:34.310 --> 00:13:34.320 align:start position:0%
+attempting to claim a random short URL
+ 
+
+00:13:34.320 --> 00:13:36.069 align:start position:0%
+attempting to claim a random short URL
+should<00:13:34.560><c> spread</c><00:13:34.800><c> the</c><00:13:34.959><c> load</c><00:13:35.200><c> evenly</c><00:13:35.680><c> across</c>
+
+00:13:36.069 --> 00:13:36.079 align:start position:0%
+should spread the load evenly across
+ 
+
+00:13:36.079 --> 00:13:38.710 align:start position:0%
+should spread the load evenly across
+nodes<00:13:36.399><c> in</c><00:13:36.639><c> the</c><00:13:36.800><c> cluster.</c><00:13:37.680><c> That</c><00:13:37.920><c> being</c><00:13:38.240><c> said,</c>
+
+00:13:38.710 --> 00:13:38.720 align:start position:0%
+nodes in the cluster. That being said,
+ 
+
+00:13:38.720 --> 00:13:40.629 align:start position:0%
+nodes in the cluster. That being said,
+there<00:13:38.880><c> is</c><00:13:39.040><c> a</c><00:13:39.200><c> world</c><00:13:39.440><c> in</c><00:13:39.600><c> which</c><00:13:39.760><c> that</c><00:13:39.920><c> long</c><00:13:40.240><c> URL</c>
+
+00:13:40.629 --> 00:13:40.639 align:start position:0%
+there is a world in which that long URL
+ 
+
+00:13:40.639 --> 00:13:42.629 align:start position:0%
+there is a world in which that long URL
+has<00:13:40.880><c> already</c><00:13:41.120><c> been</c><00:13:41.360><c> mapped,</c><00:13:42.160><c> in</c><00:13:42.320><c> which</c><00:13:42.480><c> case</c>
+
+00:13:42.629 --> 00:13:42.639 align:start position:0%
+has already been mapped, in which case
+ 
+
+00:13:42.639 --> 00:13:44.389 align:start position:0%
+has already been mapped, in which case
+we'll<00:13:42.959><c> have</c><00:13:43.040><c> a</c><00:13:43.200><c> conflict</c><00:13:43.600><c> and</c><00:13:43.839><c> we'll</c><00:13:44.079><c> need</c><00:13:44.240><c> to</c>
+
+00:13:44.389 --> 00:13:44.399 align:start position:0%
+we'll have a conflict and we'll need to
+ 
+
+00:13:44.399 --> 00:13:47.190 align:start position:0%
+we'll have a conflict and we'll need to
+find<00:13:44.639><c> a</c><00:13:44.880><c> new</c><00:13:45.120><c> unclaimed</c><00:13:45.680><c> short</c><00:13:45.920><c> URL.</c><00:13:46.880><c> Someone</c>
+
+00:13:47.190 --> 00:13:47.200 align:start position:0%
+find a new unclaimed short URL. Someone
+ 
+
+00:13:47.200 --> 00:13:48.870 align:start position:0%
+find a new unclaimed short URL. Someone
+may<00:13:47.360><c> now</c><00:13:47.600><c> comment</c><00:13:47.920><c> that</c><00:13:48.160><c> we</c><00:13:48.320><c> can</c><00:13:48.399><c> just</c><00:13:48.560><c> hash</c>
+
+00:13:48.870 --> 00:13:48.880 align:start position:0%
+may now comment that we can just hash
+ 
+
+00:13:48.880 --> 00:13:50.790 align:start position:0%
+may now comment that we can just hash
+additional<00:13:49.360><c> fields</c><00:13:49.839><c> to</c><00:13:50.079><c> reduce</c><00:13:50.399><c> the</c><00:13:50.639><c> chance</c>
+
+00:13:50.790 --> 00:13:50.800 align:start position:0%
+additional fields to reduce the chance
+ 
+
+00:13:50.800 --> 00:13:53.670 align:start position:0%
+additional fields to reduce the chance
+of<00:13:51.040><c> conflict.</c><00:13:52.000><c> Even</c><00:13:52.240><c> if</c><00:13:52.480><c> not</c><00:13:52.720><c> very</c><00:13:52.959><c> common,</c>
+
+00:13:53.670 --> 00:13:53.680 align:start position:0%
+of conflict. Even if not very common,
+ 
+
+00:13:53.680 --> 00:13:55.509 align:start position:0%
+of conflict. Even if not very common,
+conflicts<00:13:54.160><c> are</c><00:13:54.320><c> a</c><00:13:54.480><c> possibility</c><00:13:55.040><c> given</c><00:13:55.279><c> a</c>
+
+00:13:55.509 --> 00:13:55.519 align:start position:0%
+conflicts are a possibility given a
+ 
+
+00:13:55.519 --> 00:13:57.670 align:start position:0%
+conflicts are a possibility given a
+limited<00:13:55.920><c> number</c><00:13:56.079><c> of</c><00:13:56.240><c> short</c><00:13:56.560><c> URLs</c><00:13:57.199><c> and</c><00:13:57.440><c> we'll</c>
+
+00:13:57.670 --> 00:13:57.680 align:start position:0%
+limited number of short URLs and we'll
+ 
+
+00:13:57.680 --> 00:13:59.189 align:start position:0%
+limited number of short URLs and we'll
+need<00:13:57.760><c> to</c><00:13:57.920><c> handle</c><00:13:58.160><c> them</c><00:13:58.320><c> in</c><00:13:58.480><c> our</c><00:13:58.720><c> application</c>
+
+00:13:59.189 --> 00:13:59.199 align:start position:0%
+need to handle them in our application
+ 
+
+00:13:59.199 --> 00:14:01.509 align:start position:0%
+need to handle them in our application
+logic.<00:14:00.240><c> In</c><00:14:00.399><c> this</c><00:14:00.639><c> event,</c><00:14:00.880><c> we</c><00:14:01.120><c> could</c><00:14:01.199><c> perform</c>
+
+00:14:01.509 --> 00:14:01.519 align:start position:0%
+logic. In this event, we could perform
+ 
+
+00:14:01.519 --> 00:14:03.189 align:start position:0%
+logic. In this event, we could perform
+probing<00:14:02.079><c> by</c><00:14:02.240><c> having</c><00:14:02.480><c> our</c><00:14:02.720><c> application</c>
+
+00:14:03.189 --> 00:14:03.199 align:start position:0%
+probing by having our application
+ 
+
+00:14:03.199 --> 00:14:04.870 align:start position:0%
+probing by having our application
+servers<00:14:03.600><c> retry</c><00:14:04.079><c> the</c><00:14:04.240><c> request</c><00:14:04.560><c> on</c><00:14:04.720><c> the</c>
+
+00:14:04.870 --> 00:14:04.880 align:start position:0%
+servers retry the request on the
+ 
+
+00:14:04.880 --> 00:14:08.150 align:start position:0%
+servers retry the request on the
+lexographically<00:14:05.920><c> next</c><00:14:06.320><c> short</c><00:14:06.560><c> URL.</c><00:14:07.600><c> To</c><00:14:07.839><c> me,</c>
+
+00:14:08.150 --> 00:14:08.160 align:start position:0%
+lexographically next short URL. To me,
+ 
+
+00:14:08.160 --> 00:14:09.670 align:start position:0%
+lexographically next short URL. To me,
+this<00:14:08.320><c> just</c><00:14:08.560><c> adds</c><00:14:08.800><c> some</c><00:14:09.040><c> additional</c><00:14:09.360><c> code</c>
+
+00:14:09.670 --> 00:14:09.680 align:start position:0%
+this just adds some additional code
+ 
+
+00:14:09.680 --> 00:14:11.269 align:start position:0%
+this just adds some additional code
+complexity<00:14:10.160><c> where</c><00:14:10.399><c> we</c><00:14:10.639><c> probably</c><00:14:10.880><c> don't</c><00:14:11.120><c> need</c>
+
+00:14:11.269 --> 00:14:11.279 align:start position:0%
+complexity where we probably don't need
+ 
+
+00:14:11.279 --> 00:14:13.110 align:start position:0%
+complexity where we probably don't need
+it.<00:14:11.839><c> Though</c><00:14:12.000><c> in</c><00:14:12.240><c> reality,</c><00:14:12.560><c> the</c><00:14:12.800><c> chance</c><00:14:12.959><c> of</c>
+
+00:14:13.110 --> 00:14:13.120 align:start position:0%
+it. Though in reality, the chance of
+ 
+
+00:14:13.120 --> 00:14:15.189 align:start position:0%
+it. Though in reality, the chance of
+hash<00:14:13.440><c> collisions</c><00:14:13.839><c> are</c><00:14:14.079><c> super</c><00:14:14.320><c> low.</c>
+
+00:14:15.189 --> 00:14:15.199 align:start position:0%
+hash collisions are super low.
+ 
+
+00:14:15.199 --> 00:14:16.710 align:start position:0%
+hash collisions are super low.
+Personally,<00:14:15.839><c> I'd</c><00:14:16.079><c> prefer</c><00:14:16.320><c> to</c><00:14:16.399><c> let</c><00:14:16.560><c> the</c>
+
+00:14:16.710 --> 00:14:16.720 align:start position:0%
+Personally, I'd prefer to let the
+ 
+
+00:14:16.720 --> 00:14:18.629 align:start position:0%
+Personally, I'd prefer to let the
+database<00:14:17.199><c> figure</c><00:14:17.360><c> out</c><00:14:17.600><c> which</c><00:14:17.839><c> URL</c><00:14:18.240><c> to</c><00:14:18.399><c> pick</c>
+
+00:14:18.629 --> 00:14:18.639 align:start position:0%
+database figure out which URL to pick
+ 
+
+00:14:18.639 --> 00:14:20.949 align:start position:0%
+database figure out which URL to pick
+via<00:14:18.959><c> one</c><00:14:19.199><c> request,</c><00:14:19.920><c> which</c><00:14:20.160><c> we</c><00:14:20.399><c> accomplish</c><00:14:20.800><c> in</c>
+
+00:14:20.949 --> 00:14:20.959 align:start position:0%
+via one request, which we accomplish in
+ 
+
+00:14:20.959 --> 00:14:23.189 align:start position:0%
+via one request, which we accomplish in
+our<00:14:21.199><c> key</c><00:14:21.440><c> generation</c><00:14:21.920><c> service,</c><00:14:22.720><c> but</c><00:14:22.880><c> I</c><00:14:23.120><c> see</c>
+
+00:14:23.189 --> 00:14:23.199 align:start position:0%
+our key generation service, but I see
+ 
+
+00:14:23.199 --> 00:14:25.030 align:start position:0%
+our key generation service, but I see
+the<00:14:23.440><c> case</c><00:14:23.600><c> for</c><00:14:23.839><c> both.</c><00:14:24.320><c> When</c><00:14:24.480><c> I</c><00:14:24.639><c> choose</c><00:14:24.880><c> a</c>
+
+00:14:25.030 --> 00:14:25.040 align:start position:0%
+the case for both. When I choose a
+ 
+
+00:14:25.040 --> 00:14:26.790 align:start position:0%
+the case for both. When I choose a
+database<00:14:25.360><c> for</c><00:14:25.519><c> these</c><00:14:25.760><c> problems,</c><00:14:26.160><c> I</c><00:14:26.399><c> generally</c>
+
+00:14:26.790 --> 00:14:26.800 align:start position:0%
+database for these problems, I generally
+ 
+
+00:14:26.800 --> 00:14:29.110 align:start position:0%
+database for these problems, I generally
+try<00:14:26.959><c> to</c><00:14:27.120><c> consider</c><00:14:27.519><c> two</c><00:14:27.760><c> things.</c><00:14:28.480><c> The</c><00:14:28.720><c> first</c><00:14:28.880><c> is</c>
+
+00:14:29.110 --> 00:14:29.120 align:start position:0%
+try to consider two things. The first is
+ 
+
+00:14:29.120 --> 00:14:30.790 align:start position:0%
+try to consider two things. The first is
+the<00:14:29.279><c> index</c><00:14:29.680><c> that</c><00:14:29.839><c> they</c><00:14:30.000><c> use,</c><00:14:30.320><c> and</c><00:14:30.480><c> the</c><00:14:30.639><c> second</c>
+
+00:14:30.790 --> 00:14:30.800 align:start position:0%
+the index that they use, and the second
+ 
+
+00:14:30.800 --> 00:14:32.150 align:start position:0%
+the index that they use, and the second
+is<00:14:31.040><c> how</c><00:14:31.199><c> you'd</c><00:14:31.440><c> typically</c><00:14:31.760><c> perform</c>
+
+00:14:32.150 --> 00:14:32.160 align:start position:0%
+is how you'd typically perform
+ 
+
+00:14:32.160 --> 00:14:34.150 align:start position:0%
+is how you'd typically perform
+replication<00:14:32.639><c> for</c><00:14:32.880><c> them.</c><00:14:33.519><c> In</c><00:14:33.680><c> the</c><00:14:33.839><c> case</c><00:14:34.000><c> of</c>
+
+00:14:34.150 --> 00:14:34.160 align:start position:0%
+replication for them. In the case of
+ 
+
+00:14:34.160 --> 00:14:35.990 align:start position:0%
+replication for them. In the case of
+Postgress,<00:14:34.800><c> that</c><00:14:34.959><c> would</c><00:14:35.040><c> be</c><00:14:35.120><c> a</c><00:14:35.279><c> B</c><00:14:35.519><c> tree</c><00:14:35.760><c> with</c>
+
+00:14:35.990 --> 00:14:36.000 align:start position:0%
+Postgress, that would be a B tree with
+ 
+
+00:14:36.000 --> 00:14:38.389 align:start position:0%
+Postgress, that would be a B tree with
+single<00:14:36.320><c> leader</c><00:14:36.560><c> asynchronous</c><00:14:37.279><c> replication.</c>
+
+00:14:38.389 --> 00:14:38.399 align:start position:0%
+single leader asynchronous replication.
+ 
+
+00:14:38.399 --> 00:14:40.870 align:start position:0%
+single leader asynchronous replication.
+Why<00:14:38.560><c> did</c><00:14:38.720><c> we</c><00:14:38.880><c> choose</c><00:14:39.120><c> this?</c>
+
+00:14:40.870 --> 00:14:40.880 align:start position:0%
+Why did we choose this?
+ 
+
+00:14:40.880 --> 00:14:42.629 align:start position:0%
+Why did we choose this?
+Since<00:14:41.199><c> we're</c><00:14:41.440><c> looking</c><00:14:41.600><c> for</c><00:14:41.839><c> something</c><00:14:42.320><c> read</c>
+
+00:14:42.629 --> 00:14:42.639 align:start position:0%
+Since we're looking for something read
+ 
+
+00:14:42.639 --> 00:14:44.629 align:start position:0%
+Since we're looking for something read
+optimized<00:14:43.199><c> here,</c><00:14:43.760><c> I</c><00:14:43.920><c> felt</c><00:14:44.079><c> that</c><00:14:44.240><c> a</c><00:14:44.399><c> B</c>
+
+00:14:44.629 --> 00:14:44.639 align:start position:0%
+optimized here, I felt that a B
+ 
+
+00:14:44.639 --> 00:14:47.189 align:start position:0%
+optimized here, I felt that a B
+treebased<00:14:45.199><c> index</c><00:14:45.600><c> made</c><00:14:45.760><c> the</c><00:14:46.000><c> most</c><00:14:46.160><c> sense.</c><00:14:46.959><c> Of</c>
+
+00:14:47.189 --> 00:14:47.199 align:start position:0%
+treebased index made the most sense. Of
+ 
+
+00:14:47.199 --> 00:14:49.269 align:start position:0%
+treebased index made the most sense. Of
+course,<00:14:47.600><c> in</c><00:14:47.839><c> practice,</c><00:14:48.320><c> a</c><00:14:48.560><c> good</c><00:14:48.720><c> LSM</c>
+
+00:14:49.269 --> 00:14:49.279 align:start position:0%
+course, in practice, a good LSM
+ 
+
+00:14:49.279 --> 00:14:51.030 align:start position:0%
+course, in practice, a good LSM
+treebased<00:14:49.760><c> database</c><00:14:50.240><c> is</c><00:14:50.560><c> still</c><00:14:50.800><c> going</c><00:14:50.959><c> to</c>
+
+00:14:51.030 --> 00:14:51.040 align:start position:0%
+treebased database is still going to
+ 
+
+00:14:51.040 --> 00:14:52.870 align:start position:0%
+treebased database is still going to
+serve<00:14:51.360><c> reads</c><00:14:51.760><c> faster</c><00:14:52.079><c> than</c><00:14:52.240><c> a</c><00:14:52.399><c> bad</c><00:14:52.639><c> B</c>
+
+00:14:52.870 --> 00:14:52.880 align:start position:0%
+serve reads faster than a bad B
+ 
+
+00:14:52.880 --> 00:14:55.590 align:start position:0%
+serve reads faster than a bad B
+treebased<00:14:53.440><c> one.</c><00:14:54.240><c> B</c><00:14:54.480><c> trees</c><00:14:54.880><c> read</c><00:14:55.120><c> data</c><00:14:55.360><c> by</c>
+
+00:14:55.590 --> 00:14:55.600 align:start position:0%
+treebased one. B trees read data by
+ 
+
+00:14:55.600 --> 00:14:58.150 align:start position:0%
+treebased one. B trees read data by
+traversing<00:14:56.079><c> to</c><00:14:56.240><c> a</c><00:14:56.480><c> single</c><00:14:56.720><c> location</c><00:14:57.120><c> on</c><00:14:57.440><c> disk.</c>
+
+00:14:58.150 --> 00:14:58.160 align:start position:0%
+traversing to a single location on disk.
+ 
+
+00:14:58.160 --> 00:15:00.389 align:start position:0%
+traversing to a single location on disk.
+On<00:14:58.320><c> the</c><00:14:58.480><c> contrary,</c><00:14:59.120><c> LSM</c><00:14:59.680><c> trees</c><00:15:00.000><c> may</c><00:15:00.160><c> search</c>
+
+00:15:00.389 --> 00:15:00.399 align:start position:0%
+On the contrary, LSM trees may search
+ 
+
+00:15:00.399 --> 00:15:02.710 align:start position:0%
+On the contrary, LSM trees may search
+for<00:15:00.560><c> a</c><00:15:00.720><c> piece</c><00:15:00.880><c> of</c><00:15:00.959><c> data</c><00:15:01.199><c> in</c><00:15:01.360><c> a</c><00:15:01.519><c> mem</c><00:15:01.839><c> table</c><00:15:02.480><c> as</c>
+
+00:15:02.710 --> 00:15:02.720 align:start position:0%
+for a piece of data in a mem table as
+ 
+
+00:15:02.720 --> 00:15:05.750 align:start position:0%
+for a piece of data in a mem table as
+well<00:15:02.880><c> as</c><00:15:03.120><c> multiple</c><00:15:03.600><c> SS</c><00:15:04.079><c> table</c><00:15:04.320><c> files</c><00:15:04.720><c> on</c><00:15:04.959><c> disk.</c>
+
+00:15:05.750 --> 00:15:05.760 align:start position:0%
+well as multiple SS table files on disk.
+ 
+
+00:15:05.760 --> 00:15:07.910 align:start position:0%
+well as multiple SS table files on disk.
+For<00:15:06.000><c> what</c><00:15:06.160><c> it's</c><00:15:06.320><c> worth,</c><00:15:06.720><c> the</c><00:15:06.880><c> LSM</c><00:15:07.360><c> treebased</c>
+
+00:15:07.910 --> 00:15:07.920 align:start position:0%
+For what it's worth, the LSM treebased
+ 
+
+00:15:07.920 --> 00:15:09.910 align:start position:0%
+For what it's worth, the LSM treebased
+index<00:15:08.320><c> avoids</c><00:15:08.720><c> grabbing</c><00:15:09.040><c> locks</c><00:15:09.440><c> when</c><00:15:09.680><c> reading</c>
+
+00:15:09.910 --> 00:15:09.920 align:start position:0%
+index avoids grabbing locks when reading
+ 
+
+00:15:09.920 --> 00:15:11.829 align:start position:0%
+index avoids grabbing locks when reading
+those<00:15:10.079><c> immutable</c><00:15:10.639><c> files,</c><00:15:11.360><c> leading</c><00:15:11.600><c> to</c>
+
+00:15:11.829 --> 00:15:11.839 align:start position:0%
+those immutable files, leading to
+ 
+
+00:15:11.839 --> 00:15:13.910 align:start position:0%
+those immutable files, leading to
+potential<00:15:12.240><c> performance</c><00:15:12.720><c> benefits.</c><00:15:13.519><c> In</c><00:15:13.760><c> our</c>
+
+00:15:13.910 --> 00:15:13.920 align:start position:0%
+potential performance benefits. In our
+ 
+
+00:15:13.920 --> 00:15:15.829 align:start position:0%
+potential performance benefits. In our
+application,<00:15:14.639><c> we're</c><00:15:14.880><c> using</c><00:15:15.199><c> single</c><00:15:15.600><c> liter</c>
+
+00:15:15.829 --> 00:15:15.839 align:start position:0%
+application, we're using single liter
+ 
+
+00:15:15.839 --> 00:15:17.990 align:start position:0%
+application, we're using single liter
+asynchronous<00:15:16.480><c> replication,</c><00:15:17.440><c> in</c><00:15:17.680><c> which</c><00:15:17.839><c> case</c>
+
+00:15:17.990 --> 00:15:18.000 align:start position:0%
+asynchronous replication, in which case
+ 
+
+00:15:18.000 --> 00:15:20.150 align:start position:0%
+asynchronous replication, in which case
+we<00:15:18.240><c> run</c><00:15:18.399><c> the</c><00:15:18.560><c> risk</c><00:15:18.800><c> of</c><00:15:18.959><c> losing</c><00:15:19.279><c> some</c><00:15:19.519><c> data</c><00:15:19.839><c> on</c><00:15:20.000><c> a</c>
+
+00:15:20.150 --> 00:15:20.160 align:start position:0%
+we run the risk of losing some data on a
+ 
+
+00:15:20.160 --> 00:15:22.470 align:start position:0%
+we run the risk of losing some data on a
+failover.<00:15:21.120><c> At</c><00:15:21.360><c> the</c><00:15:21.519><c> end</c><00:15:21.600><c> of</c><00:15:21.680><c> the</c><00:15:21.839><c> day,</c><00:15:22.079><c> do</c><00:15:22.320><c> we</c>
+
+00:15:22.470 --> 00:15:22.480 align:start position:0%
+failover. At the end of the day, do we
+ 
+
+00:15:22.480 --> 00:15:25.110 align:start position:0%
+failover. At the end of the day, do we
+really<00:15:22.639><c> care?</c><00:15:23.279><c> It's</c><00:15:23.519><c> just</c><00:15:23.680><c> a</c><00:15:23.839><c> URL</c><00:15:24.240><c> shortener.</c>
+
+00:15:25.110 --> 00:15:25.120 align:start position:0%
+really care? It's just a URL shortener.
+ 
+
+00:15:25.120 --> 00:15:26.710 align:start position:0%
+really care? It's just a URL shortener.
+Would<00:15:25.279><c> we</c><00:15:25.519><c> be</c><00:15:25.680><c> better</c><00:15:25.839><c> off</c><00:15:26.079><c> using</c><00:15:26.240><c> a</c><00:15:26.480><c> system</c>
+
+00:15:26.710 --> 00:15:26.720 align:start position:0%
+Would we be better off using a system
+ 
+
+00:15:26.720 --> 00:15:28.790 align:start position:0%
+Would we be better off using a system
+with<00:15:26.880><c> any</c><00:15:27.120><c> other</c><00:15:27.360><c> type</c><00:15:27.519><c> of</c><00:15:27.680><c> replication?</c>
+
+00:15:28.790 --> 00:15:28.800 align:start position:0%
+with any other type of replication?
+ 
+
+00:15:28.800 --> 00:15:30.629 align:start position:0%
+with any other type of replication?
+Leaderless<00:15:29.360><c> replication</c><00:15:30.000><c> as</c><00:15:30.240><c> used</c><00:15:30.480><c> in</c>
+
+00:15:30.629 --> 00:15:30.639 align:start position:0%
+Leaderless replication as used in
+ 
+
+00:15:30.639 --> 00:15:32.710 align:start position:0%
+Leaderless replication as used in
+Cassandra<00:15:31.199><c> or</c><00:15:31.360><c> Sila</c><00:15:32.000><c> allows</c><00:15:32.399><c> always</c>
+
+00:15:32.710 --> 00:15:32.720 align:start position:0%
+Cassandra or Sila allows always
+ 
+
+00:15:32.720 --> 00:15:34.710 align:start position:0%
+Cassandra or Sila allows always
+available<00:15:33.199><c> writing</c><00:15:33.760><c> by</c><00:15:34.000><c> avoiding</c><00:15:34.399><c> long</c>
+
+00:15:34.710 --> 00:15:34.720 align:start position:0%
+available writing by avoiding long
+ 
+
+00:15:34.720 --> 00:15:36.790 align:start position:0%
+available writing by avoiding long
+failovers<00:15:35.279><c> of</c><00:15:35.440><c> single</c><00:15:35.680><c> leaders.</c><00:15:36.399><c> If</c><00:15:36.560><c> a</c>
+
+00:15:36.790 --> 00:15:36.800 align:start position:0%
+failovers of single leaders. If a
+ 
+
+00:15:36.800 --> 00:15:38.790 align:start position:0%
+failovers of single leaders. If a
+replica<00:15:37.199><c> goes</c><00:15:37.440><c> down,</c><00:15:37.839><c> that's</c><00:15:38.160><c> okay.</c><00:15:38.560><c> Just</c>
+
+00:15:38.790 --> 00:15:38.800 align:start position:0%
+replica goes down, that's okay. Just
+ 
+
+00:15:38.800 --> 00:15:41.189 align:start position:0%
+replica goes down, that's okay. Just
+write<00:15:38.959><c> to</c><00:15:39.199><c> other</c><00:15:39.360><c> ones.</c><00:15:40.000><c> In</c><00:15:40.240><c> our</c><00:15:40.480><c> case,</c><00:15:40.800><c> if</c><00:15:41.040><c> one</c>
+
+00:15:41.189 --> 00:15:41.199 align:start position:0%
+write to other ones. In our case, if one
+ 
+
+00:15:41.199 --> 00:15:43.030 align:start position:0%
+write to other ones. In our case, if one
+of<00:15:41.279><c> our</c><00:15:41.440><c> Postgress</c><00:15:42.000><c> leaders</c><00:15:42.320><c> goes</c><00:15:42.560><c> down</c><00:15:42.720><c> for</c><00:15:42.880><c> a</c>
+
+00:15:43.030 --> 00:15:43.040 align:start position:0%
+of our Postgress leaders goes down for a
+ 
+
+00:15:43.040 --> 00:15:44.710 align:start position:0%
+of our Postgress leaders goes down for a
+few<00:15:43.199><c> seconds,</c><00:15:43.760><c> we</c><00:15:44.000><c> won't</c><00:15:44.160><c> be</c><00:15:44.240><c> able</c><00:15:44.399><c> to</c><00:15:44.480><c> write</c>
+
+00:15:44.710 --> 00:15:44.720 align:start position:0%
+few seconds, we won't be able to write
+ 
+
+00:15:44.720 --> 00:15:46.870 align:start position:0%
+few seconds, we won't be able to write
+to<00:15:44.880><c> that</c><00:15:45.040><c> key</c><00:15:45.279><c> space</c><00:15:45.519><c> until</c><00:15:45.760><c> it</c><00:15:45.920><c> falls</c><00:15:46.240><c> over.</c>
+
+00:15:46.870 --> 00:15:46.880 align:start position:0%
+to that key space until it falls over.
+ 
+
+00:15:46.880 --> 00:15:48.629 align:start position:0%
+to that key space until it falls over.
+It<00:15:47.120><c> really</c><00:15:47.360><c> doesn't</c><00:15:47.600><c> matter</c><00:15:47.920><c> though.</c><00:15:48.320><c> If</c><00:15:48.480><c> a</c>
+
+00:15:48.629 --> 00:15:48.639 align:start position:0%
+It really doesn't matter though. If a
+ 
+
+00:15:48.639 --> 00:15:50.389 align:start position:0%
+It really doesn't matter though. If a
+leader<00:15:48.959><c> goes</c><00:15:49.120><c> down,</c><00:15:49.519><c> we'll</c><00:15:49.759><c> just</c><00:15:49.920><c> write</c><00:15:50.160><c> short</c>
+
+00:15:50.389 --> 00:15:50.399 align:start position:0%
+leader goes down, we'll just write short
+ 
+
+00:15:50.399 --> 00:15:51.829 align:start position:0%
+leader goes down, we'll just write short
+URLs<00:15:50.880><c> to</c><00:15:50.959><c> our</c><00:15:51.120><c> other</c><00:15:51.279><c> shards.</c><00:15:51.600><c> In</c><00:15:51.759><c> the</c>
+
+00:15:51.829 --> 00:15:51.839 align:start position:0%
+URLs to our other shards. In the
+ 
+
+00:15:51.839 --> 00:15:53.749 align:start position:0%
+URLs to our other shards. In the
+meantime,<00:15:52.560><c> we</c><00:15:52.800><c> can</c><00:15:52.959><c> still</c><00:15:53.120><c> perform</c><00:15:53.519><c> reads</c>
+
+00:15:53.749 --> 00:15:53.759 align:start position:0%
+meantime, we can still perform reads
+ 
+
+00:15:53.759 --> 00:15:56.150 align:start position:0%
+meantime, we can still perform reads
+from<00:15:53.920><c> its</c><00:15:54.079><c> replicas</c><00:15:54.639><c> as</c><00:15:54.800><c> well.</c><00:15:55.600><c> Again,</c><00:15:56.000><c> this</c>
+
+00:15:56.150 --> 00:15:56.160 align:start position:0%
+from its replicas as well. Again, this
+ 
+
+00:15:56.160 --> 00:15:58.629 align:start position:0%
+from its replicas as well. Again, this
+is<00:15:56.320><c> just</c><00:15:56.480><c> a</c><00:15:56.639><c> URL</c><00:15:57.120><c> shortener.</c><00:15:57.839><c> Temporary</c><00:15:58.320><c> stale</c>
+
+00:15:58.629 --> 00:15:58.639 align:start position:0%
+is just a URL shortener. Temporary stale
+ 
+
+00:15:58.639 --> 00:16:00.949 align:start position:0%
+is just a URL shortener. Temporary stale
+reads<00:15:58.959><c> from</c><00:15:59.120><c> replicas</c><00:15:59.600><c> are</c><00:15:59.839><c> totally</c><00:16:00.160><c> fine.</c><00:16:00.720><c> We</c>
+
+00:16:00.949 --> 00:16:00.959 align:start position:0%
+reads from replicas are totally fine. We
+ 
+
+00:16:00.959 --> 00:16:03.430 align:start position:0%
+reads from replicas are totally fine. We
+don't<00:16:01.120><c> need</c><00:16:01.360><c> strong</c><00:16:01.680><c> consistency.</c>
+
+00:16:03.430 --> 00:16:03.440 align:start position:0%
+don't need strong consistency.
+ 
+
+00:16:03.440 --> 00:16:05.990 align:start position:0%
+don't need strong consistency.
+We<00:16:03.680><c> could</c><00:16:03.839><c> also</c><00:16:04.079><c> use</c><00:16:04.320><c> multiler</c><00:16:04.959><c> replication.</c>
+
+00:16:05.990 --> 00:16:06.000 align:start position:0%
+We could also use multiler replication.
+ 
+
+00:16:06.000 --> 00:16:07.910 align:start position:0%
+We could also use multiler replication.
+This<00:16:06.240><c> enables</c><00:16:06.639><c> low</c><00:16:06.880><c> latency</c><00:16:07.360><c> writers</c><00:16:07.759><c> in</c>
+
+00:16:07.910 --> 00:16:07.920 align:start position:0%
+This enables low latency writers in
+ 
+
+00:16:07.920 --> 00:16:10.550 align:start position:0%
+This enables low latency writers in
+geographically<00:16:08.639><c> diverse</c><00:16:08.959><c> regions.</c><00:16:09.839><c> Multiler</c>
+
+00:16:10.550 --> 00:16:10.560 align:start position:0%
+geographically diverse regions. Multiler
+ 
+
+00:16:10.560 --> 00:16:12.310 align:start position:0%
+geographically diverse regions. Multiler
+replication<00:16:11.120><c> comes</c><00:16:11.360><c> at</c><00:16:11.519><c> the</c><00:16:11.680><c> cost</c><00:16:11.839><c> of</c><00:16:12.000><c> write</c>
+
+00:16:12.310 --> 00:16:12.320 align:start position:0%
+replication comes at the cost of write
+ 
+
+00:16:12.320 --> 00:16:14.150 align:start position:0%
+replication comes at the cost of write
+conflicts<00:16:12.800><c> when</c><00:16:13.040><c> two</c><00:16:13.279><c> users</c><00:16:13.680><c> from</c><00:16:13.920><c> different</c>
+
+00:16:14.150 --> 00:16:14.160 align:start position:0%
+conflicts when two users from different
+ 
+
+00:16:14.160 --> 00:16:16.069 align:start position:0%
+conflicts when two users from different
+regions<00:16:14.800><c> concurrently</c><00:16:15.360><c> claim</c><00:16:15.680><c> the</c><00:16:15.920><c> same</c>
+
+00:16:16.069 --> 00:16:16.079 align:start position:0%
+regions concurrently claim the same
+ 
+
+00:16:16.079 --> 00:16:18.470 align:start position:0%
+regions concurrently claim the same
+short<00:16:16.320><c> URL.</c><00:16:17.279><c> Dealing</c><00:16:17.600><c> with</c><00:16:17.839><c> resolving</c><00:16:18.160><c> these</c>
+
+00:16:18.470 --> 00:16:18.480 align:start position:0%
+short URL. Dealing with resolving these
+ 
+
+00:16:18.480 --> 00:16:20.389 align:start position:0%
+short URL. Dealing with resolving these
+isn't<00:16:18.720><c> worth</c><00:16:18.959><c> the</c><00:16:19.120><c> headache</c><00:16:19.440><c> here.</c><00:16:20.000><c> However,</c>
+
+00:16:20.389 --> 00:16:20.399 align:start position:0%
+isn't worth the headache here. However,
+ 
+
+00:16:20.399 --> 00:16:22.069 align:start position:0%
+isn't worth the headache here. However,
+we<00:16:20.639><c> can</c><00:16:20.800><c> still</c><00:16:20.959><c> speed</c><00:16:21.199><c> this</c><00:16:21.440><c> up</c><00:16:21.519><c> in</c><00:16:21.680><c> a</c><00:16:21.839><c> way</c><00:16:21.920><c> that</c>
+
+00:16:22.069 --> 00:16:22.079 align:start position:0%
+we can still speed this up in a way that
+ 
+
+00:16:22.079 --> 00:16:23.590 align:start position:0%
+we can still speed this up in a way that
+supports<00:16:22.480><c> clients</c><00:16:22.880><c> from</c><00:16:23.120><c> many</c><00:16:23.360><c> different</c>
+
+00:16:23.590 --> 00:16:23.600 align:start position:0%
+supports clients from many different
+ 
+
+00:16:23.600 --> 00:16:26.310 align:start position:0%
+supports clients from many different
+regions.<00:16:24.480><c> In</c><00:16:24.720><c> our</c><00:16:24.959><c> case,</c><00:16:25.360><c> we</c><00:16:25.680><c> could</c><00:16:25.839><c> place</c><00:16:26.079><c> a</c>
+
+00:16:26.310 --> 00:16:26.320 align:start position:0%
+regions. In our case, we could place a
+ 
+
+00:16:26.320 --> 00:16:28.389 align:start position:0%
+regions. In our case, we could place a
+subset<00:16:26.639><c> of</c><00:16:26.720><c> the</c><00:16:26.880><c> Postgress</c><00:16:27.360><c> shard</c><00:16:27.759><c> leaders</c><00:16:28.079><c> in</c>
+
+00:16:28.389 --> 00:16:28.399 align:start position:0%
+subset of the Postgress shard leaders in
+ 
+
+00:16:28.399 --> 00:16:30.629 align:start position:0%
+subset of the Postgress shard leaders in
+each<00:16:28.639><c> region.</c><00:16:29.360><c> Our</c><00:16:29.680><c> application</c><00:16:30.240><c> servers</c>
+
+00:16:30.629 --> 00:16:30.639 align:start position:0%
+each region. Our application servers
+ 
+
+00:16:30.639 --> 00:16:32.550 align:start position:0%
+each region. Our application servers
+could<00:16:30.800><c> be</c><00:16:30.880><c> biased</c><00:16:31.279><c> to</c><00:16:31.440><c> route</c><00:16:31.759><c> URL</c><00:16:32.240><c> creation</c>
+
+00:16:32.550 --> 00:16:32.560 align:start position:0%
+could be biased to route URL creation
+ 
+
+00:16:32.560 --> 00:16:35.189 align:start position:0%
+could be biased to route URL creation
+and<00:16:32.800><c> fetch</c><00:16:33.120><c> requests</c><00:16:33.680><c> to</c><00:16:34.000><c> their</c><00:16:34.240><c> own</c><00:16:34.399><c> region.</c>
+
+00:16:35.189 --> 00:16:35.199 align:start position:0%
+and fetch requests to their own region.
+ 
+
+00:16:35.199 --> 00:16:37.110 align:start position:0%
+and fetch requests to their own region.
+Cross<00:16:35.519><c> region</c><00:16:35.920><c> reads</c><00:16:36.240><c> could</c><00:16:36.399><c> be</c><00:16:36.480><c> sped</c><00:16:36.720><c> up</c><00:16:36.959><c> by</c>
+
+00:16:37.110 --> 00:16:37.120 align:start position:0%
+Cross region reads could be sped up by
+ 
+
+00:16:37.120 --> 00:16:39.509 align:start position:0%
+Cross region reads could be sped up by
+placing<00:16:37.440><c> readonly</c><00:16:38.000><c> replicas</c><00:16:38.480><c> in</c><00:16:38.720><c> each</c><00:16:38.959><c> region</c>
+
+00:16:39.509 --> 00:16:39.519 align:start position:0%
+placing readonly replicas in each region
+ 
+
+00:16:39.519 --> 00:16:41.030 align:start position:0%
+placing readonly replicas in each region
+with<00:16:39.759><c> the</c><00:16:39.920><c> caveat</c><00:16:40.240><c> that</c><00:16:40.480><c> they'll</c><00:16:40.720><c> be</c><00:16:40.800><c> a</c><00:16:40.959><c> little</c>
+
+00:16:41.030 --> 00:16:41.040 align:start position:0%
+with the caveat that they'll be a little
+ 
+
+00:16:41.040 --> 00:16:42.710 align:start position:0%
+with the caveat that they'll be a little
+bit<00:16:41.199><c> further</c><00:16:41.519><c> behind</c><00:16:41.759><c> the</c><00:16:42.000><c> leader</c><00:16:42.320><c> due</c><00:16:42.480><c> to</c>
+
+00:16:42.710 --> 00:16:42.720 align:start position:0%
+bit further behind the leader due to
+ 
+
+00:16:42.720 --> 00:16:44.629 align:start position:0%
+bit further behind the leader due to
+extended<00:16:43.120><c> physical</c><00:16:43.519><c> distance.</c><00:16:44.240><c> Note</c><00:16:44.480><c> that</c>
+
+00:16:44.629 --> 00:16:44.639 align:start position:0%
+extended physical distance. Note that
+ 
+
+00:16:44.639 --> 00:16:46.470 align:start position:0%
+extended physical distance. Note that
+for<00:16:44.800><c> the</c><00:16:44.959><c> caching</c><00:16:45.360><c> section,</c><00:16:45.759><c> I</c><00:16:46.000><c> went</c><00:16:46.160><c> for</c><00:16:46.320><c> the</c>
+
+00:16:46.470 --> 00:16:46.480 align:start position:0%
+for the caching section, I went for the
+ 
+
+00:16:46.480 --> 00:16:48.389 align:start position:0%
+for the caching section, I went for the
+simplest<00:16:46.880><c> approach</c><00:16:47.279><c> possible</c><00:16:47.839><c> with</c><00:16:48.160><c> using</c>
+
+00:16:48.389 --> 00:16:48.399 align:start position:0%
+simplest approach possible with using
+ 
+
+00:16:48.399 --> 00:16:50.470 align:start position:0%
+simplest approach possible with using
+Reddus<00:16:48.880><c> and</c><00:16:48.959><c> look</c><00:16:49.199><c> aside</c><00:16:49.600><c> caching.</c>
+
+00:16:50.470 --> 00:16:50.480 align:start position:0%
+Reddus and look aside caching.
+ 
+
+00:16:50.480 --> 00:16:52.310 align:start position:0%
+Reddus and look aside caching.
+Truthfully,<00:16:51.279><c> I</c><00:16:51.440><c> don't</c><00:16:51.600><c> think</c><00:16:51.759><c> the</c><00:16:52.000><c> required</c>
+
+00:16:52.310 --> 00:16:52.320 align:start position:0%
+Truthfully, I don't think the required
+ 
+
+00:16:52.320 --> 00:16:54.389 align:start position:0%
+Truthfully, I don't think the required
+throughput<00:16:52.800><c> for</c><00:16:52.959><c> this</c><00:16:53.120><c> tiny</c><00:16:53.360><c> URL</c><00:16:54.000><c> is</c><00:16:54.240><c> enough</c>
+
+00:16:54.389 --> 00:16:54.399 align:start position:0%
+throughput for this tiny URL is enough
+ 
+
+00:16:54.399 --> 00:16:56.629 align:start position:0%
+throughput for this tiny URL is enough
+that<00:16:54.639><c> we'd</c><00:16:54.880><c> need</c><00:16:55.120><c> anything</c><00:16:55.440><c> crazier.</c><00:16:56.399><c> That</c>
+
+00:16:56.629 --> 00:16:56.639 align:start position:0%
+that we'd need anything crazier. That
+ 
+
+00:16:56.639 --> 00:16:58.150 align:start position:0%
+that we'd need anything crazier. That
+being<00:16:56.959><c> said,</c><00:16:57.279><c> there</c><00:16:57.440><c> are</c><00:16:57.680><c> perhaps</c><00:16:58.000><c> some</c>
+
+00:16:58.150 --> 00:16:58.160 align:start position:0%
+being said, there are perhaps some
+ 
+
+00:16:58.160 --> 00:17:00.230 align:start position:0%
+being said, there are perhaps some
+optimizations<00:16:58.800><c> that</c><00:16:58.959><c> we</c><00:16:59.120><c> could</c><00:16:59.279><c> make.</c><00:16:59.920><c> Read</c>
+
+00:17:00.230 --> 00:17:00.240 align:start position:0%
+optimizations that we could make. Read
+ 
+
+00:17:00.240 --> 00:17:01.910 align:start position:0%
+optimizations that we could make. Read
+through<00:17:00.480><c> caching</c><00:17:00.880><c> would</c><00:17:01.040><c> allow</c><00:17:01.199><c> us</c><00:17:01.360><c> to</c><00:17:01.519><c> proxy</c>
+
+00:17:01.910 --> 00:17:01.920 align:start position:0%
+through caching would allow us to proxy
+ 
+
+00:17:01.920 --> 00:17:03.670 align:start position:0%
+through caching would allow us to proxy
+the<00:17:02.079><c> database</c><00:17:02.480><c> from</c><00:17:02.639><c> the</c><00:17:02.800><c> cache</c><00:17:03.120><c> on</c><00:17:03.279><c> a</c><00:17:03.440><c> cache</c>
+
+00:17:03.670 --> 00:17:03.680 align:start position:0%
+the database from the cache on a cache
+ 
+
+00:17:03.680 --> 00:17:06.230 align:start position:0%
+the database from the cache on a cache
+miss,<00:17:04.400><c> saving</c><00:17:04.799><c> us</c><00:17:04.959><c> an</c><00:17:05.199><c> extra</c><00:17:05.439><c> round</c><00:17:05.760><c> trip</c><00:17:06.079><c> to</c>
+
+00:17:06.230 --> 00:17:06.240 align:start position:0%
+miss, saving us an extra round trip to
+ 
+
+00:17:06.240 --> 00:17:08.470 align:start position:0%
+miss, saving us an extra round trip to
+populate<00:17:06.640><c> the</c><00:17:06.799><c> cache</c><00:17:07.039><c> from</c><00:17:07.199><c> our</c><00:17:07.360><c> server.</c><00:17:08.240><c> That</c>
+
+00:17:08.470 --> 00:17:08.480 align:start position:0%
+populate the cache from our server. That
+ 
+
+00:17:08.480 --> 00:17:10.309 align:start position:0%
+populate the cache from our server. That
+being<00:17:08.799><c> said,</c><00:17:09.120><c> we'd</c><00:17:09.439><c> likely</c><00:17:09.760><c> have</c><00:17:09.919><c> to</c><00:17:10.000><c> ditch</c>
+
+00:17:10.309 --> 00:17:10.319 align:start position:0%
+being said, we'd likely have to ditch
+ 
+
+00:17:10.319 --> 00:17:12.390 align:start position:0%
+being said, we'd likely have to ditch
+Reddus<00:17:10.880><c> and</c><00:17:11.120><c> implement</c><00:17:11.520><c> this</c><00:17:11.760><c> using</c><00:17:12.000><c> our</c><00:17:12.240><c> own</c>
+
+00:17:12.390 --> 00:17:12.400 align:start position:0%
+Reddus and implement this using our own
+ 
+
+00:17:12.400 --> 00:17:14.230 align:start position:0%
+Reddus and implement this using our own
+caching<00:17:12.959><c> layer</c><00:17:13.120><c> with</c><00:17:13.280><c> an</c><00:17:13.439><c> embedded</c><00:17:13.839><c> caching</c>
+
+00:17:14.230 --> 00:17:14.240 align:start position:0%
+caching layer with an embedded caching
+ 
+
+00:17:14.240 --> 00:17:16.309 align:start position:0%
+caching layer with an embedded caching
+library<00:17:14.959><c> so</c><00:17:15.120><c> that</c><00:17:15.280><c> it</c><00:17:15.439><c> knows</c><00:17:15.679><c> what</c><00:17:15.839><c> queries</c><00:17:16.160><c> to</c>
+
+00:17:16.309 --> 00:17:16.319 align:start position:0%
+library so that it knows what queries to
+ 
+
+00:17:16.319 --> 00:17:18.710 align:start position:0%
+library so that it knows what queries to
+send<00:17:16.480><c> to</c><00:17:16.640><c> the</c><00:17:16.799><c> database.</c><00:17:18.000><c> Welcome</c><00:17:18.319><c> back,</c>
+
+00:17:18.710 --> 00:17:18.720 align:start position:0%
+send to the database. Welcome back,
+ 
+
+00:17:18.720 --> 00:17:20.549 align:start position:0%
+send to the database. Welcome back,
+everyone.<00:17:19.280><c> I</c><00:17:19.520><c> hope</c><00:17:19.600><c> that</c><00:17:19.760><c> you</c><00:17:20.000><c> enjoyed</c><00:17:20.319><c> this</c>
+
+00:17:20.549 --> 00:17:20.559 align:start position:0%
+everyone. I hope that you enjoyed this
+ 
+
+00:17:20.559 --> 00:17:22.870 align:start position:0%
+everyone. I hope that you enjoyed this
+video.<00:17:21.120><c> Um,</c><00:17:21.520><c> I'm</c><00:17:21.760><c> going</c><00:17:21.839><c> to</c><00:17:22.000><c> imagine</c><00:17:22.400><c> that</c><00:17:22.640><c> if</c>
+
+00:17:22.870 --> 00:17:22.880 align:start position:0%
+video. Um, I'm going to imagine that if
+ 
+
+00:17:22.880 --> 00:17:24.949 align:start position:0%
+video. Um, I'm going to imagine that if
+I<00:17:23.039><c> look</c><00:17:23.199><c> at</c><00:17:23.280><c> my</c><00:17:23.520><c> YouTube</c><00:17:23.839><c> analytics,</c><00:17:24.640><c> probably</c>
+
+00:17:24.949 --> 00:17:24.959 align:start position:0%
+I look at my YouTube analytics, probably
+ 
+
+00:17:24.959 --> 00:17:27.429 align:start position:0%
+I look at my YouTube analytics, probably
+like<00:17:25.199><c> 3%</c><00:17:25.760><c> of</c><00:17:25.919><c> you</c><00:17:26.079><c> got</c><00:17:26.319><c> here.</c><00:17:26.880><c> Uh,</c><00:17:27.199><c> so</c>
+
+00:17:27.429 --> 00:17:27.439 align:start position:0%
+like 3% of you got here. Uh, so
+ 
+
+00:17:27.439 --> 00:17:30.150 align:start position:0%
+like 3% of you got here. Uh, so
+congratulations<00:17:28.160><c> on</c><00:17:28.400><c> being</c><00:17:28.640><c> Gigachads.</c><00:17:29.840><c> Uh,</c>
+
+00:17:30.150 --> 00:17:30.160 align:start position:0%
+congratulations on being Gigachads. Uh,
+ 
+
+00:17:30.160 --> 00:17:31.909 align:start position:0%
+congratulations on being Gigachads. Uh,
+not<00:17:30.400><c> going</c><00:17:30.480><c> to</c><00:17:30.640><c> pander</c><00:17:31.039><c> and</c><00:17:31.280><c> tell</c><00:17:31.440><c> you</c><00:17:31.520><c> to</c><00:17:31.760><c> like</c>
+
+00:17:31.909 --> 00:17:31.919 align:start position:0%
+not going to pander and tell you to like
+ 
+
+00:17:31.919 --> 00:17:34.150 align:start position:0%
+not going to pander and tell you to like
+and<00:17:32.080><c> subscribe.</c><00:17:32.720><c> You</c><00:17:32.960><c> do</c><00:17:33.120><c> that</c><00:17:33.280><c> if</c><00:17:33.440><c> you</c><00:17:33.600><c> want.</c>
+
+00:17:34.150 --> 00:17:34.160 align:start position:0%
+and subscribe. You do that if you want.
+ 
+
+00:17:34.160 --> 00:17:36.230 align:start position:0%
+and subscribe. You do that if you want.
+If<00:17:34.400><c> I'm</c><00:17:34.720><c> ugly,</c><00:17:35.200><c> then</c><00:17:35.600><c> uh,</c><00:17:35.679><c> you</c><00:17:35.919><c> probably</c><00:17:36.080><c> don't</c>
+
+00:17:36.230 --> 00:17:36.240 align:start position:0%
+If I'm ugly, then uh, you probably don't
+ 
+
+00:17:36.240 --> 00:17:38.789 align:start position:0%
+If I'm ugly, then uh, you probably don't
+want<00:17:36.400><c> to</c><00:17:36.480><c> see</c><00:17:36.640><c> my</c><00:17:36.799><c> face</c><00:17:37.039><c> much</c><00:17:37.360><c> anymore.</c><00:17:38.400><c> But</c><00:17:38.559><c> I</c>
+
+00:17:38.789 --> 00:17:38.799 align:start position:0%
+want to see my face much anymore. But I
+ 
+
+00:17:38.799 --> 00:17:39.990 align:start position:0%
+want to see my face much anymore. But I
+do<00:17:38.960><c> hope</c><00:17:39.120><c> that</c><00:17:39.280><c> this</c><00:17:39.520><c> was</c><00:17:39.600><c> a</c><00:17:39.760><c> good</c>
+
+00:17:39.990 --> 00:17:40.000 align:start position:0%
+do hope that this was a good
+ 
+
+00:17:40.000 --> 00:17:41.669 align:start position:0%
+do hope that this was a good
+introduction<00:17:40.559><c> to</c><00:17:40.799><c> the</c><00:17:41.039><c> new</c><00:17:41.200><c> series</c><00:17:41.440><c> that</c>
+
+00:17:41.669 --> 00:17:41.679 align:start position:0%
+introduction to the new series that
+ 
+
+00:17:41.679 --> 00:17:43.510 align:start position:0%
+introduction to the new series that
+we're<00:17:41.840><c> building.</c><00:17:42.559><c> Please</c><00:17:42.880><c> leave</c><00:17:43.039><c> me</c><00:17:43.200><c> any</c>
+
+00:17:43.510 --> 00:17:43.520 align:start position:0%
+we're building. Please leave me any
+ 
+
+00:17:43.520 --> 00:17:45.350 align:start position:0%
+we're building. Please leave me any
+feedback<00:17:43.919><c> or</c><00:17:44.240><c> comments</c><00:17:44.640><c> if</c><00:17:44.880><c> there</c><00:17:45.039><c> are</c><00:17:45.200><c> ways</c>
+
+00:17:45.350 --> 00:17:45.360 align:start position:0%
+feedback or comments if there are ways
+ 
+
+00:17:45.360 --> 00:17:47.270 align:start position:0%
+feedback or comments if there are ways
+that<00:17:45.520><c> I</c><00:17:45.679><c> can</c><00:17:45.760><c> improve.</c><00:17:46.320><c> I</c><00:17:46.559><c> am</c><00:17:46.720><c> certainly</c><00:17:47.039><c> going</c>
+
+00:17:47.270 --> 00:17:47.280 align:start position:0%
+that I can improve. I am certainly going
+ 
+
+00:17:47.280 --> 00:17:50.559 align:start position:0%
+that I can improve. I am certainly going
+to<00:17:47.440><c> take</c><00:17:47.600><c> them</c><00:17:47.760><c> into</c><00:17:48.080><c> account.</c>
+

@@ -1,0 +1,2992 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.880 --> 00:00:02.470 align:start position:0%
+ 
+what's<00:00:01.120><c> up</c><00:00:01.280><c> everyone</c><00:00:01.680><c> i'm</c><00:00:01.760><c> back</c><00:00:02.000><c> for</c><00:00:02.159><c> another</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+what's up everyone i'm back for another
+ 
+
+00:00:02.480 --> 00:00:04.470 align:start position:0%
+what's up everyone i'm back for another
+video<00:00:03.040><c> this</c><00:00:03.280><c> time</c><00:00:03.600><c> actually</c><00:00:03.840><c> recording</c><00:00:04.319><c> in</c>
+
+00:00:04.470 --> 00:00:04.480 align:start position:0%
+video this time actually recording in
+ 
+
+00:00:04.480 --> 00:00:06.389 align:start position:0%
+video this time actually recording in
+the<00:00:04.640><c> morning</c><00:00:05.120><c> because</c><00:00:05.359><c> my</c><00:00:05.600><c> roommate</c><00:00:06.080><c> is</c><00:00:06.240><c> out</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+the morning because my roommate is out
+ 
+
+00:00:06.399 --> 00:00:07.990 align:start position:0%
+the morning because my roommate is out
+of<00:00:06.480><c> the</c><00:00:06.560><c> house</c><00:00:06.960><c> and</c><00:00:07.040><c> i</c><00:00:07.200><c> am</c><00:00:07.359><c> more</c><00:00:07.600><c> secretive</c>
+
+00:00:07.990 --> 00:00:08.000 align:start position:0%
+of the house and i am more secretive
+ 
+
+00:00:08.000 --> 00:00:09.509 align:start position:0%
+of the house and i am more secretive
+about<00:00:08.240><c> this</c><00:00:08.480><c> channel</c><00:00:08.800><c> than</c><00:00:09.040><c> a</c><00:00:09.120><c> cheating</c>
+
+00:00:09.509 --> 00:00:09.519 align:start position:0%
+about this channel than a cheating
+ 
+
+00:00:09.519 --> 00:00:10.549 align:start position:0%
+about this channel than a cheating
+spouse
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+spouse
+ 
+
+00:00:10.559 --> 00:00:13.430 align:start position:0%
+spouse
+um<00:00:10.880><c> today</c><00:00:11.360><c> we</c><00:00:11.519><c> are</c><00:00:11.679><c> going</c><00:00:12.080><c> to</c><00:00:12.719><c> go</c><00:00:12.880><c> ahead</c><00:00:13.360><c> and</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+um today we are going to go ahead and
+ 
+
+00:00:13.440 --> 00:00:15.430 align:start position:0%
+um today we are going to go ahead and
+talk<00:00:13.679><c> about</c><00:00:14.000><c> batch</c><00:00:14.320><c> processing</c><00:00:14.960><c> which</c><00:00:15.120><c> means</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+talk about batch processing which means
+ 
+
+00:00:15.440 --> 00:00:17.510 align:start position:0%
+talk about batch processing which means
+we're<00:00:15.920><c> almost</c><00:00:16.240><c> to</c><00:00:16.400><c> the</c><00:00:16.560><c> end</c><00:00:16.800><c> of</c><00:00:16.960><c> all</c><00:00:17.039><c> the</c><00:00:17.199><c> stuff</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+we're almost to the end of all the stuff
+ 
+
+00:00:17.520 --> 00:00:19.510 align:start position:0%
+we're almost to the end of all the stuff
+that<00:00:17.840><c> um</c><00:00:18.160><c> designing</c><00:00:18.640><c> data</c><00:00:18.960><c> intensive</c>
+
+00:00:19.510 --> 00:00:19.520 align:start position:0%
+that um designing data intensive
+ 
+
+00:00:19.520 --> 00:00:21.750 align:start position:0%
+that um designing data intensive
+applications<00:00:20.240><c> talks</c><00:00:20.480><c> about</c><00:00:21.039><c> and</c><00:00:21.279><c> i</c><00:00:21.359><c> can</c><00:00:21.520><c> move</c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+applications talks about and i can move
+ 
+
+00:00:21.760 --> 00:00:23.349 align:start position:0%
+applications talks about and i can move
+on<00:00:21.920><c> to</c><00:00:22.080><c> some</c><00:00:22.240><c> more</c><00:00:22.480><c> you</c><00:00:22.560><c> know</c><00:00:22.800><c> practical</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+on to some more you know practical
+ 
+
+00:00:23.359 --> 00:00:25.589 align:start position:0%
+on to some more you know practical
+systems<00:00:23.760><c> designing</c><00:00:24.320><c> concepts</c><00:00:24.800><c> using</c><00:00:25.119><c> actual</c>
+
+00:00:25.589 --> 00:00:25.599 align:start position:0%
+systems designing concepts using actual
+ 
+
+00:00:25.599 --> 00:00:27.910 align:start position:0%
+systems designing concepts using actual
+technologies<00:00:26.720><c> and</c><00:00:27.199><c> hopefully</c><00:00:27.519><c> that'll</c><00:00:27.760><c> be</c>
+
+00:00:27.910 --> 00:00:27.920 align:start position:0%
+technologies and hopefully that'll be
+ 
+
+00:00:27.920 --> 00:00:29.349 align:start position:0%
+technologies and hopefully that'll be
+pretty<00:00:28.080><c> useful</c><00:00:28.400><c> for</c><00:00:28.560><c> everyone</c><00:00:28.880><c> so</c><00:00:29.039><c> let's</c><00:00:29.199><c> get</c>
+
+00:00:29.349 --> 00:00:29.359 align:start position:0%
+pretty useful for everyone so let's get
+ 
+
+00:00:29.359 --> 00:00:31.269 align:start position:0%
+pretty useful for everyone so let's get
+into<00:00:29.599><c> that</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+into that
+ 
+
+00:00:31.279 --> 00:00:33.750 align:start position:0%
+into that
+okay<00:00:31.760><c> batch</c><00:00:32.079><c> processing</c><00:00:32.800><c> what</c><00:00:32.960><c> is</c><00:00:33.120><c> it</c><00:00:33.280><c> well</c><00:00:33.680><c> a</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+okay batch processing what is it well a
+ 
+
+00:00:33.760 --> 00:00:35.910 align:start position:0%
+okay batch processing what is it well a
+lot<00:00:33.920><c> of</c><00:00:34.079><c> times</c><00:00:34.399><c> companies</c><00:00:34.880><c> want</c><00:00:35.040><c> to</c><00:00:35.120><c> do</c><00:00:35.440><c> huge</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+lot of times companies want to do huge
+ 
+
+00:00:35.920 --> 00:00:38.229 align:start position:0%
+lot of times companies want to do huge
+computations<00:00:36.719><c> on</c><00:00:36.880><c> tons</c><00:00:37.200><c> of</c><00:00:37.360><c> data</c><00:00:37.680><c> for</c><00:00:37.840><c> example</c>
+
+00:00:38.229 --> 00:00:38.239 align:start position:0%
+computations on tons of data for example
+ 
+
+00:00:38.239 --> 00:00:40.470 align:start position:0%
+computations on tons of data for example
+if<00:00:38.320><c> they</c><00:00:38.399><c> want</c><00:00:38.559><c> to</c><00:00:38.640><c> build</c><00:00:38.879><c> search</c><00:00:39.200><c> indexes</c>
+
+00:00:40.470 --> 00:00:40.480 align:start position:0%
+if they want to build search indexes
+ 
+
+00:00:40.480 --> 00:00:41.990 align:start position:0%
+if they want to build search indexes
+do<00:00:40.719><c> some</c><00:00:40.879><c> machine</c><00:00:41.280><c> learning</c><00:00:41.600><c> data</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+do some machine learning data
+ 
+
+00:00:42.000 --> 00:00:44.229 align:start position:0%
+do some machine learning data
+aggregation<00:00:42.719><c> or</c><00:00:42.960><c> even</c><00:00:43.200><c> just</c><00:00:43.440><c> recommendations</c>
+
+00:00:44.229 --> 00:00:44.239 align:start position:0%
+aggregation or even just recommendations
+ 
+
+00:00:44.239 --> 00:00:46.790 align:start position:0%
+aggregation or even just recommendations
+based<00:00:44.559><c> on</c><00:00:44.640><c> a</c><00:00:44.719><c> bunch</c><00:00:44.960><c> of</c><00:00:45.039><c> data</c><00:00:45.760><c> and</c><00:00:45.920><c> also</c><00:00:46.239><c> etl</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+based on a bunch of data and also etl
+ 
+
+00:00:46.800 --> 00:00:49.270 align:start position:0%
+based on a bunch of data and also etl
+processes<00:00:47.360><c> to</c><00:00:47.680><c> put</c><00:00:47.920><c> data</c><00:00:48.399><c> from</c><00:00:48.640><c> you</c><00:00:48.719><c> know</c><00:00:49.039><c> one</c>
+
+00:00:49.270 --> 00:00:49.280 align:start position:0%
+processes to put data from you know one
+ 
+
+00:00:49.280 --> 00:00:51.430 align:start position:0%
+processes to put data from you know one
+type<00:00:49.520><c> of</c><00:00:50.000><c> data</c><00:00:50.320><c> format</c><00:00:50.879><c> like</c><00:00:51.039><c> in</c><00:00:51.199><c> a</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+type of data format like in a
+ 
+
+00:00:51.440 --> 00:00:53.670 align:start position:0%
+type of data format like in a
+transactional<00:00:52.000><c> database</c><00:00:52.960><c> and</c><00:00:53.120><c> move</c><00:00:53.280><c> it</c><00:00:53.360><c> to</c><00:00:53.520><c> an</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+transactional database and move it to an
+ 
+
+00:00:53.680 --> 00:00:55.670 align:start position:0%
+transactional database and move it to an
+analytical<00:00:54.239><c> database</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+analytical database
+ 
+
+00:00:55.680 --> 00:00:58.069 align:start position:0%
+analytical database
+however<00:00:56.399><c> the</c><00:00:56.559><c> thing</c><00:00:56.800><c> is</c><00:00:57.360><c> we've</c><00:00:57.600><c> discussed</c>
+
+00:00:58.069 --> 00:00:58.079 align:start position:0%
+however the thing is we've discussed
+ 
+
+00:00:58.079 --> 00:00:59.990 align:start position:0%
+however the thing is we've discussed
+kind<00:00:58.320><c> of</c><00:00:58.399><c> how</c><00:00:58.719><c> companies</c><00:00:59.120><c> tend</c><00:00:59.359><c> to</c><00:00:59.440><c> store</c><00:00:59.760><c> tons</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+kind of how companies tend to store tons
+ 
+
+00:01:00.000 --> 00:01:02.549 align:start position:0%
+kind of how companies tend to store tons
+of<00:01:00.079><c> data</c><00:01:00.480><c> to</c><00:01:00.559><c> do</c><00:01:00.800><c> analytics</c><00:01:01.359><c> on</c><00:01:01.840><c> and</c><00:01:02.079><c> generally</c>
+
+00:01:02.549 --> 00:01:02.559 align:start position:0%
+of data to do analytics on and generally
+ 
+
+00:01:02.559 --> 00:01:03.990 align:start position:0%
+of data to do analytics on and generally
+speaking<00:01:02.879><c> that's</c><00:01:03.120><c> in</c><00:01:03.280><c> something</c><00:01:03.520><c> like</c><00:01:03.680><c> a</c><00:01:03.760><c> data</c>
+
+00:01:03.990 --> 00:01:04.000 align:start position:0%
+speaking that's in something like a data
+ 
+
+00:01:04.000 --> 00:01:06.230 align:start position:0%
+speaking that's in something like a data
+warehouse<00:01:04.799><c> however</c><00:01:05.280><c> data</c><00:01:05.519><c> warehouses</c><00:01:06.080><c> are</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+warehouse however data warehouses are
+ 
+
+00:01:06.240 --> 00:01:08.550 align:start position:0%
+warehouse however data warehouses are
+inherently<00:01:06.720><c> limiting</c><00:01:07.280><c> first</c><00:01:07.520><c> of</c><00:01:07.680><c> all</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+inherently limiting first of all
+ 
+
+00:01:08.560 --> 00:01:10.550 align:start position:0%
+inherently limiting first of all
+you're<00:01:08.720><c> limited</c><00:01:09.119><c> by</c><00:01:09.360><c> the</c><00:01:09.600><c> sql</c><00:01:09.920><c> query</c><00:01:10.240><c> language</c>
+
+00:01:10.550 --> 00:01:10.560 align:start position:0%
+you're limited by the sql query language
+ 
+
+00:01:10.560 --> 00:01:11.990 align:start position:0%
+you're limited by the sql query language
+which<00:01:10.720><c> means</c><00:01:10.960><c> that</c><00:01:11.119><c> you</c><00:01:11.200><c> can</c><00:01:11.360><c> only</c><00:01:11.520><c> do</c><00:01:11.680><c> things</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+which means that you can only do things
+ 
+
+00:01:12.000 --> 00:01:14.070 align:start position:0%
+which means that you can only do things
+that<00:01:12.159><c> sql</c><00:01:12.479><c> supports</c><00:01:13.200><c> and</c><00:01:13.360><c> you</c><00:01:13.439><c> can't</c><00:01:13.680><c> just</c><00:01:13.840><c> run</c>
+
+00:01:14.070 --> 00:01:14.080 align:start position:0%
+that sql supports and you can't just run
+ 
+
+00:01:14.080 --> 00:01:16.550 align:start position:0%
+that sql supports and you can't just run
+arbitrary<00:01:14.640><c> code</c><00:01:14.960><c> on</c><00:01:15.040><c> your</c><00:01:15.200><c> data</c><00:01:15.920><c> additionally</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+arbitrary code on your data additionally
+ 
+
+00:01:16.560 --> 00:01:18.070 align:start position:0%
+arbitrary code on your data additionally
+it<00:01:16.640><c> requires</c><00:01:17.119><c> that</c><00:01:17.200><c> your</c><00:01:17.360><c> data</c><00:01:17.680><c> has</c><00:01:17.840><c> to</c><00:01:17.920><c> be</c>
+
+00:01:18.070 --> 00:01:18.080 align:start position:0%
+it requires that your data has to be
+ 
+
+00:01:18.080 --> 00:01:20.310 align:start position:0%
+it requires that your data has to be
+structured<00:01:18.960><c> which</c><00:01:19.200><c> means</c><00:01:19.439><c> that</c><00:01:19.680><c> you</c><00:01:19.920><c> actually</c>
+
+00:01:20.310 --> 00:01:20.320 align:start position:0%
+structured which means that you actually
+ 
+
+00:01:20.320 --> 00:01:22.630 align:start position:0%
+structured which means that you actually
+have<00:01:20.560><c> to</c><00:01:20.799><c> pre-format</c><00:01:21.439><c> it</c><00:01:21.600><c> somehow</c><00:01:22.240><c> as</c><00:01:22.400><c> opposed</c>
+
+00:01:22.630 --> 00:01:22.640 align:start position:0%
+have to pre-format it somehow as opposed
+ 
+
+00:01:22.640 --> 00:01:24.390 align:start position:0%
+have to pre-format it somehow as opposed
+to<00:01:22.799><c> just</c><00:01:23.360><c> dumping</c><00:01:23.680><c> a</c><00:01:23.759><c> bunch</c><00:01:23.920><c> of</c><00:01:24.080><c> data</c>
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+to just dumping a bunch of data
+ 
+
+00:01:24.400 --> 00:01:25.990 align:start position:0%
+to just dumping a bunch of data
+somewhere<00:01:24.720><c> and</c><00:01:24.799><c> then</c><00:01:24.960><c> writing</c><00:01:25.280><c> code</c><00:01:25.600><c> later</c><00:01:25.920><c> to</c>
+
+00:01:25.990 --> 00:01:26.000 align:start position:0%
+somewhere and then writing code later to
+ 
+
+00:01:26.000 --> 00:01:28.149 align:start position:0%
+somewhere and then writing code later to
+handle<00:01:26.320><c> it</c>
+
+00:01:28.149 --> 00:01:28.159 align:start position:0%
+handle it
+ 
+
+00:01:28.159 --> 00:01:29.590 align:start position:0%
+handle it
+so<00:01:28.479><c> this</c><00:01:28.640><c> is</c><00:01:28.720><c> where</c><00:01:28.960><c> something</c><00:01:29.280><c> where</c>
+
+00:01:29.590 --> 00:01:29.600 align:start position:0%
+so this is where something where
+ 
+
+00:01:29.600 --> 00:01:31.510 align:start position:0%
+so this is where something where
+distributed<00:01:30.240><c> file</c><00:01:30.560><c> systems</c><00:01:31.040><c> and</c><00:01:31.200><c> batch</c>
+
+00:01:31.510 --> 00:01:31.520 align:start position:0%
+distributed file systems and batch
+ 
+
+00:01:31.520 --> 00:01:32.870 align:start position:0%
+distributed file systems and batch
+processing<00:01:32.000><c> come</c><00:01:32.240><c> in</c><00:01:32.400><c> so</c><00:01:32.560><c> what's</c><00:01:32.799><c> a</c>
+
+00:01:32.870 --> 00:01:32.880 align:start position:0%
+processing come in so what's a
+ 
+
+00:01:32.880 --> 00:01:35.030 align:start position:0%
+processing come in so what's a
+distributed<00:01:33.439><c> file</c><00:01:33.680><c> system</c><00:01:34.400><c> well</c><00:01:34.640><c> if</c><00:01:34.799><c> you</c><00:01:34.880><c> can</c>
+
+00:01:35.030 --> 00:01:35.040 align:start position:0%
+distributed file system well if you can
+ 
+
+00:01:35.040 --> 00:01:36.630 align:start position:0%
+distributed file system well if you can
+think<00:01:35.200><c> of</c><00:01:35.280><c> a</c><00:01:35.360><c> normal</c><00:01:35.680><c> file</c><00:01:36.000><c> system</c><00:01:36.400><c> on</c><00:01:36.560><c> your</c>
+
+00:01:36.630 --> 00:01:36.640 align:start position:0%
+think of a normal file system on your
+ 
+
+00:01:36.640 --> 00:01:38.069 align:start position:0%
+think of a normal file system on your
+local<00:01:36.960><c> computer</c><00:01:37.360><c> which</c><00:01:37.600><c> just</c><00:01:37.840><c> has</c>
+
+00:01:38.069 --> 00:01:38.079 align:start position:0%
+local computer which just has
+ 
+
+00:01:38.079 --> 00:01:40.710 align:start position:0%
+local computer which just has
+directories<00:01:39.040><c> subdirectories</c><00:01:39.840><c> and</c><00:01:40.000><c> files</c><00:01:40.640><c> a</c>
+
+00:01:40.710 --> 00:01:40.720 align:start position:0%
+directories subdirectories and files a
+ 
+
+00:01:40.720 --> 00:01:42.389 align:start position:0%
+directories subdirectories and files a
+distributed<00:01:41.280><c> file</c><00:01:41.600><c> system</c><00:01:41.920><c> is</c><00:01:42.000><c> the</c><00:01:42.159><c> same</c>
+
+00:01:42.389 --> 00:01:42.399 align:start position:0%
+distributed file system is the same
+ 
+
+00:01:42.399 --> 00:01:44.230 align:start position:0%
+distributed file system is the same
+thing<00:01:42.880><c> but</c><00:01:43.040><c> running</c><00:01:43.439><c> over</c><00:01:43.680><c> a</c><00:01:43.840><c> bunch</c><00:01:44.079><c> of</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+thing but running over a bunch of
+ 
+
+00:01:44.240 --> 00:01:46.230 align:start position:0%
+thing but running over a bunch of
+different<00:01:44.479><c> computers</c><00:01:45.439><c> with</c><00:01:45.680><c> some</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+different computers with some
+ 
+
+00:01:46.240 --> 00:01:49.270 align:start position:0%
+different computers with some
+replication<00:01:47.040><c> and</c><00:01:47.200><c> as</c><00:01:47.360><c> a</c><00:01:47.439><c> result</c><00:01:47.840><c> redundancy</c>
+
+00:01:49.270 --> 00:01:49.280 align:start position:0%
+replication and as a result redundancy
+ 
+
+00:01:49.280 --> 00:01:51.270 align:start position:0%
+replication and as a result redundancy
+file<00:01:49.600><c> systems</c><00:01:49.920><c> such</c><00:01:50.159><c> as</c><00:01:50.240><c> hadoop</c><00:01:50.720><c> which</c><00:01:50.880><c> is</c><00:01:51.040><c> the</c>
+
+00:01:51.270 --> 00:01:51.280 align:start position:0%
+file systems such as hadoop which is the
+ 
+
+00:01:51.280 --> 00:01:53.510 align:start position:0%
+file systems such as hadoop which is the
+open<00:01:51.680><c> source</c><00:01:52.000><c> version</c><00:01:52.560><c> of</c><00:01:52.960><c> basically</c><00:01:53.360><c> the</c>
+
+00:01:53.510 --> 00:01:53.520 align:start position:0%
+open source version of basically the
+ 
+
+00:01:53.520 --> 00:01:55.350 align:start position:0%
+open source version of basically the
+original<00:01:53.920><c> distributed</c><00:01:54.399><c> file</c><00:01:54.720><c> system</c><00:01:55.040><c> google</c>
+
+00:01:55.350 --> 00:01:55.360 align:start position:0%
+original distributed file system google
+ 
+
+00:01:55.360 --> 00:01:57.670 align:start position:0%
+original distributed file system google
+file<00:01:55.680><c> system</c><00:01:56.399><c> can</c><00:01:56.640><c> be</c><00:01:56.719><c> replicated</c><00:01:57.280><c> around</c><00:01:57.600><c> the</c>
+
+00:01:57.670 --> 00:01:57.680 align:start position:0%
+file system can be replicated around the
+ 
+
+00:01:57.680 --> 00:01:58.789 align:start position:0%
+file system can be replicated around the
+world<00:01:57.920><c> in</c><00:01:58.000><c> order</c><00:01:58.240><c> to</c><00:01:58.320><c> get</c><00:01:58.479><c> some</c><00:01:58.640><c> good</c>
+
+00:01:58.789 --> 00:01:58.799 align:start position:0%
+world in order to get some good
+ 
+
+00:01:58.799 --> 00:02:00.310 align:start position:0%
+world in order to get some good
+performance<00:01:59.360><c> and</c><00:01:59.520><c> distribute</c><00:01:59.920><c> it</c><00:02:00.079><c> over</c><00:02:00.240><c> a</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+performance and distribute it over a
+ 
+
+00:02:00.320 --> 00:02:02.149 align:start position:0%
+performance and distribute it over a
+bunch<00:02:00.560><c> of</c><00:02:00.719><c> nodes</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+bunch of nodes
+ 
+
+00:02:02.159 --> 00:02:04.149 align:start position:0%
+bunch of nodes
+okay<00:02:02.399><c> so</c><00:02:02.560><c> what</c><00:02:02.719><c> is</c><00:02:02.799><c> mapreduce</c><00:02:03.360><c> well</c><00:02:03.600><c> mapreduce</c>
+
+00:02:04.149 --> 00:02:04.159 align:start position:0%
+okay so what is mapreduce well mapreduce
+ 
+
+00:02:04.159 --> 00:02:06.789 align:start position:0%
+okay so what is mapreduce well mapreduce
+is<00:02:04.320><c> also</c><00:02:04.640><c> kind</c><00:02:04.880><c> of</c><00:02:05.040><c> like</c><00:02:05.200><c> this</c><00:02:05.439><c> open</c><00:02:05.840><c> source</c>
+
+00:02:06.789 --> 00:02:06.799 align:start position:0%
+is also kind of like this open source
+ 
+
+00:02:06.799 --> 00:02:09.029 align:start position:0%
+is also kind of like this open source
+batch<00:02:07.119><c> processing</c><00:02:07.759><c> programming</c><00:02:08.160><c> model</c><00:02:08.800><c> which</c>
+
+00:02:09.029 --> 00:02:09.039 align:start position:0%
+batch processing programming model which
+ 
+
+00:02:09.039 --> 00:02:11.910 align:start position:0%
+batch processing programming model which
+works<00:02:09.440><c> on</c><00:02:09.520><c> top</c><00:02:09.759><c> of</c><00:02:09.840><c> hadoop</c><00:02:10.800><c> so</c><00:02:11.440><c> in</c><00:02:11.599><c> order</c><00:02:11.840><c> to</c>
+
+00:02:11.910 --> 00:02:11.920 align:start position:0%
+works on top of hadoop so in order to
+ 
+
+00:02:11.920 --> 00:02:12.869 align:start position:0%
+works on top of hadoop so in order to
+make
+
+00:02:12.869 --> 00:02:12.879 align:start position:0%
+make
+ 
+
+00:02:12.879 --> 00:02:14.869 align:start position:0%
+make
+computations<00:02:13.760><c> you</c><00:02:13.920><c> basically</c><00:02:14.319><c> need</c><00:02:14.480><c> to</c><00:02:14.640><c> write</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+computations you basically need to write
+ 
+
+00:02:14.879 --> 00:02:17.910 align:start position:0%
+computations you basically need to write
+two<00:02:15.120><c> functions</c><00:02:15.840><c> a</c><00:02:16.000><c> mapper</c><00:02:16.480><c> and</c><00:02:16.640><c> a</c><00:02:16.720><c> reducer</c>
+
+00:02:17.910 --> 00:02:17.920 align:start position:0%
+two functions a mapper and a reducer
+ 
+
+00:02:17.920 --> 00:02:20.390 align:start position:0%
+two functions a mapper and a reducer
+and<00:02:18.319><c> then</c><00:02:19.120><c> you</c><00:02:19.280><c> know</c><00:02:19.440><c> mapreduce</c><00:02:20.000><c> is</c><00:02:20.080><c> going</c><00:02:20.319><c> to</c>
+
+00:02:20.390 --> 00:02:20.400 align:start position:0%
+and then you know mapreduce is going to
+ 
+
+00:02:20.400 --> 00:02:22.390 align:start position:0%
+and then you know mapreduce is going to
+do<00:02:20.480><c> the</c><00:02:20.560><c> rest</c><00:02:20.800><c> for</c><00:02:20.959><c> you</c><00:02:21.040><c> but</c><00:02:21.200><c> just</c><00:02:21.360><c> to</c><00:02:21.520><c> give</c><00:02:21.840><c> a</c>
+
+00:02:22.390 --> 00:02:22.400 align:start position:0%
+do the rest for you but just to give a
+ 
+
+00:02:22.400 --> 00:02:23.910 align:start position:0%
+do the rest for you but just to give a
+more<00:02:22.879><c> you</c><00:02:22.959><c> know</c>
+
+00:02:23.910 --> 00:02:23.920 align:start position:0%
+more you know
+ 
+
+00:02:23.920 --> 00:02:25.430 align:start position:0%
+more you know
+in-depth<00:02:24.319><c> overview</c><00:02:24.800><c> of</c><00:02:24.879><c> what's</c><00:02:25.120><c> actually</c>
+
+00:02:25.430 --> 00:02:25.440 align:start position:0%
+in-depth overview of what's actually
+ 
+
+00:02:25.440 --> 00:02:26.470 align:start position:0%
+in-depth overview of what's actually
+happening
+
+00:02:26.470 --> 00:02:26.480 align:start position:0%
+happening
+ 
+
+00:02:26.480 --> 00:02:28.790 align:start position:0%
+happening
+you<00:02:26.640><c> give</c><00:02:26.879><c> mapreduce</c><00:02:27.440><c> a</c><00:02:27.599><c> ton</c><00:02:27.840><c> of</c><00:02:28.000><c> input</c><00:02:28.400><c> files</c>
+
+00:02:28.790 --> 00:02:28.800 align:start position:0%
+you give mapreduce a ton of input files
+ 
+
+00:02:28.800 --> 00:02:31.910 align:start position:0%
+you give mapreduce a ton of input files
+by<00:02:29.120><c> specifying</c><00:02:29.680><c> some</c><00:02:29.920><c> directory</c><00:02:30.400><c> in</c><00:02:30.560><c> hdfs</c>
+
+00:02:31.910 --> 00:02:31.920 align:start position:0%
+by specifying some directory in hdfs
+ 
+
+00:02:31.920 --> 00:02:33.750 align:start position:0%
+by specifying some directory in hdfs
+and<00:02:32.239><c> you're</c><00:02:32.480><c> just</c><00:02:32.720><c> going</c><00:02:32.959><c> to</c><00:02:33.040><c> go</c><00:02:33.200><c> ahead</c><00:02:33.599><c> and</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+and you're just going to go ahead and
+ 
+
+00:02:33.760 --> 00:02:35.750 align:start position:0%
+and you're just going to go ahead and
+return<00:02:34.239><c> a</c><00:02:34.400><c> bunch</c><00:02:34.560><c> of</c><00:02:34.720><c> output</c><00:02:35.120><c> files</c><00:02:35.440><c> you</c><00:02:35.519><c> never</c>
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+return a bunch of output files you never
+ 
+
+00:02:35.760 --> 00:02:38.070 align:start position:0%
+return a bunch of output files you never
+modify<00:02:36.239><c> the</c><00:02:36.400><c> input</c><00:02:36.720><c> files</c><00:02:37.040><c> it's</c><00:02:37.200><c> immutable</c>
+
+00:02:38.070 --> 00:02:38.080 align:start position:0%
+modify the input files it's immutable
+ 
+
+00:02:38.080 --> 00:02:39.830 align:start position:0%
+modify the input files it's immutable
+and<00:02:38.160><c> then</c><00:02:38.400><c> those</c><00:02:38.640><c> output</c><00:02:38.959><c> files</c><00:02:39.280><c> can</c><00:02:39.519><c> actually</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+and then those output files can actually
+ 
+
+00:02:39.840 --> 00:02:43.030 align:start position:0%
+and then those output files can actually
+be<00:02:40.000><c> passed</c><00:02:40.400><c> into</c><00:02:40.640><c> another</c><00:02:40.959><c> mapreduce</c><00:02:41.519><c> job</c>
+
+00:02:43.030 --> 00:02:43.040 align:start position:0%
+be passed into another mapreduce job
+ 
+
+00:02:43.040 --> 00:02:45.589 align:start position:0%
+be passed into another mapreduce job
+computation<00:02:43.920><c> is</c><00:02:44.319><c> parallelized</c><00:02:45.120><c> amongst</c><00:02:45.440><c> the</c>
+
+00:02:45.589 --> 00:02:45.599 align:start position:0%
+computation is parallelized amongst the
+ 
+
+00:02:45.599 --> 00:02:47.430 align:start position:0%
+computation is parallelized amongst the
+nodes<00:02:45.840><c> in</c><00:02:45.920><c> the</c><00:02:46.000><c> hadoop</c><00:02:46.480><c> cluster</c><00:02:47.120><c> and</c><00:02:47.200><c> they</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+nodes in the hadoop cluster and they
+ 
+
+00:02:47.440 --> 00:02:49.350 align:start position:0%
+nodes in the hadoop cluster and they
+optimize<00:02:47.920><c> for</c><00:02:48.080><c> data</c><00:02:48.400><c> locality</c><00:02:48.959><c> what</c><00:02:49.120><c> that</c>
+
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+optimize for data locality what that
+ 
+
+00:02:49.360 --> 00:02:50.949 align:start position:0%
+optimize for data locality what that
+means<00:02:49.680><c> is</c><00:02:49.840><c> that</c>
+
+00:02:50.949 --> 00:02:50.959 align:start position:0%
+means is that
+ 
+
+00:02:50.959 --> 00:02:53.030 align:start position:0%
+means is that
+you<00:02:51.200><c> want</c><00:02:51.519><c> to</c><00:02:51.840><c> actually</c><00:02:52.239><c> run</c><00:02:52.480><c> the</c><00:02:52.560><c> mapper</c>
+
+00:02:53.030 --> 00:02:53.040 align:start position:0%
+you want to actually run the mapper
+ 
+
+00:02:53.040 --> 00:02:54.710 align:start position:0%
+you want to actually run the mapper
+generally<00:02:53.440><c> speaking</c><00:02:53.840><c> on</c><00:02:54.000><c> the</c><00:02:54.080><c> nodes</c><00:02:54.480><c> where</c>
+
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+generally speaking on the nodes where
+ 
+
+00:02:54.720 --> 00:02:56.949 align:start position:0%
+generally speaking on the nodes where
+the<00:02:54.879><c> input</c><00:02:55.200><c> files</c><00:02:55.599><c> are</c><00:02:55.760><c> located</c><00:02:56.560><c> because</c><00:02:56.879><c> of</c>
+
+00:02:56.949 --> 00:02:56.959 align:start position:0%
+the input files are located because of
+ 
+
+00:02:56.959 --> 00:02:59.190 align:start position:0%
+the input files are located because of
+the<00:02:57.120><c> fact</c><00:02:57.519><c> that</c><00:02:57.840><c> copying</c><00:02:58.319><c> all</c><00:02:58.480><c> that</c><00:02:58.640><c> data</c><00:02:59.040><c> over</c>
+
+00:02:59.190 --> 00:02:59.200 align:start position:0%
+the fact that copying all that data over
+ 
+
+00:02:59.200 --> 00:03:01.430 align:start position:0%
+the fact that copying all that data over
+the<00:02:59.360><c> network</c><00:02:59.840><c> to</c><00:03:00.000><c> another</c><00:03:00.319><c> node</c><00:03:00.959><c> is</c><00:03:01.120><c> very</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+the network to another node is very
+ 
+
+00:03:01.440 --> 00:03:02.949 align:start position:0%
+the network to another node is very
+expensive<00:03:01.920><c> since</c><00:03:02.159><c> there's</c><00:03:02.400><c> a</c><00:03:02.480><c> ton</c><00:03:02.640><c> of</c><00:03:02.720><c> data</c>
+
+00:03:02.949 --> 00:03:02.959 align:start position:0%
+expensive since there's a ton of data
+ 
+
+00:03:02.959 --> 00:03:04.949 align:start position:0%
+expensive since there's a ton of data
+whereas<00:03:03.280><c> just</c><00:03:03.440><c> copying</c><00:03:03.920><c> the</c><00:03:04.080><c> code</c><00:03:04.640><c> for</c><00:03:04.800><c> the</c>
+
+00:03:04.949 --> 00:03:04.959 align:start position:0%
+whereas just copying the code for the
+ 
+
+00:03:04.959 --> 00:03:07.430 align:start position:0%
+whereas just copying the code for the
+mapping<00:03:05.440><c> function</c><00:03:05.920><c> is</c><00:03:06.080><c> much</c><00:03:06.400><c> cheaper</c>
+
+00:03:07.430 --> 00:03:07.440 align:start position:0%
+mapping function is much cheaper
+ 
+
+00:03:07.440 --> 00:03:09.430 align:start position:0%
+mapping function is much cheaper
+another<00:03:07.840><c> optimization</c><00:03:08.480><c> if</c><00:03:08.560><c> you</c><00:03:08.720><c> can't</c><00:03:09.040><c> run</c>
+
+00:03:09.430 --> 00:03:09.440 align:start position:0%
+another optimization if you can't run
+ 
+
+00:03:09.440 --> 00:03:11.110 align:start position:0%
+another optimization if you can't run
+all<00:03:09.599><c> of</c><00:03:09.680><c> that</c><00:03:10.000><c> on</c><00:03:10.159><c> the</c><00:03:10.319><c> original</c><00:03:10.640><c> node</c><00:03:10.959><c> is</c><00:03:11.040><c> to</c>
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+all of that on the original node is to
+ 
+
+00:03:11.120 --> 00:03:13.830 align:start position:0%
+all of that on the original node is to
+just<00:03:11.360><c> run</c><00:03:11.599><c> one</c><00:03:11.920><c> in</c><00:03:12.319><c> the</c><00:03:12.480><c> same</c><00:03:13.200><c> like</c><00:03:13.440><c> server</c>
+
+00:03:13.830 --> 00:03:13.840 align:start position:0%
+just run one in the same like server
+ 
+
+00:03:13.840 --> 00:03:15.430 align:start position:0%
+just run one in the same like server
+rack<00:03:14.080><c> or</c><00:03:14.239><c> something</c><00:03:14.560><c> or</c><00:03:14.720><c> a</c><00:03:14.800><c> computer</c><00:03:15.200><c> very</c>
+
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+rack or something or a computer very
+ 
+
+00:03:15.440 --> 00:03:17.190 align:start position:0%
+rack or something or a computer very
+close<00:03:15.680><c> to</c><00:03:15.840><c> it</c><00:03:16.159><c> to</c><00:03:16.319><c> minimize</c><00:03:16.800><c> the</c><00:03:16.879><c> amount</c><00:03:17.120><c> of</c>
+
+00:03:17.190 --> 00:03:17.200 align:start position:0%
+close to it to minimize the amount of
+ 
+
+00:03:17.200 --> 00:03:19.270 align:start position:0%
+close to it to minimize the amount of
+data<00:03:17.440><c> you're</c><00:03:17.599><c> moving</c><00:03:17.840><c> over</c><00:03:18.080><c> the</c><00:03:18.159><c> network</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+data you're moving over the network
+ 
+
+00:03:19.280 --> 00:03:21.270 align:start position:0%
+data you're moving over the network
+additionally<00:03:20.159><c> it's</c><00:03:20.400><c> designed</c><00:03:20.800><c> for</c><00:03:20.959><c> frequent</c>
+
+00:03:21.270 --> 00:03:21.280 align:start position:0%
+additionally it's designed for frequent
+ 
+
+00:03:21.280 --> 00:03:24.149 align:start position:0%
+additionally it's designed for frequent
+faults<00:03:22.000><c> why</c><00:03:22.239><c> is</c><00:03:22.400><c> this</c><00:03:22.640><c> well</c><00:03:23.040><c> originally</c><00:03:24.000><c> when</c>
+
+00:03:24.149 --> 00:03:24.159 align:start position:0%
+faults why is this well originally when
+ 
+
+00:03:24.159 --> 00:03:26.149 align:start position:0%
+faults why is this well originally when
+google<00:03:24.480><c> created</c><00:03:24.799><c> mapreduce</c><00:03:25.440><c> they</c><00:03:25.599><c> were</c><00:03:25.760><c> using</c>
+
+00:03:26.149 --> 00:03:26.159 align:start position:0%
+google created mapreduce they were using
+ 
+
+00:03:26.159 --> 00:03:28.869 align:start position:0%
+google created mapreduce they were using
+it<00:03:26.799><c> as</c><00:03:27.040><c> background</c><00:03:27.519><c> tasks</c><00:03:28.000><c> on</c><00:03:28.080><c> their</c><00:03:28.239><c> servers</c>
+
+00:03:28.869 --> 00:03:28.879 align:start position:0%
+it as background tasks on their servers
+ 
+
+00:03:28.879 --> 00:03:30.070 align:start position:0%
+it as background tasks on their servers
+and<00:03:29.120><c> oftentimes</c><00:03:29.599><c> they</c><00:03:29.680><c> would</c><00:03:29.840><c> have</c><00:03:30.000><c> to</c>
+
+00:03:30.070 --> 00:03:30.080 align:start position:0%
+and oftentimes they would have to
+ 
+
+00:03:30.080 --> 00:03:31.830 align:start position:0%
+and oftentimes they would have to
+preempt<00:03:30.480><c> those</c><00:03:30.720><c> tasks</c><00:03:31.120><c> if</c><00:03:31.200><c> they</c><00:03:31.360><c> needed</c><00:03:31.599><c> more</c>
+
+00:03:31.830 --> 00:03:31.840 align:start position:0%
+preempt those tasks if they needed more
+ 
+
+00:03:31.840 --> 00:03:34.070 align:start position:0%
+preempt those tasks if they needed more
+resources<00:03:32.480><c> for</c><00:03:32.640><c> their</c><00:03:32.879><c> production</c><00:03:33.360><c> servers</c>
+
+00:03:34.070 --> 00:03:34.080 align:start position:0%
+resources for their production servers
+ 
+
+00:03:34.080 --> 00:03:36.789 align:start position:0%
+resources for their production servers
+and<00:03:34.239><c> so</c><00:03:34.560><c> if</c><00:03:34.799><c> one</c><00:03:35.120><c> mapper</c><00:03:35.599><c> or</c><00:03:35.760><c> reducer</c><00:03:36.319><c> job</c>
+
+00:03:36.789 --> 00:03:36.799 align:start position:0%
+and so if one mapper or reducer job
+ 
+
+00:03:36.799 --> 00:03:38.869 align:start position:0%
+and so if one mapper or reducer job
+actually<00:03:37.200><c> fails</c><00:03:37.680><c> it</c><00:03:37.840><c> doesn't</c><00:03:38.159><c> reset</c><00:03:38.560><c> every</c>
+
+00:03:38.869 --> 00:03:38.879 align:start position:0%
+actually fails it doesn't reset every
+ 
+
+00:03:38.879 --> 00:03:40.869 align:start position:0%
+actually fails it doesn't reset every
+mapper<00:03:39.360><c> reducer</c><00:03:39.760><c> job</c><00:03:40.080><c> you</c><00:03:40.239><c> can</c><00:03:40.319><c> just</c><00:03:40.480><c> go</c><00:03:40.640><c> ahead</c>
+
+00:03:40.869 --> 00:03:40.879 align:start position:0%
+mapper reducer job you can just go ahead
+ 
+
+00:03:40.879 --> 00:03:43.670 align:start position:0%
+mapper reducer job you can just go ahead
+and<00:03:40.959><c> retry</c><00:03:41.360><c> that</c><00:03:41.519><c> one</c><00:03:41.680><c> later</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+and retry that one later
+ 
+
+00:03:43.680 --> 00:03:45.670 align:start position:0%
+and retry that one later
+okay<00:03:44.080><c> continuing</c><00:03:44.640><c> on</c><00:03:44.799><c> mapreduce</c><00:03:45.360><c> so</c><00:03:45.519><c> i'm</c>
+
+00:03:45.670 --> 00:03:45.680 align:start position:0%
+okay continuing on mapreduce so i'm
+ 
+
+00:03:45.680 --> 00:03:47.830 align:start position:0%
+okay continuing on mapreduce so i'm
+going<00:03:45.760><c> to</c><00:03:45.920><c> kind</c><00:03:46.080><c> of</c><00:03:46.319><c> um</c><00:03:47.040><c> you</c><00:03:47.120><c> know</c><00:03:47.440><c> discuss</c>
+
+00:03:47.830 --> 00:03:47.840 align:start position:0%
+going to kind of um you know discuss
+ 
+
+00:03:47.840 --> 00:03:49.589 align:start position:0%
+going to kind of um you know discuss
+mapreduce<00:03:48.400><c> in</c><00:03:48.480><c> the</c><00:03:48.560><c> context</c><00:03:49.040><c> of</c><00:03:49.120><c> this</c><00:03:49.360><c> image</c>
+
+00:03:49.589 --> 00:03:49.599 align:start position:0%
+mapreduce in the context of this image
+ 
+
+00:03:49.599 --> 00:03:52.309 align:start position:0%
+mapreduce in the context of this image
+on<00:03:49.760><c> the</c><00:03:49.840><c> right</c><00:03:50.480><c> but</c><00:03:50.720><c> as</c><00:03:50.879><c> you</c><00:03:51.040><c> can</c><00:03:51.200><c> see</c><00:03:51.599><c> um</c><00:03:52.000><c> every</c>
+
+00:03:52.309 --> 00:03:52.319 align:start position:0%
+on the right but as you can see um every
+ 
+
+00:03:52.319 --> 00:03:55.589 align:start position:0%
+on the right but as you can see um every
+file<00:03:52.799><c> is</c><00:03:53.120><c> broken</c><00:03:53.599><c> into</c><00:03:54.000><c> a</c><00:03:54.159><c> set</c><00:03:54.400><c> of</c><00:03:54.560><c> records</c><00:03:55.360><c> and</c>
+
+00:03:55.589 --> 00:03:55.599 align:start position:0%
+file is broken into a set of records and
+ 
+
+00:03:55.599 --> 00:03:57.910 align:start position:0%
+file is broken into a set of records and
+so<00:03:56.000><c> imagine</c><00:03:56.480><c> that</c><00:03:56.720><c> you</c><00:03:56.799><c> know</c><00:03:56.959><c> you</c><00:03:57.120><c> have</c><00:03:57.280><c> a</c><00:03:57.439><c> file</c>
+
+00:03:57.910 --> 00:03:57.920 align:start position:0%
+so imagine that you know you have a file
+ 
+
+00:03:57.920 --> 00:03:59.110 align:start position:0%
+so imagine that you know you have a file
+on<00:03:58.239><c> each</c>
+
+00:03:59.110 --> 00:03:59.120 align:start position:0%
+on each
+ 
+
+00:03:59.120 --> 00:04:01.190 align:start position:0%
+on each
+node<00:03:59.920><c> and</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+node and
+ 
+
+00:04:01.200 --> 00:04:03.750 align:start position:0%
+node and
+that<00:04:01.360><c> would</c><00:04:01.599><c> just</c><00:04:01.840><c> kind</c><00:04:02.000><c> of</c><00:04:02.080><c> be</c><00:04:02.239><c> an</c><00:04:02.400><c> hdfs</c>
+
+00:04:03.750 --> 00:04:03.760 align:start position:0%
+that would just kind of be an hdfs
+ 
+
+00:04:03.760 --> 00:04:05.830 align:start position:0%
+that would just kind of be an hdfs
+so<00:04:04.239><c> the</c><00:04:04.400><c> file</c><00:04:04.720><c> is</c><00:04:04.879><c> going</c><00:04:05.040><c> to</c><00:04:05.120><c> be</c><00:04:05.200><c> broken</c><00:04:05.519><c> into</c><00:04:05.760><c> a</c>
+
+00:04:05.830 --> 00:04:05.840 align:start position:0%
+so the file is going to be broken into a
+ 
+
+00:04:05.840 --> 00:04:07.830 align:start position:0%
+so the file is going to be broken into a
+set<00:04:06.000><c> of</c><00:04:06.159><c> records</c><00:04:06.879><c> and</c><00:04:06.959><c> the</c><00:04:07.120><c> mapper</c><00:04:07.439><c> function</c>
+
+00:04:07.830 --> 00:04:07.840 align:start position:0%
+set of records and the mapper function
+ 
+
+00:04:07.840 --> 00:04:09.670 align:start position:0%
+set of records and the mapper function
+is<00:04:07.920><c> going</c><00:04:08.080><c> to</c><00:04:08.239><c> take</c><00:04:08.480><c> each</c><00:04:08.720><c> record</c><00:04:09.120><c> and</c><00:04:09.280><c> extract</c>
+
+00:04:09.670 --> 00:04:09.680 align:start position:0%
+is going to take each record and extract
+ 
+
+00:04:09.680 --> 00:04:11.670 align:start position:0%
+is going to take each record and extract
+a<00:04:09.760><c> key</c><00:04:10.000><c> and</c><00:04:10.159><c> value</c><00:04:10.480><c> for</c><00:04:10.720><c> it</c><00:04:11.280><c> and</c><00:04:11.439><c> then</c><00:04:11.599><c> what</c>
+
+00:04:11.670 --> 00:04:11.680 align:start position:0%
+a key and value for it and then what
+ 
+
+00:04:11.680 --> 00:04:14.070 align:start position:0%
+a key and value for it and then what
+we're<00:04:11.840><c> going</c><00:04:11.920><c> to</c><00:04:12.000><c> do</c><00:04:12.560><c> is</c><00:04:13.200><c> on</c><00:04:13.439><c> each</c><00:04:13.680><c> node</c><00:04:13.920><c> we</c>
+
+00:04:14.070 --> 00:04:14.080 align:start position:0%
+we're going to do is on each node we
+ 
+
+00:04:14.080 --> 00:04:15.589 align:start position:0%
+we're going to do is on each node we
+have<00:04:14.159><c> all</c><00:04:14.319><c> these</c><00:04:14.480><c> keys</c><00:04:14.799><c> and</c><00:04:14.879><c> values</c><00:04:15.280><c> and</c><00:04:15.439><c> we're</c>
+
+00:04:15.589 --> 00:04:15.599 align:start position:0%
+have all these keys and values and we're
+ 
+
+00:04:15.599 --> 00:04:18.390 align:start position:0%
+have all these keys and values and we're
+going<00:04:15.680><c> to</c><00:04:15.760><c> put</c><00:04:16.079><c> each</c><00:04:16.320><c> key</c><00:04:16.720><c> and</c><00:04:16.880><c> value</c><00:04:17.759><c> into</c>
+
+00:04:18.390 --> 00:04:18.400 align:start position:0%
+going to put each key and value into
+ 
+
+00:04:18.400 --> 00:04:20.789 align:start position:0%
+going to put each key and value into
+this<00:04:18.720><c> partition</c><00:04:19.280><c> file</c><00:04:20.000><c> which</c><00:04:20.239><c> is</c><00:04:20.320><c> basically</c>
+
+00:04:20.789 --> 00:04:20.799 align:start position:0%
+this partition file which is basically
+ 
+
+00:04:20.799 --> 00:04:22.870 align:start position:0%
+this partition file which is basically
+saying<00:04:21.280><c> okay</c><00:04:21.680><c> all</c><00:04:21.759><c> the</c><00:04:21.919><c> keys</c><00:04:22.240><c> and</c><00:04:22.320><c> values</c><00:04:22.720><c> that</c>
+
+00:04:22.870 --> 00:04:22.880 align:start position:0%
+saying okay all the keys and values that
+ 
+
+00:04:22.880 --> 00:04:25.270 align:start position:0%
+saying okay all the keys and values that
+are<00:04:22.960><c> going</c><00:04:23.360><c> to</c><00:04:23.600><c> this</c><00:04:23.840><c> reducer</c><00:04:24.320><c> node</c><00:04:24.880><c> which</c><00:04:25.120><c> we</c>
+
+00:04:25.270 --> 00:04:25.280 align:start position:0%
+are going to this reducer node which we
+ 
+
+00:04:25.280 --> 00:04:27.510 align:start position:0%
+are going to this reducer node which we
+can<00:04:25.759><c> you</c><00:04:25.840><c> know</c><00:04:26.080><c> determine</c><00:04:26.560><c> via</c><00:04:26.880><c> hash</c><00:04:27.120><c> function</c>
+
+00:04:27.510 --> 00:04:27.520 align:start position:0%
+can you know determine via hash function
+ 
+
+00:04:27.520 --> 00:04:29.270 align:start position:0%
+can you know determine via hash function
+are<00:04:27.680><c> going</c><00:04:27.759><c> to</c><00:04:27.840><c> go</c><00:04:28.000><c> on</c><00:04:28.080><c> this</c><00:04:28.320><c> file</c><00:04:29.040><c> all</c><00:04:29.199><c> the</c>
+
+00:04:29.270 --> 00:04:29.280 align:start position:0%
+are going to go on this file all the
+ 
+
+00:04:29.280 --> 00:04:30.310 align:start position:0%
+are going to go on this file all the
+ones<00:04:29.520><c> that</c><00:04:29.600><c> are</c><00:04:29.680><c> going</c><00:04:29.840><c> to</c><00:04:29.919><c> the</c><00:04:30.000><c> second</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+ones that are going to the second
+ 
+
+00:04:30.320 --> 00:04:32.390 align:start position:0%
+ones that are going to the second
+reducer<00:04:30.720><c> node</c><00:04:30.960><c> are</c><00:04:31.040><c> going</c><00:04:31.199><c> to</c><00:04:31.280><c> this</c><00:04:31.520><c> file</c><00:04:31.919><c> etc</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+reducer node are going to this file etc
+ 
+
+00:04:32.400 --> 00:04:33.990 align:start position:0%
+reducer node are going to this file etc
+etc<00:04:33.040><c> and</c><00:04:33.120><c> then</c><00:04:33.280><c> what</c><00:04:33.360><c> you're</c><00:04:33.440><c> going</c><00:04:33.520><c> to</c><00:04:33.600><c> do</c><00:04:33.759><c> is</c>
+
+00:04:33.990 --> 00:04:34.000 align:start position:0%
+etc and then what you're going to do is
+ 
+
+00:04:34.000 --> 00:04:36.390 align:start position:0%
+etc and then what you're going to do is
+take<00:04:34.320><c> all</c><00:04:34.479><c> of</c><00:04:34.560><c> those</c><00:04:34.960><c> files</c><00:04:35.600><c> of</c><00:04:36.000><c> keys</c><00:04:36.320><c> and</c>
+
+00:04:36.390 --> 00:04:36.400 align:start position:0%
+take all of those files of keys and
+ 
+
+00:04:36.400 --> 00:04:38.710 align:start position:0%
+take all of those files of keys and
+values<00:04:36.880><c> that</c><00:04:37.040><c> are</c><00:04:37.120><c> going</c><00:04:37.440><c> to</c><00:04:37.680><c> a</c><00:04:37.840><c> given</c><00:04:38.160><c> reducer</c>
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+values that are going to a given reducer
+ 
+
+00:04:38.720 --> 00:04:41.350 align:start position:0%
+values that are going to a given reducer
+node<00:04:39.280><c> and</c><00:04:39.440><c> sort</c><00:04:39.759><c> them</c><00:04:40.000><c> internally</c><00:04:40.800><c> this</c><00:04:41.040><c> helps</c>
+
+00:04:41.350 --> 00:04:41.360 align:start position:0%
+node and sort them internally this helps
+ 
+
+00:04:41.360 --> 00:04:43.030 align:start position:0%
+node and sort them internally this helps
+because<00:04:41.600><c> then</c><00:04:41.919><c> once</c><00:04:42.160><c> we</c><00:04:42.400><c> pass</c><00:04:42.639><c> them</c><00:04:42.800><c> to</c><00:04:42.880><c> the</c>
+
+00:04:43.030 --> 00:04:43.040 align:start position:0%
+because then once we pass them to the
+ 
+
+00:04:43.040 --> 00:04:44.790 align:start position:0%
+because then once we pass them to the
+reducer<00:04:43.440><c> node</c><00:04:43.680><c> the</c><00:04:43.759><c> reducer</c><00:04:44.240><c> can</c><00:04:44.400><c> go</c><00:04:44.560><c> ahead</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+reducer node the reducer can go ahead
+ 
+
+00:04:44.800 --> 00:04:46.870 align:start position:0%
+reducer node the reducer can go ahead
+and<00:04:44.960><c> basically</c><00:04:45.280><c> run</c><00:04:45.520><c> a</c><00:04:45.600><c> merge</c><00:04:45.919><c> algorithm</c>
+
+00:04:46.870 --> 00:04:46.880 align:start position:0%
+and basically run a merge algorithm
+ 
+
+00:04:46.880 --> 00:04:49.270 align:start position:0%
+and basically run a merge algorithm
+which<00:04:47.199><c> is</c><00:04:47.520><c> able</c><00:04:47.840><c> to</c><00:04:48.240><c> easily</c><00:04:48.720><c> sort</c><00:04:49.040><c> all</c><00:04:49.199><c> of</c>
+
+00:04:49.270 --> 00:04:49.280 align:start position:0%
+which is able to easily sort all of
+ 
+
+00:04:49.280 --> 00:04:51.830 align:start position:0%
+which is able to easily sort all of
+those<00:04:49.520><c> keys</c><00:04:49.759><c> and</c><00:04:49.919><c> values</c><00:04:50.320><c> together</c><00:04:51.199><c> and</c><00:04:51.680><c> the</c>
+
+00:04:51.830 --> 00:04:51.840 align:start position:0%
+those keys and values together and the
+ 
+
+00:04:51.840 --> 00:04:54.150 align:start position:0%
+those keys and values together and the
+good<00:04:52.000><c> thing</c><00:04:52.240><c> is</c><00:04:52.400><c> that</c><00:04:52.560><c> when</c><00:04:52.720><c> the</c><00:04:52.800><c> reducer</c>
+
+00:04:54.150 --> 00:04:54.160 align:start position:0%
+good thing is that when the reducer
+ 
+
+00:04:54.160 --> 00:04:56.070 align:start position:0%
+good thing is that when the reducer
+has<00:04:54.560><c> all</c><00:04:54.639><c> of</c><00:04:54.800><c> the</c><00:04:54.880><c> keys</c><00:04:55.120><c> and</c><00:04:55.280><c> values</c><00:04:55.680><c> on</c><00:04:55.919><c> its</c>
+
+00:04:56.070 --> 00:04:56.080 align:start position:0%
+has all of the keys and values on its
+ 
+
+00:04:56.080 --> 00:04:58.070 align:start position:0%
+has all of the keys and values on its
+local<00:04:56.479><c> copy</c><00:04:56.800><c> of</c><00:04:56.880><c> the</c><00:04:56.960><c> data</c>
+
+00:04:58.070 --> 00:04:58.080 align:start position:0%
+local copy of the data
+ 
+
+00:04:58.080 --> 00:04:59.990 align:start position:0%
+local copy of the data
+all<00:04:58.240><c> the</c><00:04:58.400><c> keys</c><00:04:59.040><c> um</c>
+
+00:04:59.990 --> 00:05:00.000 align:start position:0%
+all the keys um
+ 
+
+00:05:00.000 --> 00:05:01.430 align:start position:0%
+all the keys um
+basically<00:05:00.400><c> all</c><00:05:00.479><c> the</c><00:05:00.639><c> values</c><00:05:00.960><c> with</c><00:05:01.120><c> the</c><00:05:01.199><c> same</c>
+
+00:05:01.430 --> 00:05:01.440 align:start position:0%
+basically all the values with the same
+ 
+
+00:05:01.440 --> 00:05:03.029 align:start position:0%
+basically all the values with the same
+key<00:05:01.680><c> are</c><00:05:01.840><c> right</c><00:05:02.000><c> next</c><00:05:02.240><c> to</c><00:05:02.320><c> one</c><00:05:02.479><c> another</c><00:05:02.800><c> so</c><00:05:02.960><c> you</c>
+
+00:05:03.029 --> 00:05:03.039 align:start position:0%
+key are right next to one another so you
+ 
+
+00:05:03.039 --> 00:05:04.390 align:start position:0%
+key are right next to one another so you
+don't<00:05:03.199><c> have</c><00:05:03.360><c> to</c><00:05:03.440><c> use</c><00:05:03.680><c> a</c><00:05:03.759><c> ton</c><00:05:03.919><c> of</c><00:05:04.000><c> memory</c>
+
+00:05:04.390 --> 00:05:04.400 align:start position:0%
+don't have to use a ton of memory
+ 
+
+00:05:04.400 --> 00:05:06.150 align:start position:0%
+don't have to use a ton of memory
+keeping<00:05:04.800><c> track</c><00:05:05.120><c> of</c><00:05:05.440><c> like</c>
+
+00:05:06.150 --> 00:05:06.160 align:start position:0%
+keeping track of like
+ 
+
+00:05:06.160 --> 00:05:08.469 align:start position:0%
+keeping track of like
+the<00:05:06.560><c> individual</c><00:05:07.120><c> processing</c><00:05:07.759><c> for</c><00:05:08.000><c> each</c><00:05:08.240><c> key</c>
+
+00:05:08.469 --> 00:05:08.479 align:start position:0%
+the individual processing for each key
+ 
+
+00:05:08.479 --> 00:05:09.990 align:start position:0%
+the individual processing for each key
+you<00:05:08.639><c> could</c><00:05:08.800><c> just</c><00:05:08.960><c> go</c><00:05:09.120><c> through</c><00:05:09.360><c> one</c><00:05:09.600><c> key</c><00:05:09.759><c> at</c><00:05:09.919><c> a</c>
+
+00:05:09.990 --> 00:05:10.000 align:start position:0%
+you could just go through one key at a
+ 
+
+00:05:10.000 --> 00:05:12.390 align:start position:0%
+you could just go through one key at a
+time<00:05:10.320><c> and</c><00:05:10.639><c> iterate</c><00:05:10.960><c> through</c><00:05:11.199><c> all</c><00:05:11.280><c> the</c><00:05:11.360><c> values</c>
+
+00:05:12.390 --> 00:05:12.400 align:start position:0%
+time and iterate through all the values
+ 
+
+00:05:12.400 --> 00:05:14.310 align:start position:0%
+time and iterate through all the values
+so<00:05:12.639><c> anyway</c><00:05:12.880><c> the</c><00:05:13.039><c> reducer</c><00:05:13.440><c> function</c><00:05:13.840><c> basically</c>
+
+00:05:14.310 --> 00:05:14.320 align:start position:0%
+so anyway the reducer function basically
+ 
+
+00:05:14.320 --> 00:05:17.029 align:start position:0%
+so anyway the reducer function basically
+has<00:05:15.039><c> all</c><00:05:15.199><c> of</c><00:05:15.280><c> the</c><00:05:15.440><c> values</c><00:05:15.840><c> for</c><00:05:16.000><c> a</c><00:05:16.080><c> given</c><00:05:16.400><c> key</c>
+
+00:05:17.029 --> 00:05:17.039 align:start position:0%
+has all of the values for a given key
+ 
+
+00:05:17.039 --> 00:05:18.950 align:start position:0%
+has all of the values for a given key
+and<00:05:17.360><c> it</c><00:05:17.440><c> can</c><00:05:17.600><c> just</c><00:05:17.759><c> go</c><00:05:17.919><c> ahead</c><00:05:18.320><c> and</c><00:05:18.560><c> iterate</c>
+
+00:05:18.950 --> 00:05:18.960 align:start position:0%
+and it can just go ahead and iterate
+ 
+
+00:05:18.960 --> 00:05:20.790 align:start position:0%
+and it can just go ahead and iterate
+over<00:05:19.199><c> them</c><00:05:19.520><c> and</c><00:05:19.680><c> do</c><00:05:19.919><c> anything</c><00:05:20.240><c> you</c><00:05:20.400><c> want</c><00:05:20.639><c> with</c>
+
+00:05:20.790 --> 00:05:20.800 align:start position:0%
+over them and do anything you want with
+ 
+
+00:05:20.800 --> 00:05:22.790 align:start position:0%
+over them and do anything you want with
+it
+
+00:05:22.790 --> 00:05:22.800 align:start position:0%
+it
+ 
+
+00:05:22.800 --> 00:05:24.790 align:start position:0%
+it
+okay<00:05:23.199><c> so</c><00:05:23.600><c> i've</c><00:05:23.840><c> discussed</c><00:05:24.320><c> like</c><00:05:24.560><c> very</c>
+
+00:05:24.790 --> 00:05:24.800 align:start position:0%
+okay so i've discussed like very
+ 
+
+00:05:24.800 --> 00:05:26.629 align:start position:0%
+okay so i've discussed like very
+basically<00:05:25.280><c> what</c><00:05:25.440><c> mapreduce</c><00:05:26.000><c> does</c><00:05:26.320><c> but</c><00:05:26.479><c> there</c>
+
+00:05:26.629 --> 00:05:26.639 align:start position:0%
+basically what mapreduce does but there
+ 
+
+00:05:26.639 --> 00:05:28.710 align:start position:0%
+basically what mapreduce does but there
+are<00:05:26.720><c> also</c><00:05:26.960><c> some</c><00:05:27.120><c> nuances</c><00:05:27.680><c> to</c><00:05:27.840><c> this</c><00:05:28.400><c> um</c>
+
+00:05:28.710 --> 00:05:28.720 align:start position:0%
+are also some nuances to this um
+ 
+
+00:05:28.720 --> 00:05:30.629 align:start position:0%
+are also some nuances to this um
+oftentimes<00:05:29.280><c> there</c><00:05:29.440><c> are</c><00:05:29.520><c> data</c><00:05:29.840><c> associations</c>
+
+00:05:30.629 --> 00:05:30.639 align:start position:0%
+oftentimes there are data associations
+ 
+
+00:05:30.639 --> 00:05:32.710 align:start position:0%
+oftentimes there are data associations
+between<00:05:31.120><c> files</c><00:05:31.600><c> and</c><00:05:31.919><c> you</c><00:05:32.000><c> know</c><00:05:32.160><c> we</c><00:05:32.320><c> see</c><00:05:32.479><c> this</c>
+
+00:05:32.710 --> 00:05:32.720 align:start position:0%
+between files and you know we see this
+ 
+
+00:05:32.720 --> 00:05:33.909 align:start position:0%
+between files and you know we see this
+all<00:05:32.880><c> the</c><00:05:33.039><c> time</c>
+
+00:05:33.909 --> 00:05:33.919 align:start position:0%
+all the time
+ 
+
+00:05:33.919 --> 00:05:35.510 align:start position:0%
+all the time
+and<00:05:34.080><c> so</c><00:05:34.240><c> sometimes</c><00:05:34.639><c> what</c><00:05:34.800><c> you</c><00:05:34.880><c> want</c><00:05:35.039><c> to</c><00:05:35.120><c> do</c><00:05:35.360><c> is</c>
+
+00:05:35.510 --> 00:05:35.520 align:start position:0%
+and so sometimes what you want to do is
+ 
+
+00:05:35.520 --> 00:05:37.749 align:start position:0%
+and so sometimes what you want to do is
+perform<00:05:36.000><c> joins</c><00:05:36.320><c> in</c><00:05:36.479><c> mapreduce</c><00:05:37.360><c> so</c><00:05:37.520><c> there</c><00:05:37.680><c> are</c>
+
+00:05:37.749 --> 00:05:37.759 align:start position:0%
+perform joins in mapreduce so there are
+ 
+
+00:05:37.759 --> 00:05:40.310 align:start position:0%
+perform joins in mapreduce so there are
+basically<00:05:38.240><c> three</c><00:05:38.479><c> types</c><00:05:38.800><c> of</c><00:05:38.880><c> joins</c>
+
+00:05:40.310 --> 00:05:40.320 align:start position:0%
+basically three types of joins
+ 
+
+00:05:40.320 --> 00:05:42.310 align:start position:0%
+basically three types of joins
+and<00:05:40.800><c> those</c><00:05:41.120><c> are</c><00:05:41.280><c> going</c><00:05:41.520><c> to</c><00:05:41.600><c> be</c><00:05:41.759><c> sword</c><00:05:42.000><c> merge</c>
+
+00:05:42.310 --> 00:05:42.320 align:start position:0%
+and those are going to be sword merge
+ 
+
+00:05:42.320 --> 00:05:44.550 align:start position:0%
+and those are going to be sword merge
+joins<00:05:42.639><c> broadcast</c><00:05:43.199><c> hash</c><00:05:43.520><c> joins</c><00:05:43.919><c> and</c><00:05:44.080><c> partition</c>
+
+00:05:44.550 --> 00:05:44.560 align:start position:0%
+joins broadcast hash joins and partition
+ 
+
+00:05:44.560 --> 00:05:46.469 align:start position:0%
+joins broadcast hash joins and partition
+task<00:05:44.880><c> joins</c><00:05:45.600><c> basically</c><00:05:46.000><c> the</c><00:05:46.080><c> general</c>
+
+00:05:46.469 --> 00:05:46.479 align:start position:0%
+task joins basically the general
+ 
+
+00:05:46.479 --> 00:05:48.150 align:start position:0%
+task joins basically the general
+philosophy<00:05:46.960><c> behind</c><00:05:47.280><c> all</c><00:05:47.440><c> this</c><00:05:47.680><c> is</c><00:05:47.759><c> we</c><00:05:47.919><c> want</c><00:05:48.080><c> to</c>
+
+00:05:48.150 --> 00:05:48.160 align:start position:0%
+philosophy behind all this is we want to
+ 
+
+00:05:48.160 --> 00:05:50.150 align:start position:0%
+philosophy behind all this is we want to
+reduce<00:05:48.560><c> the</c><00:05:48.639><c> amount</c><00:05:48.960><c> of</c><00:05:49.120><c> network</c><00:05:49.520><c> calls</c><00:05:49.840><c> to</c>
+
+00:05:50.150 --> 00:05:50.160 align:start position:0%
+reduce the amount of network calls to
+ 
+
+00:05:50.160 --> 00:05:52.070 align:start position:0%
+reduce the amount of network calls to
+you<00:05:50.240><c> know</c><00:05:50.560><c> possibly</c><00:05:51.039><c> a</c><00:05:51.120><c> second</c><00:05:51.440><c> database</c><00:05:52.000><c> if</c>
+
+00:05:52.070 --> 00:05:52.080 align:start position:0%
+you know possibly a second database if
+ 
+
+00:05:52.080 --> 00:05:53.749 align:start position:0%
+you know possibly a second database if
+we're<00:05:52.479><c> joining</c><00:05:52.720><c> on</c><00:05:52.880><c> a</c><00:05:52.960><c> database</c><00:05:53.360><c> or</c><00:05:53.520><c> something</c>
+
+00:05:53.749 --> 00:05:53.759 align:start position:0%
+we're joining on a database or something
+ 
+
+00:05:53.759 --> 00:05:56.469 align:start position:0%
+we're joining on a database or something
+along<00:05:54.000><c> those</c><00:05:54.240><c> lines</c><00:05:54.479><c> or</c><00:05:54.560><c> a</c><00:05:54.639><c> second</c><00:05:54.880><c> data</c><00:05:55.199><c> set</c>
+
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+along those lines or a second data set
+ 
+
+00:05:56.479 --> 00:05:58.710 align:start position:0%
+along those lines or a second data set
+so<00:05:56.639><c> the</c><00:05:56.720><c> first</c><00:05:57.039><c> one</c><00:05:57.440><c> is</c><00:05:57.680><c> sort</c><00:05:58.000><c> merge</c><00:05:58.319><c> joins</c>
+
+00:05:58.710 --> 00:05:58.720 align:start position:0%
+so the first one is sort merge joins
+ 
+
+00:05:58.720 --> 00:06:00.710 align:start position:0%
+so the first one is sort merge joins
+this<00:05:58.960><c> is</c><00:05:59.039><c> known</c><00:05:59.360><c> as</c><00:05:59.600><c> a</c><00:05:59.680><c> reduced</c><00:06:00.080><c> side</c><00:06:00.400><c> join</c>
+
+00:06:00.710 --> 00:06:00.720 align:start position:0%
+this is known as a reduced side join
+ 
+
+00:06:00.720 --> 00:06:02.309 align:start position:0%
+this is known as a reduced side join
+because<00:06:00.960><c> the</c><00:06:01.039><c> reducer</c><00:06:01.600><c> is</c><00:06:01.680><c> the</c><00:06:01.759><c> one</c><00:06:02.000><c> actually</c>
+
+00:06:02.309 --> 00:06:02.319 align:start position:0%
+because the reducer is the one actually
+ 
+
+00:06:02.319 --> 00:06:04.550 align:start position:0%
+because the reducer is the one actually
+doing<00:06:02.639><c> the</c><00:06:02.720><c> logic</c><00:06:03.120><c> of</c><00:06:03.199><c> the</c><00:06:03.280><c> join</c><00:06:04.080><c> but</c><00:06:04.400><c> i'll</c>
+
+00:06:04.550 --> 00:06:04.560 align:start position:0%
+doing the logic of the join but i'll
+ 
+
+00:06:04.560 --> 00:06:06.230 align:start position:0%
+doing the logic of the join but i'll
+explain<00:06:04.960><c> it</c><00:06:05.039><c> right</c><00:06:05.199><c> here</c><00:06:05.360><c> with</c><00:06:05.520><c> this</c><00:06:05.759><c> diagram</c>
+
+00:06:06.230 --> 00:06:06.240 align:start position:0%
+explain it right here with this diagram
+ 
+
+00:06:06.240 --> 00:06:07.189 align:start position:0%
+explain it right here with this diagram
+below
+
+00:06:07.189 --> 00:06:07.199 align:start position:0%
+below
+ 
+
+00:06:07.199 --> 00:06:09.189 align:start position:0%
+below
+so<00:06:07.440><c> imagine</c><00:06:07.759><c> we</c><00:06:07.840><c> have</c><00:06:07.919><c> two</c><00:06:08.160><c> sets</c><00:06:08.400><c> of</c><00:06:08.560><c> files</c><00:06:08.960><c> and</c>
+
+00:06:09.189 --> 00:06:09.199 align:start position:0%
+so imagine we have two sets of files and
+ 
+
+00:06:09.199 --> 00:06:11.270 align:start position:0%
+so imagine we have two sets of files and
+we<00:06:09.360><c> want</c><00:06:09.440><c> to</c><00:06:09.520><c> combine</c><00:06:09.919><c> them</c><00:06:10.319><c> to</c><00:06:10.639><c> basically</c><00:06:11.120><c> go</c>
+
+00:06:11.270 --> 00:06:11.280 align:start position:0%
+we want to combine them to basically go
+ 
+
+00:06:11.280 --> 00:06:13.430 align:start position:0%
+we want to combine them to basically go
+ahead<00:06:11.600><c> and</c><00:06:11.759><c> merge</c><00:06:12.080><c> them</c><00:06:12.319><c> together</c><00:06:13.039><c> where</c><00:06:13.280><c> the</c>
+
+00:06:13.430 --> 00:06:13.440 align:start position:0%
+ahead and merge them together where the
+ 
+
+00:06:13.440 --> 00:06:16.070 align:start position:0%
+ahead and merge them together where the
+key<00:06:13.680><c> is</c><00:06:13.759><c> the</c><00:06:13.919><c> same</c><00:06:14.639><c> so</c><00:06:14.800><c> we</c><00:06:14.960><c> have</c><00:06:15.280><c> mappers</c><00:06:15.759><c> now</c>
+
+00:06:16.070 --> 00:06:16.080 align:start position:0%
+key is the same so we have mappers now
+ 
+
+00:06:16.080 --> 00:06:18.230 align:start position:0%
+key is the same so we have mappers now
+on<00:06:16.240><c> both</c><00:06:16.560><c> sets</c><00:06:16.800><c> of</c><00:06:16.880><c> files</c>
+
+00:06:18.230 --> 00:06:18.240 align:start position:0%
+on both sets of files
+ 
+
+00:06:18.240 --> 00:06:20.309 align:start position:0%
+on both sets of files
+and<00:06:18.319><c> then</c><00:06:18.560><c> using</c><00:06:18.800><c> a</c><00:06:18.880><c> hash</c><00:06:19.199><c> function</c><00:06:20.080><c> we'll</c>
+
+00:06:20.309 --> 00:06:20.319 align:start position:0%
+and then using a hash function we'll
+ 
+
+00:06:20.319 --> 00:06:21.430 align:start position:0%
+and then using a hash function we'll
+send
+
+00:06:21.430 --> 00:06:21.440 align:start position:0%
+send
+ 
+
+00:06:21.440 --> 00:06:23.110 align:start position:0%
+send
+the<00:06:21.600><c> records</c><00:06:22.000><c> with</c><00:06:22.160><c> the</c><00:06:22.240><c> same</c><00:06:22.560><c> key</c><00:06:22.880><c> to</c><00:06:23.039><c> the</c>
+
+00:06:23.110 --> 00:06:23.120 align:start position:0%
+the records with the same key to the
+ 
+
+00:06:23.120 --> 00:06:25.029 align:start position:0%
+the records with the same key to the
+same<00:06:23.360><c> reducer</c><00:06:24.080><c> and</c><00:06:24.240><c> the</c><00:06:24.319><c> reducer</c><00:06:24.800><c> will</c><00:06:24.880><c> go</c>
+
+00:06:25.029 --> 00:06:25.039 align:start position:0%
+same reducer and the reducer will go
+ 
+
+00:06:25.039 --> 00:06:26.950 align:start position:0%
+same reducer and the reducer will go
+ahead<00:06:25.280><c> and</c><00:06:25.440><c> merge</c><00:06:25.680><c> them</c><00:06:26.160><c> so</c><00:06:26.319><c> as</c><00:06:26.479><c> you</c><00:06:26.560><c> can</c><00:06:26.720><c> see</c>
+
+00:06:26.950 --> 00:06:26.960 align:start position:0%
+ahead and merge them so as you can see
+ 
+
+00:06:26.960 --> 00:06:29.350 align:start position:0%
+ahead and merge them so as you can see
+imagine<00:06:27.520><c> i</c><00:06:27.680><c> have</c><00:06:28.080><c> all</c><00:06:28.240><c> this</c><00:06:28.479><c> browser</c><00:06:28.880><c> data</c><00:06:29.199><c> for</c>
+
+00:06:29.350 --> 00:06:29.360 align:start position:0%
+imagine i have all this browser data for
+ 
+
+00:06:29.360 --> 00:06:30.710 align:start position:0%
+imagine i have all this browser data for
+myself<00:06:29.840><c> as</c><00:06:30.000><c> you</c><00:06:30.080><c> can</c><00:06:30.160><c> see</c><00:06:30.319><c> that's</c><00:06:30.479><c> what</c><00:06:30.639><c> a</c>
+
+00:06:30.710 --> 00:06:30.720 align:start position:0%
+myself as you can see that's what a
+ 
+
+00:06:30.720 --> 00:06:32.390 align:start position:0%
+myself as you can see that's what a
+typical<00:06:31.039><c> day</c><00:06:31.280><c> of</c><00:06:31.360><c> browsing</c><00:06:31.840><c> looks</c><00:06:32.000><c> like</c><00:06:32.240><c> for</c>
+
+00:06:32.390 --> 00:06:32.400 align:start position:0%
+typical day of browsing looks like for
+ 
+
+00:06:32.400 --> 00:06:34.870 align:start position:0%
+typical day of browsing looks like for
+me<00:06:32.960><c> we</c><00:06:33.120><c> also</c><00:06:33.360><c> have</c><00:06:33.600><c> my</c><00:06:33.840><c> age</c><00:06:34.080><c> in</c><00:06:34.160><c> there</c><00:06:34.560><c> and</c><00:06:34.720><c> so</c>
+
+00:06:34.870 --> 00:06:34.880 align:start position:0%
+me we also have my age in there and so
+ 
+
+00:06:34.880 --> 00:06:37.430 align:start position:0%
+me we also have my age in there and so
+what's<00:06:35.120><c> going</c><00:06:35.199><c> to</c><00:06:35.280><c> happen</c><00:06:35.759><c> is</c><00:06:36.400><c> as</c><00:06:36.639><c> a</c><00:06:36.720><c> result</c><00:06:37.199><c> of</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+what's going to happen is as a result of
+ 
+
+00:06:37.440 --> 00:06:39.350 align:start position:0%
+what's going to happen is as a result of
+the<00:06:37.680><c> partitioning</c><00:06:38.319><c> and</c><00:06:38.400><c> hash</c><00:06:38.639><c> function</c>
+
+00:06:39.350 --> 00:06:39.360 align:start position:0%
+the partitioning and hash function
+ 
+
+00:06:39.360 --> 00:06:40.710 align:start position:0%
+the partitioning and hash function
+they're<00:06:39.600><c> going</c><00:06:39.759><c> to</c><00:06:39.840><c> get</c><00:06:40.080><c> sent</c><00:06:40.240><c> to</c><00:06:40.400><c> the</c><00:06:40.479><c> same</c>
+
+00:06:40.710 --> 00:06:40.720 align:start position:0%
+they're going to get sent to the same
+ 
+
+00:06:40.720 --> 00:06:42.950 align:start position:0%
+they're going to get sent to the same
+reducer<00:06:41.440><c> which</c><00:06:41.600><c> will</c><00:06:41.759><c> go</c><00:06:42.000><c> ahead</c><00:06:42.400><c> and</c><00:06:42.560><c> combine</c>
+
+00:06:42.950 --> 00:06:42.960 align:start position:0%
+reducer which will go ahead and combine
+ 
+
+00:06:42.960 --> 00:06:44.790 align:start position:0%
+reducer which will go ahead and combine
+them<00:06:43.120><c> so</c><00:06:43.280><c> it's</c><00:06:43.440><c> going</c><00:06:43.520><c> to</c><00:06:43.600><c> attach</c><00:06:44.000><c> that</c><00:06:44.240><c> h</c><00:06:44.479><c> data</c>
+
+00:06:44.790 --> 00:06:44.800 align:start position:0%
+them so it's going to attach that h data
+ 
+
+00:06:44.800 --> 00:06:47.749 align:start position:0%
+them so it's going to attach that h data
+to<00:06:44.960><c> every</c><00:06:45.199><c> single</c><00:06:45.520><c> piece</c><00:06:45.759><c> of</c><00:06:45.840><c> browser</c><00:06:46.160><c> data</c>
+
+00:06:47.749 --> 00:06:47.759 align:start position:0%
+to every single piece of browser data
+ 
+
+00:06:47.759 --> 00:06:49.670 align:start position:0%
+to every single piece of browser data
+next<00:06:48.000><c> we</c><00:06:48.160><c> have</c><00:06:48.240><c> broadcast</c><00:06:48.880><c> hash</c><00:06:49.199><c> joins</c><00:06:49.440><c> so</c>
+
+00:06:49.670 --> 00:06:49.680 align:start position:0%
+next we have broadcast hash joins so
+ 
+
+00:06:49.680 --> 00:06:52.469 align:start position:0%
+next we have broadcast hash joins so
+imagine<00:06:50.000><c> the</c><00:06:50.080><c> same</c><00:06:50.319><c> situation</c><00:06:50.960><c> as</c><00:06:51.039><c> before</c><00:06:51.919><c> but</c>
+
+00:06:52.469 --> 00:06:52.479 align:start position:0%
+imagine the same situation as before but
+ 
+
+00:06:52.479 --> 00:06:54.629 align:start position:0%
+imagine the same situation as before but
+you<00:06:52.639><c> know</c><00:06:52.880><c> let's</c><00:06:53.120><c> say</c><00:06:53.440><c> that</c><00:06:53.840><c> all</c><00:06:54.000><c> of</c><00:06:54.080><c> the</c><00:06:54.240><c> user</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+you know let's say that all of the user
+ 
+
+00:06:54.639 --> 00:06:56.309 align:start position:0%
+you know let's say that all of the user
+data<00:06:55.039><c> for</c><00:06:55.360><c> age</c>
+
+00:06:56.309 --> 00:06:56.319 align:start position:0%
+data for age
+ 
+
+00:06:56.319 --> 00:06:58.870 align:start position:0%
+data for age
+there<00:06:56.479><c> was</c><00:06:56.880><c> enough</c><00:06:57.360><c> or</c><00:06:57.919><c> there</c><00:06:58.080><c> was</c><00:06:58.240><c> so</c><00:06:58.479><c> little</c>
+
+00:06:58.870 --> 00:06:58.880 align:start position:0%
+there was enough or there was so little
+ 
+
+00:06:58.880 --> 00:07:00.870 align:start position:0%
+there was enough or there was so little
+of<00:06:59.039><c> that</c><00:06:59.280><c> data</c><00:06:59.680><c> that</c><00:06:59.919><c> it</c><00:07:00.080><c> could</c><00:07:00.319><c> actually</c><00:07:00.639><c> all</c>
+
+00:07:00.870 --> 00:07:00.880 align:start position:0%
+of that data that it could actually all
+ 
+
+00:07:00.880 --> 00:07:04.230 align:start position:0%
+of that data that it could actually all
+fit<00:07:01.440><c> in</c><00:07:01.599><c> an</c><00:07:01.759><c> in-memory</c><00:07:02.319><c> hashmap</c><00:07:03.360><c> on</c>
+
+00:07:04.230 --> 00:07:04.240 align:start position:0%
+fit in an in-memory hashmap on
+ 
+
+00:07:04.240 --> 00:07:06.550 align:start position:0%
+fit in an in-memory hashmap on
+all<00:07:04.479><c> of</c><00:07:04.560><c> the</c><00:07:04.720><c> mappers</c><00:07:05.199><c> for</c><00:07:05.280><c> the</c><00:07:05.440><c> browser</c><00:07:05.759><c> data</c>
+
+00:07:06.550 --> 00:07:06.560 align:start position:0%
+all of the mappers for the browser data
+ 
+
+00:07:06.560 --> 00:07:08.230 align:start position:0%
+all of the mappers for the browser data
+so<00:07:06.720><c> what</c><00:07:06.960><c> that</c><00:07:07.120><c> means</c><00:07:07.440><c> is</c><00:07:07.599><c> that</c><00:07:07.759><c> since</c><00:07:08.000><c> it</c><00:07:08.080><c> can</c>
+
+00:07:08.230 --> 00:07:08.240 align:start position:0%
+so what that means is that since it can
+ 
+
+00:07:08.240 --> 00:07:09.990 align:start position:0%
+so what that means is that since it can
+all<00:07:08.400><c> fit</c><00:07:08.560><c> in</c><00:07:08.639><c> an</c><00:07:08.800><c> in-memory</c><00:07:09.280><c> hashmap</c><00:07:09.759><c> we</c><00:07:09.840><c> don't</c>
+
+00:07:09.990 --> 00:07:10.000 align:start position:0%
+all fit in an in-memory hashmap we don't
+ 
+
+00:07:10.000 --> 00:07:12.150 align:start position:0%
+all fit in an in-memory hashmap we don't
+even<00:07:10.160><c> have</c><00:07:10.319><c> to</c><00:07:10.479><c> use</c><00:07:10.720><c> a</c><00:07:10.800><c> second</c><00:07:11.120><c> mapper</c><00:07:11.840><c> and</c><00:07:12.000><c> you</c>
+
+00:07:12.150 --> 00:07:12.160 align:start position:0%
+even have to use a second mapper and you
+ 
+
+00:07:12.160 --> 00:07:13.990 align:start position:0%
+even have to use a second mapper and you
+know<00:07:12.319><c> pass</c><00:07:12.639><c> it</c><00:07:12.720><c> to</c><00:07:12.800><c> the</c><00:07:12.960><c> reducer</c><00:07:13.599><c> what</c><00:07:13.759><c> we</c><00:07:13.919><c> can</c>
+
+00:07:13.990 --> 00:07:14.000 align:start position:0%
+know pass it to the reducer what we can
+ 
+
+00:07:14.000 --> 00:07:16.390 align:start position:0%
+know pass it to the reducer what we can
+do<00:07:14.319><c> is</c><00:07:14.560><c> just</c><00:07:14.800><c> load</c><00:07:15.039><c> that</c><00:07:15.280><c> whole</c><00:07:15.440><c> data</c><00:07:15.840><c> set</c><00:07:16.160><c> into</c>
+
+00:07:16.390 --> 00:07:16.400 align:start position:0%
+do is just load that whole data set into
+ 
+
+00:07:16.400 --> 00:07:18.469 align:start position:0%
+do is just load that whole data set into
+memory<00:07:16.960><c> on</c><00:07:17.199><c> all</c><00:07:17.360><c> of</c><00:07:17.440><c> the</c><00:07:17.520><c> mappers</c><00:07:18.080><c> and</c><00:07:18.160><c> then</c><00:07:18.319><c> go</c>
+
+00:07:18.469 --> 00:07:18.479 align:start position:0%
+memory on all of the mappers and then go
+ 
+
+00:07:18.479 --> 00:07:20.469 align:start position:0%
+memory on all of the mappers and then go
+ahead<00:07:18.800><c> and</c><00:07:18.960><c> perform</c><00:07:19.360><c> the</c><00:07:19.520><c> join</c><00:07:19.840><c> on</c><00:07:19.919><c> the</c><00:07:20.080><c> mapper</c>
+
+00:07:20.469 --> 00:07:20.479 align:start position:0%
+ahead and perform the join on the mapper
+ 
+
+00:07:20.479 --> 00:07:21.990 align:start position:0%
+ahead and perform the join on the mapper
+instead
+
+00:07:21.990 --> 00:07:22.000 align:start position:0%
+instead
+ 
+
+00:07:22.000 --> 00:07:23.430 align:start position:0%
+instead
+okay<00:07:22.240><c> so</c><00:07:22.400><c> that's</c><00:07:22.560><c> what</c><00:07:22.639><c> happens</c><00:07:22.960><c> when</c><00:07:23.120><c> one</c><00:07:23.360><c> of</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+okay so that's what happens when one of
+ 
+
+00:07:23.440 --> 00:07:25.430 align:start position:0%
+okay so that's what happens when one of
+the<00:07:23.520><c> data</c><00:07:23.759><c> sets</c><00:07:24.080><c> is</c><00:07:24.160><c> super</c><00:07:24.479><c> small</c>
+
+00:07:25.430 --> 00:07:25.440 align:start position:0%
+the data sets is super small
+ 
+
+00:07:25.440 --> 00:07:26.870 align:start position:0%
+the data sets is super small
+and<00:07:25.599><c> then</c><00:07:25.680><c> there's</c><00:07:25.919><c> also</c><00:07:26.160><c> this</c><00:07:26.319><c> concept</c><00:07:26.720><c> of</c>
+
+00:07:26.870 --> 00:07:26.880 align:start position:0%
+and then there's also this concept of
+ 
+
+00:07:26.880 --> 00:07:28.629 align:start position:0%
+and then there's also this concept of
+partition<00:07:27.360><c> hash</c><00:07:27.599><c> joins</c><00:07:27.919><c> which</c><00:07:28.080><c> is</c><00:07:28.319><c> really</c>
+
+00:07:28.629 --> 00:07:28.639 align:start position:0%
+partition hash joins which is really
+ 
+
+00:07:28.639 --> 00:07:31.110 align:start position:0%
+partition hash joins which is really
+similar<00:07:29.199><c> to</c><00:07:29.440><c> the</c><00:07:29.599><c> broadcast</c><00:07:30.160><c> hash</c><00:07:30.479><c> join</c>
+
+00:07:31.110 --> 00:07:31.120 align:start position:0%
+similar to the broadcast hash join
+ 
+
+00:07:31.120 --> 00:07:32.469 align:start position:0%
+similar to the broadcast hash join
+however
+
+00:07:32.469 --> 00:07:32.479 align:start position:0%
+however
+ 
+
+00:07:32.479 --> 00:07:34.790 align:start position:0%
+however
+if<00:07:32.639><c> one</c><00:07:32.880><c> of</c><00:07:33.039><c> the</c><00:07:33.520><c> if</c><00:07:33.840><c> neither</c><00:07:34.160><c> of</c><00:07:34.240><c> the</c><00:07:34.319><c> two</c><00:07:34.560><c> data</c>
+
+00:07:34.790 --> 00:07:34.800 align:start position:0%
+if one of the if neither of the two data
+ 
+
+00:07:34.800 --> 00:07:36.710 align:start position:0%
+if one of the if neither of the two data
+sets<00:07:35.120><c> is</c><00:07:35.280><c> small</c><00:07:35.599><c> enough</c><00:07:35.840><c> to</c><00:07:35.919><c> completely</c><00:07:36.479><c> fit</c>
+
+00:07:36.710 --> 00:07:36.720 align:start position:0%
+sets is small enough to completely fit
+ 
+
+00:07:36.720 --> 00:07:38.950 align:start position:0%
+sets is small enough to completely fit
+in<00:07:36.800><c> memory</c><00:07:37.520><c> but</c><00:07:38.080><c> they're</c><00:07:38.319><c> partitioned</c><00:07:38.880><c> the</c>
+
+00:07:38.950 --> 00:07:38.960 align:start position:0%
+in memory but they're partitioned the
+ 
+
+00:07:38.960 --> 00:07:41.189 align:start position:0%
+in memory but they're partitioned the
+same<00:07:39.199><c> way</c><00:07:39.680><c> we</c><00:07:39.840><c> can</c><00:07:40.000><c> basically</c><00:07:40.479><c> just</c><00:07:40.720><c> only</c><00:07:40.960><c> load</c>
+
+00:07:41.189 --> 00:07:41.199 align:start position:0%
+same way we can basically just only load
+ 
+
+00:07:41.199 --> 00:07:43.029 align:start position:0%
+same way we can basically just only load
+the<00:07:41.360><c> relevant</c><00:07:41.759><c> partition</c><00:07:42.400><c> of</c><00:07:42.479><c> the</c><00:07:42.639><c> smaller</c>
+
+00:07:43.029 --> 00:07:43.039 align:start position:0%
+the relevant partition of the smaller
+ 
+
+00:07:43.039 --> 00:07:45.110 align:start position:0%
+the relevant partition of the smaller
+data<00:07:43.280><c> set</c><00:07:43.520><c> into</c><00:07:43.759><c> memory</c><00:07:44.080><c> on</c><00:07:44.240><c> the</c><00:07:44.319><c> mapper</c><00:07:44.960><c> so</c>
+
+00:07:45.110 --> 00:07:45.120 align:start position:0%
+data set into memory on the mapper so
+ 
+
+00:07:45.120 --> 00:07:46.790 align:start position:0%
+data set into memory on the mapper so
+what<00:07:45.280><c> that</c><00:07:45.440><c> means</c><00:07:45.840><c> is</c><00:07:46.080><c> like</c>
+
+00:07:46.790 --> 00:07:46.800 align:start position:0%
+what that means is like
+ 
+
+00:07:46.800 --> 00:07:49.589 align:start position:0%
+what that means is like
+say<00:07:47.120><c> i</c><00:07:47.360><c> have</c><00:07:48.080><c> all</c><00:07:48.240><c> the</c><00:07:48.400><c> files</c><00:07:48.879><c> for</c><00:07:49.120><c> both</c><00:07:49.360><c> the</c>
+
+00:07:49.589 --> 00:07:49.599 align:start position:0%
+say i have all the files for both the
+ 
+
+00:07:49.599 --> 00:07:52.469 align:start position:0%
+say i have all the files for both the
+age<00:07:49.840><c> data</c><00:07:50.479><c> and</c><00:07:50.720><c> the</c><00:07:50.800><c> browsing</c><00:07:51.280><c> data</c>
+
+00:07:52.469 --> 00:07:52.479 align:start position:0%
+age data and the browsing data
+ 
+
+00:07:52.479 --> 00:07:55.270 align:start position:0%
+age data and the browsing data
+and<00:07:52.639><c> their</c><00:07:52.879><c> partitions</c><00:07:53.440><c> such</c><00:07:53.680><c> that</c><00:07:53.840><c> like</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+and their partitions such that like
+ 
+
+00:07:55.280 --> 00:07:57.189 align:start position:0%
+and their partitions such that like
+there's<00:07:55.680><c> one</c><00:07:55.919><c> file</c><00:07:56.160><c> that</c><00:07:56.319><c> contains</c><00:07:56.720><c> all</c><00:07:56.879><c> the</c><00:07:56.960><c> a</c>
+
+00:07:57.189 --> 00:07:57.199 align:start position:0%
+there's one file that contains all the a
+ 
+
+00:07:57.199 --> 00:07:58.950 align:start position:0%
+there's one file that contains all the a
+names<00:07:57.520><c> one</c><00:07:57.759><c> file</c><00:07:58.000><c> that</c><00:07:58.160><c> contains</c><00:07:58.479><c> all</c><00:07:58.639><c> the</c><00:07:58.720><c> b</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+names one file that contains all the b
+ 
+
+00:07:58.960 --> 00:08:01.830 align:start position:0%
+names one file that contains all the b
+names<00:07:59.840><c> the</c><00:08:00.000><c> cnames</c><00:08:00.879><c> and</c><00:08:01.039><c> that's</c><00:08:01.360><c> the</c><00:08:01.440><c> case</c><00:08:01.680><c> for</c>
+
+00:08:01.830 --> 00:08:01.840 align:start position:0%
+names the cnames and that's the case for
+ 
+
+00:08:01.840 --> 00:08:04.390 align:start position:0%
+names the cnames and that's the case for
+both<00:08:02.160><c> age</c><00:08:02.800><c> and</c><00:08:03.039><c> browsing</c><00:08:03.440><c> history</c><00:08:04.080><c> then</c><00:08:04.319><c> we</c>
+
+00:08:04.390 --> 00:08:04.400 align:start position:0%
+both age and browsing history then we
+ 
+
+00:08:04.400 --> 00:08:06.070 align:start position:0%
+both age and browsing history then we
+can<00:08:04.639><c> actually</c><00:08:04.960><c> just</c><00:08:05.280><c> make</c><00:08:05.520><c> it</c><00:08:05.599><c> so</c><00:08:05.759><c> that</c><00:08:06.000><c> you</c>
+
+00:08:06.070 --> 00:08:06.080 align:start position:0%
+can actually just make it so that you
+ 
+
+00:08:06.080 --> 00:08:08.309 align:start position:0%
+can actually just make it so that you
+know<00:08:06.240><c> when</c><00:08:06.400><c> you</c><00:08:06.560><c> have</c><00:08:06.800><c> all</c><00:08:06.960><c> those</c><00:08:07.280><c> mappers</c><00:08:07.759><c> for</c>
+
+00:08:08.309 --> 00:08:08.319 align:start position:0%
+know when you have all those mappers for
+ 
+
+00:08:08.319 --> 00:08:10.550 align:start position:0%
+know when you have all those mappers for
+the<00:08:08.479><c> browsing</c><00:08:08.879><c> history</c><00:08:09.759><c> and</c><00:08:10.000><c> say</c><00:08:10.160><c> we're</c><00:08:10.319><c> doing</c>
+
+00:08:10.550 --> 00:08:10.560 align:start position:0%
+the browsing history and say we're doing
+ 
+
+00:08:10.560 --> 00:08:12.550 align:start position:0%
+the browsing history and say we're doing
+the<00:08:10.639><c> mappings</c><00:08:11.199><c> for</c><00:08:11.520><c> all</c><00:08:11.599><c> the</c><00:08:11.759><c> a</c><00:08:12.000><c> names</c><00:08:12.319><c> we</c><00:08:12.479><c> can</c>
+
+00:08:12.550 --> 00:08:12.560 align:start position:0%
+the mappings for all the a names we can
+ 
+
+00:08:12.560 --> 00:08:14.710 align:start position:0%
+the mappings for all the a names we can
+just<00:08:12.720><c> go</c><00:08:12.960><c> ahead</c><00:08:13.280><c> and</c><00:08:13.520><c> only</c><00:08:13.840><c> load</c><00:08:14.080><c> in</c><00:08:14.240><c> the</c><00:08:14.400><c> a</c>
+
+00:08:14.710 --> 00:08:14.720 align:start position:0%
+just go ahead and only load in the a
+ 
+
+00:08:14.720 --> 00:08:17.430 align:start position:0%
+just go ahead and only load in the a
+ages<00:08:15.199><c> into</c><00:08:15.440><c> memory</c>
+
+00:08:17.430 --> 00:08:17.440 align:start position:0%
+ages into memory
+ 
+
+00:08:17.440 --> 00:08:20.230 align:start position:0%
+ages into memory
+so<00:08:17.599><c> that's</c><00:08:17.840><c> also</c><00:08:18.160><c> known</c><00:08:18.560><c> as</c><00:08:18.879><c> a</c><00:08:19.360><c> map</c><00:08:19.599><c> side</c><00:08:19.919><c> join</c>
+
+00:08:20.230 --> 00:08:20.240 align:start position:0%
+so that's also known as a map side join
+ 
+
+00:08:20.240 --> 00:08:21.830 align:start position:0%
+so that's also known as a map side join
+because<00:08:20.479><c> the</c><00:08:20.560><c> mapper</c><00:08:20.800><c> is</c><00:08:20.879><c> doing</c><00:08:21.120><c> the</c><00:08:21.199><c> logic</c>
+
+00:08:21.830 --> 00:08:21.840 align:start position:0%
+because the mapper is doing the logic
+ 
+
+00:08:21.840 --> 00:08:25.350 align:start position:0%
+because the mapper is doing the logic
+okay<00:08:22.479><c> anyways</c><00:08:23.360><c> pitfalls</c><00:08:24.000><c> of</c><00:08:24.160><c> mapreduce</c><00:08:25.120><c> thus</c>
+
+00:08:25.350 --> 00:08:25.360 align:start position:0%
+okay anyways pitfalls of mapreduce thus
+ 
+
+00:08:25.360 --> 00:08:27.110 align:start position:0%
+okay anyways pitfalls of mapreduce thus
+far<00:08:25.599><c> i've</c><00:08:25.759><c> described</c><00:08:26.160><c> mapreduce</c><00:08:26.720><c> as</c><00:08:26.879><c> kind</c><00:08:27.039><c> of</c>
+
+00:08:27.110 --> 00:08:27.120 align:start position:0%
+far i've described mapreduce as kind of
+ 
+
+00:08:27.120 --> 00:08:28.790 align:start position:0%
+far i've described mapreduce as kind of
+like<00:08:27.360><c> this</c><00:08:27.520><c> perfect</c><00:08:28.000><c> really</c><00:08:28.240><c> simplistic</c>
+
+00:08:28.790 --> 00:08:28.800 align:start position:0%
+like this perfect really simplistic
+ 
+
+00:08:28.800 --> 00:08:31.110 align:start position:0%
+like this perfect really simplistic
+programming<00:08:29.199><c> model</c><00:08:29.840><c> in</c><00:08:30.000><c> order</c><00:08:30.319><c> to</c><00:08:30.639><c> go</c><00:08:30.800><c> ahead</c>
+
+00:08:31.110 --> 00:08:31.120 align:start position:0%
+programming model in order to go ahead
+ 
+
+00:08:31.120 --> 00:08:33.350 align:start position:0%
+programming model in order to go ahead
+and<00:08:31.199><c> make</c><00:08:31.440><c> huge</c><00:08:31.759><c> batch</c><00:08:32.080><c> computations</c><00:08:32.880><c> and</c><00:08:33.200><c> you</c>
+
+00:08:33.350 --> 00:08:33.360 align:start position:0%
+and make huge batch computations and you
+ 
+
+00:08:33.360 --> 00:08:35.430 align:start position:0%
+and make huge batch computations and you
+know<00:08:33.519><c> for</c><00:08:33.680><c> a</c><00:08:33.760><c> while</c><00:08:34.159><c> it</c><00:08:34.320><c> was</c><00:08:34.800><c> really</c><00:08:35.120><c> widely</c>
+
+00:08:35.430 --> 00:08:35.440 align:start position:0%
+know for a while it was really widely
+ 
+
+00:08:35.440 --> 00:08:37.509 align:start position:0%
+know for a while it was really widely
+used<00:08:35.839><c> people</c><00:08:36.080><c> like</c><00:08:36.320><c> um</c><00:08:36.640><c> google</c><00:08:36.959><c> were</c><00:08:37.120><c> using</c><00:08:37.360><c> it</c>
+
+00:08:37.509 --> 00:08:37.519 align:start position:0%
+used people like um google were using it
+ 
+
+00:08:37.519 --> 00:08:39.589 align:start position:0%
+used people like um google were using it
+all<00:08:37.599><c> the</c><00:08:37.760><c> time</c><00:08:38.399><c> but</c><00:08:38.560><c> now</c><00:08:38.800><c> it's</c><00:08:38.959><c> less</c><00:08:39.120><c> popular</c>
+
+00:08:39.589 --> 00:08:39.599 align:start position:0%
+all the time but now it's less popular
+ 
+
+00:08:39.599 --> 00:08:41.029 align:start position:0%
+all the time but now it's less popular
+and<00:08:39.680><c> i'll</c><00:08:39.839><c> explain</c><00:08:40.159><c> why</c>
+
+00:08:41.029 --> 00:08:41.039 align:start position:0%
+and i'll explain why
+ 
+
+00:08:41.039 --> 00:08:43.029 align:start position:0%
+and i'll explain why
+well<00:08:41.279><c> first</c><00:08:41.519><c> of</c><00:08:41.599><c> all</c><00:08:42.240><c> when</c><00:08:42.479><c> chaining</c><00:08:42.800><c> these</c>
+
+00:08:43.029 --> 00:08:43.039 align:start position:0%
+well first of all when chaining these
+ 
+
+00:08:43.039 --> 00:08:44.230 align:start position:0%
+well first of all when chaining these
+jobs<00:08:43.360><c> together</c>
+
+00:08:44.230 --> 00:08:44.240 align:start position:0%
+jobs together
+ 
+
+00:08:44.240 --> 00:08:46.070 align:start position:0%
+jobs together
+one<00:08:44.480><c> needs</c><00:08:44.720><c> to</c><00:08:44.880><c> wait</c><00:08:45.120><c> for</c><00:08:45.279><c> the</c><00:08:45.360><c> preceding</c><00:08:45.839><c> one</c>
+
+00:08:46.070 --> 00:08:46.080 align:start position:0%
+one needs to wait for the preceding one
+ 
+
+00:08:46.080 --> 00:08:47.829 align:start position:0%
+one needs to wait for the preceding one
+to<00:08:46.160><c> completely</c><00:08:46.720><c> finish</c><00:08:47.040><c> in</c><00:08:47.200><c> order</c><00:08:47.360><c> to</c><00:08:47.519><c> start</c>
+
+00:08:47.829 --> 00:08:47.839 align:start position:0%
+to completely finish in order to start
+ 
+
+00:08:47.839 --> 00:08:49.750 align:start position:0%
+to completely finish in order to start
+executing<00:08:48.480><c> so</c><00:08:48.640><c> that's</c><00:08:48.800><c> bad</c><00:08:49.040><c> for</c><00:08:49.200><c> a</c><00:08:49.279><c> multitude</c>
+
+00:08:49.750 --> 00:08:49.760 align:start position:0%
+executing so that's bad for a multitude
+ 
+
+00:08:49.760 --> 00:08:51.829 align:start position:0%
+executing so that's bad for a multitude
+of<00:08:49.839><c> reasons</c><00:08:50.640><c> the</c><00:08:50.800><c> first</c><00:08:51.120><c> one</c><00:08:51.440><c> is</c><00:08:51.519><c> that</c><00:08:51.680><c> there</c>
+
+00:08:51.829 --> 00:08:51.839 align:start position:0%
+of reasons the first one is that there
+ 
+
+00:08:51.839 --> 00:08:53.670 align:start position:0%
+of reasons the first one is that there
+might<00:08:52.000><c> be</c><00:08:52.160><c> stragglers</c><00:08:52.959><c> certain</c><00:08:53.279><c> map</c><00:08:53.600><c> or</c>
+
+00:08:53.670 --> 00:08:53.680 align:start position:0%
+might be stragglers certain map or
+ 
+
+00:08:53.680 --> 00:08:55.430 align:start position:0%
+might be stragglers certain map or
+reduced<00:08:54.080><c> jobs</c><00:08:54.399><c> might</c><00:08:54.640><c> take</c><00:08:54.880><c> a</c><00:08:54.959><c> really</c><00:08:55.200><c> long</c>
+
+00:08:55.430 --> 00:08:55.440 align:start position:0%
+reduced jobs might take a really long
+ 
+
+00:08:55.440 --> 00:08:58.150 align:start position:0%
+reduced jobs might take a really long
+time<00:08:56.080><c> and</c><00:08:56.320><c> even</c><00:08:56.560><c> though</c><00:08:56.800><c> the</c><00:08:56.959><c> subsequent</c><00:08:57.920><c> map</c>
+
+00:08:58.150 --> 00:08:58.160 align:start position:0%
+time and even though the subsequent map
+ 
+
+00:08:58.160 --> 00:09:00.070 align:start position:0%
+time and even though the subsequent map
+reduced<00:08:58.560><c> job</c><00:08:58.880><c> could</c><00:08:59.040><c> you</c><00:08:59.200><c> know</c><00:08:59.360><c> partially</c><00:08:59.839><c> get</c>
+
+00:09:00.070 --> 00:09:00.080 align:start position:0%
+reduced job could you know partially get
+ 
+
+00:09:00.080 --> 00:09:02.230 align:start position:0%
+reduced job could you know partially get
+started<00:09:00.800><c> it</c><00:09:00.959><c> feels</c><00:09:01.279><c> the</c><00:09:01.360><c> need</c><00:09:01.600><c> to</c><00:09:01.760><c> completely</c>
+
+00:09:02.230 --> 00:09:02.240 align:start position:0%
+started it feels the need to completely
+ 
+
+00:09:02.240 --> 00:09:03.829 align:start position:0%
+started it feels the need to completely
+wait<00:09:02.480><c> for</c><00:09:02.640><c> these</c><00:09:02.800><c> stragglers</c><00:09:03.360><c> in</c><00:09:03.440><c> order</c><00:09:03.680><c> to</c>
+
+00:09:03.829 --> 00:09:03.839 align:start position:0%
+wait for these stragglers in order to
+ 
+
+00:09:03.839 --> 00:09:05.350 align:start position:0%
+wait for these stragglers in order to
+get<00:09:04.000><c> started</c><00:09:04.399><c> which</c><00:09:04.640><c> is</c><00:09:04.720><c> very</c><00:09:04.959><c> bad</c><00:09:05.200><c> for</c>
+
+00:09:05.350 --> 00:09:05.360 align:start position:0%
+get started which is very bad for
+ 
+
+00:09:05.360 --> 00:09:07.030 align:start position:0%
+get started which is very bad for
+throughput
+
+00:09:07.030 --> 00:09:07.040 align:start position:0%
+throughput
+ 
+
+00:09:07.040 --> 00:09:09.910 align:start position:0%
+throughput
+additionally<00:09:08.000><c> we</c><00:09:08.160><c> waste</c><00:09:08.560><c> a</c><00:09:08.720><c> ton</c><00:09:08.959><c> of</c><00:09:09.040><c> disk</c><00:09:09.440><c> io</c>
+
+00:09:09.910 --> 00:09:09.920 align:start position:0%
+additionally we waste a ton of disk io
+ 
+
+00:09:09.920 --> 00:09:11.350 align:start position:0%
+additionally we waste a ton of disk io
+which<00:09:10.160><c> means</c><00:09:10.399><c> we're</c><00:09:10.560><c> doing</c><00:09:10.800><c> a</c><00:09:10.880><c> ton</c><00:09:11.040><c> of</c><00:09:11.120><c> writes</c>
+
+00:09:11.350 --> 00:09:11.360 align:start position:0%
+which means we're doing a ton of writes
+ 
+
+00:09:11.360 --> 00:09:13.670 align:start position:0%
+which means we're doing a ton of writes
+to<00:09:11.519><c> disk</c><00:09:12.000><c> for</c><00:09:12.160><c> this</c><00:09:12.320><c> concept</c><00:09:12.800><c> of</c><00:09:13.040><c> intermediate</c>
+
+00:09:13.670 --> 00:09:13.680 align:start position:0%
+to disk for this concept of intermediate
+ 
+
+00:09:13.680 --> 00:09:15.509 align:start position:0%
+to disk for this concept of intermediate
+state<00:09:14.080><c> intermediate</c><00:09:14.640><c> state</c><00:09:14.959><c> is</c><00:09:15.120><c> basically</c>
+
+00:09:15.509 --> 00:09:15.519 align:start position:0%
+state intermediate state is basically
+ 
+
+00:09:15.519 --> 00:09:17.430 align:start position:0%
+state intermediate state is basically
+saying<00:09:16.000><c> imagine</c><00:09:16.399><c> we</c><00:09:16.560><c> have</c><00:09:16.640><c> two</c><00:09:16.880><c> mapreduce</c>
+
+00:09:17.430 --> 00:09:17.440 align:start position:0%
+saying imagine we have two mapreduce
+ 
+
+00:09:17.440 --> 00:09:19.509 align:start position:0%
+saying imagine we have two mapreduce
+jobs<00:09:17.760><c> chained</c><00:09:18.080><c> together</c><00:09:18.720><c> but</c><00:09:18.880><c> the</c><00:09:19.040><c> result</c><00:09:19.360><c> of</c>
+
+00:09:19.509 --> 00:09:19.519 align:start position:0%
+jobs chained together but the result of
+ 
+
+00:09:19.519 --> 00:09:21.110 align:start position:0%
+jobs chained together but the result of
+the<00:09:19.600><c> first</c><00:09:19.920><c> one</c><00:09:20.080><c> we</c><00:09:20.320><c> really</c><00:09:20.560><c> don't</c><00:09:20.720><c> care</c><00:09:20.959><c> about</c>
+
+00:09:21.110 --> 00:09:21.120 align:start position:0%
+the first one we really don't care about
+ 
+
+00:09:21.120 --> 00:09:22.550 align:start position:0%
+the first one we really don't care about
+we're<00:09:21.279><c> never</c><00:09:21.519><c> going</c><00:09:21.600><c> to</c><00:09:21.680><c> use</c><00:09:21.920><c> it</c><00:09:22.080><c> for</c><00:09:22.240><c> anyone</c>
+
+00:09:22.550 --> 00:09:22.560 align:start position:0%
+we're never going to use it for anyone
+ 
+
+00:09:22.560 --> 00:09:23.590 align:start position:0%
+we're never going to use it for anyone
+else
+
+00:09:23.590 --> 00:09:23.600 align:start position:0%
+else
+ 
+
+00:09:23.600 --> 00:09:25.590 align:start position:0%
+else
+it's<00:09:23.920><c> solely</c><00:09:24.320><c> just</c><00:09:24.560><c> like</c><00:09:24.800><c> an</c><00:09:25.040><c> intermediate</c>
+
+00:09:25.590 --> 00:09:25.600 align:start position:0%
+it's solely just like an intermediate
+ 
+
+00:09:25.600 --> 00:09:26.949 align:start position:0%
+it's solely just like an intermediate
+computation
+
+00:09:26.949 --> 00:09:26.959 align:start position:0%
+computation
+ 
+
+00:09:26.959 --> 00:09:28.550 align:start position:0%
+computation
+mapreduce<00:09:27.519><c> is</c><00:09:27.680><c> going</c><00:09:27.760><c> to</c><00:09:27.839><c> write</c><00:09:28.000><c> that</c><00:09:28.240><c> all</c><00:09:28.399><c> out</c>
+
+00:09:28.550 --> 00:09:28.560 align:start position:0%
+mapreduce is going to write that all out
+ 
+
+00:09:28.560 --> 00:09:30.389 align:start position:0%
+mapreduce is going to write that all out
+to<00:09:28.720><c> disk</c><00:09:29.279><c> which</c><00:09:29.440><c> is</c><00:09:29.600><c> pretty</c><00:09:29.760><c> useless</c><00:09:30.240><c> and</c>
+
+00:09:30.389 --> 00:09:30.399 align:start position:0%
+to disk which is pretty useless and
+ 
+
+00:09:30.399 --> 00:09:32.710 align:start position:0%
+to disk which is pretty useless and
+takes<00:09:30.640><c> a</c><00:09:30.720><c> ton</c><00:09:30.880><c> of</c><00:09:31.040><c> time</c><00:09:31.760><c> so</c><00:09:32.160><c> mapreduce</c>
+
+00:09:32.710 --> 00:09:32.720 align:start position:0%
+takes a ton of time so mapreduce
+ 
+
+00:09:32.720 --> 00:09:34.710 align:start position:0%
+takes a ton of time so mapreduce
+materializes<00:09:33.519><c> this</c><00:09:33.760><c> intermediate</c><00:09:34.320><c> state</c>
+
+00:09:34.710 --> 00:09:34.720 align:start position:0%
+materializes this intermediate state
+ 
+
+00:09:34.720 --> 00:09:37.110 align:start position:0%
+materializes this intermediate state
+which<00:09:34.880><c> is</c><00:09:35.040><c> not</c><00:09:35.200><c> always</c><00:09:35.440><c> necessary</c>
+
+00:09:37.110 --> 00:09:37.120 align:start position:0%
+which is not always necessary
+ 
+
+00:09:37.120 --> 00:09:39.190 align:start position:0%
+which is not always necessary
+and<00:09:37.200><c> then</c><00:09:37.440><c> finally</c><00:09:38.240><c> since</c><00:09:38.560><c> mapreduce</c>
+
+00:09:39.190 --> 00:09:39.200 align:start position:0%
+and then finally since mapreduce
+ 
+
+00:09:39.200 --> 00:09:41.829 align:start position:0%
+and then finally since mapreduce
+contains<00:09:39.680><c> a</c><00:09:39.839><c> mapper</c><00:09:40.560><c> per</c><00:09:40.800><c> reduce</c><00:09:41.600><c> we're</c>
+
+00:09:41.829 --> 00:09:41.839 align:start position:0%
+contains a mapper per reduce we're
+ 
+
+00:09:41.839 --> 00:09:43.350 align:start position:0%
+contains a mapper per reduce we're
+always<00:09:42.160><c> going</c><00:09:42.320><c> to</c><00:09:42.399><c> end</c><00:09:42.560><c> up</c><00:09:42.720><c> sorting</c><00:09:43.120><c> those</c>
+
+00:09:43.350 --> 00:09:43.360 align:start position:0%
+always going to end up sorting those
+ 
+
+00:09:43.360 --> 00:09:45.350 align:start position:0%
+always going to end up sorting those
+keys<00:09:43.680><c> and</c><00:09:43.839><c> oftentimes</c><00:09:44.399><c> that's</c><00:09:44.640><c> not</c><00:09:44.800><c> necessary</c>
+
+00:09:45.350 --> 00:09:45.360 align:start position:0%
+keys and oftentimes that's not necessary
+ 
+
+00:09:45.360 --> 00:09:47.910 align:start position:0%
+keys and oftentimes that's not necessary
+either<00:09:46.000><c> a</c><00:09:46.080><c> lot</c><00:09:46.320><c> of</c><00:09:46.399><c> times</c><00:09:46.720><c> you</c><00:09:46.880><c> just</c><00:09:47.120><c> want</c><00:09:47.360><c> to</c>
+
+00:09:47.910 --> 00:09:47.920 align:start position:0%
+either a lot of times you just want to
+ 
+
+00:09:47.920 --> 00:09:49.590 align:start position:0%
+either a lot of times you just want to
+you<00:09:48.080><c> know</c><00:09:48.399><c> sort</c><00:09:48.720><c> one</c><00:09:48.959><c> time</c><00:09:49.200><c> and</c><00:09:49.279><c> then</c>
+
+00:09:49.590 --> 00:09:49.600 align:start position:0%
+you know sort one time and then
+ 
+
+00:09:49.600 --> 00:09:51.350 align:start position:0%
+you know sort one time and then
+subsequently<00:09:50.240><c> the</c><00:09:50.320><c> data</c><00:09:50.640><c> can</c><00:09:50.959><c> already</c><00:09:51.200><c> be</c>
+
+00:09:51.350 --> 00:09:51.360 align:start position:0%
+subsequently the data can already be
+ 
+
+00:09:51.360 --> 00:09:52.710 align:start position:0%
+subsequently the data can already be
+sorted<00:09:51.760><c> in</c><00:09:51.839><c> the</c><00:09:51.920><c> way</c><00:09:52.080><c> you</c><00:09:52.240><c> want</c><00:09:52.480><c> you</c><00:09:52.560><c> don't</c>
+
+00:09:52.710 --> 00:09:52.720 align:start position:0%
+sorted in the way you want you don't
+ 
+
+00:09:52.720 --> 00:09:54.870 align:start position:0%
+sorted in the way you want you don't
+need<00:09:52.880><c> to</c><00:09:52.959><c> do</c><00:09:53.120><c> it</c><00:09:53.200><c> again</c>
+
+00:09:54.870 --> 00:09:54.880 align:start position:0%
+need to do it again
+ 
+
+00:09:54.880 --> 00:09:57.110 align:start position:0%
+need to do it again
+okay<00:09:55.200><c> so</c><00:09:55.360><c> this</c><00:09:55.600><c> leads</c><00:09:55.920><c> us</c><00:09:56.160><c> to</c><00:09:56.399><c> the</c><00:09:56.560><c> more</c><00:09:56.800><c> modern</c>
+
+00:09:57.110 --> 00:09:57.120 align:start position:0%
+okay so this leads us to the more modern
+ 
+
+00:09:57.120 --> 00:09:58.949 align:start position:0%
+okay so this leads us to the more modern
+day<00:09:57.279><c> solution</c><00:09:57.680><c> which</c><00:09:58.000><c> most</c><00:09:58.399><c> companies</c><00:09:58.880><c> are</c>
+
+00:09:58.949 --> 00:09:58.959 align:start position:0%
+day solution which most companies are
+ 
+
+00:09:58.959 --> 00:10:00.949 align:start position:0%
+day solution which most companies are
+using<00:09:59.279><c> which</c><00:09:59.600><c> are</c><00:09:59.839><c> dataflow</c><00:10:00.399><c> engines</c><00:10:00.720><c> so</c><00:10:00.800><c> if</c>
+
+00:10:00.949 --> 00:10:00.959 align:start position:0%
+using which are dataflow engines so if
+ 
+
+00:10:00.959 --> 00:10:03.030 align:start position:0%
+using which are dataflow engines so if
+you've<00:10:01.040><c> ever</c><00:10:01.200><c> heard</c><00:10:01.360><c> of</c><00:10:01.519><c> apache</c><00:10:02.000><c> spark</c><00:10:02.720><c> that's</c>
+
+00:10:03.030 --> 00:10:03.040 align:start position:0%
+you've ever heard of apache spark that's
+ 
+
+00:10:03.040 --> 00:10:05.590 align:start position:0%
+you've ever heard of apache spark that's
+what<00:10:03.600><c> this</c><00:10:03.839><c> is</c><00:10:04.320><c> so</c><00:10:04.480><c> what</c><00:10:04.560><c> they</c><00:10:04.720><c> do</c><00:10:05.040><c> is</c><00:10:05.279><c> instead</c>
+
+00:10:05.590 --> 00:10:05.600 align:start position:0%
+what this is so what they do is instead
+ 
+
+00:10:05.600 --> 00:10:07.110 align:start position:0%
+what this is so what they do is instead
+of<00:10:05.680><c> just</c><00:10:05.839><c> having</c><00:10:06.240><c> specific</c><00:10:06.640><c> mappers</c><00:10:07.040><c> and</c>
+
+00:10:07.110 --> 00:10:07.120 align:start position:0%
+of just having specific mappers and
+ 
+
+00:10:07.120 --> 00:10:08.790 align:start position:0%
+of just having specific mappers and
+reducers<00:10:08.000><c> they'll</c><00:10:08.240><c> chain</c><00:10:08.480><c> a</c><00:10:08.480><c> bunch</c><00:10:08.720><c> of</c>
+
+00:10:08.790 --> 00:10:08.800 align:start position:0%
+reducers they'll chain a bunch of
+ 
+
+00:10:08.800 --> 00:10:10.870 align:start position:0%
+reducers they'll chain a bunch of
+functions<00:10:09.200><c> together</c><00:10:09.600><c> called</c><00:10:09.920><c> operators</c><00:10:10.720><c> so</c>
+
+00:10:10.870 --> 00:10:10.880 align:start position:0%
+functions together called operators so
+ 
+
+00:10:10.880 --> 00:10:12.310 align:start position:0%
+functions together called operators so
+again<00:10:11.200><c> that</c><00:10:11.360><c> reduces</c><00:10:11.839><c> the</c><00:10:11.920><c> need</c><00:10:12.079><c> for</c>
+
+00:10:12.310 --> 00:10:12.320 align:start position:0%
+again that reduces the need for
+ 
+
+00:10:12.320 --> 00:10:14.870 align:start position:0%
+again that reduces the need for
+unnecessary<00:10:12.959><c> mappers</c><00:10:13.839><c> and</c><00:10:14.000><c> so</c><00:10:14.560><c> what</c><00:10:14.720><c> this</c>
+
+00:10:14.870 --> 00:10:14.880 align:start position:0%
+unnecessary mappers and so what this
+ 
+
+00:10:14.880 --> 00:10:16.870 align:start position:0%
+unnecessary mappers and so what this
+does<00:10:15.200><c> is</c><00:10:15.360><c> it's</c><00:10:15.600><c> much</c><00:10:15.839><c> more</c><00:10:16.079><c> transparent</c><00:10:16.640><c> about</c>
+
+00:10:16.870 --> 00:10:16.880 align:start position:0%
+does is it's much more transparent about
+ 
+
+00:10:16.880 --> 00:10:18.790 align:start position:0%
+does is it's much more transparent about
+the<00:10:17.040><c> entire</c><00:10:17.360><c> flow</c><00:10:17.600><c> of</c><00:10:17.760><c> data</c><00:10:18.160><c> as</c><00:10:18.320><c> opposed</c><00:10:18.640><c> to</c>
+
+00:10:18.790 --> 00:10:18.800 align:start position:0%
+the entire flow of data as opposed to
+ 
+
+00:10:18.800 --> 00:10:20.389 align:start position:0%
+the entire flow of data as opposed to
+just<00:10:18.959><c> seeing</c><00:10:19.200><c> a</c><00:10:19.279><c> mapper</c><00:10:19.600><c> and</c><00:10:19.680><c> reducer</c><00:10:20.160><c> as</c><00:10:20.240><c> a</c>
+
+00:10:20.389 --> 00:10:20.399 align:start position:0%
+just seeing a mapper and reducer as a
+ 
+
+00:10:20.399 --> 00:10:21.509 align:start position:0%
+just seeing a mapper and reducer as a
+black<00:10:20.640><c> box</c>
+
+00:10:21.509 --> 00:10:21.519 align:start position:0%
+black box
+ 
+
+00:10:21.519 --> 00:10:23.590 align:start position:0%
+black box
+it<00:10:21.680><c> goes</c><00:10:21.920><c> ahead</c><00:10:22.399><c> and</c>
+
+00:10:23.590 --> 00:10:23.600 align:start position:0%
+it goes ahead and
+ 
+
+00:10:23.600 --> 00:10:25.670 align:start position:0%
+it goes ahead and
+maps<00:10:24.000><c> out</c><00:10:24.240><c> all</c><00:10:24.399><c> of</c><00:10:24.480><c> the</c><00:10:24.560><c> data</c><00:10:24.800><c> dependencies</c><00:10:25.519><c> so</c>
+
+00:10:25.670 --> 00:10:25.680 align:start position:0%
+maps out all of the data dependencies so
+ 
+
+00:10:25.680 --> 00:10:27.910 align:start position:0%
+maps out all of the data dependencies so
+it<00:10:25.760><c> can</c><00:10:25.920><c> optimize</c><00:10:26.480><c> for</c><00:10:26.720><c> those</c><00:10:27.200><c> and</c><00:10:27.360><c> be</c><00:10:27.600><c> as</c><00:10:27.680><c> fast</c>
+
+00:10:27.910 --> 00:10:27.920 align:start position:0%
+it can optimize for those and be as fast
+ 
+
+00:10:27.920 --> 00:10:29.269 align:start position:0%
+it can optimize for those and be as fast
+as<00:10:28.079><c> possible</c>
+
+00:10:29.269 --> 00:10:29.279 align:start position:0%
+as possible
+ 
+
+00:10:29.279 --> 00:10:30.949 align:start position:0%
+as possible
+that<00:10:29.440><c> allows</c><00:10:29.839><c> us</c><00:10:29.920><c> to</c><00:10:30.079><c> do</c><00:10:30.240><c> better</c><00:10:30.480><c> with</c><00:10:30.640><c> data</c>
+
+00:10:30.949 --> 00:10:30.959 align:start position:0%
+that allows us to do better with data
+ 
+
+00:10:30.959 --> 00:10:32.550 align:start position:0%
+that allows us to do better with data
+locality
+
+00:10:32.550 --> 00:10:32.560 align:start position:0%
+locality
+ 
+
+00:10:32.560 --> 00:10:33.910 align:start position:0%
+locality
+obviously<00:10:33.040><c> it</c>
+
+00:10:33.910 --> 00:10:33.920 align:start position:0%
+obviously it
+ 
+
+00:10:33.920 --> 00:10:35.670 align:start position:0%
+obviously it
+does<00:10:34.160><c> parallel</c><00:10:34.640><c> computations</c><00:10:35.279><c> in</c><00:10:35.360><c> the</c><00:10:35.440><c> same</c>
+
+00:10:35.670 --> 00:10:35.680 align:start position:0%
+does parallel computations in the same
+ 
+
+00:10:35.680 --> 00:10:37.350 align:start position:0%
+does parallel computations in the same
+way<00:10:35.839><c> that</c><00:10:35.920><c> mapreduce</c><00:10:36.399><c> does</c><00:10:36.720><c> meaning</c><00:10:37.040><c> that</c><00:10:37.279><c> you</c>
+
+00:10:37.350 --> 00:10:37.360 align:start position:0%
+way that mapreduce does meaning that you
+ 
+
+00:10:37.360 --> 00:10:39.430 align:start position:0%
+way that mapreduce does meaning that you
+know<00:10:37.600><c> each</c><00:10:38.000><c> node</c><00:10:38.240><c> in</c><00:10:38.320><c> the</c><00:10:38.399><c> cluster</c><00:10:38.880><c> is</c><00:10:39.120><c> doing</c>
+
+00:10:39.430 --> 00:10:39.440 align:start position:0%
+know each node in the cluster is doing
+ 
+
+00:10:39.440 --> 00:10:41.350 align:start position:0%
+know each node in the cluster is doing
+as<00:10:39.519><c> much</c><00:10:39.680><c> computation</c><00:10:40.320><c> as</c><00:10:40.480><c> it</c><00:10:40.560><c> can</c>
+
+00:10:41.350 --> 00:10:41.360 align:start position:0%
+as much computation as it can
+ 
+
+00:10:41.360 --> 00:10:43.269 align:start position:0%
+as much computation as it can
+and<00:10:41.920><c> another</c><00:10:42.240><c> big</c><00:10:42.480><c> thing</c><00:10:42.640><c> is</c><00:10:42.800><c> that</c><00:10:42.880><c> it</c><00:10:42.959><c> doesn't</c>
+
+00:10:43.269 --> 00:10:43.279 align:start position:0%
+and another big thing is that it doesn't
+ 
+
+00:10:43.279 --> 00:10:45.990 align:start position:0%
+and another big thing is that it doesn't
+materialize<00:10:43.920><c> intermediate</c><00:10:44.640><c> state</c><00:10:45.519><c> so</c><00:10:45.839><c> what</c>
+
+00:10:45.990 --> 00:10:46.000 align:start position:0%
+materialize intermediate state so what
+ 
+
+00:10:46.000 --> 00:10:47.829 align:start position:0%
+materialize intermediate state so what
+that<00:10:46.240><c> means</c><00:10:46.720><c> is</c><00:10:46.959><c> that</c><00:10:47.279><c> it's</c><00:10:47.440><c> a</c><00:10:47.519><c> little</c><00:10:47.680><c> bit</c>
+
+00:10:47.829 --> 00:10:47.839 align:start position:0%
+that means is that it's a little bit
+ 
+
+00:10:47.839 --> 00:10:49.590 align:start position:0%
+that means is that it's a little bit
+less<00:10:48.079><c> fault</c><00:10:48.320><c> tolerant</c><00:10:48.720><c> than</c><00:10:48.880><c> mapreduce</c>
+
+00:10:49.590 --> 00:10:49.600 align:start position:0%
+less fault tolerant than mapreduce
+ 
+
+00:10:49.600 --> 00:10:52.150 align:start position:0%
+less fault tolerant than mapreduce
+because<00:10:50.160><c> if</c><00:10:50.399><c> things</c><00:10:50.640><c> are</c><00:10:50.720><c> kept</c><00:10:50.959><c> in</c><00:10:51.120><c> memory</c><00:10:51.839><c> and</c>
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+because if things are kept in memory and
+ 
+
+00:10:52.160 --> 00:10:53.990 align:start position:0%
+because if things are kept in memory and
+one<00:10:52.320><c> of</c><00:10:52.399><c> the</c><00:10:52.480><c> nodes</c><00:10:52.800><c> crashes</c><00:10:53.360><c> well</c><00:10:53.680><c> you</c><00:10:53.839><c> kind</c>
+
+00:10:53.990 --> 00:10:54.000 align:start position:0%
+one of the nodes crashes well you kind
+ 
+
+00:10:54.000 --> 00:10:56.310 align:start position:0%
+one of the nodes crashes well you kind
+of<00:10:54.079><c> have</c><00:10:54.240><c> to</c><00:10:54.480><c> somehow</c><00:10:54.880><c> get</c><00:10:55.120><c> that</c><00:10:55.279><c> state</c><00:10:55.600><c> back</c>
+
+00:10:56.310 --> 00:10:56.320 align:start position:0%
+of have to somehow get that state back
+ 
+
+00:10:56.320 --> 00:10:58.230 align:start position:0%
+of have to somehow get that state back
+so<00:10:56.480><c> what</c><00:10:56.640><c> it</c><00:10:56.720><c> tends</c><00:10:56.959><c> to</c><00:10:57.120><c> do</c><00:10:57.440><c> is</c><00:10:57.680><c> there</c><00:10:57.920><c> will</c><00:10:58.079><c> be</c>
+
+00:10:58.230 --> 00:10:58.240 align:start position:0%
+so what it tends to do is there will be
+ 
+
+00:10:58.240 --> 00:11:00.310 align:start position:0%
+so what it tends to do is there will be
+occasional<00:10:58.800><c> checkpoints</c><00:10:59.519><c> in</c><00:10:59.680><c> the</c><00:10:59.920><c> flow</c><00:11:00.240><c> of</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+occasional checkpoints in the flow of
+ 
+
+00:11:00.320 --> 00:11:01.910 align:start position:0%
+occasional checkpoints in the flow of
+the<00:11:00.399><c> computation</c><00:11:01.200><c> you</c><00:11:01.279><c> know</c><00:11:01.440><c> you</c><00:11:01.680><c> write</c>
+
+00:11:01.910 --> 00:11:01.920 align:start position:0%
+the computation you know you write
+ 
+
+00:11:01.920 --> 00:11:04.230 align:start position:0%
+the computation you know you write
+something<00:11:02.320><c> to</c><00:11:02.480><c> disk</c><00:11:03.200><c> and</c><00:11:03.279><c> then</c><00:11:03.680><c> you</c><00:11:03.760><c> know</c><00:11:04.000><c> if</c>
+
+00:11:04.230 --> 00:11:04.240 align:start position:0%
+something to disk and then you know if
+ 
+
+00:11:04.240 --> 00:11:05.509 align:start position:0%
+something to disk and then you know if
+you<00:11:04.399><c> crash</c><00:11:04.800><c> and</c><00:11:04.959><c> you're</c><00:11:05.200><c> a</c><00:11:05.279><c> little</c><00:11:05.440><c> bit</c>
+
+00:11:05.509 --> 00:11:05.519 align:start position:0%
+you crash and you're a little bit
+ 
+
+00:11:05.519 --> 00:11:07.030 align:start position:0%
+you crash and you're a little bit
+screwed<00:11:05.920><c> you</c><00:11:06.000><c> just</c><00:11:06.160><c> have</c><00:11:06.320><c> to</c><00:11:06.399><c> go</c><00:11:06.560><c> a</c><00:11:06.640><c> bit</c><00:11:06.800><c> back</c>
+
+00:11:07.030 --> 00:11:07.040 align:start position:0%
+screwed you just have to go a bit back
+ 
+
+00:11:07.040 --> 00:11:09.670 align:start position:0%
+screwed you just have to go a bit back
+in<00:11:07.200><c> time</c><00:11:07.920><c> and</c><00:11:08.240><c> redo</c><00:11:08.560><c> the</c><00:11:08.720><c> calculations</c><00:11:09.519><c> that</c>
+
+00:11:09.670 --> 00:11:09.680 align:start position:0%
+in time and redo the calculations that
+ 
+
+00:11:09.680 --> 00:11:10.949 align:start position:0%
+in time and redo the calculations that
+you've<00:11:09.839><c> lost</c>
+
+00:11:10.949 --> 00:11:10.959 align:start position:0%
+you've lost
+ 
+
+00:11:10.959 --> 00:11:12.710 align:start position:0%
+you've lost
+but<00:11:11.279><c> ultimately</c><00:11:11.839><c> this</c><00:11:12.079><c> tends</c><00:11:12.320><c> to</c><00:11:12.399><c> make</c><00:11:12.560><c> for</c>
+
+00:11:12.710 --> 00:11:12.720 align:start position:0%
+but ultimately this tends to make for
+ 
+
+00:11:12.720 --> 00:11:14.550 align:start position:0%
+but ultimately this tends to make for
+better<00:11:12.959><c> performance</c><00:11:13.600><c> on</c><00:11:13.680><c> the</c><00:11:13.839><c> whole</c><00:11:14.240><c> assuming</c>
+
+00:11:14.550 --> 00:11:14.560 align:start position:0%
+better performance on the whole assuming
+ 
+
+00:11:14.560 --> 00:11:17.350 align:start position:0%
+better performance on the whole assuming
+there<00:11:14.720><c> aren't</c><00:11:14.959><c> too</c><00:11:15.120><c> many</c><00:11:15.360><c> crashes</c>
+
+00:11:17.350 --> 00:11:17.360 align:start position:0%
+there aren't too many crashes
+ 
+
+00:11:17.360 --> 00:11:19.190 align:start position:0%
+there aren't too many crashes
+another<00:11:17.680><c> thing</c><00:11:18.000><c> is</c><00:11:18.079><c> that</c><00:11:18.560><c> means</c><00:11:18.800><c> that</c><00:11:19.040><c> all</c>
+
+00:11:19.190 --> 00:11:19.200 align:start position:0%
+another thing is that means that all
+ 
+
+00:11:19.200 --> 00:11:20.710 align:start position:0%
+another thing is that means that all
+functions<00:11:19.600><c> have</c><00:11:19.760><c> to</c><00:11:19.839><c> be</c><00:11:20.000><c> deterministic</c>
+
+00:11:20.710 --> 00:11:20.720 align:start position:0%
+functions have to be deterministic
+ 
+
+00:11:20.720 --> 00:11:22.230 align:start position:0%
+functions have to be deterministic
+because<00:11:21.040><c> if</c><00:11:21.120><c> you're</c><00:11:21.279><c> retrying</c><00:11:21.760><c> something</c>
+
+00:11:22.230 --> 00:11:22.240 align:start position:0%
+because if you're retrying something
+ 
+
+00:11:22.240 --> 00:11:24.230 align:start position:0%
+because if you're retrying something
+obviously<00:11:22.640><c> you</c><00:11:22.800><c> want</c><00:11:23.360><c> the</c><00:11:23.519><c> same</c><00:11:23.760><c> result</c><00:11:24.079><c> as</c>
+
+00:11:24.230 --> 00:11:24.240 align:start position:0%
+obviously you want the same result as
+ 
+
+00:11:24.240 --> 00:11:26.150 align:start position:0%
+obviously you want the same result as
+before<00:11:24.560><c> there</c><00:11:24.720><c> can't</c><00:11:24.880><c> be</c><00:11:25.040><c> like</c><00:11:25.279><c> any</c><00:11:25.760><c> you</c><00:11:25.839><c> know</c>
+
+00:11:26.150 --> 00:11:26.160 align:start position:0%
+before there can't be like any you know
+ 
+
+00:11:26.160 --> 00:11:27.990 align:start position:0%
+before there can't be like any you know
+time<00:11:26.480><c> related</c><00:11:26.880><c> stuff</c><00:11:27.279><c> when</c><00:11:27.519><c> things</c><00:11:27.760><c> are</c>
+
+00:11:27.990 --> 00:11:28.000 align:start position:0%
+time related stuff when things are
+ 
+
+00:11:28.000 --> 00:11:29.590 align:start position:0%
+time related stuff when things are
+executed
+
+00:11:29.590 --> 00:11:29.600 align:start position:0%
+executed
+ 
+
+00:11:29.600 --> 00:11:31.590 align:start position:0%
+executed
+okay<00:11:30.079><c> so</c><00:11:30.480><c> in</c><00:11:30.640><c> conclusion</c><00:11:31.120><c> for</c><00:11:31.279><c> batch</c>
+
+00:11:31.590 --> 00:11:31.600 align:start position:0%
+okay so in conclusion for batch
+ 
+
+00:11:31.600 --> 00:11:32.870 align:start position:0%
+okay so in conclusion for batch
+processing
+
+00:11:32.870 --> 00:11:32.880 align:start position:0%
+processing
+ 
+
+00:11:32.880 --> 00:11:34.870 align:start position:0%
+processing
+batch<00:11:33.120><c> processing</c><00:11:33.680><c> is</c><00:11:33.920><c> super</c><00:11:34.240><c> useful</c><00:11:34.720><c> for</c>
+
+00:11:34.870 --> 00:11:34.880 align:start position:0%
+batch processing is super useful for
+ 
+
+00:11:34.880 --> 00:11:36.230 align:start position:0%
+batch processing is super useful for
+companies<00:11:35.360><c> because</c><00:11:35.600><c> they</c><00:11:35.760><c> can</c><00:11:35.839><c> basically</c>
+
+00:11:36.230 --> 00:11:36.240 align:start position:0%
+companies because they can basically
+ 
+
+00:11:36.240 --> 00:11:38.389 align:start position:0%
+companies because they can basically
+just<00:11:36.560><c> dump</c><00:11:36.880><c> a</c><00:11:37.040><c> ton</c><00:11:37.279><c> of</c><00:11:37.360><c> data</c><00:11:38.000><c> into</c><00:11:38.240><c> a</c>
+
+00:11:38.389 --> 00:11:38.399 align:start position:0%
+just dump a ton of data into a
+ 
+
+00:11:38.399 --> 00:11:39.750 align:start position:0%
+just dump a ton of data into a
+distributed<00:11:38.880><c> file</c><00:11:39.200><c> system</c><00:11:39.519><c> in</c><00:11:39.600><c> an</c>
+
+00:11:39.750 --> 00:11:39.760 align:start position:0%
+distributed file system in an
+ 
+
+00:11:39.760 --> 00:11:42.150 align:start position:0%
+distributed file system in an
+unformatted<00:11:40.480><c> way</c><00:11:41.200><c> and</c><00:11:41.279><c> then</c><00:11:41.440><c> eventually</c><00:11:42.079><c> a</c>
+
+00:11:42.150 --> 00:11:42.160 align:start position:0%
+unformatted way and then eventually a
+ 
+
+00:11:42.160 --> 00:11:43.829 align:start position:0%
+unformatted way and then eventually a
+bunch<00:11:42.399><c> of</c><00:11:42.480><c> different</c><00:11:42.800><c> teams</c><00:11:43.200><c> can</c><00:11:43.360><c> go</c><00:11:43.519><c> ahead</c>
+
+00:11:43.829 --> 00:11:43.839 align:start position:0%
+bunch of different teams can go ahead
+ 
+
+00:11:43.839 --> 00:11:44.949 align:start position:0%
+bunch of different teams can go ahead
+and<00:11:43.920><c> take</c><00:11:44.160><c> those</c>
+
+00:11:44.949 --> 00:11:44.959 align:start position:0%
+and take those
+ 
+
+00:11:44.959 --> 00:11:47.509 align:start position:0%
+and take those
+immutable<00:11:45.519><c> files</c><00:11:46.160><c> and</c><00:11:46.320><c> work</c><00:11:46.560><c> on</c><00:11:46.720><c> them</c><00:11:46.959><c> in</c><00:11:47.360><c> any</c>
+
+00:11:47.509 --> 00:11:47.519 align:start position:0%
+immutable files and work on them in any
+ 
+
+00:11:47.519 --> 00:11:50.150 align:start position:0%
+immutable files and work on them in any
+way<00:11:47.680><c> that</c><00:11:47.839><c> they</c><00:11:48.079><c> basically</c><00:11:48.560><c> want</c>
+
+00:11:50.150 --> 00:11:50.160 align:start position:0%
+way that they basically want
+ 
+
+00:11:50.160 --> 00:11:51.110 align:start position:0%
+way that they basically want
+even<00:11:50.399><c> though</c>
+
+00:11:51.110 --> 00:11:51.120 align:start position:0%
+even though
+ 
+
+00:11:51.120 --> 00:11:52.629 align:start position:0%
+even though
+mapreduce<00:11:51.680><c> was</c><00:11:51.839><c> kind</c><00:11:52.000><c> of</c><00:11:52.079><c> the</c><00:11:52.240><c> original</c>
+
+00:11:52.629 --> 00:11:52.639 align:start position:0%
+mapreduce was kind of the original
+ 
+
+00:11:52.639 --> 00:11:55.350 align:start position:0%
+mapreduce was kind of the original
+solution<00:11:53.279><c> to</c><00:11:53.440><c> do</c><00:11:53.600><c> batch</c><00:11:53.920><c> processing</c>
+
+00:11:55.350 --> 00:11:55.360 align:start position:0%
+solution to do batch processing
+ 
+
+00:11:55.360 --> 00:11:57.190 align:start position:0%
+solution to do batch processing
+spark<00:11:55.760><c> has</c><00:11:55.839><c> come</c><00:11:56.079><c> around</c><00:11:56.560><c> and</c><00:11:56.800><c> it's</c><00:11:56.959><c> really</c>
+
+00:11:57.190 --> 00:11:57.200 align:start position:0%
+spark has come around and it's really
+ 
+
+00:11:57.200 --> 00:11:59.350 align:start position:0%
+spark has come around and it's really
+optimized<00:11:57.760><c> on</c><00:11:57.839><c> that</c><00:11:58.000><c> a</c><00:11:58.079><c> lot</c><00:11:58.399><c> because</c><00:11:58.720><c> you</c><00:11:58.880><c> know</c>
+
+00:11:59.350 --> 00:11:59.360 align:start position:0%
+optimized on that a lot because you know
+ 
+
+00:11:59.360 --> 00:12:01.990 align:start position:0%
+optimized on that a lot because you know
+kind<00:11:59.519><c> of</c><00:11:59.680><c> thinking</c><00:12:00.000><c> about</c><00:12:00.639><c> the</c><00:12:00.800><c> entire</c>
+
+00:12:01.990 --> 00:12:02.000 align:start position:0%
+kind of thinking about the entire
+ 
+
+00:12:02.000 --> 00:12:04.310 align:start position:0%
+kind of thinking about the entire
+movement<00:12:02.480><c> and</c><00:12:02.720><c> transitioning</c><00:12:03.360><c> of</c><00:12:03.519><c> the</c><00:12:03.680><c> data</c>
+
+00:12:04.310 --> 00:12:04.320 align:start position:0%
+movement and transitioning of the data
+ 
+
+00:12:04.320 --> 00:12:05.910 align:start position:0%
+movement and transitioning of the data
+is<00:12:04.480><c> going</c><00:12:04.639><c> to</c><00:12:04.800><c> allow</c><00:12:05.040><c> you</c><00:12:05.200><c> to</c><00:12:05.360><c> optimize</c><00:12:05.839><c> the</c>
+
+00:12:05.910 --> 00:12:05.920 align:start position:0%
+is going to allow you to optimize the
+ 
+
+00:12:05.920 --> 00:12:08.069 align:start position:0%
+is going to allow you to optimize the
+performance<00:12:06.560><c> of</c><00:12:06.720><c> the</c><00:12:06.880><c> entire</c><00:12:07.200><c> workload</c><00:12:07.760><c> a</c><00:12:07.920><c> lot</c>
+
+00:12:08.069 --> 00:12:08.079 align:start position:0%
+performance of the entire workload a lot
+ 
+
+00:12:08.079 --> 00:12:09.350 align:start position:0%
+performance of the entire workload a lot
+more
+
+00:12:09.350 --> 00:12:09.360 align:start position:0%
+more
+ 
+
+00:12:09.360 --> 00:12:11.670 align:start position:0%
+more
+and<00:12:09.519><c> then</c><00:12:09.760><c> even</c><00:12:09.920><c> though</c><00:12:10.480><c> batch</c><00:12:10.800><c> processing</c>
+
+00:12:11.670 --> 00:12:11.680 align:start position:0%
+and then even though batch processing
+ 
+
+00:12:11.680 --> 00:12:13.670 align:start position:0%
+and then even though batch processing
+basically<00:12:12.079><c> happens</c><00:12:12.399><c> on</c><00:12:12.560><c> a</c><00:12:12.639><c> bound</c><00:12:12.959><c> set</c><00:12:13.200><c> of</c><00:12:13.279><c> data</c>
+
+00:12:13.670 --> 00:12:13.680 align:start position:0%
+basically happens on a bound set of data
+ 
+
+00:12:13.680 --> 00:12:15.670 align:start position:0%
+basically happens on a bound set of data
+we<00:12:13.839><c> know</c><00:12:14.000><c> the</c><00:12:14.240><c> input</c><00:12:14.560><c> files</c><00:12:14.959><c> before</c><00:12:15.279><c> we</c><00:12:15.440><c> start</c>
+
+00:12:15.670 --> 00:12:15.680 align:start position:0%
+we know the input files before we start
+ 
+
+00:12:15.680 --> 00:12:17.430 align:start position:0%
+we know the input files before we start
+our<00:12:15.839><c> batch</c><00:12:16.079><c> job</c><00:12:16.720><c> there's</c><00:12:16.959><c> something</c><00:12:17.200><c> called</c>
+
+00:12:17.430 --> 00:12:17.440 align:start position:0%
+our batch job there's something called
+ 
+
+00:12:17.440 --> 00:12:20.550 align:start position:0%
+our batch job there's something called
+stream<00:12:17.839><c> processing</c><00:12:18.800><c> that</c><00:12:19.200><c> allows</c><00:12:19.600><c> doing</c>
+
+00:12:20.550 --> 00:12:20.560 align:start position:0%
+stream processing that allows doing
+ 
+
+00:12:20.560 --> 00:12:22.629 align:start position:0%
+stream processing that allows doing
+computations<00:12:21.279><c> on</c><00:12:21.360><c> data</c><00:12:21.760><c> as</c><00:12:21.920><c> it</c><00:12:22.000><c> comes</c><00:12:22.320><c> in</c><00:12:22.560><c> and</c>
+
+00:12:22.629 --> 00:12:22.639 align:start position:0%
+computations on data as it comes in and
+ 
+
+00:12:22.639 --> 00:12:24.230 align:start position:0%
+computations on data as it comes in and
+that'll<00:12:22.880><c> probably</c><00:12:23.200><c> be</c><00:12:23.360><c> the</c><00:12:23.440><c> topic</c><00:12:23.760><c> of</c><00:12:23.839><c> my</c><00:12:24.000><c> next</c>
+
+00:12:24.230 --> 00:12:24.240 align:start position:0%
+that'll probably be the topic of my next
+ 
+
+00:12:24.240 --> 00:12:25.269 align:start position:0%
+that'll probably be the topic of my next
+video
+
+00:12:25.269 --> 00:12:25.279 align:start position:0%
+video
+ 
+
+00:12:25.279 --> 00:12:26.389 align:start position:0%
+video
+alright<00:12:25.519><c> so</c><00:12:25.680><c> we're</c><00:12:25.839><c> making</c><00:12:26.079><c> a</c><00:12:26.160><c> ton</c><00:12:26.320><c> of</c>
+
+00:12:26.389 --> 00:12:26.399 align:start position:0%
+alright so we're making a ton of
+ 
+
+00:12:26.399 --> 00:12:28.069 align:start position:0%
+alright so we're making a ton of
+progress<00:12:26.880><c> guys</c>
+
+00:12:28.069 --> 00:12:28.079 align:start position:0%
+progress guys
+ 
+
+00:12:28.079 --> 00:12:30.959 align:start position:0%
+progress guys
+i'll<00:12:28.240><c> see</c><00:12:28.399><c> you</c><00:12:28.480><c> in</c><00:12:28.560><c> the</c><00:12:28.639><c> next</c><00:12:28.800><c> one</c>
+

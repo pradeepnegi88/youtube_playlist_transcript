@@ -1,0 +1,3408 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.680 --> 00:00:03.350 align:start position:0%
+ 
+good<00:00:00.880><c> morning</c><00:00:01.480><c> everybody</c><00:00:02.080><c> it</c><00:00:02.200><c> is</c><00:00:02.320><c> 8:00</c><00:00:02.639><c> a.m.</c>
+
+00:00:03.350 --> 00:00:03.360 align:start position:0%
+good morning everybody it is 8:00 a.m.
+ 
+
+00:00:03.360 --> 00:00:05.789 align:start position:0%
+good morning everybody it is 8:00 a.m.
+and<00:00:03.800><c> after</c><00:00:04.160><c> killing</c><00:00:04.560><c> my</c><00:00:04.799><c> diet</c><00:00:05.040><c> with</c><00:00:05.200><c> froo</c>
+
+00:00:05.789 --> 00:00:05.799 align:start position:0%
+and after killing my diet with froo
+ 
+
+00:00:05.799 --> 00:00:07.670 align:start position:0%
+and after killing my diet with froo
+while<00:00:05.960><c> I</c><00:00:06.040><c> was</c><00:00:06.200><c> hammered</c><00:00:06.680><c> last</c><00:00:06.919><c> night</c><00:00:07.279><c> at</c><00:00:07.439><c> 2:</c>
+
+00:00:07.670 --> 00:00:07.680 align:start position:0%
+while I was hammered last night at 2:
+ 
+
+00:00:07.680 --> 00:00:10.390 align:start position:0%
+while I was hammered last night at 2:
+a.m.<00:00:08.559><c> I</c><00:00:08.679><c> feel</c><00:00:09.000><c> like</c><00:00:09.599><c> both</c><00:00:09.880><c> physically</c>
+
+00:00:10.390 --> 00:00:10.400 align:start position:0%
+a.m. I feel like both physically
+ 
+
+00:00:10.400 --> 00:00:13.110 align:start position:0%
+a.m. I feel like both physically
+and<00:00:10.599><c> mentally</c><00:00:11.160><c> yet</c><00:00:11.400><c> again</c><00:00:12.280><c> with</c><00:00:12.440><c> that</c><00:00:12.559><c> in</c><00:00:12.719><c> mind</c>
+
+00:00:13.110 --> 00:00:13.120 align:start position:0%
+and mentally yet again with that in mind
+ 
+
+00:00:13.120 --> 00:00:14.910 align:start position:0%
+and mentally yet again with that in mind
+there<00:00:13.240><c> seems</c><00:00:13.559><c> like</c><00:00:13.759><c> no</c><00:00:13.960><c> better</c><00:00:14.280><c> time</c><00:00:14.480><c> to</c><00:00:14.679><c> talk</c>
+
+00:00:14.910 --> 00:00:14.920 align:start position:0%
+there seems like no better time to talk
+ 
+
+00:00:14.920 --> 00:00:17.070 align:start position:0%
+there seems like no better time to talk
+about<00:00:15.160><c> systems</c><00:00:15.639><c> design</c><00:00:16.199><c> and</c><00:00:16.440><c> computer</c>
+
+00:00:17.070 --> 00:00:17.080 align:start position:0%
+about systems design and computer
+ 
+
+00:00:17.080 --> 00:00:19.310 align:start position:0%
+about systems design and computer
+architecture<00:00:18.080><c> and</c><00:00:18.199><c> so</c><00:00:18.480><c> as</c><00:00:18.560><c> a</c><00:00:18.760><c> result</c><00:00:19.080><c> I</c><00:00:19.160><c> will</c>
+
+00:00:19.310 --> 00:00:19.320 align:start position:0%
+architecture and so as a result I will
+ 
+
+00:00:19.320 --> 00:00:21.630 align:start position:0%
+architecture and so as a result I will
+be<00:00:19.480><c> talking</c><00:00:19.760><c> about</c><00:00:20.080><c> Apache</c><00:00:20.480><c> Flink</c><00:00:20.960><c> a</c><00:00:21.160><c> stream</c>
+
+00:00:21.630 --> 00:00:21.640 align:start position:0%
+be talking about Apache Flink a stream
+ 
+
+00:00:21.640 --> 00:00:24.070 align:start position:0%
+be talking about Apache Flink a stream
+processing<00:00:22.359><c> framework</c><00:00:23.359><c> I</c><00:00:23.480><c> wish</c><00:00:23.840><c> there</c><00:00:23.920><c> were</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+processing framework I wish there were
+ 
+
+00:00:24.080 --> 00:00:25.750 align:start position:0%
+processing framework I wish there were
+someone<00:00:24.320><c> out</c><00:00:24.439><c> there</c><00:00:24.560><c> to</c><00:00:24.800><c> process</c><00:00:25.199><c> my</c><00:00:25.400><c> stream</c>
+
+00:00:25.750 --> 00:00:25.760 align:start position:0%
+someone out there to process my stream
+ 
+
+00:00:25.760 --> 00:00:27.070 align:start position:0%
+someone out there to process my stream
+but<00:00:25.880><c> I</c><00:00:26.000><c> don't</c><00:00:26.199><c> think</c><00:00:26.320><c> it's</c><00:00:26.480><c> going</c><00:00:26.599><c> to</c><00:00:26.720><c> be</c><00:00:26.920><c> that</c>
+
+00:00:27.070 --> 00:00:27.080 align:start position:0%
+but I don't think it's going to be that
+ 
+
+00:00:27.080 --> 00:00:30.830 align:start position:0%
+but I don't think it's going to be that
+way<00:00:27.480><c> so</c><00:00:28.119><c> let's</c><00:00:28.320><c> get</c><00:00:28.480><c> into</c><00:00:28.760><c> it</c><00:00:29.480><c> okay</c><00:00:29.720><c> so</c><00:00:30.160><c> Flink</c>
+
+00:00:30.830 --> 00:00:30.840 align:start position:0%
+way so let's get into it okay so Flink
+ 
+
+00:00:30.840 --> 00:00:33.830 align:start position:0%
+way so let's get into it okay so Flink
+what<00:00:31.039><c> is</c><00:00:31.160><c> it</c><00:00:31.920><c> well</c><00:00:32.200><c> basically</c><00:00:32.880><c> Flink</c><00:00:33.280><c> is</c><00:00:33.440><c> known</c>
+
+00:00:33.830 --> 00:00:33.840 align:start position:0%
+what is it well basically Flink is known
+ 
+
+00:00:33.840 --> 00:00:36.150 align:start position:0%
+what is it well basically Flink is known
+as<00:00:34.040><c> a</c><00:00:34.200><c> stream</c><00:00:34.680><c> processing</c><00:00:35.160><c> framework</c><00:00:35.800><c> so</c><00:00:36.000><c> up</c>
+
+00:00:36.150 --> 00:00:36.160 align:start position:0%
+as a stream processing framework so up
+ 
+
+00:00:36.160 --> 00:00:37.510 align:start position:0%
+as a stream processing framework so up
+until<00:00:36.480><c> this</c><00:00:36.640><c> point</c><00:00:36.840><c> just</c><00:00:37.000><c> because</c><00:00:37.200><c> I</c><00:00:37.320><c> hadn't</c>
+
+00:00:37.510 --> 00:00:37.520 align:start position:0%
+until this point just because I hadn't
+ 
+
+00:00:37.520 --> 00:00:39.670 align:start position:0%
+until this point just because I hadn't
+really<00:00:37.680><c> done</c><00:00:37.960><c> my</c><00:00:38.120><c> research</c><00:00:38.480><c> on</c><00:00:38.640><c> this</c><00:00:38.879><c> topic</c><00:00:39.559><c> I</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+really done my research on this topic I
+ 
+
+00:00:39.680 --> 00:00:41.389 align:start position:0%
+really done my research on this topic I
+kind<00:00:39.800><c> of</c><00:00:39.960><c> assumed</c><00:00:40.320><c> that</c><00:00:40.440><c> Flink</c><00:00:40.840><c> itself</c><00:00:41.239><c> was</c>
+
+00:00:41.389 --> 00:00:41.399 align:start position:0%
+kind of assumed that Flink itself was
+ 
+
+00:00:41.399 --> 00:00:43.510 align:start position:0%
+kind of assumed that Flink itself was
+like<00:00:41.520><c> a</c><00:00:41.640><c> message</c><00:00:41.960><c> broker</c><00:00:42.559><c> and</c><00:00:42.760><c> that</c><00:00:43.120><c> somehow</c>
+
+00:00:43.510 --> 00:00:43.520 align:start position:0%
+like a message broker and that somehow
+ 
+
+00:00:43.520 --> 00:00:45.549 align:start position:0%
+like a message broker and that somehow
+it<00:00:43.680><c> was</c><00:00:44.000><c> you</c><00:00:44.120><c> know</c><00:00:44.600><c> kind</c><00:00:44.719><c> of</c><00:00:44.879><c> enhancing</c><00:00:45.399><c> that</c>
+
+00:00:45.549 --> 00:00:45.559 align:start position:0%
+it was you know kind of enhancing that
+ 
+
+00:00:45.559 --> 00:00:47.910 align:start position:0%
+it was you know kind of enhancing that
+experience<00:00:46.440><c> but</c><00:00:46.640><c> as</c><00:00:46.719><c> it</c><00:00:46.840><c> turns</c><00:00:47.160><c> out</c><00:00:47.399><c> Flink</c><00:00:47.760><c> is</c>
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+experience but as it turns out Flink is
+ 
+
+00:00:47.920 --> 00:00:49.430 align:start position:0%
+experience but as it turns out Flink is
+not<00:00:48.039><c> a</c><00:00:48.199><c> message</c><00:00:48.440><c> broker</c><00:00:48.879><c> but</c><00:00:49.079><c> rather</c><00:00:49.280><c> a</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+not a message broker but rather a
+ 
+
+00:00:49.440 --> 00:00:51.389 align:start position:0%
+not a message broker but rather a
+software<00:00:49.920><c> that</c><00:00:50.039><c> you</c><00:00:50.160><c> run</c><00:00:50.480><c> on</c><00:00:50.760><c> a</c><00:00:50.920><c> cluster</c><00:00:51.239><c> of</c>
+
+00:00:51.389 --> 00:00:51.399 align:start position:0%
+software that you run on a cluster of
+ 
+
+00:00:51.399 --> 00:00:53.670 align:start position:0%
+software that you run on a cluster of
+nodes<00:00:52.079><c> in</c><00:00:52.239><c> order</c><00:00:52.520><c> to</c><00:00:52.800><c> provide</c><00:00:53.120><c> stateful</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+nodes in order to provide stateful
+ 
+
+00:00:53.680 --> 00:00:55.790 align:start position:0%
+nodes in order to provide stateful
+computations<00:00:54.600><c> on</c><00:00:54.760><c> your</c><00:00:55.000><c> actual</c><00:00:55.359><c> stream</c>
+
+00:00:55.790 --> 00:00:55.800 align:start position:0%
+computations on your actual stream
+ 
+
+00:00:55.800 --> 00:00:58.349 align:start position:0%
+computations on your actual stream
+processing<00:00:56.800><c> unlike</c><00:00:57.199><c> something</c><00:00:57.559><c> like</c><00:00:57.719><c> spark</c>
+
+00:00:58.349 --> 00:00:58.359 align:start position:0%
+processing unlike something like spark
+ 
+
+00:00:58.359 --> 00:01:00.590 align:start position:0%
+processing unlike something like spark
+uh<00:00:58.480><c> spark</c><00:00:58.800><c> streaming</c><00:00:59.600><c> it</c><00:01:00.000><c> is</c><00:01:00.120><c> giving</c><00:01:00.320><c> you</c><00:01:00.480><c> the</c>
+
+00:01:00.590 --> 00:01:00.600 align:start position:0%
+uh spark streaming it is giving you the
+ 
+
+00:01:00.600 --> 00:01:02.349 align:start position:0%
+uh spark streaming it is giving you the
+ability<00:01:00.920><c> to</c><00:01:01.120><c> process</c><00:01:01.519><c> these</c><00:01:01.719><c> messages</c><00:01:02.199><c> in</c>
+
+00:01:02.349 --> 00:01:02.359 align:start position:0%
+ability to process these messages in
+ 
+
+00:01:02.359 --> 00:01:04.509 align:start position:0%
+ability to process these messages in
+real<00:01:02.680><c> time</c><00:01:03.120><c> as</c><00:01:03.239><c> opposed</c><00:01:03.559><c> to</c><00:01:03.719><c> just</c><00:01:03.840><c> using</c><00:01:04.119><c> micr</c>
+
+00:01:04.509 --> 00:01:04.519 align:start position:0%
+real time as opposed to just using micr
+ 
+
+00:01:04.519 --> 00:01:05.990 align:start position:0%
+real time as opposed to just using micr
+batching<00:01:04.960><c> which</c><00:01:05.159><c> lets</c><00:01:05.360><c> a</c><00:01:05.479><c> bunch</c><00:01:05.680><c> of</c><00:01:05.840><c> these</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+batching which lets a bunch of these
+ 
+
+00:01:06.000 --> 00:01:07.789 align:start position:0%
+batching which lets a bunch of these
+messages<00:01:06.439><c> accumulate</c><00:01:07.159><c> over</c><00:01:07.520><c> you</c><00:01:07.600><c> know</c><00:01:07.720><c> a</c>
+
+00:01:07.789 --> 00:01:07.799 align:start position:0%
+messages accumulate over you know a
+ 
+
+00:01:07.799 --> 00:01:09.950 align:start position:0%
+messages accumulate over you know a
+short<00:01:08.119><c> period</c><00:01:08.400><c> of</c><00:01:08.600><c> time</c><00:01:09.119><c> and</c><00:01:09.240><c> then</c><00:01:09.439><c> processes</c>
+
+00:01:09.950 --> 00:01:09.960 align:start position:0%
+short period of time and then processes
+ 
+
+00:01:09.960 --> 00:01:12.550 align:start position:0%
+short period of time and then processes
+them<00:01:10.280><c> together</c><00:01:11.280><c> um</c><00:01:11.479><c> like</c><00:01:11.600><c> I</c><00:01:11.759><c> mentioned</c><00:01:12.439><c> kind</c>
+
+00:01:12.550 --> 00:01:12.560 align:start position:0%
+them together um like I mentioned kind
+ 
+
+00:01:12.560 --> 00:01:13.990 align:start position:0%
+them together um like I mentioned kind
+of<00:01:12.720><c> the</c><00:01:12.799><c> whole</c><00:01:13.040><c> reason</c><00:01:13.360><c> that</c><00:01:13.479><c> you</c><00:01:13.560><c> would</c><00:01:13.759><c> use</c>
+
+00:01:13.990 --> 00:01:14.000 align:start position:0%
+of the whole reason that you would use
+ 
+
+00:01:14.000 --> 00:01:15.590 align:start position:0%
+of the whole reason that you would use
+something<00:01:14.400><c> like</c><00:01:14.520><c> Flink</c><00:01:14.920><c> as</c><00:01:15.040><c> opposed</c><00:01:15.360><c> to</c><00:01:15.479><c> just</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+something like Flink as opposed to just
+ 
+
+00:01:15.600 --> 00:01:17.910 align:start position:0%
+something like Flink as opposed to just
+using<00:01:15.960><c> a</c><00:01:16.080><c> typical</c><00:01:16.479><c> consumer</c><00:01:17.320><c> is</c><00:01:17.520><c> the</c><00:01:17.680><c> fact</c>
+
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+using a typical consumer is the fact
+ 
+
+00:01:17.920 --> 00:01:19.510 align:start position:0%
+using a typical consumer is the fact
+that<00:01:18.080><c> in</c><00:01:18.240><c> many</c><00:01:18.479><c> stream</c><00:01:18.960><c> processing</c>
+
+00:01:19.510 --> 00:01:19.520 align:start position:0%
+that in many stream processing
+ 
+
+00:01:19.520 --> 00:01:21.190 align:start position:0%
+that in many stream processing
+applications<00:01:20.119><c> you</c><00:01:20.280><c> have</c><00:01:20.400><c> to</c><00:01:20.520><c> maintain</c><00:01:21.040><c> some</c>
+
+00:01:21.190 --> 00:01:21.200 align:start position:0%
+applications you have to maintain some
+ 
+
+00:01:21.200 --> 00:01:23.270 align:start position:0%
+applications you have to maintain some
+sort<00:01:21.400><c> of</c><00:01:21.560><c> State</c><00:01:22.320><c> this</c><00:01:22.439><c> is</c><00:01:22.600><c> in</c><00:01:22.720><c> order</c><00:01:23.000><c> to</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+sort of State this is in order to
+ 
+
+00:01:23.280 --> 00:01:24.950 align:start position:0%
+sort of State this is in order to
+perform<00:01:23.680><c> things</c><00:01:24.000><c> like</c><00:01:24.159><c> joins</c><00:01:24.520><c> or</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+perform things like joins or
+ 
+
+00:01:24.960 --> 00:01:26.990 align:start position:0%
+perform things like joins or
+aggregations<00:01:25.960><c> and</c><00:01:26.119><c> we'll</c><00:01:26.320><c> go</c><00:01:26.479><c> ahead</c><00:01:26.680><c> and</c><00:01:26.799><c> see</c>
+
+00:01:26.990 --> 00:01:27.000 align:start position:0%
+aggregations and we'll go ahead and see
+ 
+
+00:01:27.000 --> 00:01:29.670 align:start position:0%
+aggregations and we'll go ahead and see
+some<00:01:27.200><c> other</c><00:01:27.479><c> examples</c><00:01:27.960><c> in</c><00:01:28.079><c> the</c><00:01:28.240><c> coming</c><00:01:28.680><c> slides</c>
+
+00:01:29.670 --> 00:01:29.680 align:start position:0%
+some other examples in the coming slides
+ 
+
+00:01:29.680 --> 00:01:31.789 align:start position:0%
+some other examples in the coming slides
+so<00:01:29.920><c> so</c><00:01:30.040><c> just</c><00:01:30.159><c> to</c><00:01:30.439><c> quickly</c><00:01:30.799><c> visualize</c><00:01:31.320><c> the</c><00:01:31.479><c> use</c>
+
+00:01:31.789 --> 00:01:31.799 align:start position:0%
+so so just to quickly visualize the use
+ 
+
+00:01:31.799 --> 00:01:33.469 align:start position:0%
+so so just to quickly visualize the use
+case<00:01:32.119><c> of</c><00:01:32.320><c> what</c><00:01:32.439><c> you</c><00:01:32.560><c> might</c><00:01:32.720><c> be</c><00:01:32.840><c> using</c><00:01:33.119><c> Flink</c>
+
+00:01:33.469 --> 00:01:33.479 align:start position:0%
+case of what you might be using Flink
+ 
+
+00:01:33.479 --> 00:01:35.350 align:start position:0%
+case of what you might be using Flink
+for<00:01:34.159><c> as</c><00:01:34.280><c> you</c><00:01:34.399><c> can</c><00:01:34.560><c> see</c><00:01:34.759><c> you</c><00:01:34.880><c> can</c><00:01:35.040><c> kind</c><00:01:35.159><c> of</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+for as you can see you can kind of
+ 
+
+00:01:35.360 --> 00:01:37.030 align:start position:0%
+for as you can see you can kind of
+ingest<00:01:35.840><c> events</c><00:01:36.159><c> from</c><00:01:36.399><c> either</c><00:01:36.640><c> something</c><00:01:36.920><c> like</c>
+
+00:01:37.030 --> 00:01:37.040 align:start position:0%
+ingest events from either something like
+ 
+
+00:01:37.040 --> 00:01:39.350 align:start position:0%
+ingest events from either something like
+a<00:01:37.159><c> message</c><00:01:37.439><c> broker</c><00:01:38.280><c> or</c><00:01:38.479><c> maybe</c><00:01:38.759><c> even</c><00:01:38.960><c> change</c>
+
+00:01:39.350 --> 00:01:39.360 align:start position:0%
+a message broker or maybe even change
+ 
+
+00:01:39.360 --> 00:01:41.469 align:start position:0%
+a message broker or maybe even change
+data<00:01:39.640><c> from</c><00:01:39.799><c> a</c><00:01:39.960><c> database</c><00:01:40.560><c> like</c><00:01:40.680><c> a</c><00:01:40.799><c> file</c><00:01:41.159><c> system</c>
+
+00:01:41.469 --> 00:01:41.479 align:start position:0%
+data from a database like a file system
+ 
+
+00:01:41.479 --> 00:01:43.990 align:start position:0%
+data from a database like a file system
+or<00:01:41.600><c> a</c><00:01:41.759><c> key</c><00:01:42.000><c> value</c><00:01:42.280><c> store</c><00:01:43.240><c> then</c><00:01:43.439><c> as</c><00:01:43.560><c> you</c><00:01:43.640><c> can</c><00:01:43.759><c> see</c>
+
+00:01:43.990 --> 00:01:44.000 align:start position:0%
+or a key value store then as you can see
+ 
+
+00:01:44.000 --> 00:01:45.550 align:start position:0%
+or a key value store then as you can see
+here<00:01:44.159><c> in</c><00:01:44.240><c> the</c><00:01:44.360><c> middle</c><00:01:44.680><c> we</c><00:01:44.840><c> have</c><00:01:45.079><c> these</c><00:01:45.280><c> few</c>
+
+00:01:45.550 --> 00:01:45.560 align:start position:0%
+here in the middle we have these few
+ 
+
+00:01:45.560 --> 00:01:48.350 align:start position:0%
+here in the middle we have these few
+different<00:01:46.200><c> um</c><00:01:46.360><c> clusters</c><00:01:46.960><c> each</c><00:01:47.159><c> running</c><00:01:47.479><c> flank</c>
+
+00:01:48.350 --> 00:01:48.360 align:start position:0%
+different um clusters each running flank
+ 
+
+00:01:48.360 --> 00:01:50.510 align:start position:0%
+different um clusters each running flank
+where<00:01:48.560><c> all</c><00:01:48.680><c> of</c><00:01:48.880><c> those</c><00:01:49.079><c> clusters</c><00:01:49.719><c> are</c><00:01:50.280><c> um</c>
+
+00:01:50.510 --> 00:01:50.520 align:start position:0%
+where all of those clusters are um
+ 
+
+00:01:50.520 --> 00:01:52.270 align:start position:0%
+where all of those clusters are um
+allowing<00:01:50.880><c> you</c><00:01:51.040><c> to</c><00:01:51.320><c> kind</c><00:01:51.479><c> of</c><00:01:51.640><c> go</c><00:01:51.799><c> ahead</c><00:01:52.000><c> and</c>
+
+00:01:52.270 --> 00:01:52.280 align:start position:0%
+allowing you to kind of go ahead and
+ 
+
+00:01:52.280 --> 00:01:55.230 align:start position:0%
+allowing you to kind of go ahead and
+parallelize<00:01:53.040><c> the</c><00:01:53.280><c> computation</c><00:01:54.200><c> of</c><00:01:54.520><c> actually</c>
+
+00:01:55.230 --> 00:01:55.240 align:start position:0%
+parallelize the computation of actually
+ 
+
+00:01:55.240 --> 00:01:57.550 align:start position:0%
+parallelize the computation of actually
+um<00:01:55.479><c> processing</c><00:01:56.039><c> each</c><00:01:56.280><c> message</c><00:01:57.079><c> and</c><00:01:57.240><c> each</c><00:01:57.399><c> of</c>
+
+00:01:57.550 --> 00:01:57.560 align:start position:0%
+um processing each message and each of
+ 
+
+00:01:57.560 --> 00:01:59.910 align:start position:0%
+um processing each message and each of
+them<00:01:57.840><c> has</c><00:01:58.200><c> its</c><00:01:58.360><c> own</c><00:01:58.600><c> little</c><00:01:59.000><c> like</c><00:01:59.240><c> key</c><00:01:59.439><c> value</c>
+
+00:01:59.910 --> 00:01:59.920 align:start position:0%
+them has its own little like key value
+ 
+
+00:01:59.920 --> 00:02:02.270 align:start position:0%
+them has its own little like key value
+store<00:02:00.240><c> on</c><00:02:00.399><c> the</c><00:02:00.560><c> Node</c><00:02:01.280><c> that</c><00:02:01.399><c> it</c><00:02:01.520><c> uses</c><00:02:01.920><c> in</c><00:02:02.039><c> order</c>
+
+00:02:02.270 --> 00:02:02.280 align:start position:0%
+store on the Node that it uses in order
+ 
+
+00:02:02.280 --> 00:02:04.469 align:start position:0%
+store on the Node that it uses in order
+to<00:02:02.439><c> keep</c><00:02:02.640><c> track</c><00:02:02.880><c> of</c><00:02:03.000><c> the</c><00:02:03.159><c> messages</c><00:02:03.560><c> it's</c><00:02:03.759><c> seen</c>
+
+00:02:04.469 --> 00:02:04.479 align:start position:0%
+to keep track of the messages it's seen
+ 
+
+00:02:04.479 --> 00:02:06.709 align:start position:0%
+to keep track of the messages it's seen
+in<00:02:04.640><c> order</c><00:02:04.960><c> to</c><00:02:05.320><c> kind</c><00:02:05.439><c> of</c><00:02:05.640><c> better</c><00:02:05.960><c> provide</c><00:02:06.280><c> more</c>
+
+00:02:06.709 --> 00:02:06.719 align:start position:0%
+in order to kind of better provide more
+ 
+
+00:02:06.719 --> 00:02:08.869 align:start position:0%
+in order to kind of better provide more
+functionality<00:02:07.719><c> then</c><00:02:07.960><c> from</c><00:02:08.280><c> actually</c><00:02:08.599><c> going</c>
+
+00:02:08.869 --> 00:02:08.879 align:start position:0%
+functionality then from actually going
+ 
+
+00:02:08.879 --> 00:02:10.869 align:start position:0%
+functionality then from actually going
+ahead<00:02:09.080><c> and</c><00:02:09.280><c> processing</c><00:02:09.759><c> these</c><00:02:09.959><c> messages</c><00:02:10.759><c> you</c>
+
+00:02:10.869 --> 00:02:10.879 align:start position:0%
+ahead and processing these messages you
+ 
+
+00:02:10.879 --> 00:02:12.750 align:start position:0%
+ahead and processing these messages you
+can<00:02:11.080><c> then</c><00:02:11.239><c> send</c><00:02:11.520><c> the</c><00:02:11.640><c> messages</c><00:02:12.040><c> to</c><00:02:12.200><c> a</c><00:02:12.319><c> sync</c>
+
+00:02:12.750 --> 00:02:12.760 align:start position:0%
+can then send the messages to a sync
+ 
+
+00:02:12.760 --> 00:02:14.350 align:start position:0%
+can then send the messages to a sync
+which<00:02:12.840><c> is</c><00:02:13.040><c> basically</c><00:02:13.440><c> just</c><00:02:13.640><c> the</c><00:02:13.760><c> outgoing</c>
+
+00:02:14.350 --> 00:02:14.360 align:start position:0%
+which is basically just the outgoing
+ 
+
+00:02:14.360 --> 00:02:16.110 align:start position:0%
+which is basically just the outgoing
+place<00:02:14.599><c> where</c><00:02:14.840><c> messages</c><00:02:15.200><c> are</c><00:02:15.560><c> going</c><00:02:15.879><c> to</c><00:02:15.959><c> be</c>
+
+00:02:16.110 --> 00:02:16.120 align:start position:0%
+place where messages are going to be
+ 
+
+00:02:16.120 --> 00:02:18.229 align:start position:0%
+place where messages are going to be
+sent<00:02:16.760><c> which</c><00:02:16.959><c> can</c><00:02:17.160><c> either</c><00:02:17.400><c> be</c><00:02:17.800><c> um</c><00:02:17.920><c> to</c><00:02:18.080><c> an</c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+sent which can either be um to an
+ 
+
+00:02:18.239 --> 00:02:19.509 align:start position:0%
+sent which can either be um to an
+application<00:02:18.760><c> the</c><00:02:18.920><c> application</c><00:02:19.360><c> can</c>
+
+00:02:19.509 --> 00:02:19.519 align:start position:0%
+application the application can
+ 
+
+00:02:19.519 --> 00:02:21.710 align:start position:0%
+application the application can
+obviously<00:02:19.879><c> be</c><00:02:20.080><c> some</c><00:02:20.200><c> sort</c><00:02:20.400><c> of</c><00:02:20.519><c> consumer</c><00:02:21.440><c> or</c><00:02:21.599><c> it</c>
+
+00:02:21.710 --> 00:02:21.720 align:start position:0%
+obviously be some sort of consumer or it
+ 
+
+00:02:21.720 --> 00:02:25.550 align:start position:0%
+obviously be some sort of consumer or it
+can<00:02:21.920><c> be</c><00:02:22.360><c> um</c><00:02:23.239><c> to</c><00:02:23.720><c> uh</c><00:02:24.160><c> another</c><00:02:24.440><c> stream</c><00:02:25.280><c> so</c>
+
+00:02:25.550 --> 00:02:25.560 align:start position:0%
+can be um to uh another stream so
+ 
+
+00:02:25.560 --> 00:02:29.990 align:start position:0%
+can be um to uh another stream so
+another<00:02:25.840><c> event</c><00:02:26.120><c> log</c><00:02:26.560><c> or</c><00:02:26.800><c> to</c><00:02:27.160><c> another</c><00:02:27.519><c> database</c>
+
+00:02:29.990 --> 00:02:30.000 align:start position:0%
+another event log or to another database
+ 
+
+00:02:30.000 --> 00:02:31.390 align:start position:0%
+another event log or to another database
+okay<00:02:30.160><c> so</c><00:02:30.280><c> let's</c><00:02:30.480><c> talk</c><00:02:30.680><c> about</c><00:02:30.959><c> State</c><00:02:31.239><c> and</c>
+
+00:02:31.390 --> 00:02:31.400 align:start position:0%
+okay so let's talk about State and
+ 
+
+00:02:31.400 --> 00:02:33.030 align:start position:0%
+okay so let's talk about State and
+stream<00:02:31.800><c> processing</c><00:02:32.360><c> cuz</c><00:02:32.480><c> I</c><00:02:32.599><c> mentioned</c><00:02:32.920><c> this</c>
+
+00:02:33.030 --> 00:02:33.040 align:start position:0%
+stream processing cuz I mentioned this
+ 
+
+00:02:33.040 --> 00:02:34.670 align:start position:0%
+stream processing cuz I mentioned this
+is<00:02:33.200><c> kind</c><00:02:33.360><c> of</c><00:02:33.519><c> the</c><00:02:33.640><c> bread</c><00:02:33.840><c> and</c><00:02:33.959><c> butter</c><00:02:34.319><c> Flink</c>
+
+00:02:34.670 --> 00:02:34.680 align:start position:0%
+is kind of the bread and butter Flink
+ 
+
+00:02:34.680 --> 00:02:36.910 align:start position:0%
+is kind of the bread and butter Flink
+and<00:02:34.800><c> the</c><00:02:34.920><c> reason</c><00:02:35.239><c> why</c><00:02:35.400><c> it's</c><00:02:35.599><c> important</c><00:02:36.560><c> so</c><00:02:36.800><c> why</c>
+
+00:02:36.910 --> 00:02:36.920 align:start position:0%
+and the reason why it's important so why
+ 
+
+00:02:36.920 --> 00:02:39.110 align:start position:0%
+and the reason why it's important so why
+do<00:02:37.040><c> we</c><00:02:37.160><c> need</c><00:02:37.319><c> to</c><00:02:37.560><c> actually</c><00:02:37.879><c> keep</c><00:02:38.120><c> State</c><00:02:38.920><c> well</c>
+
+00:02:39.110 --> 00:02:39.120 align:start position:0%
+do we need to actually keep State well
+ 
+
+00:02:39.120 --> 00:02:41.550 align:start position:0%
+do we need to actually keep State well
+for<00:02:39.280><c> starters</c><00:02:39.840><c> a</c><00:02:40.000><c> big</c><00:02:40.280><c> point</c><00:02:40.680><c> of</c><00:02:41.040><c> um</c><00:02:41.159><c> stream</c>
+
+00:02:41.550 --> 00:02:41.560 align:start position:0%
+for starters a big point of um stream
+ 
+
+00:02:41.560 --> 00:02:43.949 align:start position:0%
+for starters a big point of um stream
+processing<00:02:42.280><c> is</c><00:02:42.480><c> to</c><00:02:42.760><c> be</c><00:02:42.920><c> able</c><00:02:43.120><c> to</c><00:02:43.280><c> group</c><00:02:43.599><c> events</c>
+
+00:02:43.949 --> 00:02:43.959 align:start position:0%
+processing is to be able to group events
+ 
+
+00:02:43.959 --> 00:02:46.350 align:start position:0%
+processing is to be able to group events
+by<00:02:44.159><c> time</c><00:02:44.840><c> so</c><00:02:45.040><c> while</c><00:02:45.319><c> Flink</c><00:02:45.599><c> does</c><00:02:45.879><c> let</c><00:02:46.000><c> you</c><00:02:46.200><c> have</c>
+
+00:02:46.350 --> 00:02:46.360 align:start position:0%
+by time so while Flink does let you have
+ 
+
+00:02:46.360 --> 00:02:48.149 align:start position:0%
+by time so while Flink does let you have
+a<00:02:46.480><c> bunch</c><00:02:46.680><c> of</c><00:02:46.879><c> kind</c><00:02:47.000><c> of</c><00:02:47.159><c> flexibility</c><00:02:47.800><c> in</c><00:02:47.920><c> terms</c>
+
+00:02:48.149 --> 00:02:48.159 align:start position:0%
+a bunch of kind of flexibility in terms
+ 
+
+00:02:48.159 --> 00:02:49.670 align:start position:0%
+a bunch of kind of flexibility in terms
+of<00:02:48.360><c> which</c><00:02:48.560><c> time</c><00:02:48.760><c> you're</c><00:02:49.000><c> actually</c><00:02:49.239><c> going</c><00:02:49.440><c> to</c>
+
+00:02:49.670 --> 00:02:49.680 align:start position:0%
+of which time you're actually going to
+ 
+
+00:02:49.680 --> 00:02:52.309 align:start position:0%
+of which time you're actually going to
+use<00:02:50.040><c> for</c><00:02:50.400><c> a</c><00:02:50.519><c> given</c><00:02:50.800><c> event</c><00:02:51.120><c> so</c><00:02:51.280><c> that</c><00:02:51.519><c> includes</c>
+
+00:02:52.309 --> 00:02:52.319 align:start position:0%
+use for a given event so that includes
+ 
+
+00:02:52.319 --> 00:02:54.869 align:start position:0%
+use for a given event so that includes
+um<00:02:52.760><c> the</c><00:02:52.959><c> actual</c><00:02:53.280><c> time</c><00:02:53.519><c> it</c><00:02:53.640><c> gets</c><00:02:53.959><c> to</c><00:02:54.680><c> uh</c><00:02:54.760><c> the</c>
+
+00:02:54.869 --> 00:02:54.879 align:start position:0%
+um the actual time it gets to uh the
+ 
+
+00:02:54.879 --> 00:02:56.710 align:start position:0%
+um the actual time it gets to uh the
+node<00:02:55.159><c> that</c><00:02:55.239><c> it's</c><00:02:55.360><c> going</c><00:02:55.519><c> to</c><00:02:55.599><c> be</c><00:02:55.800><c> processed</c><00:02:56.239><c> on</c>
+
+00:02:56.710 --> 00:02:56.720 align:start position:0%
+node that it's going to be processed on
+ 
+
+00:02:56.720 --> 00:02:58.550 align:start position:0%
+node that it's going to be processed on
+the<00:02:56.879><c> time</c><00:02:57.200><c> that</c><00:02:57.400><c> it</c><00:02:57.519><c> is</c><00:02:57.920><c> received</c><00:02:58.200><c> by</c><00:02:58.360><c> the</c>
+
+00:02:58.550 --> 00:02:58.560 align:start position:0%
+the time that it is received by the
+ 
+
+00:02:58.560 --> 00:03:00.149 align:start position:0%
+the time that it is received by the
+consumer<00:02:58.920><c> of</c><00:02:59.040><c> the</c><00:02:59.159><c> stream</c><00:02:59.640><c> the</c><00:02:59.840><c> the</c><00:02:59.959><c> time</c><00:03:00.080><c> that</c>
+
+00:03:00.149 --> 00:03:00.159 align:start position:0%
+consumer of the stream the the time that
+ 
+
+00:03:00.159 --> 00:03:02.390 align:start position:0%
+consumer of the stream the the time that
+it<00:03:00.239><c> was</c><00:03:00.440><c> actually</c><00:03:00.720><c> sent</c><00:03:01.080><c> to</c><00:03:01.360><c> the</c><00:03:01.519><c> log</c><00:03:01.800><c> broker</c>
+
+00:03:02.390 --> 00:03:02.400 align:start position:0%
+it was actually sent to the log broker
+ 
+
+00:03:02.400 --> 00:03:03.869 align:start position:0%
+it was actually sent to the log broker
+so<00:03:02.560><c> you</c><00:03:02.640><c> have</c><00:03:02.760><c> all</c><00:03:02.920><c> these</c><00:03:03.120><c> options</c><00:03:03.519><c> basically</c>
+
+00:03:03.869 --> 00:03:03.879 align:start position:0%
+so you have all these options basically
+ 
+
+00:03:03.879 --> 00:03:05.910 align:start position:0%
+so you have all these options basically
+for<00:03:04.000><c> how</c><00:03:04.120><c> to</c><00:03:04.239><c> group</c><00:03:04.560><c> events</c><00:03:04.920><c> but</c><00:03:05.040><c> the</c><00:03:05.159><c> point</c><00:03:05.440><c> is</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+for how to group events but the point is
+ 
+
+00:03:05.920 --> 00:03:07.670 align:start position:0%
+for how to group events but the point is
+in<00:03:06.040><c> order</c><00:03:06.319><c> to</c><00:03:06.560><c> group</c><00:03:06.840><c> events</c><00:03:07.200><c> by</c><00:03:07.400><c> time</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+in order to group events by time
+ 
+
+00:03:07.680 --> 00:03:09.270 align:start position:0%
+in order to group events by time
+generally<00:03:08.120><c> speaking</c><00:03:08.480><c> you</c><00:03:08.599><c> want</c><00:03:08.720><c> to</c><00:03:08.840><c> be</c><00:03:09.000><c> going</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+generally speaking you want to be going
+ 
+
+00:03:09.280 --> 00:03:11.990 align:start position:0%
+generally speaking you want to be going
+ahead<00:03:09.640><c> and</c><00:03:09.840><c> window</c><00:03:10.480><c> certain</c><00:03:10.840><c> events</c><00:03:11.640><c> and</c><00:03:11.840><c> that</c>
+
+00:03:11.990 --> 00:03:12.000 align:start position:0%
+ahead and window certain events and that
+ 
+
+00:03:12.000 --> 00:03:14.070 align:start position:0%
+ahead and window certain events and that
+way<00:03:12.360><c> messages</c><00:03:13.159><c> um</c><00:03:13.280><c> from</c><00:03:13.519><c> similar</c><00:03:13.840><c> time</c>
+
+00:03:14.070 --> 00:03:14.080 align:start position:0%
+way messages um from similar time
+ 
+
+00:03:14.080 --> 00:03:15.509 align:start position:0%
+way messages um from similar time
+periods<00:03:14.400><c> will</c><00:03:14.560><c> be</c><00:03:14.680><c> sent</c><00:03:14.879><c> to</c><00:03:15.159><c> the</c><00:03:15.280><c> same</c>
+
+00:03:15.509 --> 00:03:15.519 align:start position:0%
+periods will be sent to the same
+ 
+
+00:03:15.519 --> 00:03:17.789 align:start position:0%
+periods will be sent to the same
+partitions<00:03:16.040><c> to</c><00:03:16.159><c> be</c><00:03:16.400><c> processed</c><00:03:16.959><c> together</c><00:03:17.680><c> and</c>
+
+00:03:17.789 --> 00:03:17.799 align:start position:0%
+partitions to be processed together and
+ 
+
+00:03:17.799 --> 00:03:19.110 align:start position:0%
+partitions to be processed together and
+you<00:03:17.959><c> kind</c><00:03:18.080><c> of</c><00:03:18.200><c> need</c><00:03:18.400><c> some</c><00:03:18.560><c> sort</c><00:03:18.720><c> of</c><00:03:18.879><c> local</c>
+
+00:03:19.110 --> 00:03:19.120 align:start position:0%
+you kind of need some sort of local
+ 
+
+00:03:19.120 --> 00:03:21.869 align:start position:0%
+you kind of need some sort of local
+state<00:03:19.400><c> in</c><00:03:19.519><c> order</c><00:03:19.720><c> to</c><00:03:19.840><c> do</c><00:03:20.319><c> that</c><00:03:21.319><c> additionally</c>
+
+00:03:21.869 --> 00:03:21.879 align:start position:0%
+state in order to do that additionally
+ 
+
+00:03:21.879 --> 00:03:23.509 align:start position:0%
+state in order to do that additionally
+another<00:03:22.319><c> common</c><00:03:22.640><c> case</c><00:03:22.879><c> that</c><00:03:23.000><c> we</c><00:03:23.120><c> see</c><00:03:23.400><c> is</c>
+
+00:03:23.509 --> 00:03:23.519 align:start position:0%
+another common case that we see is
+ 
+
+00:03:23.519 --> 00:03:25.390 align:start position:0%
+another common case that we see is
+something<00:03:23.840><c> known</c><00:03:24.080><c> as</c><00:03:24.200><c> stream</c><00:03:24.560><c> enrichment</c>
+
+00:03:25.390 --> 00:03:25.400 align:start position:0%
+something known as stream enrichment
+ 
+
+00:03:25.400 --> 00:03:26.750 align:start position:0%
+something known as stream enrichment
+where<00:03:25.519><c> you're</c><00:03:25.720><c> basically</c><00:03:26.080><c> taking</c><00:03:26.360><c> a</c><00:03:26.480><c> bunch</c><00:03:26.640><c> of</c>
+
+00:03:26.750 --> 00:03:26.760 align:start position:0%
+where you're basically taking a bunch of
+ 
+
+00:03:26.760 --> 00:03:28.789 align:start position:0%
+where you're basically taking a bunch of
+stream<00:03:27.080><c> messages</c><00:03:27.920><c> and</c><00:03:28.120><c> adding</c><00:03:28.439><c> some</c>
+
+00:03:28.789 --> 00:03:28.799 align:start position:0%
+stream messages and adding some
+ 
+
+00:03:28.799 --> 00:03:30.390 align:start position:0%
+stream messages and adding some
+corresponding<00:03:29.400><c> information</c><00:03:30.120><c> from</c><00:03:30.239><c> an</c>
+
+00:03:30.390 --> 00:03:30.400 align:start position:0%
+corresponding information from an
+ 
+
+00:03:30.400 --> 00:03:32.869 align:start position:0%
+corresponding information from an
+existing<00:03:30.840><c> database</c><00:03:31.400><c> table</c><00:03:32.120><c> in</c><00:03:32.239><c> order</c><00:03:32.480><c> to</c><00:03:32.720><c> go</c>
+
+00:03:32.869 --> 00:03:32.879 align:start position:0%
+existing database table in order to go
+ 
+
+00:03:32.879 --> 00:03:35.190 align:start position:0%
+existing database table in order to go
+ahead<00:03:33.360><c> and</c><00:03:33.799><c> provide</c><00:03:34.120><c> more</c><00:03:34.400><c> information</c><00:03:34.920><c> for</c>
+
+00:03:35.190 --> 00:03:35.200 align:start position:0%
+ahead and provide more information for
+ 
+
+00:03:35.200 --> 00:03:37.390 align:start position:0%
+ahead and provide more information for
+those<00:03:35.400><c> messages</c><00:03:36.239><c> so</c><00:03:36.439><c> for</c><00:03:36.640><c> example</c><00:03:37.080><c> you</c><00:03:37.200><c> know</c>
+
+00:03:37.390 --> 00:03:37.400 align:start position:0%
+those messages so for example you know
+ 
+
+00:03:37.400 --> 00:03:39.750 align:start position:0%
+those messages so for example you know
+imagine<00:03:37.840><c> we</c><00:03:38.000><c> had</c><00:03:38.239><c> a</c><00:03:38.360><c> bunch</c><00:03:38.720><c> of</c><00:03:39.040><c> web</c><00:03:39.280><c> browser</c>
+
+00:03:39.750 --> 00:03:39.760 align:start position:0%
+imagine we had a bunch of web browser
+ 
+
+00:03:39.760 --> 00:03:42.070 align:start position:0%
+imagine we had a bunch of web browser
+activity<00:03:40.200><c> coming</c><00:03:40.439><c> in</c><00:03:41.159><c> and</c><00:03:41.360><c> we</c><00:03:41.480><c> wanted</c><00:03:41.720><c> to</c><00:03:41.920><c> go</c>
+
+00:03:42.070 --> 00:03:42.080 align:start position:0%
+activity coming in and we wanted to go
+ 
+
+00:03:42.080 --> 00:03:44.710 align:start position:0%
+activity coming in and we wanted to go
+ahead<00:03:42.560><c> and</c><00:03:42.920><c> use</c><00:03:43.239><c> that</c><00:03:43.400><c> user</c><00:03:43.720><c> ID</c><00:03:44.280><c> coming</c><00:03:44.519><c> in</c>
+
+00:03:44.710 --> 00:03:44.720 align:start position:0%
+ahead and use that user ID coming in
+ 
+
+00:03:44.720 --> 00:03:46.670 align:start position:0%
+ahead and use that user ID coming in
+with<00:03:44.879><c> the</c><00:03:45.000><c> web</c><00:03:45.200><c> browser</c><00:03:45.599><c> activity</c><00:03:46.159><c> to</c><00:03:46.480><c> go</c>
+
+00:03:46.670 --> 00:03:46.680 align:start position:0%
+with the web browser activity to go
+ 
+
+00:03:46.680 --> 00:03:49.070 align:start position:0%
+with the web browser activity to go
+ahead<00:03:47.080><c> and</c><00:03:47.360><c> list</c><00:03:47.840><c> some</c><00:03:48.159><c> demographics</c><00:03:48.879><c> about</c>
+
+00:03:49.070 --> 00:03:49.080 align:start position:0%
+ahead and list some demographics about
+ 
+
+00:03:49.080 --> 00:03:50.630 align:start position:0%
+ahead and list some demographics about
+the<00:03:49.200><c> user</c><00:03:49.599><c> before</c><00:03:49.840><c> we</c><00:03:49.959><c> send</c><00:03:50.239><c> that</c><00:03:50.360><c> to</c><00:03:50.480><c> a</c>
+
+00:03:50.630 --> 00:03:50.640 align:start position:0%
+the user before we send that to a
+ 
+
+00:03:50.640 --> 00:03:53.190 align:start position:0%
+the user before we send that to a
+secondary<00:03:51.280><c> stream</c><00:03:52.280><c> um</c><00:03:52.560><c> you</c><00:03:52.680><c> can</c><00:03:52.920><c> actually</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+secondary stream um you can actually
+ 
+
+00:03:53.200 --> 00:03:55.069 align:start position:0%
+secondary stream um you can actually
+keep<00:03:53.480><c> this</c><00:03:53.760><c> table</c><00:03:54.000><c> local</c><00:03:54.280><c> to</c><00:03:54.439><c> Flink</c><00:03:54.799><c> and</c><00:03:54.920><c> then</c>
+
+00:03:55.069 --> 00:03:55.079 align:start position:0%
+keep this table local to Flink and then
+ 
+
+00:03:55.079 --> 00:03:56.910 align:start position:0%
+keep this table local to Flink and then
+update<00:03:55.400><c> it</c><00:03:55.599><c> over</c><00:03:55.879><c> time</c><00:03:56.120><c> using</c><00:03:56.360><c> the</c><00:03:56.480><c> change</c>
+
+00:03:56.910 --> 00:03:56.920 align:start position:0%
+update it over time using the change
+ 
+
+00:03:56.920 --> 00:04:00.110 align:start position:0%
+update it over time using the change
+data<00:03:57.239><c> capture</c><00:03:57.640><c> from</c><00:03:57.879><c> that</c><00:03:58.239><c> table</c><00:03:59.239><c> um</c><00:03:59.840><c> another</c>
+
+00:04:00.110 --> 00:04:00.120 align:start position:0%
+data capture from that table um another
+ 
+
+00:04:00.120 --> 00:04:02.830 align:start position:0%
+data capture from that table um another
+case<00:04:00.560><c> and</c><00:04:00.720><c> this</c><00:04:00.840><c> is</c><00:04:01.000><c> one</c><00:04:01.280><c> that</c><00:04:01.519><c> I</c><00:04:01.640><c> saw</c><00:04:02.239><c> in</c><00:04:02.720><c> uh</c>
+
+00:04:02.830 --> 00:04:02.840 align:start position:0%
+case and this is one that I saw in uh
+ 
+
+00:04:02.840 --> 00:04:04.190 align:start position:0%
+case and this is one that I saw in uh
+just<00:04:03.000><c> one</c><00:04:03.120><c> of</c><00:04:03.200><c> the</c><00:04:03.319><c> videos</c><00:04:03.640><c> that</c><00:04:03.799><c> I</c><00:04:03.920><c> watched</c>
+
+00:04:04.190 --> 00:04:04.200 align:start position:0%
+just one of the videos that I watched
+ 
+
+00:04:04.200 --> 00:04:06.030 align:start position:0%
+just one of the videos that I watched
+for<00:04:04.400><c> learning</c><00:04:04.760><c> about</c><00:04:04.959><c> this</c><00:04:05.200><c> topic</c><00:04:05.640><c> was</c><00:04:05.879><c> just</c>
+
+00:04:06.030 --> 00:04:06.040 align:start position:0%
+for learning about this topic was just
+ 
+
+00:04:06.040 --> 00:04:08.550 align:start position:0%
+for learning about this topic was just
+like<00:04:06.159><c> a</c><00:04:06.280><c> Tinder</c><00:04:06.560><c> use</c><00:04:06.920><c> case</c><00:04:07.560><c> so</c><00:04:07.799><c> imagine</c><00:04:08.400><c> as</c>
+
+00:04:08.550 --> 00:04:08.560 align:start position:0%
+like a Tinder use case so imagine as
+ 
+
+00:04:08.560 --> 00:04:10.550 align:start position:0%
+like a Tinder use case so imagine as
+opposed<00:04:08.920><c> to</c><00:04:09.280><c> just</c><00:04:09.439><c> storing</c><00:04:10.000><c> every</c><00:04:10.200><c> single</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+opposed to just storing every single
+ 
+
+00:04:10.560 --> 00:04:13.710 align:start position:0%
+opposed to just storing every single
+like<00:04:10.879><c> or</c><00:04:11.439><c> dislike</c><00:04:11.920><c> in</c><00:04:12.040><c> a</c><00:04:12.319><c> database</c><00:04:13.319><c> what</c><00:04:13.480><c> we</c>
+
+00:04:13.710 --> 00:04:13.720 align:start position:0%
+like or dislike in a database what we
+ 
+
+00:04:13.720 --> 00:04:15.949 align:start position:0%
+like or dislike in a database what we
+actually<00:04:14.040><c> did</c><00:04:14.360><c> is</c><00:04:14.680><c> place</c><00:04:15.079><c> every</c><00:04:15.280><c> single</c><00:04:15.599><c> like</c>
+
+00:04:15.949 --> 00:04:15.959 align:start position:0%
+actually did is place every single like
+ 
+
+00:04:15.959 --> 00:04:18.189 align:start position:0%
+actually did is place every single like
+in<00:04:16.120><c> a</c><00:04:16.280><c> stream</c><00:04:16.759><c> for</c><00:04:17.079><c> asynchronous</c><00:04:17.759><c> processing</c>
+
+00:04:18.189 --> 00:04:18.199 align:start position:0%
+in a stream for asynchronous processing
+ 
+
+00:04:18.199 --> 00:04:19.590 align:start position:0%
+in a stream for asynchronous processing
+because<00:04:18.359><c> we</c><00:04:18.479><c> don't</c><00:04:18.600><c> have</c><00:04:18.720><c> to</c><00:04:18.919><c> return</c><00:04:19.079><c> a</c><00:04:19.239><c> result</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+because we don't have to return a result
+ 
+
+00:04:19.600 --> 00:04:21.870 align:start position:0%
+because we don't have to return a result
+instantly<00:04:20.479><c> so</c><00:04:20.680><c> every</c><00:04:20.840><c> single</c><00:04:21.160><c> like</c><00:04:21.519><c> basically</c>
+
+00:04:21.870 --> 00:04:21.880 align:start position:0%
+instantly so every single like basically
+ 
+
+00:04:21.880 --> 00:04:24.150 align:start position:0%
+instantly so every single like basically
+goes<00:04:22.120><c> into</c><00:04:22.360><c> a</c><00:04:22.479><c> stream</c><00:04:23.440><c> and</c><00:04:23.560><c> then</c><00:04:23.759><c> we</c><00:04:23.840><c> use</c><00:04:24.000><c> a</c>
+
+00:04:24.150 --> 00:04:24.160 align:start position:0%
+goes into a stream and then we use a
+ 
+
+00:04:24.160 --> 00:04:26.550 align:start position:0%
+goes into a stream and then we use a
+partitioning<00:04:24.680><c> schema</c><00:04:25.600><c> such</c><00:04:25.840><c> that</c><00:04:26.120><c> all</c>
+
+00:04:26.550 --> 00:04:26.560 align:start position:0%
+partitioning schema such that all
+ 
+
+00:04:26.560 --> 00:04:30.029 align:start position:0%
+partitioning schema such that all
+messages<00:04:27.560><c> or</c><00:04:28.000><c> rather</c><00:04:28.280><c> all</c><00:04:28.520><c> likes</c><00:04:29.320><c> um</c>
+
+00:04:30.029 --> 00:04:30.039 align:start position:0%
+messages or rather all likes um
+ 
+
+00:04:30.039 --> 00:04:32.150 align:start position:0%
+messages or rather all likes um
+consisting<00:04:30.720><c> of</c><00:04:30.919><c> the</c><00:04:31.039><c> same</c><00:04:31.280><c> two</c><00:04:31.479><c> users</c><00:04:32.000><c> are</c>
+
+00:04:32.150 --> 00:04:32.160 align:start position:0%
+consisting of the same two users are
+ 
+
+00:04:32.160 --> 00:04:34.270 align:start position:0%
+consisting of the same two users are
+certain<00:04:32.560><c> to</c><00:04:32.720><c> go</c><00:04:32.960><c> to</c><00:04:33.280><c> the</c><00:04:33.400><c> same</c><00:04:33.639><c> node</c><00:04:34.000><c> in</c><00:04:34.160><c> that</c>
+
+00:04:34.270 --> 00:04:34.280 align:start position:0%
+certain to go to the same node in that
+ 
+
+00:04:34.280 --> 00:04:37.029 align:start position:0%
+certain to go to the same node in that
+Flint<00:04:34.720><c> cluster</c><00:04:35.720><c> and</c><00:04:35.960><c> as</c><00:04:36.080><c> a</c><00:04:36.240><c> result</c><00:04:36.520><c> of</c><00:04:36.680><c> that</c><00:04:36.919><c> if</c>
+
+00:04:37.029 --> 00:04:37.039 align:start position:0%
+Flint cluster and as a result of that if
+ 
+
+00:04:37.039 --> 00:04:39.510 align:start position:0%
+Flint cluster and as a result of that if
+Flint<00:04:37.880><c> uh</c><00:04:38.039><c> processes</c><00:04:38.479><c> a</c><00:04:38.600><c> like</c><00:04:38.840><c> message</c><00:04:39.240><c> and</c><00:04:39.400><c> we</c>
+
+00:04:39.510 --> 00:04:39.520 align:start position:0%
+Flint uh processes a like message and we
+ 
+
+00:04:39.520 --> 00:04:41.830 align:start position:0%
+Flint uh processes a like message and we
+see<00:04:39.919><c> that</c><00:04:40.280><c> um</c><00:04:40.440><c> the</c><00:04:40.600><c> corresponding</c><00:04:41.240><c> like</c><00:04:41.639><c> from</c>
+
+00:04:41.830 --> 00:04:41.840 align:start position:0%
+see that um the corresponding like from
+ 
+
+00:04:41.840 --> 00:04:44.469 align:start position:0%
+see that um the corresponding like from
+you<00:04:41.960><c> know</c><00:04:42.160><c> the</c><00:04:42.320><c> other</c><00:04:42.560><c> user</c><00:04:43.039><c> to</c><00:04:44.000><c> uh</c><00:04:44.120><c> the</c><00:04:44.240><c> first</c>
+
+00:04:44.469 --> 00:04:44.479 align:start position:0%
+you know the other user to uh the first
+ 
+
+00:04:44.479 --> 00:04:46.430 align:start position:0%
+you know the other user to uh the first
+user<00:04:44.880><c> is</c><00:04:45.039><c> already</c><00:04:45.440><c> there</c><00:04:45.919><c> then</c><00:04:46.039><c> we</c><00:04:46.160><c> know</c><00:04:46.320><c> we</c>
+
+00:04:46.430 --> 00:04:46.440 align:start position:0%
+user is already there then we know we
+ 
+
+00:04:46.440 --> 00:04:48.629 align:start position:0%
+user is already there then we know we
+have<00:04:46.560><c> a</c><00:04:46.720><c> match</c><00:04:47.199><c> otherwise</c><00:04:48.000><c> we</c><00:04:48.160><c> don't</c><00:04:48.400><c> have</c><00:04:48.520><c> a</c>
+
+00:04:48.629 --> 00:04:48.639 align:start position:0%
+have a match otherwise we don't have a
+ 
+
+00:04:48.639 --> 00:04:50.230 align:start position:0%
+have a match otherwise we don't have a
+match<00:04:48.919><c> we</c><00:04:49.000><c> have</c><00:04:49.120><c> to</c><00:04:49.240><c> store</c><00:04:49.600><c> that</c><00:04:49.800><c> like</c><00:04:50.120><c> and</c>
+
+00:04:50.230 --> 00:04:50.240 align:start position:0%
+match we have to store that like and
+ 
+
+00:04:50.240 --> 00:04:52.230 align:start position:0%
+match we have to store that like and
+then<00:04:50.479><c> hope</c><00:04:50.840><c> that</c><00:04:51.160><c> um</c><00:04:51.320><c> the</c><00:04:51.479><c> secondary</c><00:04:51.960><c> like</c>
+
+00:04:52.230 --> 00:04:52.240 align:start position:0%
+then hope that um the secondary like
+ 
+
+00:04:52.240 --> 00:04:54.430 align:start position:0%
+then hope that um the secondary like
+comes<00:04:52.479><c> in</c><00:04:53.160><c> if</c><00:04:53.280><c> it</c><00:04:53.400><c> doesn't</c><00:04:53.919><c> we'll</c><00:04:54.120><c> probably</c>
+
+00:04:54.430 --> 00:04:54.440 align:start position:0%
+comes in if it doesn't we'll probably
+ 
+
+00:04:54.440 --> 00:04:56.469 align:start position:0%
+comes in if it doesn't we'll probably
+end<00:04:54.600><c> up</c><00:04:54.840><c> expiring</c><00:04:55.440><c> those</c><00:04:55.600><c> messages</c><00:04:56.160><c> after</c><00:04:56.360><c> a</c>
+
+00:04:56.469 --> 00:04:56.479 align:start position:0%
+end up expiring those messages after a
+ 
+
+00:04:56.479 --> 00:04:58.189 align:start position:0%
+end up expiring those messages after a
+certain<00:04:56.800><c> time</c><00:04:57.000><c> period</c><00:04:57.400><c> who</c><00:04:57.560><c> knows</c><00:04:57.840><c> maybe</c><00:04:58.039><c> a</c>
+
+00:04:58.189 --> 00:04:58.199 align:start position:0%
+certain time period who knows maybe a
+ 
+
+00:04:58.199 --> 00:05:00.870 align:start position:0%
+certain time period who knows maybe a
+week<00:04:58.479><c> maybe</c><00:04:58.720><c> a</c><00:04:58.840><c> month</c><00:04:59.080><c> or</c><00:04:59.199><c> something</c><00:04:59.440><c> like</c>
+
+00:05:00.870 --> 00:05:00.880 align:start position:0%
+week maybe a month or something like
+ 
+
+00:05:00.880 --> 00:05:02.990 align:start position:0%
+week maybe a month or something like
+that<00:05:01.880><c> okay</c><00:05:02.080><c> let's</c><00:05:02.320><c> talk</c><00:05:02.479><c> about</c><00:05:02.680><c> fault</c>
+
+00:05:02.990 --> 00:05:03.000 align:start position:0%
+that okay let's talk about fault
+ 
+
+00:05:03.000 --> 00:05:04.590 align:start position:0%
+that okay let's talk about fault
+tolerance<00:05:03.600><c> because</c><00:05:03.960><c> obviously</c><00:05:04.360><c> if</c><00:05:04.479><c> you're</c>
+
+00:05:04.590 --> 00:05:04.600 align:start position:0%
+tolerance because obviously if you're
+ 
+
+00:05:04.600 --> 00:05:06.830 align:start position:0%
+tolerance because obviously if you're
+storing<00:05:05.039><c> any</c><00:05:05.280><c> state</c><00:05:05.680><c> in</c><00:05:05.880><c> either</c><00:05:06.160><c> memory</c><00:05:06.560><c> or</c>
+
+00:05:06.830 --> 00:05:06.840 align:start position:0%
+storing any state in either memory or
+ 
+
+00:05:06.840 --> 00:05:08.870 align:start position:0%
+storing any state in either memory or
+disk<00:05:07.400><c> and</c><00:05:07.520><c> it's</c><00:05:07.759><c> just</c><00:05:07.880><c> going</c><00:05:08.039><c> to</c><00:05:08.160><c> be</c><00:05:08.360><c> local</c><00:05:08.720><c> to</c>
+
+00:05:08.870 --> 00:05:08.880 align:start position:0%
+disk and it's just going to be local to
+ 
+
+00:05:08.880 --> 00:05:11.390 align:start position:0%
+disk and it's just going to be local to
+one<00:05:09.120><c> node</c><00:05:09.800><c> we</c><00:05:09.960><c> run</c><00:05:10.199><c> the</c><00:05:10.400><c> risk</c><00:05:10.720><c> of</c><00:05:10.919><c> that</c><00:05:11.080><c> node</c>
+
+00:05:11.390 --> 00:05:11.400 align:start position:0%
+one node we run the risk of that node
+ 
+
+00:05:11.400 --> 00:05:13.670 align:start position:0%
+one node we run the risk of that node
+crashing<00:05:12.240><c> losing</c><00:05:12.680><c> this</c><00:05:12.919><c> state</c><00:05:13.320><c> and</c><00:05:13.440><c> then</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+crashing losing this state and then
+ 
+
+00:05:13.680 --> 00:05:15.150 align:start position:0%
+crashing losing this state and then
+everything<00:05:14.039><c> is</c><00:05:14.199><c> going</c><00:05:14.360><c> to</c><00:05:14.440><c> be</c><00:05:14.600><c> useless</c>
+
+00:05:15.150 --> 00:05:15.160 align:start position:0%
+everything is going to be useless
+ 
+
+00:05:15.160 --> 00:05:16.670 align:start position:0%
+everything is going to be useless
+because<00:05:15.400><c> then</c><00:05:15.600><c> we've</c><00:05:15.840><c> lost</c><00:05:16.199><c> pretty</c><00:05:16.400><c> much</c><00:05:16.560><c> a</c>
+
+00:05:16.670 --> 00:05:16.680 align:start position:0%
+because then we've lost pretty much a
+ 
+
+00:05:16.680 --> 00:05:18.309 align:start position:0%
+because then we've lost pretty much a
+significant<00:05:17.160><c> chunk</c><00:05:17.720><c> of</c><00:05:17.840><c> our</c><00:05:17.960><c> stream</c>
+
+00:05:18.309 --> 00:05:18.319 align:start position:0%
+significant chunk of our stream
+ 
+
+00:05:18.319 --> 00:05:20.749 align:start position:0%
+significant chunk of our stream
+processing<00:05:18.880><c> information</c><00:05:19.880><c> and</c><00:05:20.280><c> this</c><00:05:20.440><c> kind</c><00:05:20.560><c> of</c>
+
+00:05:20.749 --> 00:05:20.759 align:start position:0%
+processing information and this kind of
+ 
+
+00:05:20.759 --> 00:05:22.670 align:start position:0%
+processing information and this kind of
+represents<00:05:21.440><c> that</c><00:05:21.600><c> whole</c><00:05:21.919><c> concept</c><00:05:22.280><c> of</c><00:05:22.440><c> having</c>
+
+00:05:22.670 --> 00:05:22.680 align:start position:0%
+represents that whole concept of having
+ 
+
+00:05:22.680 --> 00:05:25.270 align:start position:0%
+represents that whole concept of having
+like<00:05:22.800><c> a</c><00:05:22.960><c> wide</c><00:05:23.240><c> dependency</c><00:05:24.160><c> the</c><00:05:24.319><c> state</c><00:05:24.639><c> on</c><00:05:25.039><c> one</c>
+
+00:05:25.270 --> 00:05:25.280 align:start position:0%
+like a wide dependency the state on one
+ 
+
+00:05:25.280 --> 00:05:27.870 align:start position:0%
+like a wide dependency the state on one
+local<00:05:25.600><c> node</c><00:05:26.280><c> might</c><00:05:26.520><c> represent</c><00:05:27.240><c> uh</c><00:05:27.360><c> messages</c>
+
+00:05:27.870 --> 00:05:27.880 align:start position:0%
+local node might represent uh messages
+ 
+
+00:05:27.880 --> 00:05:29.710 align:start position:0%
+local node might represent uh messages
+that<00:05:28.000><c> were</c><00:05:28.199><c> partially</c><00:05:28.680><c> processed</c><00:05:29.160><c> by</c><00:05:29.280><c> other</c>
+
+00:05:29.710 --> 00:05:29.720 align:start position:0%
+that were partially processed by other
+ 
+
+00:05:29.720 --> 00:05:31.350 align:start position:0%
+that were partially processed by other
+noes<00:05:30.160><c> and</c><00:05:30.240><c> then</c><00:05:30.360><c> we</c><00:05:30.440><c> would</c><00:05:30.600><c> have</c><00:05:30.720><c> to</c><00:05:30.880><c> go</c><00:05:31.039><c> ahead</c>
+
+00:05:31.350 --> 00:05:31.360 align:start position:0%
+noes and then we would have to go ahead
+ 
+
+00:05:31.360 --> 00:05:33.749 align:start position:0%
+noes and then we would have to go ahead
+and<00:05:31.600><c> reprocess</c><00:05:32.280><c> every</c><00:05:32.479><c> single</c><00:05:32.800><c> message</c><00:05:33.120><c> ever</c>
+
+00:05:33.749 --> 00:05:33.759 align:start position:0%
+and reprocess every single message ever
+ 
+
+00:05:33.759 --> 00:05:36.189 align:start position:0%
+and reprocess every single message ever
+so<00:05:33.880><c> it's</c><00:05:34.080><c> important</c><00:05:34.639><c> that</c><00:05:35.000><c> um</c><00:05:35.240><c> we're</c><00:05:35.479><c> able</c><00:05:35.800><c> to</c>
+
+00:05:36.189 --> 00:05:36.199 align:start position:0%
+so it's important that um we're able to
+ 
+
+00:05:36.199 --> 00:05:38.309 align:start position:0%
+so it's important that um we're able to
+kind<00:05:36.360><c> of</c><00:05:36.560><c> go</c><00:05:36.720><c> ahead</c><00:05:37.120><c> and</c><00:05:37.280><c> checkpoint</c><00:05:38.000><c> all</c><00:05:38.160><c> of</c>
+
+00:05:38.309 --> 00:05:38.319 align:start position:0%
+kind of go ahead and checkpoint all of
+ 
+
+00:05:38.319 --> 00:05:40.230 align:start position:0%
+kind of go ahead and checkpoint all of
+the<00:05:38.560><c> local</c><00:05:38.880><c> state</c><00:05:39.240><c> on</c><00:05:39.479><c> each</c><00:05:39.680><c> node</c>
+
+00:05:40.230 --> 00:05:40.240 align:start position:0%
+the local state on each node
+ 
+
+00:05:40.240 --> 00:05:42.670 align:start position:0%
+the local state on each node
+occasionally<00:05:41.240><c> so</c><00:05:41.479><c> that</c><00:05:41.680><c> we</c><00:05:41.840><c> know</c><00:05:42.400><c> in</c><00:05:42.560><c> the</c>
+
+00:05:42.670 --> 00:05:42.680 align:start position:0%
+occasionally so that we know in the
+ 
+
+00:05:42.680 --> 00:05:44.510 align:start position:0%
+occasionally so that we know in the
+event<00:05:42.919><c> of</c><00:05:43.039><c> a</c><00:05:43.160><c> crash</c><00:05:43.520><c> we</c><00:05:43.600><c> can</c><00:05:43.800><c> go</c><00:05:43.960><c> ahead</c><00:05:44.319><c> and</c>
+
+00:05:44.510 --> 00:05:44.520 align:start position:0%
+event of a crash we can go ahead and
+ 
+
+00:05:44.520 --> 00:05:46.670 align:start position:0%
+event of a crash we can go ahead and
+pull<00:05:44.759><c> up</c><00:05:44.919><c> a</c><00:05:45.080><c> new</c><00:05:45.240><c> node</c><00:05:45.880><c> and</c><00:05:46.039><c> have</c><00:05:46.199><c> it</c><00:05:46.319><c> running</c>
+
+00:05:46.670 --> 00:05:46.680 align:start position:0%
+pull up a new node and have it running
+ 
+
+00:05:46.680 --> 00:05:49.990 align:start position:0%
+pull up a new node and have it running
+the<00:05:46.840><c> same</c><00:05:47.160><c> thing</c><00:05:47.520><c> as</c><00:05:47.720><c> that</c><00:05:47.919><c> crashed</c><00:05:48.360><c> node</c><00:05:49.360><c> so</c>
+
+00:05:49.990 --> 00:05:50.000 align:start position:0%
+the same thing as that crashed node so
+ 
+
+00:05:50.000 --> 00:05:51.110 align:start position:0%
+the same thing as that crashed node so
+every<00:05:50.199><c> single</c><00:05:50.520><c> time</c><00:05:50.680><c> that</c><00:05:50.800><c> we</c><00:05:50.919><c> have</c><00:05:51.000><c> a</c>
+
+00:05:51.110 --> 00:05:51.120 align:start position:0%
+every single time that we have a
+ 
+
+00:05:51.120 --> 00:05:53.270 align:start position:0%
+every single time that we have a
+checkpoint<00:05:51.680><c> basically</c><00:05:52.080><c> the</c><00:05:52.240><c> data</c><00:05:53.120><c> uh</c>
+
+00:05:53.270 --> 00:05:53.280 align:start position:0%
+checkpoint basically the data uh
+ 
+
+00:05:53.280 --> 00:05:55.070 align:start position:0%
+checkpoint basically the data uh
+consisting<00:05:53.759><c> of</c><00:05:53.880><c> the</c><00:05:54.000><c> local</c><00:05:54.280><c> state</c><00:05:54.639><c> on</c><00:05:54.800><c> all</c><00:05:54.960><c> of</c>
+
+00:05:55.070 --> 00:05:55.080 align:start position:0%
+consisting of the local state on all of
+ 
+
+00:05:55.080 --> 00:05:57.029 align:start position:0%
+consisting of the local state on all of
+the<00:05:55.160><c> nodes</c><00:05:55.720><c> is</c><00:05:55.880><c> going</c><00:05:56.039><c> to</c><00:05:56.160><c> be</c><00:05:56.280><c> sent</c><00:05:56.520><c> to</c><00:05:56.720><c> some</c>
+
+00:05:57.029 --> 00:05:57.039 align:start position:0%
+the nodes is going to be sent to some
+ 
+
+00:05:57.039 --> 00:05:58.990 align:start position:0%
+the nodes is going to be sent to some
+high<00:05:57.240><c> availability</c><00:05:58.039><c> persistent</c><00:05:58.520><c> distributed</c>
+
+00:05:58.990 --> 00:05:59.000 align:start position:0%
+high availability persistent distributed
+ 
+
+00:05:59.000 --> 00:06:02.070 align:start position:0%
+high availability persistent distributed
+storage<00:05:59.680><c> like</c><00:05:59.880><c> hdfs</c><00:06:00.560><c> or</c><00:06:00.720><c> S3</c><00:06:01.600><c> and</c><00:06:01.720><c> I'll</c><00:06:01.880><c> talk</c>
+
+00:06:02.070 --> 00:06:02.080 align:start position:0%
+storage like hdfs or S3 and I'll talk
+ 
+
+00:06:02.080 --> 00:06:03.510 align:start position:0%
+storage like hdfs or S3 and I'll talk
+about<00:06:02.319><c> how</c><00:06:02.479><c> checkpointing</c><00:06:03.039><c> Works</c><00:06:03.280><c> in</c><00:06:03.400><c> a</c>
+
+00:06:03.510 --> 00:06:03.520 align:start position:0%
+about how checkpointing Works in a
+ 
+
+00:06:03.520 --> 00:06:04.870 align:start position:0%
+about how checkpointing Works in a
+little<00:06:03.680><c> bit</c><00:06:03.840><c> more</c><00:06:04.160><c> because</c><00:06:04.400><c> that's</c><00:06:04.600><c> kind</c><00:06:04.720><c> of</c>
+
+00:06:04.870 --> 00:06:04.880 align:start position:0%
+little bit more because that's kind of
+ 
+
+00:06:04.880 --> 00:06:06.390 align:start position:0%
+little bit more because that's kind of
+interesting<00:06:05.199><c> to</c><00:06:05.360><c> see</c><00:06:05.560><c> how</c><00:06:05.680><c> it</c>
+
+00:06:06.390 --> 00:06:06.400 align:start position:0%
+interesting to see how it
+ 
+
+00:06:06.400 --> 00:06:08.830 align:start position:0%
+interesting to see how it
+goes<00:06:07.400><c> so</c><00:06:07.720><c> just</c><00:06:07.880><c> before</c><00:06:08.080><c> I</c><00:06:08.199><c> do</c><00:06:08.400><c> talk</c><00:06:08.599><c> about</c>
+
+00:06:08.830 --> 00:06:08.840 align:start position:0%
+goes so just before I do talk about
+ 
+
+00:06:08.840 --> 00:06:10.390 align:start position:0%
+goes so just before I do talk about
+checkpointing<00:06:09.440><c> let's</c><00:06:09.720><c> actually</c><00:06:10.000><c> talk</c><00:06:10.199><c> about</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+checkpointing let's actually talk about
+ 
+
+00:06:10.400 --> 00:06:12.909 align:start position:0%
+checkpointing let's actually talk about
+the<00:06:10.599><c> architecture</c><00:06:11.120><c> of</c><00:06:11.240><c> Flink</c><00:06:12.240><c> so</c><00:06:12.440><c> typically</c>
+
+00:06:12.909 --> 00:06:12.919 align:start position:0%
+the architecture of Flink so typically
+ 
+
+00:06:12.919 --> 00:06:14.830 align:start position:0%
+the architecture of Flink so typically
+Flink<00:06:13.319><c> does</c><00:06:13.560><c> the</c><00:06:13.680><c> following</c><00:06:14.240><c> we</c><00:06:14.400><c> have</c><00:06:14.639><c> this</c>
+
+00:06:14.830 --> 00:06:14.840 align:start position:0%
+Flink does the following we have this
+ 
+
+00:06:14.840 --> 00:06:16.830 align:start position:0%
+Flink does the following we have this
+kind<00:06:15.000><c> of</c><00:06:15.160><c> single</c><00:06:15.639><c> job</c><00:06:15.919><c> manager</c><00:06:16.319><c> node</c><00:06:16.560><c> in</c><00:06:16.680><c> the</c>
+
+00:06:16.830 --> 00:06:16.840 align:start position:0%
+kind of single job manager node in the
+ 
+
+00:06:16.840 --> 00:06:18.670 align:start position:0%
+kind of single job manager node in the
+cluster<00:06:17.400><c> which</c><00:06:17.599><c> goes</c><00:06:17.840><c> ahead</c><00:06:18.080><c> and</c><00:06:18.280><c> takes</c><00:06:18.520><c> some</c>
+
+00:06:18.670 --> 00:06:18.680 align:start position:0%
+cluster which goes ahead and takes some
+ 
+
+00:06:18.680 --> 00:06:20.990 align:start position:0%
+cluster which goes ahead and takes some
+Flint<00:06:19.080><c> code</c><00:06:19.720><c> and</c><00:06:19.919><c> establishes</c><00:06:20.560><c> this</c><00:06:20.720><c> data</c>
+
+00:06:20.990 --> 00:06:21.000 align:start position:0%
+Flint code and establishes this data
+ 
+
+00:06:21.000 --> 00:06:22.589 align:start position:0%
+Flint code and establishes this data
+flow<00:06:21.280><c> graph</c><00:06:21.560><c> which</c><00:06:21.720><c> we</c><00:06:21.800><c> can</c><00:06:21.919><c> see</c><00:06:22.080><c> on</c><00:06:22.199><c> the</c><00:06:22.319><c> right</c>
+
+00:06:22.589 --> 00:06:22.599 align:start position:0%
+flow graph which we can see on the right
+ 
+
+00:06:22.599 --> 00:06:24.629 align:start position:0%
+flow graph which we can see on the right
+here<00:06:23.199><c> so</c><00:06:23.360><c> even</c><00:06:23.680><c> though</c><00:06:23.840><c> originally</c><00:06:24.240><c> the</c><00:06:24.360><c> data</c>
+
+00:06:24.629 --> 00:06:24.639 align:start position:0%
+here so even though originally the data
+ 
+
+00:06:24.639 --> 00:06:26.790 align:start position:0%
+here so even though originally the data
+flow<00:06:24.919><c> graph</c><00:06:25.160><c> is</c><00:06:25.400><c> basically</c><00:06:25.840><c> just</c><00:06:25.960><c> saying</c><00:06:26.639><c> take</c>
+
+00:06:26.790 --> 00:06:26.800 align:start position:0%
+flow graph is basically just saying take
+ 
+
+00:06:26.800 --> 00:06:29.230 align:start position:0%
+flow graph is basically just saying take
+some<00:06:27.039><c> messages</c><00:06:27.440><c> from</c><00:06:27.599><c> the</c><00:06:27.680><c> stream</c><00:06:28.599><c> go</c><00:06:28.800><c> ahead</c>
+
+00:06:29.230 --> 00:06:29.240 align:start position:0%
+some messages from the stream go ahead
+ 
+
+00:06:29.240 --> 00:06:31.950 align:start position:0%
+some messages from the stream go ahead
+and<00:06:29.919><c> do</c><00:06:30.160><c> something</c><00:06:30.440><c> called</c><00:06:30.720><c> keyby</c><00:06:31.360><c> so</c><00:06:31.599><c> you're</c>
+
+00:06:31.950 --> 00:06:31.960 align:start position:0%
+and do something called keyby so you're
+ 
+
+00:06:31.960 --> 00:06:34.309 align:start position:0%
+and do something called keyby so you're
+basically<00:06:32.560><c> telling</c><00:06:33.360><c> um</c><00:06:33.560><c> flank</c><00:06:33.960><c> how</c><00:06:34.039><c> to</c><00:06:34.199><c> go</c>
+
+00:06:34.309 --> 00:06:34.319 align:start position:0%
+basically telling um flank how to go
+ 
+
+00:06:34.319 --> 00:06:36.430 align:start position:0%
+basically telling um flank how to go
+ahead<00:06:34.520><c> and</c><00:06:34.639><c> partition</c><00:06:35.120><c> those</c><00:06:35.319><c> messages</c><00:06:36.319><c> and</c>
+
+00:06:36.430 --> 00:06:36.440 align:start position:0%
+ahead and partition those messages and
+ 
+
+00:06:36.440 --> 00:06:38.189 align:start position:0%
+ahead and partition those messages and
+then<00:06:36.800><c> after</c><00:06:37.039><c> that</c><00:06:37.199><c> send</c><00:06:37.440><c> them</c><00:06:37.639><c> to</c><00:06:37.759><c> a</c><00:06:37.840><c> sync</c>
+
+00:06:38.189 --> 00:06:38.199 align:start position:0%
+then after that send them to a sync
+ 
+
+00:06:38.199 --> 00:06:39.870 align:start position:0%
+then after that send them to a sync
+which<00:06:38.319><c> is</c><00:06:38.520><c> basically</c><00:06:39.039><c> you</c><00:06:39.160><c> know</c><00:06:39.400><c> maybe</c><00:06:39.639><c> let's</c>
+
+00:06:39.870 --> 00:06:39.880 align:start position:0%
+which is basically you know maybe let's
+ 
+
+00:06:39.880 --> 00:06:42.029 align:start position:0%
+which is basically you know maybe let's
+put<00:06:40.000><c> them</c><00:06:40.120><c> in</c><00:06:40.280><c> another</c><00:06:40.520><c> Stream</c><00:06:41.479><c> So</c><00:06:41.680><c> the</c><00:06:41.800><c> job</c>
+
+00:06:42.029 --> 00:06:42.039 align:start position:0%
+put them in another Stream So the job
+ 
+
+00:06:42.039 --> 00:06:43.710 align:start position:0%
+put them in another Stream So the job
+manager<00:06:42.440><c> would</c><00:06:42.599><c> go</c><00:06:42.759><c> ahead</c><00:06:42.960><c> and</c><00:06:43.080><c> see</c><00:06:43.360><c> something</c>
+
+00:06:43.710 --> 00:06:43.720 align:start position:0%
+manager would go ahead and see something
+ 
+
+00:06:43.720 --> 00:06:46.189 align:start position:0%
+manager would go ahead and see something
+like<00:06:43.919><c> this</c><00:06:44.080><c> and</c><00:06:44.240><c> say</c><00:06:44.639><c> okay</c><00:06:44.919><c> well</c><00:06:45.560><c> I</c><00:06:45.680><c> know</c><00:06:45.960><c> that</c>
+
+00:06:46.189 --> 00:06:46.199 align:start position:0%
+like this and say okay well I know that
+ 
+
+00:06:46.199 --> 00:06:48.110 align:start position:0%
+like this and say okay well I know that
+I<00:06:46.400><c> have</c><00:06:46.720><c> a</c><00:06:46.840><c> couple</c><00:06:47.080><c> of</c><00:06:47.280><c> partitions</c><00:06:47.759><c> of</c><00:06:47.960><c> that</c>
+
+00:06:48.110 --> 00:06:48.120 align:start position:0%
+I have a couple of partitions of that
+ 
+
+00:06:48.120 --> 00:06:49.990 align:start position:0%
+I have a couple of partitions of that
+incoming<00:06:48.520><c> stream</c><00:06:49.000><c> so</c><00:06:49.160><c> I</c><00:06:49.240><c> have</c><00:06:49.360><c> to</c><00:06:49.520><c> partition</c>
+
+00:06:49.990 --> 00:06:50.000 align:start position:0%
+incoming stream so I have to partition
+ 
+
+00:06:50.000 --> 00:06:52.710 align:start position:0%
+incoming stream so I have to partition
+those<00:06:50.160><c> to</c><00:06:50.319><c> a</c><00:06:50.400><c> couple</c><00:06:50.599><c> of</c><00:06:50.720><c> consumer</c><00:06:51.120><c> nodes</c><00:06:52.120><c> then</c>
+
+00:06:52.710 --> 00:06:52.720 align:start position:0%
+those to a couple of consumer nodes then
+ 
+
+00:06:52.720 --> 00:06:55.230 align:start position:0%
+those to a couple of consumer nodes then
+after<00:06:53.080><c> that</c><00:06:54.000><c> based</c><00:06:54.240><c> on</c><00:06:54.400><c> this</c><00:06:54.560><c> whole</c><00:06:54.759><c> Key</c><00:06:55.000><c> by</c>
+
+00:06:55.230 --> 00:06:55.240 align:start position:0%
+after that based on this whole Key by
+ 
+
+00:06:55.240 --> 00:06:57.430 align:start position:0%
+after that based on this whole Key by
+function<00:06:55.919><c> we</c><00:06:56.039><c> know</c><00:06:56.319><c> that</c><00:06:56.520><c> all</c><00:06:56.720><c> nodes</c><00:06:57.160><c> with</c><00:06:57.280><c> the</c>
+
+00:06:57.430 --> 00:06:57.440 align:start position:0%
+function we know that all nodes with the
+ 
+
+00:06:57.440 --> 00:06:58.990 align:start position:0%
+function we know that all nodes with the
+same<00:06:57.720><c> or</c><00:06:57.919><c> all</c><00:06:58.080><c> messages</c><00:06:58.560><c> rather</c><00:06:58.800><c> with</c><00:06:58.919><c> the</c>
+
+00:06:58.990 --> 00:06:59.000 align:start position:0%
+same or all messages rather with the
+ 
+
+00:06:59.000 --> 00:07:01.110 align:start position:0%
+same or all messages rather with the
+same<00:06:59.199><c> key</c><00:06:59.599><c> are</c><00:06:59.720><c> going</c><00:06:59.960><c> to</c><00:07:00.280><c> the</c><00:07:00.400><c> same</c><00:07:00.599><c> node</c><00:07:00.960><c> so</c>
+
+00:07:01.110 --> 00:07:01.120 align:start position:0%
+same key are going to the same node so
+ 
+
+00:07:01.120 --> 00:07:03.230 align:start position:0%
+same key are going to the same node so
+that<00:07:01.560><c> uh</c><00:07:01.759><c> you</c><00:07:01.879><c> know</c><00:07:02.560><c> that's</c><00:07:02.759><c> basically</c><00:07:03.120><c> just</c>
+
+00:07:03.230 --> 00:07:03.240 align:start position:0%
+that uh you know that's basically just
+ 
+
+00:07:03.240 --> 00:07:04.629 align:start position:0%
+that uh you know that's basically just
+how<00:07:03.479><c> partitioning</c><00:07:03.919><c> works</c><00:07:04.160><c> you</c><00:07:04.280><c> want</c><00:07:04.400><c> to</c><00:07:04.479><c> be</c>
+
+00:07:04.629 --> 00:07:04.639 align:start position:0%
+how partitioning works you want to be
+ 
+
+00:07:04.639 --> 00:07:06.830 align:start position:0%
+how partitioning works you want to be
+handling<00:07:05.039><c> the</c><00:07:05.199><c> same</c><00:07:05.440><c> messages</c><00:07:05.960><c> or</c><00:07:06.280><c> or</c><00:07:06.440><c> similar</c>
+
+00:07:06.830 --> 00:07:06.840 align:start position:0%
+handling the same messages or or similar
+ 
+
+00:07:06.840 --> 00:07:08.270 align:start position:0%
+handling the same messages or or similar
+messages<00:07:07.199><c> so</c><00:07:07.360><c> that</c><00:07:07.479><c> the</c><00:07:07.639><c> state</c><00:07:07.879><c> is</c><00:07:08.039><c> most</c>
+
+00:07:08.270 --> 00:07:08.280 align:start position:0%
+messages so that the state is most
+ 
+
+00:07:08.280 --> 00:07:10.670 align:start position:0%
+messages so that the state is most
+relevant<00:07:09.120><c> so</c><00:07:09.360><c> then</c><00:07:09.840><c> basically</c><00:07:10.240><c> the</c><00:07:10.360><c> single</c>
+
+00:07:10.670 --> 00:07:10.680 align:start position:0%
+relevant so then basically the single
+ 
+
+00:07:10.680 --> 00:07:13.150 align:start position:0%
+relevant so then basically the single
+job<00:07:10.919><c> manager</c><00:07:11.280><c> node</c><00:07:11.879><c> is</c><00:07:12.039><c> going</c><00:07:12.280><c> to</c><00:07:12.639><c> go</c><00:07:12.800><c> ahead</c>
+
+00:07:13.150 --> 00:07:13.160 align:start position:0%
+job manager node is going to go ahead
+ 
+
+00:07:13.160 --> 00:07:14.909 align:start position:0%
+job manager node is going to go ahead
+and<00:07:13.360><c> map</c><00:07:13.599><c> out</c><00:07:13.800><c> this</c><00:07:14.000><c> entire</c><00:07:14.319><c> data</c><00:07:14.599><c> flow</c>
+
+00:07:14.909 --> 00:07:14.919 align:start position:0%
+and map out this entire data flow
+ 
+
+00:07:14.919 --> 00:07:17.230 align:start position:0%
+and map out this entire data flow
+execution<00:07:15.800><c> so</c><00:07:15.919><c> that</c><00:07:16.039><c> it</c><00:07:16.160><c> can</c><00:07:16.280><c> be</c><00:07:16.479><c> parallelized</c>
+
+00:07:17.230 --> 00:07:17.240 align:start position:0%
+execution so that it can be parallelized
+ 
+
+00:07:17.240 --> 00:07:19.270 align:start position:0%
+execution so that it can be parallelized
+amongst<00:07:17.560><c> all</c><00:07:17.720><c> the</c><00:07:17.800><c> nodes</c><00:07:18.080><c> in</c><00:07:18.199><c> the</c><00:07:18.360><c> cluster</c><00:07:19.160><c> and</c>
+
+00:07:19.270 --> 00:07:19.280 align:start position:0%
+amongst all the nodes in the cluster and
+ 
+
+00:07:19.280 --> 00:07:21.430 align:start position:0%
+amongst all the nodes in the cluster and
+it'll<00:07:19.599><c> then</c><00:07:19.840><c> go</c><00:07:20.000><c> ahead</c><00:07:20.319><c> and</c><00:07:20.520><c> tell</c><00:07:20.960><c> each</c><00:07:21.199><c> node</c>
+
+00:07:21.430 --> 00:07:21.440 align:start position:0%
+it'll then go ahead and tell each node
+ 
+
+00:07:21.440 --> 00:07:24.070 align:start position:0%
+it'll then go ahead and tell each node
+in<00:07:21.560><c> the</c><00:07:21.720><c> cluster</c><00:07:22.199><c> known</c><00:07:22.520><c> as</c><00:07:22.680><c> a</c><00:07:22.919><c> task</c><00:07:23.240><c> node</c><00:07:23.960><c> what</c>
+
+00:07:24.070 --> 00:07:24.080 align:start position:0%
+in the cluster known as a task node what
+ 
+
+00:07:24.080 --> 00:07:26.950 align:start position:0%
+in the cluster known as a task node what
+to<00:07:24.319><c> do</c><00:07:25.319><c> um</c><00:07:25.720><c> in</c><00:07:25.879><c> addition</c><00:07:26.199><c> to</c><00:07:26.360><c> just</c><00:07:26.520><c> telling</c><00:07:26.800><c> the</c>
+
+00:07:26.950 --> 00:07:26.960 align:start position:0%
+to do um in addition to just telling the
+ 
+
+00:07:26.960 --> 00:07:29.510 align:start position:0%
+to do um in addition to just telling the
+task<00:07:27.199><c> nodes</c><00:07:27.560><c> what</c><00:07:27.639><c> to</c><00:07:27.800><c> do</c><00:07:28.080><c> though</c><00:07:28.759><c> the</c><00:07:29.039><c> single</c>
+
+00:07:29.510 --> 00:07:29.520 align:start position:0%
+task nodes what to do though the single
+ 
+
+00:07:29.520 --> 00:07:32.909 align:start position:0%
+task nodes what to do though the single
+job<00:07:29.720><c> manager</c><00:07:30.080><c> node</c><00:07:30.479><c> is</c><00:07:30.720><c> also</c><00:07:31.120><c> responsible</c><00:07:32.120><c> for</c>
+
+00:07:32.909 --> 00:07:32.919 align:start position:0%
+job manager node is also responsible for
+ 
+
+00:07:32.919 --> 00:07:34.150 align:start position:0%
+job manager node is also responsible for
+uh<00:07:33.039><c> you</c><00:07:33.120><c> know</c><00:07:33.280><c> sending</c><00:07:33.639><c> and</c><00:07:33.960><c> receiving</c>
+
+00:07:34.150 --> 00:07:34.160 align:start position:0%
+uh you know sending and receiving
+ 
+
+00:07:34.160 --> 00:07:36.749 align:start position:0%
+uh you know sending and receiving
+heartbeats<00:07:34.800><c> from</c><00:07:35.120><c> those</c><00:07:35.360><c> task</c><00:07:35.639><c> manager</c><00:07:36.000><c> nodes</c>
+
+00:07:36.749 --> 00:07:36.759 align:start position:0%
+heartbeats from those task manager nodes
+ 
+
+00:07:36.759 --> 00:07:39.390 align:start position:0%
+heartbeats from those task manager nodes
+and<00:07:37.039><c> also</c><00:07:37.479><c> sending</c><00:07:37.960><c> and</c><00:07:38.400><c> receiving</c><00:07:39.080><c> um</c>
+
+00:07:39.390 --> 00:07:39.400 align:start position:0%
+and also sending and receiving um
+ 
+
+00:07:39.400 --> 00:07:41.550 align:start position:0%
+and also sending and receiving um
+checkpoint<00:07:39.960><c> data</c><00:07:40.479><c> to</c><00:07:40.800><c> all</c><00:07:40.960><c> of</c><00:07:41.120><c> these</c><00:07:41.319><c> task</c>
+
+00:07:41.550 --> 00:07:41.560 align:start position:0%
+checkpoint data to all of these task
+ 
+
+00:07:41.560 --> 00:07:43.710 align:start position:0%
+checkpoint data to all of these task
+manager<00:07:41.919><c> nodes</c><00:07:42.440><c> and</c><00:07:42.599><c> storing</c><00:07:42.960><c> the</c><00:07:43.080><c> metadata</c>
+
+00:07:43.710 --> 00:07:43.720 align:start position:0%
+manager nodes and storing the metadata
+ 
+
+00:07:43.720 --> 00:07:45.070 align:start position:0%
+manager nodes and storing the metadata
+regarding<00:07:44.199><c> you</c><00:07:44.319><c> know</c><00:07:44.479><c> which</c><00:07:44.639><c> is</c><00:07:44.759><c> the</c><00:07:44.879><c> most</c>
+
+00:07:45.070 --> 00:07:45.080 align:start position:0%
+regarding you know which is the most
+ 
+
+00:07:45.080 --> 00:07:47.110 align:start position:0%
+regarding you know which is the most
+recent<00:07:45.479><c> checkpoint</c><00:07:46.240><c> where</c><00:07:46.400><c> can</c><00:07:46.560><c> we</c><00:07:46.720><c> find</c><00:07:46.960><c> it</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+recent checkpoint where can we find it
+ 
+
+00:07:47.120 --> 00:07:49.469 align:start position:0%
+recent checkpoint where can we find it
+in<00:07:47.240><c> our</c><00:07:47.440><c> distributed</c><00:07:48.080><c> storage</c><00:07:49.080><c> um</c><00:07:49.240><c> now</c><00:07:49.400><c> you</c>
+
+00:07:49.469 --> 00:07:49.479 align:start position:0%
+in our distributed storage um now you
+ 
+
+00:07:49.479 --> 00:07:50.749 align:start position:0%
+in our distributed storage um now you
+might<00:07:49.680><c> say</c><00:07:49.800><c> to</c><00:07:49.919><c> yourself</c><00:07:50.400><c> okay</c><00:07:50.599><c> well</c>
+
+00:07:50.749 --> 00:07:50.759 align:start position:0%
+might say to yourself okay well
+ 
+
+00:07:50.759 --> 00:07:52.710 align:start position:0%
+might say to yourself okay well
+obviously<00:07:51.120><c> the</c><00:07:51.199><c> single</c><00:07:51.520><c> job</c><00:07:51.759><c> manager</c><00:07:52.120><c> node</c><00:07:52.560><c> is</c>
+
+00:07:52.710 --> 00:07:52.720 align:start position:0%
+obviously the single job manager node is
+ 
+
+00:07:52.720 --> 00:07:54.950 align:start position:0%
+obviously the single job manager node is
+going<00:07:52.919><c> to</c><00:07:53.080><c> be</c><00:07:53.319><c> a</c><00:07:53.520><c> single</c><00:07:53.800><c> source</c><00:07:54.039><c> of</c><00:07:54.199><c> failure</c>
+
+00:07:54.950 --> 00:07:54.960 align:start position:0%
+going to be a single source of failure
+ 
+
+00:07:54.960 --> 00:07:56.710 align:start position:0%
+going to be a single source of failure
+and<00:07:55.080><c> you</c><00:07:55.159><c> would</c><00:07:55.319><c> be</c><00:07:55.479><c> correct</c><00:07:56.240><c> so</c><00:07:56.440><c> there's</c>
+
+00:07:56.710 --> 00:07:56.720 align:start position:0%
+and you would be correct so there's
+ 
+
+00:07:56.720 --> 00:07:58.550 align:start position:0%
+and you would be correct so there's
+something<00:07:57.120><c> similar</c><00:07:57.520><c> to</c><00:07:57.840><c> Hadoop</c><00:07:58.319><c> if</c><00:07:58.400><c> you</c>
+
+00:07:58.550 --> 00:07:58.560 align:start position:0%
+something similar to Hadoop if you
+ 
+
+00:07:58.560 --> 00:08:00.589 align:start position:0%
+something similar to Hadoop if you
+remember<00:07:58.960><c> this</c><00:07:59.680><c> uh</c><00:07:59.840><c> called</c><00:08:00.120><c> high</c>
+
+00:08:00.589 --> 00:08:00.599 align:start position:0%
+remember this uh called high
+ 
+
+00:08:00.599 --> 00:08:02.390 align:start position:0%
+remember this uh called high
+availability<00:08:01.159><c> mode</c><00:08:01.440><c> where</c><00:08:01.639><c> basically</c><00:08:02.120><c> any</c>
+
+00:08:02.390 --> 00:08:02.400 align:start position:0%
+availability mode where basically any
+ 
+
+00:08:02.400 --> 00:08:03.869 align:start position:0%
+availability mode where basically any
+configuration<00:08:03.080><c> that</c><00:08:03.240><c> the</c><00:08:03.319><c> single</c><00:08:03.639><c> job</c>
+
+00:08:03.869 --> 00:08:03.879 align:start position:0%
+configuration that the single job
+ 
+
+00:08:03.879 --> 00:08:05.670 align:start position:0%
+configuration that the single job
+manager<00:08:04.240><c> node</c><00:08:04.520><c> would</c><00:08:04.639><c> have</c><00:08:04.759><c> been</c><00:08:04.879><c> storing</c>
+
+00:08:05.670 --> 00:08:05.680 align:start position:0%
+manager node would have been storing
+ 
+
+00:08:05.680 --> 00:08:07.670 align:start position:0%
+manager node would have been storing
+just<00:08:05.840><c> goes</c><00:08:06.120><c> instead</c><00:08:06.599><c> to</c><00:08:06.960><c> an</c><00:08:07.159><c> external</c>
+
+00:08:07.670 --> 00:08:07.680 align:start position:0%
+just goes instead to an external
+ 
+
+00:08:07.680 --> 00:08:09.110 align:start position:0%
+just goes instead to an external
+coordination<00:08:08.280><c> service</c><00:08:08.720><c> something</c><00:08:08.960><c> like</c>
+
+00:08:09.110 --> 00:08:09.120 align:start position:0%
+coordination service something like
+ 
+
+00:08:09.120 --> 00:08:12.670 align:start position:0%
+coordination service something like
+zookeeper<00:08:10.120><c> or</c><00:08:10.680><c> etcd</c><00:08:11.680><c> and</c><00:08:11.840><c> then</c><00:08:12.280><c> you</c><00:08:12.400><c> know</c>
+
+00:08:12.670 --> 00:08:12.680 align:start position:0%
+zookeeper or etcd and then you know
+ 
+
+00:08:12.680 --> 00:08:14.469 align:start position:0%
+zookeeper or etcd and then you know
+because<00:08:12.960><c> that</c><00:08:13.080><c> uses</c><00:08:13.440><c> consensus</c><00:08:14.000><c> we</c><00:08:14.120><c> know</c><00:08:14.319><c> that</c>
+
+00:08:14.469 --> 00:08:14.479 align:start position:0%
+because that uses consensus we know that
+ 
+
+00:08:14.479 --> 00:08:16.189 align:start position:0%
+because that uses consensus we know that
+it's<00:08:14.680><c> reliable</c><00:08:15.479><c> and</c><00:08:15.599><c> then</c><00:08:15.720><c> we</c><00:08:15.800><c> can</c><00:08:15.960><c> always</c>
+
+00:08:16.189 --> 00:08:16.199 align:start position:0%
+it's reliable and then we can always
+ 
+
+00:08:16.199 --> 00:08:18.390 align:start position:0%
+it's reliable and then we can always
+have<00:08:16.360><c> a</c><00:08:16.560><c> backup</c><00:08:16.960><c> or</c><00:08:17.080><c> a</c><00:08:17.240><c> standby</c><00:08:17.800><c> job</c><00:08:18.039><c> manager</c>
+
+00:08:18.390 --> 00:08:18.400 align:start position:0%
+have a backup or a standby job manager
+ 
+
+00:08:18.400 --> 00:08:20.390 align:start position:0%
+have a backup or a standby job manager
+node<00:08:19.000><c> that</c><00:08:19.159><c> in</c><00:08:19.280><c> the</c><00:08:19.440><c> event</c><00:08:19.720><c> the</c><00:08:19.840><c> single</c><00:08:20.159><c> job</c>
+
+00:08:20.390 --> 00:08:20.400 align:start position:0%
+node that in the event the single job
+ 
+
+00:08:20.400 --> 00:08:22.230 align:start position:0%
+node that in the event the single job
+manager<00:08:20.720><c> node</c><00:08:21.000><c> goes</c><00:08:21.240><c> down</c><00:08:21.599><c> the</c><00:08:21.720><c> backup</c><00:08:22.080><c> just</c>
+
+00:08:22.230 --> 00:08:22.240 align:start position:0%
+manager node goes down the backup just
+ 
+
+00:08:22.240 --> 00:08:24.230 align:start position:0%
+manager node goes down the backup just
+goes<00:08:22.440><c> ahead</c><00:08:22.639><c> and</c><00:08:22.759><c> reads</c><00:08:23.000><c> from</c><00:08:23.159><c> zookeeper</c><00:08:24.080><c> and</c>
+
+00:08:24.230 --> 00:08:24.240 align:start position:0%
+goes ahead and reads from zookeeper and
+ 
+
+00:08:24.240 --> 00:08:26.469 align:start position:0%
+goes ahead and reads from zookeeper and
+then<00:08:24.400><c> takes</c><00:08:24.639><c> over</c><00:08:24.960><c> its</c>
+
+00:08:26.469 --> 00:08:26.479 align:start position:0%
+then takes over its
+ 
+
+00:08:26.479 --> 00:08:29.029 align:start position:0%
+then takes over its
+functionality<00:08:27.479><c> okay</c><00:08:27.639><c> so</c><00:08:27.919><c> just</c><00:08:28.080><c> as</c><00:08:28.240><c> a</c><00:08:28.560><c> quick</c>
+
+00:08:29.029 --> 00:08:29.039 align:start position:0%
+functionality okay so just as a quick
+ 
+
+00:08:29.039 --> 00:08:31.469 align:start position:0%
+functionality okay so just as a quick
+kind<00:08:29.159><c> of</c><00:08:29.520><c> recall</c><00:08:29.919><c> slide</c><00:08:30.840><c> uh</c><00:08:30.960><c> let's</c><00:08:31.159><c> remember</c>
+
+00:08:31.469 --> 00:08:31.479 align:start position:0%
+kind of recall slide uh let's remember
+ 
+
+00:08:31.479 --> 00:08:33.190 align:start position:0%
+kind of recall slide uh let's remember
+log<00:08:31.759><c> based</c><00:08:32.080><c> message</c><00:08:32.360><c> Brokers</c><00:08:32.839><c> because</c><00:08:33.120><c> this</c>
+
+00:08:33.190 --> 00:08:33.200 align:start position:0%
+log based message Brokers because this
+ 
+
+00:08:33.200 --> 00:08:35.589 align:start position:0%
+log based message Brokers because this
+is<00:08:33.360><c> more</c><00:08:33.519><c> or</c><00:08:33.719><c> less</c><00:08:34.479><c> um</c><00:08:34.640><c> what</c><00:08:34.760><c> flank</c><00:08:35.200><c> is</c><00:08:35.479><c> you</c>
+
+00:08:35.589 --> 00:08:35.599 align:start position:0%
+is more or less um what flank is you
+ 
+
+00:08:35.599 --> 00:08:37.589 align:start position:0%
+is more or less um what flank is you
+know<00:08:35.880><c> very</c><00:08:36.240><c> kind</c><00:08:36.440><c> of</c><00:08:36.680><c> biased</c><00:08:37.200><c> that</c><00:08:37.320><c> you</c><00:08:37.479><c> should</c>
+
+00:08:37.589 --> 00:08:37.599 align:start position:0%
+know very kind of biased that you should
+ 
+
+00:08:37.599 --> 00:08:39.269 align:start position:0%
+know very kind of biased that you should
+be<00:08:37.719><c> pulling</c><00:08:38.000><c> your</c><00:08:38.159><c> messages</c><00:08:38.560><c> from</c><00:08:38.839><c> as</c><00:08:38.959><c> opposed</c>
+
+00:08:39.269 --> 00:08:39.279 align:start position:0%
+be pulling your messages from as opposed
+ 
+
+00:08:39.279 --> 00:08:41.550 align:start position:0%
+be pulling your messages from as opposed
+to<00:08:39.479><c> an</c><00:08:39.640><c> in-memory</c><00:08:40.240><c> non-persistent</c><00:08:40.959><c> one</c><00:08:41.479><c> and</c>
+
+00:08:41.550 --> 00:08:41.560 align:start position:0%
+to an in-memory non-persistent one and
+ 
+
+00:08:41.560 --> 00:08:44.310 align:start position:0%
+to an in-memory non-persistent one and
+we'll<00:08:41.719><c> see</c><00:08:41.959><c> why</c><00:08:42.120><c> in</c><00:08:42.200><c> a</c><00:08:42.360><c> second</c><00:08:43.279><c> but</c><00:08:43.440><c> just</c><00:08:43.599><c> as</c><00:08:43.719><c> a</c>
+
+00:08:44.310 --> 00:08:44.320 align:start position:0%
+we'll see why in a second but just as a
+ 
+
+00:08:44.320 --> 00:08:46.710 align:start position:0%
+we'll see why in a second but just as a
+um<00:08:44.519><c> you</c><00:08:44.600><c> know</c><00:08:44.880><c> to</c><00:08:45.160><c> remind</c><00:08:45.560><c> you</c><00:08:45.760><c> guys</c><00:08:46.160><c> log</c><00:08:46.440><c> based</c>
+
+00:08:46.710 --> 00:08:46.720 align:start position:0%
+um you know to remind you guys log based
+ 
+
+00:08:46.720 --> 00:08:48.710 align:start position:0%
+um you know to remind you guys log based
+message<00:08:47.000><c> Brokers</c><00:08:47.519><c> are</c><00:08:47.760><c> just</c><00:08:47.959><c> any</c><00:08:48.240><c> type</c><00:08:48.519><c> of</c>
+
+00:08:48.710 --> 00:08:48.720 align:start position:0%
+message Brokers are just any type of
+ 
+
+00:08:48.720 --> 00:08:51.030 align:start position:0%
+message Brokers are just any type of
+distributed<00:08:49.240><c> message</c><00:08:49.560><c> CU</c><00:08:50.080><c> that</c><00:08:50.560><c> um</c><00:08:50.720><c> are</c><00:08:50.880><c> going</c>
+
+00:08:51.030 --> 00:08:51.040 align:start position:0%
+distributed message CU that um are going
+ 
+
+00:08:51.040 --> 00:08:53.470 align:start position:0%
+distributed message CU that um are going
+to<00:08:51.120><c> be</c><00:08:51.240><c> partitioned</c><00:08:51.720><c> over</c><00:08:51.880><c> many</c><00:08:52.120><c> nodes</c><00:08:53.000><c> and</c><00:08:53.200><c> we</c>
+
+00:08:53.470 --> 00:08:53.480 align:start position:0%
+to be partitioned over many nodes and we
+ 
+
+00:08:53.480 --> 00:08:55.550 align:start position:0%
+to be partitioned over many nodes and we
+have<00:08:53.800><c> them</c><00:08:54.040><c> on</c><00:08:54.279><c> dis</c><00:08:54.839><c> which</c><00:08:54.959><c> means</c><00:08:55.360><c> that</c>
+
+00:08:55.550 --> 00:08:55.560 align:start position:0%
+have them on dis which means that
+ 
+
+00:08:55.560 --> 00:08:57.190 align:start position:0%
+have them on dis which means that
+messages<00:08:55.959><c> can</c><00:08:56.080><c> be</c><00:08:56.240><c> replayed</c><00:08:56.760><c> they're</c><00:08:56.959><c> not</c>
+
+00:08:57.190 --> 00:08:57.200 align:start position:0%
+messages can be replayed they're not
+ 
+
+00:08:57.200 --> 00:08:58.630 align:start position:0%
+messages can be replayed they're not
+instantly<00:08:57.560><c> going</c><00:08:57.680><c> to</c><00:08:57.760><c> be</c><00:08:57.880><c> deleted</c><00:08:58.279><c> unless</c><00:08:58.519><c> we</c>
+
+00:08:58.630 --> 00:08:58.640 align:start position:0%
+instantly going to be deleted unless we
+ 
+
+00:08:58.640 --> 00:09:00.470 align:start position:0%
+instantly going to be deleted unless we
+need<00:08:58.800><c> to</c><00:08:59.000><c> compact</c><00:08:59.480><c> the</c><00:08:59.560><c> queue</c><00:08:59.760><c> to</c><00:08:59.880><c> save</c><00:09:00.200><c> space</c>
+
+00:09:00.470 --> 00:09:00.480 align:start position:0%
+need to compact the queue to save space
+ 
+
+00:09:00.480 --> 00:09:02.310 align:start position:0%
+need to compact the queue to save space
+at<00:09:00.640><c> some</c><00:09:00.800><c> point</c><00:09:01.000><c> down</c><00:09:01.200><c> the</c><00:09:01.360><c> line</c><00:09:02.160><c> and</c>
+
+00:09:02.310 --> 00:09:02.320 align:start position:0%
+at some point down the line and
+ 
+
+00:09:02.320 --> 00:09:03.829 align:start position:0%
+at some point down the line and
+basically<00:09:02.720><c> what</c><00:09:02.839><c> they</c><00:09:03.000><c> do</c><00:09:03.200><c> is</c><00:09:03.399><c> because</c><00:09:03.680><c> these</c>
+
+00:09:03.829 --> 00:09:03.839 align:start position:0%
+basically what they do is because these
+ 
+
+00:09:03.839 --> 00:09:06.509 align:start position:0%
+basically what they do is because these
+messages<00:09:04.240><c> are</c><00:09:04.760><c> persistent</c><00:09:05.760><c> they</c><00:09:06.000><c> will</c>
+
+00:09:06.509 --> 00:09:06.519 align:start position:0%
+messages are persistent they will
+ 
+
+00:09:06.519 --> 00:09:08.590 align:start position:0%
+messages are persistent they will
+actually<00:09:06.920><c> have</c><00:09:07.240><c> one</c><00:09:07.560><c> consumer</c><00:09:08.040><c> reading</c><00:09:08.399><c> from</c>
+
+00:09:08.590 --> 00:09:08.600 align:start position:0%
+actually have one consumer reading from
+ 
+
+00:09:08.600 --> 00:09:11.310 align:start position:0%
+actually have one consumer reading from
+each<00:09:08.920><c> partition</c><00:09:09.920><c> and</c><00:09:10.440><c> they</c><00:09:10.560><c> will</c><00:09:10.839><c> keep</c><00:09:11.040><c> track</c>
+
+00:09:11.310 --> 00:09:11.320 align:start position:0%
+each partition and they will keep track
+ 
+
+00:09:11.320 --> 00:09:13.710 align:start position:0%
+each partition and they will keep track
+of<00:09:11.440><c> the</c><00:09:11.640><c> offset</c><00:09:12.480><c> that</c><00:09:12.680><c> the</c><00:09:12.839><c> consumer</c><00:09:13.279><c> has</c><00:09:13.480><c> last</c>
+
+00:09:13.710 --> 00:09:13.720 align:start position:0%
+of the offset that the consumer has last
+ 
+
+00:09:13.720 --> 00:09:15.630 align:start position:0%
+of the offset that the consumer has last
+read<00:09:14.360><c> and</c><00:09:14.519><c> this</c><00:09:14.640><c> way</c><00:09:14.800><c> we</c><00:09:14.920><c> can</c><00:09:15.040><c> ensure</c><00:09:15.480><c> that</c>
+
+00:09:15.630 --> 00:09:15.640 align:start position:0%
+read and this way we can ensure that
+ 
+
+00:09:15.640 --> 00:09:17.509 align:start position:0%
+read and this way we can ensure that
+every<00:09:15.839><c> message</c><00:09:16.399><c> is</c><00:09:16.519><c> going</c><00:09:16.720><c> to</c><00:09:16.839><c> be</c><00:09:17.040><c> processed</c>
+
+00:09:17.509 --> 00:09:17.519 align:start position:0%
+every message is going to be processed
+ 
+
+00:09:17.519 --> 00:09:19.750 align:start position:0%
+every message is going to be processed
+at<00:09:17.640><c> least</c><00:09:17.880><c> once</c><00:09:18.720><c> because</c><00:09:19.320><c> you</c><00:09:19.399><c> know</c><00:09:19.519><c> if</c><00:09:19.640><c> a</c>
+
+00:09:19.750 --> 00:09:19.760 align:start position:0%
+at least once because you know if a
+ 
+
+00:09:19.760 --> 00:09:21.750 align:start position:0%
+at least once because you know if a
+consumer<00:09:20.079><c> were</c><00:09:20.240><c> to</c><00:09:20.399><c> go</c><00:09:20.600><c> down</c><00:09:20.959><c> we</c><00:09:21.040><c> can</c><00:09:21.200><c> say</c><00:09:21.480><c> oh</c>
+
+00:09:21.750 --> 00:09:21.760 align:start position:0%
+consumer were to go down we can say oh
+ 
+
+00:09:21.760 --> 00:09:24.190 align:start position:0%
+consumer were to go down we can say oh
+well<00:09:22.040><c> you</c><00:09:22.120><c> know</c><00:09:22.360><c> I</c><00:09:22.480><c> see</c><00:09:22.880><c> that</c><00:09:23.000><c> was</c><00:09:23.120><c> it</c><00:09:23.399><c> offset</c><00:09:23.760><c> 4</c>
+
+00:09:24.190 --> 00:09:24.200 align:start position:0%
+well you know I see that was it offset 4
+ 
+
+00:09:24.200 --> 00:09:26.030 align:start position:0%
+well you know I see that was it offset 4
+so<00:09:24.560><c> if</c><00:09:24.720><c> we</c><00:09:24.839><c> have</c><00:09:25.000><c> another</c><00:09:25.279><c> node</c><00:09:25.560><c> coming</c><00:09:25.880><c> back</c>
+
+00:09:26.030 --> 00:09:26.040 align:start position:0%
+so if we have another node coming back
+ 
+
+00:09:26.040 --> 00:09:27.470 align:start position:0%
+so if we have another node coming back
+to<00:09:26.200><c> eventually</c><00:09:26.519><c> read</c><00:09:26.760><c> from</c><00:09:26.959><c> this</c><00:09:27.120><c> partition</c>
+
+00:09:27.470 --> 00:09:27.480 align:start position:0%
+to eventually read from this partition
+ 
+
+00:09:27.480 --> 00:09:29.389 align:start position:0%
+to eventually read from this partition
+of<00:09:27.600><c> the</c><00:09:27.760><c> queue</c><00:09:28.399><c> we</c><00:09:28.519><c> should</c><00:09:28.680><c> start</c><00:09:28.920><c> from</c><00:09:29.079><c> off</c>
+
+00:09:29.389 --> 00:09:29.399 align:start position:0%
+of the queue we should start from off
+ 
+
+00:09:29.399 --> 00:09:31.590 align:start position:0%
+of the queue we should start from off
+set<00:09:29.600><c> 4</c><00:09:29.920><c> and</c><00:09:30.160><c> process</c><00:09:30.519><c> all</c><00:09:30.720><c> messages</c><00:09:31.279><c> after</c>
+
+00:09:31.590 --> 00:09:31.600 align:start position:0%
+set 4 and process all messages after
+ 
+
+00:09:31.600 --> 00:09:34.310 align:start position:0%
+set 4 and process all messages after
+that<00:09:32.440><c> so</c><00:09:32.640><c> keep</c><00:09:32.800><c> in</c><00:09:32.959><c> mind</c><00:09:33.519><c> um</c><00:09:33.800><c> this</c><00:09:34.000><c> you</c><00:09:34.120><c> know</c>
+
+00:09:34.310 --> 00:09:34.320 align:start position:0%
+that so keep in mind um this you know
+ 
+
+00:09:34.320 --> 00:09:36.509 align:start position:0%
+that so keep in mind um this you know
+something<00:09:34.680><c> like</c><00:09:34.880><c> this</c><00:09:35.120><c> is</c><00:09:35.480><c> like</c><00:09:35.720><c> Kafka</c><00:09:36.360><c> which</c>
+
+00:09:36.509 --> 00:09:36.519 align:start position:0%
+something like this is like Kafka which
+ 
+
+00:09:36.519 --> 00:09:39.910 align:start position:0%
+something like this is like Kafka which
+is<00:09:36.880><c> um</c><00:09:37.560><c> another</c><00:09:37.839><c> Apache</c><00:09:38.360><c> project</c><00:09:38.839><c> where</c><00:09:39.680><c> um</c>
+
+00:09:39.910 --> 00:09:39.920 align:start position:0%
+is um another Apache project where um
+ 
+
+00:09:39.920 --> 00:09:41.990 align:start position:0%
+is um another Apache project where um
+it's<00:09:40.360><c> another</c><00:09:40.680><c> log</c><00:09:40.959><c> based</c><00:09:41.200><c> message</c><00:09:41.480><c> broker</c>
+
+00:09:41.990 --> 00:09:42.000 align:start position:0%
+it's another log based message broker
+ 
+
+00:09:42.000 --> 00:09:44.230 align:start position:0%
+it's another log based message broker
+and<00:09:42.240><c> that's</c><00:09:42.440><c> kind</c><00:09:42.560><c> of</c><00:09:42.760><c> what</c><00:09:42.880><c> Flink</c><00:09:43.839><c> generally</c>
+
+00:09:44.230 --> 00:09:44.240 align:start position:0%
+and that's kind of what Flink generally
+ 
+
+00:09:44.240 --> 00:09:45.710 align:start position:0%
+and that's kind of what Flink generally
+wants<00:09:44.480><c> you</c><00:09:44.560><c> to</c><00:09:44.720><c> use</c><00:09:44.959><c> you</c><00:09:45.079><c> have</c><00:09:45.240><c> a</c><00:09:45.360><c> bunch</c><00:09:45.560><c> of</c>
+
+00:09:45.710 --> 00:09:45.720 align:start position:0%
+wants you to use you have a bunch of
+ 
+
+00:09:45.720 --> 00:09:48.350 align:start position:0%
+wants you to use you have a bunch of
+ingestion<00:09:46.440><c> options</c><00:09:46.959><c> but</c><00:09:47.640><c> uh</c><00:09:47.760><c> it</c><00:09:47.880><c> works</c><00:09:48.200><c> very</c>
+
+00:09:48.350 --> 00:09:48.360 align:start position:0%
+ingestion options but uh it works very
+ 
+
+00:09:48.360 --> 00:09:50.190 align:start position:0%
+ingestion options but uh it works very
+well<00:09:48.519><c> with</c><00:09:48.720><c> Kafka</c><00:09:49.120><c> and</c><00:09:49.200><c> we'll</c><00:09:49.320><c> see</c>
+
+00:09:50.190 --> 00:09:50.200 align:start position:0%
+well with Kafka and we'll see
+ 
+
+00:09:50.200 --> 00:09:52.710 align:start position:0%
+well with Kafka and we'll see
+why<00:09:51.200><c> okay</c><00:09:51.360><c> so</c><00:09:51.560><c> this</c><00:09:51.720><c> kind</c><00:09:51.839><c> of</c><00:09:52.000><c> all</c><00:09:52.200><c> ties</c><00:09:52.480><c> in</c>
+
+00:09:52.710 --> 00:09:52.720 align:start position:0%
+why okay so this kind of all ties in
+ 
+
+00:09:52.720 --> 00:09:55.710 align:start position:0%
+why okay so this kind of all ties in
+back<00:09:52.880><c> to</c><00:09:53.320><c> checkpointing</c><00:09:54.320><c> so</c><00:09:54.880><c> just</c><00:09:55.000><c> to</c><00:09:55.360><c> remind</c>
+
+00:09:55.710 --> 00:09:55.720 align:start position:0%
+back to checkpointing so just to remind
+ 
+
+00:09:55.720 --> 00:09:58.069 align:start position:0%
+back to checkpointing so just to remind
+you<00:09:56.000><c> checkpointing</c><00:09:56.800><c> is</c><00:09:57.040><c> basically</c><00:09:57.600><c> where</c><00:09:57.880><c> we</c>
+
+00:09:58.069 --> 00:09:58.079 align:start position:0%
+you checkpointing is basically where we
+ 
+
+00:09:58.079 --> 00:10:00.470 align:start position:0%
+you checkpointing is basically where we
+are<00:09:58.680><c> going</c><00:09:58.959><c> ahead</c><00:09:59.560><c> Gathering</c><00:09:59.959><c> the</c><00:10:00.120><c> local</c>
+
+00:10:00.470 --> 00:10:00.480 align:start position:0%
+are going ahead Gathering the local
+ 
+
+00:10:00.480 --> 00:10:02.430 align:start position:0%
+are going ahead Gathering the local
+state<00:10:00.920><c> amongst</c><00:10:01.320><c> every</c><00:10:01.560><c> single</c><00:10:01.839><c> node</c><00:10:02.079><c> in</c><00:10:02.200><c> the</c>
+
+00:10:02.430 --> 00:10:02.440 align:start position:0%
+state amongst every single node in the
+ 
+
+00:10:02.440 --> 00:10:04.590 align:start position:0%
+state amongst every single node in the
+cluster<00:10:03.440><c> and</c><00:10:03.560><c> we're</c><00:10:03.720><c> going</c><00:10:03.800><c> to</c><00:10:03.959><c> go</c><00:10:04.120><c> ahead</c><00:10:04.440><c> and</c>
+
+00:10:04.590 --> 00:10:04.600 align:start position:0%
+cluster and we're going to go ahead and
+ 
+
+00:10:04.600 --> 00:10:06.509 align:start position:0%
+cluster and we're going to go ahead and
+store<00:10:04.959><c> that</c><00:10:05.120><c> to</c><00:10:05.279><c> some</c><00:10:05.480><c> sort</c><00:10:05.800><c> of</c><00:10:06.000><c> distributed</c>
+
+00:10:06.509 --> 00:10:06.519 align:start position:0%
+store that to some sort of distributed
+ 
+
+00:10:06.519 --> 00:10:08.870 align:start position:0%
+store that to some sort of distributed
+file<00:10:06.880><c> system</c><00:10:07.440><c> or</c><00:10:07.720><c> maybe</c><00:10:07.959><c> an</c><00:10:08.200><c> object</c><00:10:08.480><c> store</c>
+
+00:10:08.870 --> 00:10:08.880 align:start position:0%
+file system or maybe an object store
+ 
+
+00:10:08.880 --> 00:10:11.870 align:start position:0%
+file system or maybe an object store
+like<00:10:09.480><c> S3</c><00:10:10.480><c> so</c><00:10:10.680><c> basically</c><00:10:11.120><c> here's</c><00:10:11.360><c> what</c><00:10:11.519><c> happens</c>
+
+00:10:11.870 --> 00:10:11.880 align:start position:0%
+like S3 so basically here's what happens
+ 
+
+00:10:11.880 --> 00:10:14.150 align:start position:0%
+like S3 so basically here's what happens
+the<00:10:12.000><c> job</c><00:10:12.240><c> manager</c><00:10:12.800><c> does</c><00:10:13.040><c> the</c><00:10:13.200><c> following</c><00:10:13.959><c> every</c>
+
+00:10:14.150 --> 00:10:14.160 align:start position:0%
+the job manager does the following every
+ 
+
+00:10:14.160 --> 00:10:15.910 align:start position:0%
+the job manager does the following every
+once<00:10:14.320><c> in</c><00:10:14.440><c> a</c><00:10:14.600><c> while</c><00:10:14.880><c> it</c><00:10:14.959><c> will</c><00:10:15.120><c> send</c><00:10:15.480><c> something</c>
+
+00:10:15.910 --> 00:10:15.920 align:start position:0%
+once in a while it will send something
+ 
+
+00:10:15.920 --> 00:10:18.030 align:start position:0%
+once in a while it will send something
+known<00:10:16.200><c> as</c><00:10:16.320><c> a</c><00:10:16.519><c> checkpoint</c><00:10:17.040><c> barrier</c><00:10:17.560><c> to</c><00:10:17.800><c> all</c><00:10:17.959><c> the</c>
+
+00:10:18.030 --> 00:10:18.040 align:start position:0%
+known as a checkpoint barrier to all the
+ 
+
+00:10:18.040 --> 00:10:20.030 align:start position:0%
+known as a checkpoint barrier to all the
+nodes<00:10:18.320><c> in</c><00:10:18.440><c> the</c><00:10:18.560><c> cluster</c><00:10:19.360><c> and</c><00:10:19.480><c> the</c><00:10:19.600><c> checkpoint</c>
+
+00:10:20.030 --> 00:10:20.040 align:start position:0%
+nodes in the cluster and the checkpoint
+ 
+
+00:10:20.040 --> 00:10:21.670 align:start position:0%
+nodes in the cluster and the checkpoint
+barrier<00:10:20.480><c> is</c><00:10:20.680><c> basically</c><00:10:21.079><c> going</c><00:10:21.279><c> to</c><00:10:21.440><c> be</c>
+
+00:10:21.670 --> 00:10:21.680 align:start position:0%
+barrier is basically going to be
+ 
+
+00:10:21.680 --> 00:10:23.190 align:start position:0%
+barrier is basically going to be
+processed<00:10:22.160><c> in</c><00:10:22.320><c> the</c><00:10:22.440><c> same</c><00:10:22.680><c> way</c><00:10:22.839><c> that</c><00:10:23.000><c> any</c>
+
+00:10:23.190 --> 00:10:23.200 align:start position:0%
+processed in the same way that any
+ 
+
+00:10:23.200 --> 00:10:25.470 align:start position:0%
+processed in the same way that any
+message<00:10:23.680><c> might</c><00:10:23.839><c> be</c><00:10:24.040><c> normally</c><00:10:25.000><c> so</c><00:10:25.200><c> what</c><00:10:25.360><c> that</c>
+
+00:10:25.470 --> 00:10:25.480 align:start position:0%
+message might be normally so what that
+ 
+
+00:10:25.480 --> 00:10:26.990 align:start position:0%
+message might be normally so what that
+means<00:10:25.800><c> is</c><00:10:25.959><c> that</c><00:10:26.160><c> you</c><00:10:26.279><c> know</c><00:10:26.600><c> once</c><00:10:26.800><c> that</c>
+
+00:10:26.990 --> 00:10:27.000 align:start position:0%
+means is that you know once that
+ 
+
+00:10:27.000 --> 00:10:28.910 align:start position:0%
+means is that you know once that
+checkpoint<00:10:27.480><c> barrier</c><00:10:27.880><c> is</c><00:10:28.079><c> in</c><00:10:28.240><c> the</c><00:10:28.399><c> system</c><00:10:28.760><c> it's</c>
+
+00:10:28.910 --> 00:10:28.920 align:start position:0%
+checkpoint barrier is in the system it's
+ 
+
+00:10:28.920 --> 00:10:30.790 align:start position:0%
+checkpoint barrier is in the system it's
+going<00:10:29.120><c> to</c><00:10:29.320><c> to</c><00:10:29.480><c> stay</c><00:10:29.720><c> in</c><00:10:29.880><c> the</c><00:10:30.040><c> proper</c><00:10:30.320><c> order</c>
+
+00:10:30.790 --> 00:10:30.800 align:start position:0%
+going to to stay in the proper order
+ 
+
+00:10:30.800 --> 00:10:32.990 align:start position:0%
+going to to stay in the proper order
+right<00:10:31.320><c> it's</c><00:10:31.519><c> not</c><00:10:31.760><c> going</c><00:10:32.000><c> to</c><00:10:32.480><c> like</c><00:10:32.600><c> jump</c><00:10:32.880><c> the</c>
+
+00:10:32.990 --> 00:10:33.000 align:start position:0%
+right it's not going to like jump the
+ 
+
+00:10:33.000 --> 00:10:34.910 align:start position:0%
+right it's not going to like jump the
+gun<00:10:33.200><c> on</c><00:10:33.399><c> other</c><00:10:33.640><c> messages</c><00:10:34.279><c> it's</c><00:10:34.440><c> not</c><00:10:34.600><c> going</c><00:10:34.760><c> to</c>
+
+00:10:34.910 --> 00:10:34.920 align:start position:0%
+gun on other messages it's not going to
+ 
+
+00:10:34.920 --> 00:10:36.949 align:start position:0%
+gun on other messages it's not going to
+fall<00:10:35.240><c> behind</c><00:10:35.920><c> it's</c><00:10:36.079><c> going</c><00:10:36.200><c> to</c><00:10:36.320><c> be</c><00:10:36.519><c> processed</c>
+
+00:10:36.949 --> 00:10:36.959 align:start position:0%
+fall behind it's going to be processed
+ 
+
+00:10:36.959 --> 00:10:38.750 align:start position:0%
+fall behind it's going to be processed
+in<00:10:37.079><c> order</c><00:10:37.440><c> in</c><00:10:37.560><c> the</c><00:10:37.720><c> same</c><00:10:37.959><c> way</c><00:10:38.200><c> that</c><00:10:38.360><c> you</c><00:10:38.480><c> know</c><00:10:38.600><c> a</c>
+
+00:10:38.750 --> 00:10:38.760 align:start position:0%
+in order in the same way that you know a
+ 
+
+00:10:38.760 --> 00:10:40.710 align:start position:0%
+in order in the same way that you know a
+message<00:10:39.040><c> from</c><00:10:39.279><c> a</c><00:10:39.440><c> log</c><00:10:39.720><c> based</c><00:10:40.040><c> message</c><00:10:40.279><c> broker</c>
+
+00:10:40.710 --> 00:10:40.720 align:start position:0%
+message from a log based message broker
+ 
+
+00:10:40.720 --> 00:10:42.949 align:start position:0%
+message from a log based message broker
+might<00:10:40.920><c> be</c><00:10:41.839><c> so</c><00:10:42.040><c> here's</c><00:10:42.240><c> what</c><00:10:42.399><c> this</c><00:10:42.560><c> eventually</c>
+
+00:10:42.949 --> 00:10:42.959 align:start position:0%
+might be so here's what this eventually
+ 
+
+00:10:42.959 --> 00:10:44.829 align:start position:0%
+might be so here's what this eventually
+does<00:10:43.519><c> is</c><00:10:43.680><c> that</c><00:10:43.880><c> basically</c><00:10:44.279><c> eventually</c><00:10:44.680><c> that</c>
+
+00:10:44.829 --> 00:10:44.839 align:start position:0%
+does is that basically eventually that
+ 
+
+00:10:44.839 --> 00:10:46.430 align:start position:0%
+does is that basically eventually that
+checkpoint<00:10:45.360><c> barrier</c><00:10:45.839><c> is</c><00:10:45.959><c> going</c><00:10:46.160><c> to</c><00:10:46.279><c> be</c>
+
+00:10:46.430 --> 00:10:46.440 align:start position:0%
+checkpoint barrier is going to be
+ 
+
+00:10:46.440 --> 00:10:47.990 align:start position:0%
+checkpoint barrier is going to be
+delivered<00:10:46.880><c> to</c><00:10:47.120><c> all</c><00:10:47.279><c> of</c><00:10:47.360><c> the</c><00:10:47.480><c> nodes</c><00:10:47.760><c> in</c><00:10:47.880><c> the</c>
+
+00:10:47.990 --> 00:10:48.000 align:start position:0%
+delivered to all of the nodes in the
+ 
+
+00:10:48.000 --> 00:10:50.069 align:start position:0%
+delivered to all of the nodes in the
+cluster<00:10:48.480><c> because</c><00:10:48.760><c> it's</c><00:10:49.240><c> kind</c><00:10:49.360><c> of</c><00:10:49.480><c> being</c><00:10:49.680><c> sent</c>
+
+00:10:50.069 --> 00:10:50.079 align:start position:0%
+cluster because it's kind of being sent
+ 
+
+00:10:50.079 --> 00:10:51.470 align:start position:0%
+cluster because it's kind of being sent
+there<00:10:50.320><c> and</c><00:10:50.480><c> that's</c><00:10:50.639><c> the</c><00:10:50.760><c> entire</c><00:10:51.040><c> point</c><00:10:51.240><c> of</c><00:10:51.360><c> the</c>
+
+00:10:51.470 --> 00:10:51.480 align:start position:0%
+there and that's the entire point of the
+ 
+
+00:10:51.480 --> 00:10:54.030 align:start position:0%
+there and that's the entire point of the
+job<00:10:52.160><c> manager</c><00:10:53.160><c> and</c><00:10:53.320><c> once</c><00:10:53.519><c> it</c><00:10:53.639><c> does</c><00:10:53.880><c> get</c>
+
+00:10:54.030 --> 00:10:54.040 align:start position:0%
+job manager and once it does get
+ 
+
+00:10:54.040 --> 00:10:56.230 align:start position:0%
+job manager and once it does get
+delivered<00:10:54.519><c> there</c><00:10:55.120><c> the</c><00:10:55.279><c> checkpoint</c><00:10:55.760><c> barrier</c>
+
+00:10:56.230 --> 00:10:56.240 align:start position:0%
+delivered there the checkpoint barrier
+ 
+
+00:10:56.240 --> 00:10:57.910 align:start position:0%
+delivered there the checkpoint barrier
+is<00:10:56.440><c> going</c><00:10:56.600><c> to</c><00:10:56.760><c> do</c><00:10:56.959><c> the</c><00:10:57.079><c> following</c><00:10:57.600><c> it's</c><00:10:57.760><c> going</c>
+
+00:10:57.910 --> 00:10:57.920 align:start position:0%
+is going to do the following it's going
+ 
+
+00:10:57.920 --> 00:11:00.829 align:start position:0%
+is going to do the following it's going
+to<00:10:58.120><c> say</c><00:10:58.440><c> to</c><00:10:58.680><c> any</c><00:10:58.920><c> node</c><00:10:59.320><c> the</c><00:10:59.440><c> cluster</c><00:11:00.040><c> okay</c><00:11:00.639><c> give</c>
+
+00:11:00.829 --> 00:11:00.839 align:start position:0%
+to say to any node the cluster okay give
+ 
+
+00:11:00.839 --> 00:11:03.790 align:start position:0%
+to say to any node the cluster okay give
+me<00:11:01.160><c> your</c><00:11:01.440><c> local</c><00:11:01.760><c> state</c><00:11:02.399><c> and</c><00:11:02.639><c> also</c><00:11:03.040><c> keep</c><00:11:03.320><c> track</c>
+
+00:11:03.790 --> 00:11:03.800 align:start position:0%
+me your local state and also keep track
+ 
+
+00:11:03.800 --> 00:11:05.949 align:start position:0%
+me your local state and also keep track
+of<00:11:04.000><c> the</c><00:11:04.200><c> last</c><00:11:04.519><c> offset</c><00:11:05.079><c> of</c><00:11:05.240><c> the</c><00:11:05.399><c> message</c><00:11:05.839><c> that</c>
+
+00:11:05.949 --> 00:11:05.959 align:start position:0%
+of the last offset of the message that
+ 
+
+00:11:05.959 --> 00:11:08.629 align:start position:0%
+of the last offset of the message that
+you've<00:11:06.519><c> kind</c><00:11:06.680><c> of</c><00:11:06.880><c> processed</c><00:11:07.880><c> so</c><00:11:08.079><c> now</c><00:11:08.279><c> the</c><00:11:08.399><c> job</c>
+
+00:11:08.629 --> 00:11:08.639 align:start position:0%
+you've kind of processed so now the job
+ 
+
+00:11:08.639 --> 00:11:11.150 align:start position:0%
+you've kind of processed so now the job
+manager<00:11:09.240><c> is</c><00:11:09.560><c> going</c><00:11:09.760><c> to</c><00:11:09.920><c> be</c><00:11:10.160><c> getting</c><00:11:10.560><c> back</c><00:11:10.920><c> from</c>
+
+00:11:11.150 --> 00:11:11.160 align:start position:0%
+manager is going to be getting back from
+ 
+
+00:11:11.160 --> 00:11:14.629 align:start position:0%
+manager is going to be getting back from
+all<00:11:11.360><c> of</c><00:11:11.519><c> those</c><00:11:11.680><c> nodes</c><00:11:11.959><c> in</c><00:11:12.079><c> the</c><00:11:12.560><c> cluster</c><00:11:13.560><c> a</c><00:11:14.440><c> the</c>
+
+00:11:14.629 --> 00:11:14.639 align:start position:0%
+all of those nodes in the cluster a the
+ 
+
+00:11:14.639 --> 00:11:17.710 align:start position:0%
+all of those nodes in the cluster a the
+last<00:11:14.880><c> message</c><00:11:15.279><c> that</c><00:11:15.399><c> it's</c><00:11:15.600><c> consumed</c><00:11:16.320><c> from</c><00:11:17.160><c> uh</c>
+
+00:11:17.710 --> 00:11:17.720 align:start position:0%
+last message that it's consumed from uh
+ 
+
+00:11:17.720 --> 00:11:20.470 align:start position:0%
+last message that it's consumed from uh
+the<00:11:17.880><c> message</c><00:11:18.200><c> broker</c><00:11:18.760><c> and</c><00:11:18.959><c> B</c><00:11:19.880><c> uh</c><00:11:19.959><c> its</c><00:11:20.160><c> local</c>
+
+00:11:20.470 --> 00:11:20.480 align:start position:0%
+the message broker and B uh its local
+ 
+
+00:11:20.480 --> 00:11:22.629 align:start position:0%
+the message broker and B uh its local
+state<00:11:21.000><c> and</c><00:11:21.120><c> it's</c><00:11:21.279><c> going</c><00:11:21.480><c> to</c><00:11:21.760><c> persist</c><00:11:22.279><c> both</c><00:11:22.440><c> of</c>
+
+00:11:22.629 --> 00:11:22.639 align:start position:0%
+state and it's going to persist both of
+ 
+
+00:11:22.639 --> 00:11:24.509 align:start position:0%
+state and it's going to persist both of
+those<00:11:22.880><c> things</c><00:11:23.279><c> to</c><00:11:23.519><c> that</c><00:11:23.680><c> distributed</c><00:11:24.160><c> file</c>
+
+00:11:24.509 --> 00:11:24.519 align:start position:0%
+those things to that distributed file
+ 
+
+00:11:24.519 --> 00:11:26.629 align:start position:0%
+those things to that distributed file
+system<00:11:25.399><c> and</c><00:11:25.600><c> this</c><00:11:25.720><c> is</c><00:11:25.920><c> kind</c><00:11:26.079><c> of</c><00:11:26.279><c> what's</c><00:11:26.480><c> going</c>
+
+00:11:26.629 --> 00:11:26.639 align:start position:0%
+system and this is kind of what's going
+ 
+
+00:11:26.639 --> 00:11:29.710 align:start position:0%
+system and this is kind of what's going
+to<00:11:26.720><c> be</c><00:11:26.880><c> comprising</c><00:11:27.360><c> of</c><00:11:27.480><c> our</c><00:11:27.920><c> checkpoint</c><00:11:28.920><c> so</c>
+
+00:11:29.710 --> 00:11:29.720 align:start position:0%
+to be comprising of our checkpoint so
+ 
+
+00:11:29.720 --> 00:11:31.949 align:start position:0%
+to be comprising of our checkpoint so
+basically<00:11:30.200><c> now</c><00:11:30.560><c> if</c><00:11:30.680><c> a</c><00:11:30.800><c> node</c><00:11:31.079><c> crashes</c><00:11:31.560><c> we</c><00:11:31.680><c> can</c>
+
+00:11:31.949 --> 00:11:31.959 align:start position:0%
+basically now if a node crashes we can
+ 
+
+00:11:31.959 --> 00:11:33.790 align:start position:0%
+basically now if a node crashes we can
+restore<00:11:32.440><c> all</c><00:11:32.600><c> these</c><00:11:32.800><c> nodes</c><00:11:33.240><c> to</c><00:11:33.519><c> their</c>
+
+00:11:33.790 --> 00:11:33.800 align:start position:0%
+restore all these nodes to their
+ 
+
+00:11:33.800 --> 00:11:35.910 align:start position:0%
+restore all these nodes to their
+previous<00:11:34.200><c> state</c><00:11:34.519><c> from</c><00:11:34.680><c> the</c><00:11:34.839><c> checkpoint</c><00:11:35.760><c> and</c>
+
+00:11:35.910 --> 00:11:35.920 align:start position:0%
+previous state from the checkpoint and
+ 
+
+00:11:35.920 --> 00:11:38.150 align:start position:0%
+previous state from the checkpoint and
+also<00:11:36.240><c> start</c><00:11:36.600><c> processing</c><00:11:37.079><c> messages</c><00:11:37.639><c> again</c>
+
+00:11:38.150 --> 00:11:38.160 align:start position:0%
+also start processing messages again
+ 
+
+00:11:38.160 --> 00:11:40.110 align:start position:0%
+also start processing messages again
+from<00:11:38.440><c> those</c><00:11:38.680><c> actual</c><00:11:39.040><c> corresponding</c><00:11:39.639><c> offsets</c>
+
+00:11:40.110 --> 00:11:40.120 align:start position:0%
+from those actual corresponding offsets
+ 
+
+00:11:40.120 --> 00:11:41.910 align:start position:0%
+from those actual corresponding offsets
+we<00:11:40.200><c> would</c><00:11:40.360><c> do</c><00:11:40.519><c> this</c><00:11:40.639><c> for</c><00:11:40.839><c> all</c><00:11:40.959><c> of</c><00:11:41.079><c> these</c><00:11:41.240><c> nodes</c>
+
+00:11:41.910 --> 00:11:41.920 align:start position:0%
+we would do this for all of these nodes
+ 
+
+00:11:41.920 --> 00:11:43.430 align:start position:0%
+we would do this for all of these nodes
+so<00:11:42.120><c> that</c><00:11:42.240><c> way</c><00:11:42.360><c> we</c><00:11:42.480><c> can</c><00:11:42.639><c> make</c><00:11:42.760><c> sure</c><00:11:43.040><c> that</c><00:11:43.200><c> every</c>
+
+00:11:43.430 --> 00:11:43.440 align:start position:0%
+so that way we can make sure that every
+ 
+
+00:11:43.440 --> 00:11:44.949 align:start position:0%
+so that way we can make sure that every
+message<00:11:43.720><c> is</c><00:11:43.839><c> going</c><00:11:44.000><c> to</c><00:11:44.120><c> be</c><00:11:44.320><c> processed</c><00:11:44.839><c> and</c>
+
+00:11:44.949 --> 00:11:44.959 align:start position:0%
+message is going to be processed and
+ 
+
+00:11:44.959 --> 00:11:47.150 align:start position:0%
+message is going to be processed and
+even<00:11:45.399><c> if</c><00:11:45.800><c> um</c><00:11:46.160><c> the</c><00:11:46.320><c> checkpoint</c><00:11:46.800><c> didn't</c>
+
+00:11:47.150 --> 00:11:47.160 align:start position:0%
+even if um the checkpoint didn't
+ 
+
+00:11:47.160 --> 00:11:49.710 align:start position:0%
+even if um the checkpoint didn't
+encapsulate<00:11:47.920><c> every</c><00:11:48.160><c> single</c><00:11:48.480><c> change</c><00:11:49.360><c> that</c><00:11:49.560><c> had</c>
+
+00:11:49.710 --> 00:11:49.720 align:start position:0%
+encapsulate every single change that had
+ 
+
+00:11:49.720 --> 00:11:52.069 align:start position:0%
+encapsulate every single change that had
+ever<00:11:49.920><c> been</c><00:11:50.120><c> seen</c><00:11:50.959><c> by</c><00:11:51.120><c> virtue</c><00:11:51.440><c> of</c><00:11:51.600><c> going</c><00:11:51.920><c> back</c>
+
+00:11:52.069 --> 00:11:52.079 align:start position:0%
+ever been seen by virtue of going back
+ 
+
+00:11:52.079 --> 00:11:53.910 align:start position:0%
+ever been seen by virtue of going back
+to<00:11:52.360><c> the</c><00:11:52.480><c> corresponding</c><00:11:53.079><c> offset</c><00:11:53.560><c> for</c><00:11:53.800><c> that</c>
+
+00:11:53.910 --> 00:11:53.920 align:start position:0%
+to the corresponding offset for that
+ 
+
+00:11:53.920 --> 00:11:55.949 align:start position:0%
+to the corresponding offset for that
+checkpoint<00:11:54.639><c> we</c><00:11:54.760><c> can</c><00:11:54.920><c> reconstruct</c><00:11:55.519><c> the</c><00:11:55.639><c> state</c>
+
+00:11:55.949 --> 00:11:55.959 align:start position:0%
+checkpoint we can reconstruct the state
+ 
+
+00:11:55.959 --> 00:11:58.069 align:start position:0%
+checkpoint we can reconstruct the state
+it's<00:11:56.120><c> almost</c><00:11:56.399><c> like</c><00:11:56.560><c> using</c><00:11:57.200><c> um</c><00:11:57.399><c> a</c><00:11:57.560><c> right</c><00:11:57.760><c> ahead</c>
+
+00:11:58.069 --> 00:11:58.079 align:start position:0%
+it's almost like using um a right ahead
+ 
+
+00:11:58.079 --> 00:12:01.990 align:start position:0%
+it's almost like using um a right ahead
+log<00:11:58.519><c> plus</c><00:11:58.760><c> checkpoint</c><00:11:59.480><c> it's</c><00:11:59.800><c> very</c><00:12:00.040><c> similar</c><00:12:01.040><c> so</c>
+
+00:12:01.990 --> 00:12:02.000 align:start position:0%
+log plus checkpoint it's very similar so
+ 
+
+00:12:02.000 --> 00:12:03.790 align:start position:0%
+log plus checkpoint it's very similar so
+the<00:12:02.160><c> issue</c><00:12:02.480><c> here</c><00:12:02.680><c> is</c><00:12:02.800><c> that</c><00:12:02.920><c> it</c><00:12:03.040><c> may</c><00:12:03.240><c> result</c><00:12:03.600><c> in</c>
+
+00:12:03.790 --> 00:12:03.800 align:start position:0%
+the issue here is that it may result in
+ 
+
+00:12:03.800 --> 00:12:05.470 align:start position:0%
+the issue here is that it may result in
+certain<00:12:04.120><c> messages</c><00:12:04.600><c> being</c><00:12:04.880><c> processed</c><00:12:05.320><c> more</c>
+
+00:12:05.470 --> 00:12:05.480 align:start position:0%
+certain messages being processed more
+ 
+
+00:12:05.480 --> 00:12:07.550 align:start position:0%
+certain messages being processed more
+than<00:12:05.680><c> once</c><00:12:06.279><c> there</c><00:12:06.360><c> are</c><00:12:06.480><c> a</c><00:12:06.600><c> couple</c><00:12:06.880><c> ways</c><00:12:07.399><c> of</c>
+
+00:12:07.550 --> 00:12:07.560 align:start position:0%
+than once there are a couple ways of
+ 
+
+00:12:07.560 --> 00:12:09.350 align:start position:0%
+than once there are a couple ways of
+dealing<00:12:07.880><c> with</c><00:12:08.079><c> this</c><00:12:08.399><c> one</c><00:12:08.560><c> of</c><00:12:08.720><c> which</c><00:12:09.000><c> is</c><00:12:09.200><c> just</c>
+
+00:12:09.350 --> 00:12:09.360 align:start position:0%
+dealing with this one of which is just
+ 
+
+00:12:09.360 --> 00:12:11.829 align:start position:0%
+dealing with this one of which is just
+using<00:12:09.760><c> some</c><00:12:09.920><c> sort</c><00:12:10.120><c> of</c><00:12:10.279><c> item</c><00:12:10.600><c> potent</c><00:12:10.959><c> operation</c>
+
+00:12:11.829 --> 00:12:11.839 align:start position:0%
+using some sort of item potent operation
+ 
+
+00:12:11.839 --> 00:12:13.829 align:start position:0%
+using some sort of item potent operation
+maybe<00:12:12.079><c> you</c><00:12:12.200><c> have</c><00:12:12.279><c> a</c><00:12:12.440><c> database</c><00:12:13.120><c> that</c><00:12:13.440><c> um</c><00:12:13.560><c> tells</c>
+
+00:12:13.829 --> 00:12:13.839 align:start position:0%
+maybe you have a database that um tells
+ 
+
+00:12:13.839 --> 00:12:15.870 align:start position:0%
+maybe you have a database that um tells
+you<00:12:14.199><c> which</c><00:12:14.680><c> kind</c><00:12:14.800><c> of</c><00:12:14.959><c> message</c><00:12:15.320><c> IDs</c><00:12:15.720><c> it's</c>
+
+00:12:15.870 --> 00:12:15.880 align:start position:0%
+you which kind of message IDs it's
+ 
+
+00:12:15.880 --> 00:12:17.829 align:start position:0%
+you which kind of message IDs it's
+already<00:12:16.079><c> seen</c><00:12:16.440><c> and</c><00:12:16.639><c> that</c><00:12:16.760><c> way</c><00:12:16.920><c> you</c><00:12:17.040><c> can</c><00:12:17.519><c> stop</c>
+
+00:12:17.829 --> 00:12:17.839 align:start position:0%
+already seen and that way you can stop
+ 
+
+00:12:17.839 --> 00:12:20.389 align:start position:0%
+already seen and that way you can stop
+any<00:12:18.079><c> external</c><00:12:18.519><c> services</c><00:12:19.199><c> from</c><00:12:19.880><c> you</c><00:12:20.000><c> know</c><00:12:20.199><c> say</c>
+
+00:12:20.389 --> 00:12:20.399 align:start position:0%
+any external services from you know say
+ 
+
+00:12:20.399 --> 00:12:22.189 align:start position:0%
+any external services from you know say
+you<00:12:20.560><c> have</c><00:12:20.680><c> an</c><00:12:20.800><c> email</c><00:12:21.199><c> client</c><00:12:21.560><c> tied</c><00:12:21.839><c> into</c><00:12:22.079><c> your</c>
+
+00:12:22.189 --> 00:12:22.199 align:start position:0%
+you have an email client tied into your
+ 
+
+00:12:22.199 --> 00:12:24.350 align:start position:0%
+you have an email client tied into your
+stream<00:12:23.120><c> uh</c><00:12:23.320><c> you</c><00:12:23.399><c> know</c><00:12:23.560><c> stop</c><00:12:23.839><c> a</c><00:12:23.959><c> duplicate</c>
+
+00:12:24.350 --> 00:12:24.360 align:start position:0%
+stream uh you know stop a duplicate
+ 
+
+00:12:24.360 --> 00:12:26.590 align:start position:0%
+stream uh you know stop a duplicate
+email<00:12:24.639><c> from</c><00:12:24.800><c> being</c><00:12:25.000><c> sent</c><00:12:25.639><c> another</c><00:12:26.040><c> option</c>
+
+00:12:26.590 --> 00:12:26.600 align:start position:0%
+email from being sent another option
+ 
+
+00:12:26.600 --> 00:12:28.550 align:start position:0%
+email from being sent another option
+which<00:12:26.720><c> is</c><00:12:26.880><c> slower</c><00:12:27.519><c> but</c><00:12:27.839><c> does</c><00:12:28.160><c> technically</c>
+
+00:12:28.550 --> 00:12:28.560 align:start position:0%
+which is slower but does technically
+ 
+
+00:12:28.560 --> 00:12:30.990 align:start position:0%
+which is slower but does technically
+work<00:12:28.800><c> is</c><00:12:28.959><c> you</c><00:12:29.160><c> using</c><00:12:29.360><c> two-phase</c><00:12:29.839><c> commit</c><00:12:30.760><c> so</c>
+
+00:12:30.990 --> 00:12:31.000 align:start position:0%
+work is you using two-phase commit so
+ 
+
+00:12:31.000 --> 00:12:32.870 align:start position:0%
+work is you using two-phase commit so
+you<00:12:31.120><c> do</c><00:12:31.360><c> have</c><00:12:31.519><c> some</c><00:12:31.720><c> options</c><00:12:32.079><c> there</c><00:12:32.199><c> to</c><00:12:32.360><c> ensure</c>
+
+00:12:32.870 --> 00:12:32.880 align:start position:0%
+you do have some options there to ensure
+ 
+
+00:12:32.880 --> 00:12:34.910 align:start position:0%
+you do have some options there to ensure
+exactly<00:12:33.360><c> once</c><00:12:33.760><c> message</c><00:12:34.079><c> semantics</c><00:12:34.760><c> but</c>
+
+00:12:34.910 --> 00:12:34.920 align:start position:0%
+exactly once message semantics but
+ 
+
+00:12:34.920 --> 00:12:36.670 align:start position:0%
+exactly once message semantics but
+generally<00:12:35.320><c> speaking</c><00:12:35.760><c> just</c><00:12:35.959><c> as</c><00:12:36.320><c> kind</c><00:12:36.440><c> of</c><00:12:36.560><c> a</c>
+
+00:12:36.670 --> 00:12:36.680 align:start position:0%
+generally speaking just as kind of a
+ 
+
+00:12:36.680 --> 00:12:39.269 align:start position:0%
+generally speaking just as kind of a
+base<00:12:36.959><c> thing</c><00:12:37.639><c> messages</c><00:12:38.040><c> are</c><00:12:38.560><c> potentially</c><00:12:39.079><c> able</c>
+
+00:12:39.269 --> 00:12:39.279 align:start position:0%
+base thing messages are potentially able
+ 
+
+00:12:39.279 --> 00:12:41.550 align:start position:0%
+base thing messages are potentially able
+to<00:12:39.399><c> be</c><00:12:39.600><c> processed</c><00:12:40.040><c> more</c><00:12:40.240><c> than</c><00:12:40.399><c> once</c><00:12:41.360><c> um</c>
+
+00:12:41.550 --> 00:12:41.560 align:start position:0%
+to be processed more than once um
+ 
+
+00:12:41.560 --> 00:12:42.990 align:start position:0%
+to be processed more than once um
+additionally<00:12:42.040><c> it's</c><00:12:42.199><c> important</c><00:12:42.480><c> to</c><00:12:42.639><c> note</c><00:12:42.880><c> that</c>
+
+00:12:42.990 --> 00:12:43.000 align:start position:0%
+additionally it's important to note that
+ 
+
+00:12:43.000 --> 00:12:44.550 align:start position:0%
+additionally it's important to note that
+snapshots<00:12:43.519><c> are</c><00:12:43.720><c> actually</c><00:12:43.959><c> created</c><00:12:44.320><c> in</c><00:12:44.440><c> the</c>
+
+00:12:44.550 --> 00:12:44.560 align:start position:0%
+snapshots are actually created in the
+ 
+
+00:12:44.560 --> 00:12:46.030 align:start position:0%
+snapshots are actually created in the
+background<00:12:45.320><c> this</c><00:12:45.440><c> is</c><00:12:45.600><c> completely</c>
+
+00:12:46.030 --> 00:12:46.040 align:start position:0%
+background this is completely
+ 
+
+00:12:46.040 --> 00:12:47.949 align:start position:0%
+background this is completely
+asynchronous<00:12:46.800><c> so</c><00:12:47.079><c> creating</c><00:12:47.440><c> them</c><00:12:47.639><c> doesn't</c>
+
+00:12:47.949 --> 00:12:47.959 align:start position:0%
+asynchronous so creating them doesn't
+ 
+
+00:12:47.959 --> 00:12:49.430 align:start position:0%
+asynchronous so creating them doesn't
+actually<00:12:48.240><c> stop</c><00:12:48.519><c> messages</c><00:12:48.920><c> from</c><00:12:49.079><c> being</c>
+
+00:12:49.430 --> 00:12:49.440 align:start position:0%
+actually stop messages from being
+ 
+
+00:12:49.440 --> 00:12:51.590 align:start position:0%
+actually stop messages from being
+processed<00:12:50.440><c> and</c><00:12:50.639><c> they</c><00:12:50.760><c> are</c><00:12:50.920><c> considered</c><00:12:51.320><c> to</c><00:12:51.399><c> be</c>
+
+00:12:51.590 --> 00:12:51.600 align:start position:0%
+processed and they are considered to be
+ 
+
+00:12:51.600 --> 00:12:54.269 align:start position:0%
+processed and they are considered to be
+successful<00:12:52.240><c> by</c><00:12:52.399><c> that</c><00:12:52.560><c> job</c><00:12:52.800><c> manager</c><00:12:53.680><c> once</c><00:12:53.880><c> it</c>
+
+00:12:54.269 --> 00:12:54.279 align:start position:0%
+successful by that job manager once it
+ 
+
+00:12:54.279 --> 00:12:56.269 align:start position:0%
+successful by that job manager once it
+receives<00:12:54.880><c> um</c><00:12:55.079><c> a</c><00:12:55.240><c> success</c><00:12:55.680><c> message</c><00:12:55.959><c> from</c><00:12:56.160><c> all</c>
+
+00:12:56.269 --> 00:12:56.279 align:start position:0%
+receives um a success message from all
+ 
+
+00:12:56.279 --> 00:12:58.069 align:start position:0%
+receives um a success message from all
+the<00:12:56.360><c> nodes</c><00:12:56.800><c> reporting</c><00:12:57.320><c> that</c><00:12:57.440><c> they</c><00:12:57.560><c> were</c><00:12:57.800><c> able</c>
+
+00:12:58.069 --> 00:12:58.079 align:start position:0%
+the nodes reporting that they were able
+ 
+
+00:12:58.079 --> 00:13:00.870 align:start position:0%
+the nodes reporting that they were able
+to<00:12:58.399><c> go</c><00:12:58.519><c> ahead</c><00:12:58.760><c> and</c><00:12:58.920><c> check</c><00:12:59.199><c> check</c><00:12:59.360><c> point</c><00:12:59.519><c> their</c>
+
+00:13:00.870 --> 00:13:00.880 align:start position:0%
+to go ahead and check check point their
+ 
+
+00:13:00.880 --> 00:13:03.150 align:start position:0%
+to go ahead and check check point their
+state<00:13:01.880><c> okay</c><00:13:02.079><c> another</c><00:13:02.399><c> quick</c><00:13:02.639><c> aside</c><00:13:02.959><c> that</c><00:13:03.079><c> I</c>
+
+00:13:03.150 --> 00:13:03.160 align:start position:0%
+state okay another quick aside that I
+ 
+
+00:13:03.160 --> 00:13:04.750 align:start position:0%
+state okay another quick aside that I
+want<00:13:03.240><c> to</c><00:13:03.399><c> make</c><00:13:03.680><c> is</c><00:13:03.920><c> actually</c><00:13:04.199><c> changing</c><00:13:04.600><c> the</c>
+
+00:13:04.750 --> 00:13:04.760 align:start position:0%
+want to make is actually changing the
+ 
+
+00:13:04.760 --> 00:13:06.550 align:start position:0%
+want to make is actually changing the
+cluster<00:13:05.160><c> size</c><00:13:05.399><c> in</c><00:13:05.519><c> flank</c><00:13:06.000><c> because</c><00:13:06.160><c> we</c><00:13:06.279><c> know</c><00:13:06.399><c> we</c>
+
+00:13:06.550 --> 00:13:06.560 align:start position:0%
+cluster size in flank because we know we
+ 
+
+00:13:06.560 --> 00:13:07.910 align:start position:0%
+cluster size in flank because we know we
+have<00:13:06.680><c> all</c><00:13:06.839><c> these</c><00:13:07.000><c> nodes</c><00:13:07.320><c> with</c><00:13:07.480><c> their</c><00:13:07.639><c> local</c>
+
+00:13:07.910 --> 00:13:07.920 align:start position:0%
+have all these nodes with their local
+ 
+
+00:13:07.920 --> 00:13:10.350 align:start position:0%
+have all these nodes with their local
+state<00:13:08.880><c> and</c><00:13:09.120><c> what</c><00:13:09.279><c> happens</c><00:13:09.639><c> if</c><00:13:09.800><c> we</c><00:13:10.040><c> either</c>
+
+00:13:10.350 --> 00:13:10.360 align:start position:0%
+state and what happens if we either
+ 
+
+00:13:10.360 --> 00:13:12.350 align:start position:0%
+state and what happens if we either
+remove<00:13:10.680><c> a</c><00:13:10.800><c> node</c><00:13:11.079><c> from</c><00:13:11.199><c> the</c><00:13:11.320><c> cluster</c><00:13:11.839><c> or</c><00:13:12.079><c> add</c><00:13:12.240><c> a</c>
+
+00:13:12.350 --> 00:13:12.360 align:start position:0%
+remove a node from the cluster or add a
+ 
+
+00:13:12.360 --> 00:13:14.350 align:start position:0%
+remove a node from the cluster or add a
+new<00:13:12.560><c> one</c><00:13:13.279><c> well</c><00:13:13.440><c> we</c><00:13:13.560><c> want</c><00:13:13.680><c> to</c><00:13:13.959><c> basically</c>
+
+00:13:14.350 --> 00:13:14.360 align:start position:0%
+new one well we want to basically
+ 
+
+00:13:14.360 --> 00:13:16.430 align:start position:0%
+new one well we want to basically
+rebalance<00:13:14.920><c> that</c><00:13:15.160><c> local</c><00:13:15.399><c> state</c><00:13:15.839><c> but</c><00:13:16.160><c> in</c><00:13:16.279><c> the</c>
+
+00:13:16.430 --> 00:13:16.440 align:start position:0%
+rebalance that local state but in the
+ 
+
+00:13:16.440 --> 00:13:17.949 align:start position:0%
+rebalance that local state but in the
+same<00:13:16.680><c> way</c><00:13:16.839><c> that</c><00:13:17.000><c> partitioning</c><00:13:17.480><c> has</c><00:13:17.639><c> worked</c>
+
+00:13:17.949 --> 00:13:17.959 align:start position:0%
+same way that partitioning has worked
+ 
+
+00:13:17.959 --> 00:13:19.710 align:start position:0%
+same way that partitioning has worked
+pretty<00:13:18.160><c> much</c><00:13:18.360><c> throughout</c><00:13:18.680><c> the</c><00:13:18.839><c> entirety</c><00:13:19.480><c> of</c>
+
+00:13:19.710 --> 00:13:19.720 align:start position:0%
+pretty much throughout the entirety of
+ 
+
+00:13:19.720 --> 00:13:21.110 align:start position:0%
+pretty much throughout the entirety of
+you<00:13:19.800><c> know</c><00:13:20.040><c> this</c><00:13:20.199><c> series</c><00:13:20.480><c> and</c><00:13:20.639><c> me</c><00:13:20.800><c> talking</c>
+
+00:13:21.110 --> 00:13:21.120 align:start position:0%
+you know this series and me talking
+ 
+
+00:13:21.120 --> 00:13:23.590 align:start position:0%
+you know this series and me talking
+about<00:13:21.320><c> it</c><00:13:21.880><c> you</c><00:13:22.079><c> obviously</c><00:13:22.560><c> want</c><00:13:22.800><c> to</c><00:13:23.160><c> move</c><00:13:23.480><c> the</c>
+
+00:13:23.590 --> 00:13:23.600 align:start position:0%
+about it you obviously want to move the
+ 
+
+00:13:23.600 --> 00:13:26.069 align:start position:0%
+about it you obviously want to move the
+minimum<00:13:24.440><c> amount</c><00:13:24.720><c> of</c><00:13:24.880><c> key</c><00:13:25.199><c> value</c><00:13:25.480><c> pairs</c><00:13:25.880><c> over</c>
+
+00:13:26.069 --> 00:13:26.079 align:start position:0%
+minimum amount of key value pairs over
+ 
+
+00:13:26.079 --> 00:13:27.750 align:start position:0%
+minimum amount of key value pairs over
+the<00:13:26.199><c> network</c><00:13:26.839><c> it's</c><00:13:27.079><c> kind</c><00:13:27.199><c> of</c><00:13:27.320><c> important</c><00:13:27.639><c> to</c>
+
+00:13:27.750 --> 00:13:27.760 align:start position:0%
+the network it's kind of important to
+ 
+
+00:13:27.760 --> 00:13:29.310 align:start position:0%
+the network it's kind of important to
+use<00:13:27.959><c> something</c><00:13:28.240><c> like</c><00:13:28.399><c> consistent</c><00:13:28.800><c> hashing</c>
+
+00:13:29.310 --> 00:13:29.320 align:start position:0%
+use something like consistent hashing
+ 
+
+00:13:29.320 --> 00:13:31.590 align:start position:0%
+use something like consistent hashing
+here<00:13:30.120><c> but</c><00:13:30.360><c> basically</c><00:13:30.760><c> in</c><00:13:30.880><c> order</c><00:13:31.120><c> to</c><00:13:31.279><c> do</c><00:13:31.440><c> this</c>
+
+00:13:31.590 --> 00:13:31.600 align:start position:0%
+here but basically in order to do this
+ 
+
+00:13:31.600 --> 00:13:34.470 align:start position:0%
+here but basically in order to do this
+what<00:13:31.720><c> Flink</c><00:13:32.160><c> does</c><00:13:32.920><c> is</c><00:13:33.199><c> instead</c><00:13:33.600><c> of</c><00:13:33.920><c> storing</c>
+
+00:13:34.470 --> 00:13:34.480 align:start position:0%
+what Flink does is instead of storing
+ 
+
+00:13:34.480 --> 00:13:38.350 align:start position:0%
+what Flink does is instead of storing
+each<00:13:34.760><c> checkpoint</c><00:13:35.519><c> as</c><00:13:36.360><c> um</c><00:13:36.680><c> just</c><00:13:37.519><c> one</c><00:13:37.920><c> object</c>
+
+00:13:38.350 --> 00:13:38.360 align:start position:0%
+each checkpoint as um just one object
+ 
+
+00:13:38.360 --> 00:13:39.829 align:start position:0%
+each checkpoint as um just one object
+representing<00:13:38.839><c> the</c><00:13:39.000><c> state</c><00:13:39.279><c> of</c><00:13:39.440><c> every</c><00:13:39.600><c> single</c>
+
+00:13:39.829 --> 00:13:39.839 align:start position:0%
+representing the state of every single
+ 
+
+00:13:39.839 --> 00:13:42.710 align:start position:0%
+representing the state of every single
+node<00:13:40.079><c> in</c><00:13:40.160><c> the</c><00:13:40.279><c> cluster</c><00:13:41.040><c> it</c><00:13:41.160><c> breaks</c><00:13:41.600><c> down</c><00:13:42.040><c> each</c>
+
+00:13:42.710 --> 00:13:42.720 align:start position:0%
+node in the cluster it breaks down each
+ 
+
+00:13:42.720 --> 00:13:45.069 align:start position:0%
+node in the cluster it breaks down each
+uh<00:13:42.880><c> each</c><00:13:43.040><c> node</c><00:13:43.440><c> State</c><00:13:43.800><c> into</c><00:13:44.320><c> basically</c><00:13:44.720><c> just</c><00:13:44.839><c> a</c>
+
+00:13:45.069 --> 00:13:45.079 align:start position:0%
+uh each node State into basically just a
+ 
+
+00:13:45.079 --> 00:13:47.310 align:start position:0%
+uh each node State into basically just a
+list<00:13:45.320><c> of</c><00:13:45.480><c> key</c><00:13:45.760><c> value</c><00:13:46.040><c> Pairs</c><00:13:46.839><c> and</c><00:13:47.000><c> that</c><00:13:47.160><c> way</c>
+
+00:13:47.310 --> 00:13:47.320 align:start position:0%
+list of key value Pairs and that way
+ 
+
+00:13:47.320 --> 00:13:48.829 align:start position:0%
+list of key value Pairs and that way
+it's<00:13:47.519><c> really</c><00:13:47.760><c> easy</c><00:13:48.040><c> to</c><00:13:48.199><c> go</c><00:13:48.360><c> ahead</c><00:13:48.680><c> and</c>
+
+00:13:48.829 --> 00:13:48.839 align:start position:0%
+it's really easy to go ahead and
+ 
+
+00:13:48.839 --> 00:13:51.230 align:start position:0%
+it's really easy to go ahead and
+repartition<00:13:49.560><c> them</c><00:13:49.760><c> if</c><00:13:49.920><c> need</c><00:13:50.199><c> be</c><00:13:50.880><c> where</c><00:13:51.120><c> you</c>
+
+00:13:51.230 --> 00:13:51.240 align:start position:0%
+repartition them if need be where you
+ 
+
+00:13:51.240 --> 00:13:53.990 align:start position:0%
+repartition them if need be where you
+can<00:13:51.560><c> basically</c><00:13:51.959><c> load</c><00:13:52.360><c> in</c><00:13:53.000><c> um</c><00:13:53.320><c> part</c><00:13:53.480><c> of</c><00:13:53.680><c> that</c>
+
+00:13:53.990 --> 00:13:54.000 align:start position:0%
+can basically load in um part of that
+ 
+
+00:13:54.000 --> 00:13:56.870 align:start position:0%
+can basically load in um part of that
+checkpoint<00:13:55.000><c> and</c><00:13:55.320><c> that</c><00:13:55.480><c> way</c><00:13:55.759><c> a</c><00:13:55.880><c> new</c><00:13:56.079><c> node</c><00:13:56.680><c> is</c>
+
+00:13:56.870 --> 00:13:56.880 align:start position:0%
+checkpoint and that way a new node is
+ 
+
+00:13:56.880 --> 00:13:58.670 align:start position:0%
+checkpoint and that way a new node is
+going<00:13:57.079><c> to</c><00:13:57.240><c> be</c><00:13:57.440><c> able</c><00:13:57.680><c> to</c><00:13:57.920><c> get</c><00:13:58.240><c> its</c><00:13:58.399><c> own</c>
+
+00:13:58.670 --> 00:13:58.680 align:start position:0%
+going to be able to get its own
+ 
+
+00:13:58.680 --> 00:13:59.550 align:start position:0%
+going to be able to get its own
+partition
+
+00:13:59.550 --> 00:13:59.560 align:start position:0%
+partition
+ 
+
+00:13:59.560 --> 00:14:02.189 align:start position:0%
+partition
+of<00:14:00.199><c> I</c><00:14:00.360><c> guess</c><00:14:01.040><c> existing</c><00:14:01.519><c> state</c><00:14:01.880><c> and</c><00:14:02.000><c> then</c><00:14:02.120><c> you</c>
+
+00:14:02.189 --> 00:14:02.199 align:start position:0%
+of I guess existing state and then you
+ 
+
+00:14:02.199 --> 00:14:05.069 align:start position:0%
+of I guess existing state and then you
+can<00:14:02.360><c> start</c><00:14:02.600><c> reprocessing</c><00:14:03.240><c> messages</c><00:14:03.720><c> from</c>
+
+00:14:05.069 --> 00:14:05.079 align:start position:0%
+can start reprocessing messages from
+ 
+
+00:14:05.079 --> 00:14:09.069 align:start position:0%
+can start reprocessing messages from
+there<00:14:06.079><c> okay</c><00:14:07.000><c> in</c><00:14:07.240><c> conclusion</c><00:14:08.240><c> um</c><00:14:08.480><c> unlike</c><00:14:08.800><c> spark</c>
+
+00:14:09.069 --> 00:14:09.079 align:start position:0%
+there okay in conclusion um unlike spark
+ 
+
+00:14:09.079 --> 00:14:11.310 align:start position:0%
+there okay in conclusion um unlike spark
+streaming<00:14:09.839><c> where</c><00:14:10.199><c> basically</c><00:14:10.680><c> using</c><00:14:10.959><c> micro</c>
+
+00:14:11.310 --> 00:14:11.320 align:start position:0%
+streaming where basically using micro
+ 
+
+00:14:11.320 --> 00:14:13.749 align:start position:0%
+streaming where basically using micro
+batches<00:14:11.839><c> Flink</c><00:14:12.320><c> is</c><00:14:12.519><c> a</c><00:14:12.720><c> real-time</c><00:14:13.240><c> stateful</c>
+
+00:14:13.749 --> 00:14:13.759 align:start position:0%
+batches Flink is a real-time stateful
+ 
+
+00:14:13.759 --> 00:14:15.949 align:start position:0%
+batches Flink is a real-time stateful
+stream<00:14:14.160><c> processing</c><00:14:14.600><c> engine</c><00:14:15.199><c> it's</c><00:14:15.399><c> able</c><00:14:15.639><c> to</c>
+
+00:14:15.949 --> 00:14:15.959 align:start position:0%
+stream processing engine it's able to
+ 
+
+00:14:15.959 --> 00:14:17.749 align:start position:0%
+stream processing engine it's able to
+make<00:14:16.120><c> sure</c><00:14:16.279><c> to</c><00:14:16.440><c> use</c><00:14:17.040><c> basically</c><00:14:17.360><c> Shandy</c>
+
+00:14:17.749 --> 00:14:17.759 align:start position:0%
+make sure to use basically Shandy
+ 
+
+00:14:17.759 --> 00:14:19.870 align:start position:0%
+make sure to use basically Shandy
+Lamport<00:14:18.279><c> checkpointing</c><00:14:18.959><c> in</c><00:14:19.079><c> order</c><00:14:19.360><c> to</c><00:14:19.720><c> go</c>
+
+00:14:19.870 --> 00:14:19.880 align:start position:0%
+Lamport checkpointing in order to go
+ 
+
+00:14:19.880 --> 00:14:22.430 align:start position:0%
+Lamport checkpointing in order to go
+ahead<00:14:20.279><c> and</c><00:14:20.560><c> ensure</c><00:14:21.199><c> that</c><00:14:21.920><c> um</c><00:14:22.040><c> you're</c><00:14:22.199><c> not</c>
+
+00:14:22.430 --> 00:14:22.440 align:start position:0%
+ahead and ensure that um you're not
+ 
+
+00:14:22.440 --> 00:14:25.389 align:start position:0%
+ahead and ensure that um you're not
+going<00:14:22.600><c> to</c><00:14:22.720><c> be</c><00:14:22.839><c> losing</c><00:14:23.320><c> State</c><00:14:24.199><c> and</c><00:14:24.480><c> in</c><00:14:24.639><c> doing</c><00:14:24.959><c> so</c>
+
+00:14:25.389 --> 00:14:25.399 align:start position:0%
+going to be losing State and in doing so
+ 
+
+00:14:25.399 --> 00:14:26.670 align:start position:0%
+going to be losing State and in doing so
+generally<00:14:25.839><c> speaking</c><00:14:26.279><c> this</c><00:14:26.360><c> should</c><00:14:26.519><c> be</c>
+
+00:14:26.670 --> 00:14:26.680 align:start position:0%
+generally speaking this should be
+ 
+
+00:14:26.680 --> 00:14:28.790 align:start position:0%
+generally speaking this should be
+deterministic<00:14:27.440><c> processing</c><00:14:28.399><c> obviously</c><00:14:28.720><c> if</c>
+
+00:14:28.790 --> 00:14:28.800 align:start position:0%
+deterministic processing obviously if
+ 
+
+00:14:28.800 --> 00:14:30.949 align:start position:0%
+deterministic processing obviously if
+you're<00:14:29.279><c> using</c><00:14:29.639><c> non-deterministic</c><00:14:30.639><c> methods</c>
+
+00:14:30.949 --> 00:14:30.959 align:start position:0%
+you're using non-deterministic methods
+ 
+
+00:14:30.959 --> 00:14:32.749 align:start position:0%
+you're using non-deterministic methods
+in<00:14:31.079><c> order</c><00:14:31.279><c> to</c><00:14:31.560><c> create</c><00:14:31.880><c> computations</c><00:14:32.560><c> like</c>
+
+00:14:32.749 --> 00:14:32.759 align:start position:0%
+in order to create computations like
+ 
+
+00:14:32.759 --> 00:14:35.230 align:start position:0%
+in order to create computations like
+time<00:14:33.279><c> then</c><00:14:33.480><c> you're</c><00:14:33.600><c> going</c><00:14:33.720><c> to</c><00:14:33.839><c> have</c><00:14:33.920><c> a</c><00:14:34.240><c> problem</c>
+
+00:14:35.230 --> 00:14:35.240 align:start position:0%
+time then you're going to have a problem
+ 
+
+00:14:35.240 --> 00:14:37.550 align:start position:0%
+time then you're going to have a problem
+um<00:14:35.519><c> but</c><00:14:35.720><c> that</c><00:14:35.880><c> being</c><00:14:36.079><c> said</c><00:14:36.320><c> Flink</c><00:14:36.720><c> is</c><00:14:36.920><c> a</c><00:14:37.240><c> super</c>
+
+00:14:37.550 --> 00:14:37.560 align:start position:0%
+um but that being said Flink is a super
+ 
+
+00:14:37.560 --> 00:14:39.949 align:start position:0%
+um but that being said Flink is a super
+useful<00:14:38.000><c> stream</c><00:14:38.440><c> processing</c><00:14:38.880><c> engine</c><00:14:39.759><c> that</c>
+
+00:14:39.949 --> 00:14:39.959 align:start position:0%
+useful stream processing engine that
+ 
+
+00:14:39.959 --> 00:14:41.990 align:start position:0%
+useful stream processing engine that
+does<00:14:40.240><c> a</c><00:14:40.399><c> lot</c><00:14:40.600><c> for</c><00:14:40.839><c> you</c><00:14:41.120><c> it's</c><00:14:41.279><c> kind</c><00:14:41.440><c> of</c><00:14:41.600><c> got</c><00:14:41.839><c> that</c>
+
+00:14:41.990 --> 00:14:42.000 align:start position:0%
+does a lot for you it's kind of got that
+ 
+
+00:14:42.000 --> 00:14:43.590 align:start position:0%
+does a lot for you it's kind of got that
+similar<00:14:42.399><c> philosophy</c><00:14:42.839><c> to</c><00:14:43.000><c> spark</c><00:14:43.399><c> where</c>
+
+00:14:43.590 --> 00:14:43.600 align:start position:0%
+similar philosophy to spark where
+ 
+
+00:14:43.600 --> 00:14:45.310 align:start position:0%
+similar philosophy to spark where
+basically<00:14:44.079><c> you</c><00:14:44.240><c> go</c><00:14:44.399><c> ahead</c><00:14:44.639><c> and</c><00:14:44.800><c> write</c><00:14:45.120><c> very</c>
+
+00:14:45.310 --> 00:14:45.320 align:start position:0%
+basically you go ahead and write very
+ 
+
+00:14:45.320 --> 00:14:47.870 align:start position:0%
+basically you go ahead and write very
+little<00:14:45.600><c> code</c><00:14:46.519><c> and</c><00:14:46.839><c> on</c><00:14:47.040><c> the</c><00:14:47.240><c> back</c><00:14:47.399><c> end</c><00:14:47.639><c> or</c>
+
+00:14:47.870 --> 00:14:47.880 align:start position:0%
+little code and on the back end or
+ 
+
+00:14:47.880 --> 00:14:49.790 align:start position:0%
+little code and on the back end or
+behind<00:14:48.120><c> the</c><00:14:48.240><c> scenes</c><00:14:48.519><c> it</c><00:14:48.680><c> goes</c><00:14:48.920><c> ahead</c><00:14:49.320><c> and</c><00:14:49.480><c> does</c>
+
+00:14:49.790 --> 00:14:49.800 align:start position:0%
+behind the scenes it goes ahead and does
+ 
+
+00:14:49.800 --> 00:14:52.069 align:start position:0%
+behind the scenes it goes ahead and does
+all<00:14:50.000><c> that</c><00:14:50.240><c> parallelization</c><00:14:51.040><c> for</c><00:14:51.320><c> you</c><00:14:51.800><c> so</c><00:14:51.959><c> you</c>
+
+00:14:52.069 --> 00:14:52.079 align:start position:0%
+all that parallelization for you so you
+ 
+
+00:14:52.079 --> 00:14:53.710 align:start position:0%
+all that parallelization for you so you
+don't<00:14:52.320><c> have</c><00:14:52.440><c> to</c><00:14:52.560><c> worry</c><00:14:52.800><c> about</c><00:14:53.079><c> any</c><00:14:53.240><c> race</c>
+
+00:14:53.710 --> 00:14:53.720 align:start position:0%
+don't have to worry about any race
+ 
+
+00:14:53.720 --> 00:14:55.829 align:start position:0%
+don't have to worry about any race
+conditions<00:14:54.360><c> or</c><00:14:54.600><c> even</c><00:14:54.880><c> partitioning</c><00:14:55.480><c> for</c><00:14:55.639><c> that</c>
+
+00:14:55.829 --> 00:14:55.839 align:start position:0%
+conditions or even partitioning for that
+ 
+
+00:14:55.839 --> 00:14:57.790 align:start position:0%
+conditions or even partitioning for that
+matter<00:14:56.320><c> Flink</c><00:14:56.720><c> just</c><00:14:56.880><c> does</c><00:14:57.040><c> it</c><00:14:57.199><c> all</c><00:14:57.399><c> under</c><00:14:57.639><c> the</c>
+
+00:14:57.790 --> 00:14:57.800 align:start position:0%
+matter Flink just does it all under the
+ 
+
+00:14:57.800 --> 00:15:00.470 align:start position:0%
+matter Flink just does it all under the
+hood<00:14:58.480><c> so</c><00:14:58.680><c> as</c><00:14:58.759><c> a</c><00:14:59.079><c> result</c><00:14:59.320><c> this</c><00:14:59.399><c> is</c><00:14:59.560><c> super</c><00:14:59.839><c> useful</c>
+
+00:15:00.470 --> 00:15:00.480 align:start position:0%
+hood so as a result this is super useful
+ 
+
+00:15:00.480 --> 00:15:02.790 align:start position:0%
+hood so as a result this is super useful
+and<00:15:00.720><c> it</c><00:15:00.920><c> is</c><00:15:01.120><c> used</c><00:15:01.440><c> in</c><00:15:01.639><c> a</c><00:15:01.800><c> ton</c><00:15:02.000><c> of</c><00:15:02.160><c> companies</c><00:15:02.680><c> in</c>
+
+00:15:02.790 --> 00:15:02.800 align:start position:0%
+and it is used in a ton of companies in
+ 
+
+00:15:02.800 --> 00:15:05.389 align:start position:0%
+and it is used in a ton of companies in
+order<00:15:03.040><c> to</c><00:15:03.279><c> process</c><00:15:03.720><c> Big</c><00:15:03.959><c> Data</c><00:15:04.959><c> okay</c><00:15:05.160><c> have</c><00:15:05.279><c> a</c>
+
+00:15:05.389 --> 00:15:05.399 align:start position:0%
+order to process Big Data okay have a
+ 
+
+00:15:05.399 --> 00:15:06.509 align:start position:0%
+order to process Big Data okay have a
+good<00:15:05.519><c> one</c><00:15:05.759><c> guys</c><00:15:05.880><c> and</c><00:15:06.000><c> I'll</c><00:15:06.120><c> see</c><00:15:06.240><c> you</c><00:15:06.320><c> in</c><00:15:06.440><c> the</c>
+
+00:15:06.509 --> 00:15:06.519 align:start position:0%
+good one guys and I'll see you in the
+ 
+
+00:15:06.519 --> 00:15:09.079 align:start position:0%
+good one guys and I'll see you in the
+next<00:15:06.720><c> one</c>
+

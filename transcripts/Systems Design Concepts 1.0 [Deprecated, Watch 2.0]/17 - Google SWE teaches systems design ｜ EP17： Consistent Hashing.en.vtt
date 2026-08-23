@@ -1,0 +1,1424 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.640 --> 00:00:02.230 align:start position:0%
+ 
+hey<00:00:00.880><c> guys</c><00:00:01.199><c> today</c><00:00:01.439><c> we're</c><00:00:01.599><c> back</c><00:00:01.839><c> with</c><00:00:01.920><c> another</c>
+
+00:00:02.230 --> 00:00:02.240 align:start position:0%
+hey guys today we're back with another
+ 
+
+00:00:02.240 --> 00:00:05.190 align:start position:0%
+hey guys today we're back with another
+video<00:00:02.720><c> about</c><00:00:03.040><c> consistent</c><00:00:03.600><c> hashing</c><00:00:04.240><c> um</c>
+
+00:00:05.190 --> 00:00:05.200 align:start position:0%
+video about consistent hashing um
+ 
+
+00:00:05.200 --> 00:00:07.269 align:start position:0%
+video about consistent hashing um
+sorry<00:00:05.600><c> for</c><00:00:06.000><c> lying</c><00:00:06.399><c> more</c><00:00:06.560><c> than</c><00:00:06.720><c> bill</c><00:00:06.960><c> clinton</c>
+
+00:00:07.269 --> 00:00:07.279 align:start position:0%
+sorry for lying more than bill clinton
+ 
+
+00:00:07.279 --> 00:00:09.350 align:start position:0%
+sorry for lying more than bill clinton
+about<00:00:07.520><c> monica</c><00:00:07.919><c> lewinsky</c><00:00:08.480><c> in</c><00:00:08.559><c> terms</c><00:00:08.880><c> of</c><00:00:09.040><c> me</c>
+
+00:00:09.350 --> 00:00:09.360 align:start position:0%
+about monica lewinsky in terms of me
+ 
+
+00:00:09.360 --> 00:00:11.509 align:start position:0%
+about monica lewinsky in terms of me
+keeping<00:00:09.760><c> saying</c><00:00:10.080><c> that</c><00:00:10.320><c> uh</c><00:00:10.960><c> i'm</c><00:00:11.120><c> gonna</c><00:00:11.280><c> have</c>
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+keeping saying that uh i'm gonna have
+ 
+
+00:00:11.519 --> 00:00:13.270 align:start position:0%
+keeping saying that uh i'm gonna have
+cassandra<00:00:12.080><c> next</c><00:00:12.400><c> but</c><00:00:12.559><c> i'm</c><00:00:12.639><c> afraid</c><00:00:12.960><c> you</c><00:00:13.120><c> guys</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+cassandra next but i'm afraid you guys
+ 
+
+00:00:13.280 --> 00:00:14.789 align:start position:0%
+cassandra next but i'm afraid you guys
+are<00:00:13.360><c> gonna</c><00:00:13.519><c> have</c><00:00:13.599><c> to</c><00:00:13.679><c> wait</c><00:00:14.000><c> two</c><00:00:14.160><c> more</c><00:00:14.400><c> videos</c>
+
+00:00:14.789 --> 00:00:14.799 align:start position:0%
+are gonna have to wait two more videos
+ 
+
+00:00:14.799 --> 00:00:16.550 align:start position:0%
+are gonna have to wait two more videos
+longer<00:00:15.200><c> to</c><00:00:15.280><c> be</c><00:00:15.519><c> introduced</c><00:00:15.920><c> to</c><00:00:16.080><c> my</c><00:00:16.240><c> lovely</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+longer to be introduced to my lovely
+ 
+
+00:00:16.560 --> 00:00:19.590 align:start position:0%
+longer to be introduced to my lovely
+lady<00:00:16.800><c> cassandra</c><00:00:17.920><c> because</c><00:00:18.720><c> uh</c><00:00:19.039><c> first</c><00:00:19.359><c> i</c><00:00:19.439><c> gotta</c>
+
+00:00:19.590 --> 00:00:19.600 align:start position:0%
+lady cassandra because uh first i gotta
+ 
+
+00:00:19.600 --> 00:00:21.029 align:start position:0%
+lady cassandra because uh first i gotta
+talk<00:00:19.760><c> about</c><00:00:19.920><c> consistent</c><00:00:20.400><c> hashing</c><00:00:20.800><c> and</c><00:00:20.880><c> then</c><00:00:20.960><c> i</c>
+
+00:00:21.029 --> 00:00:21.039 align:start position:0%
+talk about consistent hashing and then i
+ 
+
+00:00:21.039 --> 00:00:23.189 align:start position:0%
+talk about consistent hashing and then i
+gotta<00:00:21.279><c> talk</c><00:00:21.439><c> about</c><00:00:21.680><c> gossip</c><00:00:22.080><c> protocols</c><00:00:22.960><c> which</c>
+
+00:00:23.189 --> 00:00:23.199 align:start position:0%
+gotta talk about gossip protocols which
+ 
+
+00:00:23.199 --> 00:00:24.790 align:start position:0%
+gotta talk about gossip protocols which
+are<00:00:23.279><c> probably</c><00:00:23.519><c> the</c><00:00:23.680><c> last</c><00:00:23.920><c> two</c><00:00:24.160><c> pieces</c><00:00:24.560><c> of</c><00:00:24.640><c> the</c>
+
+00:00:24.790 --> 00:00:24.800 align:start position:0%
+are probably the last two pieces of the
+ 
+
+00:00:24.800 --> 00:00:27.429 align:start position:0%
+are probably the last two pieces of the
+puzzle<00:00:25.439><c> that</c><00:00:26.160><c> are</c><00:00:26.320><c> kind</c><00:00:26.480><c> of</c><00:00:26.560><c> prerequisites</c><00:00:27.279><c> to</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+puzzle that are kind of prerequisites to
+ 
+
+00:00:27.439 --> 00:00:29.269 align:start position:0%
+puzzle that are kind of prerequisites to
+understanding<00:00:27.920><c> how</c><00:00:28.080><c> cassandra</c><00:00:28.640><c> works</c><00:00:29.199><c> i</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+understanding how cassandra works i
+ 
+
+00:00:29.279 --> 00:00:30.630 align:start position:0%
+understanding how cassandra works i
+don't<00:00:29.439><c> really</c><00:00:29.679><c> think</c><00:00:29.840><c> it</c><00:00:30.000><c> would</c><00:00:30.080><c> be</c><00:00:30.160><c> very</c><00:00:30.400><c> fair</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+don't really think it would be very fair
+ 
+
+00:00:30.640 --> 00:00:33.110 align:start position:0%
+don't really think it would be very fair
+of<00:00:30.800><c> me</c><00:00:31.039><c> if</c><00:00:31.199><c> i</c><00:00:31.359><c> was</c><00:00:31.519><c> just</c><00:00:31.760><c> like</c><00:00:32.320><c> oh</c><00:00:32.480><c> yeah</c><00:00:32.800><c> so</c><00:00:32.960><c> you</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+of me if i was just like oh yeah so you
+ 
+
+00:00:33.120 --> 00:00:34.870 align:start position:0%
+of me if i was just like oh yeah so you
+know<00:00:33.520><c> cassandra</c><00:00:34.079><c> does</c><00:00:34.239><c> sharding</c><00:00:34.640><c> using</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+know cassandra does sharding using
+ 
+
+00:00:34.880 --> 00:00:36.389 align:start position:0%
+know cassandra does sharding using
+consistent<00:00:35.360><c> hashing</c><00:00:35.680><c> and</c><00:00:35.760><c> then</c><00:00:35.920><c> never</c><00:00:36.160><c> bring</c>
+
+00:00:36.389 --> 00:00:36.399 align:start position:0%
+consistent hashing and then never bring
+ 
+
+00:00:36.399 --> 00:00:38.310 align:start position:0%
+consistent hashing and then never bring
+it<00:00:36.480><c> up</c><00:00:36.559><c> in</c><00:00:36.719><c> my</c><00:00:36.880><c> channel</c><00:00:37.200><c> because</c><00:00:37.360><c> that's</c><00:00:37.680><c> like</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+it up in my channel because that's like
+ 
+
+00:00:38.320 --> 00:00:39.910 align:start position:0%
+it up in my channel because that's like
+exactly<00:00:38.719><c> why</c><00:00:38.879><c> i</c><00:00:39.040><c> started</c><00:00:39.360><c> this</c><00:00:39.520><c> in</c><00:00:39.600><c> the</c><00:00:39.680><c> first</c>
+
+00:00:39.910 --> 00:00:39.920 align:start position:0%
+exactly why i started this in the first
+ 
+
+00:00:39.920 --> 00:00:41.270 align:start position:0%
+exactly why i started this in the first
+place<00:00:40.239><c> it</c><00:00:40.320><c> pisses</c><00:00:40.640><c> me</c><00:00:40.800><c> off</c><00:00:40.960><c> that</c><00:00:41.120><c> other</c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+place it pisses me off that other
+ 
+
+00:00:41.280 --> 00:00:43.110 align:start position:0%
+place it pisses me off that other
+channels<00:00:41.680><c> do</c><00:00:41.840><c> that</c><00:00:42.079><c> so</c>
+
+00:00:43.110 --> 00:00:43.120 align:start position:0%
+channels do that so
+ 
+
+00:00:43.120 --> 00:00:44.709 align:start position:0%
+channels do that so
+i'm<00:00:43.200><c> going</c><00:00:43.280><c> to</c><00:00:43.360><c> cover</c><00:00:43.680><c> this</c><00:00:44.239><c> it's</c><00:00:44.399><c> a</c><00:00:44.480><c> really</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+i'm going to cover this it's a really
+ 
+
+00:00:44.719 --> 00:00:47.029 align:start position:0%
+i'm going to cover this it's a really
+short<00:00:44.960><c> video</c><00:00:45.600><c> and</c><00:00:46.160><c> let's</c><00:00:46.320><c> get</c><00:00:46.559><c> through</c><00:00:46.800><c> it</c><00:00:46.879><c> and</c>
+
+00:00:47.029 --> 00:00:47.039 align:start position:0%
+short video and let's get through it and
+ 
+
+00:00:47.039 --> 00:00:48.310 align:start position:0%
+short video and let's get through it and
+then<00:00:47.200><c> get</c><00:00:47.360><c> to</c><00:00:47.520><c> the</c><00:00:47.600><c> next</c><00:00:47.760><c> one</c><00:00:48.000><c> and</c><00:00:48.079><c> then</c><00:00:48.160><c> do</c>
+
+00:00:48.310 --> 00:00:48.320 align:start position:0%
+then get to the next one and then do
+ 
+
+00:00:48.320 --> 00:00:50.470 align:start position:0%
+then get to the next one and then do
+cassandra
+
+00:00:50.470 --> 00:00:50.480 align:start position:0%
+cassandra
+ 
+
+00:00:50.480 --> 00:00:52.630 align:start position:0%
+cassandra
+all<00:00:50.640><c> right</c><00:00:50.960><c> so</c><00:00:51.280><c> consistent</c><00:00:51.840><c> hashing</c><00:00:52.239><c> what</c><00:00:52.480><c> is</c>
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+all right so consistent hashing what is
+ 
+
+00:00:52.640 --> 00:00:53.510 align:start position:0%
+all right so consistent hashing what is
+it
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+it
+ 
+
+00:00:53.520 --> 00:00:54.470 align:start position:0%
+it
+um
+
+00:00:54.470 --> 00:00:54.480 align:start position:0%
+um
+ 
+
+00:00:54.480 --> 00:00:56.790 align:start position:0%
+um
+in<00:00:54.800><c> situations</c><00:00:55.520><c> where</c><00:00:55.760><c> you</c><00:00:55.920><c> have</c><00:00:56.079><c> to</c><00:00:56.399><c> balance</c>
+
+00:00:56.790 --> 00:00:56.800 align:start position:0%
+in situations where you have to balance
+ 
+
+00:00:56.800 --> 00:00:58.709 align:start position:0%
+in situations where you have to balance
+some<00:00:57.039><c> sort</c><00:00:57.280><c> of</c><00:00:57.440><c> load</c><00:00:57.760><c> between</c><00:00:58.000><c> multiple</c><00:00:58.399><c> nodes</c>
+
+00:00:58.709 --> 00:00:58.719 align:start position:0%
+some sort of load between multiple nodes
+ 
+
+00:00:58.719 --> 00:01:00.790 align:start position:0%
+some sort of load between multiple nodes
+in<00:00:58.800><c> a</c><00:00:58.879><c> cluster</c><00:00:59.840><c> and</c><00:01:00.160><c> in</c><00:01:00.399><c> addition</c><00:01:00.640><c> to</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+in a cluster and in addition to
+ 
+
+00:01:00.800 --> 00:01:02.869 align:start position:0%
+in a cluster and in addition to
+balancing<00:01:01.280><c> that</c><00:01:01.440><c> load</c><00:01:01.920><c> want</c><00:01:02.160><c> to</c><00:01:02.399><c> generally</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+balancing that load want to generally
+ 
+
+00:01:02.879 --> 00:01:04.710 align:start position:0%
+balancing that load want to generally
+keep<00:01:03.120><c> it</c><00:01:03.359><c> such</c><00:01:03.600><c> that</c><00:01:03.840><c> the</c><00:01:03.920><c> majority</c><00:01:04.400><c> of</c><00:01:04.479><c> the</c>
+
+00:01:04.710 --> 00:01:04.720 align:start position:0%
+keep it such that the majority of the
+ 
+
+00:01:04.720 --> 00:01:06.310 align:start position:0%
+keep it such that the majority of the
+items<00:01:05.040><c> that</c><00:01:05.199><c> have</c><00:01:05.360><c> already</c><00:01:05.600><c> been</c><00:01:05.840><c> sent</c><00:01:06.080><c> to</c>
+
+00:01:06.310 --> 00:01:06.320 align:start position:0%
+items that have already been sent to
+ 
+
+00:01:06.320 --> 00:01:08.789 align:start position:0%
+items that have already been sent to
+given<00:01:06.560><c> nodes</c><00:01:06.880><c> in</c><00:01:06.960><c> the</c><00:01:07.119><c> cluster</c><00:01:07.920><c> stay</c><00:01:08.320><c> at</c><00:01:08.479><c> those</c>
+
+00:01:08.789 --> 00:01:08.799 align:start position:0%
+given nodes in the cluster stay at those
+ 
+
+00:01:08.799 --> 00:01:10.710 align:start position:0%
+given nodes in the cluster stay at those
+nodes<00:01:09.200><c> when</c><00:01:09.439><c> new</c><00:01:09.680><c> nodes</c><00:01:10.000><c> are</c><00:01:10.159><c> added</c><00:01:10.479><c> or</c>
+
+00:01:10.710 --> 00:01:10.720 align:start position:0%
+nodes when new nodes are added or
+ 
+
+00:01:10.720 --> 00:01:12.630 align:start position:0%
+nodes when new nodes are added or
+removed<00:01:11.119><c> from</c><00:01:11.280><c> the</c><00:01:11.360><c> cluster</c><00:01:12.159><c> consistent</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+removed from the cluster consistent
+ 
+
+00:01:12.640 --> 00:01:14.630 align:start position:0%
+removed from the cluster consistent
+hashing<00:01:13.119><c> is</c><00:01:13.280><c> the</c><00:01:13.439><c> algorithm</c><00:01:13.920><c> for</c><00:01:14.080><c> you</c><00:01:14.400><c> so</c><00:01:14.479><c> i'm</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+hashing is the algorithm for you so i'm
+ 
+
+00:01:14.640 --> 00:01:17.030 align:start position:0%
+hashing is the algorithm for you so i'm
+going to<00:01:14.720><c> go</c><00:01:14.880><c> ahead</c><00:01:15.280><c> and</c><00:01:15.520><c> explain</c><00:01:16.000><c> that</c><00:01:16.720><c> later</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+going to go ahead and explain that later
+ 
+
+00:01:17.040 --> 00:01:19.270 align:start position:0%
+going to go ahead and explain that later
+in<00:01:17.119><c> this</c><00:01:17.280><c> video</c><00:01:18.000><c> but</c><00:01:18.320><c> what</c><00:01:18.479><c> are</c><00:01:18.560><c> the</c><00:01:18.640><c> two</c><00:01:18.880><c> cases</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+in this video but what are the two cases
+ 
+
+00:01:19.280 --> 00:01:21.109 align:start position:0%
+in this video but what are the two cases
+where<00:01:19.439><c> we</c><00:01:19.600><c> see</c><00:01:19.759><c> this</c><00:01:20.000><c> being</c><00:01:20.240><c> useful</c><00:01:20.720><c> well</c><00:01:20.960><c> for</c>
+
+00:01:21.109 --> 00:01:21.119 align:start position:0%
+where we see this being useful well for
+ 
+
+00:01:21.119 --> 00:01:23.270 align:start position:0%
+where we see this being useful well for
+starters<00:01:21.600><c> we've</c><00:01:21.840><c> got</c><00:01:22.159><c> sharding</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+starters we've got sharding
+ 
+
+00:01:23.280 --> 00:01:24.789 align:start position:0%
+starters we've got sharding
+so<00:01:23.520><c> for</c><00:01:23.680><c> example</c><00:01:24.080><c> anytime</c><00:01:24.479><c> you're</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+so for example anytime you're
+ 
+
+00:01:24.799 --> 00:01:26.390 align:start position:0%
+so for example anytime you're
+partitioning<00:01:25.280><c> a</c><00:01:25.439><c> data</c><00:01:25.680><c> set</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+partitioning a data set
+ 
+
+00:01:26.400 --> 00:01:28.469 align:start position:0%
+partitioning a data set
+we<00:01:26.640><c> want</c><00:01:26.880><c> to</c><00:01:27.119><c> make</c><00:01:27.280><c> it</c><00:01:27.439><c> such</c><00:01:27.680><c> that</c><00:01:27.920><c> you're</c><00:01:28.240><c> not</c>
+
+00:01:28.469 --> 00:01:28.479 align:start position:0%
+we want to make it such that you're not
+ 
+
+00:01:28.479 --> 00:01:31.109 align:start position:0%
+we want to make it such that you're not
+rebalancing<00:01:29.360><c> a</c><00:01:29.600><c> ton</c><00:01:30.000><c> of</c><00:01:30.159><c> the</c><00:01:30.320><c> keys</c><00:01:30.880><c> every</c>
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+rebalancing a ton of the keys every
+ 
+
+00:01:31.119 --> 00:01:32.710 align:start position:0%
+rebalancing a ton of the keys every
+single<00:01:31.439><c> time</c><00:01:31.600><c> you're</c><00:01:31.759><c> adding</c><00:01:32.079><c> or</c><00:01:32.159><c> removing</c><00:01:32.560><c> a</c>
+
+00:01:32.710 --> 00:01:32.720 align:start position:0%
+single time you're adding or removing a
+ 
+
+00:01:32.720 --> 00:01:34.469 align:start position:0%
+single time you're adding or removing a
+node<00:01:33.200><c> because</c><00:01:33.520><c> that</c><00:01:33.680><c> would</c><00:01:33.840><c> lead</c><00:01:34.000><c> to</c><00:01:34.159><c> network</c>
+
+00:01:34.469 --> 00:01:34.479 align:start position:0%
+node because that would lead to network
+ 
+
+00:01:34.479 --> 00:01:35.910 align:start position:0%
+node because that would lead to network
+congestion
+
+00:01:35.910 --> 00:01:35.920 align:start position:0%
+congestion
+ 
+
+00:01:35.920 --> 00:01:37.670 align:start position:0%
+congestion
+and<00:01:36.000><c> then</c><00:01:36.159><c> another</c><00:01:36.479><c> situation</c><00:01:37.040><c> we</c><00:01:37.200><c> see</c><00:01:37.360><c> this</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+and then another situation we see this
+ 
+
+00:01:37.680 --> 00:01:39.590 align:start position:0%
+and then another situation we see this
+is<00:01:37.920><c> something</c><00:01:38.320><c> like</c><00:01:38.560><c> a</c><00:01:38.720><c> load</c><00:01:38.960><c> balancer</c><00:01:39.439><c> where</c>
+
+00:01:39.590 --> 00:01:39.600 align:start position:0%
+is something like a load balancer where
+ 
+
+00:01:39.600 --> 00:01:42.469 align:start position:0%
+is something like a load balancer where
+a<00:01:39.680><c> load</c><00:01:39.920><c> balancer</c><00:01:40.479><c> is</c><00:01:40.640><c> directing</c><00:01:41.280><c> traffic</c>
+
+00:01:42.469 --> 00:01:42.479 align:start position:0%
+a load balancer is directing traffic
+ 
+
+00:01:42.479 --> 00:01:44.710 align:start position:0%
+a load balancer is directing traffic
+from<00:01:42.720><c> clients</c><00:01:43.200><c> to</c><00:01:43.439><c> specific</c><00:01:44.079><c> application</c>
+
+00:01:44.710 --> 00:01:44.720 align:start position:0%
+from clients to specific application
+ 
+
+00:01:44.720 --> 00:01:47.190 align:start position:0%
+from clients to specific application
+servers<00:01:45.680><c> and</c><00:01:45.759><c> then</c><00:01:46.000><c> generally</c><00:01:46.479><c> speaking</c><00:01:46.960><c> we</c>
+
+00:01:47.190 --> 00:01:47.200 align:start position:0%
+servers and then generally speaking we
+ 
+
+00:01:47.200 --> 00:01:48.069 align:start position:0%
+servers and then generally speaking we
+want
+
+00:01:48.069 --> 00:01:48.079 align:start position:0%
+want
+ 
+
+00:01:48.079 --> 00:01:50.469 align:start position:0%
+want
+the<00:01:48.640><c> same</c><00:01:48.880><c> requests</c><00:01:49.439><c> or</c><00:01:49.600><c> similar</c><00:01:49.920><c> requests</c><00:01:50.399><c> to</c>
+
+00:01:50.469 --> 00:01:50.479 align:start position:0%
+the same requests or similar requests to
+ 
+
+00:01:50.479 --> 00:01:52.389 align:start position:0%
+the same requests or similar requests to
+be<00:01:50.640><c> going</c><00:01:50.880><c> to</c><00:01:51.040><c> the</c><00:01:51.119><c> same</c><00:01:51.439><c> servers</c>
+
+00:01:52.389 --> 00:01:52.399 align:start position:0%
+be going to the same servers
+ 
+
+00:01:52.399 --> 00:01:54.149 align:start position:0%
+be going to the same servers
+simply<00:01:52.720><c> so</c><00:01:52.960><c> that</c><00:01:53.040><c> we</c><00:01:53.200><c> can</c><00:01:53.360><c> cache</c><00:01:53.759><c> certain</c>
+
+00:01:54.149 --> 00:01:54.159 align:start position:0%
+simply so that we can cache certain
+ 
+
+00:01:54.159 --> 00:01:57.350 align:start position:0%
+simply so that we can cache certain
+previous<00:01:54.960><c> api</c><00:01:55.520><c> calls</c><00:01:55.920><c> or</c><00:01:56.320><c> database</c><00:01:56.880><c> calls</c><00:01:57.200><c> and</c>
+
+00:01:57.350 --> 00:01:57.360 align:start position:0%
+previous api calls or database calls and
+ 
+
+00:01:57.360 --> 00:01:59.190 align:start position:0%
+previous api calls or database calls and
+that<00:01:57.600><c> way</c><00:01:58.159><c> just</c><00:01:58.320><c> have</c><00:01:58.640><c> better</c><00:01:58.960><c> cache</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+that way just have better cache
+ 
+
+00:01:59.200 --> 00:02:01.030 align:start position:0%
+that way just have better cache
+performance<00:01:59.759><c> in</c><00:01:59.840><c> general</c><00:02:00.320><c> more</c><00:02:00.560><c> hits</c><00:02:00.880><c> as</c>
+
+00:02:01.030 --> 00:02:01.040 align:start position:0%
+performance in general more hits as
+ 
+
+00:02:01.040 --> 00:02:03.190 align:start position:0%
+performance in general more hits as
+opposed<00:02:01.280><c> to</c><00:02:01.439><c> misses</c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+opposed to misses
+ 
+
+00:02:03.200 --> 00:02:05.510 align:start position:0%
+opposed to misses
+okay<00:02:04.000><c> so</c><00:02:04.159><c> let's</c><00:02:04.320><c> do</c><00:02:04.479><c> an</c><00:02:04.719><c> overview</c><00:02:05.280><c> of</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+okay so let's do an overview of
+ 
+
+00:02:05.520 --> 00:02:07.830 align:start position:0%
+okay so let's do an overview of
+consistent<00:02:06.079><c> hashing</c><00:02:06.560><c> so</c><00:02:06.719><c> for</c><00:02:06.880><c> starters</c><00:02:07.680><c> we're</c>
+
+00:02:07.830 --> 00:02:07.840 align:start position:0%
+consistent hashing so for starters we're
+ 
+
+00:02:07.840 --> 00:02:09.190 align:start position:0%
+consistent hashing so for starters we're
+going<00:02:08.000><c> to</c><00:02:08.080><c> choose</c><00:02:08.399><c> ourselves</c><00:02:08.800><c> a</c><00:02:08.879><c> hash</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+going to choose ourselves a hash
+ 
+
+00:02:09.200 --> 00:02:11.270 align:start position:0%
+going to choose ourselves a hash
+function<00:02:09.759><c> and</c><00:02:10.080><c> a</c><00:02:10.239><c> hash</c><00:02:10.479><c> function</c><00:02:10.879><c> basically</c>
+
+00:02:11.270 --> 00:02:11.280 align:start position:0%
+function and a hash function basically
+ 
+
+00:02:11.280 --> 00:02:14.470 align:start position:0%
+function and a hash function basically
+takes<00:02:11.599><c> any</c><00:02:11.840><c> input</c><00:02:12.720><c> and</c><00:02:13.280><c> gives</c><00:02:13.599><c> us</c><00:02:13.760><c> an</c><00:02:13.920><c> output</c>
+
+00:02:14.470 --> 00:02:14.480 align:start position:0%
+takes any input and gives us an output
+ 
+
+00:02:14.480 --> 00:02:16.949 align:start position:0%
+takes any input and gives us an output
+for<00:02:15.040><c> uh</c><00:02:15.360><c> for</c><00:02:15.680><c> some</c><00:02:15.920><c> given</c><00:02:16.239><c> range</c><00:02:16.720><c> and</c><00:02:16.879><c> the</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+for uh for some given range and the
+ 
+
+00:02:16.959 --> 00:02:18.630 align:start position:0%
+for uh for some given range and the
+entire<00:02:17.360><c> point</c><00:02:17.520><c> of</c><00:02:17.599><c> a</c><00:02:17.680><c> hash</c><00:02:17.920><c> function</c><00:02:18.319><c> is</c>
+
+00:02:18.630 --> 00:02:18.640 align:start position:0%
+entire point of a hash function is
+ 
+
+00:02:18.640 --> 00:02:20.309 align:start position:0%
+entire point of a hash function is
+basically<00:02:18.959><c> just</c><00:02:19.200><c> a</c><00:02:19.280><c> one-way</c><00:02:19.760><c> function</c><00:02:20.160><c> from</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+basically just a one-way function from
+ 
+
+00:02:20.319 --> 00:02:21.910 align:start position:0%
+basically just a one-way function from
+the<00:02:20.480><c> output</c><00:02:20.800><c> you</c><00:02:20.959><c> can't</c><00:02:21.200><c> really</c><00:02:21.360><c> get</c><00:02:21.599><c> back</c><00:02:21.760><c> the</c>
+
+00:02:21.910 --> 00:02:21.920 align:start position:0%
+the output you can't really get back the
+ 
+
+00:02:21.920 --> 00:02:23.830 align:start position:0%
+the output you can't really get back the
+input<00:02:22.160><c> but</c><00:02:22.319><c> that's</c><00:02:22.480><c> kind</c><00:02:22.640><c> of</c><00:02:22.720><c> irrelevant</c><00:02:23.200><c> here</c>
+
+00:02:23.830 --> 00:02:23.840 align:start position:0%
+input but that's kind of irrelevant here
+ 
+
+00:02:23.840 --> 00:02:25.670 align:start position:0%
+input but that's kind of irrelevant here
+so<00:02:24.080><c> for</c><00:02:24.239><c> the</c><00:02:24.319><c> purposes</c><00:02:24.800><c> of</c><00:02:24.879><c> this</c><00:02:25.040><c> video</c><00:02:25.440><c> let's</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+so for the purposes of this video let's
+ 
+
+00:02:25.680 --> 00:02:27.350 align:start position:0%
+so for the purposes of this video let's
+imagine<00:02:26.000><c> the</c><00:02:26.080><c> hash</c><00:02:26.319><c> function</c><00:02:26.879><c> is</c><00:02:27.040><c> only</c><00:02:27.280><c> going</c>
+
+00:02:27.350 --> 00:02:27.360 align:start position:0%
+imagine the hash function is only going
+ 
+
+00:02:27.360 --> 00:02:30.869 align:start position:0%
+imagine the hash function is only going
+to<00:02:27.440><c> return</c><00:02:27.920><c> the</c><00:02:28.080><c> range</c><00:02:28.480><c> 0</c><00:02:28.800><c> to</c><00:02:28.959><c> 999</c><00:02:30.400><c> and</c><00:02:30.560><c> then</c>
+
+00:02:30.869 --> 00:02:30.879 align:start position:0%
+to return the range 0 to 999 and then
+ 
+
+00:02:30.879 --> 00:02:32.630 align:start position:0%
+to return the range 0 to 999 and then
+i'm<00:02:31.040><c> going</c><00:02:31.280><c> to</c><00:02:31.360><c> put</c><00:02:31.599><c> all</c><00:02:31.760><c> those</c><00:02:32.000><c> outputs</c><00:02:32.400><c> on</c><00:02:32.560><c> a</c>
+
+00:02:32.630 --> 00:02:32.640 align:start position:0%
+i'm going to put all those outputs on a
+ 
+
+00:02:32.640 --> 00:02:35.270 align:start position:0%
+i'm going to put all those outputs on a
+ring<00:02:32.959><c> so</c><00:02:33.200><c> after</c><00:02:33.519><c> 999</c><00:02:34.480><c> you</c><00:02:34.640><c> go</c><00:02:34.800><c> right</c><00:02:34.959><c> back</c><00:02:35.120><c> to</c>
+
+00:02:35.270 --> 00:02:35.280 align:start position:0%
+ring so after 999 you go right back to
+ 
+
+00:02:35.280 --> 00:02:36.150 align:start position:0%
+ring so after 999 you go right back to
+zero
+
+00:02:36.150 --> 00:02:36.160 align:start position:0%
+zero
+ 
+
+00:02:36.160 --> 00:02:38.070 align:start position:0%
+zero
+so<00:02:36.400><c> as</c><00:02:36.640><c> you</c><00:02:36.720><c> can</c><00:02:36.800><c> see</c><00:02:36.959><c> we</c><00:02:37.120><c> have</c><00:02:37.280><c> the</c><00:02:37.440><c> ring</c><00:02:37.680><c> below</c>
+
+00:02:38.070 --> 00:02:38.080 align:start position:0%
+so as you can see we have the ring below
+ 
+
+00:02:38.080 --> 00:02:39.270 align:start position:0%
+so as you can see we have the ring below
+in<00:02:38.160><c> this</c><00:02:38.400><c> image</c>
+
+00:02:39.270 --> 00:02:39.280 align:start position:0%
+in this image
+ 
+
+00:02:39.280 --> 00:02:40.630 align:start position:0%
+in this image
+so
+
+00:02:40.630 --> 00:02:40.640 align:start position:0%
+so
+ 
+
+00:02:40.640 --> 00:02:42.309 align:start position:0%
+so
+let's<00:02:40.879><c> imagine</c><00:02:41.280><c> we</c><00:02:41.360><c> want</c><00:02:41.519><c> to</c><00:02:41.680><c> add</c><00:02:41.840><c> some</c><00:02:42.080><c> nodes</c>
+
+00:02:42.309 --> 00:02:42.319 align:start position:0%
+let's imagine we want to add some nodes
+ 
+
+00:02:42.319 --> 00:02:44.630 align:start position:0%
+let's imagine we want to add some nodes
+to<00:02:42.480><c> a</c><00:02:42.560><c> cluster</c><00:02:43.519><c> because</c><00:02:43.920><c> we</c><00:02:44.080><c> want</c><00:02:44.319><c> to</c><00:02:44.400><c> be</c><00:02:44.560><c> able</c>
+
+00:02:44.630 --> 00:02:44.640 align:start position:0%
+to a cluster because we want to be able
+ 
+
+00:02:44.640 --> 00:02:46.550 align:start position:0%
+to a cluster because we want to be able
+to<00:02:44.800><c> load</c><00:02:45.040><c> balance</c><00:02:45.440><c> between</c><00:02:45.760><c> them</c><00:02:45.920><c> or</c><00:02:46.319><c> use</c>
+
+00:02:46.550 --> 00:02:46.560 align:start position:0%
+to load balance between them or use
+ 
+
+00:02:46.560 --> 00:02:48.470 align:start position:0%
+to load balance between them or use
+consistent<00:02:47.040><c> hashing</c><00:02:47.519><c> to</c>
+
+00:02:48.470 --> 00:02:48.480 align:start position:0%
+consistent hashing to
+ 
+
+00:02:48.480 --> 00:02:50.309 align:start position:0%
+consistent hashing to
+you<00:02:48.640><c> know</c><00:02:48.800><c> balance</c><00:02:49.200><c> resources</c><00:02:49.760><c> between</c><00:02:50.160><c> all</c>
+
+00:02:50.309 --> 00:02:50.319 align:start position:0%
+you know balance resources between all
+ 
+
+00:02:50.319 --> 00:02:51.509 align:start position:0%
+you know balance resources between all
+of<00:02:50.400><c> these</c><00:02:50.640><c> nodes</c>
+
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+of these nodes
+ 
+
+00:02:51.519 --> 00:02:53.589 align:start position:0%
+of these nodes
+so<00:02:51.760><c> in</c><00:02:51.920><c> order</c><00:02:52.160><c> to</c><00:02:52.239><c> add</c><00:02:52.480><c> nodes</c><00:02:52.800><c> to</c><00:02:52.959><c> this</c><00:02:53.120><c> cluster</c>
+
+00:02:53.589 --> 00:02:53.599 align:start position:0%
+so in order to add nodes to this cluster
+ 
+
+00:02:53.599 --> 00:02:55.910 align:start position:0%
+so in order to add nodes to this cluster
+all<00:02:53.760><c> we're</c><00:02:53.920><c> going</c><00:02:54.080><c> to</c><00:02:54.160><c> do</c><00:02:54.480><c> is</c><00:02:55.200><c> perhaps</c><00:02:55.599><c> use</c><00:02:55.840><c> a</c>
+
+00:02:55.910 --> 00:02:55.920 align:start position:0%
+all we're going to do is perhaps use a
+ 
+
+00:02:55.920 --> 00:02:58.149 align:start position:0%
+all we're going to do is perhaps use a
+second<00:02:56.160><c> hash</c><00:02:56.480><c> function</c><00:02:57.200><c> or</c><00:02:57.519><c> use</c><00:02:57.840><c> even</c><00:02:58.000><c> the</c>
+
+00:02:58.149 --> 00:02:58.159 align:start position:0%
+second hash function or use even the
+ 
+
+00:02:58.159 --> 00:03:00.229 align:start position:0%
+second hash function or use even the
+original<00:02:58.800><c> with</c><00:02:59.040><c> something</c><00:02:59.360><c> like</c><00:02:59.519><c> the</c><00:02:59.599><c> node</c><00:02:59.920><c> id</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+original with something like the node id
+ 
+
+00:03:00.239 --> 00:03:02.630 align:start position:0%
+original with something like the node id
+or<00:03:00.400><c> just</c><00:03:00.640><c> even</c><00:03:00.800><c> use</c><00:03:00.959><c> a</c><00:03:01.040><c> randomizer</c><00:03:02.159><c> and</c><00:03:02.239><c> then</c>
+
+00:03:02.630 --> 00:03:02.640 align:start position:0%
+or just even use a randomizer and then
+ 
+
+00:03:02.640 --> 00:03:04.869 align:start position:0%
+or just even use a randomizer and then
+place<00:03:02.959><c> it</c><00:03:03.200><c> on</c><00:03:03.280><c> the</c><00:03:03.440><c> ring</c><00:03:04.000><c> and</c><00:03:04.159><c> then</c><00:03:04.480><c> for</c>
+
+00:03:04.869 --> 00:03:04.879 align:start position:0%
+place it on the ring and then for
+ 
+
+00:03:04.879 --> 00:03:06.390 align:start position:0%
+place it on the ring and then for
+removing<00:03:05.360><c> we</c><00:03:05.440><c> would</c><00:03:05.599><c> go</c><00:03:05.760><c> ahead</c><00:03:05.920><c> and</c><00:03:06.000><c> remove</c><00:03:06.319><c> it</c>
+
+00:03:06.390 --> 00:03:06.400 align:start position:0%
+removing we would go ahead and remove it
+ 
+
+00:03:06.400 --> 00:03:08.149 align:start position:0%
+removing we would go ahead and remove it
+from<00:03:06.560><c> the</c><00:03:06.640><c> ring</c><00:03:07.280><c> in</c><00:03:07.440><c> reality</c><00:03:07.840><c> though</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+from the ring in reality though
+ 
+
+00:03:08.159 --> 00:03:10.470 align:start position:0%
+from the ring in reality though
+typically<00:03:08.640><c> we</c><00:03:08.800><c> don't</c><00:03:09.040><c> just</c><00:03:09.360><c> add</c><00:03:09.680><c> one</c><00:03:10.000><c> circle</c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+typically we don't just add one circle
+ 
+
+00:03:10.480 --> 00:03:12.229 align:start position:0%
+typically we don't just add one circle
+per<00:03:10.720><c> node</c><00:03:10.959><c> to</c><00:03:11.120><c> the</c><00:03:11.200><c> ring</c><00:03:11.440><c> but</c><00:03:11.599><c> we</c><00:03:11.760><c> add</c><00:03:12.000><c> many</c>
+
+00:03:12.229 --> 00:03:12.239 align:start position:0%
+per node to the ring but we add many
+ 
+
+00:03:12.239 --> 00:03:14.869 align:start position:0%
+per node to the ring but we add many
+circles<00:03:12.720><c> the</c><00:03:12.879><c> reason</c><00:03:13.200><c> we</c><00:03:13.360><c> do</c><00:03:13.519><c> this</c><00:03:14.159><c> is</c><00:03:14.319><c> so</c><00:03:14.560><c> that</c>
+
+00:03:14.869 --> 00:03:14.879 align:start position:0%
+circles the reason we do this is so that
+ 
+
+00:03:14.879 --> 00:03:15.750 align:start position:0%
+circles the reason we do this is so that
+um
+
+00:03:15.750 --> 00:03:15.760 align:start position:0%
+um
+ 
+
+00:03:15.760 --> 00:03:17.589 align:start position:0%
+um
+if<00:03:15.920><c> you</c><00:03:16.000><c> were</c><00:03:16.080><c> to</c><00:03:16.239><c> just</c><00:03:16.480><c> add</c><00:03:16.720><c> one</c><00:03:16.959><c> circle</c><00:03:17.360><c> over</c>
+
+00:03:17.589 --> 00:03:17.599 align:start position:0%
+if you were to just add one circle over
+ 
+
+00:03:17.599 --> 00:03:19.509 align:start position:0%
+if you were to just add one circle over
+the<00:03:17.680><c> ring</c><00:03:17.920><c> that</c><00:03:18.159><c> one</c><00:03:18.400><c> circle</c>
+
+00:03:19.509 --> 00:03:19.519 align:start position:0%
+the ring that one circle
+ 
+
+00:03:19.519 --> 00:03:21.990 align:start position:0%
+the ring that one circle
+might<00:03:19.760><c> be</c><00:03:20.159><c> in</c><00:03:20.400><c> like</c><00:03:20.720><c> a</c><00:03:20.879><c> very</c><00:03:21.280><c> unique</c><00:03:21.680><c> portion</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+might be in like a very unique portion
+ 
+
+00:03:22.000 --> 00:03:23.910 align:start position:0%
+might be in like a very unique portion
+of<00:03:22.159><c> the</c><00:03:22.239><c> ring</c><00:03:22.640><c> and</c><00:03:22.959><c> you</c><00:03:23.120><c> know</c>
+
+00:03:23.910 --> 00:03:23.920 align:start position:0%
+of the ring and you know
+ 
+
+00:03:23.920 --> 00:03:26.309 align:start position:0%
+of the ring and you know
+have<00:03:24.159><c> no</c><00:03:24.400><c> other</c><00:03:24.720><c> nodes</c><00:03:25.200><c> close</c><00:03:25.440><c> to</c><00:03:25.599><c> it</c><00:03:25.920><c> and</c><00:03:26.080><c> as</c><00:03:26.239><c> a</c>
+
+00:03:26.309 --> 00:03:26.319 align:start position:0%
+have no other nodes close to it and as a
+ 
+
+00:03:26.319 --> 00:03:28.229 align:start position:0%
+have no other nodes close to it and as a
+result<00:03:26.720><c> it</c><00:03:26.799><c> would</c><00:03:27.040><c> take</c><00:03:27.280><c> up</c><00:03:27.519><c> a</c><00:03:27.680><c> significant</c>
+
+00:03:28.229 --> 00:03:28.239 align:start position:0%
+result it would take up a significant
+ 
+
+00:03:28.239 --> 00:03:30.149 align:start position:0%
+result it would take up a significant
+amount<00:03:28.480><c> of</c><00:03:28.560><c> the</c><00:03:28.640><c> load</c><00:03:28.959><c> and</c><00:03:29.120><c> become</c><00:03:29.360><c> a</c><00:03:29.440><c> hot</c><00:03:29.680><c> spot</c>
+
+00:03:30.149 --> 00:03:30.159 align:start position:0%
+amount of the load and become a hot spot
+ 
+
+00:03:30.159 --> 00:03:32.070 align:start position:0%
+amount of the load and become a hot spot
+so<00:03:30.319><c> it's</c><00:03:30.480><c> better</c><00:03:30.720><c> to</c><00:03:30.879><c> have</c><00:03:31.200><c> multiple</c><00:03:31.680><c> of</c><00:03:31.840><c> these</c>
+
+00:03:32.070 --> 00:03:32.080 align:start position:0%
+so it's better to have multiple of these
+ 
+
+00:03:32.080 --> 00:03:33.830 align:start position:0%
+so it's better to have multiple of these
+like<00:03:32.319><c> virtual</c><00:03:32.799><c> nodes</c><00:03:33.120><c> which</c><00:03:33.360><c> are</c><00:03:33.519><c> just</c><00:03:33.760><c> you</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+like virtual nodes which are just you
+ 
+
+00:03:33.840 --> 00:03:35.589 align:start position:0%
+like virtual nodes which are just you
+know<00:03:34.000><c> copies</c><00:03:34.400><c> of</c><00:03:34.560><c> the</c><00:03:34.640><c> circle</c><00:03:34.959><c> that</c><00:03:35.120><c> we</c><00:03:35.280><c> place</c>
+
+00:03:35.589 --> 00:03:35.599 align:start position:0%
+know copies of the circle that we place
+ 
+
+00:03:35.599 --> 00:03:38.070 align:start position:0%
+know copies of the circle that we place
+around<00:03:35.840><c> the</c><00:03:36.000><c> ring</c><00:03:36.720><c> and</c><00:03:37.120><c> that</c><00:03:37.360><c> helps</c><00:03:37.680><c> us</c><00:03:37.840><c> to</c>
+
+00:03:38.070 --> 00:03:38.080 align:start position:0%
+around the ring and that helps us to
+ 
+
+00:03:38.080 --> 00:03:40.789 align:start position:0%
+around the ring and that helps us to
+more<00:03:38.319><c> evenly</c><00:03:38.720><c> distribute</c><00:03:39.280><c> the</c><00:03:39.360><c> load</c><00:03:39.680><c> per</c><00:03:39.920><c> node</c>
+
+00:03:40.789 --> 00:03:40.799 align:start position:0%
+more evenly distribute the load per node
+ 
+
+00:03:40.799 --> 00:03:44.630 align:start position:0%
+more evenly distribute the load per node
+okay<00:03:41.519><c> so</c><00:03:42.080><c> uh</c><00:03:42.720><c> now</c><00:03:43.040><c> as</c><00:03:43.200><c> you</c><00:03:43.280><c> can</c><00:03:43.440><c> see</c><00:03:43.920><c> um</c><00:03:44.239><c> imagine</c>
+
+00:03:44.630 --> 00:03:44.640 align:start position:0%
+okay so uh now as you can see um imagine
+ 
+
+00:03:44.640 --> 00:03:47.110 align:start position:0%
+okay so uh now as you can see um imagine
+i<00:03:44.799><c> have</c><00:03:44.879><c> nodes</c><00:03:45.280><c> one</c><00:03:45.519><c> two</c><00:03:45.760><c> and</c><00:03:45.920><c> three</c><00:03:46.480><c> and</c><00:03:46.959><c> i'm</c>
+
+00:03:47.110 --> 00:03:47.120 align:start position:0%
+i have nodes one two and three and i'm
+ 
+
+00:03:47.120 --> 00:03:48.789 align:start position:0%
+i have nodes one two and three and i'm
+gonna<00:03:47.280><c> say</c><00:03:47.599><c> okay</c><00:03:47.840><c> for</c><00:03:48.000><c> each</c><00:03:48.239><c> node</c><00:03:48.480><c> we're</c><00:03:48.640><c> gonna</c>
+
+00:03:48.789 --> 00:03:48.799 align:start position:0%
+gonna say okay for each node we're gonna
+ 
+
+00:03:48.799 --> 00:03:51.110 align:start position:0%
+gonna say okay for each node we're gonna
+put<00:03:49.040><c> three</c><00:03:49.599><c> copies</c><00:03:50.080><c> of</c><00:03:50.159><c> that</c><00:03:50.400><c> node</c><00:03:50.799><c> all</c><00:03:50.959><c> over</c>
+
+00:03:51.110 --> 00:03:51.120 align:start position:0%
+put three copies of that node all over
+ 
+
+00:03:51.120 --> 00:03:53.750 align:start position:0%
+put three copies of that node all over
+the<00:03:51.200><c> ring</c><00:03:51.840><c> and</c><00:03:52.000><c> now</c><00:03:52.159><c> we</c><00:03:52.319><c> have</c><00:03:52.560><c> all</c><00:03:52.720><c> these</c><00:03:52.959><c> nodes</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+the ring and now we have all these nodes
+ 
+
+00:03:53.760 --> 00:03:55.910 align:start position:0%
+the ring and now we have all these nodes
+distributed<00:03:54.400><c> hopefully</c><00:03:54.799><c> relatively</c><00:03:55.439><c> evenly</c>
+
+00:03:55.910 --> 00:03:55.920 align:start position:0%
+distributed hopefully relatively evenly
+ 
+
+00:03:55.920 --> 00:03:57.750 align:start position:0%
+distributed hopefully relatively evenly
+throughout<00:03:56.239><c> the</c><00:03:56.319><c> ring</c>
+
+00:03:57.750 --> 00:03:57.760 align:start position:0%
+throughout the ring
+ 
+
+00:03:57.760 --> 00:03:59.750 align:start position:0%
+throughout the ring
+so<00:03:57.920><c> what</c><00:03:58.080><c> are</c><00:03:58.159><c> we</c><00:03:58.239><c> gonna</c><00:03:58.480><c> do</c><00:03:58.959><c> say</c>
+
+00:03:59.750 --> 00:03:59.760 align:start position:0%
+so what are we gonna do say
+ 
+
+00:03:59.760 --> 00:04:02.070 align:start position:0%
+so what are we gonna do say
+we're<00:04:00.080><c> using</c><00:04:00.319><c> this</c><00:04:00.480><c> for</c><00:04:00.640><c> sharding</c><00:04:01.280><c> and</c><00:04:01.680><c> i</c><00:04:01.840><c> have</c>
+
+00:04:02.070 --> 00:04:02.080 align:start position:0%
+we're using this for sharding and i have
+ 
+
+00:04:02.080 --> 00:04:04.470 align:start position:0%
+we're using this for sharding and i have
+the<00:04:02.239><c> key</c><00:04:02.560><c> jordan</c><00:04:03.360><c> and</c><00:04:03.519><c> we</c><00:04:03.680><c> want</c><00:04:03.840><c> to</c><00:04:03.920><c> determine</c>
+
+00:04:04.470 --> 00:04:04.480 align:start position:0%
+the key jordan and we want to determine
+ 
+
+00:04:04.480 --> 00:04:07.110 align:start position:0%
+the key jordan and we want to determine
+where<00:04:04.720><c> to</c><00:04:04.879><c> place</c><00:04:05.200><c> that</c><00:04:05.439><c> key</c><00:04:05.680><c> in</c><00:04:05.840><c> value</c><00:04:06.239><c> pair</c>
+
+00:04:07.110 --> 00:04:07.120 align:start position:0%
+where to place that key in value pair
+ 
+
+00:04:07.120 --> 00:04:08.789 align:start position:0%
+where to place that key in value pair
+first<00:04:07.439><c> all</c><00:04:07.680><c> i'm</c><00:04:07.760><c> going</c><00:04:07.840><c> to</c><00:04:07.920><c> do</c><00:04:08.239><c> is</c><00:04:08.480><c> take</c><00:04:08.720><c> the</c>
+
+00:04:08.789 --> 00:04:08.799 align:start position:0%
+first all i'm going to do is take the
+ 
+
+00:04:08.799 --> 00:04:10.789 align:start position:0%
+first all i'm going to do is take the
+hash<00:04:09.120><c> of</c><00:04:09.200><c> the</c><00:04:09.360><c> key</c><00:04:09.760><c> so</c><00:04:10.000><c> in</c><00:04:10.080><c> this</c><00:04:10.319><c> case</c><00:04:10.640><c> i'm</c>
+
+00:04:10.789 --> 00:04:10.799 align:start position:0%
+hash of the key so in this case i'm
+ 
+
+00:04:10.799 --> 00:04:13.830 align:start position:0%
+hash of the key so in this case i'm
+saying<00:04:11.040><c> the</c><00:04:11.120><c> hash</c><00:04:11.439><c> of</c><00:04:11.519><c> jordan</c><00:04:11.840><c> is</c><00:04:12.000><c> 261</c><00:04:13.439><c> so</c><00:04:13.680><c> as</c>
+
+00:04:13.830 --> 00:04:13.840 align:start position:0%
+saying the hash of jordan is 261 so as
+ 
+
+00:04:13.840 --> 00:04:16.069 align:start position:0%
+saying the hash of jordan is 261 so as
+you<00:04:13.920><c> can</c><00:04:14.080><c> see</c><00:04:14.239><c> on</c><00:04:14.319><c> the</c><00:04:14.480><c> ring</c><00:04:14.720><c> 261</c><00:04:15.760><c> is</c><00:04:15.840><c> a</c><00:04:15.920><c> little</c>
+
+00:04:16.069 --> 00:04:16.079 align:start position:0%
+you can see on the ring 261 is a little
+ 
+
+00:04:16.079 --> 00:04:18.710 align:start position:0%
+you can see on the ring 261 is a little
+bit<00:04:16.320><c> after</c><00:04:16.639><c> that</c><00:04:16.799><c> 250</c><00:04:17.359><c> marker</c>
+
+00:04:18.710 --> 00:04:18.720 align:start position:0%
+bit after that 250 marker
+ 
+
+00:04:18.720 --> 00:04:20.229 align:start position:0%
+bit after that 250 marker
+and<00:04:18.799><c> then</c><00:04:18.959><c> all</c><00:04:19.120><c> we're</c><00:04:19.280><c> going</c><00:04:19.359><c> to</c><00:04:19.440><c> do</c><00:04:19.759><c> is</c><00:04:20.000><c> move</c>
+
+00:04:20.229 --> 00:04:20.239 align:start position:0%
+and then all we're going to do is move
+ 
+
+00:04:20.239 --> 00:04:22.310 align:start position:0%
+and then all we're going to do is move
+clockwise<00:04:20.959><c> around</c><00:04:21.199><c> the</c><00:04:21.359><c> ring</c><00:04:21.680><c> until</c><00:04:22.000><c> reaching</c>
+
+00:04:22.310 --> 00:04:22.320 align:start position:0%
+clockwise around the ring until reaching
+ 
+
+00:04:22.320 --> 00:04:23.990 align:start position:0%
+clockwise around the ring until reaching
+one<00:04:22.479><c> of</c><00:04:22.560><c> the</c><00:04:22.639><c> node</c><00:04:22.960><c> circles</c><00:04:23.360><c> and</c><00:04:23.520><c> send</c><00:04:23.759><c> it</c><00:04:23.840><c> to</c>
+
+00:04:23.990 --> 00:04:24.000 align:start position:0%
+one of the node circles and send it to
+ 
+
+00:04:24.000 --> 00:04:25.990 align:start position:0%
+one of the node circles and send it to
+that<00:04:24.160><c> node</c><00:04:24.720><c> so</c><00:04:24.960><c> pretty</c><00:04:25.199><c> simple</c><00:04:25.759><c> moving</c>
+
+00:04:25.990 --> 00:04:26.000 align:start position:0%
+that node so pretty simple moving
+ 
+
+00:04:26.000 --> 00:04:28.150 align:start position:0%
+that node so pretty simple moving
+clockwise<00:04:26.560><c> we</c><00:04:26.720><c> first</c><00:04:26.960><c> encounter</c><00:04:27.360><c> node</c><00:04:27.600><c> three</c>
+
+00:04:28.150 --> 00:04:28.160 align:start position:0%
+clockwise we first encounter node three
+ 
+
+00:04:28.160 --> 00:04:29.670 align:start position:0%
+clockwise we first encounter node three
+we're<00:04:28.320><c> just</c><00:04:28.479><c> going</c><00:04:28.560><c> to</c><00:04:28.639><c> go</c><00:04:28.800><c> ahead</c><00:04:29.040><c> and</c><00:04:29.199><c> say</c><00:04:29.440><c> now</c>
+
+00:04:29.670 --> 00:04:29.680 align:start position:0%
+we're just going to go ahead and say now
+ 
+
+00:04:29.680 --> 00:04:32.070 align:start position:0%
+we're just going to go ahead and say now
+that<00:04:30.160><c> the</c><00:04:30.320><c> key</c><00:04:30.560><c> jordan</c><00:04:31.040><c> is</c><00:04:31.280><c> going</c><00:04:31.440><c> to</c><00:04:31.600><c> reside</c>
+
+00:04:32.070 --> 00:04:32.080 align:start position:0%
+that the key jordan is going to reside
+ 
+
+00:04:32.080 --> 00:04:34.390 align:start position:0%
+that the key jordan is going to reside
+on<00:04:32.160><c> node</c><00:04:32.479><c> three</c><00:04:33.040><c> so</c><00:04:33.199><c> as</c><00:04:33.440><c> you</c><00:04:33.520><c> can</c><00:04:33.600><c> see</c><00:04:33.919><c> this</c><00:04:34.080><c> is</c>
+
+00:04:34.390 --> 00:04:34.400 align:start position:0%
+on node three so as you can see this is
+ 
+
+00:04:34.400 --> 00:04:36.629 align:start position:0%
+on node three so as you can see this is
+like<00:04:34.560><c> a</c><00:04:34.639><c> pretty</c><00:04:35.280><c> relatively</c><00:04:35.840><c> constant</c><00:04:36.320><c> time</c>
+
+00:04:36.629 --> 00:04:36.639 align:start position:0%
+like a pretty relatively constant time
+ 
+
+00:04:36.639 --> 00:04:38.950 align:start position:0%
+like a pretty relatively constant time
+operation<00:04:37.440><c> in</c><00:04:37.600><c> terms</c><00:04:37.919><c> of</c><00:04:38.080><c> figuring</c><00:04:38.560><c> out</c><00:04:38.720><c> where</c>
+
+00:04:38.950 --> 00:04:38.960 align:start position:0%
+operation in terms of figuring out where
+ 
+
+00:04:38.960 --> 00:04:40.950 align:start position:0%
+operation in terms of figuring out where
+each<00:04:39.280><c> key</c><00:04:39.520><c> is</c><00:04:39.600><c> going</c><00:04:39.840><c> to</c><00:04:39.919><c> be</c><00:04:40.080><c> placed</c>
+
+00:04:40.950 --> 00:04:40.960 align:start position:0%
+each key is going to be placed
+ 
+
+00:04:40.960 --> 00:04:42.870 align:start position:0%
+each key is going to be placed
+and<00:04:41.120><c> in</c><00:04:41.280><c> addition</c><00:04:41.600><c> to</c><00:04:41.680><c> that</c><00:04:42.160><c> it</c><00:04:42.320><c> should</c>
+
+00:04:42.870 --> 00:04:42.880 align:start position:0%
+and in addition to that it should
+ 
+
+00:04:42.880 --> 00:04:45.270 align:start position:0%
+and in addition to that it should
+assuming<00:04:43.440><c> we</c><00:04:43.759><c> have</c><00:04:44.000><c> the</c><00:04:44.160><c> right</c><00:04:44.479><c> number</c><00:04:44.800><c> of</c><00:04:45.040><c> say</c>
+
+00:04:45.270 --> 00:04:45.280 align:start position:0%
+assuming we have the right number of say
+ 
+
+00:04:45.280 --> 00:04:47.590 align:start position:0%
+assuming we have the right number of say
+like<00:04:45.680><c> virtual</c><00:04:46.160><c> nodes</c><00:04:46.560><c> or</c><00:04:46.720><c> just</c><00:04:46.960><c> you</c><00:04:47.040><c> know</c>
+
+00:04:47.590 --> 00:04:47.600 align:start position:0%
+like virtual nodes or just you know
+ 
+
+00:04:47.600 --> 00:04:50.390 align:start position:0%
+like virtual nodes or just you know
+replicated<00:04:48.240><c> circles</c><00:04:48.720><c> per</c><00:04:49.040><c> node</c><00:04:49.280><c> here</c>
+
+00:04:50.390 --> 00:04:50.400 align:start position:0%
+replicated circles per node here
+ 
+
+00:04:50.400 --> 00:04:52.790 align:start position:0%
+replicated circles per node here
+it'll<00:04:50.800><c> make</c><00:04:51.040><c> sure</c><00:04:51.360><c> that</c><00:04:51.600><c> generally</c><00:04:52.160><c> speaking</c>
+
+00:04:52.790 --> 00:04:52.800 align:start position:0%
+it'll make sure that generally speaking
+ 
+
+00:04:52.800 --> 00:04:53.830 align:start position:0%
+it'll make sure that generally speaking
+the
+
+00:04:53.830 --> 00:04:53.840 align:start position:0%
+the
+ 
+
+00:04:53.840 --> 00:04:56.629 align:start position:0%
+the
+load<00:04:54.160><c> balance</c><00:04:54.560><c> is</c><00:04:54.720><c> relatively</c><00:04:55.280><c> even</c><00:04:55.600><c> per</c><00:04:55.840><c> node</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+load balance is relatively even per node
+ 
+
+00:04:56.639 --> 00:04:59.270 align:start position:0%
+load balance is relatively even per node
+okay<00:04:57.040><c> simple</c><00:04:57.360><c> enough</c><00:04:58.000><c> and</c><00:04:58.160><c> then</c><00:04:58.400><c> obviously</c><00:04:59.040><c> if</c>
+
+00:04:59.270 --> 00:04:59.280 align:start position:0%
+okay simple enough and then obviously if
+ 
+
+00:04:59.280 --> 00:05:01.350 align:start position:0%
+okay simple enough and then obviously if
+i<00:04:59.440><c> were</c><00:04:59.680><c> to</c><00:04:59.840><c> remove</c><00:05:00.240><c> a</c><00:05:00.320><c> node</c>
+
+00:05:01.350 --> 00:05:01.360 align:start position:0%
+i were to remove a node
+ 
+
+00:05:01.360 --> 00:05:03.830 align:start position:0%
+i were to remove a node
+since<00:05:01.600><c> you're</c><00:05:01.759><c> removing</c><00:05:02.320><c> all</c><00:05:02.560><c> of</c><00:05:02.639><c> those</c><00:05:03.120><c> uh</c>
+
+00:05:03.830 --> 00:05:03.840 align:start position:0%
+since you're removing all of those uh
+ 
+
+00:05:03.840 --> 00:05:05.830 align:start position:0%
+since you're removing all of those uh
+you<00:05:03.919><c> know</c><00:05:04.160><c> virtual</c><00:05:04.639><c> copies</c><00:05:05.039><c> of</c><00:05:05.199><c> it</c>
+
+00:05:05.830 --> 00:05:05.840 align:start position:0%
+you know virtual copies of it
+ 
+
+00:05:05.840 --> 00:05:08.070 align:start position:0%
+you know virtual copies of it
+then<00:05:06.320><c> in</c><00:05:06.479><c> theory</c><00:05:06.880><c> even</c><00:05:07.120><c> the</c><00:05:07.199><c> rebalancing</c><00:05:07.919><c> on</c><00:05:08.000><c> a</c>
+
+00:05:08.070 --> 00:05:08.080 align:start position:0%
+then in theory even the rebalancing on a
+ 
+
+00:05:08.080 --> 00:05:10.950 align:start position:0%
+then in theory even the rebalancing on a
+removal<00:05:08.560><c> should</c><00:05:08.720><c> be</c><00:05:08.800><c> relatively</c><00:05:09.360><c> even</c><00:05:09.680><c> too</c>
+
+00:05:10.950 --> 00:05:10.960 align:start position:0%
+removal should be relatively even too
+ 
+
+00:05:10.960 --> 00:05:12.950 align:start position:0%
+removal should be relatively even too
+okay<00:05:11.360><c> so</c><00:05:11.520><c> like</c><00:05:11.759><c> i</c><00:05:11.840><c> said</c><00:05:12.080><c> super</c><00:05:12.400><c> quick</c><00:05:12.560><c> video</c>
+
+00:05:12.950 --> 00:05:12.960 align:start position:0%
+okay so like i said super quick video
+ 
+
+00:05:12.960 --> 00:05:15.350 align:start position:0%
+okay so like i said super quick video
+but<00:05:13.199><c> the</c><00:05:13.280><c> summary</c><00:05:13.680><c> of</c><00:05:13.759><c> consistent</c><00:05:14.240><c> hashing</c><00:05:14.800><c> is</c>
+
+00:05:15.350 --> 00:05:15.360 align:start position:0%
+but the summary of consistent hashing is
+ 
+
+00:05:15.360 --> 00:05:17.189 align:start position:0%
+but the summary of consistent hashing is
+it's<00:05:15.520><c> a</c><00:05:15.600><c> good</c><00:05:15.759><c> algorithm</c><00:05:16.320><c> for</c><00:05:16.639><c> distributing</c>
+
+00:05:17.189 --> 00:05:17.199 align:start position:0%
+it's a good algorithm for distributing
+ 
+
+00:05:17.199 --> 00:05:19.990 align:start position:0%
+it's a good algorithm for distributing
+load<00:05:17.520><c> evenly</c><00:05:18.240><c> amongst</c><00:05:18.639><c> nodes</c><00:05:18.880><c> in</c><00:05:19.039><c> a</c><00:05:19.120><c> cluster</c>
+
+00:05:19.990 --> 00:05:20.000 align:start position:0%
+load evenly amongst nodes in a cluster
+ 
+
+00:05:20.000 --> 00:05:22.230 align:start position:0%
+load evenly amongst nodes in a cluster
+and<00:05:20.320><c> making</c><00:05:20.639><c> sure</c><00:05:20.880><c> that</c><00:05:21.199><c> even</c><00:05:21.600><c> on</c><00:05:22.000><c> new</c>
+
+00:05:22.230 --> 00:05:22.240 align:start position:0%
+and making sure that even on new
+ 
+
+00:05:22.240 --> 00:05:24.629 align:start position:0%
+and making sure that even on new
+membership<00:05:22.800><c> or</c><00:05:23.039><c> exits</c><00:05:23.440><c> from</c><00:05:23.600><c> that</c><00:05:23.840><c> cluster</c>
+
+00:05:24.629 --> 00:05:24.639 align:start position:0%
+membership or exits from that cluster
+ 
+
+00:05:24.639 --> 00:05:26.629 align:start position:0%
+membership or exits from that cluster
+that<00:05:25.199><c> the</c><00:05:25.280><c> majority</c><00:05:25.840><c> of</c><00:05:25.919><c> the</c><00:05:26.080><c> items</c><00:05:26.479><c> are</c>
+
+00:05:26.629 --> 00:05:26.639 align:start position:0%
+that the majority of the items are
+ 
+
+00:05:26.639 --> 00:05:28.550 align:start position:0%
+that the majority of the items are
+staying<00:05:26.880><c> in</c><00:05:26.960><c> the</c><00:05:27.039><c> same</c><00:05:27.360><c> place</c><00:05:27.759><c> and</c><00:05:28.000><c> only</c><00:05:28.240><c> a</c><00:05:28.320><c> few</c>
+
+00:05:28.550 --> 00:05:28.560 align:start position:0%
+staying in the same place and only a few
+ 
+
+00:05:28.560 --> 00:05:30.790 align:start position:0%
+staying in the same place and only a few
+of<00:05:28.720><c> them</c><00:05:28.960><c> are</c><00:05:29.120><c> going</c><00:05:29.360><c> to</c><00:05:29.520><c> be</c><00:05:30.080><c> rerouted</c><00:05:30.639><c> to</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+of them are going to be rerouted to
+ 
+
+00:05:30.800 --> 00:05:32.310 align:start position:0%
+of them are going to be rerouted to
+other<00:05:31.039><c> nodes</c>
+
+00:05:32.310 --> 00:05:32.320 align:start position:0%
+other nodes
+ 
+
+00:05:32.320 --> 00:05:34.629 align:start position:0%
+other nodes
+in<00:05:32.479><c> terms</c><00:05:32.880><c> of</c><00:05:33.600><c> it</c><00:05:33.759><c> being</c><00:05:34.000><c> used</c><00:05:34.320><c> in</c><00:05:34.400><c> load</c>
+
+00:05:34.629 --> 00:05:34.639 align:start position:0%
+in terms of it being used in load
+ 
+
+00:05:34.639 --> 00:05:36.230 align:start position:0%
+in terms of it being used in load
+balancers<00:05:35.199><c> this</c><00:05:35.360><c> is</c><00:05:35.440><c> a</c><00:05:35.520><c> very</c><00:05:35.759><c> popular</c>
+
+00:05:36.230 --> 00:05:36.240 align:start position:0%
+balancers this is a very popular
+ 
+
+00:05:36.240 --> 00:05:38.950 align:start position:0%
+balancers this is a very popular
+algorithm<00:05:37.120><c> and</c><00:05:37.600><c> i</c><00:05:37.840><c> also</c><00:05:38.160><c> discussed</c><00:05:38.560><c> it</c><00:05:38.639><c> a</c><00:05:38.720><c> bit</c>
+
+00:05:38.950 --> 00:05:38.960 align:start position:0%
+algorithm and i also discussed it a bit
+ 
+
+00:05:38.960 --> 00:05:41.110 align:start position:0%
+algorithm and i also discussed it a bit
+in<00:05:39.039><c> terms</c><00:05:39.360><c> of</c><00:05:39.440><c> partitioning</c><00:05:40.240><c> and</c><00:05:40.880><c> it's</c>
+
+00:05:41.110 --> 00:05:41.120 align:start position:0%
+in terms of partitioning and it's
+ 
+
+00:05:41.120 --> 00:05:42.790 align:start position:0%
+in terms of partitioning and it's
+especially<00:05:41.600><c> prevalent</c><00:05:41.919><c> in</c><00:05:42.080><c> cassandra</c><00:05:42.639><c> which</c>
+
+00:05:42.790 --> 00:05:42.800 align:start position:0%
+especially prevalent in cassandra which
+ 
+
+00:05:42.800 --> 00:05:44.390 align:start position:0%
+especially prevalent in cassandra which
+i'll<00:05:42.880><c> be</c><00:05:42.960><c> covering</c><00:05:43.280><c> in</c><00:05:43.360><c> a</c><00:05:43.440><c> couple</c><00:05:43.600><c> of</c><00:05:43.680><c> videos</c>
+
+00:05:44.390 --> 00:05:44.400 align:start position:0%
+i'll be covering in a couple of videos
+ 
+
+00:05:44.400 --> 00:05:46.950 align:start position:0%
+i'll be covering in a couple of videos
+which<00:05:44.639><c> is</c><00:05:44.720><c> why</c><00:05:44.960><c> i'm</c><00:05:45.120><c> talking</c><00:05:45.440><c> about</c><00:05:45.680><c> it</c><00:05:45.840><c> now</c>
+
+00:05:46.950 --> 00:05:46.960 align:start position:0%
+which is why i'm talking about it now
+ 
+
+00:05:46.960 --> 00:05:48.550 align:start position:0%
+which is why i'm talking about it now
+so<00:05:47.199><c> yeah</c><00:05:47.520><c> like</c><00:05:47.680><c> i</c><00:05:47.759><c> said</c><00:05:48.000><c> this</c><00:05:48.160><c> one's</c><00:05:48.400><c> pretty</c>
+
+00:05:48.550 --> 00:05:48.560 align:start position:0%
+so yeah like i said this one's pretty
+ 
+
+00:05:48.560 --> 00:05:50.230 align:start position:0%
+so yeah like i said this one's pretty
+simple<00:05:49.120><c> and</c><00:05:49.280><c> it</c><00:05:49.440><c> should</c><00:05:49.600><c> make</c><00:05:49.840><c> a</c><00:05:49.919><c> decent</c>
+
+00:05:50.230 --> 00:05:50.240 align:start position:0%
+simple and it should make a decent
+ 
+
+00:05:50.240 --> 00:05:51.830 align:start position:0%
+simple and it should make a decent
+amount<00:05:50.400><c> of</c><00:05:50.479><c> sense</c><00:05:50.800><c> but</c><00:05:51.039><c> consistent</c><00:05:51.440><c> hashing</c>
+
+00:05:51.830 --> 00:05:51.840 align:start position:0%
+amount of sense but consistent hashing
+ 
+
+00:05:51.840 --> 00:05:53.909 align:start position:0%
+amount of sense but consistent hashing
+is<00:05:51.919><c> just</c><00:05:52.160><c> a</c><00:05:52.240><c> really</c><00:05:52.400><c> good</c><00:05:52.639><c> way</c><00:05:53.120><c> to</c><00:05:53.280><c> make</c><00:05:53.520><c> sure</c>
+
+00:05:53.909 --> 00:05:53.919 align:start position:0%
+is just a really good way to make sure
+ 
+
+00:05:53.919 --> 00:05:56.469 align:start position:0%
+is just a really good way to make sure
+that<00:05:54.639><c> you</c><00:05:54.720><c> can</c><00:05:54.880><c> distribute</c><00:05:55.440><c> things</c><00:05:56.000><c> not</c><00:05:56.240><c> just</c>
+
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+that you can distribute things not just
+ 
+
+00:05:56.479 --> 00:05:59.990 align:start position:0%
+that you can distribute things not just
+evenly<00:05:57.120><c> but</c><00:05:57.360><c> also</c><00:05:57.840><c> in</c><00:05:58.000><c> a</c><00:05:58.080><c> way</c><00:05:58.560><c> that</c><00:05:59.280><c> they</c><00:05:59.520><c> stay</c>
+
+00:05:59.990 --> 00:06:00.000 align:start position:0%
+evenly but also in a way that they stay
+ 
+
+00:06:00.000 --> 00:06:02.390 align:start position:0%
+evenly but also in a way that they stay
+to<00:06:00.319><c> relatively</c><00:06:00.880><c> the</c><00:06:01.039><c> same</c><00:06:01.280><c> spot</c><00:06:01.680><c> even</c><00:06:02.000><c> as</c><00:06:02.240><c> the</c>
+
+00:06:02.390 --> 00:06:02.400 align:start position:0%
+to relatively the same spot even as the
+ 
+
+00:06:02.400 --> 00:06:04.550 align:start position:0%
+to relatively the same spot even as the
+size<00:06:02.800><c> and</c><00:06:02.880><c> members</c><00:06:03.199><c> of</c><00:06:03.280><c> the</c><00:06:03.360><c> cluster</c><00:06:03.840><c> change</c>
+
+00:06:04.550 --> 00:06:04.560 align:start position:0%
+size and members of the cluster change
+ 
+
+00:06:04.560 --> 00:06:07.840 align:start position:0%
+size and members of the cluster change
+okay<00:06:04.880><c> have</c><00:06:05.039><c> a</c><00:06:05.120><c> good</c><00:06:05.199><c> one</c><00:06:05.440><c> guys</c>
+
