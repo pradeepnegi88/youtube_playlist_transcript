@@ -148,6 +148,17 @@ File storage    Object storage or a persistent volume
 
 Serverless-only hosting is not recommended for the downloader because playlist downloads can run longer than a serverless function timeout and local files are not persistent there.
 
+## Vercel Analytics
+
+The static pages load Vercel Web Analytics through `@vercel/analytics`. The bundle is generated during the Vercel build:
+
+```bash
+npm install
+npm run build
+```
+
+After deployment, enable **Web Analytics** in the Vercel project dashboard. Analytics data is collected from the deployed Vercel domain, not from `localhost`.
+
 ## Project structure
 
 ```text
@@ -155,6 +166,8 @@ index.html       Transcript library page
 download.html    Playlist downloader page
 app.js           Browser behavior and API integration
 styles.css       Shared application styling
+analytics.js     Vercel Analytics entrypoint
+package.json     Frontend dependencies and build script
 website.py       HTTP server, API, SQLite jobs, and worker queue
 main.py          YouTube transcript downloader
 transcripts/     Downloaded transcript library
