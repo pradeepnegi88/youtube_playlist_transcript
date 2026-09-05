@@ -116,6 +116,25 @@ vercel
 
 Vercel will serve the library and downloader pages, but it will not run the Python `yt-dlp` worker or provide the local transcript files. Without a hosted API, the deployed UI will show a connection message instead of transcript data.
 
+### Automatic Vercel deployment
+
+The [Vercel GitHub Actions workflow](.github/workflows/vercel-deploy.yml) deploys the frontend automatically whenever code is pushed to `main`. It can also be started manually from the GitHub Actions tab.
+
+Add these repository secrets in **GitHub → Settings → Secrets and variables → Actions**:
+
+| Secret | Value |
+| --- | --- |
+| `VERCEL_TOKEN` | A Vercel personal access token |
+| `VERCEL_ORG_ID` | The Vercel team or account ID |
+| `VERCEL_PROJECT_ID` | The Vercel project ID |
+
+You can find the project and organization IDs in the Vercel project settings or by running:
+
+```bash
+vercel link
+cat .vercel/project.json
+```
+
 To make downloads work from the Vercel deployment, host `website.py` and its worker on Render, Railway, Fly.io, or a VPS, then update the API requests in [app.js](app.js) to use that backend URL and configure CORS.
 
 For public deployment, use a host that supports long-running Python processes or a VPS. A typical architecture is:
