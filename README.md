@@ -105,6 +105,19 @@ The reusable `PlaylistTranscriptDownloader` class is defined in [main.py](main.p
 
 This application is designed first for local use. The downloader uses `yt-dlp`, background workers, SQLite, and local transcript files.
 
+### Deploy the frontend to Vercel
+
+The repository includes [vercel.json](vercel.json) for deploying the static frontend:
+
+```bash
+npm install -g vercel
+vercel
+```
+
+Vercel will serve the library and downloader pages, but it will not run the Python `yt-dlp` worker or provide the local transcript files. Without a hosted API, the deployed UI will show a connection message instead of transcript data.
+
+To make downloads work from the Vercel deployment, host `website.py` and its worker on Render, Railway, Fly.io, or a VPS, then update the API requests in [app.js](app.js) to use that backend URL and configure CORS.
+
 For public deployment, use a host that supports long-running Python processes or a VPS. A typical architecture is:
 
 ```text

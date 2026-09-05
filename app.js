@@ -8,7 +8,13 @@ const api = (url, options) => fetch(url, options).then(async (response) => {
 
 async function init() {
   if ($("#results")) {
-    state.all = await api("/api/catalog"); renderTracks(); render();
+    try {
+      state.all = await api("/api/catalog");
+    } catch (error) {
+      state.all = [];
+      $("#results").innerHTML = `<div class="empty">${escapeHtml(error.message)}<br /><small>Connect this frontend to the Python API to load your transcript library.</small></div>`;
+    }
+    renderTracks(); render();
     $("#search").addEventListener("input", (event) => { state.query = event.target.value.trim().toLowerCase(); state.visible = 12; render(); });
     $("#sort").addEventListener("change", (event) => { state.sort = event.target.value; render(); });
     $("#load-more").addEventListener("click", () => { state.visible += 12; render(); });
@@ -49,7 +55,7 @@ async function startDownload(event) {
       videos: selected, settings: { output_folder: $("#output-folder").value, caption_format: $("#caption-format").value, filename_format: $("#filename-format").value, duplicate_handling: $("#duplicate-handling").value, playlist_title: state.preview?.title }
     })});
     pollDownload(result.id);
-  } catch (error) { showStatus(error.message, "error"); }
+  } catch (error) { showStatus(`${error.message} Start the Python backend or configure the API URL for this deployment.`, "error"); }
 }
 
 async function pollDownload(id) {
