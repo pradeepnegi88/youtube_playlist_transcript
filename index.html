@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#10131c" />
+    <title>Archive — Transcript Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="grain"></div>
+    <header class="topbar">
+      <a class="brand" href="/">
+        <span class="brand-mark">A</span>
+        <span>archive<span class="brand-dot">.</span></span>
+      </a>
+      <nav class="topnav">
+        <a class="topnav-link active" href="/">Library</a>
+        <a class="topnav-link" href="/download.html">Download playlist</a>
+      </nav>
+      <div class="topbar-note"><span class="status-dot"></span> local knowledge base</div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="eyebrow">YOUR PERSONAL LEARNING INDEX</div>
+        <h1>Think better.<br /><em>Learn deeper.</em></h1>
+        <p class="hero-copy">A calm, searchable home for your system design, distributed systems, and German learning transcripts.</p>
+        <div class="search-wrap">
+          <span class="search-icon">⌕</span>
+          <input id="search" type="search" placeholder="Search concepts, lectures, or phrases..." autocomplete="off" />
+          <kbd>⌘ K</kbd>
+        </div>
+        <div class="stats" id="stats"></div>
+      </section>
+
+      <section class="library">
+        <aside class="sidebar">
+          <div class="section-label">COLLECTIONS</div>
+          <nav id="tracks" class="tracks"></nav>
+          <div class="sidebar-card">
+            <span class="sidebar-card-icon">✦</span>
+            <strong>Small steps,<br />compounding knowledge.</strong>
+            <span class="sidebar-card-caption">Read one transcript today.</span>
+          </div>
+        </aside>
+        <div class="results-area">
+          <div class="results-header">
+            <div>
+              <div class="section-label">BROWSE TRANSCRIPTS</div>
+              <h2 id="results-title">All transcripts</h2>
+            </div>
+            <select id="sort" aria-label="Sort transcripts">
+              <option value="order">Playlist order</option>
+              <option value="az">A–Z</option>
+              <option value="length">Longest first</option>
+            </select>
+          </div>
+          <div id="results" class="results"></div>
+          <button id="load-more" class="load-more">Load more</button>
+        </div>
+      </section>
+    </main>
+
+    <div id="reader" class="reader" aria-hidden="true">
+      <div class="reader-backdrop" data-close-reader></div>
+      <article class="reader-panel">
+        <button class="close-reader" data-close-reader aria-label="Close reader">×</button>
+        <div class="reader-meta" id="reader-meta"></div>
+        <h2 id="reader-title"></h2>
+        <div class="reader-tools">
+          <span id="reader-reading-time"></span>
+          <button type="button" id="reader-toc-toggle">TOC</button>
+          <button type="button" id="reader-smaller">A−</button>
+          <button type="button" id="reader-larger">A+</button>
+          <button type="button" id="reader-theme">Theme</button>
+          <button type="button" id="reader-copy">Copy</button>
+          <button type="button" id="reader-download">Download</button>
+          <input id="reader-search" type="search" placeholder="Find in transcript" aria-label="Find in transcript" />
+        </div>
+        <nav id="reader-toc" class="reader-toc" hidden></nav>
+        <div class="reader-rule"></div>
+        <div id="reader-content" class="reader-content"></div>
+      </article>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+</html>
