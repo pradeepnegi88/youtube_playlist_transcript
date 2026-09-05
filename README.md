@@ -137,6 +137,37 @@ cat .vercel/project.json
 
 To make downloads work from the Vercel deployment, host `website.py` and its worker on Render, Railway, Fly.io, or a VPS, then update the API requests in [app.js](app.js) to use that backend URL and configure CORS.
 
+### Deploy the Python backend to Render
+
+The repository includes [render.yaml](render.yaml). In Render, choose **New → Blueprint** and connect this repository. Render will create the Python web service using the included build and start commands.
+
+After deployment, copy the Render service URL, for example:
+
+```text
+https://archive-transcript-api.onrender.com
+```
+
+Set that URL in the `window.ARCHIVE_API_URL` block in both [index.html](index.html) and [download.html](download.html), then push to `main`:
+
+```html
+<script>
+  window.ARCHIVE_API_URL = "https://archive-transcript-api.onrender.com";
+</script>
+```
+
+The Render free service may sleep when idle and can take approximately one minute to wake up. Its local SQLite database and transcript files are not durable across restarts; use persistent storage for production data.
+
+The frontend reads the optional `window.ARCHIVE_API_URL` value as the backend base URL. For example, add this before `app.js` in both HTML pages:
+
+```html
+<script>
+  window.ARCHIVE_API_URL = "https://your-python-backend.example.com";
+</script>
+<script src="/app.js"></script>
+```
+
+Without this backend URL, the Vercel deployment is frontend-only and playlist preview/download requests cannot work.
+
 For public deployment, use a host that supports long-running Python processes or a VPS. A typical architecture is:
 
 ```text

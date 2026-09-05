@@ -4,6 +4,7 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 import json
+import os
 import queue
 import re
 import sqlite3
@@ -21,7 +22,8 @@ from main import (
 
 ROOT = Path(__file__).parent.resolve()
 TRANSCRIPT_ROOTS = [ROOT / "transcripts", ROOT / "Learn German in Hindi"]
-PORT = 8000
+PORT = int(os.environ.get("PORT", "8000"))
+ALLOWED_ORIGIN = os.environ.get("ALLOWED_ORIGIN", "https://youtube-playlist-transcript-sitt.vercel.app")
 DB_PATH = ROOT / "jobs.sqlite3"
 MAX_BODY = 128 * 1024
 MAX_ENTRIES = 200
@@ -182,9 +184,19 @@ class TranscriptHandler(SimpleHTTPRequestHandler):
         self.send_response(status)
         self.send_header("Content-Type", "application/json; charset=utf-8")
         self.send_header("Cache-Control", "no-store")
+        self.send_header("Access-Control-Allow-Origin", ALLOWED_ORIGIN)
+        self.send_header("Access-Control-Allow-Headers", "Content-Type")
+        self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
         self.send_header("Content-Length", str(len(body)))
         self.end_headers()
         self.wfile.write(body)
+
+    def do_OPTIONS(self):
+        self.send_response(204)
+        self.send_header("Access-Control-Allow-Origin", ALLOWED_ORIGIN)
+        self.send_header("Access-Control-Allow-Headers", "Content-Type")
+        self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+        self.end_headers()
 
     def read_payload(self):
         length = int(self.headers.get("Content-Length", "0"))
@@ -321,4 +333,4 @@ start_workers()
 
 if __name__ == "__main__":
     print(f"Transcript library running at http://localhost:{PORT}")
-    ThreadingHTTPServer(("127.0.0.1", PORT), TranscriptHandler).serve_forever()
+    ThreadingHTTPServer(("0.0.0.0", PORT), TranscriptHandler).serve_forever()

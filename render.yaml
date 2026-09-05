@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: archive-transcript-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python website.py
+    envVars:
+      - key: ALLOWED_ORIGIN
+        value: https://youtube-playlist-transcript-sitt.vercel.app

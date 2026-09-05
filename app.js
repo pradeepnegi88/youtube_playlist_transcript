@@ -1,7 +1,23 @@
 const state = { all: [], filtered: [], track: "All collections", query: "", sort: "order", visible: 12, reader: null, preview: null };
 const $ = (selector) => document.querySelector(selector);
-const api = (url, options) => fetch(url, options).then(async (response) => {
-  const result = await response.json();
+const API_BASE = (window.ARCHIVE_API_URL || "").replace(/\/$/, "");
+const api = (url, options) => fetch(`${API_BASE}${url}`, options).then(async (response) => {
+  const contentType = response.headers.get("content-type") || "";
+  const body = await response.text();
+  let result;
+  if (contentType.includes("application/json")) {
+    try {
+      result = JSON.parse(body);
+    } catch {
+      throw new Error("The backend returned invalid JSON.");
+    }
+  } else {
+    throw new Error(
+      API_BASE
+        ? "The configured Python backend returned an unexpected response."
+        : "The Python backend is not connected to this Vercel deployment. Start website.py locally or configure ARCHIVE_API_URL."
+    );
+  }
   if (!response.ok) throw new Error(result.error || "Request failed");
   return result;
 });
