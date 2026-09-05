@@ -27,7 +27,7 @@ ssl._create_default_https_context = lambda: ssl.create_default_context(
 # CONFIG
 # ==========================
 
-PLAYLIST_URL = "https://www.youtube.com/watch?v=G0wpsacaYpE&list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31"
+PLAYLIST_URL = "https://www.youtube.com/watch?v=QNfIUIZQ9Vo&list=PL6W8uoQQ2c62YCR2kkE-0tg3-y1QwaIWk"
 LANGUAGES = ["EN"]
 OUTPUT_DIR = Path("transcripts")
 
