@@ -2,6 +2,15 @@
 
 A local web application for downloading, organizing, and reading YouTube playlist transcripts.
 
+## Project guidance
+
+- [CLAUDE.md](CLAUDE.md): AI coding assistant guidance
+- [AGENTS.md](AGENTS.md): automated agent instructions
+- [CONTRIBUTING.md](CONTRIBUTING.md): contribution workflow
+- [TESTING.md](TESTING.md): testing standards
+- [SECURITY.md](SECURITY.md): security practices
+- [DEPLOYMENT.md](DEPLOYMENT.md): deployment checklist
+
 ## Features
 
 - Preview a YouTube playlist before downloading

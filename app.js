@@ -53,6 +53,7 @@ async function previewPlaylist() {
   try {
     state.preview = await api("/api/preview", { method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({ playlist_url: $("#playlist-url").value }) });
     $("#playlist-preview").hidden = false;
+    $("#settings-card").hidden = false;
     $("#preview-meta").textContent = `${state.preview.title} · ${state.preview.count} videos${state.preview.channel ? ` · ${state.preview.channel}` : ""}`;
     $("#video-list").innerHTML = state.preview.videos.map((video) => `<label class="video-option"><input type="checkbox" checked value="${escapeHtml(video.id)}"><span>${String(video.index).padStart(2, "0")}. ${escapeHtml(video.title)}</span><small>${video.duration ? formatDuration(video.duration) : ""}</small></label>`).join("");
   } catch (error) { showStatus(error.message, "error"); }
