@@ -34,9 +34,7 @@ ssl._create_default_https_context = lambda: ssl.create_default_context(
 # ============================================================
 
 PLAYLIST_URL = (
-    "https://www.youtube.com/watch?"
-    "v=QNfIUIZQ9Vo"
-    "&list=PL6W8uoQQ2c62YCR2kkE-0tg3-y1QwaIWk"
+    "https://www.youtube.com/watch?v=qN8ADjV6Ccg&list=PL6W8uoQQ2c60g3PAgzVPpi0YWwxITD43p"
 )
 
 # Use lowercase YouTube language codes

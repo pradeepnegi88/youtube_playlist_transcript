@@ -15,7 +15,7 @@ from pathlib import Path
 # CONFIG
 # ==========================
 
-TRANSCRIPTS_ROOT = Path("transcripts")
+TRANSCRIPTS_ROOT = Path("transcripts/")
 FULL_SUFFIX = "_FULL_TRANSCRIPT.txt"
 PART1_SUFFIX = "_PART1.txt"
 PART2_SUFFIX = "_PART2.txt"
@@ -53,6 +53,7 @@ def split_file_in_half(file_path: Path):
 
 def main():
     for playlist_dir in TRANSCRIPTS_ROOT.iterdir():
+        print(playlist_dir.name)
         if not playlist_dir.is_dir():
             continue
 
